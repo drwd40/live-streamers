@@ -2,42 +2,68 @@ name: Update Twitch Live Streamers
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/5 * * * *"   # every 5 minutes
   workflow_dispatch:
 
 permissions:
-  contents: write   # ✅ REQUIRED so the workflow can commit to the repo
+  contents: write   # allow git push
 
 jobs:
   update-live-json:
     runs-on: ubuntu-latest
 
     steps:
+      # ------------------------
+      # 1. Checkout repository
+      # ------------------------
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0           # needed for git diff
+          persist-credentials: true # required so we can push
 
+      # ------------------------
+      # 2. Setup Node
+      # ------------------------
       - name: Use Node.js
         uses: actions/setup-node@v4
         with:
           node-version: "20"
 
+      # ------------------------
+      # 3. Install dependencies
+      # ------------------------
       - name: Install dependencies
         run: npm install
 
-      - name: Run live check
+      # ------------------------
+      # 4. Run Twitch live check
+      # ------------------------
+      - name: Generate live.json
         env:
           TWITCH_CLIENT_ID: ${{ secrets.TWITCH_CLIENT_ID }}
           TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
-        run: node check_live.js
-
-      - name: Commit and push live.json if changed
         run: |
-          if git diff --quiet live.json; then
-            echo "No changes to live.json"
+          echo "Running check_live.js..."
+          node check_live.js
+          echo "Done."
+
+      # ------------------------
+      # 5. Commit + push if changed
+      # ------------------------
+      - name: Commit and push changes
+        run: |
+          git add live.json
+
+          # If no changes, exit gracefully
+          if git diff --cached --quiet; then
+            echo "No changes in live.json — skipping commit."
             exit 0
           fi
+
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add live.json
-          git commit -m "Update live.json [ci skip]" || exit 0
-          git push
+
+          git commit -m "Update live.json [ci skip]"
+          git push origin HEAD:main
+          echo "live.json updated & pushed!"
