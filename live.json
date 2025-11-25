@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-25T21:12:20.842Z",
+  "timestamp": "2025-11-25T21:23:52.253Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "bluebird page n' portraits",
       "game": "Art",
       "started_at": "2025-11-25T17:00:04Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "BIRDS ARE DINOSAURS. Here's why. 🦖➡🐦Dicusssing avian origins and doin' fossil science Q&A (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2025-11-25T21:08:39Z"
     },
     {
       "username": "SydHeresy",
@@ -30,12 +36,6 @@
       "title": "a well educated society required",
       "game": "Politics",
       "started_at": "2025-11-25T10:04:03Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "BIRDS ARE DINOSAURS. Here's why. 🦖➡🐦Dicusssing avian origins and doin' fossil science Q&A (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2025-11-25T21:08:39Z"
     },
     {
       "username": "GeoJim2006",
