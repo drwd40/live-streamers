@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-25T22:31:04.903Z",
+  "timestamp": "2025-11-25T22:39:57.669Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,22 @@
       "started_at": "2025-11-24T17:22:14Z"
     },
     {
+      "username": "ipaintbirbs",
+      "title": "bluebird page n' portraits",
+      "game": "Art",
+      "started_at": "2025-11-25T17:00:04Z"
+    },
+    {
       "username": "Paleontologizing",
       "title": "BIRDS ARE DINOSAURS. Here's why. 🦖➡🐦Dicusssing avian origins and doin' fossil science Q&A (w/ paleontologist Danny Anduza)",
       "game": "Science & Technology",
       "started_at": "2025-11-25T21:08:39Z"
     },
     {
-      "username": "ipaintbirbs",
-      "title": "bluebird page n' portraits",
-      "game": "Art",
-      "started_at": "2025-11-25T17:00:04Z"
+      "username": "Zachap",
+      "title": "a well educated society required",
+      "game": "Politics",
+      "started_at": "2025-11-25T10:04:03Z"
     },
     {
       "username": "Rocketology",
@@ -30,12 +36,6 @@
       "title": "Building Eurorack Modules - Electronics - Synthesizers",
       "game": "Science & Technology",
       "started_at": "2025-11-25T19:05:48Z"
-    },
-    {
-      "username": "Zachap",
-      "title": "a well educated society required",
-      "game": "Politics",
-      "started_at": "2025-11-25T10:04:03Z"
     },
     {
       "username": "GeoJim2006",
