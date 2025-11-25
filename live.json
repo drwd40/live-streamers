@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-25T22:07:49.788Z",
+  "timestamp": "2025-11-25T22:18:44.157Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2025-11-24T17:22:14Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "BIRDS ARE DINOSAURS. Here's why. 🦖➡🐦Dicusssing avian origins and doin' fossil science Q&A (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2025-11-25T21:08:39Z"
-    },
-    {
       "username": "ipaintbirbs",
       "title": "bluebird page n' portraits",
       "game": "Art",
       "started_at": "2025-11-25T17:00:04Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "BIRDS ARE DINOSAURS. Here's why. 🦖➡🐦Dicusssing avian origins and doin' fossil science Q&A (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2025-11-25T21:08:39Z"
     },
     {
       "username": "Zachap",
@@ -26,16 +26,16 @@
       "started_at": "2025-11-25T10:04:03Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Building Eurorack Modules - Electronics - Synthesizers",
-      "game": "Science & Technology",
-      "started_at": "2025-11-25T19:05:48Z"
-    },
-    {
       "username": "Rocketology",
       "title": "UnKerbaled Start, Modded Career - Episode 13 (Mods in !discord)",
       "game": "Kerbal Space Program",
       "started_at": "2025-11-25T18:55:31Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Building Eurorack Modules - Electronics - Synthesizers",
+      "game": "Science & Technology",
+      "started_at": "2025-11-25T19:05:48Z"
     },
     {
       "username": "GeoJim2006",
@@ -44,14 +44,8 @@
       "started_at": "2025-11-25T20:36:09Z"
     },
     {
-      "username": "xTalkProgrammer",
-      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
-      "game": "Just Chatting",
-      "started_at": "2025-11-25T20:29:15Z"
-    },
-    {
       "username": "nSimplexPachinko",
-      "title": "Nine Sols, Night 10: Lady",
+      "title": "Nine Sols, Night 10: Lady Ethereal grind",
       "game": "Nine Sols",
       "started_at": "2025-11-25T22:05:05Z"
     }
