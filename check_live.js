@@ -1,7 +1,9 @@
-// check_live.js
+// check_live.js — CDN imports so no npm install needed
+
+import fetch from "https://esm.sh/node-fetch@3";
+import XLSX from "https://esm.sh/xlsx@0.18.5";
 import fs from "fs";
-import fetch from "node-fetch";
-import XLSX from "xlsx";
+
 
 const EXCEL_FILE = "streamers.xlsx";
 const OUTPUT_FILE = "live.json";
