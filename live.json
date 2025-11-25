@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-25T21:39:45.654Z",
+  "timestamp": "2025-11-25T21:46:15.111Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,28 +8,28 @@
       "started_at": "2025-11-24T17:22:14Z"
     },
     {
-      "username": "ipaintbirbs",
-      "title": "bluebird page n' portraits",
-      "game": "Art",
-      "started_at": "2025-11-25T17:00:04Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "BIRDS ARE DINOSAURS. Here's why. 🦖➡🐦Dicusssing avian origins and doin' fossil science Q&A (w/ paleontologist Danny Anduza)",
       "game": "Science & Technology",
       "started_at": "2025-11-25T21:08:39Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Building Eurorack Modules - Electronics - Synthesizers",
-      "game": "Science & Technology",
-      "started_at": "2025-11-25T19:05:48Z"
+      "username": "ipaintbirbs",
+      "title": "bluebird page n' portraits",
+      "game": "Art",
+      "started_at": "2025-11-25T17:00:04Z"
     },
     {
       "username": "Rocketology",
       "title": "UnKerbaled Start, Modded Career - Episode 13 (Mods in !discord)",
       "game": "Kerbal Space Program",
       "started_at": "2025-11-25T18:55:31Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Building Eurorack Modules - Electronics - Synthesizers",
+      "game": "Science & Technology",
+      "started_at": "2025-11-25T19:05:48Z"
     },
     {
       "username": "Zachap",
