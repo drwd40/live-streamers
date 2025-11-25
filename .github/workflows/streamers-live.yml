@@ -1,0 +1,40 @@
+name: Update Twitch Live Streamers
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"  # every 10 minutes
+  workflow_dispatch:        # allow manual run from GitHub UI
+
+jobs:
+  update-live-json:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Use Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run live check
+        env:
+          TWITCH_CLIENT_ID: ${{ secrets.TWITCH_CLIENT_ID }}
+          TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
+        run: node check_live.js
+
+      - name: Commit and push live.json if changed
+        run: |
+          if git diff --quiet live.json; then
+            echo "No changes to live.json"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add live.json
+          git commit -m "Update live.json [ci skip]" || exit 0
+          git push
