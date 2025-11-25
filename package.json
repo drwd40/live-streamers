@@ -1,0 +1,9 @@
+{
+  "name": "live-stream-checker",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "xlsx": "^0.18.5"
+  }
+}
