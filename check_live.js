@@ -119,5 +119,4 @@ async function main() {
 // For GitHub Actions, just do a single run:
 // Auto-run when executed directly
 main();
-setInterval(main, CHECK_INTERVAL_MIN * 60 * 1000);
 
