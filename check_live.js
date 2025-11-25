@@ -117,6 +117,7 @@ async function main() {
 // setInterval(main, CHECK_INTERVAL_MIN * 60 * 1000);
 
 // For GitHub Actions, just do a single run:
-if (require.main === module) {
-  main();
-}
+// Auto-run when executed directly
+main();
+setInterval(main, CHECK_INTERVAL_MIN * 60 * 1000);
+
