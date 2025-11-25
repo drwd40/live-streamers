@@ -2,8 +2,8 @@ name: Update Twitch Live Streamers
 
 on:
   schedule:
-    - cron: "*/5 * * * *"  # every 10 minutes
-  workflow_dispatch:        # allow manual run from GitHub UI
+    - cron: "*/5 * * * *"  # every 10 min
+  workflow_dispatch:
 
 jobs:
   update-live-json:
@@ -17,9 +17,6 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: "20"
-
-      - name: Install dependencies
-        run: npm install
 
       - name: Run live check
         env:
