@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-26T21:40:46.351Z",
+  "timestamp": "2025-11-26T21:47:00.977Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "IAE 2955 !SC !freefly [Drops on]",
       "game": "Star Citizen",
       "started_at": "2025-11-26T19:01:40Z"
+    },
+    {
+      "username": "DrMick",
+      "title": "Therapist Plays GTA IV: Part 5",
+      "game": "Grand Theft Auto IV",
+      "started_at": "2025-11-26T21:44:26Z"
     }
   ]
 }
