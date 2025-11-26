@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-26T16:22:29.063Z",
+  "timestamp": "2025-11-26T16:37:30.058Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "liberalism is right-wing",
       "game": "Politics",
       "started_at": "2025-11-26T10:03:49Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Hanging out, localizing (day 264)",
+      "game": "Software and Game Development",
+      "started_at": "2025-11-26T16:27:36Z"
     },
     {
       "username": "TimberAnew",
