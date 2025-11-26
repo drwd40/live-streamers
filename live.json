@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-26T19:01:32.641Z",
+  "timestamp": "2025-11-26T19:10:13.882Z",
   "live": [
     {
       "username": "Kitboga",
@@ -24,6 +24,12 @@
       "title": "liberalism is right-wing",
       "game": "Politics",
       "started_at": "2025-11-26T10:03:49Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "IAE 2955 !SC !freefly [Drops on]",
+      "game": "Star Citizen",
+      "started_at": "2025-11-26T19:01:40Z"
     }
   ]
 }
