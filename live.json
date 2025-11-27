@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-27T01:02:14.509Z",
+  "timestamp": "2025-11-27T01:39:39.369Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,28 +8,22 @@
       "started_at": "2025-11-26T15:25:46Z"
     },
     {
-      "username": "imreallyimportant",
-      "title": "TWO NATIONAL GUARD TROOPS SHOT NEAR WHITE HOUSE",
-      "game": "Just Chatting",
-      "started_at": "2025-11-26T22:54:56Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "YOUR TURKEY IS A DINOSAUR 🦃=🦖 Let's talk bird ancestry before Theropodsgiving tomorrow (w/ paleontologist Danny Anduza)",
       "game": "Science & Technology",
       "started_at": "2025-11-26T21:10:55Z"
     },
     {
+      "username": "imreallyimportant",
+      "title": "TWO NATIONAL GUARD TROOPS SHOT NEAR WHITE HOUSE",
+      "game": "Just Chatting",
+      "started_at": "2025-11-26T22:54:56Z"
+    },
+    {
       "username": "ipaintbirbs",
       "title": "birbs, at night (they are sleeping)",
       "game": "Art",
       "started_at": "2025-11-26T23:36:09Z"
-    },
-    {
-      "username": "pencenter",
-      "title": "Talking compex analysis w @academyofuselessideas @the_kahler_cone  [!commands💻 !fish🦈]",
-      "game": "Math",
-      "started_at": "2025-11-26T23:53:44Z"
     }
   ]
 }
