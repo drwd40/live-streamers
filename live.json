@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-11-27T01:39:39.369Z",
+  "timestamp": "2025-11-27T02:19:05.330Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "[Badges] #TogetherForGood Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !badge !schedule !video !feed",
-      "game": "Animals, Aquariums, and Zoos",
+      "title": "[Badges] #TogetherForGood Chat Chats w/ Evan | !alveus !institute !pixel !badge !schedule !video !feed",
+      "game": "Just Chatting",
       "started_at": "2025-11-26T15:25:46Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "YOUR TURKEY IS A DINOSAUR 🦃=🦖 Let's talk bird ancestry before Theropodsgiving tomorrow (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2025-11-26T21:10:55Z"
+      "username": "ipaintbirbs",
+      "title": "birbs, at night (they are sleeping)",
+      "game": "Art",
+      "started_at": "2025-11-26T23:36:09Z"
     },
     {
       "username": "imreallyimportant",
@@ -20,10 +20,16 @@
       "started_at": "2025-11-26T22:54:56Z"
     },
     {
-      "username": "ipaintbirbs",
-      "title": "birbs, at night (they are sleeping)",
-      "game": "Art",
-      "started_at": "2025-11-26T23:36:09Z"
+      "username": "SciAnts_Streams",
+      "title": "Wacom Wednesday | Science rabbit holes, science art, and so much more! | Partner+ 254/300 | !ppp !yt !pod !dono",
+      "game": "Science & Technology",
+      "started_at": "2025-11-27T02:01:05Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "PhD Astronomer.  Deep Space.  Cosmology in Crisis?!  Arc Raiders?!  #scientist #space",
+      "game": "Science & Technology",
+      "started_at": "2025-11-27T01:50:29Z"
     }
   ]
 }
