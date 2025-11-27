@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-27T19:16:17.091Z",
+  "timestamp": "2025-11-27T19:24:30.797Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2025-11-26T15:25:46Z"
     },
     {
-      "username": "Zachap",
-      "title": "Learn Things | apparently there's some kind of discount :o",
-      "game": "Politics",
-      "started_at": "2025-11-27T10:03:20Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "THEROPODSGIVING 🦖➡🦃 Today's the day Americans gather 'round the table to dissect a dinosaur (w/ paleontologist Danny Anduza)",
       "game": "Science & Technology",
       "started_at": "2025-11-27T19:09:34Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "Learn Things | apparently there's some kind of discount :o",
+      "game": "Politics",
+      "started_at": "2025-11-27T10:03:20Z"
     }
   ]
 }
