@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-27T11:25:38.852Z",
+  "timestamp": "2025-11-27T11:33:10.992Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "Learn Things | apparently there's some kind of discount :o",
       "game": "Politics",
       "started_at": "2025-11-27T10:03:20Z"
+    },
+    {
+      "username": "Andilippi",
+      "title": "35% off 5+ GIFTED - BIG MIX DAY! Monitor Setup, 3D Printer Repairs, New Settings Tool, Overlay Building, WoW HC",
+      "game": "Just Chatting",
+      "started_at": "2025-11-27T11:29:41Z"
     }
   ]
 }
