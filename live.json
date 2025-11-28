@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-28T05:33:02.104Z",
+  "timestamp": "2025-11-28T05:41:59.878Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,22 @@
       "started_at": "2025-11-26T15:25:46Z"
     },
     {
+      "username": "SciAnts_Streams",
+      "title": "🦃Thanksgiving Community Game Night!🦃 | We are grateful for the colony | Partner+ 273/300 | !ppp !yt !pod !dono",
+      "game": "Just Chatting",
+      "started_at": "2025-11-28T03:05:25Z"
+    },
+    {
       "username": "LottaGlots",
       "title": "home sweet home IRL hangout",
       "game": "Duolingo",
       "started_at": "2025-11-28T05:30:13Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "🦃Thanksgiving Community Game Night!🦃 | We are grateful for the colony | Partner+ 273/300 | !ppp !yt !pod !dono",
-      "game": "Just Chatting",
-      "started_at": "2025-11-28T03:05:25Z"
+      "username": "DrMick",
+      "title": "Mental Health Chat & Chill",
+      "game": "ARC Raiders",
+      "started_at": "2025-11-28T05:35:48Z"
     }
   ]
 }
