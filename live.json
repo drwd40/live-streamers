@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-28T05:41:59.878Z",
+  "timestamp": "2025-11-28T05:49:09.902Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2025-11-28T03:05:25Z"
     },
     {
-      "username": "LottaGlots",
-      "title": "home sweet home IRL hangout",
-      "game": "Duolingo",
-      "started_at": "2025-11-28T05:30:13Z"
-    },
-    {
       "username": "DrMick",
       "title": "Mental Health Chat & Chill",
       "game": "ARC Raiders",
       "started_at": "2025-11-28T05:35:48Z"
+    },
+    {
+      "username": "LottaGlots",
+      "title": "home sweet home IRL hangout",
+      "game": "Duolingo",
+      "started_at": "2025-11-28T05:30:13Z"
     }
   ]
 }
