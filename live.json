@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-28T16:09:11.239Z",
+  "timestamp": "2025-11-28T16:21:10.615Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,12 @@
       "title": "Axe day for the Owlf",
       "game": "Art",
       "started_at": "2025-11-28T15:00:52Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "NOT localization? 👀 (day 266)",
+      "game": "Software and Game Development",
+      "started_at": "2025-11-28T16:14:08Z"
     }
   ]
 }
