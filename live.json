@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-28T20:58:20.103Z",
+  "timestamp": "2025-11-28T21:07:20.653Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "UnKerbaled Start Modded Career - Episode 14",
       "game": "Kerbal Space Program",
       "started_at": "2025-11-28T19:58:40Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Organizing the absurd amount of TODO tasks (day 266½)",
+      "game": "Software and Game Development",
+      "started_at": "2025-11-28T21:02:16Z"
     }
   ]
 }
