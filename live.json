@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-30T23:04:01.527Z",
+  "timestamp": "2025-11-30T23:13:47.542Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,12 @@
       "title": "chill instrumental music",
       "game": "Music",
       "started_at": "2025-11-30T23:02:36Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2025-11-30T23:09:23Z"
     }
   ]
 }
