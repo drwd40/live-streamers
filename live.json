@@ -1,6 +1,12 @@
 {
-  "timestamp": "2025-12-01T16:40:33.604Z",
+  "timestamp": "2025-12-01T16:52:41.392Z",
   "live": [
+    {
+      "username": "Maya",
+      "title": "SOUTH AFRICA RECAP 🦒🐆🦏🦓",
+      "game": "Just Chatting",
+      "started_at": "2025-12-01T16:48:45Z"
+    },
     {
       "username": "AlveusSanctuary",
       "title": "[Badges] #TogetherForGood Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !badge !schedule !video !feed",
@@ -20,16 +26,16 @@
       "started_at": "2025-12-01T10:00:19Z"
     },
     {
-      "username": "TimberAnew",
-      "title": "Carving Petals",
-      "game": "Art",
-      "started_at": "2025-12-01T15:01:45Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "Omg, it's DECEMBER?! (day 267)",
       "game": "Software and Game Development",
       "started_at": "2025-12-01T16:31:38Z"
+    },
+    {
+      "username": "TimberAnew",
+      "title": "Carving Petals",
+      "game": "Art",
+      "started_at": "2025-12-01T15:01:45Z"
     }
   ]
 }
