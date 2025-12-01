@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-12-01T22:59:17.850Z",
+  "timestamp": "2025-12-01T23:08:34.751Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "[Badges] #TogetherForGood Animal Care Chats | !alveus !institute !pixel !badge !schedule !video !feed",
-      "game": "Just Chatting",
+      "title": "[Badges] #TogetherForGood Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !badge !schedule !video !feed",
+      "game": "Animals, Aquariums, and Zoos",
       "started_at": "2025-12-01T16:36:32Z"
     },
     {
@@ -30,6 +30,18 @@
       "title": "Math News Night! Looking at some articles / Let's learn together!",
       "game": "Math",
       "started_at": "2025-12-01T22:04:48Z"
+    },
+    {
+      "username": "imreallyimportant",
+      "title": "ALL EYES ON TOMORROW'S SPECIAL ELECTION IN TENNESSEE | LIB & LEARN @ 7 PM EST",
+      "game": "Just Chatting",
+      "started_at": "2025-12-01T23:04:15Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2025-12-01T23:06:38Z"
     }
   ]
 }
