@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-01T17:01:09.896Z",
+  "timestamp": "2025-12-01T17:11:11.629Z",
   "live": [
     {
       "username": "Maya",
@@ -20,6 +20,12 @@
       "started_at": "2025-12-01T15:51:06Z"
     },
     {
+      "username": "EJ_SA",
+      "title": "EJ'S ARIANESPACE VV28 KOMPSAT-7 VEGA-C LAUNCH COVERAGE!",
+      "game": "Science & Technology",
+      "started_at": "2025-12-01T17:01:53Z"
+    },
+    {
       "username": "AdamLearnsLive",
       "title": "Omg, it's DECEMBER?! (day 267)",
       "game": "Software and Game Development",
@@ -33,7 +39,7 @@
     },
     {
       "username": "TimberAnew",
-      "title": "Carving Petals",
+      "title": "The Pedestrian - Treadmill Time",
       "game": "Art",
       "started_at": "2025-12-01T15:01:45Z"
     }
