@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-01T18:48:32.892Z",
+  "timestamp": "2025-12-01T18:59:49.096Z",
   "live": [
     {
       "username": "Maya",
@@ -36,6 +36,12 @@
       "title": "Liberalism is illiberal",
       "game": "Politics",
       "started_at": "2025-12-01T10:00:19Z"
+    },
+    {
+      "username": "PotteryDojo",
+      "title": "Pottery: Making Bonsai Pots | Throwing | Batch # 16 | Batch Total: 28",
+      "game": "Art",
+      "started_at": "2025-12-01T18:57:12Z"
     }
   ]
 }
