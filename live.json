@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-01T18:15:40.537Z",
+  "timestamp": "2025-12-01T18:30:41.379Z",
   "live": [
     {
       "username": "Maya",
@@ -20,6 +20,12 @@
       "started_at": "2025-12-01T17:01:53Z"
     },
     {
+      "username": "Paleontologizing",
+      "title": "Chill paleontology vibes + fossil Q&A 🦴🔍 Extra early stream today because of SVP leadership meeting @ 2pm (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2025-12-01T18:09:45Z"
+    },
+    {
       "username": "AdamLearnsLive",
       "title": "Omg, it's DECEMBER?! (day 267)",
       "game": "Software and Game Development",
@@ -30,18 +36,6 @@
       "title": "Liberalism is illiberal",
       "game": "Politics",
       "started_at": "2025-12-01T10:00:19Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "Chill paleontology vibes + fossil Q&A 🦴🔍 Extra early stream today because of SVP leadership meeting @ 2pm (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2025-12-01T18:09:45Z"
-    },
-    {
-      "username": "TimberAnew",
-      "title": "The Pedestrian - Treadmill Time",
-      "game": "Art",
-      "started_at": "2025-12-01T15:01:45Z"
     }
   ]
 }
