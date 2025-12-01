@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-01T20:52:39.684Z",
+  "timestamp": "2025-12-01T20:59:13.827Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -27,9 +27,15 @@
     },
     {
       "username": "PotteryDojo",
-      "title": "Pottery: Making Bonsai Pots | Throwing | Batch # 17 | Batch Total: 13",
+      "title": "Pottery: Making Bonsai Pots | Throwing | Batch # 17 | Batch Total: 14",
       "game": "Art",
       "started_at": "2025-12-01T18:57:12Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Localize it (day 267½)",
+      "game": "Software and Game Development",
+      "started_at": "2025-12-01T20:53:43Z"
     },
     {
       "username": "eToThe2iPi",
