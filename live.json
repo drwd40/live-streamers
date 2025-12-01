@@ -1,9 +1,9 @@
 {
-  "timestamp": "2025-12-01T19:54:09.759Z",
+  "timestamp": "2025-12-01T19:59:42.788Z",
   "live": [
     {
       "username": "Maya",
-      "title": "SOUTH AFRICA RECAP 🦒🐆🦏🦓",
+      "title": "SOUTH AFRICA RECAP 🦒🐆🦏🦓 !hellofresh #ad",
       "game": "Just Chatting",
       "started_at": "2025-12-01T16:48:45Z"
     },
@@ -39,9 +39,15 @@
     },
     {
       "username": "PotteryDojo",
-      "title": "Pottery: Making Bonsai Pots | Throwing | Batch # 17 | Batch Total: 4",
+      "title": "Pottery: Making Bonsai Pots | Throwing | Batch # 17 | Batch Total: 5",
       "game": "Art",
       "started_at": "2025-12-01T18:57:12Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Upgrade the Stream Software: Working on a New Intro Game + The Queue System + Sixteen + MORE!",
+      "game": "Software and Game Development",
+      "started_at": "2025-12-01T19:54:01Z"
     }
   ]
 }
