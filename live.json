@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-01T05:32:19.292Z",
+  "timestamp": "2025-12-01T05:45:04.474Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "SciAnts Sunday | First ever play of Minecraft + in game science! | Partner+ 326/300 | !ppp !yt !pod !dono",
       "game": "Minecraft",
       "started_at": "2025-12-01T01:59:47Z"
+    },
+    {
+      "username": "DrMick",
+      "title": "Therapist Plays GTA IV: Part 6 | !links",
+      "game": "Grand Theft Auto IV",
+      "started_at": "2025-12-01T05:35:25Z"
     }
   ]
 }
