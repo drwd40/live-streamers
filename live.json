@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-02T16:21:31.171Z",
+  "timestamp": "2025-12-02T16:37:41.240Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "the state makes having ethics criminal",
       "game": "Politics",
       "started_at": "2025-12-02T10:02:21Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Working—what else? (day 268)",
+      "game": "Software and Game Development",
+      "started_at": "2025-12-02T16:28:29Z"
     }
   ]
 }
