@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-02T21:45:43.344Z",
+  "timestamp": "2025-12-02T21:52:05.705Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,6 +32,12 @@
       "started_at": "2025-12-02T19:30:05Z"
     },
     {
+      "username": "Paleontologizing",
+      "title": "Let's save the Endangered Species Act 🦅🐟🐢 Discussing what can fossils can tell us about conservation and why it's so important",
+      "game": "Science & Technology",
+      "started_at": "2025-12-02T21:43:31Z"
+    },
+    {
       "username": "ActualEducation",
       "title": "24 HOURS of Office Hours Free Tutoring for #givingtuesday Stream!",
       "game": "Just Chatting",
@@ -42,12 +48,6 @@
       "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
       "game": "Just Chatting",
       "started_at": "2025-12-02T20:18:16Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "Let's save the Endangered Species Act 🦅🐟🐢 Discussing what can fossils can tell us about conservation and why it's so important",
-      "game": "Science & Technology",
-      "started_at": "2025-12-02T21:43:31Z"
     }
   ]
 }
