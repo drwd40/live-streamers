@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-02T20:17:04.035Z",
+  "timestamp": "2025-12-02T20:31:00.438Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2025-12-02T17:00:33Z"
     },
     {
-      "username": "Zachap",
-      "title": "the state makes having ethics criminal",
-      "game": "Politics",
-      "started_at": "2025-12-02T10:02:21Z"
-    },
-    {
       "username": "oh_bother",
       "title": "Electric dog collar: Getting our usermod to compile! this dog is gonna SPARKLE.",
       "game": "Just Chatting",
       "started_at": "2025-12-02T17:40:03Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "the state makes having ethics criminal",
+      "game": "Politics",
+      "started_at": "2025-12-02T10:02:21Z"
     },
     {
       "username": "SydHeresy",
@@ -42,6 +42,12 @@
       "title": "Tuesday December 2nd  @ 2:30 pm EST: Project Update! Too many projects?",
       "game": "Science & Technology",
       "started_at": "2025-12-02T19:26:33Z"
+    },
+    {
+      "username": "xTalkProgrammer",
+      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
+      "game": "Just Chatting",
+      "started_at": "2025-12-02T20:18:16Z"
     }
   ]
 }
