@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-02T21:24:46.432Z",
+  "timestamp": "2025-12-02T21:32:37.461Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2025-12-02T17:00:33Z"
     },
     {
-      "username": "oh_bother",
-      "title": "Electric dog collar: Getting our usermod to compile! this dog is gonna SPARKLE.",
-      "game": "Just Chatting",
-      "started_at": "2025-12-02T17:40:03Z"
-    },
-    {
       "username": "Zachap",
       "title": "the state makes having ethics criminal",
       "game": "Politics",
       "started_at": "2025-12-02T10:02:21Z"
+    },
+    {
+      "username": "oh_bother",
+      "title": "Electric dog collar: Getting our usermod to compile! this dog is gonna SPARKLE.",
+      "game": "Just Chatting",
+      "started_at": "2025-12-02T17:40:03Z"
     },
     {
       "username": "SydHeresy",
