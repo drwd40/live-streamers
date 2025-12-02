@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-02T17:53:23.525Z",
+  "timestamp": "2025-12-02T17:59:17.468Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2025-12-02T10:02:21Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "24 HOURS of Office Hours Free Tutoring for #givingtuesday Stream!",
-      "game": "Just Chatting",
-      "started_at": "2025-12-02T16:59:26Z"
-    },
-    {
       "username": "oh_bother",
       "title": "Electric dog collar: Getting our usermod to compile! this dog is gonna SPARKLE.",
       "game": "Just Chatting",
       "started_at": "2025-12-02T17:40:03Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "24 HOURS of Office Hours Free Tutoring for #givingtuesday Stream!",
+      "game": "Just Chatting",
+      "started_at": "2025-12-02T16:59:26Z"
     }
   ]
 }
