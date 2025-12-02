@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-02T21:03:16.197Z",
+  "timestamp": "2025-12-02T21:12:57.446Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2025-12-02T10:02:21Z"
     },
     {
-      "username": "oh_bother",
-      "title": "Electric dog collar: Getting our usermod to compile! this dog is gonna SPARKLE.",
-      "game": "Just Chatting",
-      "started_at": "2025-12-02T17:40:03Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Parts Are In For Solderin' - Electronics - DIY - Synths",
       "game": "Science & Technology",
       "started_at": "2025-12-02T19:30:05Z"
+    },
+    {
+      "username": "oh_bother",
+      "title": "Electric dog collar: Getting our usermod to compile! this dog is gonna SPARKLE.",
+      "game": "Just Chatting",
+      "started_at": "2025-12-02T17:40:03Z"
     },
     {
       "username": "ActualEducation",
