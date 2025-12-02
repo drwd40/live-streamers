@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-02T17:11:28.463Z",
+  "timestamp": "2025-12-02T17:23:39.591Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2025-12-02T17:00:33Z"
     },
     {
-      "username": "Zachap",
-      "title": "the state makes having ethics criminal",
-      "game": "Politics",
-      "started_at": "2025-12-02T10:02:21Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "Working—what else? (day 268)",
       "game": "Software and Game Development",
       "started_at": "2025-12-02T16:28:29Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "the state makes having ethics criminal",
+      "game": "Politics",
+      "started_at": "2025-12-02T10:02:21Z"
     },
     {
       "username": "ActualEducation",
