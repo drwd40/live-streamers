@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-02T01:10:09.222Z",
+  "timestamp": "2025-12-02T01:51:10.209Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,22 +8,10 @@
       "started_at": "2025-12-01T16:36:32Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "EJ's Space and Rocket Revue! 12/1/25",
-      "game": "Science & Technology",
-      "started_at": "2025-12-01T17:01:53Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "ALL EYES ON TOMORROW'S SPECIAL ELECTION IN TENNESSEE | LIB & LEARN @ 7 PM EST",
       "game": "Just Chatting",
       "started_at": "2025-12-01T23:04:15Z"
-    },
-    {
-      "username": "VolcanoDoc",
-      "title": "Short Science CoWorking Stream | 🌋 Science Monday | !giveaway !phd !tkf !socials !pubs",
-      "game": "Co-working & Studying",
-      "started_at": "2025-12-01T23:45:51Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -36,6 +24,12 @@
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Just Chatting",
       "started_at": "2025-12-01T23:06:38Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Holiday Tree Lighting!  Monday Night Science Chill.  Maybe a Falcon 9 launch if I can stay awake!  #scientist #space #nasa",
+      "game": "Science & Technology",
+      "started_at": "2025-12-02T01:48:25Z"
     }
   ]
 }
