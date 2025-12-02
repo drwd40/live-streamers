@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-02T22:16:46.338Z",
+  "timestamp": "2025-12-02T22:27:59.919Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,22 +26,28 @@
       "started_at": "2025-12-02T10:02:21Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Parts Are In For Solderin' - Electronics - DIY - Synths",
-      "game": "Science & Technology",
-      "started_at": "2025-12-02T19:30:05Z"
-    },
-    {
       "username": "ActualEducation",
       "title": "24 HOURS of Office Hours Free Tutoring for #givingtuesday Stream!",
       "game": "Just Chatting",
       "started_at": "2025-12-02T16:59:26Z"
     },
     {
+      "username": "SydHeresy",
+      "title": "Parts Are In For Solderin' - Electronics - DIY - Synths",
+      "game": "Science & Technology",
+      "started_at": "2025-12-02T19:30:05Z"
+    },
+    {
       "username": "xTalkProgrammer",
       "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
       "game": "Just Chatting",
       "started_at": "2025-12-02T20:18:16Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Nine Sols, Night 11: Facing Ji, The Taoist Monk...?",
+      "game": "Nine Sols",
+      "started_at": "2025-12-02T22:18:29Z"
     }
   ]
 }
