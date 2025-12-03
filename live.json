@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-03T02:23:23.241Z",
+  "timestamp": "2025-12-03T02:57:51.883Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,6 +20,12 @@
       "started_at": "2025-12-02T17:00:33Z"
     },
     {
+      "username": "SciAnts_Streams",
+      "title": "Giving Tuesday for HIV/AIDS research | Super hero science, Marvel Cosmic Invasion and more! | Partner+ 21/300 | !ppp !yt !pod !dono",
+      "game": "Science & Technology",
+      "started_at": "2025-12-03T02:00:10Z"
+    },
+    {
       "username": "AstroCanuck",
       "title": "Live Astrophotography: Backyard Telescope Shares the Cosmos | NEW 89 BITS | !drop !tkf",
       "game": "Science & Technology",
@@ -32,22 +38,16 @@
       "started_at": "2025-12-02T19:30:05Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "Giving Tuesday for HIV/AIDS research | Super hero science, Marvel Cosmic Invasion and more! | Partner+ 21/300 | !ppp !yt !pod !dono",
-      "game": "Science & Technology",
-      "started_at": "2025-12-03T02:00:10Z"
-    },
-    {
       "username": "Rocketology",
       "title": "UnKerbaled Start Modded Career - Episode 15",
       "game": "Kerbal Space Program",
       "started_at": "2025-12-03T00:40:16Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "24 HOURS of Office Hours Free Tutoring for #givingtuesday Stream!",
-      "game": "Just Chatting",
-      "started_at": "2025-12-02T16:59:26Z"
+      "username": "Nerduino",
+      "title": "Tuesday Space Science.  Checking out the Moon! #scientist #space #nasa",
+      "game": "Science & Technology",
+      "started_at": "2025-12-03T01:49:31Z"
     },
     {
       "username": "Mr_Aejis",
@@ -62,10 +62,10 @@
       "started_at": "2025-12-03T00:21:07Z"
     },
     {
-      "username": "Nerduino",
-      "title": "Tuesday Space Science.  Checking out the Moon! #scientist #space #nasa",
-      "game": "Science & Technology",
-      "started_at": "2025-12-03T01:49:31Z"
+      "username": "ActualEducation",
+      "title": "24 HOURS of Office Hours Free Tutoring for #givingtuesday Stream!",
+      "game": "Just Chatting",
+      "started_at": "2025-12-02T16:59:26Z"
     }
   ]
 }
