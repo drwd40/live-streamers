@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-03T21:15:45.650Z",
+  "timestamp": "2025-12-03T21:25:48.682Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "FOSSIL NEWS and viewer Q&A 🦖❔💬 Let's talk about what's new in vertebrate paleontology (w/ paleontologist Danny Anduza)",
       "game": "Science & Technology",
       "started_at": "2025-12-03T21:13:53Z"
+    },
+    {
+      "username": "DrMick",
+      "title": "Therapist Plays GTA IV: Part 7",
+      "game": "Grand Theft Auto IV",
+      "started_at": "2025-12-03T21:24:36Z"
     }
   ]
 }
