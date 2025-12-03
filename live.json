@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-03T16:49:27.951Z",
+  "timestamp": "2025-12-03T16:59:06.064Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2025-12-03T15:01:17Z"
     },
     {
-      "username": "Zachap",
-      "title": "the government is capitalist",
-      "game": "Politics",
-      "started_at": "2025-12-03T10:02:25Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "Cleaning up (day 269)",
       "game": "Software and Game Development",
       "started_at": "2025-12-03T16:20:15Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "the government is capitalist",
+      "game": "Politics",
+      "started_at": "2025-12-03T10:02:25Z"
     },
     {
       "username": "ActualEducation",
