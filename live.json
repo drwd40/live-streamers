@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-03T20:42:11.709Z",
+  "timestamp": "2025-12-03T20:50:43.488Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2025-12-03T15:01:17Z"
     },
     {
-      "username": "Zachap",
-      "title": "the government is capitalist",
-      "game": "Politics",
-      "started_at": "2025-12-03T10:02:25Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "Time for LLM translations! (day 269½)",
       "game": "Software and Game Development",
       "started_at": "2025-12-03T20:26:16Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "the government is capitalist",
+      "game": "Politics",
+      "started_at": "2025-12-03T10:02:25Z"
     }
   ]
 }
