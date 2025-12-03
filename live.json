@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-03T02:57:51.883Z",
+  "timestamp": "2025-12-03T03:30:38.050Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -9,7 +9,7 @@
     },
     {
       "username": "imreallyimportant",
-      "title": "LIVE: TENNESSEE 7TH CONGRESSIONAL DISTRICT SPECIAL ELECTION RESULTS",
+      "title": "TENNESSEE 7TH CONGRESSIONAL DISTRICT SPECIAL ELECTION RESULTS",
       "game": "Just Chatting",
       "started_at": "2025-12-02T22:59:44Z"
     },
@@ -38,22 +38,16 @@
       "started_at": "2025-12-02T19:30:05Z"
     },
     {
-      "username": "Rocketology",
-      "title": "UnKerbaled Start Modded Career - Episode 15",
-      "game": "Kerbal Space Program",
-      "started_at": "2025-12-03T00:40:16Z"
-    },
-    {
       "username": "Nerduino",
       "title": "Tuesday Space Science.  Checking out the Moon! #scientist #space #nasa",
       "game": "Science & Technology",
       "started_at": "2025-12-03T01:49:31Z"
     },
     {
-      "username": "Mr_Aejis",
-      "title": "A Teacher Plays: Honkai Star Rail",
-      "game": "Honkai: Star Rail",
-      "started_at": "2025-12-03T01:36:28Z"
+      "username": "Rocketology",
+      "title": "UnKerbaled Start Modded Career - Episode 15",
+      "game": "Kerbal Space Program",
+      "started_at": "2025-12-03T00:40:16Z"
     },
     {
       "username": "MelissaInDeNile",
@@ -66,6 +60,12 @@
       "title": "24 HOURS of Office Hours Free Tutoring for #givingtuesday Stream!",
       "game": "Just Chatting",
       "started_at": "2025-12-02T16:59:26Z"
+    },
+    {
+      "username": "Mr_Aejis",
+      "title": "A Teacher Plays: Honkai Star Rail",
+      "game": "Honkai: Star Rail",
+      "started_at": "2025-12-03T01:36:28Z"
     }
   ]
 }
