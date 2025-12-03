@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-03T04:16:59.525Z",
+  "timestamp": "2025-12-03T04:31:19.890Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,12 +38,6 @@
       "started_at": "2025-12-03T01:49:31Z"
     },
     {
-      "username": "Rocketology",
-      "title": "UnKerbaled Start Modded Career - Episode 15",
-      "game": "Kerbal Space Program",
-      "started_at": "2025-12-03T00:40:16Z"
-    },
-    {
       "username": "MelissaInDeNile",
       "title": "More LEGO Pirates of the Caribbean!! Onto Movies 2 & 3!! ~ Follower Goal: 2222/2300 ~ !socials !beyonddenile",
       "game": "LEGO Pirates of the Caribbean: The Video Game",
@@ -56,16 +50,16 @@
       "started_at": "2025-12-03T04:01:36Z"
     },
     {
-      "username": "Mr_Aejis",
-      "title": "A Teacher Plays: Honkai Star Rail",
-      "game": "Honkai: Star Rail",
-      "started_at": "2025-12-03T01:36:28Z"
-    },
-    {
       "username": "ActualEducation",
       "title": "24 HOURS of Office Hours Free Tutoring for #givingtuesday Stream!",
       "game": "Just Chatting",
       "started_at": "2025-12-02T16:59:26Z"
+    },
+    {
+      "username": "Mr_Aejis",
+      "title": "A Teacher Plays: Honkai Star Rail",
+      "game": "Honkai: Star Rail",
+      "started_at": "2025-12-03T01:36:28Z"
     }
   ]
 }
