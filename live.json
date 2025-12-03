@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-03T01:03:35.336Z",
+  "timestamp": "2025-12-03T01:41:55.952Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,28 +32,16 @@
       "started_at": "2025-12-02T23:49:36Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Parts Are In For Solderin' - Electronics - DIY - Synths",
-      "game": "Science & Technology",
-      "started_at": "2025-12-02T19:30:05Z"
-    },
-    {
       "username": "shnaff",
       "title": "Chill guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2025-12-02T23:01:41Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "24 HOURS of Office Hours Free Tutoring for #givingtuesday Stream!",
-      "game": "Just Chatting",
-      "started_at": "2025-12-02T16:59:26Z"
-    },
-    {
-      "username": "MelissaInDeNile",
-      "title": "More LEGO Pirates of the Caribbean!! Onto Movies 2 & 3!! ~ Follower Goal: 2222/2300 ~ !socials !beyonddenile",
-      "game": "LEGO Pirates of the Caribbean: The Video Game",
-      "started_at": "2025-12-03T00:21:07Z"
+      "username": "SydHeresy",
+      "title": "Parts Are In For Solderin' - Electronics - DIY - Synths",
+      "game": "Science & Technology",
+      "started_at": "2025-12-02T19:30:05Z"
     },
     {
       "username": "Rocketology",
@@ -62,10 +50,28 @@
       "started_at": "2025-12-03T00:40:16Z"
     },
     {
+      "username": "MelissaInDeNile",
+      "title": "More LEGO Pirates of the Caribbean!! Onto Movies 2 & 3!! ~ Follower Goal: 2222/2300 ~ !socials !beyonddenile",
+      "game": "LEGO Pirates of the Caribbean: The Video Game",
+      "started_at": "2025-12-03T00:21:07Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "24 HOURS of Office Hours Free Tutoring for #givingtuesday Stream!",
+      "game": "Just Chatting",
+      "started_at": "2025-12-02T16:59:26Z"
+    },
+    {
       "username": "nSimplexPachinko",
       "title": "Nine Sols, Night 11: Facing Ji, The Taoist Monk...?",
       "game": "Nine Sols",
       "started_at": "2025-12-02T22:18:29Z"
+    },
+    {
+      "username": "Mr_Aejis",
+      "title": "A Teacher Plays: Honkai Star Rail",
+      "game": "Honkai: Star Rail",
+      "started_at": "2025-12-03T01:36:28Z"
     }
   ]
 }
