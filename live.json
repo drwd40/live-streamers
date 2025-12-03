@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-03T19:22:44.465Z",
+  "timestamp": "2025-12-03T19:31:03.492Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,12 +14,6 @@
       "started_at": "2025-12-03T15:01:17Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Cleaning up (day 269)",
-      "game": "Software and Game Development",
-      "started_at": "2025-12-03T16:20:15Z"
-    },
-    {
       "username": "Zachap",
       "title": "the government is capitalist",
       "game": "Politics",
@@ -27,7 +21,7 @@
     },
     {
       "username": "PotteryDojo",
-      "title": "Pottery: Making Bonsai Pots | Throwing | Batch # 17 | Batch Total: 39",
+      "title": "Pottery: Making Bonsai Pots | Throwing | Batch # 17 | Batch Total: 41",
       "game": "Art",
       "started_at": "2025-12-03T17:46:08Z"
     }
