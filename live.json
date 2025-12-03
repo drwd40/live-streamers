@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-03T21:05:45.114Z",
+  "timestamp": "2025-12-03T21:15:45.650Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "the government is capitalist",
       "game": "Politics",
       "started_at": "2025-12-03T10:02:25Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "FOSSIL NEWS and viewer Q&A 🦖❔💬 Let's talk about what's new in vertebrate paleontology (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2025-12-03T21:13:53Z"
     }
   ]
 }
