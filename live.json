@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-03T20:17:02.222Z",
+  "timestamp": "2025-12-03T20:31:09.194Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "Pottery: Making Bonsai Pots | Throwing | Batch # 17 | Batch Total: 41",
       "game": "Art",
       "started_at": "2025-12-03T17:46:08Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Time for LLM translations! (day 269½)",
+      "game": "Software and Game Development",
+      "started_at": "2025-12-03T20:26:16Z"
     }
   ]
 }
