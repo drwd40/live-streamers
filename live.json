@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-04T21:08:30.902Z",
+  "timestamp": "2025-12-04T21:19:18.917Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,6 +20,12 @@
       "started_at": "2025-12-04T19:02:00Z"
     },
     {
+      "username": "Paleontologizing",
+      "title": "'FOSSIL FINDERS' INTERVIEW with paleontologist Holly Anderson ⛏🦷🦴🦇  then raiding 9th Annual Field Report from Badlands Dinosaur Museum",
+      "game": "Science & Technology",
+      "started_at": "2025-12-04T21:05:14Z"
+    },
+    {
       "username": "Zachap",
       "title": "defending capitalist exploitation is the government's job",
       "game": "Politics",
@@ -38,16 +44,16 @@
       "started_at": "2025-12-04T18:58:37Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "'FOSSIL FINDERS' INTERVIEW with paleontologist Holly Anderson ⛏🦷🦴🦇  then raiding 9th Annual Field Report from Badlands Dinosaur Museum",
-      "game": "Science & Technology",
-      "started_at": "2025-12-04T21:05:14Z"
-    },
-    {
       "username": "PotteryDojo",
       "title": "Pottery: Pulling handles, trimming cups, and signing bowls.",
       "game": "Art",
       "started_at": "2025-12-04T18:43:57Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Studying for Applied Complex Analysis Final !discord",
+      "game": "Math",
+      "started_at": "2025-12-04T21:14:02Z"
     }
   ]
 }
