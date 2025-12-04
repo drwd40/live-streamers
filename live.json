@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-04T14:57:09.393Z",
+  "timestamp": "2025-12-04T15:07:07.434Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2025-12-03T16:00:37Z"
     },
     {
-      "username": "Zachap",
-      "title": "defending capitalist exploitation is the government's job",
-      "game": "Politics",
-      "started_at": "2025-12-04T10:01:11Z"
-    },
-    {
       "username": "csharpfritz",
       "title": "Let's create some command-line fun for C#",
       "game": "Software and Game Development",
       "started_at": "2025-12-04T14:37:48Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "defending capitalist exploitation is the government's job",
+      "game": "Politics",
+      "started_at": "2025-12-04T10:01:11Z"
     },
     {
       "username": "Andilippi",
