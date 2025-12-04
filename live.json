@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-04T23:47:30.195Z",
+  "timestamp": "2025-12-04T23:53:37.242Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,16 +38,16 @@
       "started_at": "2025-12-04T10:01:11Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Soldering and Measureing Eurorack Modules - Electronics - DIY",
-      "game": "Science & Technology",
-      "started_at": "2025-12-04T18:30:26Z"
-    },
-    {
       "username": "shnaff",
       "title": "Chill guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2025-12-04T23:03:59Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Soldering and Measureing Eurorack Modules - Electronics - DIY",
+      "game": "Science & Technology",
+      "started_at": "2025-12-04T18:30:26Z"
     },
     {
       "username": "DonFactorial",
