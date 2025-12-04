@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-04T22:36:10.608Z",
+  "timestamp": "2025-12-04T22:44:08.816Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2025-12-04T18:07:36Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "Metroid Prime 4: Beyond - First Playthrough with Metroid Science- Samus Is Back Baby #MetroidPrime | Partner+ 40/300 | !ppp !yt !pod !dono",
-      "game": "Metroid Prime 4: Beyond",
-      "started_at": "2025-12-04T19:02:00Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "'FOSSIL FINDERS' INTERVIEW with paleontologist Holly Anderson ⛏🦷🦴🦇  then raiding 9th Annual Field Report from Badlands Dinosaur Museum",
       "game": "Science & Technology",
       "started_at": "2025-12-04T21:05:14Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "Metroid Prime 4: Beyond - First Playthrough with Metroid Science- Samus Is Back Baby #MetroidPrime | Partner+ 40/300 | !ppp !yt !pod !dono",
+      "game": "Metroid Prime 4: Beyond",
+      "started_at": "2025-12-04T19:02:00Z"
     },
     {
       "username": "Zachap",
@@ -44,16 +44,16 @@
       "started_at": "2025-12-04T21:14:02Z"
     },
     {
-      "username": "AndrewHolding",
-      "title": "[UK/USA] Science co-stream AMA, raising money to fight Cancer, with Whiskey, and Baldur's Gate 3",
-      "game": "Baldur's Gate 3",
-      "started_at": "2025-12-04T21:22:32Z"
-    },
-    {
       "username": "PotteryDojo",
       "title": "Pottery: Pulling handles, trimming cups, and signing bowls.",
       "game": "Art",
       "started_at": "2025-12-04T18:43:57Z"
+    },
+    {
+      "username": "AndrewHolding",
+      "title": "[UK/USA] Science co-stream AMA, raising money to fight Cancer, with Whiskey, and Baldur's Gate 3",
+      "game": "Baldur's Gate 3",
+      "started_at": "2025-12-04T21:22:32Z"
     }
   ]
 }
