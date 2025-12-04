@@ -1,17 +1,11 @@
 {
-  "timestamp": "2025-12-04T01:45:33.569Z",
+  "timestamp": "2025-12-04T02:25:39.578Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
-      "game": "Animals, Aquariums, and Zoos",
+      "title": "Chat Chats w/ Evan | !alveus !institute !pixel !schedule !video !feed",
+      "game": "Just Chatting",
       "started_at": "2025-12-03T16:00:37Z"
-    },
-    {
-      "username": "EJ_SA",
-      "title": "Bolt action irons in my BF6??? Late Night Battlefield! 12/3/25",
-      "game": "Battlefield 6",
-      "started_at": "2025-12-03T15:01:17Z"
     },
     {
       "username": "imreallyimportant",
@@ -20,22 +14,28 @@
       "started_at": "2025-12-03T22:59:33Z"
     },
     {
+      "username": "EJ_SA",
+      "title": "Bolt action irons in my BF6??? Late Night Battlefield! 12/3/25",
+      "game": "Battlefield 6",
+      "started_at": "2025-12-03T15:01:17Z"
+    },
+    {
       "username": "ipaintbirbs",
       "title": "bird painting speedrun any %",
       "game": "Art",
       "started_at": "2025-12-03T23:37:50Z"
     },
     {
-      "username": "Ask_a_Scientist_Gaming",
-      "title": "Dr. Fernando Febres Cordero- high energy particle physics, and Tetris(NES)",
+      "username": "SciAnts_Streams",
+      "title": "Wacom Wednesday | Charity event for HIV/AIDS research, science rabbit holes, art, and more! | Partner+ 32/300 | !ppp !yt !pod !dono",
       "game": "Science & Technology",
-      "started_at": "2025-12-04T00:59:34Z"
+      "started_at": "2025-12-04T02:03:40Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "Cracking the GRE Math Subject Test, Night 026: Solids of Revolution",
-      "game": "Math",
-      "started_at": "2025-12-03T22:24:42Z"
+      "username": "Ask_a_Scientist_Gaming",
+      "title": "Dr. Fernando Febres Cordero- high energy particle physics, and Ms. Pacman",
+      "game": "Science & Technology",
+      "started_at": "2025-12-04T00:59:34Z"
     }
   ]
 }
