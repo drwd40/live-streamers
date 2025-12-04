@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-04T21:19:18.917Z",
+  "timestamp": "2025-12-04T21:29:54.847Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -48,6 +48,12 @@
       "title": "Pottery: Pulling handles, trimming cups, and signing bowls.",
       "game": "Art",
       "started_at": "2025-12-04T18:43:57Z"
+    },
+    {
+      "username": "AndrewHolding",
+      "title": "[UK/USA] Science co-stream AMA, raising money to fight Cancer, with Whiskey, and Baldur's Gate 3",
+      "game": "Baldur's Gate 3",
+      "started_at": "2025-12-04T21:22:32Z"
     },
     {
       "username": "DonFactorial",
