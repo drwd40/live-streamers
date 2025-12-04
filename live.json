@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-04T00:03:02.858Z",
+  "timestamp": "2025-12-04T00:38:56.608Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,6 +14,12 @@
       "started_at": "2025-12-03T15:01:17Z"
     },
     {
+      "username": "ipaintbirbs",
+      "title": "bird painting speedrun any %",
+      "game": "Art",
+      "started_at": "2025-12-03T23:37:50Z"
+    },
+    {
       "username": "imreallyimportant",
       "title": "GOP NERVOUS AFTER WEAK SPECIAL ELECTION RESULTS | DOD IG SAYS HEGSETH ENDANGERED TROOPS",
       "game": "Just Chatting",
@@ -24,18 +30,6 @@
       "title": "FOSSIL NEWS and viewer Q&A 🦖❔💬 Let's talk about what's new in vertebrate paleontology (w/ paleontologist Danny Anduza)",
       "game": "Science & Technology",
       "started_at": "2025-12-03T21:13:53Z"
-    },
-    {
-      "username": "ipaintbirbs",
-      "title": "bird painting speedrun any %",
-      "game": "Art",
-      "started_at": "2025-12-03T23:37:50Z"
-    },
-    {
-      "username": "DrMick",
-      "title": "Therapist Plays GTA IV: Part 7",
-      "game": "Grand Theft Auto IV",
-      "started_at": "2025-12-03T21:24:36Z"
     },
     {
       "username": "Zachap",
