@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-04T18:27:34.967Z",
+  "timestamp": "2025-12-04T18:45:42.479Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,22 +20,34 @@
       "started_at": "2025-12-04T18:07:36Z"
     },
     {
-      "username": "csharpfritz",
-      "title": "Let's create some command-line fun for C#",
-      "game": "Software and Game Development",
-      "started_at": "2025-12-04T14:37:48Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "Miscellanea Mania (day 270)",
       "game": "Software and Game Development",
       "started_at": "2025-12-04T16:24:02Z"
     },
     {
+      "username": "csharpfritz",
+      "title": "Let's create some command-line fun for C#",
+      "game": "Software and Game Development",
+      "started_at": "2025-12-04T14:37:48Z"
+    },
+    {
       "username": "Zachap",
       "title": "defending capitalist exploitation is the government's job",
       "game": "Politics",
       "started_at": "2025-12-04T10:01:11Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Soldering and Measureing Eurorack Modules - Electronics - DIY",
+      "game": "Science & Technology",
+      "started_at": "2025-12-04T18:30:26Z"
+    },
+    {
+      "username": "PotteryDojo",
+      "title": "Pottery: Pulling handles, trimming cups, and signing bowls.",
+      "game": "Art",
+      "started_at": "2025-12-04T18:43:57Z"
     }
   ]
 }
