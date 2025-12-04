@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-04T21:38:11.867Z",
+  "timestamp": "2025-12-04T21:45:25.735Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -44,12 +44,6 @@
       "started_at": "2025-12-04T18:58:37Z"
     },
     {
-      "username": "PotteryDojo",
-      "title": "Pottery: Pulling handles, trimming cups, and signing bowls.",
-      "game": "Art",
-      "started_at": "2025-12-04T18:43:57Z"
-    },
-    {
       "username": "AndrewHolding",
       "title": "[UK/USA] Science co-stream AMA, raising money to fight Cancer, with Whiskey, and Baldur's Gate 3",
       "game": "Baldur's Gate 3",
@@ -60,6 +54,12 @@
       "title": "Studying for Applied Complex Analysis Final !discord",
       "game": "Math",
       "started_at": "2025-12-04T21:14:02Z"
+    },
+    {
+      "username": "PotteryDojo",
+      "title": "Pottery: Pulling handles, trimming cups, and signing bowls.",
+      "game": "Art",
+      "started_at": "2025-12-04T18:43:57Z"
     }
   ]
 }
