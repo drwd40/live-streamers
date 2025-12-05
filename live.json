@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-05T21:48:21.233Z",
+  "timestamp": "2025-12-05T21:54:38.449Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "First cook then new True facts video!",
       "game": "Science & Technology",
       "started_at": "2025-12-05T20:05:19Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Against the Storm, Night 24: Last settlement before Gold Seal cycle reset.",
+      "game": "Against the Storm",
+      "started_at": "2025-12-05T21:48:31Z"
     }
   ]
 }
