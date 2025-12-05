@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-05T06:17:03.301Z",
+  "timestamp": "2025-12-05T06:32:08.599Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,12 +18,6 @@
       "title": "Therapist Plays ROUTINE: Part 1",
       "game": "ROUTINE",
       "started_at": "2025-12-05T05:25:58Z"
-    },
-    {
-      "username": "SydHeresy",
-      "title": "Soldering and Measureing Eurorack Modules - Electronics - DIY",
-      "game": "Science & Technology",
-      "started_at": "2025-12-04T18:30:26Z"
     }
   ]
 }
