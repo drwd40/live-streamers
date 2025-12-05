@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-05T19:12:03.869Z",
+  "timestamp": "2025-12-05T19:23:24.316Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -48,6 +48,12 @@
       "title": "Coding a video-overlay twitch extension",
       "game": "Software and Game Development",
       "started_at": "2025-12-05T17:33:54Z"
+    },
+    {
+      "username": "CosmoQuestX",
+      "title": "After Hours with Mike Simmons",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2025-12-05T19:21:04Z"
     }
   ]
 }
