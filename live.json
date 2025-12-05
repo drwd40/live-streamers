@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-05T22:52:27.765Z",
+  "timestamp": "2025-12-05T22:58:42.093Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "SkyMapper: Map All the Sky, All the Time",
       "game": "Talk Shows & Podcasts",
       "started_at": "2025-12-05T22:30:59Z"
+    },
+    {
+      "username": "CosmoQuestX",
+      "title": "Hangout-a-Thon Previews",
+      "game": "Science & Technology",
+      "started_at": "2025-12-05T22:54:11Z"
     },
     {
       "username": "nSimplexPachinko",
