@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-05T23:08:32.792Z",
+  "timestamp": "2025-12-05T23:19:07.011Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,22 +26,16 @@
       "started_at": "2025-12-05T20:42:00Z"
     },
     {
-      "username": "CosmoQuestX",
-      "title": "Hangout-a-Thon Previews",
-      "game": "Science & Technology",
-      "started_at": "2025-12-05T22:54:11Z"
-    },
-    {
       "username": "shnaff",
       "title": "Chill guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2025-12-05T23:01:35Z"
     },
     {
-      "username": "SETIInstitute",
-      "title": "SkyMapper: Map All the Sky, All the Time",
-      "game": "Talk Shows & Podcasts",
-      "started_at": "2025-12-05T22:30:59Z"
+      "username": "CosmoQuestX",
+      "title": "Hangout-a-Thon Previews",
+      "game": "Science & Technology",
+      "started_at": "2025-12-05T22:54:11Z"
     },
     {
       "username": "nSimplexPachinko",
