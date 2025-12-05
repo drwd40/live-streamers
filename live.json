@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-05T22:19:57.762Z",
+  "timestamp": "2025-12-05T22:31:41.456Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,12 +14,6 @@
       "started_at": "2025-12-05T17:04:36Z"
     },
     {
-      "username": "ipaintbirbs",
-      "title": "gay cardinal crimmus sketching :)",
-      "game": "Art",
-      "started_at": "2025-12-05T17:19:16Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "🎮 (day 271½)",
       "game": "Software and Game Development",
@@ -30,6 +24,12 @@
       "title": "Against the Storm, Night 24: Last settlement before Gold Seal cycle reset.",
       "game": "Against the Storm",
       "started_at": "2025-12-05T21:48:31Z"
+    },
+    {
+      "username": "SETIInstitute",
+      "title": "SkyMapper: Map All the Sky, All the Time",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2025-12-05T22:30:59Z"
     }
   ]
 }
