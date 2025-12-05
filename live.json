@@ -1,17 +1,11 @@
 {
-  "timestamp": "2025-12-05T01:04:20.713Z",
+  "timestamp": "2025-12-05T01:42:55.700Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2025-12-03T16:00:37Z"
-    },
-    {
-      "username": "EJ_SA",
-      "title": "EJ's Space and Rocket Revue! 12/4/25",
-      "game": "Science & Technology",
-      "started_at": "2025-12-04T18:07:36Z"
     },
     {
       "username": "imreallyimportant",
@@ -24,18 +18,6 @@
       "title": "Metroid Prime 4: Beyond - First Playthrough with Metroid Science- Samus Is Back Baby #MetroidPrime | Partner+ 40/300 | !ppp !yt !pod !dono",
       "game": "Metroid Prime 4: Beyond",
       "started_at": "2025-12-04T19:02:00Z"
-    },
-    {
-      "username": "Zachap",
-      "title": "defending capitalist exploitation is the government's job",
-      "game": "Politics",
-      "started_at": "2025-12-04T10:01:11Z"
-    },
-    {
-      "username": "shnaff",
-      "title": "Chill guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2025-12-04T23:03:59Z"
     },
     {
       "username": "SydHeresy",
@@ -56,16 +38,16 @@
       "started_at": "2025-12-04T23:55:34Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
-      "game": "Just Chatting",
-      "started_at": "2025-12-05T00:03:30Z"
-    },
-    {
       "username": "MelissaInDeNile",
       "title": "Let's explore Rome in Assassin's Creed: Brotherhood!! And Advent Calendars!! ~ Follower Goal: 2224/2300 ~ !socials !beyonddenile",
       "game": "Assassin's Creed Brotherhood",
       "started_at": "2025-12-05T00:21:28Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2025-12-05T00:03:30Z"
     }
   ]
 }
