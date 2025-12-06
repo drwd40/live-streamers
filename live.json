@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-06T19:26:59.464Z",
+  "timestamp": "2025-12-06T19:33:33.756Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "Just Soldering, Repairing, And Chillin' - Electronics - DIY",
       "game": "Science & Technology",
       "started_at": "2025-12-06T19:11:01Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "Palatino Armor Scavenger Hunt",
+      "game": "Star Citizen",
+      "started_at": "2025-12-06T19:27:47Z"
     }
   ]
 }
