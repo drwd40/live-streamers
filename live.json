@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-06T22:27:57.990Z",
+  "timestamp": "2025-12-06T22:36:54.289Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2025-12-06T20:22:50Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Bring Your Questions! It's a Math Q&A, and likely the last one of 2025.",
-      "game": "Math",
-      "started_at": "2025-12-06T20:11:06Z"
-    },
-    {
       "username": "Rocketology",
       "title": "Onyx Facility Investigation Missions !sc",
       "game": "Star Citizen",
       "started_at": "2025-12-06T19:27:47Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Bring Your Questions! It's a Math Q&A, and likely the last one of 2025.",
+      "game": "Math",
+      "started_at": "2025-12-06T20:11:06Z"
     }
   ]
 }
