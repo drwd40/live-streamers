@@ -1,11 +1,17 @@
 {
-  "timestamp": "2025-12-06T10:00:01.095Z",
+  "timestamp": "2025-12-06T10:09:02.883Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2025-12-05T16:00:39Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "communism is moneyless",
+      "game": "Politics",
+      "started_at": "2025-12-06T10:01:21Z"
     }
   ]
 }
