@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-06T23:39:33.263Z",
+  "timestamp": "2025-12-06T23:45:28.258Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,28 +8,22 @@
       "started_at": "2025-12-05T16:00:39Z"
     },
     {
-      "username": "Zachap",
-      "title": "communism is moneyless",
-      "game": "Politics",
-      "started_at": "2025-12-06T10:01:21Z"
-    },
-    {
       "username": "AstroCanuck",
       "title": "Weekend Astronomy: Space News & Christmas LEGO | NEW 89 BITS | !giveaway !drop !tkf",
       "game": "Science & Technology",
       "started_at": "2025-12-06T23:01:14Z"
     },
     {
+      "username": "Zachap",
+      "title": "communism is moneyless",
+      "game": "Politics",
+      "started_at": "2025-12-06T10:01:21Z"
+    },
+    {
       "username": "CosmoQuestX",
       "title": "Hour 2: What you're supporting",
       "game": "Science & Technology",
       "started_at": "2025-12-06T16:09:12Z"
-    },
-    {
-      "username": "Rocketology",
-      "title": "Onyx Facility Investigation Missions !sc",
-      "game": "Star Citizen",
-      "started_at": "2025-12-06T19:27:47Z"
     }
   ]
 }
