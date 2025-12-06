@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-06T20:08:06.492Z",
+  "timestamp": "2025-12-06T20:19:04.003Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2025-12-06T16:21:20Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Just Soldering, Repairing, And Chillin' - Electronics - DIY",
-      "game": "Science & Technology",
-      "started_at": "2025-12-06T19:59:39Z"
-    },
-    {
       "username": "Rocketology",
       "title": "Palatino Armor Scavenger Hunt",
       "game": "Star Citizen",
       "started_at": "2025-12-06T19:27:47Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Bring Your Questions! It's a Math Q&A, and likely the last one of 2025.",
+      "game": "Math",
+      "started_at": "2025-12-06T20:11:06Z"
     }
   ]
 }
