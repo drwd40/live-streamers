@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-06T20:38:41.089Z",
+  "timestamp": "2025-12-06T20:45:31.035Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,12 +20,6 @@
       "started_at": "2025-12-06T16:09:12Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Bring Your Questions! It's a Math Q&A, and likely the last one of 2025.",
-      "game": "Math",
-      "started_at": "2025-12-06T20:11:06Z"
-    },
-    {
       "username": "Rocketology",
       "title": "Onyx Facility Investigation Missions !sc",
       "game": "Star Citizen",
@@ -36,6 +30,12 @@
       "title": "The Wandering Nerd!  IRL adventures in Long Beach, CA! #scientist #space #nasa",
       "game": "IRL",
       "started_at": "2025-12-06T20:22:50Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Bring Your Questions! It's a Math Q&A, and likely the last one of 2025.",
+      "game": "Math",
+      "started_at": "2025-12-06T20:11:06Z"
     }
   ]
 }
