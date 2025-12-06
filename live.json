@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-06T21:45:50.556Z",
+  "timestamp": "2025-12-06T21:52:10.587Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2025-12-06T10:01:21Z"
     },
     {
-      "username": "Nerduino",
-      "title": "The Wandering Nerd!  IRL adventures in Long Beach, CA! #scientist #space #nasa",
-      "game": "IRL",
-      "started_at": "2025-12-06T20:22:50Z"
-    },
-    {
       "username": "CosmoQuestX",
       "title": "Hour 2: What you're supporting",
       "game": "Science & Technology",
       "started_at": "2025-12-06T16:09:12Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "The Wandering Nerd!  IRL adventures in Long Beach, CA! #scientist #space #nasa",
+      "game": "IRL",
+      "started_at": "2025-12-06T20:22:50Z"
     },
     {
       "username": "eToThe2iPi",
