@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-07T20:46:02.270Z",
+  "timestamp": "2025-12-07T20:52:02.550Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2025-12-07T15:01:09Z"
     },
     {
-      "username": "CosmoQuestX",
-      "title": "Hour 19: Science, Small Telescope Required",
-      "game": "Science & Technology",
-      "started_at": "2025-12-07T15:44:15Z"
-    },
-    {
       "username": "Rocketology",
       "title": "UnKerbaled Start Modded Career - Episode 16",
       "game": "Kerbal Space Program",
       "started_at": "2025-12-07T19:56:46Z"
+    },
+    {
+      "username": "CosmoQuestX",
+      "title": "Hour 19: Science, Small Telescope Required",
+      "game": "Science & Technology",
+      "started_at": "2025-12-07T15:44:15Z"
     },
     {
       "username": "SydHeresy",
