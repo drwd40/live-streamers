@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-07T04:22:35.209Z",
+  "timestamp": "2025-12-07T04:37:58.278Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -28,8 +28,14 @@
     {
       "username": "Mr_Aejis",
       "title": "Can video games make your smarter? | Mr Aejis - Vtuber Health Class",
-      "game": "Just Chatting",
+      "game": "Oregon Trail II",
       "started_at": "2025-12-07T01:17:45Z"
+    },
+    {
+      "username": "TominationTime",
+      "title": "🔴1ST TIME BEATING BALANCERS TONIGHT?!?!🔴",
+      "game": "ELDEN RING NIGHTREIGN",
+      "started_at": "2025-12-07T04:29:12Z"
     }
   ]
 }
