@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-07T01:24:03.044Z",
+  "timestamp": "2025-12-07T02:11:39.055Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,22 @@
       "started_at": "2025-12-06T16:09:12Z"
     },
     {
+      "username": "Mr_Aejis",
+      "title": "Can video games make your smarter? | Mr Aejis - Vtuber Health Class",
+      "game": "Just Chatting",
+      "started_at": "2025-12-07T01:17:45Z"
+    },
+    {
       "username": "MelissaInDeNile",
       "title": "Let's chat about the Royal Cache Tomb, Mummies, Advent Calendars, & Operation Santa! ~ Follower Goal: 2226/2300 ~ !socials !beyonddenile",
       "game": "Just Chatting",
       "started_at": "2025-12-07T00:21:38Z"
     },
     {
-      "username": "Mr_Aejis",
-      "title": "Can video games make your smarter? | Mr Aejis - Vtuber Health Class",
-      "game": "Just Chatting",
-      "started_at": "2025-12-07T01:17:45Z"
+      "username": "SciAnts_Streams",
+      "title": "Metroid Prime 4: Beyond - First Playthrough with Metroid Science- Samus Is Back Baby #MetroidPrime | Partner+ 71/300 | !ppp !yt !pod",
+      "game": "Metroid Prime 4: Beyond",
+      "started_at": "2025-12-07T02:09:14Z"
     }
   ]
 }
