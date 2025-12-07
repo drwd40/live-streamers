@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-07T20:57:41.748Z",
+  "timestamp": "2025-12-07T21:05:55.463Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2025-12-07T16:05:35Z"
     },
     {
-      "username": "Zachap",
-      "title": "capitalism kills",
-      "game": "Politics",
-      "started_at": "2025-12-07T10:03:10Z"
-    },
-    {
       "username": "AstroCanuck",
       "title": "Lazy Sunday LEGO: Star Wars Gingerbread AT-AT | NEW 89 BITS | !giveaway !drop !tkf",
       "game": "Lego & Brickbuilding",
       "started_at": "2025-12-07T15:01:09Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "capitalism kills",
+      "game": "Politics",
+      "started_at": "2025-12-07T10:03:10Z"
     },
     {
       "username": "Rocketology",
@@ -27,7 +27,7 @@
     },
     {
       "username": "CosmoQuestX",
-      "title": "Hour 19: Science, Small Telescope Required",
+      "title": "Hour 20: VR trips to Space",
       "game": "Science & Technology",
       "started_at": "2025-12-07T15:44:15Z"
     },
