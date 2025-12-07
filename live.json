@@ -1,11 +1,17 @@
 {
-  "timestamp": "2025-12-07T22:11:53.169Z",
+  "timestamp": "2025-12-07T22:23:19.984Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2025-12-07T16:05:35Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Super Sunday Synthesizer Soldering - Electronics - DIY",
+      "game": "Science & Technology",
+      "started_at": "2025-12-07T19:00:21Z"
     },
     {
       "username": "Rocketology",
@@ -18,12 +24,6 @@
       "title": "Hour 20: VR trips to Space",
       "game": "Science & Technology",
       "started_at": "2025-12-07T15:44:15Z"
-    },
-    {
-      "username": "SydHeresy",
-      "title": "Super Sunday Synthesizer Soldering - Electronics - DIY",
-      "game": "Science & Technology",
-      "started_at": "2025-12-07T19:00:21Z"
     },
     {
       "username": "DonFactorial",
