@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-08T17:23:23.339Z",
+  "timestamp": "2025-12-08T17:34:25.177Z",
   "live": [
     {
       "username": "Maya",
@@ -14,6 +14,12 @@
       "started_at": "2025-12-07T16:05:35Z"
     },
     {
+      "username": "EJ_SA",
+      "title": "figuring out what I want to play.",
+      "game": "Just Chatting",
+      "started_at": "2025-12-08T17:23:57Z"
+    },
+    {
       "username": "TinyToxicTofu",
       "title": "Ranking Top Physics Experiments Day 1 🖤 🚗 GTAV Another Heist? 🚗  !bambi !physics",
       "game": "Science & Technology",
@@ -26,16 +32,16 @@
       "started_at": "2025-12-08T16:19:56Z"
     },
     {
-      "username": "Zachap",
-      "title": "asmongold is a liberal",
-      "game": "Politics",
-      "started_at": "2025-12-08T10:02:06Z"
-    },
-    {
       "username": "LumiRue",
       "title": "Happy Monday from your Study Buddy | Marriage and Family Therapy Master's Studies | DayZ on Sunday",
       "game": "Co-working & Studying",
       "started_at": "2025-12-08T15:04:04Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "asmongold is a liberal",
+      "game": "Politics",
+      "started_at": "2025-12-08T10:02:06Z"
     },
     {
       "username": "TimberAnew",
