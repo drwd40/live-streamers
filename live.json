@@ -1,9 +1,9 @@
 {
-  "timestamp": "2025-12-08T21:11:49.896Z",
+  "timestamp": "2025-12-08T21:22:46.018Z",
   "live": [
     {
       "username": "Maya",
-      "title": "NEW FOX ENCLOSURE INC @alveussanctuary 🦊🦊!60hours !cameo",
+      "title": "NEW FOX ENCLOSURE INC @alveussanctuary 🦊🦊!60hours !cameo !hellofresh #ad",
       "game": "Just Chatting",
       "started_at": "2025-12-08T16:46:59Z"
     },
@@ -26,22 +26,16 @@
       "started_at": "2025-12-08T18:51:57Z"
     },
     {
-      "username": "Zachap",
-      "title": "asmongold is a liberal",
-      "game": "Politics",
-      "started_at": "2025-12-08T10:02:06Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "DINOSAUR Q&A 🦕🦴❔💬 Get your Mesozoic questions answered (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2025-12-08T21:05:17Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "PRs and tasks (day 272½)",
       "game": "Software and Game Development",
       "started_at": "2025-12-08T20:59:06Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "asmongold is a liberal",
+      "game": "Politics",
+      "started_at": "2025-12-08T10:02:06Z"
     },
     {
       "username": "eToThe2iPi",
@@ -54,6 +48,12 @@
       "title": "Live CEOing Ep 946: Design Review of Data Models (Tabular, TimeSeries and more)",
       "game": "Science & Technology",
       "started_at": "2025-12-08T21:07:35Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "DINOSAUR Q&A 🦕🦴❔💬 Get your Mesozoic questions answered (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2025-12-08T21:22:21Z"
     }
   ]
 }
