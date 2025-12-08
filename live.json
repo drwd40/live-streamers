@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-08T18:56:06.807Z",
+  "timestamp": "2025-12-08T19:03:28.049Z",
   "live": [
     {
       "username": "Maya",
@@ -48,6 +48,12 @@
       "title": "Software Development Stream: Queue System + Sixteen + Intro Games",
       "game": "Software and Game Development",
       "started_at": "2025-12-08T18:51:18Z"
+    },
+    {
+      "username": "SETIInstitute",
+      "title": "Earth 2.0? Maybe Not. Intelligent Life Might Be Far Rarer Than We Think",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2025-12-08T19:01:42Z"
     }
   ]
 }
