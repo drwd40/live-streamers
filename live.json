@@ -1,12 +1,6 @@
 {
-  "timestamp": "2025-12-08T21:22:46.018Z",
+  "timestamp": "2025-12-08T21:30:41.648Z",
   "live": [
-    {
-      "username": "Maya",
-      "title": "NEW FOX ENCLOSURE INC @alveussanctuary 🦊🦊!60hours !cameo !hellofresh #ad",
-      "game": "Just Chatting",
-      "started_at": "2025-12-08T16:46:59Z"
-    },
     {
       "username": "AlveusSanctuary",
       "title": "60 Hours: Foxes or Fired | !alveus !institute !pixel !schedule !video !feed",
@@ -18,6 +12,12 @@
       "title": "Testing a new lander on the moon! KSP Career Mode (Part 37)",
       "game": "Kerbal Space Program",
       "started_at": "2025-12-08T17:23:57Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "DINOSAUR Q&A 🦕🦴❔💬 Get your Mesozoic questions answered (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2025-12-08T21:22:21Z"
     },
     {
       "username": "Andilippi",
@@ -48,12 +48,6 @@
       "title": "Live CEOing Ep 946: Design Review of Data Models (Tabular, TimeSeries and more)",
       "game": "Science & Technology",
       "started_at": "2025-12-08T21:07:35Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "DINOSAUR Q&A 🦕🦴❔💬 Get your Mesozoic questions answered (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2025-12-08T21:22:21Z"
     }
   ]
 }
