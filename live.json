@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-08T21:02:32.823Z",
+  "timestamp": "2025-12-08T21:11:49.896Z",
   "live": [
     {
       "username": "Maya",
@@ -32,6 +32,12 @@
       "started_at": "2025-12-08T10:02:06Z"
     },
     {
+      "username": "Paleontologizing",
+      "title": "DINOSAUR Q&A 🦕🦴❔💬 Get your Mesozoic questions answered (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2025-12-08T21:05:17Z"
+    },
+    {
       "username": "AdamLearnsLive",
       "title": "PRs and tasks (day 272½)",
       "game": "Software and Game Development",
@@ -42,6 +48,12 @@
       "title": "Software Development Stream: Queue System + Sixteen + Intro Games",
       "game": "Software and Game Development",
       "started_at": "2025-12-08T18:51:18Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 946: Design Review of Data Models (Tabular, TimeSeries and more)",
+      "game": "Science & Technology",
+      "started_at": "2025-12-08T21:07:35Z"
     }
   ]
 }
