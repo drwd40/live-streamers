@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-08T16:03:16.079Z",
+  "timestamp": "2025-12-08T16:13:45.326Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "Wood carving is good carving",
       "game": "Art",
       "started_at": "2025-12-08T15:03:10Z"
+    },
+    {
+      "username": "TinyToxicTofu",
+      "title": "Ranking Top Physics Experiments Day 1 🖤 🚗 GTAV Another Heist? 🚗  !bambi !physics",
+      "game": "Science & Technology",
+      "started_at": "2025-12-08T16:10:17Z"
     }
   ]
 }
