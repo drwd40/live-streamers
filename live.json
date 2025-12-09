@@ -1,9 +1,9 @@
 {
-  "timestamp": "2025-12-09T19:41:47.846Z",
+  "timestamp": "2025-12-09T19:48:10.171Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "PO Box Opening | !alveus !institute !pixel !schedule !video !feed",
+      "title": "🦊 60 Hours Foxes or Fired - Day 2 | !alveus !institute !pixel !schedule !video !feed",
       "game": "Just Chatting",
       "started_at": "2025-12-09T13:28:29Z"
     },
@@ -48,6 +48,12 @@
       "title": "Tuesday December 9th @ 2:30 pm EST: Dark & Light: From Neolithic Burials to Immersive Art",
       "game": "Science & Technology",
       "started_at": "2025-12-09T19:28:09Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "Interstellar Cargo Hauling",
+      "game": "Star Citizen",
+      "started_at": "2025-12-09T19:45:01Z"
     },
     {
       "username": "Stephen_Wolfram",
