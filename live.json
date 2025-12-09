@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-12-09T01:47:40.490Z",
+  "timestamp": "2025-12-09T02:26:22.186Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "60 Hours: Foxes or Fired | !alveus !institute !pixel !schedule !video !feed",
-      "game": "Just Chatting",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
+      "game": "Animals, Aquariums, and Zoos",
       "started_at": "2025-12-07T16:05:35Z"
     },
     {
@@ -14,16 +14,16 @@
       "started_at": "2025-12-08T17:23:57Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "DINOSAUR Q&A 🦕🦴❔💬 Get your Mesozoic questions answered (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2025-12-08T21:22:21Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "JASMINE CROCKETT JOINS TX SENATE RACE | MTG SLAMS TRUMP IN 60 MINS INTERVIEW | LIB & LEARN @ 7 PM ET",
       "game": "Just Chatting",
       "started_at": "2025-12-08T22:49:51Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "Microscopy Monday | Tiny worlds under the microscope: 30 million year old insects in amber | Partner+ 88/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2025-12-09T02:00:13Z"
     }
   ]
 }
