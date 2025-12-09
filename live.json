@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-09T22:01:33.873Z",
+  "timestamp": "2025-12-09T22:10:59.889Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -42,6 +42,12 @@
       "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
       "game": "Just Chatting",
       "started_at": "2025-12-09T20:33:42Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Nine Sols, Night 12: Grinding a miniboss that shouldn't take this long...",
+      "game": "Nine Sols",
+      "started_at": "2025-12-09T22:06:26Z"
     }
   ]
 }
