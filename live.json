@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-09T18:33:50.567Z",
+  "timestamp": "2025-12-09T18:46:33.677Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,16 +38,16 @@
       "started_at": "2025-12-09T17:33:02Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 948: Design Review of Connectivity Features",
-      "game": "Science & Technology",
-      "started_at": "2025-12-09T18:09:06Z"
-    },
-    {
       "username": "eToThe2iPi",
       "title": "Beyond the Blackboard: Timberrrrrrrrrrr! Logs incoming (w/ @pencenter)",
       "game": "Math",
       "started_at": "2025-12-09T18:26:46Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 948: Design Review of Connectivity Features",
+      "game": "Science & Technology",
+      "started_at": "2025-12-09T18:09:06Z"
     }
   ]
 }
