@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-09T20:00:26.735Z",
+  "timestamp": "2025-12-09T20:09:40.400Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,28 +32,28 @@
       "started_at": "2025-12-09T10:04:42Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Soldering - Builds - Repairs - Chill",
-      "game": "Science & Technology",
-      "started_at": "2025-12-09T18:59:49Z"
-    },
-    {
       "username": "Stephen_Wolfram",
       "title": "Live CEOing Ep 949: Design Review of Machine Learning Features pt. 2",
       "game": "Science & Technology",
       "started_at": "2025-12-09T19:39:59Z"
     },
     {
-      "username": "vul100",
-      "title": "Tuesday December 9th @ 2:30 pm EST: Dark & Light: From Neolithic Burials to Immersive Art",
+      "username": "SydHeresy",
+      "title": "Soldering - Builds - Repairs - Chill",
       "game": "Science & Technology",
-      "started_at": "2025-12-09T19:28:09Z"
+      "started_at": "2025-12-09T18:59:49Z"
     },
     {
       "username": "Rocketology",
       "title": "Interstellar Cargo Hauling",
       "game": "Star Citizen",
       "started_at": "2025-12-09T19:45:01Z"
+    },
+    {
+      "username": "vul100",
+      "title": "Tuesday December 9th @ 2:30 pm EST: Dark & Light: From Neolithic Burials to Immersive Art",
+      "game": "Science & Technology",
+      "started_at": "2025-12-09T19:28:09Z"
     }
   ]
 }
