@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-09T20:31:39.436Z",
+  "timestamp": "2025-12-09T20:39:17.553Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -15,15 +15,9 @@
     },
     {
       "username": "ipaintbirbs",
-      "title": "birbs are pretty neat",
+      "title": "birbs are pretty neat (dude)",
       "game": "Art",
       "started_at": "2025-12-09T17:57:53Z"
-    },
-    {
-      "username": "Zachap",
-      "title": "consider learning a thing or two here, and let me know if it's worth your time",
-      "game": "Politics",
-      "started_at": "2025-12-09T10:04:42Z"
     },
     {
       "username": "oh_bother",
@@ -32,16 +26,16 @@
       "started_at": "2025-12-09T17:33:02Z"
     },
     {
+      "username": "Zachap",
+      "title": "consider learning a thing or two here, and let me know if it's worth your time",
+      "game": "Politics",
+      "started_at": "2025-12-09T10:04:42Z"
+    },
+    {
       "username": "SydHeresy",
       "title": "Soldering - Builds - Repairs - Chill",
       "game": "Science & Technology",
       "started_at": "2025-12-09T18:59:49Z"
-    },
-    {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 949: Design Review of Machine Learning Features pt. 2",
-      "game": "Science & Technology",
-      "started_at": "2025-12-09T19:39:59Z"
     },
     {
       "username": "Rocketology",
@@ -54,6 +48,12 @@
       "title": "Tuesday December 9th @ 2:30 pm EST: Dark & Light: From Neolithic Burials to Immersive Art",
       "game": "Science & Technology",
       "started_at": "2025-12-09T19:28:09Z"
+    },
+    {
+      "username": "xTalkProgrammer",
+      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
+      "game": "Just Chatting",
+      "started_at": "2025-12-09T20:33:42Z"
     }
   ]
 }
