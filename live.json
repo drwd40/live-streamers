@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-09T19:27:58.115Z",
+  "timestamp": "2025-12-09T19:35:02.315Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -42,6 +42,12 @@
       "title": "Soldering - Builds - Repairs - Chill",
       "game": "Science & Technology",
       "started_at": "2025-12-09T18:59:49Z"
+    },
+    {
+      "username": "vul100",
+      "title": "Tuesday December 9th @ 2:30 pm EST: Dark & Light: From Neolithic Burials to Immersive Art",
+      "game": "Science & Technology",
+      "started_at": "2025-12-09T19:28:09Z"
     }
   ]
 }
