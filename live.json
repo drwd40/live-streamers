@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-09T16:12:05.544Z",
+  "timestamp": "2025-12-09T16:25:02.190Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,12 @@
       "title": "consider learning a thing or two here, and let me know if it's worth your time",
       "game": "Politics",
       "started_at": "2025-12-09T10:04:42Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Prepping for a new demo launch (day 273)",
+      "game": "Software and Game Development",
+      "started_at": "2025-12-09T16:23:47Z"
     }
   ]
 }
