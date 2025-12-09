@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-09T18:18:50.653Z",
+  "timestamp": "2025-12-09T18:33:50.567Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2025-12-09T13:28:29Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "Checking out the new expansion! HOI-4! (Part 1)",
-      "game": "Hearts of Iron IV",
-      "started_at": "2025-12-09T17:45:44Z"
-    },
-    {
       "username": "ipaintbirbs",
       "title": "birbs are pretty neat",
       "game": "Art",
       "started_at": "2025-12-09T17:57:53Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "Checking out the new expansion! HOI-4! (Part 1)",
+      "game": "Hearts of Iron IV",
+      "started_at": "2025-12-09T17:45:44Z"
     },
     {
       "username": "csharpfritz",
@@ -42,6 +42,12 @@
       "title": "Live CEOing Ep 948: Design Review of Connectivity Features",
       "game": "Science & Technology",
       "started_at": "2025-12-09T18:09:06Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Beyond the Blackboard: Timberrrrrrrrrrr! Logs incoming (w/ @pencenter)",
+      "game": "Math",
+      "started_at": "2025-12-09T18:26:46Z"
     }
   ]
 }
