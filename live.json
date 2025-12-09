@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-09T18:46:33.677Z",
+  "timestamp": "2025-12-09T18:55:28.798Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,28 +26,28 @@
       "started_at": "2025-12-09T15:07:07Z"
     },
     {
-      "username": "Zachap",
-      "title": "consider learning a thing or two here, and let me know if it's worth your time",
-      "game": "Politics",
-      "started_at": "2025-12-09T10:04:42Z"
-    },
-    {
       "username": "oh_bother",
       "title": "Sim Setup: disarming the bomb in my new car seat! Real car parts!",
       "game": "Just Chatting",
       "started_at": "2025-12-09T17:33:02Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Beyond the Blackboard: Timberrrrrrrrrrr! Logs incoming (w/ @pencenter)",
-      "game": "Math",
-      "started_at": "2025-12-09T18:26:46Z"
+      "username": "Zachap",
+      "title": "consider learning a thing or two here, and let me know if it's worth your time",
+      "game": "Politics",
+      "started_at": "2025-12-09T10:04:42Z"
     },
     {
       "username": "Stephen_Wolfram",
       "title": "Live CEOing Ep 948: Design Review of Connectivity Features",
       "game": "Science & Technology",
       "started_at": "2025-12-09T18:09:06Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Beyond the Blackboard: Timberrrrrrrrrrr! Logs incoming (w/ @pencenter)",
+      "game": "Math",
+      "started_at": "2025-12-09T18:26:46Z"
     }
   ]
 }
