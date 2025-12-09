@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-09T21:05:49.492Z",
+  "timestamp": "2025-12-09T21:15:42.391Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,28 +20,10 @@
       "started_at": "2025-12-09T17:57:53Z"
     },
     {
-      "username": "oh_bother",
-      "title": "Sim Setup: disarming the bomb in my new car seat! Real car parts!",
-      "game": "Just Chatting",
-      "started_at": "2025-12-09T17:33:02Z"
-    },
-    {
-      "username": "Zachap",
-      "title": "consider learning a thing or two here, and let me know if it's worth your time",
-      "game": "Politics",
-      "started_at": "2025-12-09T10:04:42Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Soldering - Builds - Repairs - Chill",
       "game": "Science & Technology",
       "started_at": "2025-12-09T18:59:49Z"
-    },
-    {
-      "username": "Rocketology",
-      "title": "Interstellar Cargo Hauling",
-      "game": "Star Citizen",
-      "started_at": "2025-12-09T19:45:01Z"
     },
     {
       "username": "DonFactorial",
@@ -50,10 +32,22 @@
       "started_at": "2025-12-09T20:43:15Z"
     },
     {
+      "username": "Rocketology",
+      "title": "Interstellar Cargo Hauling",
+      "game": "Star Citizen",
+      "started_at": "2025-12-09T19:45:01Z"
+    },
+    {
       "username": "xTalkProgrammer",
       "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
       "game": "Just Chatting",
       "started_at": "2025-12-09T20:33:42Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "Your dinosaur questions ANSWERED (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2025-12-09T21:14:42Z"
     }
   ]
 }
