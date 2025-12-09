@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-09T23:29:28.403Z",
+  "timestamp": "2025-12-09T23:36:42.307Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2025-12-09T23:04:29Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Soldering - Builds - Repairs - Chill",
-      "game": "Science & Technology",
-      "started_at": "2025-12-09T18:59:49Z"
-    },
-    {
       "username": "DonFactorial",
       "title": "Making visualizations and report writing: Cahn-Hilliard edition (I hardly know -iard) !discord",
       "game": "Math",
       "started_at": "2025-12-09T20:43:15Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Soldering - Builds - Repairs - Chill",
+      "game": "Science & Technology",
+      "started_at": "2025-12-09T18:59:49Z"
     },
     {
       "username": "Rocketology",
