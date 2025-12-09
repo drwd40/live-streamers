@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-09T19:02:29.138Z",
+  "timestamp": "2025-12-09T19:11:24.740Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,28 +8,16 @@
       "started_at": "2025-12-09T13:28:29Z"
     },
     {
-      "username": "ipaintbirbs",
-      "title": "birbs are pretty neat",
-      "game": "Art",
-      "started_at": "2025-12-09T17:57:53Z"
-    },
-    {
       "username": "EJ_SA",
       "title": "Checking out the new expansion! HOI-4! (Part 1)",
       "game": "Hearts of Iron IV",
       "started_at": "2025-12-09T17:45:44Z"
     },
     {
-      "username": "csharpfritz",
-      "title": "C# CLI shenanigans",
-      "game": "Software and Game Development",
-      "started_at": "2025-12-09T15:07:07Z"
-    },
-    {
-      "username": "Zachap",
-      "title": "consider learning a thing or two here, and let me know if it's worth your time",
-      "game": "Politics",
-      "started_at": "2025-12-09T10:04:42Z"
+      "username": "ipaintbirbs",
+      "title": "birbs are pretty neat",
+      "game": "Art",
+      "started_at": "2025-12-09T17:57:53Z"
     },
     {
       "username": "oh_bother",
@@ -38,10 +26,10 @@
       "started_at": "2025-12-09T17:33:02Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 948: Design Review of Connectivity Features",
-      "game": "Science & Technology",
-      "started_at": "2025-12-09T18:09:06Z"
+      "username": "Zachap",
+      "title": "consider learning a thing or two here, and let me know if it's worth your time",
+      "game": "Politics",
+      "started_at": "2025-12-09T10:04:42Z"
     },
     {
       "username": "eToThe2iPi",
