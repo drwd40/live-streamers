@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-09T17:57:07.344Z",
+  "timestamp": "2025-12-09T18:07:07.970Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "Checking out the new expansion! HOI-4! (Part 1)",
       "game": "Hearts of Iron IV",
       "started_at": "2025-12-09T17:45:44Z"
+    },
+    {
+      "username": "ipaintbirbs",
+      "title": "birbs are pretty neat",
+      "game": "Art",
+      "started_at": "2025-12-09T17:57:53Z"
     },
     {
       "username": "csharpfritz",
@@ -30,6 +36,12 @@
       "title": "Sim Setup: disarming the bomb in my new car seat! Real car parts!",
       "game": "Just Chatting",
       "started_at": "2025-12-09T17:33:02Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "Beyond the Blackboard Episode 3: Let's chop some logs into a managemable task. [!commands💻 !fish🦈]",
+      "game": "Math",
+      "started_at": "2025-12-09T18:05:08Z"
     }
   ]
 }
