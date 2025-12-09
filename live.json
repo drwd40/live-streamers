@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-09T20:39:17.553Z",
+  "timestamp": "2025-12-09T20:45:35.617Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -48,6 +48,12 @@
       "title": "Tuesday December 9th @ 2:30 pm EST: Dark & Light: From Neolithic Burials to Immersive Art",
       "game": "Science & Technology",
       "started_at": "2025-12-09T19:28:09Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Making visualizations and report writing: Cahn-Hilliard edition (I hardly know -iard) !discord",
+      "game": "Math",
+      "started_at": "2025-12-09T20:43:15Z"
     },
     {
       "username": "xTalkProgrammer",
