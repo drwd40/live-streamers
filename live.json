@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-09T22:53:22.818Z",
+  "timestamp": "2025-12-09T22:59:01.125Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -9,8 +9,8 @@
     },
     {
       "username": "EJ_SA",
-      "title": "Checking out the new expansion! HOI-4! (Part 1)",
-      "game": "Hearts of Iron IV",
+      "title": "EJ's Space and Rocket Revue! 12/9/25",
+      "game": "Science & Technology",
       "started_at": "2025-12-09T17:45:44Z"
     },
     {
@@ -38,16 +38,16 @@
       "started_at": "2025-12-09T20:43:15Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "Nine Sols, Night 12: Grinding a miniboss that shouldn't take this long...",
-      "game": "Nine Sols",
-      "started_at": "2025-12-09T22:06:26Z"
-    },
-    {
       "username": "xTalkProgrammer",
       "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
       "game": "Just Chatting",
       "started_at": "2025-12-09T20:33:42Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Nine Sols, Night 12: Grinding a miniboss that shouldn't take this long...",
+      "game": "Nine Sols",
+      "started_at": "2025-12-09T22:06:26Z"
     }
   ]
 }
