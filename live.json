@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-10T15:41:32.438Z",
+  "timestamp": "2025-12-10T15:49:35.079Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2025-12-10T15:01:35Z"
     },
     {
-      "username": "Zachap",
-      "title": "Education is prio",
-      "game": "Politics",
-      "started_at": "2025-12-10T10:02:51Z"
-    },
-    {
       "username": "csharpfritz",
       "title": "Enter the Chaos Monkey",
       "game": "Software and Game Development",
       "started_at": "2025-12-10T14:12:08Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "Education is prio",
+      "game": "Politics",
+      "started_at": "2025-12-10T10:02:51Z"
     },
     {
       "username": "TimberAnew",
