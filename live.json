@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-10T21:50:31.041Z",
+  "timestamp": "2025-12-10T21:56:32.737Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -9,8 +9,8 @@
     },
     {
       "username": "EJ_SA",
-      "title": "Cutting out rusty metal to fix my old car! The Crew Cab Charger (Part 40)",
-      "game": "IRL",
+      "title": "EJ's Space and Rocket Revue! 12/10/25",
+      "game": "Science & Technology",
       "started_at": "2025-12-10T15:01:35Z"
     },
     {
@@ -30,6 +30,12 @@
       "title": "History of Science and Technology Q&A (December 10, 2025)",
       "game": "Science & Technology",
       "started_at": "2025-12-10T20:47:07Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Taking your math requests & trying to solve Exponential Idle: Season Five Lemmas!",
+      "game": "Exponential Idle",
+      "started_at": "2025-12-10T21:55:34Z"
     }
   ]
 }
