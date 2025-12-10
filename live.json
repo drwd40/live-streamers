@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-10T01:08:51.296Z",
+  "timestamp": "2025-12-10T01:49:27.442Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,12 +12,6 @@
       "title": "EJ's Space and Rocket Revue! 12/9/25",
       "game": "Science & Technology",
       "started_at": "2025-12-09T17:45:44Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "Your dinosaur questions ANSWERED (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2025-12-09T21:14:42Z"
     },
     {
       "username": "imreallyimportant",
@@ -44,10 +38,10 @@
       "started_at": "2025-12-10T00:04:05Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "Nine Sols, Night 12: Grinding a miniboss that shouldn't take this long...",
-      "game": "Nine Sols",
-      "started_at": "2025-12-09T22:06:26Z"
+      "username": "Mr_Aejis",
+      "title": "Teacher descends the gacha rabbit hole - Honkai Star Rail",
+      "game": "Honkai: Star Rail",
+      "started_at": "2025-12-10T01:35:09Z"
     }
   ]
 }
