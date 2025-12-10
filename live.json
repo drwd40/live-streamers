@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-10T20:59:34.572Z",
+  "timestamp": "2025-12-10T21:09:28.439Z",
   "live": [
     {
       "username": "Kitboga",
@@ -20,6 +20,12 @@
       "started_at": "2025-12-10T15:01:35Z"
     },
     {
+      "username": "Paleontologizing",
+      "title": "Interview w/ Utah's State Paleontologist Jim Kirkland on his new Jurassic ankylosaur paper + Fossil Science Q&A 🦖🦴⛏❔💬",
+      "game": "Science & Technology",
+      "started_at": "2025-12-10T20:58:48Z"
+    },
+    {
       "username": "Stephen_Wolfram",
       "title": "History of Science and Technology Q&A (December 10, 2025)",
       "game": "Science & Technology",
@@ -32,10 +38,10 @@
       "started_at": "2025-12-10T19:13:03Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "Interview w/ Utah's State Paleontologist Jim Kirkland on his new Jurassic ankylosaur paper + Fossil Science Q&A 🦖🦴⛏❔💬",
-      "game": "Science & Technology",
-      "started_at": "2025-12-10T20:58:48Z"
+      "username": "AdamLearnsLive",
+      "title": "Fonts (day 274½)",
+      "game": "Software and Game Development",
+      "started_at": "2025-12-10T21:06:57Z"
     }
   ]
 }
