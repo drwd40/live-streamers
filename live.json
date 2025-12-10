@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-10T22:04:51.823Z",
+  "timestamp": "2025-12-10T22:14:59.623Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -27,21 +27,21 @@
     },
     {
       "username": "Stephen_Wolfram",
-      "title": "History of Science and Technology Q&A (December 10, 2025)",
+      "title": "Live CEOing Ep 951: Design Review of System Modeling and Control Features pt. 2",
       "game": "Science & Technology",
-      "started_at": "2025-12-10T20:47:07Z"
-    },
-    {
-      "username": "nSimplexPachinko",
-      "title": "Taking your math requests & trying to solve Exponential Idle: Season Five Lemmas!",
-      "game": "Exponential Idle",
-      "started_at": "2025-12-10T21:55:34Z"
+      "started_at": "2025-12-10T22:08:21Z"
     },
     {
       "username": "pencenter",
       "title": "More on Riemann Manifolds w @the_kahler_cone & @academyofuselessideas [!commands💻 !fish🦈]",
       "game": "Math",
       "started_at": "2025-12-10T22:02:57Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Taking your math requests & trying to solve Exponential Idle: Season Five Lemmas!",
+      "game": "Exponential Idle",
+      "started_at": "2025-12-10T21:55:34Z"
     }
   ]
 }
