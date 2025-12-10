@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-10T20:52:44.435Z",
+  "timestamp": "2025-12-10T20:59:34.572Z",
   "live": [
     {
       "username": "Kitboga",
@@ -20,16 +20,22 @@
       "started_at": "2025-12-10T15:01:35Z"
     },
     {
+      "username": "Stephen_Wolfram",
+      "title": "History of Science and Technology Q&A (December 10, 2025)",
+      "game": "Science & Technology",
+      "started_at": "2025-12-10T20:47:07Z"
+    },
+    {
       "username": "eToThe2iPi",
       "title": "Math Community Chess Tournament",
       "game": "Chess",
       "started_at": "2025-12-10T19:13:03Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "History of Science and Technology Q&A (December 10, 2025)",
+      "username": "Paleontologizing",
+      "title": "Interview w/ Utah's State Paleontologist Jim Kirkland on his new Jurassic ankylosaur paper + Fossil Science Q&A 🦖🦴⛏❔💬",
       "game": "Science & Technology",
-      "started_at": "2025-12-10T20:47:07Z"
+      "started_at": "2025-12-10T20:58:48Z"
     }
   ]
 }
