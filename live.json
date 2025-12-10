@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-10T23:28:37.867Z",
+  "timestamp": "2025-12-10T23:36:23.393Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "Taking your math requests & trying to solve Exponential Idle: Season Five Lemmas!",
       "game": "Exponential Idle",
       "started_at": "2025-12-10T21:55:34Z"
+    },
+    {
+      "username": "ipaintbirbs",
+      "title": "birds are sleeping i am painting",
+      "game": "Art",
+      "started_at": "2025-12-10T23:32:36Z"
     }
   ]
 }
