@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-10T18:13:37.154Z",
+  "timestamp": "2025-12-10T18:27:26.908Z",
   "live": [
     {
       "username": "Maya",
@@ -36,12 +36,6 @@
       "title": "Education is prio",
       "game": "Politics",
       "started_at": "2025-12-10T10:02:51Z"
-    },
-    {
-      "username": "TimberAnew",
-      "title": "The Pedestrian - I'm Stuck - Treadmill Stream",
-      "game": "Fitness & Health",
-      "started_at": "2025-12-10T15:03:57Z"
     }
   ]
 }
