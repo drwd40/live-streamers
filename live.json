@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-10T05:06:51.832Z",
+  "timestamp": "2025-12-10T05:17:38.858Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,12 @@
       "title": "Soldering - Builds - Repairs - Chill",
       "game": "Science & Technology",
       "started_at": "2025-12-09T18:59:49Z"
+    },
+    {
+      "username": "DrMick",
+      "title": "Heels vs 1776ers",
+      "game": "Sports",
+      "started_at": "2025-12-10T05:09:14Z"
     }
   ]
 }
