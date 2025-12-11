@@ -1,9 +1,9 @@
 {
-  "timestamp": "2025-12-11T01:50:38.746Z",
+  "timestamp": "2025-12-11T02:31:00.009Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "🦊 60 Hours Foxes or Fired - Day 3 | !alveus !institute !pixel !schedule !video !feed",
+      "title": "Chat Chats w/ Evan | !alveus !institute !pixel !schedule !video !feed",
       "game": "Just Chatting",
       "started_at": "2025-12-09T13:28:29Z"
     },
@@ -26,28 +26,28 @@
       "started_at": "2025-12-10T23:32:36Z"
     },
     {
+      "username": "SciAnts_Streams",
+      "title": "Wacom Wednesday | Science art to excite more people about science plus rabbit holes galore! | Partner+ 111/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2025-12-11T02:00:24Z"
+    },
+    {
       "username": "nogre0",
       "title": "brazilian waxing philosophical. new paper !we",
       "game": "Just Chatting",
       "started_at": "2025-12-11T01:00:32Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
-      "game": "Just Chatting",
-      "started_at": "2025-12-11T01:01:56Z"
-    },
-    {
-      "username": "nSimplexPachinko",
-      "title": "Taking your math requests & trying to solve Exponential Idle: Season Five Lemmas!",
-      "game": "Exponential Idle",
-      "started_at": "2025-12-10T21:55:34Z"
-    },
-    {
       "username": "Nerduino",
       "title": "The oldest Supernova.  Making a Santa Hat For Jeb!  #nasa #space #scientist",
       "game": "Science & Technology",
       "started_at": "2025-12-11T01:47:37Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2025-12-11T01:01:56Z"
     }
   ]
 }
