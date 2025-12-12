@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-12T18:13:34.061Z",
+  "timestamp": "2025-12-12T18:27:26.485Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,22 @@
       "started_at": "2025-12-12T17:39:35Z"
     },
     {
-      "username": "TimberAnew",
-      "title": "The Pedestrian (and treadmill time)",
-      "game": "Just Chatting",
-      "started_at": "2025-12-12T15:03:15Z"
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 951: Design Review of Discrete Computation Features pt. 2",
+      "game": "Science & Technology",
+      "started_at": "2025-12-12T18:13:33Z"
     },
     {
       "username": "TominationTime",
       "title": "🔴IS THIS PEAK?🔴",
       "game": "PEAK",
       "started_at": "2025-12-12T17:58:48Z"
+    },
+    {
+      "username": "SomeCodingGuy",
+      "title": "Friday code talk, code office hours, coffee shop.",
+      "game": "Software and Game Development",
+      "started_at": "2025-12-12T18:15:21Z"
     }
   ]
 }
