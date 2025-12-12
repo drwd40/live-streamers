@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-12T19:56:25.630Z",
+  "timestamp": "2025-12-12T20:04:41.366Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,28 +26,28 @@
       "started_at": "2025-12-12T17:39:35Z"
     },
     {
-      "username": "Zachap",
-      "title": "welcome to ask about my politics",
-      "game": "Politics",
-      "started_at": "2025-12-12T10:03:18Z"
-    },
-    {
       "username": "DrawCuriosity",
       "title": "🐏 Science News + Maybe Programming a new game??? Dec 12th Advent Bug: White moth ✨🐏 !merch !bugwiki !dailybug",
       "game": "Science & Technology",
       "started_at": "2025-12-12T19:30:51Z"
     },
     {
-      "username": "SharkG33k",
-      "title": "🎄Jingle Jam! Playing a co-op trash cleanup game with @baronofbile that raises money for @worldwildlifefund 🎄",
-      "game": "Clean Up Earth",
-      "started_at": "2025-12-12T18:58:58Z"
+      "username": "Zachap",
+      "title": "welcome to ask about my politics",
+      "game": "Politics",
+      "started_at": "2025-12-12T10:03:18Z"
     },
     {
       "username": "Rocketology",
       "title": "UnKerbaled Start Modded Career - Episode 17",
       "game": "Kerbal Space Program",
       "started_at": "2025-12-12T19:03:14Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "🎄Jingle Jam! Playing a co-op trash cleanup game with @baronofbile that raises money for @worldwildlifefund 🎄",
+      "game": "Clean Up Earth",
+      "started_at": "2025-12-12T18:58:58Z"
     },
     {
       "username": "SomeCodingGuy",
