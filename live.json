@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-12T14:53:55.340Z",
+  "timestamp": "2025-12-12T14:59:31.733Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2025-12-11T13:33:04Z"
     },
     {
-      "username": "Zachap",
-      "title": "welcome to ask about my politics",
-      "game": "Politics",
-      "started_at": "2025-12-12T10:03:18Z"
-    },
-    {
       "username": "csharpfritz",
       "title": "Open Source C# Command-line tools for @StJudePlayLive",
       "game": "Software and Game Development",
       "started_at": "2025-12-12T14:19:31Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "welcome to ask about my politics",
+      "game": "Politics",
+      "started_at": "2025-12-12T10:03:18Z"
     },
     {
       "username": "Andilippi",
