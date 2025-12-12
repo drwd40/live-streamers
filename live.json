@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-12T05:44:36.267Z",
+  "timestamp": "2025-12-12T05:52:04.146Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "Push for new Emotes! Metroid Prime 4: Beyond Day 4 - First Playthrough with Metroid Science| Partner+ 116/300 | !ppp !yt !pod",
       "game": "Metroid Prime 4: Beyond",
       "started_at": "2025-12-11T18:59:22Z"
+    },
+    {
+      "username": "DrMick",
+      "title": "Therapist Plays GTA IV: Part 9",
+      "game": "Grand Theft Auto IV",
+      "started_at": "2025-12-12T05:49:48Z"
     }
   ]
 }
