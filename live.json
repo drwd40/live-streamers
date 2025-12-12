@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-12T01:19:25.582Z",
+  "timestamp": "2025-12-12T02:04:43.033Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2025-12-11T17:12:42Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "Dinosaur Science Q&A + Thursday BIRDSday (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2025-12-11T21:08:09Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "INDIANA REPUBLICANS REJECT TRUMP REDISTRICTING EFFORT | DOJ FAILS TO INDICT LETITIA JAMES - AGAIN",
       "game": "Just Chatting",
       "started_at": "2025-12-11T22:49:30Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "Dinosaur Science Q&A + Thursday BIRDSday (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2025-12-11T21:08:09Z"
     },
     {
       "username": "shnaff",
@@ -50,10 +50,10 @@
       "started_at": "2025-12-12T00:00:13Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Double the failure on Namalsk with @efeldina !discord",
-      "game": "DayZ",
-      "started_at": "2025-12-11T19:16:03Z"
+      "username": "Nerduino",
+      "title": "Earth Science and Astronomy + Making a Santa Hat For Jeb!  #nasa #space #scientist",
+      "game": "Science & Technology",
+      "started_at": "2025-12-12T01:45:06Z"
     }
   ]
 }
