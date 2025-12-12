@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-12T21:00:25.677Z",
+  "timestamp": "2025-12-12T21:09:05.920Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -21,8 +21,8 @@
     },
     {
       "username": "DrawCuriosity",
-      "title": "🐏 Science News + Maybe Programming a new game??? Dec 12th Advent Bug: White moth ✨🐏 !merch !bugwiki !dailybug",
-      "game": "Science & Technology",
+      "title": "🐏 Programming our bug minigame together??? Dec 12th Advent Bug: White moth ✨🐏 !merch !bugwiki !dailybug",
+      "game": "Software and Game Development",
       "started_at": "2025-12-12T19:30:51Z"
     },
     {
@@ -44,6 +44,12 @@
       "started_at": "2025-12-12T20:43:33Z"
     },
     {
+      "username": "DonFactorial",
+      "title": "Taking your math questions and goofing off !discord",
+      "game": "Math",
+      "started_at": "2025-12-12T20:58:25Z"
+    },
+    {
       "username": "PotteryDojo",
       "title": "Pottery: Wood-Fired work unpack | Soda-Fired unpack | Throwing small pots for Hokumen",
       "game": "Art",
@@ -56,10 +62,10 @@
       "started_at": "2025-12-12T20:26:37Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Taking your math questions and goofing off !discord",
-      "game": "Math",
-      "started_at": "2025-12-12T20:58:25Z"
+      "username": "AdamLearnsLive",
+      "title": "Updating the demo (day 276½)",
+      "game": "Software and Game Development",
+      "started_at": "2025-12-12T21:08:48Z"
     }
   ]
 }
