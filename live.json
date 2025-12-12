@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-12T21:49:04.948Z",
+  "timestamp": "2025-12-12T21:55:30.637Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -15,7 +15,7 @@
     },
     {
       "username": "AdamLearnsLive",
-      "title": "Updating the demo (day 276½)",
+      "title": "Makin' music (day 276½)",
       "game": "Software and Game Development",
       "started_at": "2025-12-12T21:08:48Z"
     },
@@ -24,18 +24,6 @@
       "title": "🐏 Programming our bug minigame together??? Dec 12th Advent Bug: White moth ✨🐏 !merch !bugwiki !dailybug",
       "game": "Software and Game Development",
       "started_at": "2025-12-12T19:30:51Z"
-    },
-    {
-      "username": "Stephen_Wolfram",
-      "title": "Future of Science and Technology Q&A (December 12, 2025)",
-      "game": "Science & Technology",
-      "started_at": "2025-12-12T20:43:33Z"
-    },
-    {
-      "username": "SharkG33k",
-      "title": "🎄Jingle Jam! Playing a co-op trash cleanup game with @baronofbile that raises money for @worldwildlifefund 🎄",
-      "game": "Clean Up Earth",
-      "started_at": "2025-12-12T18:58:58Z"
     },
     {
       "username": "Rocketology",
@@ -51,9 +39,15 @@
     },
     {
       "username": "PotteryDojo",
-      "title": "Pottery: Making Bonsai Pots | Throwing | Batch # 18 | Batch Total: 7",
+      "title": "Pottery: Making Bonsai Pots | Throwing | Batch # 18 | Batch Total: 9",
       "game": "Art",
       "started_at": "2025-12-12T20:09:26Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "The Sixteen Tournament of Champions: Episode 25.TOC",
+      "game": "Quiz Show",
+      "started_at": "2025-12-12T21:51:55Z"
     }
   ]
 }
