@@ -1,9 +1,9 @@
 {
-  "timestamp": "2025-12-12T22:02:30.288Z",
+  "timestamp": "2025-12-12T22:11:53.299Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Show and Tell | !alveus !institute !pixel !schedule !video !feed",
+      "title": "🦊 60 Hours Foxes or Fired - LAST DAY 🦊 | !alveus !institute !pixel !schedule !video !feed",
       "game": "Just Chatting",
       "started_at": "2025-12-11T13:33:04Z"
     },
@@ -32,14 +32,8 @@
       "started_at": "2025-12-12T19:03:14Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Taking your math questions and goofing off !discord",
-      "game": "Math",
-      "started_at": "2025-12-12T20:58:25Z"
-    },
-    {
       "username": "PotteryDojo",
-      "title": "Pottery: Making Bonsai Pots | Throwing | Batch # 18 | Batch Total: 11",
+      "title": "Pottery: Making Bonsai Pots | Throwing | Batch # 18 | Batch Total: 15",
       "game": "Art",
       "started_at": "2025-12-12T20:09:26Z"
     },
@@ -48,6 +42,12 @@
       "title": "The Sixteen Tournament of Champions: Episode 25.TOC",
       "game": "Quiz Show",
       "started_at": "2025-12-12T21:51:55Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Taking your math questions and goofing off !discord",
+      "game": "Math",
+      "started_at": "2025-12-12T20:58:25Z"
     }
   ]
 }
