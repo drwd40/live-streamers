@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-12T21:19:53.264Z",
+  "timestamp": "2025-12-12T21:29:41.480Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,6 +26,12 @@
       "started_at": "2025-12-12T19:30:51Z"
     },
     {
+      "username": "AdamLearnsLive",
+      "title": "Updating the demo (day 276½)",
+      "game": "Software and Game Development",
+      "started_at": "2025-12-12T21:08:48Z"
+    },
+    {
       "username": "Rocketology",
       "title": "UnKerbaled Start Modded Career - Episode 17",
       "game": "Kerbal Space Program",
@@ -44,12 +50,6 @@
       "started_at": "2025-12-12T20:43:33Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Updating the demo (day 276½)",
-      "game": "Software and Game Development",
-      "started_at": "2025-12-12T21:08:48Z"
-    },
-    {
       "username": "DonFactorial",
       "title": "Taking your math questions and goofing off !discord",
       "game": "Math",
@@ -57,7 +57,7 @@
     },
     {
       "username": "PotteryDojo",
-      "title": "Pottery: Making Bonsai Pots | Throwing | Batch # 18 | Batch Total: 1",
+      "title": "Pottery: Making Bonsai Pots | Throwing | Batch # 18 | Batch Total: 3",
       "game": "Art",
       "started_at": "2025-12-12T20:09:26Z"
     },
