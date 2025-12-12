@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-12T23:34:05.470Z",
+  "timestamp": "2025-12-12T23:41:46.454Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,10 +32,10 @@
       "started_at": "2025-12-12T19:30:51Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Makin' music (day 276½)",
-      "game": "Software and Game Development",
-      "started_at": "2025-12-12T21:08:48Z"
+      "username": "shnaff",
+      "title": "Chill instrumental music in !stereo🎧",
+      "game": "Music",
+      "started_at": "2025-12-12T23:02:33Z"
     },
     {
       "username": "Rocketology",
@@ -48,12 +48,6 @@
       "title": "Taking your math questions and goofing off !discord",
       "game": "Math",
       "started_at": "2025-12-12T20:58:25Z"
-    },
-    {
-      "username": "shnaff",
-      "title": "Chill instrumental music in !stereo🎧",
-      "game": "Music",
-      "started_at": "2025-12-12T23:02:33Z"
     }
   ]
 }
