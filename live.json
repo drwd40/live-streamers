@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-12T22:11:53.299Z",
+  "timestamp": "2025-12-12T22:24:08.858Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,12 +32,6 @@
       "started_at": "2025-12-12T19:03:14Z"
     },
     {
-      "username": "PotteryDojo",
-      "title": "Pottery: Making Bonsai Pots | Throwing | Batch # 18 | Batch Total: 15",
-      "game": "Art",
-      "started_at": "2025-12-12T20:09:26Z"
-    },
-    {
       "username": "eToThe2iPi",
       "title": "The Sixteen Tournament of Champions: Episode 25.TOC",
       "game": "Quiz Show",
@@ -48,6 +42,12 @@
       "title": "Taking your math questions and goofing off !discord",
       "game": "Math",
       "started_at": "2025-12-12T20:58:25Z"
+    },
+    {
+      "username": "PotteryDojo",
+      "title": "Pottery: Making Bonsai Pots | Throwing | Batch # 18 | Batch Total: 16",
+      "game": "Art",
+      "started_at": "2025-12-12T20:09:26Z"
     }
   ]
 }
