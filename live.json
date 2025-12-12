@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-12T00:48:06.589Z",
+  "timestamp": "2025-12-12T01:19:25.582Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,22 @@
       "started_at": "2025-12-11T17:12:42Z"
     },
     {
+      "username": "Paleontologizing",
+      "title": "Dinosaur Science Q&A + Thursday BIRDSday (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2025-12-11T21:08:09Z"
+    },
+    {
       "username": "imreallyimportant",
       "title": "INDIANA REPUBLICANS REJECT TRUMP REDISTRICTING EFFORT | DOJ FAILS TO INDICT LETITIA JAMES - AGAIN",
       "game": "Just Chatting",
       "started_at": "2025-12-11T22:49:30Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "Dinosaur Science Q&A + Thursday BIRDSday (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2025-12-11T21:08:09Z"
+      "username": "shnaff",
+      "title": "Chill instrumental music in !stereo🎧",
+      "game": "Music",
+      "started_at": "2025-12-11T23:01:25Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -38,22 +44,16 @@
       "started_at": "2025-12-12T00:18:16Z"
     },
     {
-      "username": "shnaff",
-      "title": "Chill instrumental music in !stereo🎧",
-      "game": "Music",
-      "started_at": "2025-12-11T23:01:25Z"
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2025-12-12T00:00:13Z"
     },
     {
       "username": "DonFactorial",
       "title": "Double the failure on Namalsk with @efeldina !discord",
       "game": "DayZ",
       "started_at": "2025-12-11T19:16:03Z"
-    },
-    {
-      "username": "ActualEducation",
-      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
-      "game": "Just Chatting",
-      "started_at": "2025-12-12T00:00:13Z"
     }
   ]
 }
