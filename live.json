@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-12T20:47:22.553Z",
+  "timestamp": "2025-12-12T20:54:09.889Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,6 +38,12 @@
       "started_at": "2025-12-12T19:03:14Z"
     },
     {
+      "username": "Stephen_Wolfram",
+      "title": "Future of Science and Technology Q&A (December 12, 2025)",
+      "game": "Science & Technology",
+      "started_at": "2025-12-12T20:43:33Z"
+    },
+    {
       "username": "PotteryDojo",
       "title": "Pottery: Wood-Fired work unpack | Soda-Fired unpack | Throwing small pots for Hokumen",
       "game": "Art",
@@ -48,12 +54,6 @@
       "title": "Watching and commentating on Apple TV's show Prehistoric Planet Ice age!",
       "game": "Science & Technology",
       "started_at": "2025-12-12T20:26:37Z"
-    },
-    {
-      "username": "Stephen_Wolfram",
-      "title": "Future of Science and Technology Q&A (December 12, 2025)",
-      "game": "Science & Technology",
-      "started_at": "2025-12-12T20:43:33Z"
     }
   ]
 }
