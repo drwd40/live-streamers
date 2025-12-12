@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-12T21:43:14.081Z",
+  "timestamp": "2025-12-12T21:49:04.948Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,12 +20,6 @@
       "started_at": "2025-12-12T21:08:48Z"
     },
     {
-      "username": "oh_bother",
-      "title": "Misc Projects: LEDs and chairs and stuff? It's Friday!",
-      "game": "Just Chatting",
-      "started_at": "2025-12-12T17:39:35Z"
-    },
-    {
       "username": "DrawCuriosity",
       "title": "🐏 Programming our bug minigame together??? Dec 12th Advent Bug: White moth ✨🐏 !merch !bugwiki !dailybug",
       "game": "Software and Game Development",
@@ -38,16 +32,16 @@
       "started_at": "2025-12-12T20:43:33Z"
     },
     {
-      "username": "Rocketology",
-      "title": "UnKerbaled Start Modded Career - Episode 17",
-      "game": "Kerbal Space Program",
-      "started_at": "2025-12-12T19:03:14Z"
-    },
-    {
       "username": "SharkG33k",
       "title": "🎄Jingle Jam! Playing a co-op trash cleanup game with @baronofbile that raises money for @worldwildlifefund 🎄",
       "game": "Clean Up Earth",
       "started_at": "2025-12-12T18:58:58Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "UnKerbaled Start Modded Career - Episode 17",
+      "game": "Kerbal Space Program",
+      "started_at": "2025-12-12T19:03:14Z"
     },
     {
       "username": "DonFactorial",
@@ -57,15 +51,9 @@
     },
     {
       "username": "PotteryDojo",
-      "title": "Pottery: Making Bonsai Pots | Throwing | Batch # 18 | Batch Total: 6",
+      "title": "Pottery: Making Bonsai Pots | Throwing | Batch # 18 | Batch Total: 7",
       "game": "Art",
       "started_at": "2025-12-12T20:09:26Z"
-    },
-    {
-      "username": "jacksfacts",
-      "title": "Watching and commentating on Apple TV's show Prehistoric Planet Ice age!",
-      "game": "Science & Technology",
-      "started_at": "2025-12-12T20:26:37Z"
     }
   ]
 }
