@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-13T22:25:57.458Z",
+  "timestamp": "2025-12-13T22:35:25.531Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,28 +20,28 @@
       "started_at": "2025-12-13T21:52:54Z"
     },
     {
-      "username": "Rocketology",
-      "title": "Becoming a Loot Goblin",
-      "game": "Star Citizen",
-      "started_at": "2025-12-13T18:45:07Z"
-    },
-    {
       "username": "VolcanoDoc",
       "title": "Twitch Year-End Science ReCap 2025 & Secret Science Santa | !phd !tkf !socials !pubs",
       "game": "Science & Technology",
       "started_at": "2025-12-13T21:57:10Z"
     },
     {
-      "username": "Nerduino",
-      "title": "Holiday Science Roundtable Chat! @sciants_streams @paleontologizing  @finitesingularity  @volcanodoc #science #scientist #collab",
-      "game": "Science & Technology",
-      "started_at": "2025-12-13T22:05:30Z"
+      "username": "Rocketology",
+      "title": "Becoming a Loot Goblin",
+      "game": "Star Citizen",
+      "started_at": "2025-12-13T18:45:07Z"
     },
     {
       "username": "SydHeresy",
       "title": "Some Soldering and Synthesizers - Electronics - DIY",
       "game": "Science & Technology",
       "started_at": "2025-12-13T21:40:02Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Holiday Science Roundtable Chat! @sciants_streams @paleontologizing  @finitesingularity  @volcanodoc #science #scientist #collab",
+      "game": "Science & Technology",
+      "started_at": "2025-12-13T22:05:30Z"
     },
     {
       "username": "DonFactorial",
