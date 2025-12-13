@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-13T18:37:57.034Z",
+  "timestamp": "2025-12-13T18:47:38.987Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "The 2025 Random Language Programming Challenge (ft. @donfactorial and @phobosdream)",
       "game": "Software and Game Development",
       "started_at": "2025-12-13T18:19:23Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "Becoming a Loot Goblin",
+      "game": "Star Citizen",
+      "started_at": "2025-12-13T18:45:07Z"
     }
   ]
 }
