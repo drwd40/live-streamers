@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-13T21:14:28.533Z",
+  "timestamp": "2025-12-13T21:25:01.574Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,12 +14,6 @@
       "started_at": "2025-12-13T19:13:41Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Programming competition with random languages vs @etothe2ipi and @phobosdream !discord",
-      "game": "Software and Game Development",
-      "started_at": "2025-12-13T18:19:47Z"
-    },
-    {
       "username": "Rocketology",
       "title": "Becoming a Loot Goblin",
       "game": "Star Citizen",
@@ -30,6 +24,12 @@
       "title": "The 2025 Random Language Programming Challenge (ft. @donfactorial and @phobosdream)",
       "game": "Software and Game Development",
       "started_at": "2025-12-13T18:19:23Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Programming competition with random languages vs @etothe2ipi and @phobosdream !discord",
+      "game": "Software and Game Development",
+      "started_at": "2025-12-13T18:19:47Z"
     }
   ]
 }
