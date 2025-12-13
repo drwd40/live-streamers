@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-13T19:25:59.217Z",
+  "timestamp": "2025-12-13T19:32:23.205Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,16 @@
       "started_at": "2025-12-13T18:45:07Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Programming competition with random languages vs @etothe2ipi and @phobosdream !discord",
-      "game": "Software and Game Development",
-      "started_at": "2025-12-13T18:19:47Z"
-    },
-    {
       "username": "eToThe2iPi",
       "title": "The 2025 Random Language Programming Challenge (ft. @donfactorial and @phobosdream)",
       "game": "Software and Game Development",
       "started_at": "2025-12-13T18:19:23Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Programming competition with random languages vs @etothe2ipi and @phobosdream !discord",
+      "game": "Software and Game Development",
+      "started_at": "2025-12-13T18:19:47Z"
     }
   ]
 }
