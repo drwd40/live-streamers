@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-14T23:05:07.160Z",
+  "timestamp": "2025-12-14T23:15:08.596Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,22 +8,16 @@
       "started_at": "2025-12-13T13:25:58Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "🎉16k Celebration Stream 🎉 | Science, games, rabbit holes, and more! | Partner+ 137/300 | !ppp !yt !pod",
-      "game": "Avatar: Frontiers of Pandora",
-      "started_at": "2025-12-14T14:06:04Z"
-    },
-    {
-      "username": "VolcanoDoc",
-      "title": "Tiny Lego Volcano |🌋 Science Sunday | !phd !tkf !socials !pubs",
-      "game": "Lego & Brickbuilding",
-      "started_at": "2025-12-14T19:23:24Z"
-    },
-    {
       "username": "JapanesePrintmaking",
       "title": "Making Japanese woodblock prints ... live while you watch ...",
       "game": "Makers & Crafting",
       "started_at": "2025-12-14T23:00:18Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "🎉16k Celebration Stream 🎉 | Science, games, rabbit holes, and more! | Partner+ 137/300 | !ppp !yt !pod",
+      "game": "Avatar: Frontiers of Pandora",
+      "started_at": "2025-12-14T14:06:04Z"
     },
     {
       "username": "Rocketology",
@@ -32,16 +26,16 @@
       "started_at": "2025-12-14T19:03:35Z"
     },
     {
-      "username": "DrAlexanderClarke",
-      "title": "Bruships 223: Naval History & Science Fiction Questions Answered Live...",
-      "game": "Just Chatting",
-      "started_at": "2025-12-14T19:34:29Z"
-    },
-    {
       "username": "ActualEducation",
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Just Chatting",
       "started_at": "2025-12-14T23:01:00Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "Bruships 223: Naval History & Science Fiction Questions Answered Live...",
+      "game": "Just Chatting",
+      "started_at": "2025-12-14T19:34:29Z"
     }
   ]
 }
