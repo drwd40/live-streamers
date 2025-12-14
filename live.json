@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-14T19:16:55.627Z",
+  "timestamp": "2025-12-14T19:25:36.105Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "UnKerbaled Start Modded Career - Episode 18",
       "game": "Kerbal Space Program",
       "started_at": "2025-12-14T19:03:35Z"
+    },
+    {
+      "username": "VolcanoDoc",
+      "title": "Tiny Lego Volcano |🌋 Science Sunday | !phd !tkf !socials !pubs",
+      "game": "Lego & Brickbuilding",
+      "started_at": "2025-12-14T19:23:24Z"
     }
   ]
 }
