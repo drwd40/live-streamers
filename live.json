@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-14T19:56:11.287Z",
+  "timestamp": "2025-12-14T20:03:59.444Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -48,6 +48,12 @@
       "title": "Bruships 223: Naval History & Science Fiction Questions Answered Live...",
       "game": "Just Chatting",
       "started_at": "2025-12-14T19:34:29Z"
+    },
+    {
+      "username": "DasValdez",
+      "title": "Nuclear-Powered Octocopter... on Another World | Intrepid Museum Astro Live Dec 2025",
+      "game": "Science & Technology",
+      "started_at": "2025-12-14T20:03:43Z"
     }
   ]
 }
