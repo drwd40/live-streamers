@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-14T13:04:25.229Z",
+  "timestamp": "2025-12-14T13:17:53.503Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2025-12-13T13:25:58Z"
     },
     {
+      "username": "TinyToxicTofu",
+      "title": "The Semester is OFFICIALLY OVER 🎄 Ranking Top Physics Experiments of All Time 🎄 Playing More GTAV 🎄 !bambi !physics",
+      "game": "Science & Technology",
+      "started_at": "2025-12-14T12:55:26Z"
+    },
+    {
       "username": "Zachap",
       "title": "Anarchist and Communist",
       "game": "Just Chatting",
       "started_at": "2025-12-14T10:02:19Z"
-    },
-    {
-      "username": "TinyToxicTofu",
-      "title": "The Semester is OFFICIALLY OVER 🎄 Ranking Top Physics Experiments of All Time 🎄 Playing More GTAV 🎄 !bambi !physics",
-      "game": "Grand Theft Auto V",
-      "started_at": "2025-12-14T12:55:26Z"
     }
   ]
 }
