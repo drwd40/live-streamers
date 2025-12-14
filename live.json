@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-14T02:28:32.367Z",
+  "timestamp": "2025-12-14T03:08:53.300Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,22 +8,10 @@
       "started_at": "2025-12-13T13:25:58Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "SciAnts Saturday | Biology and Space with @nerduino | Partner+ 134/300 | !ppp !yt !pod",
-      "game": "MARVEL Cosmic Invasion",
-      "started_at": "2025-12-13T19:13:41Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Some Soldering and Synthesizers - Electronics - DIY",
       "game": "Science & Technology",
       "started_at": "2025-12-13T21:40:02Z"
-    },
-    {
-      "username": "Nerduino",
-      "title": "Holiday Science Roundtable Chat! @sciants_streams @paleontologizing  @finitesingularity  @volcanodoc #science #scientist #collab",
-      "game": "Science & Technology",
-      "started_at": "2025-12-13T22:05:30Z"
     },
     {
       "username": "Mr_Aejis",
@@ -36,6 +24,12 @@
       "title": "Testing out ALttP + SMW Multi-World Rando on Archipelago. CHAOS w @sexydexy @leonard317 [!rules !commands💻 !fish🦈]",
       "game": "The Legend of Zelda: A Link to the Past",
       "started_at": "2025-12-14T01:12:52Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "The seccrets of cuckoo bees plus getting there from here in NextGen MARTA.",
+      "game": "IRL",
+      "started_at": "2025-12-14T03:02:29Z"
     }
   ]
 }
