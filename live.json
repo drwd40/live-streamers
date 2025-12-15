@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-15T15:00:35.130Z",
+  "timestamp": "2025-12-15T15:12:29.557Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,18 @@
       "title": "C# live coding fun!",
       "game": "Software and Game Development",
       "started_at": "2025-12-15T14:54:56Z"
+    },
+    {
+      "username": "TimberAnew",
+      "title": "The Needle Archer - Chat inspired woodcarving",
+      "game": "Art",
+      "started_at": "2025-12-15T15:02:02Z"
+    },
+    {
+      "username": "LumiRue",
+      "title": "Happy Monday Coworking<3 Lowkey Quiet Hangout | Currently on Winter Break! | Adjusting the Stream Room",
+      "game": "Just Chatting",
+      "started_at": "2025-12-15T15:10:57Z"
     }
   ]
 }
