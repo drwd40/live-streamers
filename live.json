@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-15T21:30:37.884Z",
+  "timestamp": "2025-12-15T21:39:17.474Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,16 @@
       "started_at": "2025-12-15T21:05:35Z"
     },
     {
-      "username": "DrawCuriosity",
-      "title": "🐏 Some science, some creative prompts, some puzzles! Dec 15th Advent Bug: Silkmoth ✨🐏 !merch !bugwiki !dailybug",
-      "game": "Science & Technology",
-      "started_at": "2025-12-15T20:25:29Z"
-    },
-    {
       "username": "Zachap",
       "title": "I'm here every day to learn and teach :)",
       "game": "Just Chatting",
       "started_at": "2025-12-15T10:00:25Z"
+    },
+    {
+      "username": "DrawCuriosity",
+      "title": "🐏 Some science, some creative prompts, some puzzles! Dec 15th Advent Bug: Silkmoth ✨🐏 !merch !bugwiki !dailybug",
+      "game": "Science & Technology",
+      "started_at": "2025-12-15T20:25:29Z"
     },
     {
       "username": "eToThe2iPi",
