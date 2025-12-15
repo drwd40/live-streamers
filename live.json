@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-15T21:08:24.824Z",
+  "timestamp": "2025-12-15T21:19:15.328Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,6 +20,12 @@
       "started_at": "2025-12-15T18:59:55Z"
     },
     {
+      "username": "Paleontologizing",
+      "title": "Let's talk DINOSAURS 🦕💬😲 Fossil science discussion and Q&A (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2025-12-15T21:00:29Z"
+    },
+    {
       "username": "Zachap",
       "title": "I'm here every day to learn and teach :)",
       "game": "Just Chatting",
@@ -32,10 +38,10 @@
       "started_at": "2025-12-15T20:25:29Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "Let's talk DINOSAURS 🦕💬😲 Fossil science discussion and Q&A (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2025-12-15T21:00:29Z"
+      "username": "AdamLearnsLive",
+      "title": "Steam achievements (day 277½)",
+      "game": "Software and Game Development",
+      "started_at": "2025-12-15T21:05:35Z"
     },
     {
       "username": "eToThe2iPi",
@@ -56,22 +62,16 @@
       "started_at": "2025-12-15T19:27:53Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Steam achievements (day 277½)",
-      "game": "Software and Game Development",
-      "started_at": "2025-12-15T21:05:35Z"
+      "username": "AcademyOfUselessIdeas",
+      "title": "Attempting math! (If two wrongs don't make a right, try three)",
+      "game": "Math",
+      "started_at": "2025-12-15T20:06:11Z"
     },
     {
       "username": "DonFactorial",
       "title": "Chilling on Chernarus (literally) !discord",
       "game": "DayZ",
       "started_at": "2025-12-15T21:01:01Z"
-    },
-    {
-      "username": "AcademyOfUselessIdeas",
-      "title": "Attempting math! (If two wrongs don't make a right, try three)",
-      "game": "Math",
-      "started_at": "2025-12-15T20:06:11Z"
     }
   ]
 }
