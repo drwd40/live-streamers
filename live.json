@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-15T20:58:19.062Z",
+  "timestamp": "2025-12-15T21:08:24.824Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,22 @@
       "started_at": "2025-12-15T18:59:55Z"
     },
     {
+      "username": "Zachap",
+      "title": "I'm here every day to learn and teach :)",
+      "game": "Just Chatting",
+      "started_at": "2025-12-15T10:00:25Z"
+    },
+    {
       "username": "DrawCuriosity",
       "title": "🐏 Some science, some creative prompts, some puzzles! Dec 15th Advent Bug: Silkmoth ✨🐏 !merch !bugwiki !dailybug",
       "game": "Science & Technology",
       "started_at": "2025-12-15T20:25:29Z"
     },
     {
-      "username": "Zachap",
-      "title": "I'm here every day to learn and teach :)",
-      "game": "Just Chatting",
-      "started_at": "2025-12-15T10:00:25Z"
+      "username": "Paleontologizing",
+      "title": "Let's talk DINOSAURS 🦕💬😲 Fossil science discussion and Q&A (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2025-12-15T21:00:29Z"
     },
     {
       "username": "eToThe2iPi",
@@ -38,16 +44,28 @@
       "started_at": "2025-12-15T19:06:16Z"
     },
     {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 953: Design Review of Data Models (Tabular, TimeSeries and more) pt. 2",
+      "game": "Science & Technology",
+      "started_at": "2025-12-15T20:17:59Z"
+    },
+    {
       "username": "Andilippi",
       "title": "Late night hc w/ @timoted, @alecksanda & @alphabytemusic - 41 more subs unlocks gig stream (SETLIST MADE)!",
       "game": "World of Warcraft",
       "started_at": "2025-12-15T19:27:53Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 953: Design Review of Data Models (Tabular, TimeSeries and more) pt. 2",
-      "game": "Science & Technology",
-      "started_at": "2025-12-15T20:17:59Z"
+      "username": "AdamLearnsLive",
+      "title": "Steam achievements (day 277½)",
+      "game": "Software and Game Development",
+      "started_at": "2025-12-15T21:05:35Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Chilling on Chernarus (literally) !discord",
+      "game": "DayZ",
+      "started_at": "2025-12-15T21:01:01Z"
     },
     {
       "username": "AcademyOfUselessIdeas",
