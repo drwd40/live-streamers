@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-15T19:58:06.173Z",
+  "timestamp": "2025-12-15T20:08:44.235Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,12 +20,6 @@
       "started_at": "2025-12-15T18:59:55Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Improving everything (day 277)",
-      "game": "Software and Game Development",
-      "started_at": "2025-12-15T16:31:22Z"
-    },
-    {
       "username": "Zachap",
       "title": "I'm here every day to learn and teach :)",
       "game": "Just Chatting",
@@ -38,28 +32,22 @@
       "started_at": "2025-12-15T19:05:45Z"
     },
     {
-      "username": "CosmoQuestX",
-      "title": "Astronomy Cast Live",
-      "game": "Talk Shows & Podcasts",
-      "started_at": "2025-12-15T19:02:28Z"
-    },
-    {
       "username": "eToThe2iPi",
       "title": "As a TY For 1000+ Followers, Let's Celebrate For 1000+ minutes.",
       "game": "Just Chatting",
       "started_at": "2025-12-15T19:06:16Z"
     },
     {
-      "username": "PotteryDojo",
-      "title": "Pottery: Making Bonsai Pots | Trimming | Batch # 18 | Batch Total: 21",
-      "game": "Art",
-      "started_at": "2025-12-15T18:08:10Z"
-    },
-    {
       "username": "Andilippi",
       "title": "Late night hc w/ @timoted, @alecksanda & @alphabytemusic - 41 more subs unlocks gig stream (SETLIST MADE)!",
       "game": "World of Warcraft",
       "started_at": "2025-12-15T19:27:53Z"
+    },
+    {
+      "username": "AcademyOfUselessIdeas",
+      "title": "Attempting math! (If two wrongs don't make a right, try three)",
+      "game": "Math",
+      "started_at": "2025-12-15T20:06:11Z"
     }
   ]
 }
