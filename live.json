@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-15T05:49:45.079Z",
+  "timestamp": "2025-12-15T05:56:41.791Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "🎉16k Celebration Stream 🎉 | Science, games, rabbit holes, and more! | Partner+ 137/300 | !ppp !yt !pod",
       "game": "Hollow Knight: Silksong",
       "started_at": "2025-12-14T14:06:04Z"
+    },
+    {
+      "username": "DrMick",
+      "title": "Therapist Plays GTA IV: Part 10",
+      "game": "Grand Theft Auto IV",
+      "started_at": "2025-12-15T05:49:43Z"
     }
   ]
 }
