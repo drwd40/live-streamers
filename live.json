@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-15T18:07:43.555Z",
+  "timestamp": "2025-12-15T18:19:46.875Z",
   "live": [
     {
       "username": "Maya",
@@ -36,6 +36,12 @@
       "title": "The Pedestrian - Treadmill Time",
       "game": "Fitness & Health",
       "started_at": "2025-12-15T15:02:02Z"
+    },
+    {
+      "username": "PotteryDojo",
+      "title": "Pottery: Making Bonsai Pots | Throwing | Batch # 18 | Batch Total: 19",
+      "game": "Art",
+      "started_at": "2025-12-15T18:08:10Z"
     }
   ]
 }
