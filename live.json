@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-16T21:50:32.736Z",
+  "timestamp": "2025-12-16T21:56:42.242Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -68,16 +68,16 @@
       "started_at": "2025-12-16T20:34:22Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "Nine Sols, Lucky Night 13: Grinding The Fengs (The Twins), and cleaning up upgrades.",
-      "game": "Nine Sols",
-      "started_at": "2025-12-16T21:22:34Z"
-    },
-    {
       "username": "AcademyOfUselessIdeas",
       "title": "Attempting math! (Getting all our math blessing from a flying spaghetti monster)",
       "game": "Math",
       "started_at": "2025-12-16T20:10:55Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Nine Sols, Lucky Night 13: Grinding The Fengs (The Twins), and cleaning up upgrades.",
+      "game": "Nine Sols",
+      "started_at": "2025-12-16T21:22:34Z"
     }
   ]
 }
