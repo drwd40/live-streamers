@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-16T23:17:06.482Z",
+  "timestamp": "2025-12-16T23:28:43.241Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,10 +26,22 @@
       "started_at": "2025-12-16T17:35:47Z"
     },
     {
+      "username": "Paleontologizing",
+      "title": "Chill fossil science vibes + natural history Q&A (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2025-12-16T23:13:45Z"
+    },
+    {
       "username": "SydHeresy",
       "title": "Electronics - Repairs - Soldering - Builds",
       "game": "Science & Technology",
       "started_at": "2025-12-16T19:00:18Z"
+    },
+    {
+      "username": "shnaff",
+      "title": "Chill guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2025-12-16T23:00:52Z"
     },
     {
       "username": "Rocketology",
@@ -56,22 +68,10 @@
       "started_at": "2025-12-16T21:23:37Z"
     },
     {
-      "username": "shnaff",
-      "title": "Chill guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2025-12-16T23:00:52Z"
-    },
-    {
       "username": "nSimplexPachinko",
       "title": "Nine Sols, Lucky Night 13: Grinding The Fengs (The Twins), and cleaning up upgrades.",
       "game": "Nine Sols",
       "started_at": "2025-12-16T21:22:34Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "Chill fossil science vibes + natural history Q&A (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2025-12-16T23:13:45Z"
     }
   ]
 }
