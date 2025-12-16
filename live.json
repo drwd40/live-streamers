@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-16T21:25:34.309Z",
+  "timestamp": "2025-12-16T21:35:19.611Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -56,22 +56,10 @@
       "started_at": "2025-12-16T15:23:09Z"
     },
     {
-      "username": "AcademyOfUselessIdeas",
-      "title": "Attempting math! (Getting all our math blessing from a flying spaghetti monster)",
-      "game": "Math",
-      "started_at": "2025-12-16T20:10:55Z"
-    },
-    {
-      "username": "xTalkProgrammer",
-      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
-      "game": "Just Chatting",
-      "started_at": "2025-12-16T20:34:22Z"
-    },
-    {
-      "username": "nSimplexPachinko",
-      "title": "Nine Sols, Lucky Night 13: Grinding The Fengs (The Twins), and cleaning up upgrades.",
-      "game": "Nine Sols",
-      "started_at": "2025-12-16T21:22:34Z"
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 954: Language Design in Wolfram Language [Graphics]",
+      "game": "Science & Technology",
+      "started_at": "2025-12-16T21:25:04Z"
     },
     {
       "username": "DonFactorial",
@@ -80,10 +68,22 @@
       "started_at": "2025-12-16T21:23:37Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 954: Language Design in Wolfram Language [Graphics]",
-      "game": "Science & Technology",
-      "started_at": "2025-12-16T21:25:04Z"
+      "username": "xTalkProgrammer",
+      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
+      "game": "Just Chatting",
+      "started_at": "2025-12-16T20:34:22Z"
+    },
+    {
+      "username": "AcademyOfUselessIdeas",
+      "title": "Attempting math! (Getting all our math blessing from a flying spaghetti monster)",
+      "game": "Math",
+      "started_at": "2025-12-16T20:10:55Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Nine Sols, Lucky Night 13: Grinding The Fengs (The Twins), and cleaning up upgrades.",
+      "game": "Nine Sols",
+      "started_at": "2025-12-16T21:22:34Z"
     }
   ]
 }
