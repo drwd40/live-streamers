@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-16T17:55:26.024Z",
+  "timestamp": "2025-12-16T18:03:13.893Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,34 +14,16 @@
       "started_at": "2025-12-16T17:00:41Z"
     },
     {
-      "username": "TinyToxicTofu",
-      "title": "Lets Read \"An Attempt to Prove the Motion of the Earth from Observations Made by Robert Hooke🎄 Playing More GTAV 🎄 !bambi !physics",
-      "game": "Grand Theft Auto V",
-      "started_at": "2025-12-16T13:12:24Z"
-    },
-    {
       "username": "EJ_SA",
       "title": "Let's fly! MSFS 12/16/25",
       "game": "Microsoft Flight Simulator 2024",
       "started_at": "2025-12-16T17:42:58Z"
     },
     {
-      "username": "Zachap",
-      "title": "*enter working-class-consciousness activator here*",
-      "game": "Just Chatting",
-      "started_at": "2025-12-16T10:03:42Z"
-    },
-    {
-      "username": "AdamLearnsLive",
-      "title": "Making achievements (day 278)",
-      "game": "Software and Game Development",
-      "started_at": "2025-12-16T16:43:46Z"
-    },
-    {
-      "username": "csharpfritz",
-      "title": "Coding with Tabs",
-      "game": "Software and Game Development",
-      "started_at": "2025-12-16T14:08:10Z"
+      "username": "TinyToxicTofu",
+      "title": "Lets Read \"An Attempt to Prove the Motion of the Earth from Observations Made by Robert Hooke🎄 Playing More GTAV 🎄 !bambi !physics",
+      "game": "Grand Theft Auto V",
+      "started_at": "2025-12-16T13:12:24Z"
     },
     {
       "username": "ArchitectureTV",
@@ -50,22 +32,40 @@
       "started_at": "2025-12-16T17:35:47Z"
     },
     {
+      "username": "AdamLearnsLive",
+      "title": "Making achievements (day 278)",
+      "game": "Software and Game Development",
+      "started_at": "2025-12-16T16:43:46Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "*enter working-class-consciousness activator here*",
+      "game": "Just Chatting",
+      "started_at": "2025-12-16T10:03:42Z"
+    },
+    {
+      "username": "csharpfritz",
+      "title": "Coding with Tabs",
+      "game": "Software and Game Development",
+      "started_at": "2025-12-16T14:08:10Z"
+    },
+    {
       "username": "DiatomsATTACK",
       "title": "SEM analysis of pollen from archeological samples (with Valya).",
       "game": "Science & Technology",
       "started_at": "2025-12-16T15:29:23Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Let's Celebrate 1000+ Followers: Portal 2 + Math + Building LEGO stuff :)",
-      "game": "",
-      "started_at": "2025-12-16T15:23:09Z"
-    },
-    {
       "username": "oh_bother",
       "title": "Misc Projects: modifying power tools in the exact ways they tell you not to.",
       "game": "Just Chatting",
       "started_at": "2025-12-16T17:41:14Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Let's Celebrate 1000+ Followers: Portal 2 + Math + Building LEGO stuff :)",
+      "game": "",
+      "started_at": "2025-12-16T15:23:09Z"
     }
   ]
 }
