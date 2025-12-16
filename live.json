@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-16T16:47:23.107Z",
+  "timestamp": "2025-12-16T16:58:37.451Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,28 +14,28 @@
       "started_at": "2025-12-16T13:12:24Z"
     },
     {
-      "username": "csharpfritz",
-      "title": "Coding with Tabs",
-      "game": "Software and Game Development",
-      "started_at": "2025-12-16T14:08:10Z"
-    },
-    {
       "username": "Zachap",
       "title": "*enter working-class-consciousness activator here*",
       "game": "Just Chatting",
       "started_at": "2025-12-16T10:03:42Z"
     },
     {
-      "username": "DiatomsATTACK",
-      "title": "SEM analysis of pollen from archeological samples (with Valya).",
-      "game": "Science & Technology",
-      "started_at": "2025-12-16T15:29:23Z"
+      "username": "csharpfritz",
+      "title": "Coding with Tabs",
+      "game": "Software and Game Development",
+      "started_at": "2025-12-16T14:08:10Z"
     },
     {
       "username": "AdamLearnsLive",
       "title": "Making achievements (day 278)",
       "game": "Software and Game Development",
       "started_at": "2025-12-16T16:43:46Z"
+    },
+    {
+      "username": "DiatomsATTACK",
+      "title": "SEM analysis of pollen from archeological samples (with Valya).",
+      "game": "Science & Technology",
+      "started_at": "2025-12-16T15:29:23Z"
     },
     {
       "username": "eToThe2iPi",
