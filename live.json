@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-16T03:40:48.421Z",
+  "timestamp": "2025-12-16T04:02:58.488Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2025-12-15T13:26:00Z"
     },
     {
-      "username": "imreallyimportant",
-      "title": "TRUMP BLAMES ROB REINER MURDER ON TDS | LIB & LEARN @ 7 PM EST",
-      "game": "Just Chatting",
-      "started_at": "2025-12-15T23:05:51Z"
-    },
-    {
       "username": "EJ_SA",
       "title": "Late Night Battlefield flickfest! 12/15/25",
       "game": "Battlefield 6",
       "started_at": "2025-12-15T17:02:04Z"
+    },
+    {
+      "username": "imreallyimportant",
+      "title": "TRUMP BLAMES ROB REINER MURDER ON TDS | LIB & LEARN @ 7 PM EST",
+      "game": "Just Chatting",
+      "started_at": "2025-12-15T23:05:51Z"
     },
     {
       "username": "Moohoodles",
@@ -30,12 +30,6 @@
       "title": "🎄Holiday Microscopy Monday🎄 | Tiny worlds under the microscope with cranberries, holly, and more! | Partner+ 147/300 | !ppp !yt !pod",
       "game": "Science & Technology",
       "started_at": "2025-12-16T02:01:24Z"
-    },
-    {
-      "username": "DonFactorial",
-      "title": "Chilling on Namalsk (literally) !discord",
-      "game": "DayZ",
-      "started_at": "2025-12-15T21:01:01Z"
     }
   ]
 }
