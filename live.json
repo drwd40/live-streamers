@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-16T02:28:42.019Z",
+  "timestamp": "2025-12-16T03:06:27.311Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,34 +20,22 @@
       "started_at": "2025-12-15T23:05:51Z"
     },
     {
+      "username": "Moohoodles",
+      "title": "🪐 Sick, catchin up ✨",
+      "game": "Just Chatting",
+      "started_at": "2025-12-16T02:17:12Z"
+    },
+    {
       "username": "SciAnts_Streams",
       "title": "🎄Holiday Microscopy Monday🎄 | Tiny worlds under the microscope with cranberries, holly, and more! | Partner+ 147/300 | !ppp !yt !pod",
       "game": "Science & Technology",
       "started_at": "2025-12-16T02:01:24Z"
     },
     {
-      "username": "DrawCuriosity",
-      "title": "🐏 Some science, some creative prompts, some puzzles! Dec 15th Advent Bug: Silkmoth ✨🐏 !merch !bugwiki !dailybug",
-      "game": "Just Chatting",
-      "started_at": "2025-12-15T20:25:29Z"
-    },
-    {
-      "username": "Moohoodles",
-      "title": "🪐 Sick  Astrobiology & Space News! ✨",
-      "game": "Science & Technology",
-      "started_at": "2025-12-16T02:17:12Z"
-    },
-    {
       "username": "DonFactorial",
       "title": "Chilling on Namalsk (literally) !discord",
       "game": "DayZ",
       "started_at": "2025-12-15T21:01:01Z"
-    },
-    {
-      "username": "walkingsticklibrary",
-      "title": "Endometriosis: pain and diagnosis, a problem good enough for BitChute, and  has Bitchute discovered the fountain of youth?",
-      "game": "IRL",
-      "started_at": "2025-12-16T01:30:44Z"
     }
   ]
 }
