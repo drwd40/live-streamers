@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-16T23:06:50.180Z",
+  "timestamp": "2025-12-16T23:17:06.482Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2025-12-16T17:42:58Z"
     },
     {
-      "username": "ArchitectureTV",
-      "title": "MONTREAL old downtown with @mapleglades road trip day 01🎄Historic and contemporary buildings | Architecture IRL",
-      "game": "IRL",
-      "started_at": "2025-12-16T17:35:47Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "TRUMP'S CHIEF OF STAFF DRAGS EVERYONE IN NEW INTERVIEW | UNEMPLOYMENT UP TO 4.6%",
       "game": "Just Chatting",
       "started_at": "2025-12-16T22:49:36Z"
+    },
+    {
+      "username": "ArchitectureTV",
+      "title": "MONTREAL old downtown with @mapleglades road trip day 01🎄Historic and contemporary buildings | Architecture IRL",
+      "game": "IRL",
+      "started_at": "2025-12-16T17:35:47Z"
     },
     {
       "username": "SydHeresy",
@@ -38,16 +38,16 @@
       "started_at": "2025-12-16T19:11:36Z"
     },
     {
-      "username": "GeneralSte",
-      "title": "Archaeologist Yeehaw's A Dino Park | !linktree !discord",
-      "game": "Jurassic World Evolution 3",
-      "started_at": "2025-12-16T20:47:11Z"
-    },
-    {
       "username": "SharkG33k",
       "title": "🦈Wish Upon a Choo Choo Fundraiser for Make a Wish! Shark Diving Edition! 🦈",
       "game": "Science & Technology",
       "started_at": "2025-12-16T22:13:01Z"
+    },
+    {
+      "username": "GeneralSte",
+      "title": "Archaeologist Yeehaw's A Dino Park | !linktree !discord",
+      "game": "Jurassic World Evolution 3",
+      "started_at": "2025-12-16T20:47:11Z"
     },
     {
       "username": "DonFactorial",
@@ -66,6 +66,12 @@
       "title": "Nine Sols, Lucky Night 13: Grinding The Fengs (The Twins), and cleaning up upgrades.",
       "game": "Nine Sols",
       "started_at": "2025-12-16T21:22:34Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "Chill fossil science vibes + natural history Q&A (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2025-12-16T23:13:45Z"
     }
   ]
 }
