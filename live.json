@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-16T21:13:02.419Z",
+  "timestamp": "2025-12-16T21:25:34.309Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,12 +24,6 @@
       "title": "MONTREAL old downtown with @mapleglades road trip day 01🎄Historic and contemporary buildings | Architecture IRL",
       "game": "IRL",
       "started_at": "2025-12-16T17:35:47Z"
-    },
-    {
-      "username": "Zachap",
-      "title": "*enter working-class-consciousness activator here*",
-      "game": "Just Chatting",
-      "started_at": "2025-12-16T10:03:42Z"
     },
     {
       "username": "oh_bother",
@@ -62,16 +56,34 @@
       "started_at": "2025-12-16T15:23:09Z"
     },
     {
+      "username": "AcademyOfUselessIdeas",
+      "title": "Attempting math! (Getting all our math blessing from a flying spaghetti monster)",
+      "game": "Math",
+      "started_at": "2025-12-16T20:10:55Z"
+    },
+    {
       "username": "xTalkProgrammer",
       "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
       "game": "Just Chatting",
       "started_at": "2025-12-16T20:34:22Z"
     },
     {
-      "username": "AcademyOfUselessIdeas",
-      "title": "Attempting math! (Getting all our math blessing from a flying spaghetti monster)",
+      "username": "nSimplexPachinko",
+      "title": "Nine Sols, Lucky Night 13: Grinding The Fengs (The Twins), and cleaning up upgrades.",
+      "game": "Nine Sols",
+      "started_at": "2025-12-16T21:22:34Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering math questions and trying to organize some code !discord",
       "game": "Math",
-      "started_at": "2025-12-16T20:10:55Z"
+      "started_at": "2025-12-16T21:23:37Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 954: Language Design in Wolfram Language [Graphics]",
+      "game": "Science & Technology",
+      "started_at": "2025-12-16T21:25:04Z"
     }
   ]
 }
