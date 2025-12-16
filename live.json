@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-16T23:28:43.241Z",
+  "timestamp": "2025-12-16T23:37:07.562Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,22 +20,28 @@
       "started_at": "2025-12-16T22:49:36Z"
     },
     {
-      "username": "ArchitectureTV",
-      "title": "MONTREAL old downtown with @mapleglades road trip day 01🎄Historic and contemporary buildings | Architecture IRL",
-      "game": "IRL",
-      "started_at": "2025-12-16T17:35:47Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "Chill fossil science vibes + natural history Q&A (w/ paleontologist Danny Anduza)",
       "game": "Science & Technology",
       "started_at": "2025-12-16T23:13:45Z"
     },
     {
+      "username": "ArchitectureTV",
+      "title": "MONTREAL old downtown with @mapleglades road trip day 01🎄Historic and contemporary buildings | Architecture IRL",
+      "game": "IRL",
+      "started_at": "2025-12-16T17:35:47Z"
+    },
+    {
       "username": "SydHeresy",
       "title": "Electronics - Repairs - Soldering - Builds",
       "game": "Science & Technology",
       "started_at": "2025-12-16T19:00:18Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "🦈Wish Upon a Choo Choo Fundraiser for Make a Wish! Shark Diving Edition! 🦈",
+      "game": "Science & Technology",
+      "started_at": "2025-12-16T22:13:01Z"
     },
     {
       "username": "shnaff",
@@ -48,12 +54,6 @@
       "title": "UnKerbaled Start Modded Career - Episode 19",
       "game": "Kerbal Space Program",
       "started_at": "2025-12-16T19:11:36Z"
-    },
-    {
-      "username": "SharkG33k",
-      "title": "🦈Wish Upon a Choo Choo Fundraiser for Make a Wish! Shark Diving Edition! 🦈",
-      "game": "Science & Technology",
-      "started_at": "2025-12-16T22:13:01Z"
     },
     {
       "username": "GeneralSte",
