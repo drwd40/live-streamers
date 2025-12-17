@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-17T19:55:37.956Z",
+  "timestamp": "2025-12-17T20:03:05.455Z",
   "live": [
     {
       "username": "Kitboga",
@@ -20,22 +20,10 @@
       "started_at": "2025-12-17T14:54:42Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Okay but for real, we're achieving stuff (day 279)",
-      "game": "Software and Game Development",
-      "started_at": "2025-12-17T16:22:30Z"
-    },
-    {
       "username": "ArchitectureTV",
       "title": "MONTREAL winter road trip day 02🎄Historic and contemporary buildings | Architecture IRL",
       "game": "IRL",
       "started_at": "2025-12-17T15:59:20Z"
-    },
-    {
-      "username": "Zachap",
-      "title": "do we live in an age of Gerontofascism?",
-      "game": "Just Chatting",
-      "started_at": "2025-12-17T13:57:43Z"
     },
     {
       "username": "Stephen_Wolfram",
@@ -48,6 +36,12 @@
       "title": "SMW 96* Run with @etothe2ipi [!dp when penn dies, !dz when zach dies]",
       "game": "Super Mario World",
       "started_at": "2025-12-17T17:30:59Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀Live Game Dev - Rise of Piracy | !discord !streamers !MicroProse !steam",
+      "game": "Software and Game Development",
+      "started_at": "2025-12-17T20:00:44Z"
     }
   ]
 }
