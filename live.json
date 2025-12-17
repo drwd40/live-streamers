@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-17T05:56:23.718Z",
+  "timestamp": "2025-12-17T06:06:36.267Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,28 +8,16 @@
       "started_at": "2025-12-15T13:26:00Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "🎄Tinker Tuesday 🎄 | Loss of the American Chestnut, holiday card making, and more! | Partner+ 155/300 | !ppp !yt !pod",
-      "game": "Science & Technology",
-      "started_at": "2025-12-17T02:15:45Z"
-    },
-    {
-      "username": "DrawCuriosity",
-      "title": "🐏TIPSY GINGERS: Making Cocktails (& Food) with @MegAfterDark ✨🐏 !merch !bugwiki !dailybug",
-      "game": "Food & Drink",
-      "started_at": "2025-12-17T01:49:53Z"
+      "username": "DrMick",
+      "title": "Mental Health Chat + Soloin'",
+      "game": "Destiny 2",
+      "started_at": "2025-12-17T05:39:42Z"
     },
     {
       "username": "SydHeresy",
       "title": "Electronics - Repairs - Soldering - Builds",
       "game": "Science & Technology",
       "started_at": "2025-12-16T19:00:18Z"
-    },
-    {
-      "username": "DrMick",
-      "title": "Mental Health Chat + Soloin'",
-      "game": "Destiny 2",
-      "started_at": "2025-12-17T05:39:42Z"
     }
   ]
 }
