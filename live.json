@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-17T03:37:07.180Z",
+  "timestamp": "2025-12-17T03:58:37.231Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,12 +14,6 @@
       "started_at": "2025-12-17T02:15:45Z"
     },
     {
-      "username": "Nerduino",
-      "title": "Double Rocket Launch Night!  Space and astronomy news with a PhD Astronomer #science #scientist #collab",
-      "game": "Science & Technology",
-      "started_at": "2025-12-17T02:07:04Z"
-    },
-    {
       "username": "DrawCuriosity",
       "title": "🐏TIPSY GINGERS: Making Cocktails (& Food) with @MegAfterDark ✨🐏 !merch !bugwiki !dailybug",
       "game": "Food & Drink",
@@ -30,6 +24,12 @@
       "title": "Electronics - Repairs - Soldering - Builds",
       "game": "Science & Technology",
       "started_at": "2025-12-16T19:00:18Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Double Rocket Launch Night!  Space and astronomy news with a PhD Astronomer #science #scientist #collab",
+      "game": "Science & Technology",
+      "started_at": "2025-12-17T02:07:04Z"
     },
     {
       "username": "walkingsticklibrary",
