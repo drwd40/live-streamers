@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-17T21:09:30.765Z",
+  "timestamp": "2025-12-17T21:20:46.931Z",
   "live": [
     {
       "username": "Kitboga",
@@ -20,28 +20,28 @@
       "started_at": "2025-12-17T14:54:42Z"
     },
     {
-      "username": "IrishJohnGames",
-      "title": "🍀Live Game Dev - Rise of Piracy | !discord !streamers !MicroProse !steam",
-      "game": "Software and Game Development",
-      "started_at": "2025-12-17T20:00:44Z"
-    },
-    {
-      "username": "DrawCuriosity",
-      "title": "🐏New Pokémon TCG sets king & queens?? Dec 17th Advent Bug: Golden Dragonfly 100 subs till cosplay shoot?! ✨🐏 !merch !bugwiki !dailybug",
-      "game": "Pokémon Trading Card Game Pocket",
-      "started_at": "2025-12-17T20:28:10Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "Interview w/ Andrew Milner, lead paleontologist at Saint George Dinosaur Discovery Site in Utah + fossil science Q&A",
       "game": "Science & Technology",
       "started_at": "2025-12-17T21:02:10Z"
     },
     {
+      "username": "IrishJohnGames",
+      "title": "🍀Live Game Dev - Rise of Piracy | !discord !streamers !MicroProse !steam",
+      "game": "Software and Game Development",
+      "started_at": "2025-12-17T20:00:44Z"
+    },
+    {
       "username": "AdamLearnsLive",
       "title": "Apples → translations (day 279½)",
       "game": "Software and Game Development",
       "started_at": "2025-12-17T21:01:09Z"
+    },
+    {
+      "username": "DrawCuriosity",
+      "title": "🐏New Pokémon TCG sets king & queens?? Dec 17th Advent Bug: Golden Dragonfly 100 subs till cosplay shoot?! ✨🐏 !merch !bugwiki !dailybug",
+      "game": "Pokémon Trading Card Game Pocket",
+      "started_at": "2025-12-17T20:28:10Z"
     },
     {
       "username": "Stephen_Wolfram",
@@ -56,6 +56,12 @@
       "started_at": "2025-12-17T17:30:59Z"
     },
     {
+      "username": "GeneralSte",
+      "title": "Archaeologist Yeehaw's A Dino Park | !linktree !discord",
+      "game": "Jurassic World Evolution 3",
+      "started_at": "2025-12-17T21:04:26Z"
+    },
+    {
       "username": "DonFactorial",
       "title": "Record run attempts on Namalsk with @efeldina !discord",
       "game": "DayZ",
@@ -66,12 +72,6 @@
       "title": "Attempting math! (Overcoming a crippling math addition)",
       "game": "Math",
       "started_at": "2025-12-17T20:25:56Z"
-    },
-    {
-      "username": "GeneralSte",
-      "title": "Archaeologist Yeehaw's A Dino Park | !linktree !discord",
-      "game": "Jurassic World Evolution 3",
-      "started_at": "2025-12-17T21:04:26Z"
     }
   ]
 }
