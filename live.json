@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-17T01:51:32.626Z",
+  "timestamp": "2025-12-17T02:28:27.714Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,22 +20,34 @@
       "started_at": "2025-12-16T23:13:45Z"
     },
     {
-      "username": "ArchitectureTV",
-      "title": "MONTREAL old downtown with @mapleglades road trip day 01🎄Historic and contemporary buildings | Architecture IRL",
-      "game": "IRL",
-      "started_at": "2025-12-16T17:35:47Z"
-    },
-    {
       "username": "shnaff",
       "title": "Chill guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2025-12-16T23:00:52Z"
     },
     {
+      "username": "SciAnts_Streams",
+      "title": "🎄Tinker Tuesday 🎄 | Loss of the American Chestnut, holiday card making, and more! | Partner+ 155/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2025-12-17T02:15:45Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Double Rocket Launch Night!  Space and astronomy news with a PhD Astronomer #science #scientist #collab",
+      "game": "Science & Technology",
+      "started_at": "2025-12-17T02:07:04Z"
+    },
+    {
       "username": "SydHeresy",
       "title": "Electronics - Repairs - Soldering - Builds",
       "game": "Science & Technology",
       "started_at": "2025-12-16T19:00:18Z"
+    },
+    {
+      "username": "DrawCuriosity",
+      "title": "🐏TIPSY GINGERS: Making Cocktails (& Food) with @MegAfterDark ✨🐏 !merch !bugwiki !dailybug",
+      "game": "Food & Drink",
+      "started_at": "2025-12-17T01:49:53Z"
     },
     {
       "username": "ActualEducation",
@@ -48,18 +60,6 @@
       "title": "I'm BACK!! Let's talk about my trips, show off Merch, and play some chill Lego Pirates!! ~ Follower Goal: 2226/2300 ~ !socials !beyonddenile",
       "game": "LEGO Pirates of the Caribbean: The Video Game",
       "started_at": "2025-12-17T00:20:13Z"
-    },
-    {
-      "username": "DrawCuriosity",
-      "title": "🐏TIPSY GINGERS: Making Cocktails (& Food) with @MegAfterDark ✨🐏 !merch !bugwiki !dailybug",
-      "game": "Food & Drink",
-      "started_at": "2025-12-17T01:49:53Z"
-    },
-    {
-      "username": "Nerduino",
-      "title": "Double Rocket Launch Night!  Space and astronomy news with a PhD Astronomer #science #scientist #collab",
-      "game": "Science & Technology",
-      "started_at": "2025-12-17T01:40:49Z"
     }
   ]
 }
