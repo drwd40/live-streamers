@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-17T19:17:49.063Z",
+  "timestamp": "2025-12-17T19:28:34.286Z",
   "live": [
     {
       "username": "Kitboga",
@@ -36,6 +36,12 @@
       "title": "do we live in an age of Gerontofascism?",
       "game": "Just Chatting",
       "started_at": "2025-12-17T13:57:43Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 955: Language Design in Wolfram Language [SubValuesHoldAll and more]",
+      "game": "Science & Technology",
+      "started_at": "2025-12-17T19:24:58Z"
     },
     {
       "username": "pencenter",
