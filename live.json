@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-17T23:48:15.128Z",
+  "timestamp": "2025-12-17T23:54:23.170Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -44,16 +44,16 @@
       "started_at": "2025-12-17T21:04:26Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Record run attempts on Namalsk with @efeldina !discord",
-      "game": "DayZ",
-      "started_at": "2025-12-17T20:39:26Z"
-    },
-    {
       "username": "nSimplexPachinko",
       "title": "Cracking the GRE Math Subject Test, Night 027: Logarithmic Differentiation",
       "game": "Math",
       "started_at": "2025-12-17T22:11:49Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Record run attempts on Namalsk with @efeldina !discord",
+      "game": "DayZ",
+      "started_at": "2025-12-17T20:39:26Z"
     }
   ]
 }
