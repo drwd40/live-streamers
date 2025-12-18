@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-18T19:05:01.552Z",
+  "timestamp": "2025-12-18T19:15:04.775Z",
   "live": [
     {
       "username": "csharpfritz",
@@ -44,16 +44,22 @@
       "started_at": "2025-12-18T10:00:36Z"
     },
     {
+      "username": "SciAnts_Streams",
+      "title": "Metroid Prime 4: Beyond - First Playthrough Day 4 + Metroid Science- Samus Is Back Baby | Partner+ 177/300 | !ppp !yt !pod",
+      "game": "Metroid Prime 4: Beyond",
+      "started_at": "2025-12-18T19:00:19Z"
+    },
+    {
       "username": "eToThe2iPi",
       "title": "Let's Celebrate 1000+ Followers: Math + Building LEGO stuff + Portal 2 :)",
       "game": "Math",
       "started_at": "2025-12-18T15:45:15Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "Metroid Prime 4: Beyond - First Playthrough Day 4 + Metroid Science- Samus Is Back Baby | Partner+ 177/300 | !ppp !yt !pod",
-      "game": "Metroid Prime 4: Beyond",
-      "started_at": "2025-12-18T19:00:19Z"
+      "username": "AcademyOfUselessIdeas",
+      "title": "Attempting math! (There are very few personal problems that cannot be solved through a suitable application of high explosives.)",
+      "game": "Math",
+      "started_at": "2025-12-18T19:11:51Z"
     }
   ]
 }
