@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-18T21:19:17.532Z",
+  "timestamp": "2025-12-18T21:28:13.661Z",
   "live": [
     {
       "username": "Kitboga",
@@ -26,16 +26,16 @@
       "started_at": "2025-12-18T13:58:09Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "Metroid Prime 4: Beyond - First Playthrough Day 4 + Metroid Science- Samus Is Back Baby | Partner+ 177/300 | !ppp !yt !pod",
-      "game": "Metroid Prime 4: Beyond",
-      "started_at": "2025-12-18T19:00:19Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "Dinosaur Q&A, science under siege in the US, and then Thursday BIRDSday (w/ paleontologist Danny Anduza)",
       "game": "Science & Technology",
       "started_at": "2025-12-18T21:06:48Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "Metroid Prime 4: Beyond - First Playthrough Day 4 + Metroid Science- Samus Is Back Baby | Partner+ 177/300 | !ppp !yt !pod",
+      "game": "Metroid Prime 4: Beyond",
+      "started_at": "2025-12-18T19:00:19Z"
     },
     {
       "username": "Zachap",
@@ -66,6 +66,12 @@
       "title": "Lions not Indefatigables - the Dominions chose to build 13.5in Battlecruisers prior to WWI...",
       "game": "Just Chatting",
       "started_at": "2025-12-18T19:45:37Z"
+    },
+    {
+      "username": "AndrewHolding",
+      "title": "[UK/USA] Science co-stream AMA, raising money to fight Cancer, with Whiskey, and Baldur's Gate 3",
+      "game": "Baldur's Gate 3",
+      "started_at": "2025-12-18T21:27:51Z"
     }
   ]
 }
