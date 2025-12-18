@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-18T21:08:47.568Z",
+  "timestamp": "2025-12-18T21:19:17.532Z",
   "live": [
     {
       "username": "Kitboga",
@@ -32,14 +32,26 @@
       "started_at": "2025-12-18T19:00:19Z"
     },
     {
+      "username": "Paleontologizing",
+      "title": "Dinosaur Q&A, science under siege in the US, and then Thursday BIRDSday (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2025-12-18T21:06:48Z"
+    },
+    {
       "username": "Zachap",
       "title": "Liberalism is illiberal - funnily enough",
       "game": "Just Chatting",
       "started_at": "2025-12-18T10:00:36Z"
     },
     {
+      "username": "DonFactorial",
+      "title": "Math Philosophy reading group discussion with @academyofuselessideas and  @etothe2ipi !discord",
+      "game": "Math",
+      "started_at": "2025-12-18T20:57:16Z"
+    },
+    {
       "username": "eToThe2iPi",
-      "title": "Let's Celebrate 1000+ Followers: Math + Building LEGO stuff",
+      "title": "Let's Celebrate 1000+ Followers: Math + Building LEGO stuff (a chat with @donfactorial and @academyofuselessideas.)",
       "game": "Just Chatting",
       "started_at": "2025-12-18T15:45:15Z"
     },
@@ -50,22 +62,10 @@
       "started_at": "2025-12-18T19:55:06Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Math Philosophy reading group discussion with @academyofuselessideas and  @etothe2ipi !discord",
-      "game": "Math",
-      "started_at": "2025-12-18T20:57:16Z"
-    },
-    {
       "username": "DrAlexanderClarke",
       "title": "Lions not Indefatigables - the Dominions chose to build 13.5in Battlecruisers prior to WWI...",
       "game": "Just Chatting",
       "started_at": "2025-12-18T19:45:37Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "Dinosaur Q&A, science under siege in the US, and then Thursday BIRDSday (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2025-12-18T21:06:48Z"
     }
   ]
 }
