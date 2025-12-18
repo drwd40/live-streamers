@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-18T23:50:15.000Z",
+  "timestamp": "2025-12-18T23:56:09.300Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -50,16 +50,16 @@
       "started_at": "2025-12-18T23:01:22Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Holiday Solder Day Any Day Anyway",
-      "game": "Science & Technology",
-      "started_at": "2025-12-18T19:55:06Z"
-    },
-    {
       "username": "DonFactorial",
       "title": "Answering math questions and goofing off !discord",
       "game": "Math",
       "started_at": "2025-12-18T20:57:16Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Holiday Solder Day Any Day Anyway",
+      "game": "Science & Technology",
+      "started_at": "2025-12-18T19:55:06Z"
     },
     {
       "username": "AndrewHolding",
