@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-18T02:22:01.989Z",
+  "timestamp": "2025-12-18T02:58:38.062Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2025-12-17T14:54:42Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "🎄Wacom Wednesday 🎄 | Science art, rabbit holes, and final poooosh for new emote slots? | Partner+ 166/300 | !ppp !yt !pod",
-      "game": "Science & Technology",
-      "started_at": "2025-12-18T02:03:11Z"
-    },
-    {
       "username": "Moohoodles",
       "title": "🪐 Sick, Astrobiology & Space news ✨",
       "game": "Science & Technology",
       "started_at": "2025-12-18T02:08:49Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "🎄Wacom Wednesday 🎄 | Science art, rabbit holes, and final poooosh for new emote slots? | Partner+ 166/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2025-12-18T02:03:11Z"
     },
     {
       "username": "SharkG33k",
@@ -38,10 +38,10 @@
       "started_at": "2025-12-18T01:08:05Z"
     },
     {
-      "username": "Ask_a_Scientist_Gaming",
-      "title": "Dr. Hanson and Dr. DePrince: 2 Player NARC Speedruns.",
-      "game": "Science & Technology",
-      "started_at": "2025-12-18T00:58:44Z"
+      "username": "nogre0",
+      "title": "philosophical debasement. new paper !we",
+      "game": "Just Chatting",
+      "started_at": "2025-12-18T01:00:27Z"
     },
     {
       "username": "DonFactorial",
@@ -50,10 +50,16 @@
       "started_at": "2025-12-17T20:39:26Z"
     },
     {
-      "username": "nogre0",
-      "title": "philosophical debasement. new paper !we",
-      "game": "Just Chatting",
-      "started_at": "2025-12-18T01:00:27Z"
+      "username": "Ask_a_Scientist_Gaming",
+      "title": "Dr. Hanson and Dr. DePrince: 2 Player NARC Speedruns.",
+      "game": "Science & Technology",
+      "started_at": "2025-12-18T00:58:44Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Katie Costello: background and update. Dr. Pfeiffer's flu vaccine, and haptics in education.",
+      "game": "IRL",
+      "started_at": "2025-12-18T02:32:41Z"
     }
   ]
 }
