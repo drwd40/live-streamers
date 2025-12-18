@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-18T00:00:03.780Z",
+  "timestamp": "2025-12-18T00:35:21.376Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,22 +38,10 @@
       "started_at": "2025-12-17T20:28:10Z"
     },
     {
-      "username": "GeneralSte",
-      "title": "Archaeologist Yeehaw's A Dino Park | !linktree !discord",
-      "game": "Jurassic World Evolution 3",
-      "started_at": "2025-12-17T21:04:26Z"
-    },
-    {
       "username": "DonFactorial",
       "title": "Record run attempts on Namalsk with @efeldina !discord",
       "game": "DayZ",
       "started_at": "2025-12-17T20:39:26Z"
-    },
-    {
-      "username": "nSimplexPachinko",
-      "title": "Cracking the GRE Math Subject Test, Night 027: Logarithmic Differentiation",
-      "game": "Math",
-      "started_at": "2025-12-17T22:11:49Z"
     }
   ]
 }
