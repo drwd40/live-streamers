@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-18T01:01:02.193Z",
+  "timestamp": "2025-12-18T01:38:13.341Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2025-12-17T13:26:02Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "EJ's Space and Rocket Revue! 12/17/25",
-      "game": "Science & Technology",
-      "started_at": "2025-12-17T14:54:42Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "TRUMP TO ADDRESS THE NATION AT 9 PM EST (WAR WITH VENEZUELA?)",
       "game": "Just Chatting",
       "started_at": "2025-12-17T22:49:54Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "Try not to rage challenge! (IMPOSSIBLE) Late Night Battlefield! 12/17/25",
+      "game": "Battlefield 6",
+      "started_at": "2025-12-17T14:54:42Z"
     },
     {
       "username": "Paleontologizing",
@@ -26,10 +26,16 @@
       "started_at": "2025-12-17T21:02:10Z"
     },
     {
-      "username": "DrawCuriosity",
-      "title": "🐏New Pokémon TCG sets king & queens?? Dec 17th Advent Bug: Golden Dragonfly 100 subs till cosplay shoot?! ✨🐏 !merch !bugwiki !dailybug",
-      "game": "Pokémon Trading Card Game Pocket",
-      "started_at": "2025-12-17T20:28:10Z"
+      "username": "SharkG33k",
+      "title": "🦈Water Wednesday! | NEW Hammerhead Dive! | !charity 🦈",
+      "game": "Science & Technology",
+      "started_at": "2025-12-18T01:08:05Z"
+    },
+    {
+      "username": "nogre0",
+      "title": "philosophical debasement. new paper !we",
+      "game": "Just Chatting",
+      "started_at": "2025-12-18T01:00:27Z"
     },
     {
       "username": "DonFactorial",
@@ -42,12 +48,6 @@
       "title": "Dr. Hanson and Dr. DePrince: 2 Player NARC Speedruns.",
       "game": "Science & Technology",
       "started_at": "2025-12-18T00:58:44Z"
-    },
-    {
-      "username": "nogre0",
-      "title": "philosophical debasement. new paper !we",
-      "game": "Just Chatting",
-      "started_at": "2025-12-18T01:00:27Z"
     }
   ]
 }
