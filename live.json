@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-12-18T17:09:50.783Z",
+  "timestamp": "2025-12-18T17:21:33.074Z",
   "live": [
-    {
-      "username": "csharpfritz",
-      "title": "Programming with C# and Tabs - CLI, AI, and Aspire!",
-      "game": "Software and Game Development",
-      "started_at": "2025-12-18T13:29:20Z"
-    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2025-12-17T13:26:02Z"
+    },
+    {
+      "username": "csharpfritz",
+      "title": "Programming with C# and Tabs - CLI, AI, and Aspire!",
+      "game": "Software and Game Development",
+      "started_at": "2025-12-18T13:29:20Z"
     },
     {
       "username": "ArchitectureTV",
@@ -30,12 +30,6 @@
       "title": "Liberalism is illiberal - funnily enough",
       "game": "Just Chatting",
       "started_at": "2025-12-18T10:00:36Z"
-    },
-    {
-      "username": "DiatomsATTACK",
-      "title": "Diatoms from a magical lake | SEM and the music of @callsignscarecrow",
-      "game": "Science & Technology",
-      "started_at": "2025-12-18T15:11:21Z"
     },
     {
       "username": "eToThe2iPi",
