@@ -1,17 +1,11 @@
 {
-  "timestamp": "2025-12-18T00:35:21.376Z",
+  "timestamp": "2025-12-18T01:01:02.193Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2025-12-17T13:26:02Z"
-    },
-    {
-      "username": "JapanesePrintmaking",
-      "title": "Making Japanese woodblock prints ... live while you watch ...",
-      "game": "Makers & Crafting",
-      "started_at": "2025-12-17T23:55:51Z"
     },
     {
       "username": "EJ_SA",
@@ -42,6 +36,18 @@
       "title": "Record run attempts on Namalsk with @efeldina !discord",
       "game": "DayZ",
       "started_at": "2025-12-17T20:39:26Z"
+    },
+    {
+      "username": "Ask_a_Scientist_Gaming",
+      "title": "Dr. Hanson and Dr. DePrince: 2 Player NARC Speedruns.",
+      "game": "Science & Technology",
+      "started_at": "2025-12-18T00:58:44Z"
+    },
+    {
+      "username": "nogre0",
+      "title": "philosophical debasement. new paper !we",
+      "game": "Just Chatting",
+      "started_at": "2025-12-18T01:00:27Z"
     }
   ]
 }
