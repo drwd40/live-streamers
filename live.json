@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-12-18T20:59:19.104Z",
+  "timestamp": "2025-12-18T21:08:47.568Z",
   "live": [
-    {
-      "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
-      "game": "Animals, Aquariums, and Zoos",
-      "started_at": "2025-12-17T13:26:02Z"
-    },
     {
       "username": "Kitboga",
       "title": "Scammer Hunger Games 😈 [Ep 1502]",
       "game": "Just Chatting",
       "started_at": "2025-12-18T18:49:45Z"
+    },
+    {
+      "username": "AlveusSanctuary",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
+      "game": "Animals, Aquariums, and Zoos",
+      "started_at": "2025-12-17T13:26:02Z"
     },
     {
       "username": "EJ_SA",
@@ -39,8 +39,8 @@
     },
     {
       "username": "eToThe2iPi",
-      "title": "Let's Celebrate 1000+ Followers: Math + Building LEGO stuff + Portal 2 :)",
-      "game": "Math",
+      "title": "Let's Celebrate 1000+ Followers: Math + Building LEGO stuff",
+      "game": "Just Chatting",
       "started_at": "2025-12-18T15:45:15Z"
     },
     {
@@ -50,22 +50,22 @@
       "started_at": "2025-12-18T19:55:06Z"
     },
     {
+      "username": "DonFactorial",
+      "title": "Math Philosophy reading group discussion with @academyofuselessideas and  @etothe2ipi !discord",
+      "game": "Math",
+      "started_at": "2025-12-18T20:57:16Z"
+    },
+    {
       "username": "DrAlexanderClarke",
       "title": "Lions not Indefatigables - the Dominions chose to build 13.5in Battlecruisers prior to WWI...",
       "game": "Just Chatting",
       "started_at": "2025-12-18T19:45:37Z"
     },
     {
-      "username": "AcademyOfUselessIdeas",
-      "title": "Attempting math! (There are very few personal problems that cannot be solved through a suitable application of high explosives.)",
-      "game": "Math",
-      "started_at": "2025-12-18T19:11:51Z"
-    },
-    {
-      "username": "DonFactorial",
-      "title": "Math Philosophy reading group discussion with @academyofuselessideas !discord",
-      "game": "Math",
-      "started_at": "2025-12-18T20:57:16Z"
+      "username": "Paleontologizing",
+      "title": "Dinosaur Q&A, science under siege in the US, and then Thursday BIRDSday (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2025-12-18T21:06:48Z"
     }
   ]
 }
