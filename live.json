@@ -1,17 +1,11 @@
 {
-  "timestamp": "2025-12-19T01:51:58.574Z",
+  "timestamp": "2025-12-19T02:30:55.921Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2025-12-17T13:26:02Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "Dinosaur Q&A, science under siege in the US, and then Thursday BIRDSday (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2025-12-18T21:06:48Z"
     },
     {
       "username": "imreallyimportant",
@@ -22,7 +16,7 @@
     {
       "username": "SciAnts_Streams",
       "title": "Metroid Prime 4: Beyond - First Playthrough Day 4 + Metroid Science- Samus Is Back Baby | Partner+ 177/300 | !ppp !yt !pod",
-      "game": "Retro",
+      "game": "Metroid Prime 4: Beyond",
       "started_at": "2025-12-18T19:00:19Z"
     },
     {
@@ -32,16 +26,22 @@
       "started_at": "2025-12-19T00:01:47Z"
     },
     {
+      "username": "Zachap",
+      "title": "Liberalism is illiberal - funnily enough",
+      "game": "Just Chatting",
+      "started_at": "2025-12-18T10:00:36Z"
+    },
+    {
       "username": "SydHeresy",
       "title": "Holiday Solder Day Any Day Anyway",
       "game": "Science & Technology",
       "started_at": "2025-12-18T19:55:06Z"
     },
     {
-      "username": "Zachap",
-      "title": "Liberalism is illiberal - funnily enough",
-      "game": "Just Chatting",
-      "started_at": "2025-12-18T10:00:36Z"
+      "username": "Nerduino",
+      "title": "Earth and Climate Science.  NCAR Destruction with a PhD Astronomer #science #scientist #collab",
+      "game": "Science & Technology",
+      "started_at": "2025-12-19T01:48:21Z"
     },
     {
       "username": "ActualEducation",
@@ -54,12 +54,6 @@
       "title": "🦈Thrash Thursday! SHARK METAL! | !charity 🦈",
       "game": "Music",
       "started_at": "2025-12-19T01:07:32Z"
-    },
-    {
-      "username": "Nerduino",
-      "title": "Earth and Climate Science.  NCAR Destruction with a PhD Astronomer #science #scientist #collab",
-      "game": "Science & Technology",
-      "started_at": "2025-12-19T01:48:21Z"
     }
   ]
 }
