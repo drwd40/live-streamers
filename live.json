@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-19T00:14:49.070Z",
+  "timestamp": "2025-12-19T00:41:56.480Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,34 +8,34 @@
       "started_at": "2025-12-17T13:26:02Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "Dinosaur Q&A, science under siege in the US, and then Thursday BIRDSday (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2025-12-18T21:06:48Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "DEADLINE FOR THE DOJ TO RELEASE THE EPSTEIN FILES IS TOMORROW",
       "game": "Just Chatting",
       "started_at": "2025-12-18T23:00:34Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "Metroid Prime 4: Beyond - First Playthrough Day 4 + Metroid Science- Samus Is Back Baby | Partner+ 177/300 | !ppp !yt !pod",
-      "game": "Metroid Prime 4: Beyond",
-      "started_at": "2025-12-18T19:00:19Z"
+      "username": "Paleontologizing",
+      "title": "Dinosaur Q&A, science under siege in the US, and then Thursday BIRDSday (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2025-12-18T21:06:48Z"
     },
     {
-      "username": "Zachap",
-      "title": "Liberalism is illiberal - funnily enough",
-      "game": "Just Chatting",
-      "started_at": "2025-12-18T10:00:36Z"
+      "username": "SciAnts_Streams",
+      "title": "Metroid Prime 4: Beyond - First Playthrough Day 4 + Metroid Science- Samus Is Back Baby | Partner+ 177/300 | !ppp !yt !pod",
+      "game": "Retro",
+      "started_at": "2025-12-18T19:00:19Z"
     },
     {
       "username": "AstroCanuck",
       "title": "Astro's Po'Pourri: LEGO Nightmare Before Christmas | NEW 89 BITS | !drop !tkf",
       "game": "Lego & Brickbuilding",
       "started_at": "2025-12-19T00:01:47Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "Liberalism is illiberal - funnily enough",
+      "game": "Just Chatting",
+      "started_at": "2025-12-18T10:00:36Z"
     },
     {
       "username": "DrMick",
@@ -66,12 +66,6 @@
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Just Chatting",
       "started_at": "2025-12-19T00:04:12Z"
-    },
-    {
-      "username": "nSimplexPachinko",
-      "title": "Nine Sols, short stream, Night 14: Okay, no, seriously, we need to finish the Feng fight.",
-      "game": "Nine Sols",
-      "started_at": "2025-12-18T22:15:56Z"
     }
   ]
 }
