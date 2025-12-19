@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-19T15:42:09.050Z",
+  "timestamp": "2025-12-19T15:50:30.046Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,6 +14,12 @@
       "started_at": "2025-12-19T13:31:23Z"
     },
     {
+      "username": "Zachap",
+      "title": "click to be curious",
+      "game": "Just Chatting",
+      "started_at": "2025-12-19T10:03:10Z"
+    },
+    {
       "username": "csharpfritz",
       "title": "Spicy C# with Tabs and Aspire",
       "game": "Software and Game Development",
@@ -24,12 +30,6 @@
       "title": "QUEBEC CITY basilica pilgrimage, winter road trip day 04/🎄Historic and contemporary buildings | Architecture IRL",
       "game": "IRL",
       "started_at": "2025-12-19T14:48:05Z"
-    },
-    {
-      "username": "Zachap",
-      "title": "click to be curious",
-      "game": "Just Chatting",
-      "started_at": "2025-12-19T10:03:10Z"
     },
     {
       "username": "TimberAnew",
