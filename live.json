@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-19T16:17:36.051Z",
+  "timestamp": "2025-12-19T16:32:08.558Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "click to be curious",
       "game": "Just Chatting",
       "started_at": "2025-12-19T10:03:10Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Making the final cut-scene! (day 279)",
+      "game": "Software and Game Development",
+      "started_at": "2025-12-19T16:20:11Z"
     },
     {
       "username": "TimberAnew",
