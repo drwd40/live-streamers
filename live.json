@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-19T18:56:31.774Z",
+  "timestamp": "2025-12-19T19:04:34.073Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -15,7 +15,7 @@
     },
     {
       "username": "ArchitectureTV",
-      "title": "QUEBEC CITY Christmas Market, old Quebec, winter road trip day 04/🎄Historic and contemporary buildings | Architecture IRL",
+      "title": "QUEBEC CITY rain storm, old Quebec, winter road trip day 04/🎄Historic and contemporary buildings | Architecture IRL",
       "game": "IRL",
       "started_at": "2025-12-19T14:48:05Z"
     },
@@ -42,6 +42,12 @@
       "title": "Buccaneer Crafting, Friday code talk, code office hours, coffee shop.",
       "game": "Software and Game Development",
       "started_at": "2025-12-19T18:41:46Z"
+    },
+    {
+      "username": "CosmoQuestX",
+      "title": "After Hours: \"Must not miss\" Science Sites with Mark McCaughrean",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2025-12-19T18:59:21Z"
     }
   ]
 }
