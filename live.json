@@ -1,17 +1,11 @@
 {
-  "timestamp": "2025-12-19T20:39:06.498Z",
+  "timestamp": "2025-12-19T20:47:14.736Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
-      "game": "Animals, Aquariums, and Zoos",
+      "title": "Show and Tell | !alveus !institute !pixel !schedule !video !feed",
+      "game": "Just Chatting",
       "started_at": "2025-12-19T13:26:05Z"
-    },
-    {
-      "username": "ipaintbirbs",
-      "title": "sketching and dreaming",
-      "game": "Art",
-      "started_at": "2025-12-19T17:07:20Z"
     },
     {
       "username": "ArchitectureTV",
@@ -20,16 +14,16 @@
       "started_at": "2025-12-19T14:48:05Z"
     },
     {
+      "username": "ipaintbirbs",
+      "title": "sketching and dreaming",
+      "game": "Art",
+      "started_at": "2025-12-19T17:07:20Z"
+    },
+    {
       "username": "Zachap",
       "title": "click to be curious",
       "game": "Just Chatting",
       "started_at": "2025-12-19T10:03:10Z"
-    },
-    {
-      "username": "Rocketology",
-      "title": "UnKerbaled Start Modded Career - Episode 20 - Duna Direct!",
-      "game": "Kerbal Space Program",
-      "started_at": "2025-12-19T18:23:55Z"
     },
     {
       "username": "IrishJohnGames",
@@ -38,10 +32,10 @@
       "started_at": "2025-12-19T20:13:20Z"
     },
     {
-      "username": "oh_bother",
-      "title": "Sim pit: Reverse engineering some real car parts!",
-      "game": "Just Chatting",
-      "started_at": "2025-12-19T18:29:51Z"
+      "username": "Rocketology",
+      "title": "UnKerbaled Start Modded Career - Episode 20 - Duna Direct!",
+      "game": "Kerbal Space Program",
+      "started_at": "2025-12-19T18:23:55Z"
     },
     {
       "username": "SydHeresy",
@@ -50,16 +44,34 @@
       "started_at": "2025-12-19T19:30:24Z"
     },
     {
+      "username": "DrawCuriosity",
+      "title": "🐏22 subs away from cosplay photoshoot! LET'S VOTE ON WHAT I SHOULD DO TODAY 18th Advent Bug: Winter Moth ✨🐏 !merch !bugwiki !dailybug",
+      "game": "Just Chatting",
+      "started_at": "2025-12-19T20:34:58Z"
+    },
+    {
+      "username": "oh_bother",
+      "title": "Sim pit: Reverse engineering some real car parts!",
+      "game": "Just Chatting",
+      "started_at": "2025-12-19T18:29:51Z"
+    },
+    {
       "username": "SharkG33k",
       "title": "🎄Last Stream B4 Christmas!| Warframe! | !charity 🎄",
       "game": "Warframe",
       "started_at": "2025-12-19T19:21:41Z"
     },
     {
-      "username": "DrawCuriosity",
-      "title": "🐏22 subs away from cosplay photoshoot! LET'S VOTE ON WHAT I SHOULD DO TODAY 18th Advent Bug: Winter Moth ✨🐏 !merch !bugwiki !dailybug",
-      "game": "Just Chatting",
-      "started_at": "2025-12-19T20:34:58Z"
+      "username": "Stephen_Wolfram",
+      "title": "Science & Technology Q&A for Kids (and others) [Part 162]",
+      "game": "Science & Technology",
+      "started_at": "2025-12-19T20:41:00Z"
+    },
+    {
+      "username": "AcademyOfUselessIdeas",
+      "title": "Attempting math! (Imagine that you're reading a clever line.)",
+      "game": "Math",
+      "started_at": "2025-12-19T19:09:36Z"
     },
     {
       "username": "jacksfacts",
@@ -72,12 +84,6 @@
       "title": "Buccaneer Crafting, Friday code talk, code office hours, coffee shop.",
       "game": "Software and Game Development",
       "started_at": "2025-12-19T18:41:46Z"
-    },
-    {
-      "username": "AcademyOfUselessIdeas",
-      "title": "Attempting math! (Imagine that you're reading a clever line.)",
-      "game": "Math",
-      "started_at": "2025-12-19T19:09:36Z"
     }
   ]
 }
