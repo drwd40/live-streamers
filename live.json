@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-19T21:56:28.538Z",
+  "timestamp": "2025-12-19T22:04:35.788Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,9 +26,15 @@
       "started_at": "2025-12-19T20:13:20Z"
     },
     {
+      "username": "AdamLearnsLive",
+      "title": "Final cut-scene (day 279½)",
+      "game": "Software and Game Development",
+      "started_at": "2025-12-19T21:44:50Z"
+    },
+    {
       "username": "DrawCuriosity",
-      "title": "🐏22 subs away from cosplay photoshoot! LET'S VOTE ON WHAT I SHOULD DO TODAY 18th Advent Bug: Winter Moth ✨🐏 !merch !bugwiki !dailybug",
-      "game": "Just Chatting",
+      "title": "🐏SCIENCE NEWS TODAY Gift 5 subs or Tier 3 to access future cosplay photoshoot 18th Advent Bug: Winter Moth ✨🐏 !merch !bugwiki !dailybug",
+      "game": "Science & Technology",
       "started_at": "2025-12-19T20:34:58Z"
     },
     {
@@ -38,28 +44,22 @@
       "started_at": "2025-12-19T18:23:55Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Final cut-scene (day 279½)",
-      "game": "Software and Game Development",
-      "started_at": "2025-12-19T21:44:50Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Soldering Electronic Synths - DIY",
       "game": "Science & Technology",
       "started_at": "2025-12-19T19:30:24Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Science & Technology Q&A for Kids (and others) [Part 162]",
-      "game": "Science & Technology",
-      "started_at": "2025-12-19T20:41:00Z"
-    },
-    {
       "username": "SharkG33k",
       "title": "🎄Last Stream B4 Christmas!| Warframe! | !charity 🎄",
       "game": "Warframe",
       "started_at": "2025-12-19T19:21:41Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 956: Design Review of Data Models (Tabular, TimeSeries and more) pt. 3",
+      "game": "Science & Technology",
+      "started_at": "2025-12-19T22:01:27Z"
     }
   ]
 }
