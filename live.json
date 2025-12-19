@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-19T01:10:43.286Z",
+  "timestamp": "2025-12-19T01:51:58.574Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,22 +32,16 @@
       "started_at": "2025-12-19T00:01:47Z"
     },
     {
-      "username": "Zachap",
-      "title": "Liberalism is illiberal - funnily enough",
-      "game": "Just Chatting",
-      "started_at": "2025-12-18T10:00:36Z"
-    },
-    {
-      "username": "shnaff",
-      "title": "Chill guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2025-12-18T23:01:22Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Holiday Solder Day Any Day Anyway",
       "game": "Science & Technology",
       "started_at": "2025-12-18T19:55:06Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "Liberalism is illiberal - funnily enough",
+      "game": "Just Chatting",
+      "started_at": "2025-12-18T10:00:36Z"
     },
     {
       "username": "ActualEducation",
@@ -60,6 +54,12 @@
       "title": "🦈Thrash Thursday! SHARK METAL! | !charity 🦈",
       "game": "Music",
       "started_at": "2025-12-19T01:07:32Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Earth and Climate Science.  NCAR Destruction with a PhD Astronomer #science #scientist #collab",
+      "game": "Science & Technology",
+      "started_at": "2025-12-19T01:48:21Z"
     }
   ]
 }
