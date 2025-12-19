@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-19T18:06:07.646Z",
+  "timestamp": "2025-12-19T18:17:30.789Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2025-12-19T14:48:05Z"
     },
     {
-      "username": "csharpfritz",
-      "title": "Spicy C# with Tabs and Aspire",
-      "game": "Software and Game Development",
-      "started_at": "2025-12-19T14:46:15Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "Making the final cut-scene! (day 279)",
       "game": "Software and Game Development",
       "started_at": "2025-12-19T16:20:11Z"
+    },
+    {
+      "username": "csharpfritz",
+      "title": "Spicy C# with Tabs and Aspire",
+      "game": "Software and Game Development",
+      "started_at": "2025-12-19T14:46:15Z"
     },
     {
       "username": "Zachap",
@@ -42,12 +42,6 @@
       "title": "Sim pit: Reverse engineering some real car parts!",
       "game": "Just Chatting",
       "started_at": "2025-12-19T17:49:07Z"
-    },
-    {
-      "username": "TimberAnew",
-      "title": "Kill the Crows - Treadmill time",
-      "game": "Fitness & Health",
-      "started_at": "2025-12-19T15:00:52Z"
     }
   ]
 }
