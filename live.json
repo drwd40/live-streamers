@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-19T19:04:34.073Z",
+  "timestamp": "2025-12-19T19:13:47.953Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -48,6 +48,18 @@
       "title": "After Hours: \"Must not miss\" Science Sites with Mark McCaughrean",
       "game": "Talk Shows & Podcasts",
       "started_at": "2025-12-19T18:59:21Z"
+    },
+    {
+      "username": "AcademyOfUselessIdeas",
+      "title": "Attempting math! (Imagine that you're reading a clever line.)",
+      "game": "Math",
+      "started_at": "2025-12-19T19:09:36Z"
+    },
+    {
+      "username": "jacksfacts",
+      "title": "Watching/reviewing Apple TV's show Prehistoric Planet Ice age!",
+      "game": "Science & Technology",
+      "started_at": "2025-12-19T19:12:43Z"
     }
   ]
 }
