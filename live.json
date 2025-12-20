@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-20T21:44:10.970Z",
+  "timestamp": "2025-12-20T21:50:18.662Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "Near Zero to Near Hero! !sc !org",
       "game": "Star Citizen",
       "started_at": "2025-12-20T19:00:02Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Can I beat the game today? !discord",
+      "game": "SIFU",
+      "started_at": "2025-12-20T21:47:18Z"
     }
   ]
 }
