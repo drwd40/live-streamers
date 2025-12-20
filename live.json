@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-20T02:23:03.562Z",
+  "timestamp": "2025-12-20T02:56:47.552Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,22 +14,28 @@
       "started_at": "2025-12-19T22:55:48Z"
     },
     {
+      "username": "Moohoodles",
+      "title": "🪐 Astrobiology & Space News! ✨ Star Citizen later :)",
+      "game": "Science & Technology",
+      "started_at": "2025-12-20T02:22:55Z"
+    },
+    {
       "username": "AstroCanuck",
       "title": "Week's End Catch-up: Space News & LEGO Nightmare Before Christmas | NEW 89 BITS | !drop !tkf",
       "game": "Science & Technology",
       "started_at": "2025-12-20T00:32:23Z"
     },
     {
-      "username": "DrawCuriosity",
-      "title": "🐏SCIENCE NEWS TODAY Gift 5 subs or Tier 3 to access future cosplay photoshoot 18th Advent Bug: Winter Moth ✨🐏 !merch !bugwiki !dailybug",
-      "game": "Science & Technology",
-      "started_at": "2025-12-19T20:34:58Z"
-    },
-    {
       "username": "SciAnts_Streams",
       "title": "SciAnts News | New species, molecular aging, Mammoth RNA, parasitic plans, and more! | Partner+ 189/300 | !ppp !yt !pod",
       "game": "Science & Technology",
       "started_at": "2025-12-20T02:01:48Z"
+    },
+    {
+      "username": "DrawCuriosity",
+      "title": "🐏SCIENCE NEWS TODAY Gift 5 subs or Tier 3 to access future cosplay photoshoot 18th Advent Bug: Winter Moth ✨🐏 !merch !bugwiki !dailybug",
+      "game": "Science & Technology",
+      "started_at": "2025-12-19T20:34:58Z"
     },
     {
       "username": "SydHeresy",
