@@ -1,17 +1,11 @@
 {
-  "timestamp": "2025-12-20T00:39:11.830Z",
+  "timestamp": "2025-12-20T01:06:33.383Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2025-12-19T13:26:05Z"
-    },
-    {
-      "username": "EJ_SA",
-      "title": "Is Jared Issacman Worth The Wait? - The Flame Trench 12/19/25",
-      "game": "Science & Technology",
-      "started_at": "2025-12-19T21:39:22Z"
     },
     {
       "username": "imreallyimportant",
@@ -32,16 +26,16 @@
       "started_at": "2025-12-19T23:01:01Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Soldering Electronic Synths - DIY",
-      "game": "Science & Technology",
-      "started_at": "2025-12-19T19:30:24Z"
-    },
-    {
       "username": "AstroCanuck",
       "title": "Week's End Catch-up: Space News & LEGO Nightmare Before Christmas | NEW 89 BITS | !drop !tkf",
       "game": "Science & Technology",
       "started_at": "2025-12-20T00:32:23Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Soldering Electronic Synths - DIY",
+      "game": "Science & Technology",
+      "started_at": "2025-12-19T19:30:24Z"
     },
     {
       "username": "MelissaInDeNile",
