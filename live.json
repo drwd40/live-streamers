@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-22T20:02:34.752Z",
+  "timestamp": "2025-12-22T20:12:19.250Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,22 +8,10 @@
       "started_at": "2025-12-21T13:29:38Z"
     },
     {
-      "username": "TinyToxicTofu",
-      "title": "💝 Building and Designing a Demon Core Model💝 New Game: God of War Ragnorok [PC]",
-      "game": "God of War Ragnarök",
-      "started_at": "2025-12-22T13:31:20Z"
-    },
-    {
       "username": "SciAnts_Streams",
       "title": "🦈 SciAnts IRL 🐳 | Georgia Aquarium trip with marine science! | Partner+ 229/300 | !ppp !yt !pod",
       "game": "IRL",
       "started_at": "2025-12-22T18:50:11Z"
-    },
-    {
-      "username": "AdamLearnsLive",
-      "title": "Still cutting scenes ✂️ (day 280)",
-      "game": "Software and Game Development",
-      "started_at": "2025-12-22T16:33:07Z"
     },
     {
       "username": "Zachap",
@@ -38,10 +26,16 @@
       "started_at": "2025-12-22T17:53:23Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 957: Design Review of Discrete Computation Features pt. 3",
+      "username": "DrawCuriosity",
+      "title": "🐏FLAREON COSPLAY - science news, FIREFLY minigame + GRIS first playthrough. Advent Bug: Blue Katydid ✨🐏 !merch !bugwiki !dailybug",
       "game": "Science & Technology",
-      "started_at": "2025-12-22T19:20:49Z"
+      "started_at": "2025-12-22T20:09:38Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "Near Zero to Near Hero - Episode 2 !sc !org",
+      "game": "Star Citizen",
+      "started_at": "2025-12-22T20:11:41Z"
     }
   ]
 }
