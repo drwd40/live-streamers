@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-22T20:57:49.722Z",
+  "timestamp": "2025-12-22T21:06:34.852Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -42,6 +42,18 @@
       "title": "Near Zero to Near Hero - Episode 2 !sc !org",
       "game": "Star Citizen",
       "started_at": "2025-12-22T20:11:41Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Polishing the end of the game (day 280½)",
+      "game": "Software and Game Development",
+      "started_at": "2025-12-22T21:01:48Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "SANTA GOLD GIVEAWAY!",
+      "game": "Just Chatting",
+      "started_at": "2025-12-22T21:03:52Z"
     }
   ]
 }
