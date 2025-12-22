@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-22T19:22:06.868Z",
+  "timestamp": "2025-12-22T19:30:22.121Z",
   "live": [
     {
       "username": "Maya",
@@ -50,16 +50,16 @@
       "started_at": "2025-12-22T19:01:46Z"
     },
     {
-      "username": "AcademyOfUselessIdeas",
-      "title": "Attempting math! (Embarrassment is where growth happens)",
-      "game": "Math",
-      "started_at": "2025-12-22T16:53:30Z"
-    },
-    {
       "username": "Stephen_Wolfram",
       "title": "Live CEOing Ep 957: Design Review of Discrete Computation Features pt. 3",
       "game": "Science & Technology",
       "started_at": "2025-12-22T19:20:49Z"
+    },
+    {
+      "username": "AcademyOfUselessIdeas",
+      "title": "Attempting math! (Embarrassment is where growth happens)",
+      "game": "Math",
+      "started_at": "2025-12-22T16:53:30Z"
     }
   ]
 }
