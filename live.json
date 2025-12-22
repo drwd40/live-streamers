@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-22T19:11:15.745Z",
+  "timestamp": "2025-12-22T19:22:06.868Z",
   "live": [
     {
       "username": "Maya",
@@ -54,6 +54,12 @@
       "title": "Attempting math! (Embarrassment is where growth happens)",
       "game": "Math",
       "started_at": "2025-12-22T16:53:30Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 957: Design Review of Discrete Computation Features pt. 3",
+      "game": "Science & Technology",
+      "started_at": "2025-12-22T19:20:49Z"
     }
   ]
 }
