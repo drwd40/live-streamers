@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-22T19:01:56.751Z",
+  "timestamp": "2025-12-22T19:11:15.745Z",
   "live": [
     {
       "username": "Maya",
@@ -26,16 +26,16 @@
       "started_at": "2025-12-22T16:33:07Z"
     },
     {
-      "username": "Zachap",
-      "title": "hoping things get better whilst we learn and stuff :)",
-      "game": "Just Chatting",
-      "started_at": "2025-12-22T10:03:07Z"
-    },
-    {
       "username": "SciAnts_Streams",
       "title": "🦈 SciAnts IRL 🐳 | Georgia Aquarium trip with marine science! | Partner+ 229/300 | !ppp !yt !pod",
       "game": "IRL",
       "started_at": "2025-12-22T18:50:11Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "hoping things get better whilst we learn and stuff :)",
+      "game": "Just Chatting",
+      "started_at": "2025-12-22T10:03:07Z"
     },
     {
       "username": "DiatomsATTACK",
@@ -44,16 +44,16 @@
       "started_at": "2025-12-22T17:53:23Z"
     },
     {
-      "username": "AcademyOfUselessIdeas",
-      "title": "Attempting math! (Embarrassment is where growth happens)",
-      "game": "Math",
-      "started_at": "2025-12-22T16:53:30Z"
-    },
-    {
       "username": "CosmoQuestX",
       "title": "Astronomy Cast LIVE",
       "game": "Talk Shows & Podcasts",
       "started_at": "2025-12-22T19:01:46Z"
+    },
+    {
+      "username": "AcademyOfUselessIdeas",
+      "title": "Attempting math! (Embarrassment is where growth happens)",
+      "game": "Math",
+      "started_at": "2025-12-22T16:53:30Z"
     }
   ]
 }
