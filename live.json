@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-22T18:12:55.018Z",
+  "timestamp": "2025-12-22T18:26:27.692Z",
   "live": [
     {
       "username": "Maya",
@@ -28,7 +28,7 @@
     {
       "username": "LumiRue",
       "title": "AI Water Usage, \"Why I have a problem w/ Birds\" | Chess matches for subs between videos! | Gamer vote @ 35 subs",
-      "game": "Chess",
+      "game": "Just Chatting",
       "started_at": "2025-12-22T15:05:31Z"
     },
     {
@@ -44,22 +44,16 @@
       "started_at": "2025-12-22T17:53:23Z"
     },
     {
-      "username": "TimberAnew",
-      "title": "Kill the Crows - Treadmill time (9kg lost so far)",
-      "game": "Fitness & Health",
-      "started_at": "2025-12-22T15:00:06Z"
+      "username": "AcademyOfUselessIdeas",
+      "title": "Attempting math! (Embarrassment is where growth happens)",
+      "game": "Math",
+      "started_at": "2025-12-22T16:53:30Z"
     },
     {
       "username": "ProfessorEXP",
       "title": "Back to Streaming |  Roomba RIP | Culture and Society | Happy Holidays!",
       "game": "Just Chatting",
       "started_at": "2025-12-22T17:04:25Z"
-    },
-    {
-      "username": "AcademyOfUselessIdeas",
-      "title": "Attempting math! (Embarrassment is where growth happens)",
-      "game": "Math",
-      "started_at": "2025-12-22T16:53:30Z"
     }
   ]
 }
