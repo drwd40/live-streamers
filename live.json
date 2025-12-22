@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-22T21:27:57.062Z",
+  "timestamp": "2025-12-22T21:36:03.507Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,10 @@
       "started_at": "2025-12-21T13:29:38Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "🦈 SciAnts IRL 🐳 | Georgia Aquarium trip with marine science! | Partner+ 229/300 | !ppp !yt !pod",
-      "game": "IRL",
-      "started_at": "2025-12-22T18:50:11Z"
-    },
-    {
-      "username": "DrawCuriosity",
-      "title": "🐏FLAREON COSPLAY - science news, FIREFLY minigame + GRIS first playthrough. Advent Bug: Blue Katydid ✨🐏 !merch !bugwiki !dailybug",
+      "username": "Paleontologizing",
+      "title": "\"EXTINCT\" FISH FOUND ALIVE! 🐟 Celebrating the anniversary of the COELACANTH's discovery — Dec 22, 1938 🐟  MERRY FISHMAS! 🎅🏽",
       "game": "Science & Technology",
-      "started_at": "2025-12-22T20:09:38Z"
+      "started_at": "2025-12-22T21:25:53Z"
     },
     {
       "username": "Zachap",
@@ -32,16 +26,16 @@
       "started_at": "2025-12-22T21:01:48Z"
     },
     {
+      "username": "DrawCuriosity",
+      "title": "🐏FLAREON COSPLAY - science news, FIREFLY minigame + GRIS first playthrough. Advent Bug: Blue Katydid ✨🐏 !merch !bugwiki !dailybug",
+      "game": "Science & Technology",
+      "started_at": "2025-12-22T20:09:38Z"
+    },
+    {
       "username": "IrishJohnGames",
       "title": "🍀Live Game Dev - Rise of Piracy Development! | !discord !streamers !MicroProse !steam",
       "game": "Software and Game Development",
       "started_at": "2025-12-22T20:30:21Z"
-    },
-    {
-      "username": "DiatomsATTACK",
-      "title": "Christmas diatoms on the SEM - samples from Anna Nesterovich!",
-      "game": "Science & Technology",
-      "started_at": "2025-12-22T17:53:23Z"
     },
     {
       "username": "Rocketology",
@@ -50,10 +44,10 @@
       "started_at": "2025-12-22T20:11:41Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "\"EXTINCT\" FISH FOUND ALIVE!  Celebrating the anniversary of the COELACANTH's discovery — Dec 22, 1938 🐟  MERRY FISHMAS! 🎅🏽",
+      "username": "DiatomsATTACK",
+      "title": "Christmas diatoms on the SEM - samples from Anna Nesterovich!",
       "game": "Science & Technology",
-      "started_at": "2025-12-22T21:25:53Z"
+      "started_at": "2025-12-22T17:53:23Z"
     },
     {
       "username": "ActualEducation",
