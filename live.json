@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-22T18:43:36.760Z",
+  "timestamp": "2025-12-22T18:54:51.904Z",
   "live": [
     {
       "username": "Maya",
@@ -44,16 +44,22 @@
       "started_at": "2025-12-22T17:53:23Z"
     },
     {
-      "username": "AcademyOfUselessIdeas",
-      "title": "Attempting math! (Embarrassment is where growth happens)",
-      "game": "Math",
-      "started_at": "2025-12-22T16:53:30Z"
+      "username": "SciAnts_Streams",
+      "title": "🦈 SciAnts IRL 🐳 | Georgia Aquarium trip with marine science! | Partner+ 229/300 | !ppp !yt !pod",
+      "game": "IRL",
+      "started_at": "2025-12-22T18:50:11Z"
     },
     {
       "username": "ProfessorEXP",
       "title": "Back to Streaming |  Roomba RIP | Culture and Society | Happy Holidays!",
       "game": "Just Chatting",
       "started_at": "2025-12-22T17:04:25Z"
+    },
+    {
+      "username": "AcademyOfUselessIdeas",
+      "title": "Attempting math! (Embarrassment is where growth happens)",
+      "game": "Math",
+      "started_at": "2025-12-22T16:53:30Z"
     }
   ]
 }
