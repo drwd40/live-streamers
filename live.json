@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-12-23T18:55:22.851Z",
+  "timestamp": "2025-12-23T19:03:21.258Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
-      "game": "Animals, Aquariums, and Zoos",
+      "title": "Animal Care Chats | !alveus !institute !pixel !schedule !video !feed",
+      "game": "Just Chatting",
       "started_at": "2025-12-23T13:29:40Z"
     },
     {
@@ -54,6 +54,12 @@
       "title": "Inner Product Day w @dikduk_613 mappin' vectors onto scalars [!fish 🎣 | !commands 💻]",
       "game": "Math",
       "started_at": "2025-12-23T17:02:56Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Merry Solder Days - Electronics",
+      "game": "Science & Technology",
+      "started_at": "2025-12-23T19:00:18Z"
     }
   ]
 }
