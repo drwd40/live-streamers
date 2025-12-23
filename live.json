@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-23T16:17:12.632Z",
+  "timestamp": "2025-12-23T16:31:44.933Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "don't repress knowledge :)",
       "game": "Just Chatting",
       "started_at": "2025-12-23T10:02:15Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Game dev (day 281)",
+      "game": "Software and Game Development",
+      "started_at": "2025-12-23T16:30:10Z"
     }
   ]
 }
