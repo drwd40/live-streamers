@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-23T20:39:29.638Z",
+  "timestamp": "2025-12-23T20:47:23.622Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,6 +32,12 @@
       "started_at": "2025-12-23T10:02:15Z"
     },
     {
+      "username": "DrawCuriosity",
+      "title": "🐏 Puzzle Day + continuing GRIS Advent Bug: Cricula moth ✨🐏 !merch !bugwiki !dailybug",
+      "game": "Just Chatting",
+      "started_at": "2025-12-23T20:35:31Z"
+    },
+    {
       "username": "SydHeresy",
       "title": "Merry Solder Days - Electronics",
       "game": "Science & Technology",
@@ -42,12 +48,6 @@
       "title": "UnKerbaled Start Modded Career - Episode 22",
       "game": "Kerbal Space Program",
       "started_at": "2025-12-23T19:19:19Z"
-    },
-    {
-      "username": "DrawCuriosity",
-      "title": "🐏 Puzzle Day + continuing GRIS Advent Bug: Cricula moth ✨🐏 !merch !bugwiki !dailybug",
-      "game": "Just Chatting",
-      "started_at": "2025-12-23T20:35:31Z"
     }
   ]
 }
