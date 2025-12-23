@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-23T21:55:58.161Z",
+  "timestamp": "2025-12-23T22:03:56.928Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,22 +38,28 @@
       "started_at": "2025-12-23T18:48:40Z"
     },
     {
-      "username": "DrawCuriosity",
-      "title": "🐏 Puzzle Day + continuing GRIS Advent Bug: Cricula moth ✨🐏 !merch !bugwiki !dailybug",
-      "game": "Just Chatting",
-      "started_at": "2025-12-23T20:35:31Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Merry Solder Days - Electronics",
       "game": "Science & Technology",
       "started_at": "2025-12-23T19:00:18Z"
     },
     {
+      "username": "DrawCuriosity",
+      "title": "🐏 Puzzle Day + continuing GRIS Advent Bug: Cricula moth ✨🐏 !merch !bugwiki !dailybug",
+      "game": "Just Chatting",
+      "started_at": "2025-12-23T20:35:31Z"
+    },
+    {
       "username": "Rocketology",
       "title": "UnKerbaled Start Modded Career - Episode 22",
       "game": "Kerbal Space Program",
       "started_at": "2025-12-23T19:19:19Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Nine Sols, Night 15: Cleaning up the Research Area.",
+      "game": "Nine Sols",
+      "started_at": "2025-12-23T21:59:14Z"
     }
   ]
 }
