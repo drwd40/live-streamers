@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-23T20:53:59.996Z",
+  "timestamp": "2025-12-23T20:59:46.530Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,10 +26,10 @@
       "started_at": "2025-12-23T18:48:40Z"
     },
     {
-      "username": "Zachap",
-      "title": "don't repress knowledge :)",
-      "game": "Just Chatting",
-      "started_at": "2025-12-23T10:02:15Z"
+      "username": "Rocketology",
+      "title": "UnKerbaled Start Modded Career - Episode 22",
+      "game": "Kerbal Space Program",
+      "started_at": "2025-12-23T19:19:19Z"
     },
     {
       "username": "DrawCuriosity",
@@ -42,12 +42,6 @@
       "title": "Merry Solder Days - Electronics",
       "game": "Science & Technology",
       "started_at": "2025-12-23T19:00:18Z"
-    },
-    {
-      "username": "Rocketology",
-      "title": "UnKerbaled Start Modded Career - Episode 22",
-      "game": "Kerbal Space Program",
-      "started_at": "2025-12-23T19:19:19Z"
     }
   ]
 }
