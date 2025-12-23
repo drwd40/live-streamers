@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-23T20:29:48.229Z",
+  "timestamp": "2025-12-23T20:39:29.638Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,12 +18,6 @@
       "title": "QUEBEC CITY Christmas, winter road trip day 09🎄Historic and contemporary buildings | Architecture IRL",
       "game": "IRL",
       "started_at": "2025-12-23T14:03:08Z"
-    },
-    {
-      "username": "csharpfritz",
-      "title": "Christmas C# with LEDs and Pi!",
-      "game": "Software and Game Development",
-      "started_at": "2025-12-23T15:26:33Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -48,6 +42,12 @@
       "title": "UnKerbaled Start Modded Career - Episode 22",
       "game": "Kerbal Space Program",
       "started_at": "2025-12-23T19:19:19Z"
+    },
+    {
+      "username": "DrawCuriosity",
+      "title": "🐏 Puzzle Day + continuing GRIS Advent Bug: Cricula moth ✨🐏 !merch !bugwiki !dailybug",
+      "game": "Just Chatting",
+      "started_at": "2025-12-23T20:35:31Z"
     }
   ]
 }
