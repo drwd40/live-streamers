@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-23T16:55:49.431Z",
+  "timestamp": "2025-12-23T17:04:22.887Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "Game dev (day 281)",
       "game": "Software and Game Development",
       "started_at": "2025-12-23T16:30:10Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "Inner Product Day w @dikduk_613 mappin' vectors onto scalars [!fish 🎣 | !commands 💻]",
+      "game": "Math",
+      "started_at": "2025-12-23T17:02:56Z"
     }
   ]
 }
