@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-24T21:39:38.166Z",
+  "timestamp": "2025-12-24T21:46:30.866Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2025-12-23T13:29:40Z"
     },
     {
-      "username": "Zachap",
-      "title": "Happy Holidays, We are all alienated by capitalism :(",
-      "game": "Just Chatting",
-      "started_at": "2025-12-24T10:01:14Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "Last stream of the week (day 282½)",
       "game": "Software and Game Development",
       "started_at": "2025-12-24T21:06:29Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "Happy Holidays, We are all alienated by capitalism :(",
+      "game": "Just Chatting",
+      "started_at": "2025-12-24T10:01:14Z"
     },
     {
       "username": "DrMick",
@@ -30,12 +30,6 @@
       "title": "XMAS Eve Loot Goblin Running!",
       "game": "Star Citizen",
       "started_at": "2025-12-24T19:46:48Z"
-    },
-    {
-      "username": "starstryder",
-      "title": "Ninja Storytime",
-      "game": "Just Chatting",
-      "started_at": "2025-12-24T20:56:36Z"
     }
   ]
 }
