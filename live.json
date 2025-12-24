@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-24T02:29:06.344Z",
+  "timestamp": "2025-12-24T03:06:31.720Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -9,8 +9,8 @@
     },
     {
       "username": "EJ_SA",
-      "title": "KSP LAUNCH TIME BRO TIME!",
-      "game": "Kerbal Space Program",
+      "title": "EJ's ISRO LVM-3 BlueBird Block 2 FM1 Launch Coverage! 12/23/25",
+      "game": "Science & Technology",
       "started_at": "2025-12-23T20:59:52Z"
     },
     {
@@ -20,16 +20,16 @@
       "started_at": "2025-12-23T23:04:29Z"
     },
     {
-      "username": "DrawCuriosity",
-      "title": "🐏 Puzzle Day + continuing GRIS Advent Bug: Cricula moth ✨🐏 !merch !bugwiki !dailybug",
-      "game": "Just Chatting",
-      "started_at": "2025-12-23T20:35:31Z"
-    },
-    {
       "username": "AstroCanuck",
       "title": "Astro's Po'Pourri: LEGO CMF Series 28 Animal Costumes & Christmas Builds | !continental | NEW 89 BITS | !drop !tkf",
       "game": "Lego & Brickbuilding",
       "started_at": "2025-12-24T00:59:02Z"
+    },
+    {
+      "username": "DrawCuriosity",
+      "title": "🐏 Puzzle Day + continuing GRIS Advent Bug: Cricula moth ✨🐏 !merch !bugwiki !dailybug",
+      "game": "Just Chatting",
+      "started_at": "2025-12-23T20:35:31Z"
     },
     {
       "username": "SydHeresy",
@@ -42,6 +42,12 @@
       "title": "Ferret dad plays ferret game: Light up the Town! | Cozy relaxing holiday time",
       "game": "Light Up the Town",
       "started_at": "2025-12-24T01:39:12Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "NMN clinical trials. The Miners' Hymns. Electric aircraft.",
+      "game": "IRL",
+      "started_at": "2025-12-24T02:31:28Z"
     }
   ]
 }
