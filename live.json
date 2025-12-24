@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-24T19:41:21.313Z",
+  "timestamp": "2025-12-24T19:47:31.962Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "Happy Holidays, We are all alienated by capitalism :(",
       "game": "Just Chatting",
       "started_at": "2025-12-24T10:01:14Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "XMAS Eve Loot Goblin Running!",
+      "game": "Star Citizen",
+      "started_at": "2025-12-24T19:46:48Z"
     }
   ]
 }
