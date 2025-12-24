@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-24T20:55:33.783Z",
+  "timestamp": "2025-12-24T21:02:33.706Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,12 @@
       "title": "XMAS Eve Loot Goblin Running!",
       "game": "Star Citizen",
       "started_at": "2025-12-24T19:46:48Z"
+    },
+    {
+      "username": "starstryder",
+      "title": "Ninja Storytime",
+      "game": "Just Chatting",
+      "started_at": "2025-12-24T20:56:36Z"
     }
   ]
 }
