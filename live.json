@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-24T23:09:45.246Z",
+  "timestamp": "2025-12-24T23:20:43.830Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,22 +20,10 @@
       "started_at": "2025-12-24T22:51:31Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Last stream of the week (day 282½)",
-      "game": "Software and Game Development",
-      "started_at": "2025-12-24T21:06:29Z"
-    },
-    {
       "username": "DrMick",
       "title": "Mental Health Chat + Painting 40k",
       "game": "Miniatures & Models",
       "started_at": "2025-12-24T21:12:52Z"
-    },
-    {
-      "username": "Zachap",
-      "title": "Happy Holidays, We are all alienated by capitalism :(",
-      "game": "Just Chatting",
-      "started_at": "2025-12-24T10:01:14Z"
     }
   ]
 }
