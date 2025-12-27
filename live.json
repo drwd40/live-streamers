@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-27T18:15:13.890Z",
+  "timestamp": "2025-12-27T18:29:09.009Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,12 @@
       "title": "Stream-A-Thon - Electronics - Soldering - KiCAD - VCV Rack - Vpin - MOAR",
       "game": "Just Chatting",
       "started_at": "2025-12-27T17:45:26Z"
+    },
+    {
+      "username": "ArchitectureTV",
+      "title": "TORONTO SNOW🎄Historic and contemporary buildings | Architecture IRL",
+      "game": "IRL",
+      "started_at": "2025-12-27T18:20:50Z"
     }
   ]
 }
