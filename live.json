@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-27T00:44:30.311Z",
+  "timestamp": "2025-12-27T01:14:19.756Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,22 +20,16 @@
       "started_at": "2025-12-26T22:59:27Z"
     },
     {
-      "username": "Zachap",
-      "title": "Showing up every day and avoiding slop about nothing - for every day in the year.",
-      "game": "Just Chatting",
-      "started_at": "2025-12-26T10:01:28Z"
-    },
-    {
       "username": "shnaff",
       "title": "Chill instrumental music in !stereo🎧",
       "game": "Music",
       "started_at": "2025-12-26T23:04:03Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "It's a Boxing Day, not karate...?",
-      "game": "Math",
-      "started_at": "2025-12-26T21:59:38Z"
+      "username": "Ask_a_Scientist_Gaming",
+      "title": "Dr. Hanson and Dr. DePrince: 2 Player NARC Speedruns.",
+      "game": "Science & Technology",
+      "started_at": "2025-12-27T00:56:30Z"
     }
   ]
 }
