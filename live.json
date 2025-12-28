@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-28T05:27:45.074Z",
+  "timestamp": "2025-12-28T05:40:25.298Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "Stream-A-Thon - Electronics - Soldering - KiCAD - VCV Rack - Vpin - MOAR",
       "game": "Science & Technology",
       "started_at": "2025-12-27T17:45:26Z"
+    },
+    {
+      "username": "DrMick",
+      "title": "Therapist Plays ROUTINE: Part 6",
+      "game": "ROUTINE",
+      "started_at": "2025-12-28T05:29:31Z"
     },
     {
       "username": "TominationTime",
