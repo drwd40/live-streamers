@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-28T05:40:25.298Z",
+  "timestamp": "2025-12-28T05:49:53.493Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2025-12-27T13:29:44Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Stream-A-Thon - Electronics - Soldering - KiCAD - VCV Rack - Vpin - MOAR",
-      "game": "Science & Technology",
-      "started_at": "2025-12-27T17:45:26Z"
-    },
-    {
       "username": "DrMick",
       "title": "Therapist Plays ROUTINE: Part 6",
       "game": "ROUTINE",
       "started_at": "2025-12-28T05:29:31Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Stream-A-Thon - Electronics - Soldering - KiCAD - VCV Rack - Vpin - MOAR",
+      "game": "Science & Technology",
+      "started_at": "2025-12-27T17:45:26Z"
     },
     {
       "username": "TominationTime",
