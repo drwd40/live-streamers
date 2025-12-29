@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-29T02:03:32.882Z",
+  "timestamp": "2025-12-29T02:54:39.392Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,22 @@
       "started_at": "2025-12-27T13:29:44Z"
     },
     {
-      "username": "shnaff",
-      "title": "Chill guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2025-12-28T23:01:00Z"
+      "username": "SciAnts_Streams",
+      "title": "🎄Holiday SciAnts Special🎄 | Reindeer, snowflakes, mistletoe and more! | Partner+ 324/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2025-12-29T02:04:12Z"
     },
     {
       "username": "Nerduino",
       "title": "Checking out the Moon - Backyard Astronomy with a PHD Astronomer! #science #space",
       "game": "Science & Technology",
       "started_at": "2025-12-29T01:42:23Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Supercooled salamanders, Psalm 131, and berberine's bioavailability and blood sugar lowering.",
+      "game": "IRL",
+      "started_at": "2025-12-29T02:30:11Z"
     }
   ]
 }
