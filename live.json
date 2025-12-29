@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-29T11:38:31.395Z",
+  "timestamp": "2025-12-29T11:46:03.367Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "I'm gonna understand first-time chatters one day",
       "game": "Just Chatting",
       "started_at": "2025-12-29T10:02:48Z"
+    },
+    {
+      "username": "TinyToxicTofu",
+      "title": "Happy Belated Birthday Sir Issac Newton! 🔭 Newtonian Laws, Physics Problems, Free Fall Experiment + Interview with @Nerduino 🚀 !physics",
+      "game": "Science & Technology",
+      "started_at": "2025-12-29T11:42:45Z"
     }
   ]
 }
