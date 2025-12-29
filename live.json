@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-29T21:44:54.598Z",
+  "timestamp": "2025-12-29T21:50:25.441Z",
   "live": [
     {
       "username": "Maya",
@@ -20,16 +20,16 @@
       "started_at": "2025-12-29T17:19:04Z"
     },
     {
-      "username": "Zachap",
-      "title": "I'm gonna understand first-time chatters one day",
-      "game": "Just Chatting",
-      "started_at": "2025-12-29T10:02:48Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "HI! Look at my !game 👀 (day 283½)",
       "game": "Software and Game Development",
       "started_at": "2025-12-29T21:11:42Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "I'm gonna understand first-time chatters one day",
+      "game": "Just Chatting",
+      "started_at": "2025-12-29T10:02:48Z"
     },
     {
       "username": "AstroCanuck",
@@ -54,6 +54,12 @@
       "title": "It'll be like a walk in the park... Oh wait it's just a walk in the park",
       "game": "IRL",
       "started_at": "2025-12-29T21:19:01Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Math Communication Monday! Reading more papers I don't understand! Anyone is welcome to decipher along with me.",
+      "game": "Math",
+      "started_at": "2025-12-29T21:47:25Z"
     }
   ]
 }
