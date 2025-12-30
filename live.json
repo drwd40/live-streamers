@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-30T22:49:02.042Z",
+  "timestamp": "2025-12-30T22:54:28.190Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2025-12-30T19:17:15Z"
     },
     {
-      "username": "DrawCuriosity",
-      "title": "🔴CURIOSITY DRAWARDS - Draw Curiosity 2025 Recap and Award Show (yes, *you* can win an award) !merch (limited edition!)",
-      "game": "Special Events",
-      "started_at": "2025-12-30T20:09:06Z"
-    },
-    {
       "username": "Zachap",
       "title": "Any Gamers?",
       "game": "Just Chatting",
       "started_at": "2025-12-30T10:01:23Z"
+    },
+    {
+      "username": "DrawCuriosity",
+      "title": "🔴CURIOSITY DRAWARDS - Draw Curiosity 2025 Recap and Award Show (yes, *you* can win an award) !merch (limited edition!)",
+      "game": "Special Events",
+      "started_at": "2025-12-30T20:09:06Z"
     },
     {
       "username": "SydHeresy",
