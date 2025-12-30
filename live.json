@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-30T00:42:09.070Z",
+  "timestamp": "2025-12-30T01:10:48.721Z",
   "live": [
     {
       "username": "Maya",
@@ -42,12 +42,6 @@
       "title": "Namalsking around",
       "game": "DayZ",
       "started_at": "2025-12-29T23:15:51Z"
-    },
-    {
-      "username": "nSimplexPachinko",
-      "title": "Math Communication Monday! Reading more papers I don't understand! Anyone is welcome to decipher along with me.",
-      "game": "Math",
-      "started_at": "2025-12-29T21:47:25Z"
     }
   ]
 }
