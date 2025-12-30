@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-30T21:02:53.026Z",
+  "timestamp": "2025-12-30T21:12:20.447Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,22 +26,28 @@
       "started_at": "2025-12-30T10:01:23Z"
     },
     {
-      "username": "DrawCuriosity",
-      "title": "🔴CURIOSITY DRAWARDS - Draw Curiosity 2025 Recap and Award Show (yes, *you* can win an award) !merch (limited edition!)",
-      "game": "Special Events",
-      "started_at": "2025-12-30T20:09:06Z"
-    },
-    {
       "username": "oh_bother",
       "title": "Sim setup: Let's hook things up with CAN bus!",
       "game": "Just Chatting",
       "started_at": "2025-12-30T17:38:15Z"
     },
     {
+      "username": "DrawCuriosity",
+      "title": "🔴CURIOSITY DRAWARDS - Draw Curiosity 2025 Recap and Award Show (yes, *you* can win an award) !merch (limited edition!)",
+      "game": "Special Events",
+      "started_at": "2025-12-30T20:09:06Z"
+    },
+    {
       "username": "SydHeresy",
       "title": "Last Solder Of The Year - Electronics - KiCAD - Stuff",
       "game": "Science & Technology",
       "started_at": "2025-12-30T19:01:09Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "FOSSIL SCIENCE CHAT 🦖💬❔☑  Gettin' your questions answered during casual paleontology discussion (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2025-12-30T21:06:43Z"
     }
   ]
 }
