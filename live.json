@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-30T21:12:20.447Z",
+  "timestamp": "2025-12-30T21:24:09.663Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,12 @@
       "title": "TORONTO SNOW, street markets🎄Historic and contemporary buildings | Architecture IRL",
       "game": "IRL",
       "started_at": "2025-12-30T19:17:15Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "FOSSIL SCIENCE CHAT 🦖💬❔☑  Gettin' your questions answered during casual paleontology discussion (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2025-12-30T21:06:43Z"
     },
     {
       "username": "Zachap",
@@ -44,10 +50,10 @@
       "started_at": "2025-12-30T19:01:09Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "FOSSIL SCIENCE CHAT 🦖💬❔☑  Gettin' your questions answered during casual paleontology discussion (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2025-12-30T21:06:43Z"
+      "username": "DonFactorial",
+      "title": "Namalsk take 2, this time with @efeldina",
+      "game": "DayZ",
+      "started_at": "2025-12-30T21:18:21Z"
     }
   ]
 }
