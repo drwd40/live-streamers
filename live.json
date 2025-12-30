@@ -1,12 +1,6 @@
 {
-  "timestamp": "2025-12-30T02:33:08.871Z",
+  "timestamp": "2025-12-30T03:11:54.532Z",
   "live": [
-    {
-      "username": "Maya",
-      "title": "time to get cozy 🎵",
-      "game": "Music",
-      "started_at": "2025-12-29T16:37:43Z"
-    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
@@ -36,18 +30,6 @@
       "title": "Scanning old 35mm geology slides while I watch hockey 🌋🪨🥅🏒!discord !nova !tkf",
       "game": "Science & Technology",
       "started_at": "2025-12-30T01:18:50Z"
-    },
-    {
-      "username": "DonFactorial",
-      "title": "Namalsking around",
-      "game": "DayZ",
-      "started_at": "2025-12-29T23:15:51Z"
-    },
-    {
-      "username": "walkingsticklibrary",
-      "title": "What does Kevin Sorbo know about berberine?",
-      "game": "IRL",
-      "started_at": "2025-12-30T01:30:08Z"
     }
   ]
 }
