@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-30T21:48:19.507Z",
+  "timestamp": "2025-12-30T21:53:54.110Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2025-12-30T17:10:50Z"
     },
     {
-      "username": "ArchitectureTV",
-      "title": "TORONTO SNOW, street markets🎄Historic and contemporary buildings | Architecture IRL",
-      "game": "IRL",
-      "started_at": "2025-12-30T19:17:15Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "FOSSIL SCIENCE CHAT 🦖💬❔☑  Gettin' your questions answered during casual paleontology discussion (w/ paleontologist Danny Anduza)",
       "game": "Science & Technology",
       "started_at": "2025-12-30T21:06:43Z"
+    },
+    {
+      "username": "ArchitectureTV",
+      "title": "TORONTO SNOW, street markets🎄Historic and contemporary buildings | Architecture IRL",
+      "game": "IRL",
+      "started_at": "2025-12-30T19:17:15Z"
     },
     {
       "username": "DrawCuriosity",
