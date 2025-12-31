@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-31T17:53:19.939Z",
+  "timestamp": "2025-12-31T17:59:18.192Z",
   "live": [
     {
       "username": "Maya",
@@ -30,6 +30,12 @@
       "title": "Gaming n' Treadmill",
       "game": "Deliver Us The Moon",
       "started_at": "2025-12-31T15:00:26Z"
+    },
+    {
+      "username": "Kitboga",
+      "title": "Maybe Calling Scammers [Ep 1503]",
+      "game": "Just Chatting",
+      "started_at": "2025-12-31T17:58:42Z"
     }
   ]
 }
