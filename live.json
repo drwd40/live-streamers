@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-31T21:13:38.205Z",
+  "timestamp": "2025-12-31T21:25:33.854Z",
   "live": [
     {
       "username": "Kitboga",
@@ -24,6 +24,12 @@
       "title": "🍀Rise of Piracy - Live Game Dev. Happy New Year!! | !discord !streamers !MicroProse !steam",
       "game": "Software and Game Development",
       "started_at": "2025-12-31T20:00:23Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Getting in some math before the end of the year",
+      "game": "Math",
+      "started_at": "2025-12-31T21:19:17Z"
     }
   ]
 }
