@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-31T02:46:09.238Z",
+  "timestamp": "2025-12-31T03:18:23.486Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,22 +20,16 @@
       "started_at": "2025-12-30T23:34:08Z"
     },
     {
-      "username": "shnaff",
-      "title": "Chill guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2025-12-30T23:06:47Z"
-    },
-    {
       "username": "SciAnts_Streams",
       "title": "Tinker Tuesday | Bird brains? Fire, puzzles, and more! | Partner+ 340/300 | !ppp !yt !pod",
       "game": "Science & Technology",
       "started_at": "2025-12-31T02:18:51Z"
     },
     {
-      "username": "SharkG33k",
-      "title": "Last Stream of 2025! | Year in review and 360 footage edits",
-      "game": "Science & Technology",
-      "started_at": "2025-12-31T01:00:26Z"
+      "username": "shnaff",
+      "title": "Chill guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2025-12-30T23:06:47Z"
     },
     {
       "username": "DrawCuriosity",
@@ -44,16 +38,22 @@
       "started_at": "2025-12-30T20:09:06Z"
     },
     {
+      "username": "DonFactorial",
+      "title": "Chernarus, this time with @efeldina",
+      "game": "DayZ",
+      "started_at": "2025-12-30T21:18:21Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Last Stream of 2025! | Year in review and 360 footage edits",
+      "game": "Science & Technology",
+      "started_at": "2025-12-31T01:00:26Z"
+    },
+    {
       "username": "SydHeresy",
       "title": "Last Solder Of The Year - Electronics - KiCAD - Stuff",
       "game": "Science & Technology",
       "started_at": "2025-12-30T19:01:09Z"
-    },
-    {
-      "username": "Mr_Aejis",
-      "title": "Teacher Plays: Silksong - would you still love me if I was a wyrm?",
-      "game": "Hollow Knight: Silksong",
-      "started_at": "2025-12-31T01:14:17Z"
     },
     {
       "username": "MelissaInDeNile",
@@ -62,10 +62,10 @@
       "started_at": "2025-12-31T00:20:01Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Chernarus, this time with @efeldina",
-      "game": "DayZ",
-      "started_at": "2025-12-30T21:18:21Z"
+      "username": "Mr_Aejis",
+      "title": "Teacher Plays: Silksong - would you still love me if I was a wyrm?",
+      "game": "Hollow Knight: Silksong",
+      "started_at": "2025-12-31T01:14:17Z"
     },
     {
       "username": "walkingsticklibrary",
