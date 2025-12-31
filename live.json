@@ -1,11 +1,17 @@
 {
-  "timestamp": "2025-12-31T16:21:38.581Z",
+  "timestamp": "2025-12-31T16:36:30.124Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2025-12-31T13:32:57Z"
+    },
+    {
+      "username": "Maya",
+      "title": "BEATING HARDCORE MINECRAFT⛏️🟩",
+      "game": "Just Chatting",
+      "started_at": "2025-12-31T16:32:12Z"
     },
     {
       "username": "Zachap",
@@ -18,6 +24,12 @@
       "title": "Carving the Needle Archer",
       "game": "Art",
       "started_at": "2025-12-31T15:00:26Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Getting ready for LAUNCH YEAR (day 285)",
+      "game": "Software and Game Development",
+      "started_at": "2025-12-31T16:29:23Z"
     }
   ]
 }
