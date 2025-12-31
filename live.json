@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-31T14:56:30.493Z",
+  "timestamp": "2025-12-31T15:04:28.241Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,12 @@
       "title": "Celebrate after the revolution ;)",
       "game": "Just Chatting",
       "started_at": "2025-12-31T10:03:03Z"
+    },
+    {
+      "username": "TimberAnew",
+      "title": "Carving the Needle Archer",
+      "game": "Art",
+      "started_at": "2025-12-31T15:00:26Z"
     }
   ]
 }
