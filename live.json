@@ -1,11 +1,17 @@
 {
-  "timestamp": "2025-12-31T17:59:18.192Z",
+  "timestamp": "2025-12-31T18:12:37.481Z",
   "live": [
     {
       "username": "Maya",
       "title": "BEATING HARDCORE MINECRAFT⛏️🟩",
       "game": "Minecraft",
       "started_at": "2025-12-31T16:32:12Z"
+    },
+    {
+      "username": "Kitboga",
+      "title": "Maybe Calling Scammers [Ep 1503]",
+      "game": "Just Chatting",
+      "started_at": "2025-12-31T17:58:42Z"
     },
     {
       "username": "AlveusSanctuary",
@@ -24,18 +30,6 @@
       "title": "its 2026 here",
       "game": "Just Chatting",
       "started_at": "2025-12-31T10:03:03Z"
-    },
-    {
-      "username": "TimberAnew",
-      "title": "Gaming n' Treadmill",
-      "game": "Deliver Us The Moon",
-      "started_at": "2025-12-31T15:00:26Z"
-    },
-    {
-      "username": "Kitboga",
-      "title": "Maybe Calling Scammers [Ep 1503]",
-      "game": "Just Chatting",
-      "started_at": "2025-12-31T17:58:42Z"
     }
   ]
 }
