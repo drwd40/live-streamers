@@ -1,12 +1,6 @@
 {
-  "timestamp": "2026-01-01T01:57:22.583Z",
+  "timestamp": "2026-01-01T02:50:36.688Z",
   "live": [
-    {
-      "username": "Maya",
-      "title": "GRWM FOR NEW YEARS EVE✨✨✨",
-      "game": "Just Chatting",
-      "started_at": "2026-01-01T00:39:29Z"
-    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
@@ -38,10 +32,22 @@
       "started_at": "2026-01-01T00:00:32Z"
     },
     {
-      "username": "Zachap",
-      "title": "its 2026 here",
-      "game": "Fallout 76",
-      "started_at": "2025-12-31T10:03:03Z"
+      "username": "SciAnts_Streams",
+      "title": "🍾 New Years Eve Countdown 🥂 | Celebrating the top science news stories of 2025 | Partner+ 342/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2026-01-01T02:01:54Z"
+    },
+    {
+      "username": "ArchitectureTV",
+      "title": "TORONTO NYE fireworks & snow🎄Historic and contemporary buildings | Architecture IRL",
+      "game": "IRL",
+      "started_at": "2026-01-01T02:41:51Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Beetles who pollinate cycads, Caring for frail elders, and synthetic biology for nitrogen fixation.",
+      "game": "IRL",
+      "started_at": "2026-01-01T02:29:52Z"
     }
   ]
 }
