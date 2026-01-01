@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-01T21:57:30.499Z",
+  "timestamp": "2026-01-01T22:06:26.640Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2025-12-31T13:32:57Z"
     },
     {
-      "username": "ArchitectureTV",
-      "title": "New Year COOKING | Architecture IRL",
-      "game": "IRL",
-      "started_at": "2026-01-01T20:00:08Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "NEW YEAR, OLD FOSSILS 📆🦴🌟 Looking back on the past year's fossil science — and looking forward to an exciting 2026 🦕",
       "game": "Science & Technology",
       "started_at": "2026-01-01T21:24:42Z"
+    },
+    {
+      "username": "ArchitectureTV",
+      "title": "New Year COOKING | Architecture IRL",
+      "game": "IRL",
+      "started_at": "2026-01-01T20:00:08Z"
     },
     {
       "username": "SciAnts_Streams",
