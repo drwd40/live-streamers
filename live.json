@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-01T19:29:51.001Z",
+  "timestamp": "2026-01-01T19:37:10.179Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "HAPPY NEW YEAR extreme rando (no cam no mic just vibes) [!fish🎣|!commands💻]",
       "game": "The Legend of Zelda: Ocarina of Time",
       "started_at": "2026-01-01T17:43:06Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "Near Zero to Near Hero Episode 3",
+      "game": "Star Citizen",
+      "started_at": "2026-01-01T19:30:33Z"
     }
   ]
 }
