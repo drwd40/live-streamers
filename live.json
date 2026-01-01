@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-01T20:03:59.638Z",
+  "timestamp": "2026-01-01T20:14:17.163Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,9 +8,15 @@
       "started_at": "2025-12-31T13:32:57Z"
     },
     {
+      "username": "ArchitectureTV",
+      "title": "New Year COOKING | Architecture IRL",
+      "game": "IRL",
+      "started_at": "2026-01-01T20:00:08Z"
+    },
+    {
       "username": "SciAnts_Streams",
       "title": "🍾Happy New Years🥂 | Avatar first playthrough with the science of Pandora + Hot Ones Challenge later! | Partner+ 8/300 | !ppp !yt !pod",
-      "game": "Science & Technology",
+      "game": "Avatar: Frontiers of Pandora",
       "started_at": "2026-01-01T19:06:32Z"
     },
     {
@@ -18,12 +24,6 @@
       "title": "everybody gets a bus",
       "game": "Just Chatting",
       "started_at": "2026-01-01T10:01:39Z"
-    },
-    {
-      "username": "ArchitectureTV",
-      "title": "New Year COOKING | Architecture IRL",
-      "game": "IRL",
-      "started_at": "2026-01-01T20:00:08Z"
     },
     {
       "username": "Rocketology",
