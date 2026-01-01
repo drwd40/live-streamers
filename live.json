@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-01T23:31:14.263Z",
+  "timestamp": "2026-01-01T23:39:35.728Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -44,16 +44,16 @@
       "started_at": "2026-01-01T19:30:33Z"
     },
     {
-      "username": "Nerduino",
-      "title": "Chill New Years Day Scienced Stream!  PhD Astronomer.  Astronomy and Science! #science #space",
-      "game": "Science & Technology",
-      "started_at": "2026-01-01T22:53:40Z"
-    },
-    {
       "username": "shnaff",
       "title": "Chill instrumental music in !stereo🎧",
       "game": "Music",
       "started_at": "2026-01-01T23:01:20Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Chill New Years Day Scienced Stream!  PhD Astronomer.  Astronomy and Science! #science #space",
+      "game": "Science & Technology",
+      "started_at": "2026-01-01T22:53:40Z"
     },
     {
       "username": "pencenter",
