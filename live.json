@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-01T23:10:07.556Z",
+  "timestamp": "2026-01-01T23:21:14.035Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-01-01T21:24:42Z"
     },
     {
-      "username": "ArchitectureTV",
-      "title": "New Year COOKING | Architecture IRL",
-      "game": "IRL",
-      "started_at": "2026-01-01T20:00:08Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "ZOHRAN MAMDANI SWORN IN AS NYC MAYOR | TRUMP ADMIN FREEZES CHILD CARE FUNDS NATIONWIDE",
       "game": "Just Chatting",
       "started_at": "2026-01-01T22:59:32Z"
+    },
+    {
+      "username": "ArchitectureTV",
+      "title": "New Year COOKING | Architecture IRL",
+      "game": "IRL",
+      "started_at": "2026-01-01T20:00:08Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -38,12 +38,6 @@
       "started_at": "2026-01-01T10:01:39Z"
     },
     {
-      "username": "Rocketology",
-      "title": "Near Zero to Near Hero Episode 3",
-      "game": "Star Citizen",
-      "started_at": "2026-01-01T19:30:33Z"
-    },
-    {
       "username": "Nerduino",
       "title": "Chill New Years Day Scienced Stream!  PhD Astronomer.  Astronomy and Science! #science #space",
       "game": "Science & Technology",
@@ -54,6 +48,12 @@
       "title": "Chill instrumental music in !stereo🎧",
       "game": "Music",
       "started_at": "2026-01-01T23:01:20Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "Near Zero to Near Hero Episode 3",
+      "game": "Star Citizen",
+      "started_at": "2026-01-01T19:30:33Z"
     },
     {
       "username": "pencenter",
