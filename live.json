@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-01T01:14:05.998Z",
+  "timestamp": "2026-01-01T01:57:22.583Z",
   "live": [
     {
       "username": "Maya",
@@ -15,7 +15,7 @@
     },
     {
       "username": "EJ_SA",
-      "title": "I had a terrible year, so I'm going to play Winter car to make it better.... My Winter Car (Part 1)",
+      "title": "solving all our problems before 2026 | MWC Part 1",
       "game": "My Winter Car",
       "started_at": "2025-12-31T22:40:57Z"
     },
@@ -42,18 +42,6 @@
       "title": "its 2026 here",
       "game": "Fallout 76",
       "started_at": "2025-12-31T10:03:03Z"
-    },
-    {
-      "username": "DonFactorial",
-      "title": "Getting in some math before the end of the year",
-      "game": "Math",
-      "started_at": "2025-12-31T21:19:17Z"
-    },
-    {
-      "username": "nSimplexPachinko",
-      "title": "Ringing in the New Year with some Math!",
-      "game": "Euclidea",
-      "started_at": "2025-12-31T21:50:55Z"
     }
   ]
 }
