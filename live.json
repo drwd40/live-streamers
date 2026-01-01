@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-01T15:13:14.040Z",
+  "timestamp": "2026-01-01T15:25:43.432Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "everybody gets a bus",
       "game": "Just Chatting",
       "started_at": "2026-01-01T10:01:39Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀Rise of Piracy - Live Game Dev. Happy New Year!! | !discord !streamers !MicroProse !steam",
+      "game": "Software and Game Development",
+      "started_at": "2026-01-01T15:15:02Z"
     }
   ]
 }
