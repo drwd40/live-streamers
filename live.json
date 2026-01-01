@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-01T17:42:45.457Z",
+  "timestamp": "2026-01-01T17:49:55.617Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "Attempting math! (new year, same slim!)",
       "game": "Math",
       "started_at": "2026-01-01T16:27:16Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "HAPPY NEW YEAR extreme rando (no cam no mic just vibes) [!fish🎣|!commands💻]",
+      "game": "The Legend of Zelda: Ocarina of Time",
+      "started_at": "2026-01-01T17:43:06Z"
     }
   ]
 }
