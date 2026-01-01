@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-01T23:01:01.765Z",
+  "timestamp": "2026-01-01T23:10:07.556Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,6 +20,12 @@
       "started_at": "2026-01-01T20:00:08Z"
     },
     {
+      "username": "imreallyimportant",
+      "title": "ZOHRAN MAMDANI SWORN IN AS NYC MAYOR | TRUMP ADMIN FREEZES CHILD CARE FUNDS NATIONWIDE",
+      "game": "Just Chatting",
+      "started_at": "2026-01-01T22:59:32Z"
+    },
+    {
       "username": "SciAnts_Streams",
       "title": "🍾Happy New Years🥂 | Avatar first playthrough with the science of Pandora + Hot Ones Challenge later! | Partner+ 8/300 | !ppp !yt !pod",
       "game": "Avatar: Frontiers of Pandora",
@@ -38,22 +44,22 @@
       "started_at": "2026-01-01T19:30:33Z"
     },
     {
-      "username": "pencenter",
-      "title": "HAPPY NEW YEAR extreme rando (no cam no mic just vibes) [!fish🎣|!commands💻]",
-      "game": "The Legend of Zelda: Ocarina of Time",
-      "started_at": "2026-01-01T17:43:06Z"
-    },
-    {
       "username": "Nerduino",
       "title": "Chill New Years Day Scienced Stream!  PhD Astronomer.  Astronomy and Science! #science #space",
       "game": "Science & Technology",
       "started_at": "2026-01-01T22:53:40Z"
     },
     {
-      "username": "imreallyimportant",
-      "title": "ZOHRAN MAMDANI SWORN IN AS NYC MAYOR | TRUMP ADMIN FREEZES CHILD CARE FUNDS NATIONWIDE",
-      "game": "Just Chatting",
-      "started_at": "2026-01-01T22:59:32Z"
+      "username": "shnaff",
+      "title": "Chill instrumental music in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-01-01T23:01:20Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "HAPPY NEW YEAR extreme rando (no cam no mic just vibes) [!fish🎣|!commands💻]",
+      "game": "The Legend of Zelda: Ocarina of Time",
+      "started_at": "2026-01-01T17:43:06Z"
     }
   ]
 }
