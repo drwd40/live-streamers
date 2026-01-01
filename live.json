@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-01T16:18:07.685Z",
+  "timestamp": "2026-01-01T16:32:55.498Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,18 @@
       "title": "everybody gets a bus",
       "game": "Just Chatting",
       "started_at": "2026-01-01T10:01:39Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Launch date set: March 17th (day 286)",
+      "game": "Software and Game Development",
+      "started_at": "2026-01-01T16:21:21Z"
+    },
+    {
+      "username": "AcademyOfUselessIdeas",
+      "title": "Attempting math! (new year, same slim!)",
+      "game": "Math",
+      "started_at": "2026-01-01T16:27:16Z"
     }
   ]
 }
