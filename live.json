@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-02T16:20:58.781Z",
+  "timestamp": "2026-01-02T16:35:55.157Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "Let's talk about command-line apps with C# and TAML",
       "game": "Software and Game Development",
       "started_at": "2026-01-02T15:46:12Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Developing (day 287)",
+      "game": "Software and Game Development",
+      "started_at": "2026-01-02T16:25:00Z"
     },
     {
       "username": "TimberAnew",
