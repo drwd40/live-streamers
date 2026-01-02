@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-02T21:37:39.501Z",
+  "timestamp": "2026-01-02T21:44:21.836Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,22 @@
       "started_at": "2026-01-02T13:35:36Z"
     },
     {
-      "username": "Zachap",
-      "title": "Learning is good actually",
-      "game": "Just Chatting",
-      "started_at": "2026-01-02T10:00:57Z"
+      "username": "EJ_SA",
+      "title": "2026 Spaceflight Predictions - The Flame Trench 1/2/26",
+      "game": "Science & Technology",
+      "started_at": "2026-01-02T21:38:29Z"
     },
     {
       "username": "AdamLearnsLive",
       "title": "TODO Storm (day 287½)",
       "game": "Software and Game Development",
       "started_at": "2026-01-02T21:02:17Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "Learning is good actually",
+      "game": "Just Chatting",
+      "started_at": "2026-01-02T10:00:57Z"
     },
     {
       "username": "Stephen_Wolfram",
