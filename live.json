@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-02T15:51:56.339Z",
+  "timestamp": "2026-01-02T15:58:24.946Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-01-02T13:54:32Z"
     },
     {
-      "username": "Zachap",
-      "title": "Learning is good actually",
-      "game": "Just Chatting",
-      "started_at": "2026-01-02T10:00:57Z"
-    },
-    {
       "username": "csharpfritz",
       "title": "Let's talk about command-line apps with C# and TAML",
       "game": "Software and Game Development",
       "started_at": "2026-01-02T15:46:12Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "Learning is good actually",
+      "game": "Just Chatting",
+      "started_at": "2026-01-02T10:00:57Z"
     },
     {
       "username": "TimberAnew",
