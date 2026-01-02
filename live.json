@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-01-02T21:02:18.591Z",
+  "timestamp": "2026-01-02T21:11:02.901Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-01-02T13:35:36Z"
-    },
-    {
-      "username": "IrishJohnGames",
-      "title": "🍀Rise of Piracy - Live Game Dev. Happy New Year!! | !discord !streamers !MicroProse !steam",
-      "game": "Software and Game Development",
-      "started_at": "2026-01-02T17:59:40Z"
     },
     {
       "username": "Zachap",
@@ -24,6 +18,12 @@
       "title": "Future of Science and Technology Q&A (January 2, 2026)",
       "game": "Science & Technology",
       "started_at": "2026-01-02T20:38:36Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "TODO Storm (day 287½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-01-02T21:02:17Z"
     },
     {
       "username": "SharkG33k",
