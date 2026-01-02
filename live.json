@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-02T15:44:46.240Z",
+  "timestamp": "2026-01-02T15:51:56.339Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -23,13 +23,19 @@
       "username": "csharpfritz",
       "title": "Let's talk about command-line apps with C# and TAML",
       "game": "Software and Game Development",
-      "started_at": "2026-01-02T14:58:39Z"
+      "started_at": "2026-01-02T15:46:12Z"
     },
     {
       "username": "TimberAnew",
       "title": "Carving a rope on a wooden guy",
       "game": "Art",
       "started_at": "2026-01-02T14:59:39Z"
+    },
+    {
+      "username": "AcademyOfUselessIdeas",
+      "title": "Attempting math! (Who'd you rather be with in a dessert island: Brad Pitt, or Javier Bardem?)",
+      "game": "Math",
+      "started_at": "2026-01-02T15:48:22Z"
     }
   ]
 }
