@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-02T21:11:02.901Z",
+  "timestamp": "2026-01-02T21:21:47.309Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-01-02T10:00:57Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Future of Science and Technology Q&A (January 2, 2026)",
-      "game": "Science & Technology",
-      "started_at": "2026-01-02T20:38:36Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "TODO Storm (day 287½)",
       "game": "Software and Game Development",
       "started_at": "2026-01-02T21:02:17Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Future of Science and Technology Q&A (January 2, 2026)",
+      "game": "Science & Technology",
+      "started_at": "2026-01-02T20:38:36Z"
     },
     {
       "username": "SharkG33k",
