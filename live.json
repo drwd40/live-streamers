@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-02T22:59:26.668Z",
+  "timestamp": "2026-01-02T23:08:46.975Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,10 +14,22 @@
       "started_at": "2026-01-02T21:38:29Z"
     },
     {
+      "username": "JapanesePrintmaking",
+      "title": "Making Japanese woodblock prints ... live while you watch ...",
+      "game": "Makers & Crafting",
+      "started_at": "2026-01-02T22:59:57Z"
+    },
+    {
       "username": "AdamLearnsLive",
       "title": "TODO Storm (day 287½)",
       "game": "Software and Game Development",
       "started_at": "2026-01-02T21:02:17Z"
+    },
+    {
+      "username": "imreallyimportant",
+      "title": "TRUMP THREATENS IRAN OVER PROTESTS CRACKDOWN | MAGA CONTINUES MINNESOTA FRAUD HYSTERIA",
+      "game": "Just Chatting",
+      "started_at": "2026-01-02T22:59:42Z"
     },
     {
       "username": "Zachap",
@@ -32,6 +44,12 @@
       "started_at": "2026-01-02T18:57:12Z"
     },
     {
+      "username": "shnaff",
+      "title": "Chill guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-01-02T23:04:19Z"
+    },
+    {
       "username": "DonFactorial",
       "title": "OFF is on (first time playing)",
       "game": "OFF",
@@ -42,6 +60,12 @@
       "title": "Nine Sols Finale? Night 17: Only Eigong.",
       "game": "Nine Sols",
       "started_at": "2026-01-02T22:15:31Z"
+    },
+    {
+      "username": "happyknightmares",
+      "title": "Happy New Year!! Synesthesia talk and co-working!! 🎨🧠",
+      "game": "Science & Technology",
+      "started_at": "2026-01-02T23:08:22Z"
     }
   ]
 }
