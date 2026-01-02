@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-02T19:40:03.482Z",
+  "timestamp": "2026-01-02T19:46:16.764Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "Buccaneer Crafting, Friday code talk, code office hours, coffee shop.",
       "game": "Software and Game Development",
       "started_at": "2026-01-02T17:24:59Z"
+    },
+    {
+      "username": "jacksfacts",
+      "title": "Watching/reviewing Apple TV's show Prehistoric Planet Ice age!",
+      "game": "Science & Technology",
+      "started_at": "2026-01-02T19:43:12Z"
     }
   ]
 }
