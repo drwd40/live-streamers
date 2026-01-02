@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-02T20:41:07.239Z",
+  "timestamp": "2026-01-02T20:49:05.266Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-01-02T10:00:57Z"
     },
     {
-      "username": "SharkG33k",
-      "title": "[18+] Happy Friday! Playing RV There Yet with @baronofbile and @tergus86",
-      "game": "RV There Yet?",
-      "started_at": "2026-01-02T18:57:12Z"
-    },
-    {
       "username": "Stephen_Wolfram",
       "title": "Future of Science and Technology Q&A (January 2, 2026)",
       "game": "Science & Technology",
       "started_at": "2026-01-02T20:38:36Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "[18+] Happy Friday! Playing RV There Yet with @baronofbile and @tergus86",
+      "game": "RV There Yet?",
+      "started_at": "2026-01-02T18:57:12Z"
     }
   ]
 }
