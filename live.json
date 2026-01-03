@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-03T16:58:28.187Z",
+  "timestamp": "2026-01-03T17:06:53.631Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-01-03T16:44:28Z"
     },
     {
-      "username": "AcademyOfUselessIdeas",
-      "title": "Attempting math! (How long should I spend thinking of clever lines for this?)",
-      "game": "Math",
-      "started_at": "2026-01-03T15:25:18Z"
-    },
-    {
       "username": "eToThe2iPi",
       "title": "Bring Your Questions: A Math/Ed Q&A!",
       "game": "Math",
       "started_at": "2026-01-03T16:55:06Z"
+    },
+    {
+      "username": "AcademyOfUselessIdeas",
+      "title": "Attempting math! (How long should I spend thinking of clever lines for this?)",
+      "game": "Math",
+      "started_at": "2026-01-03T15:25:18Z"
     }
   ]
 }
