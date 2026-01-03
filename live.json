@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-03T20:18:14.701Z",
+  "timestamp": "2026-01-03T20:31:38.814Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-01-02T13:35:36Z"
     },
     {
-      "username": "DiatomsATTACK",
-      "title": "Looking at fossil diatoms on the SEM. Samples from rare diatomites of the Koora Basin in Africa. Special guest: Valya",
-      "game": "Science & Technology",
-      "started_at": "2026-01-03T16:44:28Z"
-    },
-    {
       "username": "Zachap",
       "title": "Trump bombed Venezuela and \"captured\" Maduro? In this economy? Mar-a-Lago? War is a Racket",
       "game": "Just Chatting",
       "started_at": "2026-01-03T10:02:07Z"
+    },
+    {
+      "username": "DiatomsATTACK",
+      "title": "Looking at fossil diatoms on the SEM. Samples from rare diatomites of the Koora Basin in Africa. Special guest: Valya",
+      "game": "Science & Technology",
+      "started_at": "2026-01-03T16:44:28Z"
     },
     {
       "username": "DrAlexanderClarke",
