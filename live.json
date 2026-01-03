@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-03T04:47:03.790Z",
+  "timestamp": "2026-01-03T04:56:36.203Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "🔴FIRST TIME PLAYING🔴COMMUNITY GAME NIGHT SAT NIGHT 6PM PT",
       "game": "ARC Raiders",
       "started_at": "2026-01-03T03:59:04Z"
+    },
+    {
+      "username": "happyknightmares",
+      "title": "Happy New Year!! Synesthesia talk and co-working!! 🎨🧠",
+      "game": "Science & Technology",
+      "started_at": "2026-01-03T04:56:28Z"
     }
   ]
 }
