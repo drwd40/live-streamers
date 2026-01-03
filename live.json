@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-03T17:36:47.335Z",
+  "timestamp": "2026-01-03T17:44:15.888Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-01-03T10:02:07Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Bring Your Questions: A Math/Ed Q&A!",
-      "game": "Math",
-      "started_at": "2026-01-03T16:55:06Z"
-    },
-    {
       "username": "DiatomsATTACK",
       "title": "Looking at fossil diatoms on the SEM. Samples from rare diatomites of the Koora Basin in Africa. Special guest: Valya",
       "game": "Science & Technology",
       "started_at": "2026-01-03T16:44:28Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Bring Your Questions: A Math/Ed Q&A!",
+      "game": "Math",
+      "started_at": "2026-01-03T16:55:06Z"
     }
   ]
 }
