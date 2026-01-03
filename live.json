@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-03T15:18:45.853Z",
+  "timestamp": "2026-01-03T15:29:40.630Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,12 @@
       "title": "Trump bombed Venezuela and \"captured\" Maduro? In this economy? Mar-a-Lago? War is a Racket",
       "game": "Just Chatting",
       "started_at": "2026-01-03T10:02:07Z"
+    },
+    {
+      "username": "AcademyOfUselessIdeas",
+      "title": "Attempting math! (How long should I spend thinking of clever lines for this?)",
+      "game": "Math",
+      "started_at": "2026-01-03T15:25:18Z"
     }
   ]
 }
