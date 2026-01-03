@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-03T17:06:53.631Z",
+  "timestamp": "2026-01-03T17:17:03.018Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,12 +30,6 @@
       "title": "Bring Your Questions: A Math/Ed Q&A!",
       "game": "Math",
       "started_at": "2026-01-03T16:55:06Z"
-    },
-    {
-      "username": "AcademyOfUselessIdeas",
-      "title": "Attempting math! (How long should I spend thinking of clever lines for this?)",
-      "game": "Math",
-      "started_at": "2026-01-03T15:25:18Z"
     }
   ]
 }
