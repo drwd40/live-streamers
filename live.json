@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-04T23:30:18.452Z",
+  "timestamp": "2026-01-04T23:38:39.909Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,6 +14,12 @@
       "started_at": "2026-01-04T23:00:04Z"
     },
     {
+      "username": "shnaff",
+      "title": "Chill instrumental music in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-01-04T23:02:09Z"
+    },
+    {
       "username": "Zachap",
       "title": "consider this stream for the first time :)",
       "game": "Just Chatting",
@@ -26,22 +32,16 @@
       "started_at": "2026-01-04T18:35:19Z"
     },
     {
-      "username": "shnaff",
-      "title": "Chill instrumental music in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-01-04T23:02:09Z"
+      "username": "DonFactorial",
+      "title": "Livonia to start with. Surely I have to have a good run today, right? (and don't call me Shirley)",
+      "game": "DayZ",
+      "started_at": "2026-01-04T23:18:36Z"
     },
     {
       "username": "DrAlexanderClarke",
       "title": "Bruships 226: Naval History Questions Answered Live...",
       "game": "Just Chatting",
       "started_at": "2026-01-04T19:32:57Z"
-    },
-    {
-      "username": "DonFactorial",
-      "title": "Livonia to start with. Surely I have to have a good run today, right? (and don't call me Shirley)",
-      "game": "DayZ",
-      "started_at": "2026-01-04T23:18:36Z"
     }
   ]
 }
