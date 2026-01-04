@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-04T02:57:22.859Z",
+  "timestamp": "2026-01-04T03:37:20.443Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "Teacher Plays: Dispatch! | Mr Aejis - Vtuber Health Teacher",
       "game": "Dispatch",
       "started_at": "2026-01-04T02:15:25Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Caring for frail elders, who is Ivan Raiklin, and extending I-285.",
+      "game": "IRL",
+      "started_at": "2026-01-04T02:59:21Z"
     }
   ]
 }
