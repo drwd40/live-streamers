@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-05T16:52:36.324Z",
+  "timestamp": "2026-01-05T17:01:51.750Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,10 +8,10 @@
       "started_at": "2026-01-04T13:35:39Z"
     },
     {
-      "username": "LumiRue",
-      "title": "Plant Tour🌿 I'll read some Feminist Theory to You after :3",
-      "game": "Just Chatting",
-      "started_at": "2026-01-05T15:11:39Z"
+      "username": "AdamLearnsLive",
+      "title": "Game development (day 288)",
+      "game": "Software and Game Development",
+      "started_at": "2026-01-05T16:31:27Z"
     },
     {
       "username": "Zachap",
@@ -20,16 +20,28 @@
       "started_at": "2026-01-05T10:03:47Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Game development (day 288)",
-      "game": "Software and Game Development",
-      "started_at": "2026-01-05T16:31:27Z"
+      "username": "LumiRue",
+      "title": "Plant Tour🌿 I'll read some Feminist Theory to You after :3",
+      "game": "Just Chatting",
+      "started_at": "2026-01-05T15:11:39Z"
     },
     {
       "username": "TimberAnew",
       "title": "Wood wood wood, carving wood wood wood",
       "game": "Art",
       "started_at": "2026-01-05T15:00:28Z"
+    },
+    {
+      "username": "ProfessorEXP",
+      "title": "Back to Streaming |  Introduction to Sociology | Neo-Neo-Colonialism | Fun",
+      "game": "Just Chatting",
+      "started_at": "2026-01-05T16:55:44Z"
+    },
+    {
+      "username": "AcademyOfUselessIdeas",
+      "title": "Attempting math! (Fighting a crippling addition to math)",
+      "game": "Math",
+      "started_at": "2026-01-05T16:56:50Z"
     }
   ]
 }
