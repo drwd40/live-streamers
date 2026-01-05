@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-05T22:09:14.561Z",
+  "timestamp": "2026-01-05T22:20:20.067Z",
   "live": [
     {
       "username": "Maya",
@@ -20,16 +20,16 @@
       "started_at": "2026-01-05T17:02:23Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "Chill dinosaur science Q&A 🦖❔💡 Bring your best questions and let's talk about natural history (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-01-05T21:06:23Z"
-    },
-    {
       "username": "ArchitectureTV",
       "title": "TORONTO💜Historic and contemporary buildings | Architecture IRL",
       "game": "IRL",
       "started_at": "2026-01-05T18:13:09Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "Chill dinosaur science Q&A 🦖❔💡 Bring your best questions and let's talk about natural history (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-01-05T21:06:23Z"
     },
     {
       "username": "AdamLearnsLive",
@@ -56,16 +56,16 @@
       "started_at": "2026-01-05T20:01:22Z"
     },
     {
-      "username": "PotteryDojo",
-      "title": "Pottery: Making Bonsai Pots | Foot Stream | Batch # 18 | Batch Total: 24",
-      "game": "Art",
-      "started_at": "2026-01-05T19:53:43Z"
-    },
-    {
       "username": "eToThe2iPi",
       "title": "Making Trivia Night Software: Sixteen",
       "game": "Software and Game Development",
       "started_at": "2026-01-05T18:49:59Z"
+    },
+    {
+      "username": "PotteryDojo",
+      "title": "Pottery: Making Bonsai Pots | Foot Stream | Batch # 18 | Batch Total: 24",
+      "game": "Art",
+      "started_at": "2026-01-05T19:53:43Z"
     }
   ]
 }
