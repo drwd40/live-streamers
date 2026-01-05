@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-05T20:52:40.013Z",
+  "timestamp": "2026-01-05T20:58:57.213Z",
   "live": [
     {
       "username": "Maya",
@@ -44,20 +44,20 @@
       "started_at": "2026-01-05T20:01:22Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Making Trivia Night Software: Sixteen",
-      "game": "Software and Game Development",
-      "started_at": "2026-01-05T18:49:59Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "More game development (day 288½)",
       "game": "Software and Game Development",
       "started_at": "2026-01-05T20:46:54Z"
     },
     {
+      "username": "eToThe2iPi",
+      "title": "Making Trivia Night Software: Sixteen",
+      "game": "Software and Game Development",
+      "started_at": "2026-01-05T18:49:59Z"
+    },
+    {
       "username": "PotteryDojo",
-      "title": "Pottery: Making Bonsai Pots | Trimming | Batch # 18 | Batch Total: 21",
+      "title": "Pottery: Making Bonsai Pots | Throwing | Batch # 18 | Batch Total: 22",
       "game": "Art",
       "started_at": "2026-01-05T19:53:43Z"
     }
