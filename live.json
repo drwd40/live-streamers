@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-05T18:46:48.389Z",
+  "timestamp": "2026-01-05T18:58:16.767Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,10 +32,10 @@
       "started_at": "2026-01-05T10:03:47Z"
     },
     {
-      "username": "LumiRue",
-      "title": "Plant Tour🌿 I'll read some Feminist Theory to You after :3",
-      "game": "Just Chatting",
-      "started_at": "2026-01-05T15:11:39Z"
+      "username": "AcademyOfUselessIdeas",
+      "title": "Attempting math! (Fighting a crippling addition to math)",
+      "game": "Math",
+      "started_at": "2026-01-05T16:56:50Z"
     },
     {
       "username": "ProfessorEXP",
@@ -44,10 +44,16 @@
       "started_at": "2026-01-05T16:55:44Z"
     },
     {
-      "username": "AcademyOfUselessIdeas",
-      "title": "Attempting math! (Fighting a crippling addition to math)",
-      "game": "Math",
-      "started_at": "2026-01-05T16:56:50Z"
+      "username": "eToThe2iPi",
+      "title": "Making Trivia Night Software: Sixteen",
+      "game": "Software and Game Development",
+      "started_at": "2026-01-05T18:49:59Z"
+    },
+    {
+      "username": "CosmoQuestX",
+      "title": "Astronomy Cast LIVE",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2026-01-05T18:57:47Z"
     }
   ]
 }
