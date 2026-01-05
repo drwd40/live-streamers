@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-05T22:43:34.412Z",
+  "timestamp": "2026-01-05T22:51:32.441Z",
   "live": [
     {
       "username": "Maya",
@@ -44,12 +44,6 @@
       "started_at": "2026-01-05T10:03:47Z"
     },
     {
-      "username": "IrishJohnGames",
-      "title": "🍀Rise of Piracy - Live Game Dev. Happy New Year!! | !discord !streamers !MicroProse !steam",
-      "game": "Software and Game Development",
-      "started_at": "2026-01-05T20:00:15Z"
-    },
-    {
       "username": "DrawCuriosity",
       "title": "🔴HAPPY NEW YEAR! (short lil stream today) ✨🐑 !merch !dailybug",
       "game": "Just Chatting",
@@ -60,6 +54,12 @@
       "title": "Pottery: Making Bonsai Pots | Foot Stream | Batch # 18 | Batch Total: 24",
       "game": "Art",
       "started_at": "2026-01-05T19:53:43Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Math Education Monday! More paper reading.",
+      "game": "Math",
+      "started_at": "2026-01-05T22:50:31Z"
     }
   ]
 }
