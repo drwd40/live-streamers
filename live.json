@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-05T21:09:03.928Z",
+  "timestamp": "2026-01-05T21:20:07.909Z",
   "live": [
     {
       "username": "Maya",
@@ -26,16 +26,22 @@
       "started_at": "2026-01-05T18:13:09Z"
     },
     {
-      "username": "Zachap",
-      "title": "far out do people just rant about nothing forever sometimes...",
-      "game": "Just Chatting",
-      "started_at": "2026-01-05T10:03:47Z"
+      "username": "Paleontologizing",
+      "title": "Chill dinosaur science Q&A 🦖❔💡 Bring your best questions and let's talk about natural history (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-01-05T21:06:23Z"
     },
     {
       "username": "AdamLearnsLive",
       "title": "More game development (day 288½)",
       "game": "Software and Game Development",
       "started_at": "2026-01-05T20:46:54Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "far out do people just rant about nothing forever sometimes...",
+      "game": "Just Chatting",
+      "started_at": "2026-01-05T10:03:47Z"
     },
     {
       "username": "IrishJohnGames",
@@ -54,12 +60,6 @@
       "title": "Pottery: Making Bonsai Pots | Throwing | Batch # 18 | Batch Total: 24",
       "game": "Art",
       "started_at": "2026-01-05T19:53:43Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "Chill dinosaur science Q&A 🦖❔💡 Bring your best questions and let's talk about natural history (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-01-05T21:06:23Z"
     },
     {
       "username": "eToThe2iPi",
