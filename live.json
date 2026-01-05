@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-05T23:51:44.368Z",
+  "timestamp": "2026-01-05T23:57:35.462Z",
   "live": [
     {
       "username": "Maya",
@@ -20,12 +20,6 @@
       "started_at": "2026-01-05T17:02:23Z"
     },
     {
-      "username": "ArchitectureTV",
-      "title": "TORONTO💜Historic and contemporary buildings | Architecture IRL",
-      "game": "IRL",
-      "started_at": "2026-01-05T18:13:09Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "Chill dinosaur science Q&A 🦖❔💡 Bring your best questions and let's talk about natural history (w/ paleontologist Danny Anduza)",
       "game": "Science & Technology",
@@ -36,6 +30,12 @@
       "title": "I GUESS WE \"RUN\" VENEZUELA NOW | LIB & LEARN @ 7 PM EST",
       "game": "Just Chatting",
       "started_at": "2026-01-05T22:59:40Z"
+    },
+    {
+      "username": "ArchitectureTV",
+      "title": "TORONTO💜Historic and contemporary buildings | Architecture IRL",
+      "game": "IRL",
+      "started_at": "2026-01-05T18:13:09Z"
     },
     {
       "username": "Zachap",
