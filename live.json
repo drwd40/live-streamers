@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-06T16:53:36.438Z",
+  "timestamp": "2026-01-06T17:02:55.621Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -15,9 +15,15 @@
     },
     {
       "username": "AdamLearnsLive",
-      "title": "Eradicating GitHhub issues 🎯 (day 289)",
+      "title": "Eradicating GitHub issues 🎯 (day 289)",
       "game": "Software and Game Development",
       "started_at": "2026-01-06T16:35:05Z"
+    },
+    {
+      "username": "ipaintbirbs",
+      "title": "birds! arts! yaps! we have it all folks",
+      "game": "Art",
+      "started_at": "2026-01-06T17:00:28Z"
     }
   ]
 }
