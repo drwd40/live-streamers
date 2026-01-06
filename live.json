@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-06T19:39:26.781Z",
+  "timestamp": "2026-01-06T19:46:38.606Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -54,6 +54,12 @@
       "title": "More Parts - More Soldering - More Fun",
       "game": "Just Chatting",
       "started_at": "2026-01-06T19:20:31Z"
+    },
+    {
+      "username": "AcademyOfUselessIdeas",
+      "title": "Attempting math! (Fighting a crippling addition to math)",
+      "game": "Math",
+      "started_at": "2026-01-06T19:42:04Z"
     }
   ]
 }
