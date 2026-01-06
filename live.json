@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-06T20:57:39.517Z",
+  "timestamp": "2026-01-06T21:06:30.485Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -50,16 +50,16 @@
       "started_at": "2026-01-06T19:42:04Z"
     },
     {
+      "username": "ArchitectureTV",
+      "title": "COOKING lentil sweet potato curry & baking cookies 💜 Architecture IRL",
+      "game": "IRL",
+      "started_at": "2026-01-06T21:05:03Z"
+    },
+    {
       "username": "xTalkProgrammer",
       "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
       "game": "Just Chatting",
       "started_at": "2026-01-06T20:41:03Z"
-    },
-    {
-      "username": "vul100",
-      "title": "Tuesday January 6th @ 2:30 pm EST: Epiphany and the Magi: who were they and why January 6th.",
-      "game": "Science & Technology",
-      "started_at": "2026-01-06T19:28:38Z"
     }
   ]
 }
