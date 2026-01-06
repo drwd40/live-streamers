@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-06T19:03:07.039Z",
+  "timestamp": "2026-01-06T19:12:12.675Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "Sim rig: Putting the seat back together, DIN stuff? rails. CAN BUS.",
       "game": "Just Chatting",
       "started_at": "2026-01-06T17:38:16Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "Near Zero to Near Hero - Episode 4!",
+      "game": "Star Citizen",
+      "started_at": "2026-01-06T19:12:01Z"
     }
   ]
 }
