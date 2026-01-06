@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-06T21:59:16.805Z",
+  "timestamp": "2026-01-06T22:09:17.215Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-01-06T17:00:28Z"
     },
     {
-      "username": "ArchitectureTV",
-      "title": "COOKING lentil sweet potato curry & baking cookies 💜 Architecture IRL",
-      "game": "IRL",
-      "started_at": "2026-01-06T21:05:03Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "The continents MOVE 🌎😲🌍 How our planet works (and how we know!) 🌏 Anniversary of Wegener's announcement of continental drift",
       "game": "Science & Technology",
       "started_at": "2026-01-06T21:46:34Z"
+    },
+    {
+      "username": "ArchitectureTV",
+      "title": "COOKING lentil sweet potato curry & baking cookies 💜 Architecture IRL",
+      "game": "IRL",
+      "started_at": "2026-01-06T21:05:03Z"
     },
     {
       "username": "Zachap",
@@ -50,28 +50,22 @@
       "started_at": "2026-01-06T19:22:21Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 958: Language Design in Wolfram Language [Graphics]",
-      "game": "Science & Technology",
-      "started_at": "2026-01-06T21:35:18Z"
-    },
-    {
       "username": "DonFactorial",
       "title": "Back to the grind: Mathematical Biology, population genetics",
       "game": "Math",
       "started_at": "2026-01-06T21:29:06Z"
     },
     {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 958: Language Design in Wolfram Language [Graphics]",
+      "game": "Science & Technology",
+      "started_at": "2026-01-06T21:35:18Z"
+    },
+    {
       "username": "GeneralSte",
       "title": "Archaeologist Constructs (Rather than Excavates) a Town! | !linktree !discord",
       "game": "Manor Lords",
       "started_at": "2026-01-06T21:58:13Z"
-    },
-    {
-      "username": "xTalkProgrammer",
-      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
-      "game": "Just Chatting",
-      "started_at": "2026-01-06T20:41:03Z"
     },
     {
       "username": "nSimplexPachinko",
