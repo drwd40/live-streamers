@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-06T22:43:52.727Z",
+  "timestamp": "2026-01-06T22:52:01.789Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -60,6 +60,12 @@
       "title": "Nine Sols, Night 18: Once More Unto the EndBoss!",
       "game": "Nine Sols",
       "started_at": "2026-01-06T21:50:21Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Algebra: Tiles and Tiles, For Miles and Miles",
+      "game": "Math",
+      "started_at": "2026-01-06T22:50:40Z"
     }
   ]
 }
