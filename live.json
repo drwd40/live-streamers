@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-06T19:23:17.013Z",
+  "timestamp": "2026-01-06T19:31:24.813Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -48,6 +48,12 @@
       "title": "More Parts - More Soldering - More Fun",
       "game": "Just Chatting",
       "started_at": "2026-01-06T19:20:31Z"
+    },
+    {
+      "username": "vul100",
+      "title": "Tuesday January 6th @ 2:30 pm EST: Epiphany and the Magi: who were they and why January 6th.",
+      "game": "Science & Technology",
+      "started_at": "2026-01-06T19:28:38Z"
     }
   ]
 }
