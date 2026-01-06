@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-06T20:10:06.776Z",
+  "timestamp": "2026-01-06T20:22:02.535Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-01-06T17:00:28Z"
     },
     {
-      "username": "Zachap",
-      "title": "The State is a Dictatorship of the Capitalist Class",
-      "game": "Just Chatting",
-      "started_at": "2026-01-06T10:01:59Z"
-    },
-    {
       "username": "oh_bother",
       "title": "Sim rig: Putting the seat back together, DIN stuff? rails. CAN BUS.",
       "game": "Just Chatting",
       "started_at": "2026-01-06T17:38:16Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "The State is a Dictatorship of the Capitalist Class",
+      "game": "Just Chatting",
+      "started_at": "2026-01-06T10:01:59Z"
     },
     {
       "username": "DiatomsATTACK",
@@ -40,7 +40,7 @@
     {
       "username": "SydHeresy",
       "title": "More Parts - More Soldering - More Fun",
-      "game": "Just Chatting",
+      "game": "Science & Technology",
       "started_at": "2026-01-06T19:20:31Z"
     },
     {
