@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-06T21:29:48.655Z",
+  "timestamp": "2026-01-06T21:38:42.559Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-01-06T21:05:03Z"
     },
     {
-      "username": "oh_bother",
-      "title": "Sim rig: Putting the seat back together, DIN stuff? rails. CAN BUS.",
-      "game": "Just Chatting",
-      "started_at": "2026-01-06T17:38:16Z"
-    },
-    {
       "username": "Zachap",
       "title": "The State is a Dictatorship of the Capitalist Class",
       "game": "Just Chatting",
       "started_at": "2026-01-06T10:01:59Z"
+    },
+    {
+      "username": "oh_bother",
+      "title": "Sim rig: Putting the seat back together, DIN stuff? rails. CAN BUS.",
+      "game": "Just Chatting",
+      "started_at": "2026-01-06T17:38:16Z"
     },
     {
       "username": "DiatomsATTACK",
@@ -50,10 +50,10 @@
       "started_at": "2026-01-06T19:20:31Z"
     },
     {
-      "username": "AcademyOfUselessIdeas",
-      "title": "Attempting math! (Fighting a crippling addition to math)",
+      "username": "DonFactorial",
+      "title": "Back to the grind: Mathematical Biology, population genetics",
       "game": "Math",
-      "started_at": "2026-01-06T19:42:04Z"
+      "started_at": "2026-01-06T21:29:06Z"
     },
     {
       "username": "xTalkProgrammer",
@@ -62,10 +62,10 @@
       "started_at": "2026-01-06T20:41:03Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Back to the grind: Mathematical Biology, population genetics",
-      "game": "Math",
-      "started_at": "2026-01-06T21:29:06Z"
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 958: Language Design in Wolfram Language [Graphics]",
+      "game": "Science & Technology",
+      "started_at": "2026-01-06T21:35:18Z"
     }
   ]
 }
