@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-06T21:53:09.929Z",
+  "timestamp": "2026-01-06T21:59:16.805Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,22 +26,16 @@
       "started_at": "2026-01-06T21:05:03Z"
     },
     {
-      "username": "Zachap",
-      "title": "The State is a Dictatorship of the Capitalist Class",
-      "game": "Just Chatting",
-      "started_at": "2026-01-06T10:01:59Z"
-    },
-    {
-      "username": "oh_bother",
-      "title": "Sim rig: Putting the seat back together, DIN stuff? rails. CAN BUS.",
-      "game": "Just Chatting",
-      "started_at": "2026-01-06T17:38:16Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "The continents MOVE 🌎😲🌍 How our planet works (and how we know!) 🌏 Anniversary of Wegener's announcement of continental drift",
       "game": "Science & Technology",
       "started_at": "2026-01-06T21:46:34Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "The State is a Dictatorship of the Capitalist Class",
+      "game": "Just Chatting",
+      "started_at": "2026-01-06T10:01:59Z"
     },
     {
       "username": "SydHeresy",
@@ -50,22 +44,28 @@
       "started_at": "2026-01-06T19:20:31Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 958: Language Design in Wolfram Language [Graphics]",
-      "game": "Science & Technology",
-      "started_at": "2026-01-06T21:35:18Z"
-    },
-    {
       "username": "DiatomsATTACK",
       "title": "Looking at fossil diatoms on the SEM. Samples from Brown's Lake, Ohio. Special guest: Evie.",
       "game": "Science & Technology",
       "started_at": "2026-01-06T19:22:21Z"
     },
     {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 958: Language Design in Wolfram Language [Graphics]",
+      "game": "Science & Technology",
+      "started_at": "2026-01-06T21:35:18Z"
+    },
+    {
       "username": "DonFactorial",
       "title": "Back to the grind: Mathematical Biology, population genetics",
       "game": "Math",
       "started_at": "2026-01-06T21:29:06Z"
+    },
+    {
+      "username": "GeneralSte",
+      "title": "Archaeologist Constructs (Rather than Excavates) a Town! | !linktree !discord",
+      "game": "Manor Lords",
+      "started_at": "2026-01-06T21:58:13Z"
     },
     {
       "username": "xTalkProgrammer",
