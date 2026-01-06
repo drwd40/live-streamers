@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-06T21:17:09.513Z",
+  "timestamp": "2026-01-06T21:29:48.655Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,6 +20,12 @@
       "started_at": "2026-01-06T17:00:28Z"
     },
     {
+      "username": "ArchitectureTV",
+      "title": "COOKING lentil sweet potato curry & baking cookies 💜 Architecture IRL",
+      "game": "IRL",
+      "started_at": "2026-01-06T21:05:03Z"
+    },
+    {
       "username": "oh_bother",
       "title": "Sim rig: Putting the seat back together, DIN stuff? rails. CAN BUS.",
       "game": "Just Chatting",
@@ -30,12 +36,6 @@
       "title": "The State is a Dictatorship of the Capitalist Class",
       "game": "Just Chatting",
       "started_at": "2026-01-06T10:01:59Z"
-    },
-    {
-      "username": "ArchitectureTV",
-      "title": "COOKING lentil sweet potato curry & baking cookies 💜 Architecture IRL",
-      "game": "IRL",
-      "started_at": "2026-01-06T21:05:03Z"
     },
     {
       "username": "DiatomsATTACK",
@@ -60,6 +60,12 @@
       "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
       "game": "Just Chatting",
       "started_at": "2026-01-06T20:41:03Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Back to the grind: Mathematical Biology, population genetics",
+      "game": "Math",
+      "started_at": "2026-01-06T21:29:06Z"
     }
   ]
 }
