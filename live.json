@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-06T23:30:28.097Z",
+  "timestamp": "2026-01-06T23:38:53.030Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,6 +38,12 @@
       "started_at": "2026-01-06T10:01:59Z"
     },
     {
+      "username": "shnaff",
+      "title": "Chill guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-01-06T23:03:44Z"
+    },
+    {
       "username": "SydHeresy",
       "title": "More Parts - More Soldering - More Fun",
       "game": "Science & Technology",
@@ -48,12 +54,6 @@
       "title": "Archaeologist Constructs (Rather than Excavates) a Town! | !linktree !discord",
       "game": "Manor Lords",
       "started_at": "2026-01-06T21:58:13Z"
-    },
-    {
-      "username": "shnaff",
-      "title": "Chill guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-01-06T23:03:44Z"
     },
     {
       "username": "DonFactorial",
