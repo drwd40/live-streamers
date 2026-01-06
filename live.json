@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-06T21:38:42.559Z",
+  "timestamp": "2026-01-06T21:46:41.248Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,16 +38,16 @@
       "started_at": "2026-01-06T17:38:16Z"
     },
     {
-      "username": "DiatomsATTACK",
-      "title": "Looking at fossil diatoms on the SEM. Samples from Brown's Lake, Ohio. Special guest: Evie.",
-      "game": "Science & Technology",
-      "started_at": "2026-01-06T19:22:21Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "More Parts - More Soldering - More Fun",
       "game": "Science & Technology",
       "started_at": "2026-01-06T19:20:31Z"
+    },
+    {
+      "username": "DiatomsATTACK",
+      "title": "Looking at fossil diatoms on the SEM. Samples from Brown's Lake, Ohio. Special guest: Evie.",
+      "game": "Science & Technology",
+      "started_at": "2026-01-06T19:22:21Z"
     },
     {
       "username": "DonFactorial",
@@ -56,16 +56,16 @@
       "started_at": "2026-01-06T21:29:06Z"
     },
     {
-      "username": "xTalkProgrammer",
-      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
-      "game": "Just Chatting",
-      "started_at": "2026-01-06T20:41:03Z"
-    },
-    {
       "username": "Stephen_Wolfram",
       "title": "Live CEOing Ep 958: Language Design in Wolfram Language [Graphics]",
       "game": "Science & Technology",
       "started_at": "2026-01-06T21:35:18Z"
+    },
+    {
+      "username": "xTalkProgrammer",
+      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
+      "game": "Just Chatting",
+      "started_at": "2026-01-06T20:41:03Z"
     }
   ]
 }
