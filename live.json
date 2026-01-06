@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-06T22:58:11.274Z",
+  "timestamp": "2026-01-06T23:08:10.603Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,12 +14,6 @@
       "started_at": "2026-01-06T17:11:22Z"
     },
     {
-      "username": "ipaintbirbs",
-      "title": "birds! arts! yaps! we have it all folks",
-      "game": "Art",
-      "started_at": "2026-01-06T17:00:28Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "The continents MOVE 🌎😲🌍 How our planet works (and how we know!) 🌏 Anniversary of Wegener's announcement of continental drift",
       "game": "Science & Technology",
@@ -30,6 +24,12 @@
       "title": "COOKING lentil sweet potato curry & baking cookies 💜 Architecture IRL",
       "game": "IRL",
       "started_at": "2026-01-06T21:05:03Z"
+    },
+    {
+      "username": "imreallyimportant",
+      "title": "FIFTH ANNIVERSARY OF TRUMP'S INSURRECTION",
+      "game": "Just Chatting",
+      "started_at": "2026-01-06T22:57:36Z"
     },
     {
       "username": "Zachap",
@@ -62,16 +62,16 @@
       "started_at": "2026-01-06T22:50:40Z"
     },
     {
-      "username": "imreallyimportant",
-      "title": "FIFTH ANNIVERSARY OF TRUMP'S INSURRECTION",
-      "game": "Just Chatting",
-      "started_at": "2026-01-06T22:57:36Z"
-    },
-    {
       "username": "nSimplexPachinko",
       "title": "Nine Sols, Night 18: Once More Unto the EndBoss!",
       "game": "Nine Sols",
       "started_at": "2026-01-06T21:50:21Z"
+    },
+    {
+      "username": "shnaff",
+      "title": "Chill guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-01-06T23:03:44Z"
     }
   ]
 }
