@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-06T23:51:59.171Z",
+  "timestamp": "2026-01-06T23:57:31.931Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,16 +38,16 @@
       "started_at": "2026-01-06T10:01:59Z"
     },
     {
-      "username": "shnaff",
-      "title": "Chill guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-01-06T23:03:44Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "More Parts - More Soldering - More Fun",
       "game": "Science & Technology",
       "started_at": "2026-01-06T19:20:31Z"
+    },
+    {
+      "username": "shnaff",
+      "title": "Chill guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-01-06T23:03:44Z"
     },
     {
       "username": "GeneralSte",
