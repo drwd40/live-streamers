@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-06T17:47:50.540Z",
+  "timestamp": "2026-01-06T17:55:33.826Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-01-06T17:00:28Z"
     },
     {
-      "username": "Zachap",
-      "title": "The State is a Dictatorship of the Capitalist Class",
-      "game": "Just Chatting",
-      "started_at": "2026-01-06T10:01:59Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "Eradicating GitHub issues 🎯 (day 289)",
       "game": "Software and Game Development",
       "started_at": "2026-01-06T16:35:05Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "The State is a Dictatorship of the Capitalist Class",
+      "game": "Just Chatting",
+      "started_at": "2026-01-06T10:01:59Z"
     },
     {
       "username": "oh_bother",
