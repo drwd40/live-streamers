@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-06T21:46:41.248Z",
+  "timestamp": "2026-01-06T21:53:09.929Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,10 +38,22 @@
       "started_at": "2026-01-06T17:38:16Z"
     },
     {
+      "username": "Paleontologizing",
+      "title": "The continents MOVE 🌎😲🌍 How our planet works (and how we know!) 🌏 Anniversary of Wegener's announcement of continental drift",
+      "game": "Science & Technology",
+      "started_at": "2026-01-06T21:46:34Z"
+    },
+    {
       "username": "SydHeresy",
       "title": "More Parts - More Soldering - More Fun",
       "game": "Science & Technology",
       "started_at": "2026-01-06T19:20:31Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 958: Language Design in Wolfram Language [Graphics]",
+      "game": "Science & Technology",
+      "started_at": "2026-01-06T21:35:18Z"
     },
     {
       "username": "DiatomsATTACK",
@@ -56,16 +68,16 @@
       "started_at": "2026-01-06T21:29:06Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 958: Language Design in Wolfram Language [Graphics]",
-      "game": "Science & Technology",
-      "started_at": "2026-01-06T21:35:18Z"
-    },
-    {
       "username": "xTalkProgrammer",
       "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
       "game": "Just Chatting",
       "started_at": "2026-01-06T20:41:03Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Nine Sols, Night 18: Once More Unto the EndBoss!",
+      "game": "Nine Sols",
+      "started_at": "2026-01-06T21:50:21Z"
     }
   ]
 }
