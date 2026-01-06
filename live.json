@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-06T19:46:38.606Z",
+  "timestamp": "2026-01-06T19:53:19.735Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,12 +20,6 @@
       "started_at": "2026-01-06T17:00:28Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Eradicating GitHub issues 🎯 (day 289)",
-      "game": "Software and Game Development",
-      "started_at": "2026-01-06T16:35:05Z"
-    },
-    {
       "username": "Zachap",
       "title": "The State is a Dictatorship of the Capitalist Class",
       "game": "Just Chatting",
@@ -44,16 +38,16 @@
       "started_at": "2026-01-06T19:22:21Z"
     },
     {
-      "username": "vul100",
-      "title": "Tuesday January 6th @ 2:30 pm EST: Epiphany and the Magi: who were they and why January 6th.",
-      "game": "Science & Technology",
-      "started_at": "2026-01-06T19:28:38Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "More Parts - More Soldering - More Fun",
       "game": "Just Chatting",
       "started_at": "2026-01-06T19:20:31Z"
+    },
+    {
+      "username": "vul100",
+      "title": "Tuesday January 6th @ 2:30 pm EST: Epiphany and the Magi: who were they and why January 6th.",
+      "game": "Science & Technology",
+      "started_at": "2026-01-06T19:28:38Z"
     },
     {
       "username": "AcademyOfUselessIdeas",
