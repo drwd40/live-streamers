@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-06T19:59:08.239Z",
+  "timestamp": "2026-01-06T20:10:06.776Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -44,16 +44,16 @@
       "started_at": "2026-01-06T19:20:31Z"
     },
     {
-      "username": "vul100",
-      "title": "Tuesday January 6th @ 2:30 pm EST: Epiphany and the Magi: who were they and why January 6th.",
-      "game": "Science & Technology",
-      "started_at": "2026-01-06T19:28:38Z"
-    },
-    {
       "username": "AcademyOfUselessIdeas",
       "title": "Attempting math! (Fighting a crippling addition to math)",
       "game": "Math",
       "started_at": "2026-01-06T19:42:04Z"
+    },
+    {
+      "username": "vul100",
+      "title": "Tuesday January 6th @ 2:30 pm EST: Epiphany and the Magi: who were they and why January 6th.",
+      "game": "Science & Technology",
+      "started_at": "2026-01-06T19:28:38Z"
     }
   ]
 }
