@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-06T09:59:15.771Z",
+  "timestamp": "2026-01-06T10:10:17.904Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "🪐 Thieve's Guild Questin! ✨",
       "game": "The Elder Scrolls IV: Oblivion Remastered",
       "started_at": "2026-01-06T02:17:30Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "The State is a Dictatorship of the Capitalist Class",
+      "game": "Just Chatting",
+      "started_at": "2026-01-06T10:01:59Z"
     }
   ]
 }
