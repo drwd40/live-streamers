@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-07T18:29:29.197Z",
+  "timestamp": "2026-01-07T18:47:41.125Z",
   "live": [
     {
       "username": "Maya",
@@ -42,12 +42,6 @@
       "title": "Dev (day 290)",
       "game": "Software and Game Development",
       "started_at": "2026-01-07T16:31:04Z"
-    },
-    {
-      "username": "TimberAnew",
-      "title": "Moonwalking",
-      "game": "Deliver Us The Moon",
-      "started_at": "2026-01-07T15:03:51Z"
     },
     {
       "username": "AcademyOfUselessIdeas",
