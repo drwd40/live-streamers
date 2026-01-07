@@ -1,6 +1,12 @@
 {
-  "timestamp": "2026-01-07T16:27:21.290Z",
+  "timestamp": "2026-01-07T16:44:24.577Z",
   "live": [
+    {
+      "username": "Maya",
+      "title": "HELLOOOOO🌟🥳🫶",
+      "game": "Just Chatting",
+      "started_at": "2026-01-07T16:31:29Z"
+    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
@@ -12,6 +18,12 @@
       "title": "Capitalism creates inhumane conditions globally",
       "game": "Just Chatting",
       "started_at": "2026-01-07T10:02:07Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Dev (day 290)",
+      "game": "Software and Game Development",
+      "started_at": "2026-01-07T16:31:04Z"
     },
     {
       "username": "TimberAnew",
