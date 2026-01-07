@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-07T18:03:07.940Z",
+  "timestamp": "2026-01-07T18:14:48.467Z",
   "live": [
     {
       "username": "Maya",
@@ -54,6 +54,12 @@
       "title": "Attempting math! (Thinking more about mail-order brides)",
       "game": "Math",
       "started_at": "2026-01-07T15:56:02Z"
+    },
+    {
+      "username": "PotteryDojo",
+      "title": "Pottery: Making Bonsai Pots | Foot Stream | Batch # 18 | Batch Total: 24",
+      "game": "Art",
+      "started_at": "2026-01-07T18:14:36Z"
     }
   ]
 }
