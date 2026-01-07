@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-07T19:09:36.156Z",
+  "timestamp": "2026-01-07T19:20:26.139Z",
   "live": [
     {
       "username": "Kitboga",
@@ -26,28 +26,34 @@
       "started_at": "2026-01-07T17:11:44Z"
     },
     {
-      "username": "Zachap",
-      "title": "Capitalism creates inhumane conditions globally",
-      "game": "Just Chatting",
-      "started_at": "2026-01-07T10:02:07Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "Dev (day 290)",
       "game": "Software and Game Development",
       "started_at": "2026-01-07T16:31:04Z"
     },
     {
-      "username": "PotteryDojo",
-      "title": "Pottery: Making Bonsai Pots | Throwing | Batch # 18 | Batch Total: 24",
-      "game": "Art",
-      "started_at": "2026-01-07T18:14:36Z"
+      "username": "Zachap",
+      "title": "Capitalism creates inhumane conditions globally",
+      "game": "Just Chatting",
+      "started_at": "2026-01-07T10:02:07Z"
     },
     {
       "username": "eToThe2iPi",
       "title": "Trying to Build a Better Curriculum: Differential Equations",
       "game": "Math",
       "started_at": "2026-01-07T18:52:17Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 959: Language Design in Wolfram Language [ExchangeRateConvert, Trim Zeros and more]",
+      "game": "Science & Technology",
+      "started_at": "2026-01-07T19:18:48Z"
+    },
+    {
+      "username": "PotteryDojo",
+      "title": "Pottery: Making Bonsai Pots | Throwing | Batch # 18 | Batch Total: 24",
+      "game": "Art",
+      "started_at": "2026-01-07T18:14:36Z"
     }
   ]
 }
