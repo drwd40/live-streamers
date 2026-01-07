@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-07T22:00:43.664Z",
+  "timestamp": "2026-01-07T22:09:40.677Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,16 @@
       "started_at": "2026-01-07T19:59:42Z"
     },
     {
-      "username": "Zachap",
-      "title": "Capitalism creates inhumane conditions globally",
-      "game": "Just Chatting",
-      "started_at": "2026-01-07T10:02:07Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "So close to 10k wishlists...! (day 290½)",
       "game": "Software and Game Development",
       "started_at": "2026-01-07T21:29:44Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "Capitalism creates inhumane conditions globally",
+      "game": "Just Chatting",
+      "started_at": "2026-01-07T10:02:07Z"
     },
     {
       "username": "DrawCuriosity",
@@ -50,10 +50,10 @@
       "started_at": "2026-01-07T20:44:31Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Trying to Build a Better Curriculum: Differential Equations",
-      "game": "Math",
-      "started_at": "2026-01-07T18:52:17Z"
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 960: Language Design in Wolfram Language [GeoGraph]",
+      "game": "Science & Technology",
+      "started_at": "2026-01-07T22:04:23Z"
     }
   ]
 }
