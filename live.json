@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-07T21:40:41.878Z",
+  "timestamp": "2026-01-07T21:48:21.981Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,6 +38,12 @@
       "started_at": "2026-01-07T10:02:07Z"
     },
     {
+      "username": "AdamLearnsLive",
+      "title": "So close to 10k wishlists...! (day 290½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-01-07T21:29:44Z"
+    },
+    {
       "username": "DrawCuriosity",
       "title": "✨ LEGENDS ZA DLC FINALLYYYY!!! (also new bugs! and a secret command) ✨🐑 !merch !dailybug",
       "game": "Pokémon Legends: Z-A",
@@ -48,12 +54,6 @@
       "title": "History of Science and Technology Q&A (January 7, 2026)",
       "game": "Science & Technology",
       "started_at": "2026-01-07T20:40:44Z"
-    },
-    {
-      "username": "AdamLearnsLive",
-      "title": "So close to 10k wishlists...! (day 290½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-01-07T21:29:44Z"
     },
     {
       "username": "eToThe2iPi",
