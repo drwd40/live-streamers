@@ -1,12 +1,6 @@
 {
-  "timestamp": "2026-01-07T21:09:44.459Z",
+  "timestamp": "2026-01-07T21:21:15.377Z",
   "live": [
-    {
-      "username": "Kitboga",
-      "title": "Making Scammers Angry [Ep 1504]",
-      "game": "Just Chatting",
-      "started_at": "2026-01-07T16:45:42Z"
-    },
     {
       "username": "AlveusSanctuary",
       "title": "Projects w/ Dan | !alveus !institute !pixel !schedule !video !feed",
@@ -44,16 +38,22 @@
       "started_at": "2026-01-07T20:44:31Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Trying to Build a Better Curriculum: Differential Equations",
-      "game": "Math",
-      "started_at": "2026-01-07T18:52:17Z"
+      "username": "Paleontologizing",
+      "title": "This guy *also* discovered evolution 🔎🐝 Celebrating ALFRED RUSSEL WALLACE's 203rd birthday and discussing his life & work",
+      "game": "Science & Technology",
+      "started_at": "2026-01-07T21:15:41Z"
     },
     {
       "username": "Stephen_Wolfram",
       "title": "History of Science and Technology Q&A (January 7, 2026)",
       "game": "Science & Technology",
       "started_at": "2026-01-07T20:40:44Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Trying to Build a Better Curriculum: Differential Equations",
+      "game": "Math",
+      "started_at": "2026-01-07T18:52:17Z"
     }
   ]
 }
