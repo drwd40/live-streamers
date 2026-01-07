@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-07T02:09:33.092Z",
+  "timestamp": "2026-01-07T02:52:43.175Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,10 +32,22 @@
       "started_at": "2026-01-07T01:04:16Z"
     },
     {
+      "username": "SciAnts_Streams",
+      "title": "Tinker Tuesday | Vaccine science--what's the truth behind this tech? + rabbit holes galore! | Partner+ 73/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2026-01-07T02:18:00Z"
+    },
+    {
       "username": "SydHeresy",
       "title": "More Parts - More Soldering - More Fun",
       "game": "Science & Technology",
       "started_at": "2026-01-06T19:20:31Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "PhD astronomer flabbergasted that 3I/ATLAS is a 'just' an interstellar comet.  Astronomy and Science! #science #space",
+      "game": "Science & Technology",
+      "started_at": "2026-01-07T01:52:22Z"
     },
     {
       "username": "SharkG33k",
@@ -44,10 +56,10 @@
       "started_at": "2026-01-07T01:05:06Z"
     },
     {
-      "username": "Nerduino",
-      "title": "3I/ATLAS is a comet with a PhD Astronomer.  Astronomy and Science! #science #space",
-      "game": "Science & Technology",
-      "started_at": "2026-01-07T01:52:22Z"
+      "username": "Mr_Aejis",
+      "title": "Teacher Plays: Dispatch - the teacher is over 15 minutes late edition",
+      "game": "Dispatch",
+      "started_at": "2026-01-07T02:05:38Z"
     },
     {
       "username": "MelissaInDeNile",
@@ -56,10 +68,10 @@
       "started_at": "2026-01-07T00:22:59Z"
     },
     {
-      "username": "Mr_Aejis",
-      "title": "Teacher Plays: Dispatch - the teacher is over 15 minutes late edition",
-      "game": "Dispatch",
-      "started_at": "2026-01-07T02:05:38Z"
+      "username": "walkingsticklibrary",
+      "title": "The I-285 extension, climate change and USDA hardiness zones, and moose vs. ticks.",
+      "game": "IRL",
+      "started_at": "2026-01-07T02:29:58Z"
     }
   ]
 }
