@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-07T20:54:37.299Z",
+  "timestamp": "2026-01-07T21:00:30.531Z",
   "live": [
     {
       "username": "Kitboga",
@@ -44,16 +44,16 @@
       "started_at": "2026-01-07T20:44:31Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "History of Science and Technology Q&A (January 7, 2026)",
-      "game": "Science & Technology",
-      "started_at": "2026-01-07T20:40:44Z"
-    },
-    {
       "username": "eToThe2iPi",
       "title": "Trying to Build a Better Curriculum: Differential Equations",
       "game": "Math",
       "started_at": "2026-01-07T18:52:17Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "History of Science and Technology Q&A (January 7, 2026)",
+      "game": "Science & Technology",
+      "started_at": "2026-01-07T20:40:44Z"
     }
   ]
 }
