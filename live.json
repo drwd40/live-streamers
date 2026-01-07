@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-07T02:52:43.175Z",
+  "timestamp": "2026-01-07T03:26:00.971Z",
   "live": [
-    {
-      "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
-      "game": "Animals, Aquariums, and Zoos",
-      "started_at": "2026-01-06T13:35:41Z"
-    },
     {
       "username": "EJ_SA",
       "title": "On the hunt for parts and MONEY! My Winter Car (Part 7)",
       "game": "My Winter Car",
       "started_at": "2026-01-06T17:11:22Z"
+    },
+    {
+      "username": "AlveusSanctuary",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
+      "game": "Animals, Aquariums, and Zoos",
+      "started_at": "2026-01-06T13:35:41Z"
     },
     {
       "username": "imreallyimportant",
@@ -20,10 +20,10 @@
       "started_at": "2026-01-06T22:57:36Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "The continents MOVE 🌎😲🌍 How our planet works (and how we know!) 🌏 Anniversary of Wegener's announcement of continental drift",
+      "username": "SciAnts_Streams",
+      "title": "Tinker Tuesday | Vaccine science--what's the truth behind this tech? + rabbit holes galore! | Partner+ 73/300 | !ppp !yt !pod",
       "game": "Science & Technology",
-      "started_at": "2026-01-06T21:46:34Z"
+      "started_at": "2026-01-07T02:18:00Z"
     },
     {
       "username": "AstroCanuck",
@@ -32,22 +32,16 @@
       "started_at": "2026-01-07T01:04:16Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "Tinker Tuesday | Vaccine science--what's the truth behind this tech? + rabbit holes galore! | Partner+ 73/300 | !ppp !yt !pod",
+      "username": "Nerduino",
+      "title": "PhD astronomer flabbergasted that 3I/ATLAS is a 'just' an interstellar comet.  Astronomy and Science! #science #space",
       "game": "Science & Technology",
-      "started_at": "2026-01-07T02:18:00Z"
+      "started_at": "2026-01-07T01:52:22Z"
     },
     {
       "username": "SydHeresy",
       "title": "More Parts - More Soldering - More Fun",
       "game": "Science & Technology",
       "started_at": "2026-01-06T19:20:31Z"
-    },
-    {
-      "username": "Nerduino",
-      "title": "PhD astronomer flabbergasted that 3I/ATLAS is a 'just' an interstellar comet.  Astronomy and Science! #science #space",
-      "game": "Science & Technology",
-      "started_at": "2026-01-07T01:52:22Z"
     },
     {
       "username": "SharkG33k",
