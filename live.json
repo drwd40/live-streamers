@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-07T07:27:36.853Z",
+  "timestamp": "2026-01-07T07:39:45.746Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,22 +8,10 @@
       "started_at": "2026-01-06T13:35:41Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "More Parts - More Soldering - More Fun",
-      "game": "Science & Technology",
-      "started_at": "2026-01-06T19:20:31Z"
-    },
-    {
       "username": "DrMick",
       "title": "HEELSMANIA vs Kraken Beers",
       "game": "Sports",
       "started_at": "2026-01-07T06:28:25Z"
-    },
-    {
-      "username": "happyknightmares",
-      "title": "Studying synesthesia and co-working! 🎨🧠",
-      "game": "Science & Technology",
-      "started_at": "2026-01-07T06:16:05Z"
     }
   ]
 }
