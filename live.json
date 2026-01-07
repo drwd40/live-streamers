@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-07T06:23:06.571Z",
+  "timestamp": "2026-01-07T06:40:24.270Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "More Parts - More Soldering - More Fun",
       "game": "Science & Technology",
       "started_at": "2026-01-06T19:20:31Z"
+    },
+    {
+      "username": "DrMick",
+      "title": "HEELSMANIA vs Kraken Beers",
+      "game": "Sports",
+      "started_at": "2026-01-07T06:28:25Z"
     },
     {
       "username": "happyknightmares",
