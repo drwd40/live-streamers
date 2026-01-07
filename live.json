@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-07T21:32:14.757Z",
+  "timestamp": "2026-01-07T21:40:41.878Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-01-07T21:15:41Z"
     },
     {
-      "username": "Zachap",
-      "title": "Capitalism creates inhumane conditions globally",
-      "game": "Just Chatting",
-      "started_at": "2026-01-07T10:02:07Z"
-    },
-    {
       "username": "IrishJohnGames",
       "title": "🍀Rise of Piracy - Live Game Dev | !discord !streamers !MicroProse !steam",
       "game": "Software and Game Development",
       "started_at": "2026-01-07T19:59:42Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "Capitalism creates inhumane conditions globally",
+      "game": "Just Chatting",
+      "started_at": "2026-01-07T10:02:07Z"
     },
     {
       "username": "DrawCuriosity",
@@ -50,16 +50,16 @@
       "started_at": "2026-01-07T20:40:44Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Trying to Build a Better Curriculum: Differential Equations",
-      "game": "Math",
-      "started_at": "2026-01-07T18:52:17Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "So close to 10k wishlists...! (day 290½)",
       "game": "Software and Game Development",
       "started_at": "2026-01-07T21:29:44Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Trying to Build a Better Curriculum: Differential Equations",
+      "game": "Math",
+      "started_at": "2026-01-07T18:52:17Z"
     }
   ]
 }
