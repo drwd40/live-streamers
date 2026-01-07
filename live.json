@@ -1,12 +1,6 @@
 {
-  "timestamp": "2026-01-07T18:47:41.125Z",
+  "timestamp": "2026-01-07T18:59:02.721Z",
   "live": [
-    {
-      "username": "Maya",
-      "title": "HELLOOOOO🌟🥳🫶 !LEGOGAMES #LEGOGames30 #ad",
-      "game": "LEGO Star Wars: The Skywalker Saga",
-      "started_at": "2026-01-07T16:31:29Z"
-    },
     {
       "username": "Kitboga",
       "title": "Making Scammers Angry [Ep 1504]",
@@ -32,28 +26,28 @@
       "started_at": "2026-01-07T17:11:44Z"
     },
     {
-      "username": "Zachap",
-      "title": "Capitalism creates inhumane conditions globally",
-      "game": "Just Chatting",
-      "started_at": "2026-01-07T10:02:07Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "Dev (day 290)",
       "game": "Software and Game Development",
       "started_at": "2026-01-07T16:31:04Z"
     },
     {
-      "username": "AcademyOfUselessIdeas",
-      "title": "Attempting math! (Thinking more about mail-order brides)",
-      "game": "Math",
-      "started_at": "2026-01-07T15:56:02Z"
+      "username": "Zachap",
+      "title": "Capitalism creates inhumane conditions globally",
+      "game": "Just Chatting",
+      "started_at": "2026-01-07T10:02:07Z"
     },
     {
       "username": "PotteryDojo",
       "title": "Pottery: Making Bonsai Pots | Throwing | Batch # 18 | Batch Total: 24",
       "game": "Art",
       "started_at": "2026-01-07T18:14:36Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Trying to Build a Better Curriculum: Differential Equations",
+      "game": "Math",
+      "started_at": "2026-01-07T18:52:17Z"
     }
   ]
 }
