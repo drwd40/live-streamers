@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-07T23:19:33.158Z",
+  "timestamp": "2026-01-07T23:30:24.847Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,6 +20,12 @@
       "started_at": "2026-01-07T22:59:54Z"
     },
     {
+      "username": "imreallyimportant",
+      "title": "MINNESOTA ON EDGE AFTER ICE AGENT KILLS WOMAN",
+      "game": "Just Chatting",
+      "started_at": "2026-01-07T23:02:49Z"
+    },
+    {
       "username": "Paleontologizing",
       "title": "This guy *also* discovered evolution 🔎🐝 Celebrating ALFRED RUSSEL WALLACE's 203rd birthday and discussing his life & work",
       "game": "Science & Technology",
@@ -32,22 +38,16 @@
       "started_at": "2026-01-07T17:11:44Z"
     },
     {
-      "username": "imreallyimportant",
-      "title": "MINNESOTA ON EDGE AFTER ICE AGENT KILLS WOMAN",
-      "game": "Just Chatting",
-      "started_at": "2026-01-07T23:02:49Z"
+      "username": "AdamLearnsLive",
+      "title": "So close to 10k wishlists...! (day 290½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-01-07T21:29:44Z"
     },
     {
       "username": "Zachap",
       "title": "Capitalism creates inhumane conditions globally",
       "game": "Just Chatting",
       "started_at": "2026-01-07T10:02:07Z"
-    },
-    {
-      "username": "AdamLearnsLive",
-      "title": "So close to 10k wishlists...! (day 290½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-01-07T21:29:44Z"
     },
     {
       "username": "DrawCuriosity",
@@ -60,6 +60,12 @@
       "title": "Live CEOing Ep 960: Language Design in Wolfram Language [GeoGraph]",
       "game": "Science & Technology",
       "started_at": "2026-01-07T22:04:23Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "Time to get a MANI... a mani-fold [!fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-01-07T23:21:55Z"
     },
     {
       "username": "nSimplexPachinko",
