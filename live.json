@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-07T01:22:46.846Z",
+  "timestamp": "2026-01-07T02:09:33.092Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -9,15 +9,9 @@
     },
     {
       "username": "EJ_SA",
-      "title": "EJ's Space and Rocket Revue! 1/6/25",
-      "game": "Science & Technology",
+      "title": "On the hunt for parts and MONEY! My Winter Car (Part 7)",
+      "game": "My Winter Car",
       "started_at": "2026-01-06T17:11:22Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "The continents MOVE 🌎😲🌍 How our planet works (and how we know!) 🌏 Anniversary of Wegener's announcement of continental drift",
-      "game": "Science & Technology",
-      "started_at": "2026-01-06T21:46:34Z"
     },
     {
       "username": "imreallyimportant",
@@ -26,16 +20,10 @@
       "started_at": "2026-01-06T22:57:36Z"
     },
     {
-      "username": "shnaff",
-      "title": "Chill guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-01-06T23:03:44Z"
-    },
-    {
-      "username": "SydHeresy",
-      "title": "More Parts - More Soldering - More Fun",
+      "username": "Paleontologizing",
+      "title": "The continents MOVE 🌎😲🌍 How our planet works (and how we know!) 🌏 Anniversary of Wegener's announcement of continental drift",
       "game": "Science & Technology",
-      "started_at": "2026-01-06T19:20:31Z"
+      "started_at": "2026-01-06T21:46:34Z"
     },
     {
       "username": "AstroCanuck",
@@ -44,10 +32,10 @@
       "started_at": "2026-01-07T01:04:16Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Algebra: Tiles and Tiles, For Miles and Miles",
-      "game": "Math",
-      "started_at": "2026-01-06T22:50:40Z"
+      "username": "SydHeresy",
+      "title": "More Parts - More Soldering - More Fun",
+      "game": "Science & Technology",
+      "started_at": "2026-01-06T19:20:31Z"
     },
     {
       "username": "SharkG33k",
@@ -56,10 +44,22 @@
       "started_at": "2026-01-07T01:05:06Z"
     },
     {
+      "username": "Nerduino",
+      "title": "3I/ATLAS is a comet with a PhD Astronomer.  Astronomy and Science! #science #space",
+      "game": "Science & Technology",
+      "started_at": "2026-01-07T01:52:22Z"
+    },
+    {
       "username": "MelissaInDeNile",
       "title": "Back with more Assassin's Creed: Brotherhood! Exploring around Rome! ~ Follower Goal: 2246/2300 ~ !socials !beyonddenile",
       "game": "Assassin's Creed Brotherhood",
       "started_at": "2026-01-07T00:22:59Z"
+    },
+    {
+      "username": "Mr_Aejis",
+      "title": "Teacher Plays: Dispatch - the teacher is over 15 minutes late edition",
+      "game": "Dispatch",
+      "started_at": "2026-01-07T02:05:38Z"
     }
   ]
 }
