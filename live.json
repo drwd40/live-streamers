@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-07T15:53:32.733Z",
+  "timestamp": "2026-01-07T16:00:55.237Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,12 @@
       "title": "Carving muscles",
       "game": "Art",
       "started_at": "2026-01-07T15:03:51Z"
+    },
+    {
+      "username": "AcademyOfUselessIdeas",
+      "title": "Attempting math! (Thinking more about mail-order brides)",
+      "game": "Math",
+      "started_at": "2026-01-07T15:56:02Z"
     }
   ]
 }
