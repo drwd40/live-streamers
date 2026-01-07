@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-06T23:57:31.931Z",
+  "timestamp": "2026-01-07T00:27:34.970Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,16 +38,16 @@
       "started_at": "2026-01-06T10:01:59Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "More Parts - More Soldering - More Fun",
-      "game": "Science & Technology",
-      "started_at": "2026-01-06T19:20:31Z"
-    },
-    {
       "username": "shnaff",
       "title": "Chill guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2026-01-06T23:03:44Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "More Parts - More Soldering - More Fun",
+      "game": "Science & Technology",
+      "started_at": "2026-01-06T19:20:31Z"
     },
     {
       "username": "GeneralSte",
@@ -56,22 +56,16 @@
       "started_at": "2026-01-06T21:58:13Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Back to the grind: Mathematical Biology, population genetics",
-      "game": "Math",
-      "started_at": "2026-01-06T21:29:06Z"
-    },
-    {
       "username": "eToThe2iPi",
       "title": "Algebra: Tiles and Tiles, For Miles and Miles",
       "game": "Math",
       "started_at": "2026-01-06T22:50:40Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "Nine Sols, Night 18: Once More Unto the EndBoss!",
-      "game": "Nine Sols",
-      "started_at": "2026-01-06T21:50:21Z"
+      "username": "MelissaInDeNile",
+      "title": "Back with more Assassin's Creed: Brotherhood! Exploring around Rome! ~ Follower Goal: 2246/2300 ~ !socials !beyonddenile",
+      "game": "Assassin's Creed Brotherhood",
+      "started_at": "2026-01-07T00:22:59Z"
     }
   ]
 }
