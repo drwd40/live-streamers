@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-07T19:30:45.585Z",
+  "timestamp": "2026-01-07T19:39:01.993Z",
   "live": [
     {
       "username": "Kitboga",
@@ -38,20 +38,20 @@
       "started_at": "2026-01-07T10:02:07Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Trying to Build a Better Curriculum: Differential Equations",
-      "game": "Math",
-      "started_at": "2026-01-07T18:52:17Z"
-    },
-    {
       "username": "Stephen_Wolfram",
       "title": "Live CEOing Ep 959: Language Design in Wolfram Language [ExchangeRateConvert, Trim Zeros and more]",
       "game": "Science & Technology",
       "started_at": "2026-01-07T19:18:48Z"
     },
     {
+      "username": "eToThe2iPi",
+      "title": "Trying to Build a Better Curriculum: Differential Equations",
+      "game": "Math",
+      "started_at": "2026-01-07T18:52:17Z"
+    },
+    {
       "username": "PotteryDojo",
-      "title": "Pottery: Making Bonsai Pots | Throwing | Batch # 18 | Batch Total: 24",
+      "title": "Pottery: Making Bonsai Pots | Throwing | Batch # 18 | Batch Total: 25",
       "game": "Art",
       "started_at": "2026-01-07T18:14:36Z"
     }
