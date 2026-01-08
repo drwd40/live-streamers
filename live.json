@@ -1,12 +1,6 @@
 {
-  "timestamp": "2026-01-08T19:58:53.974Z",
+  "timestamp": "2026-01-08T20:10:15.282Z",
   "live": [
-    {
-      "username": "Kitboga",
-      "title": "Making Scammers Angry [Ep 1505]",
-      "game": "Just Chatting",
-      "started_at": "2026-01-08T16:28:04Z"
-    },
     {
       "username": "AlveusSanctuary",
       "title": "PO Box Opening | !alveus !institute !pixel !schedule !video !feed",
@@ -48,12 +42,6 @@
       "title": "Soldering The Day Away",
       "game": "Science & Technology",
       "started_at": "2026-01-08T19:09:59Z"
-    },
-    {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 961: Design Review of NotebookTheme",
-      "game": "Science & Technology",
-      "started_at": "2026-01-08T19:37:44Z"
     }
   ]
 }
