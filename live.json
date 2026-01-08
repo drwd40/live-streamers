@@ -1,12 +1,6 @@
 {
-  "timestamp": "2026-01-08T23:44:04.044Z",
+  "timestamp": "2026-01-08T23:50:55.866Z",
   "live": [
-    {
-      "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
-      "game": "Animals, Aquariums, and Zoos",
-      "started_at": "2026-01-08T13:35:43Z"
-    },
     {
       "username": "EJ_SA",
       "title": "Car parts collecting! Attempt II (Part 2)",
@@ -14,16 +8,22 @@
       "started_at": "2026-01-08T16:47:08Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "European horned dinosaurs?  Interviewing Prof. Susie Maidment on her new Ajkaceratops paper 📰💥 + Paleontology Q&A and Thursday BIRDSday",
-      "game": "Science & Technology",
-      "started_at": "2026-01-08T21:17:33Z"
+      "username": "AlveusSanctuary",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
+      "game": "Animals, Aquariums, and Zoos",
+      "started_at": "2026-01-08T13:35:43Z"
     },
     {
       "username": "imreallyimportant",
       "title": "NATIONAL GUARD CALLED UP IN MINNESOTA | SENATE PASSES WAR POWERS RESOLUTION TO CHECK TRUMP",
       "game": "Just Chatting",
       "started_at": "2026-01-08T23:01:31Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "European horned dinosaurs?  Interviewing Prof. Susie Maidment on her new Ajkaceratops paper 📰💥 + Paleontology Q&A and Thursday BIRDSday",
+      "game": "Science & Technology",
+      "started_at": "2026-01-08T21:17:33Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -38,6 +38,12 @@
       "started_at": "2026-01-08T22:05:07Z"
     },
     {
+      "username": "shnaff",
+      "title": "Chill guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-01-08T23:04:25Z"
+    },
+    {
       "username": "SydHeresy",
       "title": "Soldering The Day Away",
       "game": "Science & Technology",
@@ -48,12 +54,6 @@
       "title": "First Look at Star Rupture!",
       "game": "StarRupture",
       "started_at": "2026-01-08T19:10:26Z"
-    },
-    {
-      "username": "shnaff",
-      "title": "Chill guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-01-08T23:04:25Z"
     },
     {
       "username": "AndrewHolding",
