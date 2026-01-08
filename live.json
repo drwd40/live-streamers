@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-08T21:21:02.285Z",
+  "timestamp": "2026-01-08T21:32:34.248Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-01-08T18:57:42Z"
     },
     {
+      "username": "Paleontologizing",
+      "title": "European horned dinosaurs?  Interviewing Prof. Susie Maidment on her new Ajkaceratops paper 📰💥 + Paleontology Q&A and Thursday BIRDSday",
+      "game": "Science & Technology",
+      "started_at": "2026-01-08T21:17:33Z"
+    },
+    {
       "username": "oh_bother",
       "title": "Sim rig: CAN bus hacking, using node red?",
       "game": "Just Chatting",
       "started_at": "2026-01-08T17:51:17Z"
-    },
-    {
-      "username": "SydHeresy",
-      "title": "Soldering The Day Away",
-      "game": "Science & Technology",
-      "started_at": "2026-01-08T19:09:59Z"
     },
     {
       "username": "Zachap",
@@ -38,16 +38,22 @@
       "started_at": "2026-01-08T10:04:04Z"
     },
     {
+      "username": "SydHeresy",
+      "title": "Soldering The Day Away",
+      "game": "Science & Technology",
+      "started_at": "2026-01-08T19:09:59Z"
+    },
+    {
       "username": "Rocketology",
       "title": "First Look at Star Rupture!",
       "game": "StarRupture",
       "started_at": "2026-01-08T19:10:26Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "European horned dinosaurs?  Interviewing Prof. Susie Maidment on her new Ajkaceratops paper 📰💥 + Paleontology Q&A and Thursday BIRDSday",
-      "game": "Science & Technology",
-      "started_at": "2026-01-08T21:17:33Z"
+      "username": "AndrewHolding",
+      "title": "[UK/USA] Science co-stream AMA, raising money to fight Cancer, with Whiskey, and Baldur's Gate 3",
+      "game": "Baldur's Gate 3",
+      "started_at": "2026-01-08T21:28:28Z"
     }
   ]
 }
