@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-08T17:42:23.292Z",
+  "timestamp": "2026-01-08T17:53:10.579Z",
   "live": [
     {
       "username": "Kitboga",
@@ -24,6 +24,12 @@
       "title": "People don't like Capitalism",
       "game": "Just Chatting",
       "started_at": "2026-01-08T10:04:04Z"
+    },
+    {
+      "username": "oh_bother",
+      "title": "Sim rig: CAN bus hacking, using node red?",
+      "game": "Just Chatting",
+      "started_at": "2026-01-08T17:51:17Z"
     }
   ]
 }
