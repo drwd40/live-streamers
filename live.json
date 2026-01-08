@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-01-08T02:29:28.360Z",
+  "timestamp": "2026-01-08T03:09:07.074Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Chat Chats w/ Evan | !alveus !institute !pixel !schedule !video !feed",
-      "game": "Just Chatting",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
+      "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-01-06T13:35:41Z"
-    },
-    {
-      "username": "EJ_SA",
-      "title": "I think we have enough cash for an engine build attempt today! My Winter Car (Part 8)",
-      "game": "My Winter Car",
-      "started_at": "2026-01-07T17:18:36Z"
     },
     {
       "username": "imreallyimportant",
@@ -24,12 +18,6 @@
       "title": "birds are asleep let's paint them",
       "game": "Art",
       "started_at": "2026-01-07T23:48:24Z"
-    },
-    {
-      "username": "ArchitectureTV",
-      "title": "TORONTO winter vacation ending 💜 historic and contemporary buildings | Architecture IRL",
-      "game": "IRL",
-      "started_at": "2026-01-07T17:11:44Z"
     },
     {
       "username": "Moohoodles",
@@ -56,10 +44,10 @@
       "started_at": "2026-01-08T01:08:55Z"
     },
     {
-      "username": "CosmoQuestX",
-      "title": "EVSN Premiere: Astronomy Answers, \"What's that light?\"",
-      "game": "Talk Shows & Podcasts",
-      "started_at": "2026-01-08T01:55:27Z"
+      "username": "walkingsticklibrary",
+      "title": "Moose vs. ticks, the psycho-social world of prepping, and the beetle that destroys northern woods.",
+      "game": "IRL",
+      "started_at": "2026-01-08T02:30:19Z"
     }
   ]
 }
