@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-08T22:59:18.899Z",
+  "timestamp": "2026-01-08T23:09:10.489Z",
   "live": [
-    {
-      "username": "EJ_SA",
-      "title": "EJ'S NASA ISS UPDATE COVERAGE!  1/8/26",
-      "game": "Science & Technology",
-      "started_at": "2026-01-08T16:47:08Z"
-    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-01-08T13:35:43Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "Car parts collecting! Attempt II (Part 2)",
+      "game": "My Winter Car",
+      "started_at": "2026-01-08T16:47:08Z"
     },
     {
       "username": "Paleontologizing",
@@ -24,6 +24,12 @@
       "title": "Pokemon Legends - First Playthrough Day 2 | The science of Pokemon as we catch them all! | Partner+ 88/300 | !ppp !yt !pod",
       "game": "Pokémon Legends: Z-A",
       "started_at": "2026-01-08T18:57:42Z"
+    },
+    {
+      "username": "imreallyimportant",
+      "title": "NATIONAL GUARD CALLED UP IN MINNESOTA | SENATE PASSES WAR POWERS RESOLUTION TO CHECK TRUMP",
+      "game": "Just Chatting",
+      "started_at": "2026-01-08T23:01:31Z"
     },
     {
       "username": "DrMick",
@@ -50,16 +56,22 @@
       "started_at": "2026-01-08T19:10:26Z"
     },
     {
-      "username": "SETIInstitute",
-      "title": "What to Expect in Space Science 2026",
-      "game": "Talk Shows & Podcasts",
-      "started_at": "2026-01-08T22:30:57Z"
+      "username": "shnaff",
+      "title": "Chill guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-01-08T23:04:25Z"
     },
     {
       "username": "AndrewHolding",
       "title": "[UK/USA] Science co-stream AMA, raising money to fight Cancer, with Whiskey, and Baldur's Gate 3",
       "game": "Baldur's Gate 3",
       "started_at": "2026-01-08T21:28:28Z"
+    },
+    {
+      "username": "SETIInstitute",
+      "title": "What to Expect in Space Science 2026",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2026-01-08T22:30:57Z"
     },
     {
       "username": "nSimplexPachinko",
