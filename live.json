@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-08T21:32:34.248Z",
+  "timestamp": "2026-01-08T21:41:20.732Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-01-08T16:47:08Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "Pokemon Legends - First Playthrough Day 2 | The science of Pokemon as we catch them all! | Partner+ 88/300 | !ppp !yt !pod",
-      "game": "Pokémon Legends: Z-A",
-      "started_at": "2026-01-08T18:57:42Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "European horned dinosaurs?  Interviewing Prof. Susie Maidment on her new Ajkaceratops paper 📰💥 + Paleontology Q&A and Thursday BIRDSday",
       "game": "Science & Technology",
       "started_at": "2026-01-08T21:17:33Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "Pokemon Legends - First Playthrough Day 2 | The science of Pokemon as we catch them all! | Partner+ 88/300 | !ppp !yt !pod",
+      "game": "Pokémon Legends: Z-A",
+      "started_at": "2026-01-08T18:57:42Z"
     },
     {
       "username": "oh_bother",
@@ -38,22 +38,28 @@
       "started_at": "2026-01-08T10:04:04Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Soldering The Day Away",
-      "game": "Science & Technology",
-      "started_at": "2026-01-08T19:09:59Z"
-    },
-    {
       "username": "Rocketology",
       "title": "First Look at Star Rupture!",
       "game": "StarRupture",
       "started_at": "2026-01-08T19:10:26Z"
     },
     {
+      "username": "SydHeresy",
+      "title": "Soldering The Day Away",
+      "game": "Science & Technology",
+      "started_at": "2026-01-08T19:09:59Z"
+    },
+    {
       "username": "AndrewHolding",
       "title": "[UK/USA] Science co-stream AMA, raising money to fight Cancer, with Whiskey, and Baldur's Gate 3",
       "game": "Baldur's Gate 3",
       "started_at": "2026-01-08T21:28:28Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Nine Sols, Night 19: Are we there, yet?",
+      "game": "Nine Sols",
+      "started_at": "2026-01-08T21:37:57Z"
     }
   ]
 }
