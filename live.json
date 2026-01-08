@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-08T20:36:01.342Z",
+  "timestamp": "2026-01-08T20:45:56.847Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,16 @@
       "started_at": "2026-01-08T10:04:04Z"
     },
     {
-      "username": "Rocketology",
-      "title": "First Look at Star Rupture!",
-      "game": "StarRupture",
-      "started_at": "2026-01-08T19:10:26Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Soldering The Day Away",
       "game": "Science & Technology",
       "started_at": "2026-01-08T19:09:59Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "First Look at Star Rupture!",
+      "game": "StarRupture",
+      "started_at": "2026-01-08T19:10:26Z"
     }
   ]
 }
