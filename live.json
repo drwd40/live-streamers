@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-08T19:01:38.196Z",
+  "timestamp": "2026-01-08T19:11:14.499Z",
   "live": [
     {
       "username": "Kitboga",
@@ -9,8 +9,8 @@
     },
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
-      "game": "Animals, Aquariums, and Zoos",
+      "title": "PO Box Opening | !alveus !institute !pixel !schedule !video !feed",
+      "game": "Just Chatting",
       "started_at": "2026-01-08T13:35:43Z"
     },
     {
@@ -36,6 +36,18 @@
       "title": "Pokemon Legends - First Playthrough Day 2 | The science of Pokemon as we catch them all! | Partner+ 88/300 | !ppp !yt !pod",
       "game": "Pokémon Legends: Z-A",
       "started_at": "2026-01-08T18:57:42Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Soldering The Day Away",
+      "game": "Science & Technology",
+      "started_at": "2026-01-08T19:09:59Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "First Look at Star Rupture!",
+      "game": "StarRupture",
+      "started_at": "2026-01-08T19:10:26Z"
     }
   ]
 }
