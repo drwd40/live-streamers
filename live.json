@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-08T19:32:01.864Z",
+  "timestamp": "2026-01-08T19:39:56.603Z",
   "live": [
     {
       "username": "Kitboga",
@@ -48,6 +48,12 @@
       "title": "Soldering The Day Away",
       "game": "Science & Technology",
       "started_at": "2026-01-08T19:09:59Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 961: Design Review of NotebookTheme",
+      "game": "Science & Technology",
+      "started_at": "2026-01-08T19:37:44Z"
     }
   ]
 }
