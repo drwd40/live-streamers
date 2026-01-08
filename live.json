@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-08T05:37:13.976Z",
+  "timestamp": "2026-01-08T05:47:41.913Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-01-08T02:08:13Z"
     },
     {
-      "username": "walkingsticklibrary",
-      "title": "Moose vs. ticks, the psycho-social world of prepping, and the beetle that destroys northern woods.",
-      "game": "IRL",
-      "started_at": "2026-01-08T02:30:19Z"
-    },
-    {
       "username": "DrMick",
       "title": "Mental Health Chat & Chill | !links",
       "game": "Just Chatting",
       "started_at": "2026-01-08T05:36:41Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Moose vs. ticks, the psycho-social world of prepping, and the beetle that destroys northern woods.",
+      "game": "IRL",
+      "started_at": "2026-01-08T02:30:19Z"
     }
   ]
 }
