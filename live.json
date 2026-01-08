@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-08T21:48:56.648Z",
+  "timestamp": "2026-01-08T21:55:08.577Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,10 +26,10 @@
       "started_at": "2026-01-08T18:57:42Z"
     },
     {
-      "username": "oh_bother",
-      "title": "Sim rig: CAN bus hacking, using node red?",
-      "game": "Just Chatting",
-      "started_at": "2026-01-08T17:51:17Z"
+      "username": "SydHeresy",
+      "title": "Soldering The Day Away",
+      "game": "Science & Technology",
+      "started_at": "2026-01-08T19:09:59Z"
     },
     {
       "username": "Zachap",
@@ -42,12 +42,6 @@
       "title": "First Look at Star Rupture!",
       "game": "StarRupture",
       "started_at": "2026-01-08T19:10:26Z"
-    },
-    {
-      "username": "SydHeresy",
-      "title": "Soldering The Day Away",
-      "game": "Science & Technology",
-      "started_at": "2026-01-08T19:09:59Z"
     },
     {
       "username": "AndrewHolding",
