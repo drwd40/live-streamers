@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-08T19:11:14.499Z",
+  "timestamp": "2026-01-08T19:22:40.957Z",
   "live": [
     {
       "username": "Kitboga",
@@ -20,6 +20,12 @@
       "started_at": "2026-01-08T16:47:08Z"
     },
     {
+      "username": "SciAnts_Streams",
+      "title": "Pokemon Legends - First Playthrough Day 2 | The science of Pokemon as we catch them all! | Partner+ 88/300 | !ppp !yt !pod",
+      "game": "Pokémon Legends: Z-A",
+      "started_at": "2026-01-08T18:57:42Z"
+    },
+    {
       "username": "oh_bother",
       "title": "Sim rig: CAN bus hacking, using node red?",
       "game": "Just Chatting",
@@ -32,22 +38,16 @@
       "started_at": "2026-01-08T10:04:04Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "Pokemon Legends - First Playthrough Day 2 | The science of Pokemon as we catch them all! | Partner+ 88/300 | !ppp !yt !pod",
-      "game": "Pokémon Legends: Z-A",
-      "started_at": "2026-01-08T18:57:42Z"
+      "username": "Rocketology",
+      "title": "First Look at Star Rupture!",
+      "game": "StarRupture",
+      "started_at": "2026-01-08T19:10:26Z"
     },
     {
       "username": "SydHeresy",
       "title": "Soldering The Day Away",
       "game": "Science & Technology",
       "started_at": "2026-01-08T19:09:59Z"
-    },
-    {
-      "username": "Rocketology",
-      "title": "First Look at Star Rupture!",
-      "game": "StarRupture",
-      "started_at": "2026-01-08T19:10:26Z"
     }
   ]
 }
