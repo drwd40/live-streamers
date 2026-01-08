@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-08T23:50:55.866Z",
+  "timestamp": "2026-01-08T23:57:07.835Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -32,6 +32,12 @@
       "started_at": "2026-01-08T18:57:42Z"
     },
     {
+      "username": "SydHeresy",
+      "title": "Soldering The Day Away",
+      "game": "Science & Technology",
+      "started_at": "2026-01-08T19:09:59Z"
+    },
+    {
       "username": "DrMick",
       "title": "Mental Health Chat & Painting 40k | !links",
       "game": "Miniatures & Models",
@@ -42,12 +48,6 @@
       "title": "Chill guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2026-01-08T23:04:25Z"
-    },
-    {
-      "username": "SydHeresy",
-      "title": "Soldering The Day Away",
-      "game": "Science & Technology",
-      "started_at": "2026-01-08T19:09:59Z"
     },
     {
       "username": "Rocketology",
