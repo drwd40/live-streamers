@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-08T21:09:39.163Z",
+  "timestamp": "2026-01-08T21:21:02.285Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,22 +26,28 @@
       "started_at": "2026-01-08T17:51:17Z"
     },
     {
-      "username": "Zachap",
-      "title": "People don't like Capitalism",
-      "game": "Just Chatting",
-      "started_at": "2026-01-08T10:04:04Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Soldering The Day Away",
       "game": "Science & Technology",
       "started_at": "2026-01-08T19:09:59Z"
     },
     {
+      "username": "Zachap",
+      "title": "People don't like Capitalism",
+      "game": "Just Chatting",
+      "started_at": "2026-01-08T10:04:04Z"
+    },
+    {
       "username": "Rocketology",
       "title": "First Look at Star Rupture!",
       "game": "StarRupture",
       "started_at": "2026-01-08T19:10:26Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "European horned dinosaurs?  Interviewing Prof. Susie Maidment on her new Ajkaceratops paper 📰💥 + Paleontology Q&A and Thursday BIRDSday",
+      "game": "Science & Technology",
+      "started_at": "2026-01-08T21:17:33Z"
     }
   ]
 }
