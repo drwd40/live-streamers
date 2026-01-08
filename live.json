@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-08T22:53:16.048Z",
+  "timestamp": "2026-01-08T22:59:18.899Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -50,6 +50,12 @@
       "started_at": "2026-01-08T19:10:26Z"
     },
     {
+      "username": "SETIInstitute",
+      "title": "What to Expect in Space Science 2026",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2026-01-08T22:30:57Z"
+    },
+    {
       "username": "AndrewHolding",
       "title": "[UK/USA] Science co-stream AMA, raising money to fight Cancer, with Whiskey, and Baldur's Gate 3",
       "game": "Baldur's Gate 3",
@@ -60,12 +66,6 @@
       "title": "Nine Sols, Night 19: Are we there, yet?",
       "game": "Nine Sols",
       "started_at": "2026-01-08T21:37:57Z"
-    },
-    {
-      "username": "SETIInstitute",
-      "title": "What to Expect in Space Science 2026",
-      "game": "Talk Shows & Podcasts",
-      "started_at": "2026-01-08T22:30:57Z"
     }
   ]
 }
