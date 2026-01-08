@@ -1,6 +1,12 @@
 {
-  "timestamp": "2026-01-08T01:42:51.365Z",
+  "timestamp": "2026-01-08T02:29:28.360Z",
   "live": [
+    {
+      "username": "AlveusSanctuary",
+      "title": "Chat Chats w/ Evan | !alveus !institute !pixel !schedule !video !feed",
+      "game": "Just Chatting",
+      "started_at": "2026-01-06T13:35:41Z"
+    },
     {
       "username": "EJ_SA",
       "title": "I think we have enough cash for an engine build attempt today! My Winter Car (Part 8)",
@@ -8,22 +14,10 @@
       "started_at": "2026-01-07T17:18:36Z"
     },
     {
-      "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
-      "game": "Animals, Aquariums, and Zoos",
-      "started_at": "2026-01-06T13:35:41Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "MINNESOTA ON EDGE AFTER ICE AGENT KILLS WOMAN",
       "game": "Just Chatting",
       "started_at": "2026-01-07T23:02:49Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "This guy *also* discovered evolution 🔎🐝 Celebrating ALFRED RUSSEL WALLACE's 203rd birthday and discussing his life & work",
-      "game": "Science & Technology",
-      "started_at": "2026-01-07T21:15:41Z"
     },
     {
       "username": "ipaintbirbs",
@@ -38,22 +32,34 @@
       "started_at": "2026-01-07T17:11:44Z"
     },
     {
+      "username": "Moohoodles",
+      "title": "🪐 Interview w/ Stefan Moluf on Kitten Space Agency! ✨ !guest !noalerts",
+      "game": "Science & Technology",
+      "started_at": "2026-01-08T02:06:58Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "Wacom Wednesday +  GALA ANNOUNCEMENT | Science art to excite the community--Samurai Jack | Partner+ 79/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2026-01-08T02:08:13Z"
+    },
+    {
       "username": "nogre0",
       "title": "needs more cowbell. new paper !we",
       "game": "Writing & Reading",
       "started_at": "2026-01-08T01:00:08Z"
     },
     {
-      "username": "pencenter",
-      "title": "Time to get a MANI... a mani-fold [!fish🎣|!commands💻]",
-      "game": "Math",
-      "started_at": "2026-01-07T23:21:55Z"
-    },
-    {
       "username": "SharkG33k",
       "title": "Water Wednesday | New 360 shipwreck dive video!",
       "game": "Science & Technology",
       "started_at": "2026-01-08T01:08:55Z"
+    },
+    {
+      "username": "CosmoQuestX",
+      "title": "EVSN Premiere: Astronomy Answers, \"What's that light?\"",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2026-01-08T01:55:27Z"
     }
   ]
 }
