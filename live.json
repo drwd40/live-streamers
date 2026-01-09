@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-09T19:56:28.963Z",
+  "timestamp": "2026-01-09T20:05:48.108Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "Fin Friday! Co working and games later",
       "game": "Co-working & Studying",
       "started_at": "2026-01-09T19:08:23Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀Rise of Piracy - Live Game Dev | !discord !streamers !MicroProse !steam",
+      "game": "Software and Game Development",
+      "started_at": "2026-01-09T19:59:38Z"
     }
   ]
 }
