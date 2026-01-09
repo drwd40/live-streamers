@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-09T19:06:56.115Z",
+  "timestamp": "2026-01-09T19:17:30.332Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "Day 2!",
       "game": "StarRupture",
       "started_at": "2026-01-09T18:59:37Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Fin Friday! Co working and games later",
+      "game": "Co-working & Studying",
+      "started_at": "2026-01-09T19:08:23Z"
     }
   ]
 }
