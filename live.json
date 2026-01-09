@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-09T00:45:08.938Z",
+  "timestamp": "2026-01-09T01:15:14.240Z",
   "live": [
-    {
-      "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
-      "game": "Animals, Aquariums, and Zoos",
-      "started_at": "2026-01-08T13:35:43Z"
-    },
     {
       "username": "EJ_SA",
       "title": "Car parts collecting! Attempt II (Part 2)",
       "game": "My Winter Car",
       "started_at": "2026-01-08T16:47:08Z"
+    },
+    {
+      "username": "AlveusSanctuary",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
+      "game": "Animals, Aquariums, and Zoos",
+      "started_at": "2026-01-08T13:35:43Z"
     },
     {
       "username": "imreallyimportant",
@@ -44,16 +44,22 @@
       "started_at": "2026-01-08T19:09:59Z"
     },
     {
-      "username": "DrMick",
-      "title": "Mental Health Chat & Painting 40k | !links",
-      "game": "Miniatures & Models",
-      "started_at": "2026-01-08T22:05:07Z"
-    },
-    {
       "username": "MelissaInDeNile",
       "title": "IT'S MY BIRTHDAY!!! Let's Play some Egypt Frontiers!! ~ Follower Goal: 2246/2300 ~ !socials !beyonddenile",
       "game": "Just Chatting",
       "started_at": "2026-01-09T00:19:53Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-01-09T01:02:06Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Puzzles, environmental advocacy and outreach open forum.",
+      "game": "Tanggle",
+      "started_at": "2026-01-09T01:14:47Z"
     }
   ]
 }
