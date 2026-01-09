@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-08T23:57:07.835Z",
+  "timestamp": "2026-01-09T00:24:11.500Z",
   "live": [
-    {
-      "username": "EJ_SA",
-      "title": "Car parts collecting! Attempt II (Part 2)",
-      "game": "My Winter Car",
-      "started_at": "2026-01-08T16:47:08Z"
-    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-01-08T13:35:43Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "Car parts collecting! Attempt II (Part 2)",
+      "game": "My Winter Car",
+      "started_at": "2026-01-08T16:47:08Z"
     },
     {
       "username": "imreallyimportant",
@@ -32,12 +32,6 @@
       "started_at": "2026-01-08T18:57:42Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Soldering The Day Away",
-      "game": "Science & Technology",
-      "started_at": "2026-01-08T19:09:59Z"
-    },
-    {
       "username": "DrMick",
       "title": "Mental Health Chat & Painting 40k | !links",
       "game": "Miniatures & Models",
@@ -50,22 +44,22 @@
       "started_at": "2026-01-08T23:04:25Z"
     },
     {
-      "username": "Rocketology",
-      "title": "First Look at Star Rupture!",
-      "game": "StarRupture",
-      "started_at": "2026-01-08T19:10:26Z"
-    },
-    {
-      "username": "AndrewHolding",
-      "title": "[UK/USA] Science co-stream AMA, raising money to fight Cancer, with Whiskey, and Baldur's Gate 3",
-      "game": "Baldur's Gate 3",
-      "started_at": "2026-01-08T21:28:28Z"
+      "username": "SydHeresy",
+      "title": "Soldering The Day Away",
+      "game": "Science & Technology",
+      "started_at": "2026-01-08T19:09:59Z"
     },
     {
       "username": "nSimplexPachinko",
       "title": "Nine Sols, Night 19: Are we there, yet?",
       "game": "Nine Sols",
       "started_at": "2026-01-08T21:37:57Z"
+    },
+    {
+      "username": "MelissaInDeNile",
+      "title": "IT'S MY BIRTHDAY!!! Let's Play some Egypt Frontiers!! ~ Follower Goal: 2246/2300 ~ !socials !beyonddenile",
+      "game": "Just Chatting",
+      "started_at": "2026-01-09T00:19:53Z"
     }
   ]
 }
