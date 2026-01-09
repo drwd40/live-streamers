@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-09T17:37:25.290Z",
+  "timestamp": "2026-01-09T17:46:59.032Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "We're on the moon!",
       "game": "Deliver Us The Moon",
       "started_at": "2026-01-09T15:01:35Z"
+    },
+    {
+      "username": "TominationTime",
+      "title": "🔴GENTLE PULL DAY + CARDIO🔴",
+      "game": "Fitness & Health",
+      "started_at": "2026-01-09T17:43:56Z"
     }
   ]
 }
