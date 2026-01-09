@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-01-09T20:30:03.960Z",
+  "timestamp": "2026-01-09T20:41:31.557Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Show and Tell | !alveus !institute !pixel !schedule !video !feed",
-      "game": "Just Chatting",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
+      "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-01-08T13:35:43Z"
     },
     {
@@ -12,12 +12,6 @@
       "title": "Feminist Bird Club 2026 Patch reveal!!!! :)",
       "game": "Art",
       "started_at": "2026-01-09T17:02:16Z"
-    },
-    {
-      "username": "AdamLearnsLive",
-      "title": "Prep (day 291) #gamedev #indiegame #roguelike",
-      "game": "Software and Game Development",
-      "started_at": "2026-01-09T16:29:56Z"
     },
     {
       "username": "Zachap",
@@ -42,6 +36,12 @@
       "title": "Fin Friday! Co working and games later",
       "game": "Co-working & Studying",
       "started_at": "2026-01-09T19:08:23Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Future of Science and Technology Q&A (January 9, 2026)",
+      "game": "Science & Technology",
+      "started_at": "2026-01-09T20:40:13Z"
     }
   ]
 }
