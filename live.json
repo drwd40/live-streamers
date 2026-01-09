@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-09T01:15:14.240Z",
+  "timestamp": "2026-01-09T01:58:47.481Z",
   "live": [
-    {
-      "username": "EJ_SA",
-      "title": "Car parts collecting! Attempt II (Part 2)",
-      "game": "My Winter Car",
-      "started_at": "2026-01-08T16:47:08Z"
-    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-01-08T13:35:43Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "Car parts collecting! Attempt II (Part 2)",
+      "game": "My Winter Car",
+      "started_at": "2026-01-08T16:47:08Z"
     },
     {
       "username": "imreallyimportant",
@@ -32,16 +32,16 @@
       "started_at": "2026-01-08T18:57:42Z"
     },
     {
-      "username": "shnaff",
-      "title": "Chill guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-01-08T23:04:25Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Soldering The Day Away",
       "game": "Science & Technology",
       "started_at": "2026-01-08T19:09:59Z"
+    },
+    {
+      "username": "shnaff",
+      "title": "Chill guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-01-08T23:04:25Z"
     },
     {
       "username": "MelissaInDeNile",
@@ -54,6 +54,12 @@
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Just Chatting",
       "started_at": "2026-01-09T01:02:06Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Jupiter is about as close as it gets - lets take a look!  PhD Astronomer.  Astronomy and Science! #science #space",
+      "game": "Science & Technology",
+      "started_at": "2026-01-09T01:46:45Z"
     },
     {
       "username": "SharkG33k",
