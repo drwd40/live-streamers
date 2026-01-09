@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-09T01:58:47.481Z",
+  "timestamp": "2026-01-09T02:47:52.227Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,22 +8,10 @@
       "started_at": "2026-01-08T13:35:43Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "Car parts collecting! Attempt II (Part 2)",
-      "game": "My Winter Car",
-      "started_at": "2026-01-08T16:47:08Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "NATIONAL GUARD CALLED UP IN MINNESOTA | SENATE PASSES WAR POWERS RESOLUTION TO CHECK TRUMP",
       "game": "Just Chatting",
       "started_at": "2026-01-08T23:01:31Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "European horned dinosaurs?  Interviewing Prof. Susie Maidment on her new Ajkaceratops paper 📰💥 + Paleontology Q&A and Thursday BIRDSday",
-      "game": "Science & Technology",
-      "started_at": "2026-01-08T21:17:33Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -32,22 +20,16 @@
       "started_at": "2026-01-08T18:57:42Z"
     },
     {
+      "username": "Nerduino",
+      "title": "Jupiter is about as close as it gets - lets take a look!  PhD Astronomer.  Astronomy and Science! #science #space",
+      "game": "Science & Technology",
+      "started_at": "2026-01-09T01:46:45Z"
+    },
+    {
       "username": "SydHeresy",
       "title": "Soldering The Day Away",
       "game": "Science & Technology",
       "started_at": "2026-01-08T19:09:59Z"
-    },
-    {
-      "username": "shnaff",
-      "title": "Chill guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-01-08T23:04:25Z"
-    },
-    {
-      "username": "MelissaInDeNile",
-      "title": "IT'S MY BIRTHDAY!!! Let's Play some Egypt Frontiers!! ~ Follower Goal: 2246/2300 ~ !socials !beyonddenile",
-      "game": "Just Chatting",
-      "started_at": "2026-01-09T00:19:53Z"
     },
     {
       "username": "ActualEducation",
@@ -56,16 +38,22 @@
       "started_at": "2026-01-09T01:02:06Z"
     },
     {
-      "username": "Nerduino",
-      "title": "Jupiter is about as close as it gets - lets take a look!  PhD Astronomer.  Astronomy and Science! #science #space",
-      "game": "Science & Technology",
-      "started_at": "2026-01-09T01:46:45Z"
+      "username": "MelissaInDeNile",
+      "title": "IT'S MY BIRTHDAY!!! Let's Play some Egypt Frontiers!! ~ Follower Goal: 2246/2300 ~ !socials !beyonddenile",
+      "game": "Just Chatting",
+      "started_at": "2026-01-09T00:19:53Z"
     },
     {
       "username": "SharkG33k",
       "title": "Puzzles, environmental advocacy and outreach open forum.",
       "game": "Tanggle",
       "started_at": "2026-01-09T01:14:47Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "30pm Shooting in Portland, using drones to study wildlife, and self-efficacy and secondary physical science.",
+      "game": "IRL",
+      "started_at": "2026-01-09T02:30:28Z"
     }
   ]
 }
