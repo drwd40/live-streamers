@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-09T23:35:11.412Z",
+  "timestamp": "2026-01-09T23:43:17.260Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,6 +26,12 @@
       "started_at": "2026-01-09T10:03:19Z"
     },
     {
+      "username": "shnaff",
+      "title": "Struggling to open pickle jars",
+      "game": "Music",
+      "started_at": "2026-01-09T23:01:17Z"
+    },
+    {
       "username": "DrawCuriosity",
       "title": "✨ SCIENCE NEWS - LATER LEGENDS ZA Doughnut Labour Camp (DLC) ✨🐑 !merch !dailybug !louse",
       "game": "Software and Game Development",
@@ -36,12 +42,6 @@
       "title": "Day 2!",
       "game": "StarRupture",
       "started_at": "2026-01-09T18:59:37Z"
-    },
-    {
-      "username": "shnaff",
-      "title": "Struggling to open pickle jars",
-      "game": "Music",
-      "started_at": "2026-01-09T23:01:17Z"
     },
     {
       "username": "nSimplexPachinko",
