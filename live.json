@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-10T18:54:40.189Z",
+  "timestamp": "2026-01-10T19:01:10.471Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-01-10T10:01:56Z"
     },
     {
-      "username": "DiatomsATTACK",
-      "title": "Looking at fossil diatoms on the SEM with Valya.",
-      "game": "Science & Technology",
-      "started_at": "2026-01-10T17:17:23Z"
-    },
-    {
       "username": "eToThe2iPi",
       "title": "Bring Your Questions: A Math Q&A",
       "game": "Math",
       "started_at": "2026-01-10T16:51:48Z"
+    },
+    {
+      "username": "DiatomsATTACK",
+      "title": "Looking at fossil diatoms on the SEM with Valya.",
+      "game": "Science & Technology",
+      "started_at": "2026-01-10T17:17:23Z"
     }
   ]
 }
