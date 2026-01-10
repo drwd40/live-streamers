@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-10T18:16:33.938Z",
+  "timestamp": "2026-01-10T18:30:58.470Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,22 @@
       "started_at": "2026-01-10T13:35:47Z"
     },
     {
+      "username": "ArchitectureTV",
+      "title": "TORONTO WE DID IT, WE R PARTNER 💜 historic and contemporary buildings | Architecture IRL",
+      "game": "IRL",
+      "started_at": "2026-01-10T18:03:27Z"
+    },
+    {
       "username": "Zachap",
       "title": "How does any of what is going on help anyone?",
       "game": "Just Chatting",
       "started_at": "2026-01-10T10:01:56Z"
     },
     {
-      "username": "ArchitectureTV",
-      "title": "TORONTO WE DID IT, WE R PARTNER 💜 historic and contemporary buildings | Architecture IRL",
-      "game": "IRL",
-      "started_at": "2026-01-10T18:03:27Z"
+      "username": "oh_bother",
+      "title": "Sim rig: rainy day CAN bus hacking!",
+      "game": "Just Chatting",
+      "started_at": "2026-01-10T17:44:30Z"
     },
     {
       "username": "DiatomsATTACK",
@@ -30,12 +36,6 @@
       "title": "Bring Your Questions: A Math Q&A",
       "game": "Math",
       "started_at": "2026-01-10T16:51:48Z"
-    },
-    {
-      "username": "oh_bother",
-      "title": "Sim rig: rainy day CAN bus hacking!",
-      "game": "Just Chatting",
-      "started_at": "2026-01-10T17:44:30Z"
     }
   ]
 }
