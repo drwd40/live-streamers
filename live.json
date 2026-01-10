@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-10T20:32:36.935Z",
+  "timestamp": "2026-01-10T20:41:15.906Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,28 +20,22 @@
       "started_at": "2026-01-10T18:03:27Z"
     },
     {
-      "username": "DiatomsATTACK",
-      "title": "Looking at fossil diatoms on the SEM with Valya.",
-      "game": "Science & Technology",
-      "started_at": "2026-01-10T17:17:23Z"
-    },
-    {
       "username": "Zachap",
       "title": "How does any of what is going on help anyone?",
       "game": "Just Chatting",
       "started_at": "2026-01-10T10:01:56Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and learning about x's and o's (and little oh's and big oh's)",
-      "game": "Math",
-      "started_at": "2026-01-10T20:10:03Z"
-    },
-    {
       "username": "Rocketology",
       "title": "I Like This Game! From the Beginning!",
       "game": "StarRupture",
       "started_at": "2026-01-10T19:12:21Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and learning about x's and o's (and little oh's and big oh's)",
+      "game": "Math",
+      "started_at": "2026-01-10T20:10:03Z"
     }
   ]
 }
