@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-10T19:09:52.956Z",
+  "timestamp": "2026-01-10T19:20:00.002Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "Bring Your Questions: A Math Q&A",
       "game": "Math",
       "started_at": "2026-01-10T16:51:48Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "I Like This Game! From the Beginning!",
+      "game": "StarRupture",
+      "started_at": "2026-01-10T19:12:21Z"
     }
   ]
 }
