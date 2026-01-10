@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-10T17:44:25.245Z",
+  "timestamp": "2026-01-10T17:50:26.681Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "Bring Your Questions: A Math Q&A",
       "game": "Math",
       "started_at": "2026-01-10T16:51:48Z"
+    },
+    {
+      "username": "oh_bother",
+      "title": "Sim rig: rainy day CAN bus hacking!",
+      "game": "Just Chatting",
+      "started_at": "2026-01-10T17:44:30Z"
     }
   ]
 }
