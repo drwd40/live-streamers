@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-10T18:05:36.056Z",
+  "timestamp": "2026-01-10T18:16:33.938Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,10 +14,10 @@
       "started_at": "2026-01-10T10:01:56Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Bring Your Questions: A Math Q&A",
-      "game": "Math",
-      "started_at": "2026-01-10T16:51:48Z"
+      "username": "ArchitectureTV",
+      "title": "TORONTO WE DID IT, WE R PARTNER 💜 historic and contemporary buildings | Architecture IRL",
+      "game": "IRL",
+      "started_at": "2026-01-10T18:03:27Z"
     },
     {
       "username": "DiatomsATTACK",
@@ -26,16 +26,16 @@
       "started_at": "2026-01-10T17:17:23Z"
     },
     {
+      "username": "eToThe2iPi",
+      "title": "Bring Your Questions: A Math Q&A",
+      "game": "Math",
+      "started_at": "2026-01-10T16:51:48Z"
+    },
+    {
       "username": "oh_bother",
       "title": "Sim rig: rainy day CAN bus hacking!",
       "game": "Just Chatting",
       "started_at": "2026-01-10T17:44:30Z"
-    },
-    {
-      "username": "ArchitectureTV",
-      "title": "TORONTO WE DID IT, WE R PARTNER 💜 historic and contemporary buildings | Architecture IRL",
-      "game": "IRL",
-      "started_at": "2026-01-10T18:03:27Z"
     }
   ]
 }
