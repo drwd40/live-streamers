@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-10T23:29:25.376Z",
+  "timestamp": "2026-01-10T23:37:40.066Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "Answering your math questions and learning about x's and o's (and little oh's and big oh's)",
       "game": "Math",
       "started_at": "2026-01-10T20:10:03Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Saturday Solderday",
+      "game": "Science & Technology",
+      "started_at": "2026-01-10T23:30:25Z"
     }
   ]
 }
