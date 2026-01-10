@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-10T03:08:12.226Z",
+  "timestamp": "2026-01-10T03:40:45.342Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-01-08T13:35:43Z"
     },
     {
-      "username": "AstroCanuck",
-      "title": "Week's End Catch-Up: Space Happenings, Plus LEGO R2D2 gets lighter | !giveaway | !drop !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-01-10T01:06:45Z"
-    },
-    {
       "username": "Moohoodles",
       "title": "🪐 Space Events for 2026! ✨ Fundraising + new emote slot soon?!",
       "game": "Science & Technology",
       "started_at": "2026-01-10T02:18:31Z"
+    },
+    {
+      "username": "AstroCanuck",
+      "title": "Week's End Catch-Up: Space Happenings, Plus LEGO R2D2 gets lighter | !giveaway | !drop !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-01-10T01:06:45Z"
     }
   ]
 }
