@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-10T00:42:02.636Z",
+  "timestamp": "2026-01-10T01:10:48.266Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,12 +20,6 @@
       "started_at": "2026-01-09T20:42:57Z"
     },
     {
-      "username": "Zachap",
-      "title": "Capitalism Kills.",
-      "game": "Just Chatting",
-      "started_at": "2026-01-09T10:03:19Z"
-    },
-    {
       "username": "shnaff",
       "title": "Struggling to open pickle jars",
       "game": "Music",
@@ -36,6 +30,12 @@
       "title": "Against the Storm, Night 26: Collecting Gold Seal Fragments with EVENTS!",
       "game": "Against the Storm",
       "started_at": "2026-01-09T22:18:01Z"
+    },
+    {
+      "username": "AstroCanuck",
+      "title": "Week's End Catch-Up: Space Happenings, Plus LEGO R2D2 gets lighter | !giveaway | !drop !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-01-10T01:06:45Z"
     }
   ]
 }
