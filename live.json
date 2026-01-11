@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-11T07:32:03.266Z",
+  "timestamp": "2026-01-11T07:40:07.387Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-01-11T05:30:53Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Saturday Solderday",
-      "game": "Science & Technology",
-      "started_at": "2026-01-10T23:30:25Z"
-    },
-    {
       "username": "Nerduino",
       "title": "Orion Nebula - Bonus Stream!  Live Astronomy!!!  PhD Astronomer.  Astronomy and Science! #science #space",
       "game": "Science & Technology",
       "started_at": "2026-01-11T05:22:51Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Saturday Solderday",
+      "game": "Science & Technology",
+      "started_at": "2026-01-10T23:30:25Z"
     },
     {
       "username": "happyknightmares",
