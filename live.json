@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-11T02:59:12.869Z",
+  "timestamp": "2026-01-11T03:40:25.801Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "More multi-world sheenanigans with @sexydexy @leonard317 [!fish🎣|!commands💻]",
       "game": "The Legend of Zelda: A Link to the Past",
       "started_at": "2026-01-11T00:12:58Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Self-efficiacy in high school students, using drones to study wildlife health, and who is Rachel Celler?",
+      "game": "IRL",
+      "started_at": "2026-01-11T03:00:12Z"
     }
   ]
 }
