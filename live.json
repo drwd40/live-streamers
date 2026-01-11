@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-11T19:35:32.176Z",
+  "timestamp": "2026-01-11T19:42:17.288Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "Bruships 227: Naval History Questions Answered Live...",
       "game": "Just Chatting",
       "started_at": "2026-01-11T19:30:22Z"
+    },
+    {
+      "username": "PotteryDojo",
+      "title": "Pottery: Making Bonsai Pots | Throwing | Batch # 18 | Batch Total: 30",
+      "game": "Art",
+      "started_at": "2026-01-11T19:37:59Z"
     }
   ]
 }
