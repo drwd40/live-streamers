@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-11T05:15:56.545Z",
+  "timestamp": "2026-01-11T05:29:37.570Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,22 @@
       "started_at": "2026-01-10T23:30:25Z"
     },
     {
+      "username": "Nerduino",
+      "title": "Bonus Stream!  Imaging Jupiter Live!!!  PhD Astronomer.  Astronomy and Science! #science #space",
+      "game": "Science & Technology",
+      "started_at": "2026-01-11T05:22:51Z"
+    },
+    {
       "username": "TominationTime",
       "title": "🔴WAIFU LEARNS WHERE DO THE WINDS BLOW?🔴",
       "game": "Where Winds Meet",
       "started_at": "2026-01-11T05:07:27Z"
     },
     {
-      "username": "walkingsticklibrary",
-      "title": "Self-efficiacy in high school students, using drones to study wildlife health, and who is Rachel Celler?",
-      "game": "IRL",
-      "started_at": "2026-01-11T03:00:12Z"
+      "username": "happyknightmares",
+      "title": "Studying synesthesia and co-working! 🎨🧠",
+      "game": "Science & Technology",
+      "started_at": "2026-01-11T05:21:45Z"
     }
   ]
 }
