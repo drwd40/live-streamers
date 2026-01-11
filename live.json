@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-11T06:08:46.299Z",
+  "timestamp": "2026-01-11T06:20:53.653Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-01-11T05:30:53Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Saturday Solderday",
-      "game": "Science & Technology",
-      "started_at": "2026-01-10T23:30:25Z"
-    },
-    {
       "username": "Nerduino",
       "title": "Bonus Stream!  Imaging Jupiter Live!!!  PhD Astronomer.  Astronomy and Science! #science #space",
       "game": "Science & Technology",
       "started_at": "2026-01-11T05:22:51Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Saturday Solderday",
+      "game": "Science & Technology",
+      "started_at": "2026-01-10T23:30:25Z"
     },
     {
       "username": "TominationTime",
