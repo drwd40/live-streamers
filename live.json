@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-11T16:43:50.991Z",
+  "timestamp": "2026-01-11T16:52:15.803Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "DayZ Crafting: Learning to make things | 100 Hours in DayZ | New Points Redeem: Name a Plant :D (I got a new one!)",
       "game": "DayZ",
       "started_at": "2026-01-11T15:06:53Z"
+    },
+    {
+      "username": "AcademyOfUselessIdeas",
+      "title": "Attempting math! (Can math find me love?)",
+      "game": "Math",
+      "started_at": "2026-01-11T16:43:57Z"
     }
   ]
 }
