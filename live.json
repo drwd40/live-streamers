@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-11T18:33:30.753Z",
+  "timestamp": "2026-01-11T18:46:30.729Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "Attempting math! (Can math find me love?)",
       "game": "Math",
       "started_at": "2026-01-11T16:43:57Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "Episode 2",
+      "game": "StarRupture",
+      "started_at": "2026-01-11T18:34:49Z"
     }
   ]
 }
