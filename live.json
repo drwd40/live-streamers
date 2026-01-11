@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-11T18:55:06.504Z",
+  "timestamp": "2026-01-11T19:01:23.110Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-01-11T15:04:10Z"
     },
     {
-      "username": "ArchitectureTV",
-      "title": "SNOW canadian town 💜 historic and contemporary buildings | Architecture IRL",
-      "game": "IRL",
-      "started_at": "2026-01-11T15:20:04Z"
-    },
-    {
       "username": "Zachap",
       "title": "TRUMP PROTESTING ACAB VENEZUELA CHINA GREENLAND DRUGS PALESTINE COMMUNISM EDUCATION AI ARTIFICIAL INTELLIGENCE CLIMATE CHANGE UNBOXING NEWS",
       "game": "Just Chatting",
       "started_at": "2026-01-11T10:01:23Z"
+    },
+    {
+      "username": "ArchitectureTV",
+      "title": "SNOW canadian town 💜 historic and contemporary buildings | Architecture IRL",
+      "game": "IRL",
+      "started_at": "2026-01-11T15:20:04Z"
     },
     {
       "username": "LumiRue",
@@ -32,16 +32,16 @@
       "started_at": "2026-01-11T15:06:53Z"
     },
     {
-      "username": "AcademyOfUselessIdeas",
-      "title": "Attempting math! (Can math find me love?)",
-      "game": "Math",
-      "started_at": "2026-01-11T16:43:57Z"
-    },
-    {
       "username": "Rocketology",
       "title": "Episode 2",
       "game": "StarRupture",
       "started_at": "2026-01-11T18:34:49Z"
+    },
+    {
+      "username": "AcademyOfUselessIdeas",
+      "title": "Attempting math! (Can math find me love?)",
+      "game": "Math",
+      "started_at": "2026-01-11T16:43:57Z"
     }
   ]
 }
