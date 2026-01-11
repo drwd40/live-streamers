@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-01-11T22:08:01.133Z",
+  "timestamp": "2026-01-11T22:18:43.632Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-01-10T13:35:47Z"
-    },
-    {
-      "username": "AstroCanuck",
-      "title": "Lazy Sunday LEGO: Technic !Artemis Rocket to be built live with !NASA on Thursday | !giveaway Jan 25 | !drop !tkf",
-      "game": "Lego & Brickbuilding",
-      "started_at": "2026-01-11T15:04:10Z"
     },
     {
       "username": "Zachap",
@@ -32,12 +26,6 @@
       "started_at": "2026-01-11T18:34:49Z"
     },
     {
-      "username": "DrAlexanderClarke",
-      "title": "Bruships 227: Naval History Questions Answered Live...",
-      "game": "Just Chatting",
-      "started_at": "2026-01-11T19:30:22Z"
-    },
-    {
       "username": "PotteryDojo",
       "title": "Pottery: Making Bonsai Pots | Hand Building | Batch # 18 | Batch Total: 30",
       "game": "Art",
@@ -48,6 +36,12 @@
       "title": "Back from Holiday Break |🌋 Science Sunday | !phd !tkf !socials !pubs",
       "game": "Just Chatting",
       "started_at": "2026-01-11T22:04:21Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "Bruships 227: Naval History Questions Answered Live...",
+      "game": "Just Chatting",
+      "started_at": "2026-01-11T19:30:22Z"
     }
   ]
 }
