@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-12T22:06:59.679Z",
+  "timestamp": "2026-01-12T22:20:06.488Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -45,9 +45,15 @@
     },
     {
       "username": "PotteryDojo",
-      "title": "Pottery: Making Bonsai Pots | Foot Stream | Batch # 18 | Batch Total: 30",
+      "title": "Pottery: Making Bonsai Pots | Throwing | Batch # 18 | Batch Total: 30",
       "game": "Art",
       "started_at": "2026-01-12T20:08:23Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Math Communication Monday! Seeing if we can find some more educational practices to query.",
+      "game": "Math",
+      "started_at": "2026-01-12T22:10:20Z"
     }
   ]
 }
