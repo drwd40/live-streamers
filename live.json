@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-12T21:14:01.449Z",
+  "timestamp": "2026-01-12T21:26:29.177Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,12 +20,6 @@
       "started_at": "2026-01-12T20:00:45Z"
     },
     {
-      "username": "DrWD40",
-      "title": "Live Coverage: SpaceX Falcon 9 Starlink 6-97 Launch | Space Coast, FL",
-      "game": "IRL",
-      "started_at": "2026-01-12T20:40:33Z"
-    },
-    {
       "username": "Zachap",
       "title": "Asmongold doesn't know political theory/philosophy to any capacity nor has analysis about the data on anything",
       "game": "Just Chatting",
@@ -42,6 +36,12 @@
       "title": "Trying to Build Quiz Show Software: Sixteen",
       "game": "Software and Game Development",
       "started_at": "2026-01-12T18:52:03Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "PALEONTOLOGY Q&A 🦕❔💬✅ Ask your best natural history questions about dinosaurs, the fossil record, extinction, evolution, or whatever else",
+      "game": "Science & Technology",
+      "started_at": "2026-01-12T21:21:57Z"
     },
     {
       "username": "PotteryDojo",
