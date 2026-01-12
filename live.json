@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-12T01:31:26.642Z",
+  "timestamp": "2026-01-12T02:22:20.313Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,10 @@
       "started_at": "2026-01-10T13:35:47Z"
     },
     {
-      "username": "shnaff",
-      "title": "Chill instrumental music",
-      "game": "Music",
-      "started_at": "2026-01-11T23:05:39Z"
-    },
-    {
-      "username": "nogre0",
-      "title": "time & fragmentalism. new paper !we",
-      "game": "Just Chatting",
-      "started_at": "2026-01-12T01:00:16Z"
+      "username": "SciAnts_Streams",
+      "title": "SciAnts Sunday | Hunting tiny worlds in Grounded 2 and chatting science | Partner+ 122/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2026-01-12T01:58:20Z"
     },
     {
       "username": "ActualEducation",
@@ -30,6 +24,12 @@
       "title": "Entering a Fugue State - Teacher Plays: Honkai Star Rail!",
       "game": "Honkai: Star Rail",
       "started_at": "2026-01-12T01:11:39Z"
+    },
+    {
+      "username": "nogre0",
+      "title": "time & fragmentalism. new paper !we",
+      "game": "Just Chatting",
+      "started_at": "2026-01-12T01:00:16Z"
     }
   ]
 }
