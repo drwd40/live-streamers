@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-12T02:22:20.313Z",
+  "timestamp": "2026-01-12T03:08:35.715Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,6 +14,12 @@
       "started_at": "2026-01-12T01:58:20Z"
     },
     {
+      "username": "nogre0",
+      "title": "time & fragmentalism. new paper !we",
+      "game": "Just Chatting",
+      "started_at": "2026-01-12T01:00:16Z"
+    },
+    {
       "username": "ActualEducation",
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Just Chatting",
@@ -26,10 +32,16 @@
       "started_at": "2026-01-12T01:11:39Z"
     },
     {
-      "username": "nogre0",
-      "title": "time & fragmentalism. new paper !we",
-      "game": "Just Chatting",
-      "started_at": "2026-01-12T01:00:16Z"
+      "username": "happyknightmares",
+      "title": "Studying synesthesia and co-working! 🎨🧠",
+      "game": "Science & Technology",
+      "started_at": "2026-01-12T02:43:55Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "The Jello Trick. Who is Rachel Celler, and the physiology of whale strandings.",
+      "game": "IRL",
+      "started_at": "2026-01-12T02:30:17Z"
     }
   ]
 }
