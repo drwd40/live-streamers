@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-12T18:56:57.427Z",
+  "timestamp": "2026-01-12T19:06:53.434Z",
   "live": [
     {
       "username": "Maya",
@@ -44,16 +44,16 @@
       "started_at": "2026-01-12T18:51:11Z"
     },
     {
-      "username": "AcademyOfUselessIdeas",
-      "title": "Attempting math! (Can money buy me math?)",
-      "game": "Math",
-      "started_at": "2026-01-12T17:01:45Z"
-    },
-    {
       "username": "eToThe2iPi",
       "title": "Trying to Build Quiz Show Software: Sixteen",
       "game": "Software and Game Development",
       "started_at": "2026-01-12T18:52:03Z"
+    },
+    {
+      "username": "AcademyOfUselessIdeas",
+      "title": "Attempting math! (Can money buy me math?)",
+      "game": "Math",
+      "started_at": "2026-01-12T17:01:45Z"
     }
   ]
 }
