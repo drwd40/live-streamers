@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-12T21:26:29.177Z",
+  "timestamp": "2026-01-12T21:36:33.732Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "EJ's Space and Rocket Revue! 1/12/26",
       "game": "Science & Technology",
       "started_at": "2026-01-12T16:58:52Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "PALEONTOLOGY Q&A 🦕❔💬✅ Ask your best natural history questions about dinosaurs, the fossil record, extinction, evolution, or whatever else",
+      "game": "Science & Technology",
+      "started_at": "2026-01-12T21:21:57Z"
     },
     {
       "username": "IrishJohnGames",
@@ -36,12 +42,6 @@
       "title": "Trying to Build Quiz Show Software: Sixteen",
       "game": "Software and Game Development",
       "started_at": "2026-01-12T18:52:03Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "PALEONTOLOGY Q&A 🦕❔💬✅ Ask your best natural history questions about dinosaurs, the fossil record, extinction, evolution, or whatever else",
-      "game": "Science & Technology",
-      "started_at": "2026-01-12T21:21:57Z"
     },
     {
       "username": "PotteryDojo",
