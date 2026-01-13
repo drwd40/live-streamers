@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-13T22:56:09.863Z",
+  "timestamp": "2026-01-13T23:04:08.532Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "Answering your math questions and doing homework",
       "game": "Math",
       "started_at": "2026-01-13T21:34:48Z"
+    },
+    {
+      "username": "shnaff",
+      "title": "Chill guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-01-13T23:01:04Z"
     },
     {
       "username": "eToThe2iPi",
