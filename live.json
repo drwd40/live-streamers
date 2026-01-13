@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-13T20:00:50.151Z",
+  "timestamp": "2026-01-13T20:11:05.215Z",
   "live": [
     {
       "username": "Kitboga",
@@ -36,6 +36,12 @@
       "title": "Tuesday January 13th @ 2:30 pm EST: Lunar or Solar: Which Calendar Worked Best?",
       "game": "Science & Technology",
       "started_at": "2026-01-13T19:31:00Z"
+    },
+    {
+      "username": "xTalkProgrammer",
+      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
+      "game": "Just Chatting",
+      "started_at": "2026-01-13T20:09:28Z"
     }
   ]
 }
