@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-13T05:56:31.720Z",
+  "timestamp": "2026-01-13T06:06:57.727Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "Tamil Movie Night! - Movie Name: Sketch",
       "game": "Just Chatting",
       "started_at": "2026-01-13T04:31:47Z"
+    },
+    {
+      "username": "happyknightmares",
+      "title": "Studying synesthesia and co-working! 🎨🧠 May ignore chat somewhat during work periods",
+      "game": "Science & Technology",
+      "started_at": "2026-01-13T06:02:40Z"
     }
   ]
 }
