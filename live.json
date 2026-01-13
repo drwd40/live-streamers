@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-13T23:04:08.532Z",
+  "timestamp": "2026-01-13T23:13:58.792Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,12 +20,6 @@
       "started_at": "2026-01-13T10:01:31Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and doing homework",
-      "game": "Math",
-      "started_at": "2026-01-13T21:34:48Z"
-    },
-    {
       "username": "shnaff",
       "title": "Chill guitar, piano, and singing in !stereo🎧",
       "game": "Music",
@@ -36,6 +30,12 @@
       "title": "Algebra: Dots and Boxes, a Discussion",
       "game": "Math",
       "started_at": "2026-01-13T22:52:12Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and doing homework",
+      "game": "Math",
+      "started_at": "2026-01-13T21:34:48Z"
     },
     {
       "username": "nSimplexPachinko",
