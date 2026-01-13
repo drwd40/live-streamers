@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-13T01:02:42.609Z",
+  "timestamp": "2026-01-13T01:40:40.537Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,28 +26,22 @@
       "started_at": "2026-01-12T22:59:37Z"
     },
     {
-      "username": "Zachap",
-      "title": "Asmongold doesn't know political theory/philosophy to any capacity nor has analysis about the data on anything",
-      "game": "Just Chatting",
-      "started_at": "2026-01-12T10:04:13Z"
-    },
-    {
       "username": "DrawCuriosity",
-      "title": "✨D20 rolls Come get your daily bugs! ✨🐑 !merch !dailybug !louse",
-      "game": "Just Chatting",
+      "title": "✨Connections and other Misc games! Come get your daily bugs! ✨🐑 !merch !dailybug !louse",
+      "game": "Games + Demos",
       "started_at": "2026-01-12T21:00:19Z"
-    },
-    {
-      "username": "nSimplexPachinko",
-      "title": "Math Communication Monday! Seeing if we can find some more educational practices to query.",
-      "game": "Math",
-      "started_at": "2026-01-12T22:10:20Z"
     },
     {
       "username": "ActualEducation",
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Just Chatting",
       "started_at": "2026-01-13T01:02:15Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Grizzly polar bear relations and hybrids, and Luk Thep dolls.",
+      "game": "IRL",
+      "started_at": "2026-01-13T01:30:26Z"
     }
   ]
 }
