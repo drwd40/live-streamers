@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-14T04:38:19.256Z",
+  "timestamp": "2026-01-14T04:55:25.607Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,6 +32,12 @@
       "started_at": "2026-01-14T00:19:50Z"
     },
     {
+      "username": "DrMick",
+      "title": "Heels vs. Bullies",
+      "game": "Sports",
+      "started_at": "2026-01-14T04:35:34Z"
+    },
+    {
       "username": "ActualEducation",
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Just Chatting",
@@ -42,12 +48,6 @@
       "title": "My GP6PD scare, feline infectious peritonitis roulette, and Luk Thep dolls.",
       "game": "IRL",
       "started_at": "2026-01-14T02:30:13Z"
-    },
-    {
-      "username": "DrMick",
-      "title": "Heels vs. Bullies",
-      "game": "Sports",
-      "started_at": "2026-01-14T04:35:34Z"
     }
   ]
 }
