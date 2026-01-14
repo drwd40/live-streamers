@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-14T21:39:58.655Z",
+  "timestamp": "2026-01-14T21:48:22.761Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -44,16 +44,16 @@
       "started_at": "2026-01-14T20:42:06Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Improving Math Curriculum: Differential Equations",
-      "game": "Math",
-      "started_at": "2026-01-14T18:54:33Z"
-    },
-    {
       "username": "DrAlexanderClarke",
       "title": "134yrs of evolution: How a Destroyer's Role has evolved from as envisaged in 1892 to 2026",
       "game": "Just Chatting",
       "started_at": "2026-01-14T19:35:06Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Improving Math Curriculum: Differential Equations",
+      "game": "Math",
+      "started_at": "2026-01-14T18:54:33Z"
     }
   ]
 }
