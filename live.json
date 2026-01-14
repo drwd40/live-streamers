@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-14T20:08:48.473Z",
+  "timestamp": "2026-01-14T20:19:51.661Z",
   "live": [
     {
       "username": "Maya",
@@ -26,10 +26,10 @@
       "started_at": "2026-01-14T10:03:33Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 962: Language Design in Wolfram Language [Piecewise, SolveValues and more]",
-      "game": "Science & Technology",
-      "started_at": "2026-01-14T19:22:47Z"
+      "username": "PotteryDojo",
+      "title": "Pottery: Making Bonsai Pots | Throwing | Batch # 18 | Batch Total: 30",
+      "game": "Art",
+      "started_at": "2026-01-14T19:27:05Z"
     },
     {
       "username": "eToThe2iPi",
@@ -42,12 +42,6 @@
       "title": "134yrs of evolution: How a Destroyer's Role has evolved from as envisaged in 1892 to 2026",
       "game": "Just Chatting",
       "started_at": "2026-01-14T19:35:06Z"
-    },
-    {
-      "username": "PotteryDojo",
-      "title": "Pottery: Making Bonsai Pots | Throwing | Batch # 18 | Batch Total: 30",
-      "game": "Art",
-      "started_at": "2026-01-14T19:27:05Z"
     }
   ]
 }
