@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-14T21:48:22.761Z",
+  "timestamp": "2026-01-14T21:55:03.790Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,10 +38,10 @@
       "started_at": "2026-01-14T20:54:23Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Business, Innovation and Managing Life (January 14, 2026)",
-      "game": "Science & Technology",
-      "started_at": "2026-01-14T20:42:06Z"
+      "username": "eToThe2iPi",
+      "title": "Improving Math Curriculum: Differential Equations",
+      "game": "Math",
+      "started_at": "2026-01-14T18:54:33Z"
     },
     {
       "username": "DrAlexanderClarke",
@@ -50,10 +50,10 @@
       "started_at": "2026-01-14T19:35:06Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Improving Math Curriculum: Differential Equations",
-      "game": "Math",
-      "started_at": "2026-01-14T18:54:33Z"
+      "username": "SharkG33k",
+      "title": "🦈Water Wednesday! Tiger and hammerhead shark showdown! 🦈",
+      "game": "Science & Technology",
+      "started_at": "2026-01-14T21:50:27Z"
     }
   ]
 }
