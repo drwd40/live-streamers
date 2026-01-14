@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-14T19:32:42.392Z",
+  "timestamp": "2026-01-14T19:40:28.258Z",
   "live": [
     {
       "username": "Maya",
@@ -26,16 +26,22 @@
       "started_at": "2026-01-14T10:03:33Z"
     },
     {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 962: Language Design in Wolfram Language [Piecewise, SolveValues and more]",
+      "game": "Science & Technology",
+      "started_at": "2026-01-14T19:22:47Z"
+    },
+    {
       "username": "eToThe2iPi",
       "title": "Improving Math Curriculum: Differential Equations",
       "game": "Math",
       "started_at": "2026-01-14T18:54:33Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 962: Design Review of NotebookTheme",
-      "game": "Science & Technology",
-      "started_at": "2026-01-14T19:22:47Z"
+      "username": "DrAlexanderClarke",
+      "title": "134yrs of evolution: How a Destroyer's Role has evolved from as envisaged in 1892 to 2026",
+      "game": "Just Chatting",
+      "started_at": "2026-01-14T19:35:06Z"
     },
     {
       "username": "PotteryDojo",
