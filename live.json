@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-14T19:12:05.515Z",
+  "timestamp": "2026-01-14T19:23:37.789Z",
   "live": [
     {
       "username": "Maya",
@@ -30,6 +30,12 @@
       "title": "Improving Math Curriculum: Differential Equations",
       "game": "Math",
       "started_at": "2026-01-14T18:54:33Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 962: Design Review of NotebookTheme",
+      "game": "Science & Technology",
+      "started_at": "2026-01-14T19:22:47Z"
     }
   ]
 }
