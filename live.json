@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-14T19:23:37.789Z",
+  "timestamp": "2026-01-14T19:32:42.392Z",
   "live": [
     {
       "username": "Maya",
@@ -9,8 +9,8 @@
     },
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
-      "game": "Animals, Aquariums, and Zoos",
+      "title": "Projects w/ Dan | !alveus !institute !pixel !schedule !video !feed",
+      "game": "Just Chatting",
       "started_at": "2026-01-14T13:35:51Z"
     },
     {
@@ -36,6 +36,12 @@
       "title": "Live CEOing Ep 962: Design Review of NotebookTheme",
       "game": "Science & Technology",
       "started_at": "2026-01-14T19:22:47Z"
+    },
+    {
+      "username": "PotteryDojo",
+      "title": "Pottery: Making Bonsai Pots | Throwing | Batch # 18 | Batch Total: 30",
+      "game": "Art",
+      "started_at": "2026-01-14T19:27:05Z"
     }
   ]
 }
