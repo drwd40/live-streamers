@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-14T20:57:12.715Z",
+  "timestamp": "2026-01-14T21:06:09.963Z",
   "live": [
     {
       "username": "Maya",
@@ -26,16 +26,16 @@
       "started_at": "2026-01-14T10:03:33Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Improving Math Curriculum: Differential Equations",
-      "game": "Math",
-      "started_at": "2026-01-14T18:54:33Z"
-    },
-    {
       "username": "DrawCuriosity",
-      "title": "✨Science & Z-A Doughnut Labour Camp (DLC)! Come get your daily bugs! ✨🐑 !merch !dailybug !louse",
+      "title": "✨[COSPLAY STREAM] Science & Z-A Doughnut Labour Camp (DLC)! Come get your daily bugs! ✨🐑 !merch !dailybug !louse",
       "game": "Science & Technology",
       "started_at": "2026-01-14T20:54:23Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀Rise of Piracy - Live Game Dev! | !ppp (33 / 100) !discord !streamers !MicroProse !steam",
+      "game": "Software and Game Development",
+      "started_at": "2026-01-14T20:59:28Z"
     },
     {
       "username": "Stephen_Wolfram",
@@ -44,16 +44,16 @@
       "started_at": "2026-01-14T20:42:06Z"
     },
     {
+      "username": "eToThe2iPi",
+      "title": "Improving Math Curriculum: Differential Equations",
+      "game": "Math",
+      "started_at": "2026-01-14T18:54:33Z"
+    },
+    {
       "username": "DrAlexanderClarke",
       "title": "134yrs of evolution: How a Destroyer's Role has evolved from as envisaged in 1892 to 2026",
       "game": "Just Chatting",
       "started_at": "2026-01-14T19:35:06Z"
-    },
-    {
-      "username": "PotteryDojo",
-      "title": "Pottery: Making Bonsai Pots | Throwing | Batch # 18 | Batch Total: 30",
-      "game": "Art",
-      "started_at": "2026-01-14T19:27:05Z"
     }
   ]
 }
