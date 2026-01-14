@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-14T21:55:03.790Z",
+  "timestamp": "2026-01-14T22:01:37.402Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,28 +20,22 @@
       "started_at": "2026-01-14T21:06:32Z"
     },
     {
-      "username": "IrishJohnGames",
-      "title": "🍀Rise of Piracy - Live Game Dev! | !ppp (33 / 100) !discord !streamers !MicroProse !steam",
-      "game": "Software and Game Development",
-      "started_at": "2026-01-14T20:59:28Z"
-    },
-    {
       "username": "Zachap",
       "title": "Central_Committee / Mike From PA is a fascist opportunist RadLib that Defunded the political movement",
       "game": "Just Chatting",
       "started_at": "2026-01-14T10:03:33Z"
     },
     {
+      "username": "IrishJohnGames",
+      "title": "🍀Rise of Piracy - Live Game Dev! | !ppp (33 / 100) !discord !streamers !MicroProse !steam",
+      "game": "Software and Game Development",
+      "started_at": "2026-01-14T20:59:28Z"
+    },
+    {
       "username": "DrawCuriosity",
       "title": "✨[COSPLAY STREAM] Science & Z-A Doughnut Labour Camp (DLC)! Come get your daily bugs! ✨🐑 !merch !dailybug !louse",
       "game": "Science & Technology",
       "started_at": "2026-01-14T20:54:23Z"
-    },
-    {
-      "username": "eToThe2iPi",
-      "title": "Improving Math Curriculum: Differential Equations",
-      "game": "Math",
-      "started_at": "2026-01-14T18:54:33Z"
     },
     {
       "username": "DrAlexanderClarke",
@@ -54,6 +48,12 @@
       "title": "🦈Water Wednesday! Tiger and hammerhead shark showdown! 🦈",
       "game": "Science & Technology",
       "started_at": "2026-01-14T21:50:27Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "More manifold shenanigans with @the_kahler_cone @academyofuselessideas [!fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-01-14T22:00:14Z"
     }
   ]
 }
