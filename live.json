@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-14T04:19:56.092Z",
+  "timestamp": "2026-01-14T04:38:19.256Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -21,7 +21,7 @@
     },
     {
       "username": "Nerduino",
-      "title": "Science and Space News.   Live Astronomy - galaxy hunting!!!  PhD Astronomer.  #science #space",
+      "title": "Live Imaging the Andromeda Galaxy  PhD Astronomer.  #science #space",
       "game": "Science & Technology",
       "started_at": "2026-01-14T01:46:22Z"
     },
@@ -38,16 +38,16 @@
       "started_at": "2026-01-14T02:06:51Z"
     },
     {
-      "username": "Mr_Aejis",
-      "title": "Teacher Plays: Dispatch !",
-      "game": "Dispatch",
-      "started_at": "2026-01-14T01:30:43Z"
-    },
-    {
       "username": "walkingsticklibrary",
       "title": "My GP6PD scare, feline infectious peritonitis roulette, and Luk Thep dolls.",
       "game": "IRL",
       "started_at": "2026-01-14T02:30:13Z"
+    },
+    {
+      "username": "DrMick",
+      "title": "Heels vs. Bullies",
+      "game": "Sports",
+      "started_at": "2026-01-14T04:35:34Z"
     }
   ]
 }
