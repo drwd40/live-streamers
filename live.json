@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-15T23:31:39.414Z",
+  "timestamp": "2026-01-15T23:40:10.561Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,10 +32,10 @@
       "started_at": "2026-01-15T22:59:19Z"
     },
     {
-      "username": "AndrewHolding",
-      "title": "[UK/USA] Science co-stream AMA, Raising Money for Cancer Research UK (!donate) and solving duck mysteries!",
-      "game": "Duck Detective: The Secret Salami",
-      "started_at": "2026-01-15T21:23:57Z"
+      "username": "AstroCanuck",
+      "title": "Astro's Po'Pourri: Thank you for supporting the live stream with @NASA today | !giveaway Jan 25 | !drop !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-01-15T23:31:01Z"
     },
     {
       "username": "shnaff",
@@ -44,22 +44,16 @@
       "started_at": "2026-01-15T23:01:41Z"
     },
     {
-      "username": "SharkG33k",
-      "title": "Definitely not \"Tickle Thursday\"! Playing Clean Up Earth to raise money for WWF!",
-      "game": "Clean Up Earth",
-      "started_at": "2026-01-15T20:00:04Z"
+      "username": "AndrewHolding",
+      "title": "[UK/USA] Science co-stream AMA, Raising Money for Cancer Research UK (!donate) and solving duck mysteries!",
+      "game": "Duck Detective: The Secret Salami",
+      "started_at": "2026-01-15T21:23:57Z"
     },
     {
       "username": "happyknightmares",
       "title": "Grad school application focus time!! Studying synesthesia and co-working! 🎨🧠 May ignore chat somewhat",
       "game": "Science & Technology",
       "started_at": "2026-01-15T21:08:19Z"
-    },
-    {
-      "username": "AstroCanuck",
-      "title": "Astro's Po'Pourri: Thank you for supporting the live stream with @NASA today | !giveaway Jan 25 | !drop !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-01-15T23:31:01Z"
     }
   ]
 }
