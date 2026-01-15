@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-14T23:56:13.608Z",
+  "timestamp": "2026-01-15T00:15:24.867Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,10 +38,10 @@
       "started_at": "2026-01-14T23:33:05Z"
     },
     {
-      "username": "SharkG33k",
-      "title": "🦈Water Wednesday! Tiger and hammerhead shark showdown! 🦈",
+      "username": "DrawCuriosity",
+      "title": "✨[COSPLAY STREAM] Science & Z-A Doughnut Labour Camp (DLC)! Come get your daily bugs! ✨🐑 !merch !dailybug !louse",
       "game": "Science & Technology",
-      "started_at": "2026-01-14T21:50:27Z"
+      "started_at": "2026-01-14T23:49:18Z"
     },
     {
       "username": "pencenter",
@@ -50,16 +50,16 @@
       "started_at": "2026-01-14T22:00:14Z"
     },
     {
-      "username": "DrawCuriosity",
-      "title": "✨[COSPLAY STREAM] Science & Z-A Doughnut Labour Camp (DLC)! Come get your daily bugs! ✨🐑 !merch !dailybug !louse",
-      "game": "Science & Technology",
-      "started_at": "2026-01-14T23:49:18Z"
-    },
-    {
       "username": "nSimplexPachinko",
       "title": "Cracking the GRE, Night 029: Infinite Series and Power Series",
       "game": "Math",
       "started_at": "2026-01-14T22:06:46Z"
+    },
+    {
+      "username": "Mr_Aejis",
+      "title": "Teacher Plays: Peak w/ @reckonizable !",
+      "game": "PEAK",
+      "started_at": "2026-01-15T00:13:38Z"
     }
   ]
 }
