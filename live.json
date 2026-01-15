@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-15T00:15:24.867Z",
+  "timestamp": "2026-01-15T00:40:59.927Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,28 +8,22 @@
       "started_at": "2026-01-14T13:35:51Z"
     },
     {
-      "username": "JapanesePrintmaking",
-      "title": "Making Japanese woodblock prints ... live while you watch ...",
-      "game": "Makers & Crafting",
-      "started_at": "2026-01-14T22:59:56Z"
-    },
-    {
       "username": "EJ_SA",
       "title": "Stockpiling MONEY for an Engine Build! Attempt 2 (Part 7)",
       "game": "My Winter Car",
       "started_at": "2026-01-14T17:46:59Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "Discussing DINOSAUR DIET 🥩➡🦖|🌱➡🦕 Fundraising stream for Minneapolis food bank (w/ paleontologist Danny Anduza) !VEAP",
-      "game": "Science & Technology",
-      "started_at": "2026-01-14T21:06:32Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "IRAN BLOWS THROUGH TRUMP'S RED LINES - HE DOES NOTHING | LEADERS FROM DENMARK/GREENLAND VISIT TRUMP",
       "game": "Just Chatting",
       "started_at": "2026-01-14T22:54:47Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "Discussing DINOSAUR DIET 🥩➡🦖|🌱➡🦕 Fundraising stream for Minneapolis food bank (w/ paleontologist Danny Anduza) !VEAP",
+      "game": "Science & Technology",
+      "started_at": "2026-01-14T21:06:32Z"
     },
     {
       "username": "ipaintbirbs",
@@ -40,7 +34,7 @@
     {
       "username": "DrawCuriosity",
       "title": "✨[COSPLAY STREAM] Science & Z-A Doughnut Labour Camp (DLC)! Come get your daily bugs! ✨🐑 !merch !dailybug !louse",
-      "game": "Science & Technology",
+      "game": "Pokémon Legends: Z-A",
       "started_at": "2026-01-14T23:49:18Z"
     },
     {
@@ -50,16 +44,22 @@
       "started_at": "2026-01-14T22:00:14Z"
     },
     {
+      "username": "Mr_Aejis",
+      "title": "Teacher Plays: Peak w/ @reckonizable !",
+      "game": "PEAK",
+      "started_at": "2026-01-15T00:13:38Z"
+    },
+    {
       "username": "nSimplexPachinko",
       "title": "Cracking the GRE, Night 029: Infinite Series and Power Series",
       "game": "Math",
       "started_at": "2026-01-14T22:06:46Z"
     },
     {
-      "username": "Mr_Aejis",
-      "title": "Teacher Plays: Peak w/ @reckonizable !",
-      "game": "PEAK",
-      "started_at": "2026-01-15T00:13:38Z"
+      "username": "sciencestreams",
+      "title": "Better Than it Sounds --> Biology Midterm Review🧪🌿",
+      "game": "Just Chatting",
+      "started_at": "2026-01-15T00:33:24Z"
     }
   ]
 }
