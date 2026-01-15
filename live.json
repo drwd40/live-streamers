@@ -1,16 +1,10 @@
 {
-  "timestamp": "2026-01-15T20:28:21.829Z",
+  "timestamp": "2026-01-15T20:41:14.692Z",
   "live": [
     {
-      "username": "Kitboga",
-      "title": "AI Scams & Fake Banks [Ep 1507]",
-      "game": "Just Chatting",
-      "started_at": "2026-01-15T16:56:24Z"
-    },
-    {
       "username": "AlveusSanctuary",
-      "title": "Live, Laugh, Lukas | !alveus !institute !pixel !schedule !video !feed",
-      "game": "Just Chatting",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
+      "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-01-14T13:35:51Z"
     },
     {
@@ -38,22 +32,10 @@
       "started_at": "2026-01-15T10:02:15Z"
     },
     {
-      "username": "pencenter",
-      "title": "What kind of Questions should we ask/ answer? Beyond the Blackboard S2E1 [!fish🎣|!commands💻]",
-      "game": "Math",
-      "started_at": "2026-01-15T18:14:24Z"
-    },
-    {
       "username": "SharkG33k",
       "title": "Definitely not \"Tickle Thursday\"! Playing Clean Up Earth to raise money for WWF!",
       "game": "Clean Up Earth",
       "started_at": "2026-01-15T20:00:04Z"
-    },
-    {
-      "username": "PotteryDojo",
-      "title": "Pottery: Making Bonsai Pots | Hand Building | Batch # 18 | Batch Total: 30",
-      "game": "Art",
-      "started_at": "2026-01-15T17:26:28Z"
     }
   ]
 }
