@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-01-15T01:50:02.484Z",
+  "timestamp": "2026-01-15T02:33:36.040Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
-      "game": "Animals, Aquariums, and Zoos",
+      "title": "Chat Chats w/ Evan | !alveus !institute !pixel !schedule !video !feed",
+      "game": "Just Chatting",
       "started_at": "2026-01-14T13:35:51Z"
     },
     {
@@ -26,16 +26,22 @@
       "started_at": "2026-01-14T22:54:47Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "Discussing DINOSAUR DIET 🥩➡🦖|🌱➡🦕 Fundraising stream for Minneapolis food bank (w/ paleontologist Danny Anduza) !VEAP",
+      "username": "SciAnts_Streams",
+      "title": "Wacom Wednesday | Science art to excite more about science + rabbit holes galore! | Partner+ 143/300 | !ppp !yt !pod !gala",
       "game": "Science & Technology",
-      "started_at": "2026-01-14T21:06:32Z"
+      "started_at": "2026-01-15T02:01:02Z"
     },
     {
       "username": "nogre0",
       "title": "know how and diagrams. new paper !we",
       "game": "Just Chatting",
       "started_at": "2026-01-15T01:00:28Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Medication for alcoholism, invasive cats down under, textiles in Colonial America.",
+      "game": "IRL",
+      "started_at": "2026-01-15T02:30:24Z"
     }
   ]
 }
