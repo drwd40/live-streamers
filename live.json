@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-15T23:09:20.326Z",
+  "timestamp": "2026-01-15T23:20:35.780Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,28 +26,28 @@
       "started_at": "2026-01-15T19:12:54Z"
     },
     {
-      "username": "AndrewHolding",
-      "title": "[UK/USA] Science co-stream AMA, Raising Money for Cancer Research UK (!donate) and solving duck mysteries!",
-      "game": "Duck Detective: The Secret Salami",
-      "started_at": "2026-01-15T21:23:57Z"
-    },
-    {
       "username": "DrMick",
       "title": "Mental Health Chat + Painting 40k",
       "game": "Miniatures & Models",
       "started_at": "2026-01-15T22:59:19Z"
     },
     {
-      "username": "SharkG33k",
-      "title": "Definitely not \"Tickle Thursday\"! Playing Clean Up Earth to raise money for WWF!",
-      "game": "Clean Up Earth",
-      "started_at": "2026-01-15T20:00:04Z"
+      "username": "AndrewHolding",
+      "title": "[UK/USA] Science co-stream AMA, Raising Money for Cancer Research UK (!donate) and solving duck mysteries!",
+      "game": "Duck Detective: The Secret Salami",
+      "started_at": "2026-01-15T21:23:57Z"
     },
     {
       "username": "shnaff",
       "title": "Chill guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2026-01-15T23:01:41Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Definitely not \"Tickle Thursday\"! Playing Clean Up Earth to raise money for WWF!",
+      "game": "Clean Up Earth",
+      "started_at": "2026-01-15T20:00:04Z"
     },
     {
       "username": "happyknightmares",
