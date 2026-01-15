@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-15T19:56:32.233Z",
+  "timestamp": "2026-01-15T20:04:26.923Z",
   "live": [
     {
       "username": "Kitboga",
@@ -48,6 +48,12 @@
       "title": "Pottery: Making Bonsai Pots | Hand Building | Batch # 18 | Batch Total: 30",
       "game": "Art",
       "started_at": "2026-01-15T17:26:28Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Definitely not \"Tickle Thursday\"! Playing Clean Up Earth to raise money for WWF!",
+      "game": "Clean Up Earth",
+      "started_at": "2026-01-15T20:00:04Z"
     }
   ]
 }
