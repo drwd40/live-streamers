@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-15T21:20:32.654Z",
+  "timestamp": "2026-01-15T21:32:20.193Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-01-15T19:12:54Z"
     },
     {
-      "username": "oh_bother",
-      "title": "Sim rig: 3d scanning pedals? #autocadad",
-      "game": "Just Chatting",
-      "started_at": "2026-01-15T17:54:27Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "What happens between a dinosaur's death & burial? 🦖 Interviewing Michael Chiappone about his new taphonomy paper 🌊🦴 + Thursday BIRDSday",
       "game": "Science & Technology",
       "started_at": "2026-01-15T21:13:30Z"
+    },
+    {
+      "username": "oh_bother",
+      "title": "Sim rig: 3d scanning pedals? #autocadad",
+      "game": "Just Chatting",
+      "started_at": "2026-01-15T17:54:27Z"
     },
     {
       "username": "Zachap",
@@ -42,6 +42,12 @@
       "title": "Definitely not \"Tickle Thursday\"! Playing Clean Up Earth to raise money for WWF!",
       "game": "Clean Up Earth",
       "started_at": "2026-01-15T20:00:04Z"
+    },
+    {
+      "username": "AndrewHolding",
+      "title": "[UK/USA] Science co-stream AMA, Raising Money for Cancer Research UK (!donate) and solving duck mysteries!",
+      "game": "Duck Detective: The Secret Salami",
+      "started_at": "2026-01-15T21:23:57Z"
     },
     {
       "username": "happyknightmares",
