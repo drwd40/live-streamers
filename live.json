@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-15T18:00:52.429Z",
+  "timestamp": "2026-01-15T18:17:21.274Z",
   "live": [
     {
       "username": "Kitboga",
@@ -36,6 +36,12 @@
       "title": "Pottery: Making Bonsai Pots | Hand Building | Batch # 18 | Batch Total: 30",
       "game": "Art",
       "started_at": "2026-01-15T17:26:28Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "What kind of Questions should we ask/ answer? Beyond the Blackboard S2E1 [!fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-01-15T18:14:24Z"
     }
   ]
 }
