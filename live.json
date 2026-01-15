@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-15T23:40:10.561Z",
+  "timestamp": "2026-01-15T23:47:28.943Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-01-15T19:12:54Z"
     },
     {
-      "username": "DrMick",
-      "title": "Mental Health Chat + Painting 40k",
-      "game": "Miniatures & Models",
-      "started_at": "2026-01-15T22:59:19Z"
-    },
-    {
       "username": "AstroCanuck",
       "title": "Astro's Po'Pourri: Thank you for supporting the live stream with @NASA today | !giveaway Jan 25 | !drop !tkf",
       "game": "Science & Technology",
       "started_at": "2026-01-15T23:31:01Z"
+    },
+    {
+      "username": "DrMick",
+      "title": "Mental Health Chat + Painting 40k",
+      "game": "Miniatures & Models",
+      "started_at": "2026-01-15T22:59:19Z"
     },
     {
       "username": "shnaff",
