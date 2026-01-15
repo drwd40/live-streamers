@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-15T19:29:35.007Z",
+  "timestamp": "2026-01-15T19:40:08.467Z",
   "live": [
     {
       "username": "Kitboga",
@@ -20,6 +20,12 @@
       "started_at": "2026-01-15T17:18:51Z"
     },
     {
+      "username": "SciAnts_Streams",
+      "title": "Pokémon Legends - First Playthrough Day 3 | The science of Pokémon as we catch them all! | Partner+ 143/300 | !ppp !yt !pod !gala",
+      "game": "Science & Technology",
+      "started_at": "2026-01-15T19:12:54Z"
+    },
+    {
       "username": "oh_bother",
       "title": "Sim rig: 3d scanning pedals? #autocadad",
       "game": "Just Chatting",
@@ -32,12 +38,6 @@
       "started_at": "2026-01-15T10:02:15Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "Pokémon Legends - First Playthrough Day 3 | The science of Pokémon as we catch them all! | Partner+ 143/300 | !ppp !yt !pod !gala",
-      "game": "Science & Technology",
-      "started_at": "2026-01-15T19:12:54Z"
-    },
-    {
       "username": "pencenter",
       "title": "What kind of Questions should we ask/ answer? Beyond the Blackboard S2E1 [!fish🎣|!commands💻]",
       "game": "Math",
@@ -48,12 +48,6 @@
       "title": "Pottery: Making Bonsai Pots | Hand Building | Batch # 18 | Batch Total: 30",
       "game": "Art",
       "started_at": "2026-01-15T17:26:28Z"
-    },
-    {
-      "username": "SETIInstitute",
-      "title": "When Galaxies Collide: Euclid Reveals What Triggers Active Black Holes",
-      "game": "Talk Shows & Podcasts",
-      "started_at": "2026-01-15T19:01:22Z"
     }
   ]
 }
