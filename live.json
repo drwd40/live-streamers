@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-16T16:54:02.630Z",
+  "timestamp": "2026-01-16T17:03:00.977Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-01-16T10:01:36Z"
     },
     {
+      "username": "EJ_SA",
+      "title": "THIS IS NOT A DRILL: NASA ARTEMIS II ROLLOUT PRESS CONFERENCE! 1/16/26",
+      "game": "Science & Technology",
+      "started_at": "2026-01-16T17:01:39Z"
+    },
+    {
       "username": "TimberAnew",
       "title": "Foot time part 2",
       "game": "Art",
       "started_at": "2026-01-16T15:04:25Z"
-    },
-    {
-      "username": "ProfessorEXP",
-      "title": "Start of the Semester |  Introduction to Sociology | Inclusive Design | Fun",
-      "game": "Just Chatting",
-      "started_at": "2026-01-16T13:55:45Z"
     }
   ]
 }
