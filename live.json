@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-16T01:07:58.849Z",
+  "timestamp": "2026-01-16T01:48:29.527Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,28 +26,22 @@
       "started_at": "2026-01-15T19:12:54Z"
     },
     {
-      "username": "DrMick",
-      "title": "Mental Health Chat + Painting 40k",
-      "game": "Miniatures & Models",
-      "started_at": "2026-01-15T22:59:19Z"
-    },
-    {
       "username": "shnaff",
       "title": "Chill guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2026-01-15T23:01:41Z"
     },
     {
-      "username": "MelissaInDeNile",
-      "title": "Rome Here we come! Playing some Assassins's Creed: Brotherhood!! ~ Follower Goal: 2246/2300 ~ !socials !beyonddenile",
-      "game": "Assassin's Creed Brotherhood",
-      "started_at": "2026-01-16T00:20:38Z"
-    },
-    {
       "username": "ActualEducation",
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Just Chatting",
       "started_at": "2026-01-16T01:02:06Z"
+    },
+    {
+      "username": "MelissaInDeNile",
+      "title": "Rome Here we come! Playing some Assassins's Creed: Brotherhood!! ~ Follower Goal: 2246/2300 ~ !socials !beyonddenile",
+      "game": "Assassin's Creed Brotherhood",
+      "started_at": "2026-01-16T00:20:38Z"
     }
   ]
 }
