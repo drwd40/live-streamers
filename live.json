@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-16T00:40:06.895Z",
+  "timestamp": "2026-01-16T01:07:58.849Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -9,8 +9,8 @@
     },
     {
       "username": "EJ_SA",
-      "title": "EJ's Space and Rocket Revue! 1/15/26",
-      "game": "Science & Technology",
+      "title": "I have a carcaine addiction. I can't stop buying car parts! HELP! ATTEMPT III (Part 3)",
+      "game": "My Winter Car",
       "started_at": "2026-01-15T17:18:51Z"
     },
     {
@@ -24,12 +24,6 @@
       "title": "Pokémon Legends - First Playthrough Day 3 | The science of Pokémon as we catch them all! | Partner+ 143/300 | !ppp !yt !pod !gala",
       "game": "Pokémon Legends: Z-A",
       "started_at": "2026-01-15T19:12:54Z"
-    },
-    {
-      "username": "AstroCanuck",
-      "title": "Astro's Po'Pourri: Thank you for supporting the live stream with @NASA today | !giveaway Jan 25 | !drop !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-01-15T23:31:01Z"
     },
     {
       "username": "DrMick",
@@ -48,6 +42,12 @@
       "title": "Rome Here we come! Playing some Assassins's Creed: Brotherhood!! ~ Follower Goal: 2246/2300 ~ !socials !beyonddenile",
       "game": "Assassin's Creed Brotherhood",
       "started_at": "2026-01-16T00:20:38Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-01-16T01:02:06Z"
     }
   ]
 }
