@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-16T15:01:23.424Z",
+  "timestamp": "2026-01-16T15:11:10.051Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,12 @@
       "title": "Start of the Semester |  Introduction to Sociology | Inclusive Design | Fun",
       "game": "Just Chatting",
       "started_at": "2026-01-16T13:55:45Z"
+    },
+    {
+      "username": "TimberAnew",
+      "title": "Foot time part 2",
+      "game": "Art",
+      "started_at": "2026-01-16T15:04:25Z"
     }
   ]
 }
