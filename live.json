@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-16T22:28:24.673Z",
+  "timestamp": "2026-01-16T22:40:05.839Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,10 +14,10 @@
       "started_at": "2026-01-16T17:01:39Z"
     },
     {
-      "username": "Zachap",
-      "title": "Documentaries, Video Essays, Learnings of sorts :)",
-      "game": "Just Chatting",
-      "started_at": "2026-01-16T10:01:36Z"
+      "username": "DrawCuriosity",
+      "title": "💦Biologist (who is afraid of the open sea) tries Subnautica for the first time! FIRST PLAYTHROUGH (no spoilers) ✨🐑 !merch !dailybug !louse",
+      "game": "Subnautica",
+      "started_at": "2026-01-16T20:00:29Z"
     },
     {
       "username": "IrishJohnGames",
@@ -26,22 +26,22 @@
       "started_at": "2026-01-16T20:00:56Z"
     },
     {
-      "username": "DrawCuriosity",
-      "title": "💦Biologist (who is afraid of the open sea) tries Subnautica for the first time! FIRST PLAYTHROUGH (no spoilers) ✨🐑 !merch !dailybug !louse",
-      "game": "Subnautica",
-      "started_at": "2026-01-16T20:00:29Z"
-    },
-    {
-      "username": "Stephen_Wolfram",
-      "title": "Science & Technology Q&A for Kids (and others) [Part 163]",
-      "game": "Science & Technology",
-      "started_at": "2026-01-16T21:01:55Z"
+      "username": "Zachap",
+      "title": "Documentaries, Video Essays, Learnings of sorts :)",
+      "game": "Just Chatting",
+      "started_at": "2026-01-16T10:01:36Z"
     },
     {
       "username": "PotteryDojo",
       "title": "Pottery: Making Bonsai Pots | Trimming | Batch # 18 | Batch Total: 30",
       "game": "Art",
       "started_at": "2026-01-16T20:56:02Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 963: Language Design in Wolfram Language [Graphic Issues]",
+      "game": "Science & Technology",
+      "started_at": "2026-01-16T22:35:00Z"
     }
   ]
 }
