@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-16T22:40:05.839Z",
+  "timestamp": "2026-01-16T22:48:41.674Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,22 +26,16 @@
       "started_at": "2026-01-16T20:00:56Z"
     },
     {
-      "username": "Zachap",
-      "title": "Documentaries, Video Essays, Learnings of sorts :)",
-      "game": "Just Chatting",
-      "started_at": "2026-01-16T10:01:36Z"
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 963: Language Design in Wolfram Language [Graphic Issues]",
+      "game": "Science & Technology",
+      "started_at": "2026-01-16T22:35:00Z"
     },
     {
       "username": "PotteryDojo",
       "title": "Pottery: Making Bonsai Pots | Trimming | Batch # 18 | Batch Total: 30",
       "game": "Art",
       "started_at": "2026-01-16T20:56:02Z"
-    },
-    {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 963: Language Design in Wolfram Language [Graphic Issues]",
-      "game": "Science & Technology",
-      "started_at": "2026-01-16T22:35:00Z"
     }
   ]
 }
