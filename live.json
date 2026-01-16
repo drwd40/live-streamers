@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-16T21:26:16.079Z",
+  "timestamp": "2026-01-16T21:35:58.525Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-01-16T10:01:36Z"
     },
     {
-      "username": "IrishJohnGames",
-      "title": "🍀Rise of Piracy - Live Game Dev! | !ppp (36 / 100) !discord !streamers !MicroProse !steam",
-      "game": "Software and Game Development",
-      "started_at": "2026-01-16T20:00:56Z"
-    },
-    {
       "username": "DrawCuriosity",
       "title": "💦Biologist (who is afraid of the open sea) tries Subnautica for the first time! FIRST PLAYTHROUGH (no spoilers) ✨🐑 !merch !dailybug !louse",
       "game": "Subnautica",
       "started_at": "2026-01-16T20:00:29Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀Rise of Piracy - Live Game Dev! | !ppp (36 / 100) !discord !streamers !MicroProse !steam",
+      "game": "Software and Game Development",
+      "started_at": "2026-01-16T20:00:56Z"
     },
     {
       "username": "Stephen_Wolfram",
