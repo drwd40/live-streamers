@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-17T16:47:23.454Z",
+  "timestamp": "2026-01-17T16:54:17.904Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "Video Essays and such, maybe even the news on occasion",
       "game": "Just Chatting",
       "started_at": "2026-01-17T10:03:15Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Bring Your Questions: A Math Q&A",
+      "game": "Math",
+      "started_at": "2026-01-17T16:48:48Z"
     }
   ]
 }
