@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-17T19:26:59.788Z",
+  "timestamp": "2026-01-17T19:33:26.453Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "Answering your math questions and hunting for the Red October (in a nerdy, signal processing way)",
       "game": "Math",
       "started_at": "2026-01-17T19:05:00Z"
+    },
+    {
+      "username": "happyknightmares",
+      "title": "Grad school application focus time!! Studying synesthesia and co-working! 🎨🧠 May ignore chat somewhat",
+      "game": "Science & Technology",
+      "started_at": "2026-01-17T19:32:28Z"
     }
   ]
 }
