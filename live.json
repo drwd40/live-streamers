@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-17T19:00:04.724Z",
+  "timestamp": "2026-01-17T19:08:25.973Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,18 @@
       "title": "Bring Your Questions: A Math Q&A",
       "game": "Math",
       "started_at": "2026-01-17T16:48:48Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀Community Night! Game Dev into Discord Watch Party! | !ppp (43 / 100) !discord !streamers !MicroProse !steam",
+      "game": "Software and Game Development",
+      "started_at": "2026-01-17T19:00:36Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and hunting for the Red October (in a nerdy, signal processing way)",
+      "game": "Math",
+      "started_at": "2026-01-17T19:05:00Z"
     }
   ]
 }
