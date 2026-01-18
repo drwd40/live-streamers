@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-18T21:53:40.459Z",
+  "timestamp": "2026-01-18T21:59:17.489Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,6 +14,12 @@
       "started_at": "2026-01-18T10:14:47Z"
     },
     {
+      "username": "imreallyimportant",
+      "title": "SUNDAY SHOWS",
+      "game": "Just Chatting",
+      "started_at": "2026-01-18T21:52:43Z"
+    },
+    {
       "username": "nogre0",
       "title": "scuffed catsitting stream. no bot/alerts",
       "game": "Just Chatting",
@@ -24,12 +30,6 @@
       "title": "Bruships 228: Naval History Questions Answered Live...",
       "game": "Just Chatting",
       "started_at": "2026-01-18T19:33:17Z"
-    },
-    {
-      "username": "imreallyimportant",
-      "title": "SUNDAY SHOWS",
-      "game": "Just Chatting",
-      "started_at": "2026-01-18T21:52:43Z"
     }
   ]
 }
