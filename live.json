@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-18T21:14:42.547Z",
+  "timestamp": "2026-01-18T21:26:00.278Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,12 @@
       "title": "Bruships 228: Naval History Questions Answered Live...",
       "game": "Just Chatting",
       "started_at": "2026-01-18T19:33:17Z"
+    },
+    {
+      "username": "nogre0",
+      "title": "scuffed catsitting stream. no bot/alerts",
+      "game": "Just Chatting",
+      "started_at": "2026-01-18T21:16:49Z"
     }
   ]
 }
