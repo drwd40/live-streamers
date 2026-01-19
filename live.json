@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-19T22:09:27.677Z",
+  "timestamp": "2026-01-19T22:20:44.773Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "Working on Quiz Show Software: Sixteen",
       "game": "Software and Game Development",
       "started_at": "2026-01-19T19:33:35Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Math Communication Monday: pi-randomness, Euler Totient, and The Galilei / Huygens Similarity: Music?",
+      "game": "Math",
+      "started_at": "2026-01-19T22:11:42Z"
     }
   ]
 }
