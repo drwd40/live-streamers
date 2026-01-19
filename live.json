@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-19T19:08:28.232Z",
+  "timestamp": "2026-01-19T19:19:14.675Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "Working on Quiz Show Software: Sixteen",
       "game": "Software and Game Development",
       "started_at": "2026-01-19T18:51:37Z"
+    },
+    {
+      "username": "PotteryDojo",
+      "title": "Pottery: Making Bonsai Pots | Throwing | Batch # 19 | Batch Total: 0",
+      "game": "Art",
+      "started_at": "2026-01-19T19:10:01Z"
     }
   ]
 }
