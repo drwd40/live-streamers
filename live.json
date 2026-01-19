@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-19T20:55:03.730Z",
+  "timestamp": "2026-01-19T21:01:16.003Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,6 +20,12 @@
       "started_at": "2026-01-19T10:00:40Z"
     },
     {
+      "username": "DrawCuriosity",
+      "title": "💦Biologist (who is afraid of the open sea) tries Subnautica for the first time! FIRST PLAYTHROUGH (no spoilers) ✨🐑 !merch !dailybug !louse",
+      "game": "Subnautica",
+      "started_at": "2026-01-19T20:52:39Z"
+    },
+    {
       "username": "eToThe2iPi",
       "title": "Working on Quiz Show Software: Sixteen",
       "game": "Software and Game Development",
@@ -30,12 +36,6 @@
       "title": "Pottery: Making Bonsai Pots | Throwing | Batch # 19 | Batch Total: 19",
       "game": "Art",
       "started_at": "2026-01-19T19:10:01Z"
-    },
-    {
-      "username": "DrawCuriosity",
-      "title": "💦Biologist (who is afraid of the open sea) tries Subnautica for the first time! FIRST PLAYTHROUGH (no spoilers) ✨🐑 !merch !dailybug !louse",
-      "game": "Subnautica",
-      "started_at": "2026-01-19T20:52:39Z"
     }
   ]
 }
