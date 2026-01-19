@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-19T01:37:16.487Z",
+  "timestamp": "2026-01-19T02:30:24.052Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,10 +8,16 @@
       "started_at": "2026-01-18T13:38:49Z"
     },
     {
-      "username": "shnaff",
-      "title": "Chill instrumental music in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-01-18T23:03:54Z"
+      "username": "SciAnts_Streams",
+      "title": "SciAnts Sunday | Hunting for insects in tiny worlds in Grounded 2 and chatting science | Partner+ 167/300 | !ppp !yt !pod !gala",
+      "game": "Grounded 2",
+      "started_at": "2026-01-19T01:59:58Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Live Imaging the Andromeda Galaxy  PhD Astronomer.  #science #space",
+      "game": "Science & Technology",
+      "started_at": "2026-01-19T01:51:52Z"
     },
     {
       "username": "MelissaInDeNile",
@@ -24,6 +30,12 @@
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Just Chatting",
       "started_at": "2026-01-19T01:04:46Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Climate change and white tail deer. Ageism and technology/internet, and audience interaction and streaming.",
+      "game": "IRL",
+      "started_at": "2026-01-19T02:30:04Z"
     }
   ]
 }
