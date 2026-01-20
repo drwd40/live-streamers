@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-20T14:53:54.873Z",
+  "timestamp": "2026-01-20T15:03:57.499Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-01-20T10:01:48Z"
     },
     {
-      "username": "IrishJohnGames",
-      "title": "🍀Rise of Piracy - Game Dev | !ppp (45 / 100) !discord !streamers !MicroProse !steam",
-      "game": "Software and Game Development",
-      "started_at": "2026-01-20T12:52:19Z"
-    },
-    {
       "username": "csharpfritz",
       "title": "C# Static Analysis, CodeMedic, and Building Hardware with AI",
       "game": "Software and Game Development",
       "started_at": "2026-01-20T14:18:38Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀Rise of Piracy - Game Dev | !ppp (45 / 100) !discord !streamers !MicroProse !steam",
+      "game": "Software and Game Development",
+      "started_at": "2026-01-20T12:52:19Z"
     }
   ]
 }
