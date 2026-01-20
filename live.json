@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-20T23:05:38.502Z",
+  "timestamp": "2026-01-20T23:16:11.104Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-01-20T13:38:52Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "🐧📅 PENGUIN AWARENESS DAY 📅🐧 Flightless birds, Gondwanan paleogeography, climate change, and extinction (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-01-20T21:04:33Z"
-    },
-    {
       "username": "EJ_SA",
       "title": "EJ's Space and Rocket Revue! 1/20/26",
       "game": "Science & Technology",
       "started_at": "2026-01-20T23:04:12Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "🐧📅 PENGUIN AWARENESS DAY 📅🐧 Flightless birds, Gondwanan paleogeography, climate change, and extinction (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-01-20T21:04:33Z"
     },
     {
       "username": "imreallyimportant",
@@ -32,6 +32,12 @@
       "started_at": "2026-01-20T21:52:11Z"
     },
     {
+      "username": "shnaff",
+      "title": "Guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-01-20T23:03:30Z"
+    },
+    {
       "username": "Stephen_Wolfram",
       "title": "Live CEOing Ep 964: Language Design in Wolfram Language [Graphic Issues]",
       "game": "Science & Technology",
@@ -42,12 +48,6 @@
       "title": "An Introduction to Algebra: \"How Arithmetic and Geometric of You\"",
       "game": "Math",
       "started_at": "2026-01-20T22:52:17Z"
-    },
-    {
-      "username": "shnaff",
-      "title": "Guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-01-20T23:03:30Z"
     },
     {
       "username": "nSimplexPachinko",
