@@ -1,12 +1,6 @@
 {
-  "timestamp": "2026-01-20T21:21:42.071Z",
+  "timestamp": "2026-01-20T21:33:02.805Z",
   "live": [
-    {
-      "username": "Kitboga",
-      "title": "Scammer Lie Detector Ft. MiltonTPike1 [Ep 1508]",
-      "game": "Just Chatting",
-      "started_at": "2026-01-20T17:07:08Z"
-    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
@@ -48,6 +42,12 @@
       "title": "Korte stream - Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
       "game": "Just Chatting",
       "started_at": "2026-01-20T21:06:48Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Blue Prince, Night 02: Can we find all of the cards? If not, why not? If so, why so...?",
+      "game": "Blue Prince",
+      "started_at": "2026-01-20T21:28:01Z"
     }
   ]
 }
