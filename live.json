@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-01-21T01:50:41.893Z",
+  "timestamp": "2026-01-21T02:35:52.476Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-01-20T13:38:52Z"
-    },
-    {
-      "username": "imreallyimportant",
-      "title": "TRUMP KEEPS UP PRESSURE TO BUY GREENLAND | DOJ ISSUES SUBPOENAS TO MINNESOTA LEADERS",
-      "game": "Just Chatting",
-      "started_at": "2026-01-20T22:54:27Z"
     },
     {
       "username": "Paleontologizing",
@@ -26,16 +20,22 @@
       "started_at": "2026-01-20T23:03:30Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "An Introduction to Algebra: \"How Arithmetic and Geometric of You\"",
-      "game": "Math",
-      "started_at": "2026-01-20T22:52:17Z"
+      "username": "Nerduino",
+      "title": "Space and Science News with a PhD Astronomer and former NASA guy.  #science #space",
+      "game": "Science & Technology",
+      "started_at": "2026-01-21T01:53:31Z"
     },
     {
       "username": "SharkG33k",
       "title": "Toothday! Shark News!🦈",
       "game": "Science & Technology",
       "started_at": "2026-01-21T01:21:05Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-01-21T02:03:06Z"
     },
     {
       "username": "MelissaInDeNile",
@@ -56,10 +56,10 @@
       "started_at": "2026-01-20T21:28:01Z"
     },
     {
-      "username": "Nerduino",
-      "title": "Space and Science News with a PhD Astronomer and former NASA guy.  #science #space",
-      "game": "Science & Technology",
-      "started_at": "2026-01-21T01:50:13Z"
+      "username": "walkingsticklibrary",
+      "title": "Evil almond scrub, keeping dandruff off of heads and shoulders, and keeping hunters (and farm workers) safe from chronic wasting disease.",
+      "game": "IRL",
+      "started_at": "2026-01-21T02:29:17Z"
     }
   ]
 }
