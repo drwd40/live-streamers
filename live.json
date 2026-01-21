@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-01-21T21:13:27.356Z",
+  "timestamp": "2026-01-21T21:26:33.098Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-01-20T13:38:52Z"
-    },
-    {
-      "username": "EJ_SA",
-      "title": "Fixing my snowblower before the big one hits!",
-      "game": "Science & Technology",
-      "started_at": "2026-01-21T16:36:15Z"
     },
     {
       "username": "Paleontologizing",
@@ -44,16 +38,16 @@
       "started_at": "2026-01-21T20:02:17Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Improving Mathematics Curriculum: Differential Equations",
-      "game": "Math",
-      "started_at": "2026-01-21T18:56:13Z"
-    },
-    {
       "username": "Stephen_Wolfram",
       "title": "Stephen Wolfram: What Is Ruliology?",
       "game": "Science & Technology",
       "started_at": "2026-01-21T20:50:11Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Improving Mathematics Curriculum: Differential Equations",
+      "game": "Math",
+      "started_at": "2026-01-21T18:56:13Z"
     }
   ]
 }
