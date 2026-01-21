@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-21T20:30:25.422Z",
+  "timestamp": "2026-01-21T20:46:52.806Z",
   "live": [
     {
       "username": "Maya",
@@ -48,6 +48,12 @@
       "title": "Pottery: Making Bonsai Pots | Foot Stream | Batch # 19 | Batch Total: 25",
       "game": "Art",
       "started_at": "2026-01-21T18:15:05Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "📰🦖 DINOSAUR NEWS catch-up 💥 Tyrannosaur growth, ceratosaur jaw mechanics, thick-headed troodontid +more (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-01-21T20:43:49Z"
     }
   ]
 }
