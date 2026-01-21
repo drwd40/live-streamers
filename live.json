@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-21T03:51:58.805Z",
+  "timestamp": "2026-01-21T04:15:14.096Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,22 +8,10 @@
       "started_at": "2026-01-20T13:38:52Z"
     },
     {
-      "username": "SharkG33k",
-      "title": "Toothday! Shark News!🦈",
-      "game": "Science & Technology",
-      "started_at": "2026-01-21T01:21:05Z"
-    },
-    {
       "username": "Nerduino",
       "title": "Space and Science News with a PhD Astronomer and former NASA guy.  #science #space",
       "game": "Science & Technology",
       "started_at": "2026-01-21T01:53:31Z"
-    },
-    {
-      "username": "ActualEducation",
-      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
-      "game": "Just Chatting",
-      "started_at": "2026-01-21T02:03:06Z"
     },
     {
       "username": "MelissaInDeNile",
@@ -32,22 +20,22 @@
       "started_at": "2026-01-20T23:51:11Z"
     },
     {
-      "username": "Mr_Aejis",
-      "title": "Teacher Plays: Dispatch! | Mr Aejis - Vtuber Teacher",
-      "game": "Dispatch",
-      "started_at": "2026-01-21T01:35:32Z"
-    },
-    {
-      "username": "walkingsticklibrary",
-      "title": "Evil almond scrub, keeping dandruff off of heads and shoulders, and keeping hunters (and farm workers) safe from chronic wasting disease.",
-      "game": "IRL",
-      "started_at": "2026-01-21T03:34:25Z"
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-01-21T02:03:06Z"
     },
     {
       "username": "happyknightmares",
       "title": "Editing time!!! 📝 Studying synesthesia and co-working! 🎨🧠 May ignore chat somewhat. LET'S FINISH THIS!!! :D",
       "game": "Science & Technology",
       "started_at": "2026-01-21T03:05:24Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Evil almond scrub, keeping dandruff off of heads and shoulders, and keeping hunters (and farm workers) safe from chronic wasting disease.",
+      "game": "IRL",
+      "started_at": "2026-01-21T03:34:25Z"
     }
   ]
 }
