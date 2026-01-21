@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-21T19:54:10.535Z",
+  "timestamp": "2026-01-21T20:03:09.854Z",
   "live": [
     {
       "username": "Maya",
@@ -42,6 +42,12 @@
       "title": "Live CEOing Ep 965: Language Design in Wolfram Language [Normal/Ordinal, ArrayTrim and more]",
       "game": "Science & Technology",
       "started_at": "2026-01-21T19:28:16Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀Rise of Piracy - Game Dev | !ppp (45 / 100) !discord !streamers !MicroProse !steam",
+      "game": "Software and Game Development",
+      "started_at": "2026-01-21T20:02:17Z"
     }
   ]
 }
