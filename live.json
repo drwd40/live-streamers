@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-21T18:40:56.815Z",
+  "timestamp": "2026-01-21T19:00:06.457Z",
   "live": [
     {
       "username": "Maya",
@@ -36,6 +36,12 @@
       "title": "Attempting math! (More interesting than watching paint dry (probably))",
       "game": "Math",
       "started_at": "2026-01-21T16:30:49Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Improving Mathematics Curriculum: Differential Equations",
+      "game": "Math",
+      "started_at": "2026-01-21T18:56:13Z"
     }
   ]
 }
