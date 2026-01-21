@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-21T19:28:57.048Z",
+  "timestamp": "2026-01-21T19:42:36.629Z",
   "live": [
     {
       "username": "Maya",
@@ -32,16 +32,16 @@
       "started_at": "2026-01-21T18:56:13Z"
     },
     {
-      "username": "PotteryDojo",
-      "title": "Pottery: Making Bonsai Pots | Foot Stream | Batch # 19 | Batch Total: 25",
-      "game": "Art",
-      "started_at": "2026-01-21T18:15:05Z"
-    },
-    {
       "username": "Stephen_Wolfram",
       "title": "Live CEOing Ep 965: Language Design in Wolfram Language [Normal/Ordinal, ArrayTrim and more]",
       "game": "Science & Technology",
       "started_at": "2026-01-21T19:28:16Z"
+    },
+    {
+      "username": "PotteryDojo",
+      "title": "Pottery: Making Bonsai Pots | Foot Stream | Batch # 19 | Batch Total: 25",
+      "game": "Art",
+      "started_at": "2026-01-21T18:15:05Z"
     }
   ]
 }
