@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-21T20:16:02.401Z",
+  "timestamp": "2026-01-21T20:30:25.422Z",
   "live": [
     {
       "username": "Maya",
@@ -20,28 +20,28 @@
       "started_at": "2026-01-21T16:36:15Z"
     },
     {
-      "username": "Zachap",
-      "title": "everything is silly, boomers are destroying everything :(",
-      "game": "Just Chatting",
-      "started_at": "2026-01-21T10:00:48Z"
-    },
-    {
       "username": "DrMick",
       "title": "Mental Health Chat + THE GREAT UNCLEAN ONE",
       "game": "Miniatures & Models",
       "started_at": "2026-01-21T20:08:56Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Improving Mathematics Curriculum: Differential Equations",
-      "game": "Math",
-      "started_at": "2026-01-21T18:56:13Z"
+      "username": "Zachap",
+      "title": "everything is silly, boomers are destroying everything :(",
+      "game": "Just Chatting",
+      "started_at": "2026-01-21T10:00:48Z"
     },
     {
       "username": "IrishJohnGames",
       "title": "🍀Rise of Piracy - Game Dev | !ppp (46 / 100) !discord !streamers !MicroProse !steam",
       "game": "Software and Game Development",
       "started_at": "2026-01-21T20:02:17Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Improving Mathematics Curriculum: Differential Equations",
+      "game": "Math",
+      "started_at": "2026-01-21T18:56:13Z"
     },
     {
       "username": "PotteryDojo",
