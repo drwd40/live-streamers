@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-21T19:15:07.720Z",
+  "timestamp": "2026-01-21T19:28:57.048Z",
   "live": [
     {
       "username": "Maya",
@@ -33,15 +33,15 @@
     },
     {
       "username": "PotteryDojo",
-      "title": "Pottery: Making Bonsai Pots | Trimming | Batch # 19 | Batch Total: 25",
+      "title": "Pottery: Making Bonsai Pots | Foot Stream | Batch # 19 | Batch Total: 25",
       "game": "Art",
       "started_at": "2026-01-21T18:15:05Z"
     },
     {
-      "username": "AcademyOfUselessIdeas",
-      "title": "Attempting math! (More interesting than watching paint dry (probably))",
-      "game": "Math",
-      "started_at": "2026-01-21T16:30:49Z"
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 965: Language Design in Wolfram Language [Normal/Ordinal, ArrayTrim and more]",
+      "game": "Science & Technology",
+      "started_at": "2026-01-21T19:28:16Z"
     }
   ]
 }
