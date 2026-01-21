@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-21T23:12:00.380Z",
+  "timestamp": "2026-01-21T23:24:02.858Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -44,28 +44,28 @@
       "started_at": "2026-01-21T10:00:48Z"
     },
     {
-      "username": "DrawCuriosity",
-      "title": "💦I've been a Dr for 7 years today!! Biologist (who is afraid of the open sea) tries Subnautica! FIRST PLAYTHROUGH (no spoilers) ✨🐑",
-      "game": "Science & Technology",
-      "started_at": "2026-01-21T21:03:27Z"
-    },
-    {
       "username": "IrishJohnGames",
       "title": "🍀Rise of Piracy - Game Dev | !ppp (46 / 100) !discord !streamers !MicroProse !steam",
       "game": "Software and Game Development",
       "started_at": "2026-01-21T20:02:17Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "Cracking the GRE, Night 030: Power Series",
-      "game": "Math",
-      "started_at": "2026-01-21T21:57:27Z"
+      "username": "DrawCuriosity",
+      "title": "💦I've been a Dr for 7 years today!! Biologist (who is afraid of the open sea) tries Subnautica! FIRST PLAYTHROUGH (no spoilers) ✨🐑",
+      "game": "Science & Technology",
+      "started_at": "2026-01-21T21:03:27Z"
     },
     {
       "username": "pencenter",
       "title": "Riemann surfaces galore! [!fish🎣|!commands💻]",
       "game": "Math",
       "started_at": "2026-01-21T22:27:50Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Cracking the GRE, Night 030: Power Series",
+      "game": "Math",
+      "started_at": "2026-01-21T21:57:27Z"
     }
   ]
 }
