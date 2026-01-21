@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-01-21T01:09:34.812Z",
+  "timestamp": "2026-01-21T01:50:41.893Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-01-20T13:38:52Z"
-    },
-    {
-      "username": "EJ_SA",
-      "title": "EJ's Space and Rocket Revue! 1/20/26",
-      "game": "Science & Technology",
-      "started_at": "2026-01-20T23:04:12Z"
     },
     {
       "username": "imreallyimportant",
@@ -38,16 +32,34 @@
       "started_at": "2026-01-20T22:52:17Z"
     },
     {
+      "username": "SharkG33k",
+      "title": "Toothday! Shark News!🦈",
+      "game": "Science & Technology",
+      "started_at": "2026-01-21T01:21:05Z"
+    },
+    {
       "username": "MelissaInDeNile",
       "title": "NEW TIME! And more Lego: Pirates of the Caribbean (if the game doesn't crash) ~ Follower Goal: 2245/2300 ~ !socials !beyonddenile",
       "game": "LEGO Pirates of the Caribbean: The Video Game",
       "started_at": "2026-01-20T23:51:11Z"
     },
     {
+      "username": "Mr_Aejis",
+      "title": "Teacher Plays: Dispatch! | Mr Aejis - Vtuber Teacher",
+      "game": "Dispatch",
+      "started_at": "2026-01-21T01:35:32Z"
+    },
+    {
       "username": "nSimplexPachinko",
       "title": "Blue Prince, Night 02: Can we find all of the cards? If not, why not? If so, why so...?",
       "game": "Blue Prince",
       "started_at": "2026-01-20T21:28:01Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Space and Science News with a PhD Astronomer and former NASA guy.  #science #space",
+      "game": "Science & Technology",
+      "started_at": "2026-01-21T01:50:13Z"
     }
   ]
 }
