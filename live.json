@@ -1,16 +1,10 @@
 {
-  "timestamp": "2026-01-21T20:46:52.806Z",
+  "timestamp": "2026-01-21T20:58:26.106Z",
   "live": [
     {
-      "username": "Maya",
-      "title": "🔴INSANE CONTENT TODAY🔴BIG FUN🔴",
-      "game": "Just Chatting",
-      "started_at": "2026-01-21T16:30:48Z"
-    },
-    {
       "username": "AlveusSanctuary",
-      "title": "Projects w/ Dan | !alveus !institute !pixel !schedule !video !feed",
-      "game": "Just Chatting",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
+      "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-01-20T13:38:52Z"
     },
     {
@@ -18,6 +12,12 @@
       "title": "Fixing my snowblower before the big one hits!",
       "game": "Science & Technology",
       "started_at": "2026-01-21T16:36:15Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "📰🦖 DINOSAUR NEWS catch-up 💥 Tyrannosaur growth, ceratosaur jaw mechanics, thick-headed troodontid +more (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-01-21T20:43:49Z"
     },
     {
       "username": "DrMick",
@@ -50,10 +50,10 @@
       "started_at": "2026-01-21T18:15:05Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "📰🦖 DINOSAUR NEWS catch-up 💥 Tyrannosaur growth, ceratosaur jaw mechanics, thick-headed troodontid +more (w/ paleontologist Danny Anduza)",
+      "username": "Stephen_Wolfram",
+      "title": "Stephen Wolfram: What Is Ruliology?",
       "game": "Science & Technology",
-      "started_at": "2026-01-21T20:43:49Z"
+      "started_at": "2026-01-21T20:50:11Z"
     }
   ]
 }
