@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-22T22:46:03.611Z",
+  "timestamp": "2026-01-22T22:54:25.246Z",
   "live": [
     {
       "username": "Maya",
@@ -38,16 +38,16 @@
       "started_at": "2026-01-22T18:59:46Z"
     },
     {
-      "username": "pencenter",
-      "title": "Congruences, inverses and matrix systems in mod arithmetic OH MY [!fish🎣|!commands💻]",
-      "game": "Math",
-      "started_at": "2026-01-22T20:22:42Z"
-    },
-    {
       "username": "AndrewHolding",
       "title": "[UK/USA] Science co-stream AMA, Raising Money for Cancer Research UK (!donate) and solving duck mysteries!",
       "game": "Duck Detective: The Ghost of Glamping",
       "started_at": "2026-01-22T21:25:46Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "Congruences, inverses and matrix systems in mod arithmetic OH MY [!fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-01-22T20:22:42Z"
     },
     {
       "username": "SETIInstitute",
