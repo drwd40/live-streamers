@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-22T20:54:09.799Z",
+  "timestamp": "2026-01-22T21:01:54.559Z",
   "live": [
     {
       "username": "Kitboga",
@@ -26,6 +26,12 @@
       "started_at": "2026-01-22T10:05:30Z"
     },
     {
+      "username": "DrMick",
+      "title": "Therapist Plays GTA IV: Part 17",
+      "game": "Grand Theft Auto IV",
+      "started_at": "2026-01-22T20:53:31Z"
+    },
+    {
       "username": "SydHeresy",
       "title": "Back From The Gig! Let's Mess With Electronics!!!",
       "game": "Science & Technology",
@@ -48,12 +54,6 @@
       "title": "Watch a Ninja Turtle do another grad school application 🐢 📝 Studying synesthesia and co-working! 🎨🧠 ONE DOWN, one more to go!!! :D",
       "game": "Science & Technology",
       "started_at": "2026-01-22T19:28:24Z"
-    },
-    {
-      "username": "DrMick",
-      "title": "Therapist Plays GTA IV: Part 17",
-      "game": "Grand Theft Auto IV",
-      "started_at": "2026-01-22T20:53:31Z"
     }
   ]
 }
