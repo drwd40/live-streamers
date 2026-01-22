@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-22T23:00:22.721Z",
+  "timestamp": "2026-01-22T23:09:51.758Z",
   "live": [
     {
       "username": "Maya",
@@ -26,6 +26,12 @@
       "started_at": "2026-01-22T21:08:11Z"
     },
     {
+      "username": "imreallyimportant",
+      "title": "JACK SMITH TESTIFIES PUBLICLY FOR THE FIRST TIME - STRONGLY DEFENDS HIS CASES AGAINST TRUMP",
+      "game": "Just Chatting",
+      "started_at": "2026-01-22T22:59:36Z"
+    },
+    {
       "username": "DrMick",
       "title": "Therapist Plays GTA IV: Part 17",
       "game": "Grand Theft Auto IV",
@@ -38,22 +44,22 @@
       "started_at": "2026-01-22T18:59:46Z"
     },
     {
-      "username": "AndrewHolding",
-      "title": "[UK/USA] Science co-stream AMA, Raising Money for Cancer Research UK (!donate) and solving duck mysteries!",
-      "game": "Duck Detective: The Ghost of Glamping",
-      "started_at": "2026-01-22T21:25:46Z"
-    },
-    {
       "username": "pencenter",
       "title": "Congruences, inverses and matrix systems in mod arithmetic OH MY [!fish🎣|!commands💻]",
       "game": "Math",
       "started_at": "2026-01-22T20:22:42Z"
     },
     {
-      "username": "imreallyimportant",
-      "title": "JACK SMITH TESTIFIES PUBLICLY FOR THE FIRST TIME - STRONGLY DEFENDS HIS CASES AGAINST TRUMP",
-      "game": "Just Chatting",
-      "started_at": "2026-01-22T22:59:36Z"
+      "username": "AndrewHolding",
+      "title": "[UK/USA] Science co-stream AMA, Raising Money for Cancer Research UK (!donate) and solving duck mysteries!",
+      "game": "Duck Detective: The Ghost of Glamping",
+      "started_at": "2026-01-22T21:25:46Z"
+    },
+    {
+      "username": "shnaff",
+      "title": "Guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-01-22T23:01:49Z"
     },
     {
       "username": "SETIInstitute",
