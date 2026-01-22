@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-22T23:09:51.758Z",
+  "timestamp": "2026-01-22T23:21:31.050Z",
   "live": [
     {
       "username": "Maya",
@@ -38,6 +38,12 @@
       "started_at": "2026-01-22T20:53:31Z"
     },
     {
+      "username": "shnaff",
+      "title": "Guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-01-22T23:01:49Z"
+    },
+    {
       "username": "SydHeresy",
       "title": "Back From The Gig! Let's Mess With Electronics!!!",
       "game": "Science & Technology",
@@ -54,18 +60,6 @@
       "title": "[UK/USA] Science co-stream AMA, Raising Money for Cancer Research UK (!donate) and solving duck mysteries!",
       "game": "Duck Detective: The Ghost of Glamping",
       "started_at": "2026-01-22T21:25:46Z"
-    },
-    {
-      "username": "shnaff",
-      "title": "Guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-01-22T23:01:49Z"
-    },
-    {
-      "username": "SETIInstitute",
-      "title": "SETI@home Update: 21 Years of Citizen Science—and 100 Signals to Investigate",
-      "game": "Talk Shows & Podcasts",
-      "started_at": "2026-01-22T22:30:30Z"
     }
   ]
 }
