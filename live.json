@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-22T23:21:31.050Z",
+  "timestamp": "2026-01-22T23:32:49.629Z",
   "live": [
     {
       "username": "Maya",
@@ -15,8 +15,8 @@
     },
     {
       "username": "EJ_SA",
-      "title": "Let get the Corris rolling! (Just Rolling)..... My Winter Car ATTEMPT III (Part 9)",
-      "game": "My Winter Car",
+      "title": "EJ's Space and Rocket Revue! 1/22/26",
+      "game": "Science & Technology",
       "started_at": "2026-01-22T17:09:07Z"
     },
     {
@@ -32,12 +32,6 @@
       "started_at": "2026-01-22T22:59:36Z"
     },
     {
-      "username": "DrMick",
-      "title": "Therapist Plays GTA IV: Part 17",
-      "game": "Grand Theft Auto IV",
-      "started_at": "2026-01-22T20:53:31Z"
-    },
-    {
       "username": "shnaff",
       "title": "Guitar, piano, and singing in !stereo🎧",
       "game": "Music",
@@ -50,16 +44,16 @@
       "started_at": "2026-01-22T18:59:46Z"
     },
     {
-      "username": "pencenter",
-      "title": "Congruences, inverses and matrix systems in mod arithmetic OH MY [!fish🎣|!commands💻]",
-      "game": "Math",
-      "started_at": "2026-01-22T20:22:42Z"
-    },
-    {
       "username": "AndrewHolding",
       "title": "[UK/USA] Science co-stream AMA, Raising Money for Cancer Research UK (!donate) and solving duck mysteries!",
       "game": "Duck Detective: The Ghost of Glamping",
       "started_at": "2026-01-22T21:25:46Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "Congruences, inverses and matrix systems in mod arithmetic OH MY [!fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-01-22T20:22:42Z"
     }
   ]
 }
