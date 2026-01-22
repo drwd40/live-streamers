@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-22T00:32:51.027Z",
+  "timestamp": "2026-01-22T00:57:53.450Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,22 @@
       "started_at": "2026-01-21T22:54:57Z"
     },
     {
+      "username": "ipaintbirbs",
+      "title": "coworking through the shop update!!!",
+      "game": "Art",
+      "started_at": "2026-01-21T23:43:20Z"
+    },
+    {
       "username": "Paleontologizing",
       "title": "📰🦖 DINOSAUR NEWS catch-up 💥 Tyrannosaur growth, ceratosaur jaw mechanics, thick-headed troodontid +more (w/ paleontologist Danny Anduza)",
       "game": "Science & Technology",
       "started_at": "2026-01-21T20:43:49Z"
     },
     {
-      "username": "ipaintbirbs",
-      "title": "coworking through the shop update!!!",
-      "game": "Art",
-      "started_at": "2026-01-21T23:43:20Z"
+      "username": "AstroCanuck",
+      "title": "Astro's Po'Pourri: Back from NASA and Artemis II Rollout | !giveaway Jan 25 | !drop !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-01-22T00:37:01Z"
     },
     {
       "username": "DrawCuriosity",
@@ -38,16 +44,16 @@
       "started_at": "2026-01-21T21:03:27Z"
     },
     {
-      "username": "pencenter",
-      "title": "Riemann surfaces galore! [!fish🎣|!commands💻]",
-      "game": "Math",
-      "started_at": "2026-01-21T22:27:50Z"
-    },
-    {
       "username": "nSimplexPachinko",
       "title": "Cracking the GRE, Night 030: Power Series",
       "game": "Math",
       "started_at": "2026-01-21T21:57:27Z"
+    },
+    {
+      "username": "Ask_a_Scientist_Gaming",
+      "title": "Dr. Christian Hubicki – Robotics Engineering, and MegaMan X.",
+      "game": "Science & Technology",
+      "started_at": "2026-01-22T00:56:11Z"
     }
   ]
 }
