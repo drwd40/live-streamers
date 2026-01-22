@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-22T19:42:36.603Z",
+  "timestamp": "2026-01-22T19:50:17.397Z",
   "live": [
     {
       "username": "Kitboga",
@@ -20,12 +20,6 @@
       "started_at": "2026-01-22T17:09:07Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Development tasks again! (day 293)",
-      "game": "Software and Game Development",
-      "started_at": "2026-01-22T16:33:49Z"
-    },
-    {
       "username": "Zachap",
       "title": "Partner Push? lol. liberals aren't good. capitalism bad. socialism communism good. trump bad.",
       "game": "Just Chatting",
@@ -38,16 +32,16 @@
       "started_at": "2026-01-22T18:59:46Z"
     },
     {
-      "username": "happyknightmares",
-      "title": "Watch a Ninja Turtle do another grad school application 🐢 📝 Studying synesthesia and co-working! 🎨🧠 ONE DOWN, one more to go!!! :D",
-      "game": "Science & Technology",
-      "started_at": "2026-01-22T19:28:24Z"
-    },
-    {
       "username": "DrAlexanderClarke",
       "title": "What if Winston Churchill doesn't pause Carriers, Capital Ships & Cruisers in 1939? Patreon Live",
       "game": "Just Chatting",
       "started_at": "2026-01-22T19:32:24Z"
+    },
+    {
+      "username": "happyknightmares",
+      "title": "Watch a Ninja Turtle do another grad school application 🐢 📝 Studying synesthesia and co-working! 🎨🧠 ONE DOWN, one more to go!!! :D",
+      "game": "Science & Technology",
+      "started_at": "2026-01-22T19:28:24Z"
     }
   ]
 }
