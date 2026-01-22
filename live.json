@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-22T22:21:09.818Z",
+  "timestamp": "2026-01-22T22:35:25.133Z",
   "live": [
+    {
+      "username": "Maya",
+      "title": "COSPLAY IRL WITH @EMIRU @YOURRAGEGAMING @CINNA⭐️✨️",
+      "game": "Just Chatting",
+      "started_at": "2026-01-22T22:23:16Z"
+    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-01-22T13:38:54Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "New fossil discoveries 🦴🆕 Giant sea crocs, patterns to marine extinctions +more 🐦then Thursday BIRDSday (w/ paleontologist Danny Anduza)",
-      "game": "Just Chatting",
-      "started_at": "2026-01-22T21:08:11Z"
     },
     {
       "username": "EJ_SA",
@@ -20,16 +20,16 @@
       "started_at": "2026-01-22T17:09:07Z"
     },
     {
+      "username": "Paleontologizing",
+      "title": "New fossil discoveries 🦴🆕 Giant sea crocs, patterns to marine extinctions +more 🐦then Thursday BIRDSday (w/ paleontologist Danny Anduza)",
+      "game": "Just Chatting",
+      "started_at": "2026-01-22T21:08:11Z"
+    },
+    {
       "username": "DrMick",
       "title": "Therapist Plays GTA IV: Part 17",
       "game": "Grand Theft Auto IV",
       "started_at": "2026-01-22T20:53:31Z"
-    },
-    {
-      "username": "Zachap",
-      "title": "Partner Push? lol. liberals aren't good. capitalism bad. socialism communism good. trump bad.",
-      "game": "Just Chatting",
-      "started_at": "2026-01-22T10:05:30Z"
     },
     {
       "username": "SydHeresy",
@@ -48,6 +48,12 @@
       "title": "[UK/USA] Science co-stream AMA, Raising Money for Cancer Research UK (!donate) and solving duck mysteries!",
       "game": "Duck Detective: The Ghost of Glamping",
       "started_at": "2026-01-22T21:25:46Z"
+    },
+    {
+      "username": "SETIInstitute",
+      "title": "SETI@home Update: 21 Years of Citizen Science—and 100 Signals to Investigate",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2026-01-22T22:30:30Z"
     }
   ]
 }
