@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-22T17:47:09.277Z",
+  "timestamp": "2026-01-22T17:57:14.988Z",
   "live": [
     {
       "username": "Kitboga",
@@ -20,16 +20,16 @@
       "started_at": "2026-01-22T17:09:07Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Development tasks again! (day 293)",
-      "game": "Software and Game Development",
-      "started_at": "2026-01-22T16:33:49Z"
-    },
-    {
       "username": "csharpfritz",
       "title": "Updating Apps with AI",
       "game": "Software and Game Development",
       "started_at": "2026-01-22T14:18:32Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Development tasks again! (day 293)",
+      "game": "Software and Game Development",
+      "started_at": "2026-01-22T16:33:49Z"
     },
     {
       "username": "Zachap",
