@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-22T21:35:48.790Z",
+  "timestamp": "2026-01-22T21:45:30.974Z",
   "live": [
     {
       "username": "Kitboga",
@@ -56,16 +56,16 @@
       "started_at": "2026-01-22T19:32:24Z"
     },
     {
-      "username": "happyknightmares",
-      "title": "Watch a Ninja Turtle do another grad school application 🐢 📝 Studying synesthesia and co-working! 🎨🧠 ONE DOWN, one more to go!!! :D",
-      "game": "Science & Technology",
-      "started_at": "2026-01-22T19:28:24Z"
-    },
-    {
       "username": "AndrewHolding",
       "title": "[UK/USA] Science co-stream AMA, Raising Money for Cancer Research UK (!donate) and solving duck mysteries!",
       "game": "Duck Detective: The Ghost of Glamping",
       "started_at": "2026-01-22T21:25:46Z"
+    },
+    {
+      "username": "happyknightmares",
+      "title": "Watch a Ninja Turtle do another grad school application 🐢 📝 Studying synesthesia and co-working! 🎨🧠 ONE DOWN, one more to go!!! :D",
+      "game": "Science & Technology",
+      "started_at": "2026-01-22T19:28:24Z"
     }
   ]
 }
