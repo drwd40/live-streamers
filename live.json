@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-23T20:58:14.638Z",
+  "timestamp": "2026-01-23T21:08:06.089Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -44,16 +44,16 @@
       "started_at": "2026-01-23T20:26:50Z"
     },
     {
-      "username": "SharkG33k",
-      "title": "Fin Friday! Recording an educational cover of Ace of Spades",
-      "game": "Music",
-      "started_at": "2026-01-23T19:13:15Z"
-    },
-    {
       "username": "Stephen_Wolfram",
       "title": "Future of Science and Technology Q&A (January 23, 2026)",
       "game": "Science & Technology",
       "started_at": "2026-01-23T20:39:37Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Fin Friday! Recording an educational cover of Ace of Spades",
+      "game": "Music",
+      "started_at": "2026-01-23T19:13:15Z"
     }
   ]
 }
