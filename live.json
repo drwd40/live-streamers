@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-23T21:54:28.633Z",
+  "timestamp": "2026-01-23T22:00:11.184Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -9,7 +9,7 @@
     },
     {
       "username": "EJ_SA",
-      "title": "Fixing a snow blower and generator before a big storm!",
+      "title": "3 Americans and a Human - The Flame Trench! 1/23/26",
       "game": "Science & Technology",
       "started_at": "2026-01-23T16:47:29Z"
     },
@@ -20,16 +20,16 @@
       "started_at": "2026-01-23T17:07:02Z"
     },
     {
-      "username": "Zachap",
-      "title": "TRUMP PROTESTING ACAB VENEZUELA CHINA GREENLAND DRUGS PALESTINE COMMUNISM EDUCATION AI ARTIFICIAL INTELLIGENCE CLIMATE CHANGE UNBOXING NEWS",
-      "game": "Just Chatting",
-      "started_at": "2026-01-23T10:04:57Z"
-    },
-    {
       "username": "IrishJohnGames",
       "title": "🍀Rise of Piracy - Game Dev | !ppp (53 / 100) !discord !streamers !MicroProse !steam",
       "game": "Software and Game Development",
       "started_at": "2026-01-23T20:00:25Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "TRUMP PROTESTING ACAB VENEZUELA CHINA GREENLAND DRUGS PALESTINE COMMUNISM EDUCATION AI ARTIFICIAL INTELLIGENCE CLIMATE CHANGE UNBOXING NEWS",
+      "game": "Just Chatting",
+      "started_at": "2026-01-23T10:04:57Z"
     },
     {
       "username": "DrawCuriosity",
@@ -42,12 +42,6 @@
       "title": "Future of Science and Technology Q&A (January 23, 2026)",
       "game": "Science & Technology",
       "started_at": "2026-01-23T20:39:37Z"
-    },
-    {
-      "username": "SharkG33k",
-      "title": "Fin Friday! Recording an educational cover of Ace of Spades",
-      "game": "Music",
-      "started_at": "2026-01-23T19:13:15Z"
     }
   ]
 }
