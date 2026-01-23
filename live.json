@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-23T04:31:59.326Z",
+  "timestamp": "2026-01-23T04:51:22.918Z",
   "live": [
     {
       "username": "Maya",
@@ -12,12 +12,6 @@
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-01-22T13:38:54Z"
-    },
-    {
-      "username": "imreallyimportant",
-      "title": "JACK SMITH TESTIFIES PUBLICLY FOR THE FIRST TIME - STRONGLY DEFENDS HIS CASES AGAINST TRUMP",
-      "game": "Just Chatting",
-      "started_at": "2026-01-22T22:59:36Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -34,7 +28,7 @@
     {
       "username": "Nerduino",
       "title": "Space and Science News with a PhD Astronomer and former NASA guy.  #science #space",
-      "game": "Science & Technology",
+      "game": "Elite: Dangerous",
       "started_at": "2026-01-23T01:47:48Z"
     },
     {
@@ -48,6 +42,12 @@
       "title": "ADHD children (and teens) and fire, Occitan language,  and protecting hunters and farm workers from chronic wasting disease.",
       "game": "IRL",
       "started_at": "2026-01-23T02:29:19Z"
+    },
+    {
+      "username": "happyknightmares",
+      "title": "Watch a Ninja Turtle do another grad school application 🐢 📝 Studying synesthesia and co-working! 🎨🧠 ONE DOWN, one more to go!!! :D",
+      "game": "Science & Technology",
+      "started_at": "2026-01-23T04:38:39Z"
     }
   ]
 }
