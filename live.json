@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-23T01:12:23.365Z",
+  "timestamp": "2026-01-23T01:54:37.006Z",
   "live": [
     {
       "username": "Maya",
@@ -15,21 +15,21 @@
     },
     {
       "username": "EJ_SA",
-      "title": "EJ's Space and Rocket Revue! 1/22/26",
-      "game": "Science & Technology",
+      "title": "Assembling the car to figure out what parts we still need! My Winter Car ATTEMPT III (Part 10)",
+      "game": "My Winter Car",
       "started_at": "2026-01-22T17:09:07Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "New fossil discoveries 🦴🆕 Giant sea crocs, patterns to marine extinctions +more 🐦then Thursday BIRDSday (w/ paleontologist Danny Anduza)",
-      "game": "Just Chatting",
-      "started_at": "2026-01-22T21:08:11Z"
     },
     {
       "username": "imreallyimportant",
       "title": "JACK SMITH TESTIFIES PUBLICLY FOR THE FIRST TIME - STRONGLY DEFENDS HIS CASES AGAINST TRUMP",
       "game": "Just Chatting",
       "started_at": "2026-01-22T22:59:36Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "New fossil discoveries 🦴🆕 Giant sea crocs, patterns to marine extinctions +more 🐦then Thursday BIRDSday (w/ paleontologist Danny Anduza)",
+      "game": "Just Chatting",
+      "started_at": "2026-01-22T21:08:11Z"
     },
     {
       "username": "SydHeresy",
@@ -44,16 +44,22 @@
       "started_at": "2026-01-22T23:01:49Z"
     },
     {
+      "username": "SharkG33k",
+      "title": "Thrash Thursday! Scuba BCD inflator repair (music later)",
+      "game": "Science & Technology",
+      "started_at": "2026-01-23T01:09:36Z"
+    },
+    {
       "username": "MelissaInDeNile",
       "title": "Let's finish some side quests in Assassin's Creed: Brotherhood!! ~ Follower Goal: 2245/2300 ~ !socials !beyonddenile",
       "game": "Assassin's Creed Brotherhood",
       "started_at": "2026-01-22T23:49:44Z"
     },
     {
-      "username": "SharkG33k",
-      "title": "Thrash Thursday! Scuba BCD inflator repair (music later)",
+      "username": "Nerduino",
+      "title": "Space and Science News with a PhD Astronomer and former NASA guy.  #science #space",
       "game": "Science & Technology",
-      "started_at": "2026-01-23T01:09:36Z"
+      "started_at": "2026-01-23T01:47:48Z"
     }
   ]
 }
