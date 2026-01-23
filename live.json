@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-23T19:13:24.291Z",
+  "timestamp": "2026-01-23T19:26:15.567Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "Sim setup: Dealing with steering and beamises.",
       "game": "Just Chatting",
       "started_at": "2026-01-23T17:39:28Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Fin Friday! Recording an educational cover of Ace of Spades",
+      "game": "Music",
+      "started_at": "2026-01-23T19:13:15Z"
     }
   ]
 }
