@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-23T21:08:06.089Z",
+  "timestamp": "2026-01-23T21:19:01.369Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,22 +26,16 @@
       "started_at": "2026-01-23T10:04:57Z"
     },
     {
-      "username": "IrishJohnGames",
-      "title": "🍀Rise of Piracy - Game Dev | !ppp (53 / 100) !discord !streamers !MicroProse !steam",
-      "game": "Software and Game Development",
-      "started_at": "2026-01-23T20:00:25Z"
-    },
-    {
-      "username": "oh_bother",
-      "title": "Sim setup: Dealing with steering and beamises.",
-      "game": "Just Chatting",
-      "started_at": "2026-01-23T17:39:28Z"
-    },
-    {
       "username": "DrawCuriosity",
       "title": "💦IT'S BURNS NIGHT - submit your favourite poetry to me - we're getting cultured together babyyyy!✨🐑",
       "game": "Writing & Reading",
       "started_at": "2026-01-23T20:26:50Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀Rise of Piracy - Game Dev | !ppp (53 / 100) !discord !streamers !MicroProse !steam",
+      "game": "Software and Game Development",
+      "started_at": "2026-01-23T20:00:25Z"
     },
     {
       "username": "Stephen_Wolfram",
