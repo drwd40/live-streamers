@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-23T02:36:24.332Z",
+  "timestamp": "2026-01-23T03:16:43.252Z",
   "live": [
     {
       "username": "Maya",
@@ -32,16 +32,16 @@
       "started_at": "2026-01-22T23:01:49Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Back From The Gig! Let's Mess With Electronics!!!",
-      "game": "Science & Technology",
-      "started_at": "2026-01-22T18:59:46Z"
-    },
-    {
       "username": "Nerduino",
       "title": "Space and Science News with a PhD Astronomer and former NASA guy.  #science #space",
       "game": "Science & Technology",
       "started_at": "2026-01-23T01:47:48Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Back From The Gig! Let's Mess With Electronics!!!",
+      "game": "Science & Technology",
+      "started_at": "2026-01-22T18:59:46Z"
     },
     {
       "username": "SharkG33k",
