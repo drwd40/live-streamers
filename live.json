@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-23T00:11:27.149Z",
+  "timestamp": "2026-01-23T00:43:05.516Z",
   "live": [
     {
       "username": "Maya",
@@ -20,16 +20,16 @@
       "started_at": "2026-01-22T17:09:07Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "New fossil discoveries 🦴🆕 Giant sea crocs, patterns to marine extinctions +more 🐦then Thursday BIRDSday (w/ paleontologist Danny Anduza)",
-      "game": "Just Chatting",
-      "started_at": "2026-01-22T21:08:11Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "JACK SMITH TESTIFIES PUBLICLY FOR THE FIRST TIME - STRONGLY DEFENDS HIS CASES AGAINST TRUMP",
       "game": "Just Chatting",
       "started_at": "2026-01-22T22:59:36Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "New fossil discoveries 🦴🆕 Giant sea crocs, patterns to marine extinctions +more 🐦then Thursday BIRDSday (w/ paleontologist Danny Anduza)",
+      "game": "Just Chatting",
+      "started_at": "2026-01-22T21:08:11Z"
     },
     {
       "username": "shnaff",
@@ -42,12 +42,6 @@
       "title": "Back From The Gig! Let's Mess With Electronics!!!",
       "game": "Science & Technology",
       "started_at": "2026-01-22T18:59:46Z"
-    },
-    {
-      "username": "pencenter",
-      "title": "Congruences, inverses and matrix systems in mod arithmetic OH MY [!fish🎣|!commands💻]",
-      "game": "Math",
-      "started_at": "2026-01-22T20:22:42Z"
     },
     {
       "username": "MelissaInDeNile",
