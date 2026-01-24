@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-24T23:12:37.829Z",
+  "timestamp": "2026-01-24T23:24:14.533Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-01-24T17:01:34Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Solder Solving Situations",
-      "game": "Science & Technology",
-      "started_at": "2026-01-24T19:07:34Z"
-    },
-    {
       "username": "AstroCanuck",
       "title": "Astro's Po'Pourri: Space News & LEGO build preview | !continental | !giveaway TOMORROW | !drop !tkf",
       "game": "Science & Technology",
       "started_at": "2026-01-24T23:03:17Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Solder Solving Situations",
+      "game": "Science & Technology",
+      "started_at": "2026-01-24T19:07:34Z"
     },
     {
       "username": "DonFactorial",
