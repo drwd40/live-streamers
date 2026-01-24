@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-24T19:07:12.237Z",
+  "timestamp": "2026-01-24T19:17:06.015Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "Bring Your Questions: A Math Q&A Problem Solving Stream",
       "game": "Math",
       "started_at": "2026-01-24T18:18:44Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Solder Solving Situations",
+      "game": "Science & Technology",
+      "started_at": "2026-01-24T19:07:34Z"
     }
   ]
 }
