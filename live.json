@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-24T12:42:28.449Z",
+  "timestamp": "2026-01-24T13:01:46.745Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "SCIENCE HISTORY POLITICS SOCIETY ENVIRONMENT PHILOSOPHY MATHS ASTRONOMY BIOLOGY PHYSICS PSYCHOLOGY ART GEOGRAPHY TECHNOLOGY LITERATURE DRAMA",
       "game": "Just Chatting",
       "started_at": "2026-01-24T10:02:41Z"
+    },
+    {
+      "username": "TinyToxicTofu",
+      "title": "A Productive Weekend Building Gadgets, Gimmicks and Defeating Odin in GOW !physics !cnc",
+      "game": "God of War Ragnarök",
+      "started_at": "2026-01-24T13:00:14Z"
     }
   ]
 }
