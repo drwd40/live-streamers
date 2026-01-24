@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-24T23:24:14.533Z",
+  "timestamp": "2026-01-24T23:33:11.213Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "baking a pie -> 3 years of streaming -> arrows are the new commas",
       "game": "Food & Drink",
       "started_at": "2026-01-24T22:42:08Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "Piracy Time... with Naval History & Pirates of the Burning Sea",
+      "game": "Pirates of the Burning Sea",
+      "started_at": "2026-01-24T23:26:13Z"
     }
   ]
 }
