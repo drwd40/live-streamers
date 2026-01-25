@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-25T17:41:53.573Z",
+  "timestamp": "2026-01-25T17:48:50.728Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-01-25T13:28:40Z"
     },
     {
-      "username": "AstroCanuck",
-      "title": "Lazy Sunday LEGO: Tudor Corner & !giveaway day | !continental | !drop !tkf",
-      "game": "Lego & Brickbuilding",
-      "started_at": "2026-01-25T15:02:41Z"
-    },
-    {
       "username": "ArchitectureTV",
       "title": "SNOWstorm 30cm+ TORONTO💜 historic and contemporary buildings | Architecture IRL",
       "game": "IRL",
       "started_at": "2026-01-25T17:24:39Z"
+    },
+    {
+      "username": "AstroCanuck",
+      "title": "Lazy Sunday LEGO: Tudor Corner & !giveaway day | !continental | !drop !tkf",
+      "game": "Lego & Brickbuilding",
+      "started_at": "2026-01-25T15:02:41Z"
     },
     {
       "username": "LumiRue",
@@ -42,12 +42,6 @@
       "title": "DnD Character Creation & Wild West Park Build! YEE-ROAR! | !linktree !discord",
       "game": "Just Chatting",
       "started_at": "2026-01-25T17:00:48Z"
-    },
-    {
-      "username": "sciencestreams",
-      "title": "Science News! Prototaxites | Fastest Solar Evaporator | Conservation of Water Not Enough🧪🌿",
-      "game": "Just Chatting",
-      "started_at": "2026-01-25T15:52:55Z"
     }
   ]
 }
