@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-25T15:53:02.234Z",
+  "timestamp": "2026-01-25T15:58:57.941Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "So Vikings are Naval History Right?",
       "game": "Northgard",
       "started_at": "2026-01-25T13:05:14Z"
+    },
+    {
+      "username": "sciencestreams",
+      "title": "Science News! Prototaxites | Fastest Solar Evaporator | Conservation of Water Not Enough🧪🌿",
+      "game": "Just Chatting",
+      "started_at": "2026-01-25T15:52:55Z"
     }
   ]
 }
