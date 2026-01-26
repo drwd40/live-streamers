@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-26T06:50:35.200Z",
+  "timestamp": "2026-01-26T07:03:29.081Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,12 +12,6 @@
       "title": "Therapist Plays Gears of War: Part 2",
       "game": "Gears of War: Reloaded",
       "started_at": "2026-01-26T06:07:04Z"
-    },
-    {
-      "username": "walkingsticklibrary",
-      "title": "Music to improve breathing, glue from sap, and post-exposure prophylaxis for rabies.",
-      "game": "IRL",
-      "started_at": "2026-01-26T02:30:13Z"
     }
   ]
 }
