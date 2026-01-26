@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-26T01:56:07.291Z",
+  "timestamp": "2026-01-26T02:49:00.608Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,6 +14,12 @@
       "started_at": "2026-01-25T22:49:35Z"
     },
     {
+      "username": "SciAnts_Streams",
+      "title": "SciAnts Sunday | Hunting for insects in tiny worlds in Grounded 2 and chatting science | | Partner+ 249/300 | !ppp !yt !pod !gala",
+      "game": "Grounded 2",
+      "started_at": "2026-01-26T02:03:36Z"
+    },
+    {
       "username": "LumiRue",
       "title": "Peak Community Gaming Night! :D !join | 1 sub = tarot pull",
       "game": "PEAK",
@@ -22,8 +28,14 @@
     {
       "username": "Nerduino",
       "title": "Space and Science News with a PhD Astronomer and former NASA guy.  #science #space",
-      "game": "Elite: Dangerous",
+      "game": "Science & Technology",
       "started_at": "2026-01-26T01:53:05Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Music to improve breathing, glue from sap, and post-exposure prophylaxis for rabies.",
+      "game": "IRL",
+      "started_at": "2026-01-26T02:30:13Z"
     }
   ]
 }
