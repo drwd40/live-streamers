@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-26T21:59:16.680Z",
+  "timestamp": "2026-01-26T22:09:25.094Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "HTML/JS/CSS: Making a Twitch Quiz Show (Sixteen)",
       "game": "Software and Game Development",
       "started_at": "2026-01-26T18:57:55Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "It's getting dICEy outside, stay inside and learn some math instead!",
+      "game": "Math",
+      "started_at": "2026-01-26T22:05:42Z"
     }
   ]
 }
