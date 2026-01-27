@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-27T17:51:29.161Z",
+  "timestamp": "2026-01-27T17:59:51.493Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-01-27T17:38:54Z"
     },
     {
-      "username": "csharpfritz",
-      "title": "CodeMedic with Copilot",
-      "game": "Software and Game Development",
-      "started_at": "2026-01-27T14:07:07Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "49 days until launch 🚀 (day 296)",
       "game": "Software and Game Development",
       "started_at": "2026-01-27T16:31:32Z"
+    },
+    {
+      "username": "csharpfritz",
+      "title": "CodeMedic with Copilot",
+      "game": "Software and Game Development",
+      "started_at": "2026-01-27T14:07:07Z"
     },
     {
       "username": "Zachap",
