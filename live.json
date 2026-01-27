@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-27T21:00:05.319Z",
+  "timestamp": "2026-01-27T21:08:40.371Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,22 +20,28 @@
       "started_at": "2026-01-27T19:17:01Z"
     },
     {
-      "username": "Zachap",
-      "title": "Rage Bait is a trap.",
-      "game": "Just Chatting",
-      "started_at": "2026-01-27T10:01:36Z"
-    },
-    {
       "username": "oh_bother",
       "title": "Sim setup: The structure! The exhausting work of adjusting everything endlessly.",
       "game": "Just Chatting",
       "started_at": "2026-01-27T17:38:54Z"
     },
     {
+      "username": "Zachap",
+      "title": "Rage Bait is a trap.",
+      "game": "Just Chatting",
+      "started_at": "2026-01-27T10:01:36Z"
+    },
+    {
       "username": "SydHeresy",
       "title": "Electronics - Soldering - Repairs - Vibez",
       "game": "Science & Technology",
       "started_at": "2026-01-27T19:30:14Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "🐢 TURTLE TUESDAY 🐢 Let's talk about the world's largest living turtle, plus natural history Q&A (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-01-27T21:04:57Z"
     },
     {
       "username": "xTalkProgrammer",
