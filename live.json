@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-27T19:06:11.798Z",
+  "timestamp": "2026-01-27T19:18:01.405Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "Content Creator Drama is CHUD/Liberal Content",
       "game": "Just Chatting",
       "started_at": "2026-01-27T10:01:36Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "🎉 3 Year Twitch Partnerversary! 🎉| Munchkin's bday, Tardigrade Art Gala, community celebrations! | Partner+ 260/300 | !ppp !yt !pod !gala",
+      "game": "Science & Technology",
+      "started_at": "2026-01-27T19:17:01Z"
     }
   ]
 }
