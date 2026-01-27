@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-27T14:44:45.808Z",
+  "timestamp": "2026-01-27T14:58:04.428Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-01-27T10:01:36Z"
     },
     {
-      "username": "IrishJohnGames",
-      "title": "🍀Rise of Piracy - Game Dev | !ppp (57 / 100) !discord !streamers !MicroProse !steam",
-      "game": "Software and Game Development",
-      "started_at": "2026-01-27T12:35:57Z"
-    },
-    {
       "username": "csharpfritz",
       "title": "CodeMedic with Copilot",
       "game": "Software and Game Development",
       "started_at": "2026-01-27T14:07:07Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀Rise of Piracy - Game Dev | !ppp (57 / 100) !discord !streamers !MicroProse !steam",
+      "game": "Software and Game Development",
+      "started_at": "2026-01-27T12:35:57Z"
     }
   ]
 }
