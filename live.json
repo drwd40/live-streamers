@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-27T21:30:27.946Z",
+  "timestamp": "2026-01-27T21:39:13.790Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -54,6 +54,12 @@
       "title": "Blue Prince, Night 03: Starting Day 8, more note-taking. Discoveries on the edge of perception.",
       "game": "Blue Prince",
       "started_at": "2026-01-27T21:29:00Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and being confused at homework",
+      "game": "Math",
+      "started_at": "2026-01-27T21:36:01Z"
     }
   ]
 }
