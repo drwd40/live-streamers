@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-27T21:08:40.371Z",
+  "timestamp": "2026-01-27T21:19:43.569Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -16,7 +16,7 @@
     {
       "username": "SciAnts_Streams",
       "title": "🎉 3 Year Twitch Partnerversary! 🎉| Munchkin's bday, Tardigrade Art Gala, community celebrations! | Partner+ 260/300 | !ppp !yt !pod !gala",
-      "game": "Marbles on Stream",
+      "game": "Science & Technology",
       "started_at": "2026-01-27T19:17:01Z"
     },
     {
@@ -24,6 +24,12 @@
       "title": "Sim setup: The structure! The exhausting work of adjusting everything endlessly.",
       "game": "Just Chatting",
       "started_at": "2026-01-27T17:38:54Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "🐢 TURTLE TUESDAY 🐢 Let's talk about the world's largest living turtle, plus natural history Q&A (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-01-27T21:04:57Z"
     },
     {
       "username": "Zachap",
@@ -36,12 +42,6 @@
       "title": "Electronics - Soldering - Repairs - Vibez",
       "game": "Science & Technology",
       "started_at": "2026-01-27T19:30:14Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "🐢 TURTLE TUESDAY 🐢 Let's talk about the world's largest living turtle, plus natural history Q&A (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-01-27T21:04:57Z"
     },
     {
       "username": "xTalkProgrammer",
