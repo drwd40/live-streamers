@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-01-27T21:39:13.790Z",
+  "timestamp": "2026-01-27T21:47:29.049Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-01-26T13:41:59Z"
-    },
-    {
-      "username": "EJ_SA",
-      "title": "On the hunt for the last couple of parts I need! My Winter Car ATTEMPT III (Part 12)",
-      "game": "My Winter Car",
-      "started_at": "2026-01-27T18:24:34Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -50,16 +44,16 @@
       "started_at": "2026-01-27T20:15:37Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "Blue Prince, Night 03: Starting Day 8, more note-taking. Discoveries on the edge of perception.",
-      "game": "Blue Prince",
-      "started_at": "2026-01-27T21:29:00Z"
-    },
-    {
       "username": "DonFactorial",
       "title": "Answering your math questions and being confused at homework",
       "game": "Math",
       "started_at": "2026-01-27T21:36:01Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Blue Prince, Night 03: Starting Day 8, more note-taking. Discoveries on the edge of perception.",
+      "game": "Blue Prince",
+      "started_at": "2026-01-27T21:29:00Z"
     }
   ]
 }
