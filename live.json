@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-27T22:53:23.328Z",
+  "timestamp": "2026-01-27T22:59:36.490Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "Answering your math questions and being confused at homework",
       "game": "Math",
       "started_at": "2026-01-27T21:36:01Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "An Introduction to Algebra: \"Stickers and Darbux\"",
+      "game": "Math",
+      "started_at": "2026-01-27T22:55:57Z"
     },
     {
       "username": "nSimplexPachinko",
