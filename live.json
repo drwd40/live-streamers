@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-28T00:44:29.595Z",
+  "timestamp": "2026-01-28T01:14:24.884Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-01-27T19:17:01Z"
     },
     {
+      "username": "AstroCanuck",
+      "title": "Astro's Po'Pourri: LEGO Tudor Corner - 11:38pm Rocket Launch (remind me) | !continental | !drop !tkf",
+      "game": "Lego & Brickbuilding",
+      "started_at": "2026-01-28T00:55:30Z"
+    },
+    {
       "username": "Zachap",
       "title": "Rage Bait is a trap.",
       "game": "Just Chatting",
       "started_at": "2026-01-27T10:01:36Z"
-    },
-    {
-      "username": "SydHeresy",
-      "title": "Electronics - Soldering - Repairs - Vibez",
-      "game": "Science & Technology",
-      "started_at": "2026-01-27T19:30:14Z"
     },
     {
       "username": "shnaff",
@@ -44,10 +44,10 @@
       "started_at": "2026-01-27T23:02:17Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "An Introduction to Algebra: \"Stickers and Darbux\"",
-      "game": "Math",
-      "started_at": "2026-01-27T22:55:57Z"
+      "username": "SydHeresy",
+      "title": "Electronics - Soldering - Repairs - Vibez",
+      "game": "Science & Technology",
+      "started_at": "2026-01-27T19:30:14Z"
     },
     {
       "username": "MelissaInDeNile",
@@ -60,6 +60,12 @@
       "title": "Answering your math questions and being confused at homework",
       "game": "Math",
       "started_at": "2026-01-27T21:36:01Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "An Introduction to Algebra: \"Stickers and Darbux\"",
+      "game": "Math",
+      "started_at": "2026-01-27T22:55:57Z"
     },
     {
       "username": "nSimplexPachinko",
