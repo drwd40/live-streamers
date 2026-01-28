@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-01-28T22:00:51.604Z",
+  "timestamp": "2026-01-28T22:13:00.459Z",
   "live": [
     {
       "username": "Maya",
-      "title": "dougdoug challenge with @extraemily",
+      "title": "dougdoug challenge with @extraemily @Zoil @juliakins",
       "game": "Just Chatting",
       "started_at": "2026-01-28T16:29:52Z"
     },
@@ -36,6 +36,18 @@
       "title": "education and politics without the slop? raid here? lol",
       "game": "Just Chatting",
       "started_at": "2026-01-28T10:01:21Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "Riemann Surface WEDNESDAY @the_kahler_cone @academyofuselessideas [!fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-01-28T22:11:21Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Cracking the GRE Math Subject Test, Night 031: Taylor Series, and more!",
+      "game": "Math",
+      "started_at": "2026-01-28T22:12:08Z"
     }
   ]
 }
