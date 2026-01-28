@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-28T01:57:30.221Z",
+  "timestamp": "2026-01-28T02:47:15.276Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,12 +14,6 @@
       "started_at": "2026-01-27T19:17:01Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "🐢 TURTLE TUESDAY 🐢 Let's talk about the world's largest living turtle, plus natural history Q&A (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-01-27T21:04:57Z"
-    },
-    {
       "username": "AstroCanuck",
       "title": "Astro's Po'Pourri: LEGO Tudor Corner - 11:38pm Rocket Launch (remind me) | !continental | !drop !tkf",
       "game": "Lego & Brickbuilding",
@@ -32,18 +26,6 @@
       "started_at": "2026-01-27T19:30:14Z"
     },
     {
-      "username": "MelissaInDeNile",
-      "title": "On our way to 100% Lego Pirates of the Caribbean!! ~ Follower Goal: 2248/2300 ~ !socials !beyonddenile",
-      "game": "LEGO Pirates of the Caribbean: The Video Game",
-      "started_at": "2026-01-27T23:50:04Z"
-    },
-    {
-      "username": "eToThe2iPi",
-      "title": "An Introduction to Algebra: \"Stickers and Darbux\"",
-      "game": "Math",
-      "started_at": "2026-01-27T22:55:57Z"
-    },
-    {
       "username": "Nerduino",
       "title": "Tuesday Space and Science News with a PhD Astronomer and former NASA guy.  #science #space",
       "game": "Science & Technology",
@@ -53,13 +35,31 @@
       "username": "SharkG33k",
       "title": "It's Toothday! Making a video for a contest AND shark science news if we have time!",
       "game": "Co-working & Studying",
-      "started_at": "2026-01-28T01:45:39Z"
+      "started_at": "2026-01-28T02:45:07Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-01-28T02:04:00Z"
+    },
+    {
+      "username": "MelissaInDeNile",
+      "title": "On our way to 100% Lego Pirates of the Caribbean!! ~ Follower Goal: 2248/2300 ~ !socials !beyonddenile",
+      "game": "LEGO Pirates of the Caribbean: The Video Game",
+      "started_at": "2026-01-27T23:50:04Z"
     },
     {
       "username": "nSimplexPachinko",
       "title": "Blue Prince, Night 03: Starting Day 8, more note-taking. Discoveries on the edge of perception.",
       "game": "Blue Prince",
       "started_at": "2026-01-27T21:29:00Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Mice in bee hives, multiplying dental procedures, and alzheimer research funded by the Bill Gates Foundation.",
+      "game": "IRL",
+      "started_at": "2026-01-28T02:30:15Z"
     }
   ]
 }
