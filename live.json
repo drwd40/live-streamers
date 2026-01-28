@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-28T18:51:34.149Z",
+  "timestamp": "2026-01-28T19:03:24.651Z",
   "live": [
     {
       "username": "Maya",
@@ -15,8 +15,8 @@
     },
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
-      "game": "Animals, Aquariums, and Zoos",
+      "title": "Projects w/ Dan | !alveus !institute !pixel !schedule !video !feed",
+      "game": "Just Chatting",
       "started_at": "2026-01-28T13:42:03Z"
     },
     {
@@ -36,6 +36,12 @@
       "title": "education and politics without the slop? raid here? lol",
       "game": "Just Chatting",
       "started_at": "2026-01-28T10:01:21Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Building/Discussing Differential Equations Curriculum",
+      "game": "Math",
+      "started_at": "2026-01-28T18:51:50Z"
     }
   ]
 }
