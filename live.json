@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-28T21:11:54.125Z",
+  "timestamp": "2026-01-28T21:25:08.057Z",
   "live": [
     {
       "username": "Maya",
@@ -26,6 +26,12 @@
       "started_at": "2026-01-28T17:04:22Z"
     },
     {
+      "username": "Paleontologizing",
+      "title": "📏 WORLD'S LARGEST TURTLE 📏 Let's talk about the LEATHERBACK, amazing survivor from the Age of Dinosaurs (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-01-28T21:11:27Z"
+    },
+    {
       "username": "DrMick",
       "title": "Mental Health Chat + Painting Rotigus",
       "game": "Miniatures & Models",
@@ -42,12 +48,6 @@
       "title": "Building/Discussing Differential Equations Curriculum",
       "game": "Math",
       "started_at": "2026-01-28T18:51:50Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "📏 WORLD'S LARGEST TURTLE 📏 Let's talk about the LEATHERBACK, amazing survivor from the Age of Dinosaurs (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-01-28T21:11:27Z"
     }
   ]
 }
