@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-29T19:57:07.571Z",
+  "timestamp": "2026-01-29T20:09:07.261Z",
   "live": [
     {
       "username": "Kitboga",
@@ -54,6 +54,12 @@
       "title": "Trials and Tribulations- why ships go through the testing they do before they enter service",
       "game": "Just Chatting",
       "started_at": "2026-01-29T19:30:16Z"
+    },
+    {
+      "username": "SETIInstitute",
+      "title": "Life After Ice: 46,000-Year-Old Worms Wake Up",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2026-01-29T20:02:00Z"
     }
   ]
 }
