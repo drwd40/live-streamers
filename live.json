@@ -1,23 +1,11 @@
 {
-  "timestamp": "2026-01-29T00:37:28.561Z",
+  "timestamp": "2026-01-29T01:04:56.190Z",
   "live": [
-    {
-      "username": "Maya",
-      "title": "dougdoug challenge with @extraemily @Zoil @juliakins",
-      "game": "Just Chatting",
-      "started_at": "2026-01-28T16:29:52Z"
-    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-01-28T13:42:03Z"
-    },
-    {
-      "username": "JapanesePrintmaking",
-      "title": "Making Japanese woodblock prints ... live while you watch ...",
-      "game": "Makers & Crafting",
-      "started_at": "2026-01-28T23:00:18Z"
     },
     {
       "username": "EJ_SA",
@@ -44,16 +32,16 @@
       "started_at": "2026-01-28T10:01:21Z"
     },
     {
-      "username": "pencenter",
-      "title": "Riemann Surface WEDNESDAY @the_kahler_cone @academyofuselessideas [!fish🎣|!commands💻]",
-      "game": "Math",
-      "started_at": "2026-01-28T22:11:21Z"
-    },
-    {
       "username": "nSimplexPachinko",
       "title": "Cracking the GRE Math Subject Test, Night 031: Taylor Series, and more!",
       "game": "Math",
       "started_at": "2026-01-28T22:12:08Z"
+    },
+    {
+      "username": "nogre0",
+      "title": "times a changing. new paper !we",
+      "game": "Just Chatting",
+      "started_at": "2026-01-29T01:00:14Z"
     }
   ]
 }
