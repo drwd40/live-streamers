@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-29T21:12:48.158Z",
+  "timestamp": "2026-01-29T21:25:59.979Z",
   "live": [
     {
       "username": "Kitboga",
@@ -26,10 +26,10 @@
       "started_at": "2026-01-29T17:37:42Z"
     },
     {
-      "username": "oh_bother",
-      "title": "Sim pit: Making suggestive 3d prints for me to crush under my feet. #AutocadAd",
-      "game": "Just Chatting",
-      "started_at": "2026-01-29T17:51:55Z"
+      "username": "Paleontologizing",
+      "title": "🦖 DINOSAUR SCIENCE Q&A 🦕 Get your paleontology questions answered 💬 + Thursday BIRDSday 🐦 (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-01-29T21:08:11Z"
     },
     {
       "username": "Zachap",
@@ -44,22 +44,28 @@
       "started_at": "2026-01-29T19:21:40Z"
     },
     {
+      "username": "SciAnts_Streams",
+      "title": "Silksong + Science | Insect tool use, using tools in game, and more! + Pokemon Later | Partner+ 324/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2026-01-29T21:23:24Z"
+    },
+    {
       "username": "pencenter",
       "title": "Beyond the Blackboard S2E2 - Student autonomy and more factoring!! [!fish🎣|!commands💻]",
       "game": "Math",
       "started_at": "2026-01-29T18:02:07Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "🦖 DINOSAUR SCIENCE Q&A 🦕 Get your paleontology questions answered 💬 + Thursday BIRDSday 🐦 (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-01-29T21:08:11Z"
-    },
-    {
       "username": "DrAlexanderClarke",
       "title": "Trials and Tribulations- why ships go through the testing they do before they enter service",
       "game": "Just Chatting",
       "started_at": "2026-01-29T19:30:16Z"
+    },
+    {
+      "username": "AndrewHolding",
+      "title": "[UK/USA] Science co-stream AMA, Raising Money for Cancer Research UK (!donate) and solving duck mysteries!",
+      "game": "Duck Detective: The Ghost of Glamping",
+      "started_at": "2026-01-29T21:21:52Z"
     }
   ]
 }
