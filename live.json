@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-29T17:53:24.207Z",
+  "timestamp": "2026-01-29T18:05:25.198Z",
   "live": [
     {
       "username": "Kitboga",
@@ -26,12 +26,6 @@
       "started_at": "2026-01-29T17:37:42Z"
     },
     {
-      "username": "csharpfritz",
-      "title": "Open Source Blazor Components",
-      "game": "Software and Game Development",
-      "started_at": "2026-01-29T14:10:10Z"
-    },
-    {
       "username": "Zachap",
       "title": "only certain people watch this stream. class consciousness in this economy? trump is just another chud? stay woke keep your eyes open.",
       "game": "Just Chatting",
@@ -42,6 +36,12 @@
       "title": "Sim pit: Making suggestive 3d prints for me to crush under my feet. #AutocadAd",
       "game": "Just Chatting",
       "started_at": "2026-01-29T17:51:55Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "Beyond the Blackboard S2E2 - Student autonomy and more factoring!! [!fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-01-29T18:02:07Z"
     }
   ]
 }
