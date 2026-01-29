@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-28T23:57:56.647Z",
+  "timestamp": "2026-01-29T00:37:28.561Z",
   "live": [
     {
       "username": "Maya",
@@ -14,22 +14,16 @@
       "started_at": "2026-01-28T13:42:03Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "EJ's Space and Rocket Revue! 1/28/26",
-      "game": "Science & Technology",
-      "started_at": "2026-01-28T17:04:22Z"
-    },
-    {
       "username": "JapanesePrintmaking",
       "title": "Making Japanese woodblock prints ... live while you watch ...",
       "game": "Makers & Crafting",
       "started_at": "2026-01-28T23:00:18Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "📏 WORLD'S LARGEST TURTLE 📏 Let's talk about the LEATHERBACK, amazing survivor from the Age of Dinosaurs (w/ paleontologist Danny Anduza)",
+      "username": "EJ_SA",
+      "title": "EJ's Space and Rocket Revue! 1/28/26",
       "game": "Science & Technology",
-      "started_at": "2026-01-28T21:11:27Z"
+      "started_at": "2026-01-28T17:04:22Z"
     },
     {
       "username": "imreallyimportant",
@@ -38,10 +32,10 @@
       "started_at": "2026-01-28T22:57:36Z"
     },
     {
-      "username": "DrMick",
-      "title": "Mental Health Chat + Painting Rotigus",
-      "game": "Miniatures & Models",
-      "started_at": "2026-01-28T19:37:11Z"
+      "username": "Paleontologizing",
+      "title": "📏 WORLD'S LARGEST TURTLE 📏 Let's talk about the LEATHERBACK, amazing survivor from the Age of Dinosaurs (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-01-28T21:11:27Z"
     },
     {
       "username": "Zachap",
