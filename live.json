@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-29T09:52:30.088Z",
+  "timestamp": "2026-01-29T10:07:29.258Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "🪐 Artemis II ✨ Close to a new emote slot!!",
       "game": "Science & Technology",
       "started_at": "2026-01-29T03:05:36Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "only certain people watch this stream",
+      "game": "Just Chatting",
+      "started_at": "2026-01-29T10:01:40Z"
     }
   ]
 }
