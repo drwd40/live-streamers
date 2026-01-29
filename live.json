@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-29T07:08:27.419Z",
+  "timestamp": "2026-01-29T07:28:22.461Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,22 +8,16 @@
       "started_at": "2026-01-28T13:42:03Z"
     },
     {
-      "username": "Moohoodles",
-      "title": "🪐 Artemis II / KSC recap vids!! ✨ Close to a new emote slot!!",
-      "game": "Science & Technology",
-      "started_at": "2026-01-29T03:05:36Z"
-    },
-    {
       "username": "SciAnts_Streams",
       "title": "🎉 3 Year Twitch Partnerversary! pt 2🎉| Tardigrade science and Tardigrade art! | Partner+ 321/300 | !ppp !yt !pod",
       "game": "Art",
       "started_at": "2026-01-29T02:00:22Z"
     },
     {
-      "username": "walkingsticklibrary",
-      "title": "Lead poisoning in raptors.  Is there hope for those with FLT-3 mutated acute myloid leukemia, and who was Al Hirschfeld?",
-      "game": "IRL",
-      "started_at": "2026-01-29T02:25:10Z"
+      "username": "Moohoodles",
+      "title": "🪐 Artemis II / KSC recap vids!! ✨ Close to a new emote slot!!",
+      "game": "Science & Technology",
+      "started_at": "2026-01-29T03:05:36Z"
     }
   ]
 }
