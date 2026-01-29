@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-29T01:04:56.190Z",
+  "timestamp": "2026-01-29T01:44:43.868Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -9,8 +9,8 @@
     },
     {
       "username": "EJ_SA",
-      "title": "EJ's Space and Rocket Revue! 1/28/26",
-      "game": "Science & Technology",
+      "title": "CAR TREK III: THE SEARCH FOR PARTS! My Winter Car ATTEMPT III (Part 13)",
+      "game": "My Winter Car",
       "started_at": "2026-01-28T17:04:22Z"
     },
     {
@@ -27,21 +27,21 @@
     },
     {
       "username": "Zachap",
-      "title": "education and politics without the slop? raid here? lol",
+      "title": "education and politics without the slop?",
       "game": "Just Chatting",
       "started_at": "2026-01-28T10:01:21Z"
-    },
-    {
-      "username": "nSimplexPachinko",
-      "title": "Cracking the GRE Math Subject Test, Night 031: Taylor Series, and more!",
-      "game": "Math",
-      "started_at": "2026-01-28T22:12:08Z"
     },
     {
       "username": "nogre0",
       "title": "times a changing. new paper !we",
       "game": "Just Chatting",
       "started_at": "2026-01-29T01:00:14Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Water Wednesday! 360 shark dives and Toothday continued...🌊",
+      "game": "Science & Technology",
+      "started_at": "2026-01-29T01:35:02Z"
     }
   ]
 }
