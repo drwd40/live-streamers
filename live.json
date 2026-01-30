@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-30T03:05:48.261Z",
+  "timestamp": "2026-01-30T03:54:24.172Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,22 +8,16 @@
       "started_at": "2026-01-28T13:42:03Z"
     },
     {
-      "username": "imreallyimportant",
-      "title": "DEMS DEMAND MAJOR CHANGES TO ICE FOR DHS FUNDING - 48 HOURS TO GO",
-      "game": "Just Chatting",
-      "started_at": "2026-01-29T23:09:35Z"
-    },
-    {
-      "username": "SciAnts_Streams",
-      "title": "Pokémon Legends Science - First Playthrough Day 5 | The science of Pokémon as we catch them all! | Partner+ 324/300 | !ppp !yt !pod",
-      "game": "Pokémon Legends: Z-A",
-      "started_at": "2026-01-29T21:23:24Z"
-    },
-    {
       "username": "Nerduino",
       "title": "Live astrophotography.  SpaceX Launch at 8PM PS!  Thursday Space News with a PhD Astronomer and former NASA guy.  #science #space",
       "game": "Science & Technology",
       "started_at": "2026-01-30T01:50:27Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "Silksong + Science | Insect slaying with an insect scientist | Partner+ 324/300 | !ppp !yt !pod",
+      "game": "Hollow Knight: Silksong",
+      "started_at": "2026-01-29T21:23:24Z"
     },
     {
       "username": "DrawCuriosity",
@@ -38,22 +32,22 @@
       "started_at": "2026-01-29T19:21:40Z"
     },
     {
+      "username": "SharkG33k",
+      "title": "Thrash Thursday! Scuba gear repair, Marine Environmental issues in FL and a little music later?",
+      "game": "Science & Technology",
+      "started_at": "2026-01-30T01:15:32Z"
+    },
+    {
       "username": "MelissaInDeNile",
       "title": "Back to the main storyline of Assassins Creed: Brotherhood! When will leave Rome?? ~ Follower Goal: 2249/2300 ~ !socials !beyonddenile",
       "game": "LEGO Pirates of the Caribbean: The Video Game",
       "started_at": "2026-01-30T00:20:48Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
-      "game": "Just Chatting",
-      "started_at": "2026-01-30T00:58:50Z"
-    },
-    {
-      "username": "SharkG33k",
-      "title": "Thrash Thursday! Scuba gear repair, Marine Environmental issues in FL and a little music later?",
-      "game": "Science & Technology",
-      "started_at": "2026-01-30T01:15:32Z"
+      "username": "pencenter",
+      "title": "ZOoTR nearly max settings [!fish🎣|!commands💻]",
+      "game": "The Legend of Zelda: Ocarina of Time",
+      "started_at": "2026-01-30T03:18:14Z"
     }
   ]
 }
