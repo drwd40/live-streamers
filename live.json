@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-30T01:16:44.097Z",
+  "timestamp": "2026-01-30T02:01:57.272Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-01-29T17:41:25Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "🦖 DINOSAUR SCIENCE Q&A 🦕 Get your paleontology questions answered 💬 + Thursday BIRDSday 🐦 (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-01-29T21:08:11Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "DEMS DEMAND MAJOR CHANGES TO ICE FOR DHS FUNDING - 48 HOURS TO GO",
       "game": "Just Chatting",
       "started_at": "2026-01-29T23:09:35Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "🦖 DINOSAUR SCIENCE Q&A 🦕 Get your paleontology questions answered 💬 + Thursday BIRDSday 🐦 (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-01-29T21:08:11Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -32,22 +32,16 @@
       "started_at": "2026-01-29T21:23:24Z"
     },
     {
-      "username": "shnaff",
-      "title": "Guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-01-29T23:01:59Z"
+      "username": "DrawCuriosity",
+      "title": "BACK FROM HAWAII! Opening Fantastical Parade Packs ✨🐑",
+      "game": "Pokémon Trading Card Game Pocket",
+      "started_at": "2026-01-29T23:27:02Z"
     },
     {
       "username": "SydHeresy",
       "title": "Soldering Synths For Future Jamz - Electronics",
       "game": "Science & Technology",
       "started_at": "2026-01-29T19:21:40Z"
-    },
-    {
-      "username": "DrawCuriosity",
-      "title": "BACK FROM HAWAII! Opening Fantastical Parade Packs ✨🐑",
-      "game": "Pokémon Trading Card Game Pocket",
-      "started_at": "2026-01-29T23:27:02Z"
     },
     {
       "username": "MelissaInDeNile",
@@ -66,6 +60,12 @@
       "title": "Thrash Thursday! Scuba gear repair, Marine Environmental issues in FL and a little music later?",
       "game": "Science & Technology",
       "started_at": "2026-01-30T01:15:32Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Live astrophotography.  SpaceX Launch at 8PM PS!  Thursday Space News with a PhD Astronomer and former NASA guy.  #science #space",
+      "game": "Science & Technology",
+      "started_at": "2026-01-30T01:50:27Z"
     }
   ]
 }
