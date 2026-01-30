@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-30T00:45:51.805Z",
+  "timestamp": "2026-01-30T01:16:44.097Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -9,8 +9,8 @@
     },
     {
       "username": "EJ_SA",
-      "title": "Corris is running! Shakedown cruise and more!! My Winter Car ATTEMPT III (Part 14)",
-      "game": "My Winter Car",
+      "title": "EJ's Rocket Lab Bridging The Swarm Electron Launch Coverage!",
+      "game": "Science & Technology",
       "started_at": "2026-01-29T17:41:25Z"
     },
     {
@@ -32,18 +32,6 @@
       "started_at": "2026-01-29T21:23:24Z"
     },
     {
-      "username": "DrMick",
-      "title": "Therapist Plays GTA IV: Part 18",
-      "game": "Grand Theft Auto IV",
-      "started_at": "2026-01-29T22:05:05Z"
-    },
-    {
-      "username": "DrawCuriosity",
-      "title": "BACK FROM HAWAII! Opening Fantastical Parade Packs ✨🐑",
-      "game": "Pokémon Trading Card Game Pocket",
-      "started_at": "2026-01-29T23:27:02Z"
-    },
-    {
       "username": "shnaff",
       "title": "Guitar, piano, and singing in !stereo🎧",
       "game": "Music",
@@ -56,16 +44,28 @@
       "started_at": "2026-01-29T19:21:40Z"
     },
     {
-      "username": "professor_ashley",
-      "title": "Playing NYU Game Center student games and giving feedback",
-      "game": "Software and Game Development",
-      "started_at": "2026-01-29T23:59:42Z"
+      "username": "DrawCuriosity",
+      "title": "BACK FROM HAWAII! Opening Fantastical Parade Packs ✨🐑",
+      "game": "Pokémon Trading Card Game Pocket",
+      "started_at": "2026-01-29T23:27:02Z"
     },
     {
       "username": "MelissaInDeNile",
       "title": "Back to the main storyline of Assassins Creed: Brotherhood! When will leave Rome?? ~ Follower Goal: 2249/2300 ~ !socials !beyonddenile",
       "game": "Assassin's Creed Brotherhood",
       "started_at": "2026-01-30T00:20:48Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-01-30T00:58:50Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Thrash Thursday! Scuba gear repair, Marine Environmental issues in FL and a little music later?",
+      "game": "Science & Technology",
+      "started_at": "2026-01-30T01:15:32Z"
     }
   ]
 }
