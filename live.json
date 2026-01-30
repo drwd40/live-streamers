@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-30T20:42:08.643Z",
+  "timestamp": "2026-01-30T20:54:41.614Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,28 @@
       "started_at": "2026-01-30T17:18:27Z"
     },
     {
+      "username": "Rocketology",
+      "title": "Hermes Review - Lifeline for Levski !sc !org",
+      "game": "Star Citizen",
+      "started_at": "2026-01-30T19:17:29Z"
+    },
+    {
       "username": "SharkG33k",
       "title": "[18+] Fin Friday! RV There Yet with friends!",
       "game": "RV There Yet?",
       "started_at": "2026-01-30T18:59:13Z"
     },
     {
-      "username": "Rocketology",
-      "title": "Hermes Review - Lifeline for Levski !sc !org",
-      "game": "Star Citizen",
-      "started_at": "2026-01-30T19:17:29Z"
+      "username": "Stephen_Wolfram",
+      "title": "Science & Technology Q&A for Kids (and others) [Part 164]",
+      "game": "Science & Technology",
+      "started_at": "2026-01-30T20:42:00Z"
+    },
+    {
+      "username": "GeoJim2006",
+      "title": "Back on Campus - Spring Geologizing Starts NOW!!! 🌋🪨🤘 !discord !nova !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-01-30T20:42:44Z"
     }
   ]
 }
