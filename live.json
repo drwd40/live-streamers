@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-30T02:01:57.272Z",
+  "timestamp": "2026-01-30T03:05:48.261Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,28 +8,22 @@
       "started_at": "2026-01-28T13:42:03Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "EJ's Rocket Lab Bridging The Swarm Electron Launch Coverage!",
-      "game": "Science & Technology",
-      "started_at": "2026-01-29T17:41:25Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "DEMS DEMAND MAJOR CHANGES TO ICE FOR DHS FUNDING - 48 HOURS TO GO",
       "game": "Just Chatting",
       "started_at": "2026-01-29T23:09:35Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "🦖 DINOSAUR SCIENCE Q&A 🦕 Get your paleontology questions answered 💬 + Thursday BIRDSday 🐦 (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-01-29T21:08:11Z"
-    },
-    {
       "username": "SciAnts_Streams",
       "title": "Pokémon Legends Science - First Playthrough Day 5 | The science of Pokémon as we catch them all! | Partner+ 324/300 | !ppp !yt !pod",
       "game": "Pokémon Legends: Z-A",
       "started_at": "2026-01-29T21:23:24Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Live astrophotography.  SpaceX Launch at 8PM PS!  Thursday Space News with a PhD Astronomer and former NASA guy.  #science #space",
+      "game": "Science & Technology",
+      "started_at": "2026-01-30T01:50:27Z"
     },
     {
       "username": "DrawCuriosity",
@@ -46,7 +40,7 @@
     {
       "username": "MelissaInDeNile",
       "title": "Back to the main storyline of Assassins Creed: Brotherhood! When will leave Rome?? ~ Follower Goal: 2249/2300 ~ !socials !beyonddenile",
-      "game": "Assassin's Creed Brotherhood",
+      "game": "LEGO Pirates of the Caribbean: The Video Game",
       "started_at": "2026-01-30T00:20:48Z"
     },
     {
@@ -60,12 +54,6 @@
       "title": "Thrash Thursday! Scuba gear repair, Marine Environmental issues in FL and a little music later?",
       "game": "Science & Technology",
       "started_at": "2026-01-30T01:15:32Z"
-    },
-    {
-      "username": "Nerduino",
-      "title": "Live astrophotography.  SpaceX Launch at 8PM PS!  Thursday Space News with a PhD Astronomer and former NASA guy.  #science #space",
-      "game": "Science & Technology",
-      "started_at": "2026-01-30T01:50:27Z"
     }
   ]
 }
