@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-30T15:33:39.153Z",
+  "timestamp": "2026-01-30T15:51:16.735Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-01-30T10:00:59Z"
     },
     {
-      "username": "ProfessorEXP",
-      "title": "Education |  Snowmagedon | Inclusive Design | Society and Culture",
-      "game": "Just Chatting",
-      "started_at": "2026-01-30T14:06:27Z"
-    },
-    {
       "username": "TimberAnew",
       "title": "Painting Day!",
       "game": "Art",
       "started_at": "2026-01-30T15:03:13Z"
+    },
+    {
+      "username": "ProfessorEXP",
+      "title": "Education |  Snowmagedon | Inclusive Design | Society and Culture",
+      "game": "Just Chatting",
+      "started_at": "2026-01-30T14:06:27Z"
     }
   ]
 }
