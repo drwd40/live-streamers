@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-30T23:23:30.264Z",
+  "timestamp": "2026-01-30T23:36:50.242Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,18 +38,6 @@
       "started_at": "2026-01-30T10:00:59Z"
     },
     {
-      "username": "GeoJim2006",
-      "title": "Back on Campus - Spring Geologizing Starts NOW!!! 🌋🪨🤘 !discord !nova !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-01-30T20:42:44Z"
-    },
-    {
-      "username": "shnaff",
-      "title": "Guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-01-30T23:00:54Z"
-    },
-    {
       "username": "DrawCuriosity",
       "title": "BACK FROM HAWAII! More Fantastical Parade and maybe Subnautica or Legends Z-A!✨🐑",
       "game": "Pokémon Trading Card Game Pocket",
@@ -60,6 +48,18 @@
       "title": "[18+] Fin Friday! RV There Yet with friends!",
       "game": "RV There Yet?",
       "started_at": "2026-01-30T18:59:13Z"
+    },
+    {
+      "username": "shnaff",
+      "title": "Guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-01-30T23:00:54Z"
+    },
+    {
+      "username": "GeoJim2006",
+      "title": "Back on Campus - Spring Geologizing Starts NOW!!! 🌋🪨🤘 !discord !nova !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-01-30T20:42:44Z"
     },
     {
       "username": "Rocketology",
