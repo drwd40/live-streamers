@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-31T16:40:23.004Z",
+  "timestamp": "2026-01-31T16:52:44.762Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "Tell me something I don't know. Also - What are you passionate about and do you have a garden?",
       "game": "Just Chatting",
       "started_at": "2026-01-31T10:01:18Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Bring Your Questions: A Math Q&A",
+      "game": "Math",
+      "started_at": "2026-01-31T16:52:31Z"
     }
   ]
 }
