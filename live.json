@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-31T01:20:05.655Z",
+  "timestamp": "2026-01-31T02:06:22.272Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,6 +20,12 @@
       "started_at": "2026-01-30T23:03:08Z"
     },
     {
+      "username": "shnaff",
+      "title": "Guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-01-30T23:00:54Z"
+    },
+    {
       "username": "AstroCanuck",
       "title": "Astronomy & Space News: Artemis II Launch Date Moved. A parcel arrived. TGIF | !light  !texas | !drop !tkf",
       "game": "Science & Technology",
@@ -32,22 +38,10 @@
       "started_at": "2026-01-30T21:26:30Z"
     },
     {
-      "username": "shnaff",
-      "title": "Guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-01-30T23:00:54Z"
-    },
-    {
-      "username": "NotesAndVolts",
-      "title": "LIVE Synths! GSG - JAMUARIUM Jam",
-      "game": "Music",
-      "started_at": "2026-01-30T23:55:40Z"
-    },
-    {
-      "username": "ActualEducation",
-      "title": "The Gilded Method ft. Nerosky!",
-      "game": "Just Chatting",
-      "started_at": "2026-01-31T00:01:25Z"
+      "username": "SciAnts_Streams",
+      "title": "SciAnts News | New species, pancreatic cancer, ancient enzymes, new microscopy tech, termites, and more! | Partner+ 330/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2026-01-31T02:02:27Z"
     },
     {
       "username": "nSimplexPachinko",
