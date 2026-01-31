@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-31T21:27:50.794Z",
+  "timestamp": "2026-01-31T21:38:27.643Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,6 +26,12 @@
       "started_at": "2026-01-31T19:39:04Z"
     },
     {
+      "username": "Rocketology",
+      "title": "Alliance Aid Grind !sc !org",
+      "game": "Star Citizen",
+      "started_at": "2026-01-31T18:57:06Z"
+    },
+    {
       "username": "DonFactorial",
       "title": "Answering your math questions and writing a report on image processing with wavelets",
       "game": "Math",
@@ -36,12 +42,6 @@
       "title": "Vtuber Blood Drive - VeinTuber 2026! Steam Keys, Karaoke, Games and more!",
       "game": "Just Chatting",
       "started_at": "2026-01-31T21:16:43Z"
-    },
-    {
-      "username": "Rocketology",
-      "title": "Alliance Aid Grind !sc !org",
-      "game": "Star Citizen",
-      "started_at": "2026-01-31T18:57:06Z"
     },
     {
       "username": "ActualEducation",
