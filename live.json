@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-31T18:21:48.955Z",
+  "timestamp": "2026-01-31T18:38:24.284Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-01-31T10:01:18Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Bring Your Questions: A Math Q&A",
-      "game": "Math",
-      "started_at": "2026-01-31T17:20:21Z"
-    },
-    {
       "username": "GeneralSte",
       "title": "The Lord has no Manors | !linktree !discord",
       "game": "Manor Lords",
       "started_at": "2026-01-31T17:56:34Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Bring Your Questions: A Math Q&A",
+      "game": "Math",
+      "started_at": "2026-01-31T17:20:21Z"
     }
   ]
 }
