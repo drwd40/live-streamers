@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-31T18:52:50.656Z",
+  "timestamp": "2026-01-31T19:02:14.863Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "Bring Your Questions: A Math Q&A",
       "game": "Math",
       "started_at": "2026-01-31T17:20:21Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "Alliance Aid Grind !sc !org",
+      "game": "Star Citizen",
+      "started_at": "2026-01-31T18:57:06Z"
     }
   ]
 }
