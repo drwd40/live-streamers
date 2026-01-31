@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-31T04:51:06.195Z",
+  "timestamp": "2026-01-31T05:11:21.026Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-01-31T02:34:45Z"
     },
     {
-      "username": "AstroCanuck",
-      "title": "Astronomy & Space News: Artemis II Launch Date Moved. A parcel arrived. TGIF | !light  !texas | !drop !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-01-31T01:00:06Z"
-    },
-    {
       "username": "SciAnts_Streams",
       "title": "SciAnts News | New species, pancreatic cancer, ancient enzymes, new microscopy tech, termites, and more! | Partner+ 330/300 | !ppp !yt !pod",
       "game": "Science & Technology",
       "started_at": "2026-01-31T02:02:27Z"
+    },
+    {
+      "username": "AstroCanuck",
+      "title": "Astronomy & Space News: Artemis II Launch Date Moved. A parcel arrived. TGIF | !light  !texas | !drop !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-01-31T01:00:06Z"
     },
     {
       "username": "happyknightmares",
