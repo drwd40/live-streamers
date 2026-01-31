@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-31T10:01:22.727Z",
+  "timestamp": "2026-01-31T10:10:55.562Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -10,8 +10,14 @@
     {
       "username": "Moohoodles",
       "title": "🪐 Space & Astrobiology news! ✨ Close to a new emote slot!! Star Citizen later?!",
-      "game": "Just Chatting",
+      "game": "Science & Technology",
       "started_at": "2026-01-31T02:34:45Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "Tell me something I don't know. Also - What are you passionate about and do you have a garden?",
+      "game": "Just Chatting",
+      "started_at": "2026-01-31T10:01:18Z"
     }
   ]
 }
