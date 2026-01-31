@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-31T22:46:35.289Z",
+  "timestamp": "2026-01-31T22:55:58.049Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,12 +32,6 @@
       "started_at": "2026-01-31T18:57:06Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "Golden Hour ft. Ramtin",
-      "game": "Just Chatting",
-      "started_at": "2026-01-31T21:01:58Z"
-    },
-    {
       "username": "DonFactorial",
       "title": "Answering your math questions and writing a report on image processing with wavelets",
       "game": "Math",
@@ -47,7 +41,7 @@
       "username": "Mr_Aejis",
       "title": "Vtuber Blood Drive - VeinTuber 2026! Steam Keys, Karaoke, Games and more!",
       "game": "Just Chatting",
-      "started_at": "2026-01-31T21:39:08Z"
+      "started_at": "2026-01-31T22:53:27Z"
     }
   ]
 }
