@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-01T03:37:22.423Z",
+  "timestamp": "2026-02-01T04:31:54.237Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-01-30T19:02:05Z"
     },
     {
+      "username": "SciAnts_Streams",
+      "title": "#YookaReplayLee - BONUS STREAM | Chameleon vision genetics #keymailer | Partner+ 331/300 | !ppp !yt !pod",
+      "game": "Yooka-Replaylee",
+      "started_at": "2026-02-01T02:01:47Z"
+    },
+    {
       "username": "AstroCanuck",
       "title": "Astro's Po'Pouri: First ever Gundam build with Gunpla Sherpa @aridecanwife | !continental !light !texas | !drop !tkf",
       "game": "Makers & Crafting",
       "started_at": "2026-01-31T23:00:45Z"
-    },
-    {
-      "username": "SciAnts_Streams",
-      "title": "#YookaReplayLee - BONUS STREAM | Chameleon vision genetics #keymailer | Partner+ 331/300 | !ppp !yt !pod",
-      "game": "Science & Technology",
-      "started_at": "2026-02-01T02:01:47Z"
     },
     {
       "username": "SydHeresy",
@@ -30,6 +30,12 @@
       "title": "Community Game Night!! Paper Pirates and who knows what else! ~ Follower Goal: 2249/2300 ~ !socials !beyonddenile",
       "game": "Paper Pirates",
       "started_at": "2026-01-31T23:50:32Z"
+    },
+    {
+      "username": "LottaGlots",
+      "title": "squeeze in another January stream",
+      "game": "Duolingo",
+      "started_at": "2026-02-01T04:04:25Z"
     },
     {
       "username": "Mr_Aejis",
