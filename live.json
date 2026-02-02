@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-02T00:39:48.285Z",
+  "timestamp": "2026-02-02T01:08:30.112Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -21,9 +21,21 @@
     },
     {
       "username": "VolcanoDoc",
-      "title": "Revisions or Bust |🌋 Science Sunday | !phd !tkf !socials !pubs",
+      "title": "Incongruent Brain Melting|🌋 Science Sunday | !phd !tkf !socials !pubs",
       "game": "Science & Technology",
       "started_at": "2026-02-01T22:24:13Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-02-02T01:00:40Z"
+    },
+    {
+      "username": "nogre0",
+      "title": "is evil fun? new paper !we",
+      "game": "Just Chatting",
+      "started_at": "2026-02-02T01:00:20Z"
     }
   ]
 }
