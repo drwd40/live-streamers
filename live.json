@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-02T01:08:30.112Z",
+  "timestamp": "2026-02-02T01:50:04.137Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-02-01T22:24:13Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
-      "game": "Just Chatting",
-      "started_at": "2026-02-02T01:00:40Z"
-    },
-    {
       "username": "nogre0",
       "title": "is evil fun? new paper !we",
       "game": "Just Chatting",
       "started_at": "2026-02-02T01:00:20Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-02-02T01:00:40Z"
     }
   ]
 }
