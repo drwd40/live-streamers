@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-02T16:19:41.775Z",
+  "timestamp": "2026-02-02T16:36:33.779Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "New Project: Building and Designing a Functional Replica of a Tricorder from Stark Trek! Then Playing God of War 2!",
       "game": "God of War Ragnarök",
       "started_at": "2026-02-02T13:25:57Z"
+    },
+    {
+      "username": "Maya",
+      "title": "bringing treats to my neighbor’s dogs🐾🦴🐶",
+      "game": "Just Chatting",
+      "started_at": "2026-02-02T16:31:09Z"
     },
     {
       "username": "Zachap",
@@ -30,6 +36,12 @@
       "title": "Making an Animation. I don't know what I'm doing.",
       "game": "Art",
       "started_at": "2026-02-02T14:59:55Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "43 days until Skeleseller launches 🚀 (day 299)",
+      "game": "Software and Game Development",
+      "started_at": "2026-02-02T16:34:27Z"
     }
   ]
 }
