@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-02T18:23:04.843Z",
+  "timestamp": "2026-02-02T18:41:53.439Z",
   "live": [
     {
       "username": "Maya",
@@ -36,6 +36,12 @@
       "title": "Good morning<3 | Immigrant Rapid Response Fundraiser on Sunday! | Couple's and Family Therapist Master's Studies 50/10",
       "game": "Co-working & Studying",
       "started_at": "2026-02-02T17:09:02Z"
+    },
+    {
+      "username": "PotteryDojo",
+      "title": "Pottery: Making Bonsai Pots | Throwing | Batch # 19 | Batch Total: 25",
+      "game": "Art",
+      "started_at": "2026-02-02T18:33:19Z"
     }
   ]
 }
