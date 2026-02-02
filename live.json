@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-02T01:50:04.137Z",
+  "timestamp": "2026-02-02T02:50:19.433Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,6 +20,18 @@
       "started_at": "2026-02-01T23:01:05Z"
     },
     {
+      "username": "SciAnts_Streams",
+      "title": "Silk Song + Science | Insect ecosystems in Silk Song and more! | Partner+ 11/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2026-02-02T02:07:10Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Chatting with Knowable Magazine Executive Editor Rosie Mestel, PhD.  #sciencewriting #science #space #stem",
+      "game": "Science & Technology",
+      "started_at": "2026-02-02T01:52:37Z"
+    },
+    {
       "username": "VolcanoDoc",
       "title": "Incongruent Brain Melting|🌋 Science Sunday | !phd !tkf !socials !pubs",
       "game": "Science & Technology",
@@ -36,6 +48,12 @@
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Just Chatting",
       "started_at": "2026-02-02T01:00:40Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Gadgets too good to be true. Amblyopia and the brain. Industrial uses for jojoba.",
+      "game": "IRL",
+      "started_at": "2026-02-02T02:27:14Z"
     }
   ]
 }
