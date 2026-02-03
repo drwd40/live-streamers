@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-03T01:22:29.355Z",
+  "timestamp": "2026-02-03T02:10:28.366Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,22 +20,34 @@
       "started_at": "2026-02-02T21:20:47Z"
     },
     {
-      "username": "imreallyimportant",
-      "title": "MIKE JOHNSON SCRAMBLES TO END THE SHUTDOWN | LIB & LEAR @ 7 PM EST",
-      "game": "Just Chatting",
-      "started_at": "2026-02-02T23:05:46Z"
-    },
-    {
       "username": "DrawCuriosity",
       "title": "First time playing!! Will I defeat Thalassophobia today?? ✨🐑",
-      "game": "Subnautica",
+      "game": "Just Chatting",
       "started_at": "2026-02-03T00:11:24Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "Microscopy Monday | Tiny worlds under the microscope + Pancreatic Cancer Breakthrough news | Partner+ 21/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2026-02-03T02:04:05Z"
     },
     {
       "username": "ActualEducation",
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Just Chatting",
       "started_at": "2026-02-03T01:02:34Z"
+    },
+    {
+      "username": "starstryder",
+      "title": "Ninja Storytime",
+      "game": "Just Chatting",
+      "started_at": "2026-02-03T02:01:18Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Homosexuality in 20th Century Japan, plus deer mice and aging.",
+      "game": "IRL",
+      "started_at": "2026-02-03T01:29:10Z"
     }
   ]
 }
