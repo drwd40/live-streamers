@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-03T22:29:34.038Z",
+  "timestamp": "2026-02-03T22:46:58.341Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -50,16 +50,16 @@
       "started_at": "2026-02-03T19:12:09Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 966: Language Design in Wolfram Language [Graphic Issues]",
-      "game": "Science & Technology",
-      "started_at": "2026-02-03T21:55:24Z"
-    },
-    {
       "username": "DonFactorial",
       "title": "Answering your math questions and working on asymptotic expansions",
       "game": "",
       "started_at": "2026-02-03T20:54:01Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 966: Language Design in Wolfram Language [Graphic Issues]",
+      "game": "Science & Technology",
+      "started_at": "2026-02-03T21:55:24Z"
     },
     {
       "username": "nSimplexPachinko",
