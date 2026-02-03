@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-03T17:59:03.621Z",
+  "timestamp": "2026-02-03T18:26:51.270Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-02-02T14:37:29Z"
     },
     {
-      "username": "ipaintbirbs",
-      "title": "thank you birbs!",
-      "game": "Art",
-      "started_at": "2026-02-03T16:59:34Z"
-    },
-    {
       "username": "EJ_SA",
       "title": "EJ'S ARTEMIS II POST-WDR PRESS CONFERENCE! 2/3/26",
       "game": "Science & Technology",
       "started_at": "2026-02-03T17:53:23Z"
+    },
+    {
+      "username": "ipaintbirbs",
+      "title": "thank you birbs!",
+      "game": "Art",
+      "started_at": "2026-02-03T16:59:34Z"
     },
     {
       "username": "AdamLearnsLive",
