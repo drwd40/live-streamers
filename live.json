@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-03T23:41:04.217Z",
+  "timestamp": "2026-02-03T23:52:19.878Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -44,12 +44,6 @@
       "started_at": "2026-02-03T22:58:08Z"
     },
     {
-      "username": "Rocketology",
-      "title": "MISC Hull-C Trials !sc !org - Streaming Every Day in February!",
-      "game": "Star Citizen",
-      "started_at": "2026-02-03T19:12:09Z"
-    },
-    {
       "username": "GeoJim2006",
       "title": "Mineral Identification and Other Geology Basics - Sorting & Organizing the NOVA Collection 🌋🪨🤘 !discord !nova !tkf",
       "game": "Science & Technology",
@@ -66,6 +60,12 @@
       "title": "Blue Prince, Night 04: Starting Day 11: Past the Antechamber!",
       "game": "Blue Prince",
       "started_at": "2026-02-03T22:09:56Z"
+    },
+    {
+      "username": "MelissaInDeNile",
+      "title": "LAST Lego Pirates of the Caribbean Stream?? Let's 100% the game!! ~ Follower Goal: 2249/2300 ~ !socials !beyonddenile",
+      "game": "LEGO Pirates of the Caribbean: The Video Game",
+      "started_at": "2026-02-03T23:50:21Z"
     }
   ]
 }
