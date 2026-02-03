@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-03T00:49:39.465Z",
+  "timestamp": "2026-02-03T01:22:29.355Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,22 +14,28 @@
       "started_at": "2026-02-02T21:49:12Z"
     },
     {
-      "username": "imreallyimportant",
-      "title": "MIKE JOHNSON SCRAMBLES TO END THE SHUTDOWN | LIB & LEAR @ 7 PM EST",
-      "game": "Just Chatting",
-      "started_at": "2026-02-02T23:05:46Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "NEW DINOSAURS 🆕🦖🦖💥 Will Foskeia bring 'phytodinosauria' back?  Introducing titanosaur Yeneen, too (w/ paleontologist Danny Anduza)",
       "game": "Just Chatting",
       "started_at": "2026-02-02T21:20:47Z"
     },
     {
+      "username": "imreallyimportant",
+      "title": "MIKE JOHNSON SCRAMBLES TO END THE SHUTDOWN | LIB & LEAR @ 7 PM EST",
+      "game": "Just Chatting",
+      "started_at": "2026-02-02T23:05:46Z"
+    },
+    {
       "username": "DrawCuriosity",
-      "title": "Happy February!! will I defeat Thalassophobia today?? ✨🐑",
+      "title": "First time playing!! Will I defeat Thalassophobia today?? ✨🐑",
       "game": "Subnautica",
       "started_at": "2026-02-03T00:11:24Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-02-03T01:02:34Z"
     }
   ]
 }
