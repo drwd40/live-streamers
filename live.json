@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-03T19:12:05.637Z",
+  "timestamp": "2026-02-03T19:33:27.050Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,18 @@
       "title": "Sincere Solder Situations - Electronics",
       "game": "Just Chatting",
       "started_at": "2026-02-03T19:00:14Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "MISC Hull-C Trials !sc !org - Streaming Every Day in February!",
+      "game": "Star Citizen",
+      "started_at": "2026-02-03T19:12:09Z"
+    },
+    {
+      "username": "vul100",
+      "title": "Tuesday February 3rd @ 2:30 pm EST: Imbolc & St. Brigid's Day — the year at cross-quarters",
+      "game": "Science & Technology",
+      "started_at": "2026-02-03T19:25:48Z"
     }
   ]
 }
