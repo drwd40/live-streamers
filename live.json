@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-03T23:27:13.514Z",
+  "timestamp": "2026-02-03T23:41:04.217Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,10 +38,10 @@
       "started_at": "2026-02-03T23:00:44Z"
     },
     {
-      "username": "GeoJim2006",
-      "title": "Mineral Identification and Other Geology Basics - Sorting & Organizing the NOVA Collection 🌋🪨🤘 !discord !nova !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-02-03T20:59:54Z"
+      "username": "eToThe2iPi",
+      "title": "An Introduction to Algebra: \"What Does it Mean?\"",
+      "game": "Math",
+      "started_at": "2026-02-03T22:58:08Z"
     },
     {
       "username": "Rocketology",
@@ -50,28 +50,22 @@
       "started_at": "2026-02-03T19:12:09Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and working on asymptotic expansions",
-      "game": "",
-      "started_at": "2026-02-03T20:54:01Z"
-    },
-    {
-      "username": "eToThe2iPi",
-      "title": "An Introduction to Algebra: \"What Does it Mean?\"",
-      "game": "Math",
-      "started_at": "2026-02-03T22:58:08Z"
-    },
-    {
-      "username": "nSimplexPachinko",
-      "title": "Blue Prince, Night 04: Starting Day 11: Past the Antechamber!",
-      "game": "Blue Prince",
-      "started_at": "2026-02-03T22:09:56Z"
+      "username": "GeoJim2006",
+      "title": "Mineral Identification and Other Geology Basics - Sorting & Organizing the NOVA Collection 🌋🪨🤘 !discord !nova !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-02-03T20:59:54Z"
     },
     {
       "username": "happyknightmares",
       "title": "Got conditionally accepted for a Masters in Design! :D Studying synesthesia, co-working and chatting! 🎨🧠 What are you working on? Tell us!",
       "game": "Co-working & Studying",
       "started_at": "2026-02-03T22:47:45Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Blue Prince, Night 04: Starting Day 11: Past the Antechamber!",
+      "game": "Blue Prince",
+      "started_at": "2026-02-03T22:09:56Z"
     }
   ]
 }
