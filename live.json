@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-03T22:02:21.066Z",
+  "timestamp": "2026-02-03T22:15:21.115Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -44,10 +44,10 @@
       "started_at": "2026-02-03T20:59:54Z"
     },
     {
-      "username": "Rocketology",
-      "title": "MISC Hull-C Trials !sc !org - Streaming Every Day in February!",
-      "game": "Star Citizen",
-      "started_at": "2026-02-03T19:12:09Z"
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 966: Language Design in Wolfram Language [Graphic Issues]",
+      "game": "Science & Technology",
+      "started_at": "2026-02-03T21:55:24Z"
     },
     {
       "username": "DonFactorial",
@@ -56,16 +56,16 @@
       "started_at": "2026-02-03T20:54:01Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 966: Language Design in Wolfram Language [Graphic Issues]",
-      "game": "Science & Technology",
-      "started_at": "2026-02-03T21:55:24Z"
+      "username": "Rocketology",
+      "title": "MISC Hull-C Trials !sc !org - Streaming Every Day in February!",
+      "game": "Star Citizen",
+      "started_at": "2026-02-03T19:12:09Z"
     },
     {
-      "username": "xTalkProgrammer",
-      "title": "Korte stream - Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
-      "game": "Just Chatting",
-      "started_at": "2026-02-03T20:24:19Z"
+      "username": "nSimplexPachinko",
+      "title": "Blue Prince, Night 04: Starting Day 12: Past the Antechamber!",
+      "game": "Blue Prince",
+      "started_at": "2026-02-03T22:09:56Z"
     }
   ]
 }
