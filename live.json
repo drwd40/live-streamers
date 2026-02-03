@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-03T22:15:21.115Z",
+  "timestamp": "2026-02-03T22:29:34.038Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -9,8 +9,8 @@
     },
     {
       "username": "EJ_SA",
-      "title": "Car Runs and Drives! Lets see what it can do! My Winter Car ATTEMPT III (Part 18)",
-      "game": "My Winter Car",
+      "title": "Cutting rot out on an old car! The Crew Cab Charger (Part 42)",
+      "game": "Science & Technology",
       "started_at": "2026-02-03T17:53:23Z"
     },
     {
@@ -44,6 +44,12 @@
       "started_at": "2026-02-03T20:59:54Z"
     },
     {
+      "username": "Rocketology",
+      "title": "MISC Hull-C Trials !sc !org - Streaming Every Day in February!",
+      "game": "Star Citizen",
+      "started_at": "2026-02-03T19:12:09Z"
+    },
+    {
       "username": "Stephen_Wolfram",
       "title": "Live CEOing Ep 966: Language Design in Wolfram Language [Graphic Issues]",
       "game": "Science & Technology",
@@ -56,14 +62,8 @@
       "started_at": "2026-02-03T20:54:01Z"
     },
     {
-      "username": "Rocketology",
-      "title": "MISC Hull-C Trials !sc !org - Streaming Every Day in February!",
-      "game": "Star Citizen",
-      "started_at": "2026-02-03T19:12:09Z"
-    },
-    {
       "username": "nSimplexPachinko",
-      "title": "Blue Prince, Night 04: Starting Day 12: Past the Antechamber!",
+      "title": "Blue Prince, Night 04: Starting Day 11: Past the Antechamber!",
       "game": "Blue Prince",
       "started_at": "2026-02-03T22:09:56Z"
     }
