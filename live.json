@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-03T22:59:28.249Z",
+  "timestamp": "2026-02-03T23:13:40.534Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,12 +12,6 @@
       "title": "Cutting rot out on an old car! The Crew Cab Charger (Part 42)",
       "game": "Science & Technology",
       "started_at": "2026-02-03T17:53:23Z"
-    },
-    {
-      "username": "ipaintbirbs",
-      "title": "thank you birbs!",
-      "game": "Art",
-      "started_at": "2026-02-03T16:59:34Z"
     },
     {
       "username": "Paleontologizing",
@@ -38,22 +32,34 @@
       "started_at": "2026-02-03T19:00:14Z"
     },
     {
-      "username": "Rocketology",
-      "title": "MISC Hull-C Trials !sc !org - Streaming Every Day in February!",
-      "game": "Star Citizen",
-      "started_at": "2026-02-03T19:12:09Z"
-    },
-    {
       "username": "GeoJim2006",
       "title": "Mineral Identification and Other Geology Basics - Sorting & Organizing the NOVA Collection 🌋🪨🤘 !discord !nova !tkf",
       "game": "Science & Technology",
       "started_at": "2026-02-03T20:59:54Z"
     },
     {
+      "username": "Rocketology",
+      "title": "MISC Hull-C Trials !sc !org - Streaming Every Day in February!",
+      "game": "Star Citizen",
+      "started_at": "2026-02-03T19:12:09Z"
+    },
+    {
       "username": "DonFactorial",
       "title": "Answering your math questions and working on asymptotic expansions",
       "game": "",
       "started_at": "2026-02-03T20:54:01Z"
+    },
+    {
+      "username": "shnaff",
+      "title": "Guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-02-03T23:00:44Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "An Introduction to Algebra: \"What Does it Mean?\"",
+      "game": "Math",
+      "started_at": "2026-02-03T22:58:08Z"
     },
     {
       "username": "nSimplexPachinko",
@@ -66,12 +72,6 @@
       "title": "Got conditionally accepted for a Masters in Design! :D Studying synesthesia, co-working and chatting! 🎨🧠 What are you working on? Tell us!",
       "game": "Co-working & Studying",
       "started_at": "2026-02-03T22:47:45Z"
-    },
-    {
-      "username": "eToThe2iPi",
-      "title": "An Introduction to Algebra: \"What Does it Mean?\"",
-      "game": "Math",
-      "started_at": "2026-02-03T22:58:08Z"
     }
   ]
 }
