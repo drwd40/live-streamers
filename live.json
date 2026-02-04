@@ -1,12 +1,6 @@
 {
-  "timestamp": "2026-02-04T20:57:59.082Z",
+  "timestamp": "2026-02-04T21:14:18.510Z",
   "live": [
-    {
-      "username": "Kitboga",
-      "title": "Wasting Money While Scammers Watch Ft. MiltonTPike1 [Ep 1512]",
-      "game": "Just Chatting",
-      "started_at": "2026-02-04T17:14:05Z"
-    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
@@ -26,22 +20,28 @@
       "started_at": "2026-02-04T10:03:37Z"
     },
     {
+      "username": "Paleontologizing",
+      "title": "IN-DEPTH WITH LEATHERBACKS 🌊 Interview w/ Dr. Jeanette Wyneken, world expert on sea turtles (hosted by paleontologist Danny Anduza) !guest",
+      "game": "Science & Technology",
+      "started_at": "2026-02-04T21:04:24Z"
+    },
+    {
       "username": "DrawCuriosity",
       "title": "⚗️ What if we did some new Science today?✨🐑",
       "game": "Science & Technology",
       "started_at": "2026-02-04T20:52:38Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Differential Equations: Questions, Answers, and Curriculum Building",
-      "game": "Math",
-      "started_at": "2026-02-04T18:55:56Z"
-    },
-    {
       "username": "Rocketology",
       "title": "RSI Hermes Cargo Hauling !sc !org - Streaming Every Day in February!",
       "game": "Star Citizen",
       "started_at": "2026-02-04T19:17:42Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Differential Equations: Questions, Answers, and Curriculum Building",
+      "game": "Math",
+      "started_at": "2026-02-04T18:55:56Z"
     }
   ]
 }
