@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-02-04T01:58:39.738Z",
+  "timestamp": "2026-02-04T03:06:08.870Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Barn After Dark | !alveus !institute !pixel !schedule !video !feed",
-      "game": "Just Chatting",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
+      "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-02-02T14:37:29Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "Cutting rot out on an old car! The Crew Cab Charger (Part 42)",
+      "username": "SciAnts_Streams",
+      "title": "Tinker Tuesday | Lego Piranha plant build and chatting carnivorous plants! | Partner+ 32/300 | !ppp !yt !pod",
       "game": "Science & Technology",
-      "started_at": "2026-02-03T17:53:23Z"
+      "started_at": "2026-02-04T02:06:37Z"
     },
     {
       "username": "AstroCanuck",
@@ -26,10 +26,16 @@
       "started_at": "2026-02-03T19:00:14Z"
     },
     {
-      "username": "Zachap",
-      "title": "Birthday Week. BREAKING NEWS | LOST HUMANITY | ORANGE MAN BAD | FROGS ARE TURNING | SKY IS FALLING | SCHOOLS ARE SUFFERING",
+      "username": "Nerduino",
+      "title": "Artemis II Updates.  A million satellites in LEO.  PhD Astronomer. Former NASA guy  #science #space #stem #nasa",
+      "game": "Science & Technology",
+      "started_at": "2026-02-04T01:50:46Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Just Chatting",
-      "started_at": "2026-02-03T10:02:51Z"
+      "started_at": "2026-02-04T02:00:41Z"
     },
     {
       "username": "MelissaInDeNile",
@@ -44,22 +50,10 @@
       "started_at": "2026-02-04T01:11:29Z"
     },
     {
-      "username": "Nerduino",
-      "title": "Artemis II Updates.  A million satellites in LEO.  PhD Astronomer. Former NASA guy  #science #space #stem #nasa",
-      "game": "Science & Technology",
-      "started_at": "2026-02-04T01:50:46Z"
-    },
-    {
-      "username": "eToThe2iPi",
-      "title": "An Introduction to Algebra: \"What Does it Mean?\"",
-      "game": "Math",
-      "started_at": "2026-02-03T22:58:08Z"
-    },
-    {
-      "username": "nSimplexPachinko",
-      "title": "Blue Prince, Night 04: Starting Day 11: Past the Antechamber!",
-      "game": "Blue Prince",
-      "started_at": "2026-02-03T22:09:56Z"
+      "username": "starstryder",
+      "title": "Storytime",
+      "game": "Just Chatting",
+      "started_at": "2026-02-04T01:58:15Z"
     },
     {
       "username": "Mr_Aejis",
@@ -68,10 +62,10 @@
       "started_at": "2026-02-04T01:33:11Z"
     },
     {
-      "username": "starstryder",
-      "title": "Storytime",
-      "game": "Just Chatting",
-      "started_at": "2026-02-04T01:58:15Z"
+      "username": "walkingsticklibrary",
+      "title": "Is Cocomelon good for kids? Homosexuality in 20th Century Japan, plus deer mice and aging.",
+      "game": "IRL",
+      "started_at": "2026-02-04T02:25:10Z"
     }
   ]
 }
