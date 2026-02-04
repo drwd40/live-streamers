@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-04T01:14:36.906Z",
+  "timestamp": "2026-02-04T01:58:39.738Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,6 +14,12 @@
       "started_at": "2026-02-03T17:53:23Z"
     },
     {
+      "username": "AstroCanuck",
+      "title": "Astro's Po'Pourri: Aretemis II Update - LEGO Tudor Corner continues | !PGV !light !texas | !drop !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-02-04T00:59:23Z"
+    },
+    {
       "username": "SydHeresy",
       "title": "Sincere Solder Situations - Electronics",
       "game": "Science & Technology",
@@ -26,22 +32,22 @@
       "started_at": "2026-02-03T10:02:51Z"
     },
     {
-      "username": "AstroCanuck",
-      "title": "Astro's Po'Pourri: Aretemis II Update - LEGO Tudor Corner continues | !PGV !light !texas | !drop !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-02-04T00:59:23Z"
-    },
-    {
-      "username": "shnaff",
-      "title": "Guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-02-03T23:00:44Z"
-    },
-    {
       "username": "MelissaInDeNile",
       "title": "LAST Lego Pirates of the Caribbean Stream?? Let's 100% the game!! ~ Follower Goal: 2249/2300 ~ !socials !beyonddenile",
       "game": "LEGO Pirates of the Caribbean: The Video Game",
       "started_at": "2026-02-03T23:50:21Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "🦈Toothday! How does climate change affect sharks?🦈",
+      "game": "Science & Technology",
+      "started_at": "2026-02-04T01:11:29Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Artemis II Updates.  A million satellites in LEO.  PhD Astronomer. Former NASA guy  #science #space #stem #nasa",
+      "game": "Science & Technology",
+      "started_at": "2026-02-04T01:50:46Z"
     },
     {
       "username": "eToThe2iPi",
@@ -56,10 +62,16 @@
       "started_at": "2026-02-03T22:09:56Z"
     },
     {
-      "username": "SharkG33k",
-      "title": "🦈Toothday! How does climate change affect sharks?🦈",
-      "game": "Science & Technology",
-      "started_at": "2026-02-04T01:11:29Z"
+      "username": "Mr_Aejis",
+      "title": "It's Tuesday so let's pull for Sunday! | Teacher Plays: Honkai Star Rail",
+      "game": "Honkai: Star Rail",
+      "started_at": "2026-02-04T01:33:11Z"
+    },
+    {
+      "username": "starstryder",
+      "title": "Storytime",
+      "game": "Just Chatting",
+      "started_at": "2026-02-04T01:58:15Z"
     }
   ]
 }
