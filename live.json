@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-04T21:45:26.231Z",
+  "timestamp": "2026-02-04T21:55:52.385Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,22 @@
       "started_at": "2026-02-04T20:52:38Z"
     },
     {
+      "username": "Rocketology",
+      "title": "RSI Hermes Cargo Hauling !sc !org - Streaming Every Day in February!",
+      "game": "Star Citizen",
+      "started_at": "2026-02-04T19:17:42Z"
+    },
+    {
       "username": "eToThe2iPi",
       "title": "Differential Equations: Questions, Answers, and Curriculum Building",
       "game": "Math",
       "started_at": "2026-02-04T18:55:56Z"
     },
     {
-      "username": "Rocketology",
-      "title": "RSI Hermes Cargo Hauling !sc !org - Streaming Every Day in February!",
-      "game": "Star Citizen",
-      "started_at": "2026-02-04T19:17:42Z"
+      "username": "nSimplexPachinko",
+      "title": "Cracking the GRE Math Subject Test: Night 032: Taylor Polynomials, and Calc II Final!",
+      "game": "Math",
+      "started_at": "2026-02-04T21:52:20Z"
     }
   ]
 }
