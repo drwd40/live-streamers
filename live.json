@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-05T21:55:24.846Z",
+  "timestamp": "2026-02-05T22:04:06.859Z",
   "live": [
     {
       "username": "Kitboga",
@@ -17,19 +17,19 @@
       "username": "EJ_SA",
       "title": "EJ's Space and Rocket Revue! 2/5/26",
       "game": "Science & Technology",
-      "started_at": "2026-02-05T17:04:07Z"
-    },
-    {
-      "username": "SciAnts_Streams",
-      "title": "Pokémon Legends Science - First Playthrough | The science of Pokémon as we catch them all! | Partner+ 58/300 | !ppp !yt !pod",
-      "game": "Science & Technology",
-      "started_at": "2026-02-05T19:01:55Z"
+      "started_at": "2026-02-05T21:57:16Z"
     },
     {
       "username": "Paleontologizing",
       "title": "DINOSAUR SCIENCE Q&A 🦆 plus Thursday BIRDSday 🦕 Special IRL stream tomorrow 🌊 (w/ paleontologist Danny Anduza)",
       "game": "Science & Technology",
       "started_at": "2026-02-05T21:38:28Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "Pokémon Legends Science - First Playthrough | The science of Pokémon as we catch them all! | Partner+ 58/300 | !ppp !yt !pod",
+      "game": "Pokémon Legends: Z-A",
+      "started_at": "2026-02-05T19:01:55Z"
     },
     {
       "username": "Zachap",
@@ -50,10 +50,10 @@
       "started_at": "2026-02-05T19:14:07Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Discussing Math Standards: Utah Edition",
+      "username": "DonFactorial",
+      "title": "Answering your math questions and taking notes on math pedagogy stuff and maybe other homework?",
       "game": "Math",
-      "started_at": "2026-02-05T18:45:23Z"
+      "started_at": "2026-02-05T20:57:55Z"
     },
     {
       "username": "DrAlexanderClarke",
@@ -62,16 +62,16 @@
       "started_at": "2026-02-05T19:47:14Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and taking notes on math pedagogy stuff and maybe other homework?",
-      "game": "Math",
-      "started_at": "2026-02-05T20:57:55Z"
-    },
-    {
       "username": "AndrewHolding",
       "title": "[UK/USA] Stream for progress! Science co-stream, Raising Money for Cancer Research UK (!donate) and donation induced chaos",
       "game": "The Witcher 3: Wild Hunt",
       "started_at": "2026-02-05T21:50:35Z"
+    },
+    {
+      "username": "DrMick",
+      "title": "Mental Health Chat + Painting 40k",
+      "game": "Miniatures & Models",
+      "started_at": "2026-02-05T22:03:13Z"
     }
   ]
 }
