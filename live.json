@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-05T15:49:15.398Z",
+  "timestamp": "2026-02-05T16:06:01.961Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "The Working Class Builds, Innovates, Repairs. The Capitalist Class Extracts, Exploits, Alienates. Birthday Week.",
       "game": "Just Chatting",
       "started_at": "2026-02-05T10:02:06Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Building a (Twitch) Quiz Show: Sixteen",
+      "game": "Software and Game Development",
+      "started_at": "2026-02-05T15:55:29Z"
     }
   ]
 }
