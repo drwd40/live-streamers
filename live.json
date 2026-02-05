@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-05T20:47:41.581Z",
+  "timestamp": "2026-02-05T21:01:05.878Z",
   "live": [
     {
       "username": "Kitboga",
@@ -44,12 +44,6 @@
       "started_at": "2026-02-05T19:00:52Z"
     },
     {
-      "username": "Rocketology",
-      "title": "Cargo Hauling !sc !org - Streaming Every Day in February!",
-      "game": "Star Citizen",
-      "started_at": "2026-02-05T19:14:07Z"
-    },
-    {
       "username": "eToThe2iPi",
       "title": "Discussing Math Standards: Utah Edition",
       "game": "Math",
@@ -60,6 +54,18 @@
       "title": "The rise and fall of Constellation class Frigate program? (Patreon Live)",
       "game": "Just Chatting",
       "started_at": "2026-02-05T19:47:14Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "Cargo Hauling !sc !org - Streaming Every Day in February!",
+      "game": "Star Citizen",
+      "started_at": "2026-02-05T19:14:07Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and taking notes on math pedagogy stuff and maybe other homework?",
+      "game": "Math",
+      "started_at": "2026-02-05T20:57:55Z"
     }
   ]
 }
