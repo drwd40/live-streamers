@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-05T21:27:54.522Z",
+  "timestamp": "2026-02-05T21:43:37.224Z",
   "live": [
     {
       "username": "Kitboga",
@@ -38,16 +38,16 @@
       "started_at": "2026-02-05T19:00:52Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Discussing Math Standards: Utah Edition",
-      "game": "Math",
-      "started_at": "2026-02-05T18:45:23Z"
-    },
-    {
       "username": "Rocketology",
       "title": "Cargo Hauling !sc !org - Streaming Every Day in February!",
       "game": "Star Citizen",
       "started_at": "2026-02-05T19:14:07Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Discussing Math Standards: Utah Edition",
+      "game": "Math",
+      "started_at": "2026-02-05T18:45:23Z"
     },
     {
       "username": "DrAlexanderClarke",
@@ -60,6 +60,12 @@
       "title": "Answering your math questions and taking notes on math pedagogy stuff and maybe other homework?",
       "game": "Math",
       "started_at": "2026-02-05T20:57:55Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "DINOSAUR SCIENCE Q&A 🦆 plus Thursday BIRDSday 🦕 Special IRL stream tomorrow 🌊 (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-02-05T21:38:28Z"
     }
   ]
 }
