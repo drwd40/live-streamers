@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-05T22:04:06.859Z",
+  "timestamp": "2026-02-05T22:14:57.163Z",
   "live": [
     {
       "username": "Kitboga",
@@ -38,6 +38,12 @@
       "started_at": "2026-02-05T10:02:06Z"
     },
     {
+      "username": "DrMick",
+      "title": "Mental Health Chat + Painting 40k",
+      "game": "Miniatures & Models",
+      "started_at": "2026-02-05T22:03:13Z"
+    },
+    {
       "username": "SydHeresy",
       "title": "Soldering For Science - Electronics",
       "game": "Science & Technology",
@@ -68,10 +74,10 @@
       "started_at": "2026-02-05T21:50:35Z"
     },
     {
-      "username": "DrMick",
-      "title": "Mental Health Chat + Painting 40k",
-      "game": "Miniatures & Models",
-      "started_at": "2026-02-05T22:03:13Z"
+      "username": "nSimplexPachinko",
+      "title": "Elite: Dangerous, Night 0059: Distant Worlds 3! Scientific Survey Team",
+      "game": "Elite: Dangerous",
+      "started_at": "2026-02-05T22:09:13Z"
     }
   ]
 }
