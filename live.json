@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-05T11:40:46.298Z",
+  "timestamp": "2026-02-05T11:54:21.147Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "The Working Class Builds, Innovates, Repairs. The Capitalist Class Extracts, Exploits, Alienates. Birthday Week.",
       "game": "Just Chatting",
       "started_at": "2026-02-05T10:02:06Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀Rise of Piracy - Game Dev | !discord !streamers !MicroProse !steam",
+      "game": "Software and Game Development",
+      "started_at": "2026-02-05T11:48:24Z"
     }
   ]
 }
