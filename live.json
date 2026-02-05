@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-05T23:08:34.497Z",
+  "timestamp": "2026-02-05T23:20:14.311Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-02-05T21:38:28Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "Pokémon Legends Science - First Playthrough | The science of Pokémon as we catch them all! | Partner+ 58/300 | !ppp !yt !pod",
-      "game": "Pokémon Legends: Z-A",
-      "started_at": "2026-02-05T19:01:55Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "BITCOIN PLUMMETS | TRUMP STORY IN GEORGIA KEEPS CHANGING | MAMDANI ENDORSES HOCHUL",
       "game": "Just Chatting",
       "started_at": "2026-02-05T22:57:48Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "Pokémon Legends Science - First Playthrough | The science of Pokémon as we catch them all! | Partner+ 58/300 | !ppp !yt !pod",
+      "game": "Pokémon Legends: Z-A",
+      "started_at": "2026-02-05T19:01:55Z"
     },
     {
       "username": "DrMick",
@@ -50,28 +50,28 @@
       "started_at": "2026-02-05T19:00:52Z"
     },
     {
-      "username": "AndrewHolding",
-      "title": "[UK/USA] Stream for progress! Science co-stream, Raising Money for Cancer Research UK (!donate) and donation induced chaos",
-      "game": "The Witcher 3: Wild Hunt",
-      "started_at": "2026-02-05T21:50:35Z"
-    },
-    {
       "username": "DonFactorial",
       "title": "Answering your math questions and taking notes on math pedagogy stuff and maybe other homework?",
       "game": "Math",
       "started_at": "2026-02-05T20:57:55Z"
     },
     {
-      "username": "Rocketology",
-      "title": "Cargo Hauling !sc !org - Streaming Every Day in February!",
-      "game": "Star Citizen",
-      "started_at": "2026-02-05T19:14:07Z"
+      "username": "AndrewHolding",
+      "title": "[UK/USA] Stream for progress! Science co-stream, Raising Money for Cancer Research UK (!donate) and donation induced chaos",
+      "game": "The Witcher 3: Wild Hunt",
+      "started_at": "2026-02-05T21:50:35Z"
     },
     {
       "username": "shnaff",
       "title": "Guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2026-02-05T23:01:06Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "Cargo Hauling !sc !org - Streaming Every Day in February!",
+      "game": "Star Citizen",
+      "started_at": "2026-02-05T19:14:07Z"
     },
     {
       "username": "DrAlexanderClarke",
