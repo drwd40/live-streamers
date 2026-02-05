@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-05T21:43:37.224Z",
+  "timestamp": "2026-02-05T21:55:24.846Z",
   "live": [
     {
       "username": "Kitboga",
@@ -15,8 +15,8 @@
     },
     {
       "username": "EJ_SA",
-      "title": "Collection parts....again.... ATTEMPT IV (Part 2)",
-      "game": "My Winter Car",
+      "title": "EJ's Space and Rocket Revue! 2/5/26",
+      "game": "Science & Technology",
       "started_at": "2026-02-05T17:04:07Z"
     },
     {
@@ -24,6 +24,12 @@
       "title": "Pokémon Legends Science - First Playthrough | The science of Pokémon as we catch them all! | Partner+ 58/300 | !ppp !yt !pod",
       "game": "Science & Technology",
       "started_at": "2026-02-05T19:01:55Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "DINOSAUR SCIENCE Q&A 🦆 plus Thursday BIRDSday 🦕 Special IRL stream tomorrow 🌊 (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-02-05T21:38:28Z"
     },
     {
       "username": "Zachap",
@@ -62,10 +68,10 @@
       "started_at": "2026-02-05T20:57:55Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "DINOSAUR SCIENCE Q&A 🦆 plus Thursday BIRDSday 🦕 Special IRL stream tomorrow 🌊 (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-02-05T21:38:28Z"
+      "username": "AndrewHolding",
+      "title": "[UK/USA] Stream for progress! Science co-stream, Raising Money for Cancer Research UK (!donate) and donation induced chaos",
+      "game": "The Witcher 3: Wild Hunt",
+      "started_at": "2026-02-05T21:50:35Z"
     }
   ]
 }
