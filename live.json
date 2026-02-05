@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-05T19:13:31.007Z",
+  "timestamp": "2026-02-05T19:29:17.081Z",
   "live": [
     {
       "username": "Kitboga",
@@ -26,16 +26,22 @@
       "started_at": "2026-02-05T10:02:06Z"
     },
     {
+      "username": "SciAnts_Streams",
+      "title": "Pokémon Legends Science - First Playthrough | The science of Pokémon as we catch them all! | Partner+ 58/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2026-02-05T19:01:55Z"
+    },
+    {
       "username": "oh_bother",
       "title": "Sim setup: BMW turn signals are real! Reverse engineering stalks.",
       "game": "Just Chatting",
       "started_at": "2026-02-05T17:38:26Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "Pokémon Legends Science - First Playthrough | The science of Pokémon as we catch them all! | Partner+ 58/300 | !ppp !yt !pod",
-      "game": "Science & Technology",
-      "started_at": "2026-02-05T19:01:55Z"
+      "username": "SydHeresy",
+      "title": "Soldering For Science - Electronics",
+      "game": "Just Chatting",
+      "started_at": "2026-02-05T19:00:52Z"
     },
     {
       "username": "eToThe2iPi",
@@ -44,10 +50,10 @@
       "started_at": "2026-02-05T18:45:23Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Soldering For Science - Electronics",
-      "game": "Just Chatting",
-      "started_at": "2026-02-05T19:00:52Z"
+      "username": "Rocketology",
+      "title": "Cargo Hauling !sc !org - Streaming Every Day in February!",
+      "game": "Star Citizen",
+      "started_at": "2026-02-05T19:14:07Z"
     }
   ]
 }
