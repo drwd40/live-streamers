@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-02-05T00:00:58.278Z",
+  "timestamp": "2026-02-05T00:49:01.350Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-02-04T14:39:16Z"
-    },
-    {
-      "username": "JapanesePrintmaking",
-      "title": "Making Japanese woodblock prints ... live while you watch ...",
-      "game": "Makers & Crafting",
-      "started_at": "2026-02-04T23:00:02Z"
     },
     {
       "username": "EJ_SA",
@@ -50,22 +44,10 @@
       "started_at": "2026-02-04T20:52:38Z"
     },
     {
-      "username": "Rocketology",
-      "title": "RSI Hermes Cargo Hauling !sc !org - Streaming Every Day in February!",
-      "game": "Star Citizen",
-      "started_at": "2026-02-04T19:17:42Z"
-    },
-    {
       "username": "nSimplexPachinko",
       "title": "Cracking the GRE Math Subject Test: Night 032: Taylor Polynomials, and Calc II Final!",
       "game": "Math",
       "started_at": "2026-02-04T21:52:20Z"
-    },
-    {
-      "username": "pencenter",
-      "title": "Let's finish up some more examples! @the_kahler_cone @academyofuselessideas [!fish🎣|!commands💻]",
-      "game": "Math",
-      "started_at": "2026-02-04T22:25:17Z"
     }
   ]
 }
