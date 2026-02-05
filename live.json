@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-05T17:50:43.308Z",
+  "timestamp": "2026-02-05T18:08:35.558Z",
   "live": [
     {
       "username": "Kitboga",
@@ -30,12 +30,6 @@
       "title": "Sim setup: BMW turn signals are real! Reverse engineering stalks.",
       "game": "Just Chatting",
       "started_at": "2026-02-05T17:38:26Z"
-    },
-    {
-      "username": "eToThe2iPi",
-      "title": "Building a (Twitch) Quiz Show: Sixteen",
-      "game": "Software and Game Development",
-      "started_at": "2026-02-05T15:55:29Z"
     }
   ]
 }
