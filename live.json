@@ -1,29 +1,11 @@
 {
-  "timestamp": "2026-02-05T02:08:36.921Z",
+  "timestamp": "2026-02-05T03:11:12.537Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Chat Chats w/ Evan | !alveus !institute !pixel !schedule !video !feed",
-      "game": "Just Chatting",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
+      "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-02-04T14:39:16Z"
-    },
-    {
-      "username": "EJ_SA",
-      "title": "We died.... Starting ATTEMPT IV: THE RETURN OF THE VITTU (Part 1)",
-      "game": "My Winter Car",
-      "started_at": "2026-02-04T17:17:42Z"
-    },
-    {
-      "username": "ipaintbirbs",
-      "title": "birb confetti",
-      "game": "Art",
-      "started_at": "2026-02-04T23:31:08Z"
-    },
-    {
-      "username": "imreallyimportant",
-      "title": "10 DAYS TO NEGOTIATE DHS FUNDING | TRUMP REMOVES 700 OFFICERS FROM MINNEAPOLIS",
-      "game": "Just Chatting",
-      "started_at": "2026-02-04T22:49:30Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -32,10 +14,10 @@
       "started_at": "2026-02-05T01:59:33Z"
     },
     {
-      "username": "DrawCuriosity",
-      "title": "⚗️ What if we did some new Science today?✨🐑",
+      "username": "Moohoodles",
+      "title": "🪐 Late Bday Subathon for New Emote Slots! 35% 5+ gift subs! ✨ Space & Astrobiology news then GAMES!",
       "game": "Science & Technology",
-      "started_at": "2026-02-04T20:52:38Z"
+      "started_at": "2026-02-05T02:32:51Z"
     },
     {
       "username": "SharkG33k",
@@ -60,6 +42,18 @@
       "title": "Storytime",
       "game": "Just Chatting",
       "started_at": "2026-02-05T01:52:06Z"
+    },
+    {
+      "username": "happyknightmares",
+      "title": "Got conditionally accepted for a Masters in Design! :D Studying synesthesia, co-working and chatting! 🎨🧠 What are you working on? Tell us!",
+      "game": "Co-working & Studying",
+      "started_at": "2026-02-05T02:45:44Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Conserving tarantulas, Springfield Ohio in the cross-hairs, and primary succession on the sidewalk.",
+      "game": "IRL",
+      "started_at": "2026-02-05T02:24:58Z"
     }
   ]
 }
