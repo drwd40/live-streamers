@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-05T23:20:14.311Z",
+  "timestamp": "2026-02-05T23:33:53.252Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -44,6 +44,12 @@
       "started_at": "2026-02-05T22:27:32Z"
     },
     {
+      "username": "shnaff",
+      "title": "Guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-02-05T23:01:06Z"
+    },
+    {
       "username": "SydHeresy",
       "title": "Soldering For Science - Electronics",
       "game": "Science & Technology",
@@ -54,18 +60,6 @@
       "title": "Answering your math questions and taking notes on math pedagogy stuff and maybe other homework?",
       "game": "Math",
       "started_at": "2026-02-05T20:57:55Z"
-    },
-    {
-      "username": "AndrewHolding",
-      "title": "[UK/USA] Stream for progress! Science co-stream, Raising Money for Cancer Research UK (!donate) and donation induced chaos",
-      "game": "The Witcher 3: Wild Hunt",
-      "started_at": "2026-02-05T21:50:35Z"
-    },
-    {
-      "username": "shnaff",
-      "title": "Guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-02-05T23:01:06Z"
     },
     {
       "username": "Rocketology",
