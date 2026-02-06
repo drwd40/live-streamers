@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-06T23:24:16.345Z",
+  "timestamp": "2026-02-06T23:37:47.067Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-02-06T14:39:18Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "The Artemis Element of Blame - The Flame Trench! 2/6/25",
-      "game": "Science & Technology",
-      "started_at": "2026-02-06T18:05:28Z"
-    },
-    {
       "username": "JapanesePrintmaking",
       "title": "Making Japanese woodblock prints ... live while you watch ...",
       "game": "Makers & Crafting",
       "started_at": "2026-02-06T23:00:05Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "The Artemis Element of Blame - The Flame Trench! 2/6/25",
+      "game": "Science & Technology",
+      "started_at": "2026-02-06T18:05:28Z"
     },
     {
       "username": "imreallyimportant",
@@ -32,16 +32,16 @@
       "started_at": "2026-02-06T22:07:47Z"
     },
     {
-      "username": "GeoJim2006",
-      "title": "Basic Rock-Forming Minerals + More Sorting & Organizing the NOVA Collection 🌋🪨🤘 !discord !nova !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-02-06T20:56:34Z"
-    },
-    {
       "username": "shnaff",
       "title": "Guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2026-02-06T23:02:29Z"
+    },
+    {
+      "username": "GeoJim2006",
+      "title": "Basic Rock-Forming Minerals + More Sorting & Organizing the NOVA Collection 🌋🪨🤘 !discord !nova !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-02-06T20:56:34Z"
     },
     {
       "username": "DonFactorial",
