@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-06T19:09:27.238Z",
+  "timestamp": "2026-02-06T19:27:32.585Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-02-06T14:39:18Z"
     },
     {
-      "username": "ipaintbirbs",
-      "title": "packing shipping stamping grind",
-      "game": "Art",
-      "started_at": "2026-02-06T17:07:38Z"
-    },
-    {
       "username": "EJ_SA",
       "title": "I have no idea what I'm doing. Don't be a dick. Factorio (Part 1)",
       "game": "Factorio",
       "started_at": "2026-02-06T18:05:28Z"
+    },
+    {
+      "username": "ipaintbirbs",
+      "title": "packing shipping stamping grind",
+      "game": "Art",
+      "started_at": "2026-02-06T17:07:38Z"
     },
     {
       "username": "AdamLearnsLive",
