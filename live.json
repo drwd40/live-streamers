@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-06T02:01:40.488Z",
+  "timestamp": "2026-02-06T03:07:33.859Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,28 +8,16 @@
       "started_at": "2026-02-04T14:39:16Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "BOLT ACTION IRON SIGHT MEDIC! Late Night BF6! 2/5/26",
-      "game": "Battlefield 6",
-      "started_at": "2026-02-05T21:57:16Z"
-    },
-    {
-      "username": "imreallyimportant",
-      "title": "BITCOIN PLUMMETS | TRUMP STORY IN GEORGIA KEEPS CHANGING | MAMDANI ENDORSES HOCHUL",
-      "game": "Just Chatting",
-      "started_at": "2026-02-05T22:57:48Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "DINOSAUR SCIENCE Q&A 🦆 plus Thursday BIRDSday 🦕 Special IRL stream tomorrow 🌊 (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-02-05T21:38:28Z"
-    },
-    {
       "username": "SciAnts_Streams",
       "title": "Pokémon Legends Science - First Playthrough | The science of Pokémon as we catch them all! | Partner+ 58/300 | !ppp !yt !pod",
       "game": "Pokémon Legends: Z-A",
       "started_at": "2026-02-05T19:01:55Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "There's no black hole at the center of the Milky Way? PhD Astronomer.  Former NASA guy  #science #space #stem #nasa",
+      "game": "Science & Technology",
+      "started_at": "2026-02-06T01:53:39Z"
     },
     {
       "username": "DrawCuriosity",
@@ -44,22 +32,22 @@
       "started_at": "2026-02-05T19:00:52Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
-      "game": "Just Chatting",
-      "started_at": "2026-02-06T01:00:54Z"
-    },
-    {
       "username": "SharkG33k",
       "title": "Clean Up Earth!",
       "game": "Clean Up Earth",
       "started_at": "2026-02-06T01:02:55Z"
     },
     {
-      "username": "Nerduino",
-      "title": "There's no black bole at the center of the Milky Way? PhD Astronomer.  Former NASA guy  #science #space #stem #nasa",
-      "game": "Science & Technology",
-      "started_at": "2026-02-06T01:53:39Z"
+      "username": "MelissaInDeNile",
+      "title": "LAST Assassins Creed: Brotherhood??? What will happen to Ezio?? ~ Follower Goal: 2248/2300 ~ !socials !beyonddenile",
+      "game": "Assassin's Creed Brotherhood",
+      "started_at": "2026-02-06T02:43:35Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-02-06T01:00:54Z"
     },
     {
       "username": "starstryder",
@@ -68,10 +56,16 @@
       "started_at": "2026-02-06T01:49:40Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "Elite: Dangerous, Night 0059: Distant Worlds 3! Scientific Survey Team",
-      "game": "Elite: Dangerous",
-      "started_at": "2026-02-05T22:09:13Z"
+      "username": "happyknightmares",
+      "title": "Got conditionally accepted for a Masters in Design! :D Studying synesthesia, co-working and chatting! 🎨🧠 What are you working on? Tell us!",
+      "game": "Co-working & Studying",
+      "started_at": "2026-02-06T02:48:35Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Feline compulsive disorder, who is Paul Whiteman, and Brumese pythons out in the cold.",
+      "game": "IRL",
+      "started_at": "2026-02-06T02:25:17Z"
     }
   ]
 }
