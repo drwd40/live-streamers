@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-07T17:53:21.789Z",
+  "timestamp": "2026-02-07T18:00:56.263Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,12 +14,6 @@
       "started_at": "2026-02-07T10:02:23Z"
     },
     {
-      "username": "oh_bother",
-      "title": "Sim setup: real turn signals, real microcontrollers! Makin' doohickeys.",
-      "game": "Just Chatting",
-      "started_at": "2026-02-07T17:03:38Z"
-    },
-    {
       "username": "GeneralSte",
       "title": "BUILDING TORONTO! | !linktree !discord",
       "game": "Cities: Skylines II",
@@ -30,6 +24,12 @@
       "title": "Bring Your Questions: A Math/Ed Q&A",
       "game": "Math",
       "started_at": "2026-02-07T16:59:12Z"
+    },
+    {
+      "username": "oh_bother",
+      "title": "Sim setup: real turn signals, real microcontrollers! Makin' doohickeys.",
+      "game": "Just Chatting",
+      "started_at": "2026-02-07T17:55:56Z"
     }
   ]
 }
