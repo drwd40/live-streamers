@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-07T21:12:15.387Z",
+  "timestamp": "2026-02-07T21:25:28.546Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,22 +26,16 @@
       "started_at": "2026-02-07T20:30:11Z"
     },
     {
-      "username": "Rocketology",
-      "title": "Solo Mining - Golem - Prospector - Mole !sc !org",
-      "game": "Star Citizen",
-      "started_at": "2026-02-07T19:07:48Z"
-    },
-    {
-      "username": "AcademyOfUselessIdeas",
-      "title": "Attempting math! (More interesting than watching paint dry (probably))",
-      "game": "Math",
-      "started_at": "2026-02-07T18:27:41Z"
-    },
-    {
       "username": "DonFactorial",
       "title": "Answering your math questions and trying to do Method of Steepest Descent (into madness)",
       "game": "Math",
       "started_at": "2026-02-07T20:57:45Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "Solo Mining - Golem - Prospector - Mole !sc !org",
+      "game": "Star Citizen",
+      "started_at": "2026-02-07T19:07:48Z"
     }
   ]
 }
