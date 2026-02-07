@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-07T19:02:22.741Z",
+  "timestamp": "2026-02-07T19:13:28.703Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "Bring Your Questions: A Math/Ed Q&A",
       "game": "Math",
       "started_at": "2026-02-07T16:59:12Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "Solo Mining - Golem - Prospector - Mole !sc !org",
+      "game": "Star Citizen",
+      "started_at": "2026-02-07T19:07:48Z"
     },
     {
       "username": "AcademyOfUselessIdeas",
