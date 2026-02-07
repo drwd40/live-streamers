@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-07T23:00:37.805Z",
+  "timestamp": "2026-02-07T23:13:49.069Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,22 @@
       "started_at": "2026-02-07T20:30:11Z"
     },
     {
-      "username": "Rocketology",
-      "title": "Solo Mining - Golem - Prospector - Mole !sc !org",
-      "game": "Star Citizen",
-      "started_at": "2026-02-07T19:07:48Z"
-    },
-    {
       "username": "DonFactorial",
       "title": "Answering your math questions and trying to do Method of Steepest Descent (into madness)",
       "game": "Math",
       "started_at": "2026-02-07T20:57:45Z"
+    },
+    {
+      "username": "AstroCanuck",
+      "title": "First Ever Gunpla Set - Night 2 with @aridecanwife as my Gunpla Sherpa | !PGV !light !texas | !drop !tkf",
+      "game": "Makers & Crafting",
+      "started_at": "2026-02-07T23:08:42Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "Solo Mining - Golem - Prospector - Mole !sc !org",
+      "game": "Star Citizen",
+      "started_at": "2026-02-07T19:07:48Z"
     }
   ]
 }
