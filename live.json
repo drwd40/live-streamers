@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-07T06:40:22.219Z",
+  "timestamp": "2026-02-07T07:00:44.377Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,22 +20,16 @@
       "started_at": "2026-02-07T02:01:27Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "Late night CS and chill.",
-      "game": "Counter-Strike",
-      "started_at": "2026-02-06T18:05:28Z"
+      "username": "happyknightmares",
+      "title": "Got conditionally accepted for a Masters in Design! :D Studying synesthesia, co-working and chatting! 🎨🧠 What are you working on? Tell us!",
+      "game": "Co-working & Studying",
+      "started_at": "2026-02-07T03:05:37Z"
     },
     {
       "username": "TominationTime",
       "title": "🔴1ST PLAYTHROUGH | ARE WE THE BAD GUY🔴",
       "game": "Dispatch",
       "started_at": "2026-02-07T04:32:10Z"
-    },
-    {
-      "username": "happyknightmares",
-      "title": "Got conditionally accepted for a Masters in Design! :D Studying synesthesia, co-working and chatting! 🎨🧠 What are you working on? Tell us!",
-      "game": "Co-working & Studying",
-      "started_at": "2026-02-07T03:05:37Z"
     }
   ]
 }
