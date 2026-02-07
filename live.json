@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-07T19:54:01.113Z",
+  "timestamp": "2026-02-07T19:59:44.837Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,18 +20,6 @@
       "started_at": "2026-02-07T10:02:23Z"
     },
     {
-      "username": "GeneralSte",
-      "title": "BUILDING TORONTO! | !linktree !discord",
-      "game": "Cities: Skylines II",
-      "started_at": "2026-02-07T16:30:17Z"
-    },
-    {
-      "username": "eToThe2iPi",
-      "title": "Bring Your Questions: A Math/Ed Q&A",
-      "game": "Math",
-      "started_at": "2026-02-07T16:59:12Z"
-    },
-    {
       "username": "Rocketology",
       "title": "Solo Mining - Golem - Prospector - Mole !sc !org",
       "game": "Star Citizen",
@@ -42,6 +30,12 @@
       "title": "Attempting math! (More interesting than watching paint dry (probably))",
       "game": "Math",
       "started_at": "2026-02-07T18:27:41Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀Rise of Piracy - Early Access soon - More focused / Sporadic streams | !discord !streamers !MicroProse !steam",
+      "game": "Software and Game Development",
+      "started_at": "2026-02-07T19:59:32Z"
     }
   ]
 }
