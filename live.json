@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-07T23:13:49.069Z",
+  "timestamp": "2026-02-07T23:27:41.040Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,6 +14,12 @@
       "started_at": "2026-02-07T10:02:23Z"
     },
     {
+      "username": "AstroCanuck",
+      "title": "First Ever Gunpla Set - Night 2 with @aridecanwife as my Gunpla Sherpa | !PGV !light !texas | !drop !tkf",
+      "game": "Makers & Crafting",
+      "started_at": "2026-02-07T23:08:42Z"
+    },
+    {
       "username": "SydHeresy",
       "title": "Solderdays - Electronics - Synths",
       "game": "Science & Technology",
@@ -24,12 +30,6 @@
       "title": "Answering your math questions and trying to do Method of Steepest Descent (into madness)",
       "game": "Math",
       "started_at": "2026-02-07T20:57:45Z"
-    },
-    {
-      "username": "AstroCanuck",
-      "title": "First Ever Gunpla Set - Night 2 with @aridecanwife as my Gunpla Sherpa | !PGV !light !texas | !drop !tkf",
-      "game": "Makers & Crafting",
-      "started_at": "2026-02-07T23:08:42Z"
     },
     {
       "username": "Rocketology",
