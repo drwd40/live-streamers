@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-07T20:10:43.249Z",
+  "timestamp": "2026-02-07T20:23:11.252Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,6 +20,12 @@
       "started_at": "2026-02-07T17:55:56Z"
     },
     {
+      "username": "IrishJohnGames",
+      "title": "🍀Rise of Piracy - Early Access soon - More focused / Sporadic streams | !discord !streamers !MicroProse !steam",
+      "game": "Software and Game Development",
+      "started_at": "2026-02-07T19:59:32Z"
+    },
+    {
       "username": "AcademyOfUselessIdeas",
       "title": "Attempting math! (More interesting than watching paint dry (probably))",
       "game": "Math",
@@ -30,12 +36,6 @@
       "title": "Solo Mining - Golem - Prospector - Mole !sc !org",
       "game": "Star Citizen",
       "started_at": "2026-02-07T19:07:48Z"
-    },
-    {
-      "username": "IrishJohnGames",
-      "title": "🍀Rise of Piracy - Early Access soon - More focused / Sporadic streams | !discord !streamers !MicroProse !steam",
-      "game": "Software and Game Development",
-      "started_at": "2026-02-07T19:59:32Z"
     }
   ]
 }
