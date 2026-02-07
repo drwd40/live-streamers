@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-07T07:00:44.377Z",
+  "timestamp": "2026-02-07T07:18:54.250Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -9,27 +9,21 @@
     },
     {
       "username": "Moohoodles",
-      "title": "🪐 Space & Astrobiology News! ✨ Variety gamin later",
-      "game": "Science & Technology",
+      "title": "🪐 I go outside irl I swear ✨ First time playin Cairn!",
+      "game": "CAIRN",
       "started_at": "2026-02-07T02:48:31Z"
-    },
-    {
-      "username": "SciAnts_Streams",
-      "title": "SciAnts News | New species, termite love, seeds, ancient enzymes, CRISPR screens, and more! | Partner+ 69/300 | !ppp !yt !pod",
-      "game": "Science & Technology",
-      "started_at": "2026-02-07T02:01:27Z"
-    },
-    {
-      "username": "happyknightmares",
-      "title": "Got conditionally accepted for a Masters in Design! :D Studying synesthesia, co-working and chatting! 🎨🧠 What are you working on? Tell us!",
-      "game": "Co-working & Studying",
-      "started_at": "2026-02-07T03:05:37Z"
     },
     {
       "username": "TominationTime",
       "title": "🔴1ST PLAYTHROUGH | ARE WE THE BAD GUY🔴",
       "game": "Dispatch",
       "started_at": "2026-02-07T04:32:10Z"
+    },
+    {
+      "username": "happyknightmares",
+      "title": "Got conditionally accepted for a Masters in Design! :D Studying synesthesia, co-working and chatting! 🎨🧠 What are you working on? Tell us!",
+      "game": "Co-working & Studying",
+      "started_at": "2026-02-07T03:05:37Z"
     }
   ]
 }
