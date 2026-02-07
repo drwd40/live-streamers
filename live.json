@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-07T23:27:41.040Z",
+  "timestamp": "2026-02-07T23:43:56.602Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,12 +30,6 @@
       "title": "Answering your math questions and trying to do Method of Steepest Descent (into madness)",
       "game": "Math",
       "started_at": "2026-02-07T20:57:45Z"
-    },
-    {
-      "username": "Rocketology",
-      "title": "Solo Mining - Golem - Prospector - Mole !sc !org",
-      "game": "Star Citizen",
-      "started_at": "2026-02-07T19:07:48Z"
     }
   ]
 }
