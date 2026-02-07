@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-07T20:59:28.487Z",
+  "timestamp": "2026-02-07T21:12:15.387Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-02-07T19:59:32Z"
     },
     {
-      "username": "Rocketology",
-      "title": "Solo Mining - Golem - Prospector - Mole !sc !org",
-      "game": "Star Citizen",
-      "started_at": "2026-02-07T19:07:48Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Solderdays - Electronics - Synths",
       "game": "Just Chatting",
       "started_at": "2026-02-07T20:30:11Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "Solo Mining - Golem - Prospector - Mole !sc !org",
+      "game": "Star Citizen",
+      "started_at": "2026-02-07T19:07:48Z"
     },
     {
       "username": "AcademyOfUselessIdeas",
