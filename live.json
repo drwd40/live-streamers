@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-07T20:23:11.252Z",
+  "timestamp": "2026-02-07T20:38:39.817Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,22 @@
       "started_at": "2026-02-07T19:59:32Z"
     },
     {
+      "username": "Rocketology",
+      "title": "Solo Mining - Golem - Prospector - Mole !sc !org",
+      "game": "Star Citizen",
+      "started_at": "2026-02-07T19:07:48Z"
+    },
+    {
       "username": "AcademyOfUselessIdeas",
       "title": "Attempting math! (More interesting than watching paint dry (probably))",
       "game": "Math",
       "started_at": "2026-02-07T18:27:41Z"
     },
     {
-      "username": "Rocketology",
-      "title": "Solo Mining - Golem - Prospector - Mole !sc !org",
-      "game": "Star Citizen",
-      "started_at": "2026-02-07T19:07:48Z"
+      "username": "SydHeresy",
+      "title": "Solderdays - Electronics - Synths",
+      "game": "Just Chatting",
+      "started_at": "2026-02-07T20:30:11Z"
     }
   ]
 }
