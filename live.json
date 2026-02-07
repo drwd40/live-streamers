@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-07T20:50:05.474Z",
+  "timestamp": "2026-02-07T20:59:28.487Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,12 +12,6 @@
       "title": "manufacturing jobs apparently meant Big Government. Trump and his project 2025 isn't very smart, just reactionary.",
       "game": "Just Chatting",
       "started_at": "2026-02-07T10:02:23Z"
-    },
-    {
-      "username": "oh_bother",
-      "title": "Sim setup: real turn signals, real microcontrollers! Makin' doohickeys.",
-      "game": "Just Chatting",
-      "started_at": "2026-02-07T17:55:56Z"
     },
     {
       "username": "IrishJohnGames",
@@ -42,6 +36,12 @@
       "title": "Attempting math! (More interesting than watching paint dry (probably))",
       "game": "Math",
       "started_at": "2026-02-07T18:27:41Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and trying to do Method of Steepest Descent (into madness)",
+      "game": "Math",
+      "started_at": "2026-02-07T20:57:45Z"
     }
   ]
 }
