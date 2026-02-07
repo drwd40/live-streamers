@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-07T20:38:39.817Z",
+  "timestamp": "2026-02-07T20:50:05.474Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,16 @@
       "started_at": "2026-02-07T19:07:48Z"
     },
     {
-      "username": "AcademyOfUselessIdeas",
-      "title": "Attempting math! (More interesting than watching paint dry (probably))",
-      "game": "Math",
-      "started_at": "2026-02-07T18:27:41Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Solderdays - Electronics - Synths",
       "game": "Just Chatting",
       "started_at": "2026-02-07T20:30:11Z"
+    },
+    {
+      "username": "AcademyOfUselessIdeas",
+      "title": "Attempting math! (More interesting than watching paint dry (probably))",
+      "game": "Math",
+      "started_at": "2026-02-07T18:27:41Z"
     }
   ]
 }
