@@ -1,11 +1,17 @@
 {
-  "timestamp": "2026-02-08T23:11:54.640Z",
+  "timestamp": "2026-02-08T23:26:06.875Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-02-08T14:39:20Z"
+    },
+    {
+      "username": "imreallyimportant",
+      "title": "SUNDAY SHOWS",
+      "game": "Just Chatting",
+      "started_at": "2026-02-08T23:14:37Z"
     },
     {
       "username": "ArchitectureTV",
@@ -30,6 +36,12 @@
       "title": "Bruships 231: Alternate History & Naval History Questions Answered Live...",
       "game": "Just Chatting",
       "started_at": "2026-02-08T19:30:28Z"
+    },
+    {
+      "username": "AcademyOfUselessIdeas",
+      "title": "Attempting math! (I just read the secret and now I am manifesting a sandwich))",
+      "game": "Math",
+      "started_at": "2026-02-08T23:20:48Z"
     }
   ]
 }
