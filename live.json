@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-08T05:46:22.226Z",
+  "timestamp": "2026-02-08T06:07:40.014Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-02-06T14:39:18Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Solderdays - Electronics - Synths",
-      "game": "Science & Technology",
-      "started_at": "2026-02-07T20:30:11Z"
-    },
-    {
       "username": "DrMick",
       "title": "Therapist Plays Gears of War: Part 3",
       "game": "Gears of War: Reloaded",
       "started_at": "2026-02-08T05:38:06Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Solderdays - Electronics - Synths",
+      "game": "Science & Technology",
+      "started_at": "2026-02-07T20:30:11Z"
     },
     {
       "username": "TominationTime",
