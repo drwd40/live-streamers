@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-08T05:17:07.387Z",
+  "timestamp": "2026-02-08T05:46:22.226Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,22 @@
       "started_at": "2026-02-07T20:30:11Z"
     },
     {
-      "username": "walkingsticklibrary",
-      "title": "Can Burmese pythons in Florida expand their range? 19th Century mental health care and assylums.",
-      "game": "IRL",
-      "started_at": "2026-02-08T02:59:53Z"
+      "username": "DrMick",
+      "title": "Therapist Plays Gears of War: Part 3",
+      "game": "Gears of War: Reloaded",
+      "started_at": "2026-02-08T05:38:06Z"
     },
     {
       "username": "TominationTime",
       "title": "🔴GETTING LUCK ON STREAM | 1ST PLAYTHROUGH🔴",
       "game": "Dispatch",
       "started_at": "2026-02-08T04:29:21Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Can Burmese pythons in Florida expand their range? 19th Century mental health care and assylums.",
+      "game": "IRL",
+      "started_at": "2026-02-08T02:59:53Z"
     }
   ]
 }
