@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-09T18:31:34.024Z",
+  "timestamp": "2026-02-09T19:26:50.780Z",
   "live": [
     {
       "username": "Maya",
@@ -9,8 +9,8 @@
     },
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
-      "game": "Animals, Aquariums, and Zoos",
+      "title": "Animal Care Chats | !alveus !institute !pixel !schedule !video !feed",
+      "game": "Just Chatting",
       "started_at": "2026-02-08T14:39:20Z"
     },
     {
@@ -30,6 +30,12 @@
       "title": "Gaza is still under attack, Trump is still colonizing the USA, Iran is still who knows? Venezuela is chilling, Cuba has sanctions for what?",
       "game": "Just Chatting",
       "started_at": "2026-02-09T10:03:07Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Working on (Twitch) Quiz Show Software: Sixteen",
+      "game": "Software and Game Development",
+      "started_at": "2026-02-09T18:56:12Z"
     }
   ]
 }
