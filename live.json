@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-09T04:11:49.096Z",
+  "timestamp": "2026-02-09T04:55:31.021Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-02-08T14:39:20Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "SciAnts Sunday | Silksong Act 2 Finale(??) + insect science in game! | Partner+ 80/300 | !ppp !yt !pod",
-      "game": "Science & Technology",
-      "started_at": "2026-02-09T02:01:16Z"
-    },
-    {
       "username": "Nerduino",
       "title": "Finding real exoplanets in Elite Dangerous!? PhD Astronomer.  Former NASA guy  #science #space #stem #nasa",
       "game": "Elite: Dangerous",
       "started_at": "2026-02-09T01:54:30Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "SciAnts Sunday | Silksong Act 2 Finale(??) + insect science in game! | Partner+ 80/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2026-02-09T02:01:16Z"
     },
     {
       "username": "walkingsticklibrary",
