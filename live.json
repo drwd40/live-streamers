@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-09T00:50:58.389Z",
+  "timestamp": "2026-02-09T01:24:19.722Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,18 +12,6 @@
       "title": "SUNDAY SHOWS",
       "game": "Just Chatting",
       "started_at": "2026-02-08T23:14:37Z"
-    },
-    {
-      "username": "DrAlexanderClarke",
-      "title": "Bruships 231: Alternate History & Naval History Questions Answered Live...",
-      "game": "Just Chatting",
-      "started_at": "2026-02-08T19:30:28Z"
-    },
-    {
-      "username": "AcademyOfUselessIdeas",
-      "title": "Attempting math! (I just read the secret and now I am manifesting a sandwich))",
-      "game": "Math",
-      "started_at": "2026-02-08T23:20:48Z"
     }
   ]
 }
