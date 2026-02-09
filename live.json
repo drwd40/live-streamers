@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-02-09T02:13:26.451Z",
+  "timestamp": "2026-02-09T03:20:32.017Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-02-08T14:39:20Z"
-    },
-    {
-      "username": "imreallyimportant",
-      "title": "SUNDAY SHOWS",
-      "game": "Just Chatting",
-      "started_at": "2026-02-09T01:42:06Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -22,8 +16,14 @@
     {
       "username": "Nerduino",
       "title": "Finding real exoplanets in Elite Dangerous!? PhD Astronomer.  Former NASA guy  #science #space #stem #nasa",
-      "game": "Science & Technology",
+      "game": "Elite: Dangerous",
       "started_at": "2026-02-09T01:54:30Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Psalm 120, hibernating garter snakes, and several little medical mills.",
+      "game": "IRL",
+      "started_at": "2026-02-09T02:29:54Z"
     }
   ]
 }
