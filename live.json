@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-09T01:24:19.722Z",
+  "timestamp": "2026-02-09T02:13:26.451Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -11,7 +11,19 @@
       "username": "imreallyimportant",
       "title": "SUNDAY SHOWS",
       "game": "Just Chatting",
-      "started_at": "2026-02-08T23:14:37Z"
+      "started_at": "2026-02-09T01:42:06Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "SciAnts Sunday | Silksong Act 2 Finale(??) + insect science in game! | Partner+ 80/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2026-02-09T02:01:16Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Finding real exoplanets in Elite Dangerous!? PhD Astronomer.  Former NASA guy  #science #space #stem #nasa",
+      "game": "Science & Technology",
+      "started_at": "2026-02-09T01:54:30Z"
     }
   ]
 }
