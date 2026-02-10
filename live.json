@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-10T20:55:45.803Z",
+  "timestamp": "2026-02-10T21:14:47.954Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,6 +32,12 @@
       "started_at": "2026-02-10T10:03:15Z"
     },
     {
+      "username": "AdamLearnsLive",
+      "title": "Steam Cloud support (day 303½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-02-10T21:02:27Z"
+    },
+    {
       "username": "DrawCuriosity",
       "title": "🐝Science Stream kinda day✨🐑 !merch !louse !dailybug",
       "game": "Science & Technology",
@@ -40,7 +46,7 @@
     {
       "username": "SydHeresy",
       "title": "And The Solder Will Flow Right In - Electronics - DIY",
-      "game": "Just Chatting",
+      "game": "Science & Technology",
       "started_at": "2026-02-10T19:00:20Z"
     },
     {
@@ -48,6 +54,12 @@
       "title": "Tuesday February 10th @ 2:30 pm EST: Lark: the Bird, the Poems, the Music!",
       "game": "Science & Technology",
       "started_at": "2026-02-10T19:27:33Z"
+    },
+    {
+      "username": "GeoJim2006",
+      "title": "Reconstructing Geologic Events - Fundamental Laws of Geology 🌋🪨🤘 !discord !nova !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-02-10T21:01:45Z"
     },
     {
       "username": "xTalkProgrammer",
