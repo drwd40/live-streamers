@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-10T01:35:02.264Z",
+  "timestamp": "2026-02-10T02:28:48.008Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,6 +20,12 @@
       "started_at": "2026-02-09T22:56:45Z"
     },
     {
+      "username": "SciAnts_Streams",
+      "title": "Microscopy Monday | Tiny worlds under the microscope with fossils, insects and more! | Partner+ 83/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2026-02-10T02:07:58Z"
+    },
+    {
       "username": "ActualEducation",
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Just Chatting",
@@ -29,7 +35,7 @@
       "username": "walkingsticklibrary",
       "title": "China's search for ethnic gene markers and conserving purple martins.",
       "game": "IRL",
-      "started_at": "2026-02-10T01:29:00Z"
+      "started_at": "2026-02-10T01:48:14Z"
     }
   ]
 }
