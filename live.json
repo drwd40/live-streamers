@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-10T13:35:38.817Z",
+  "timestamp": "2026-02-10T14:08:03.650Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "Political Economy is a thing and they (capitalists) don't want you to know about it.",
       "game": "Just Chatting",
       "started_at": "2026-02-10T10:03:15Z"
+    },
+    {
+      "username": "csharpfritz",
+      "title": "Minecraft with Aspire, AI, and Blazor",
+      "game": "Software and Game Development",
+      "started_at": "2026-02-10T14:00:35Z"
     }
   ]
 }
