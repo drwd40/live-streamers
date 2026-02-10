@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-10T22:42:18.366Z",
+  "timestamp": "2026-02-10T23:02:11.603Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "EJ's Space and Rocket Revue! 2/10/26",
       "game": "Science & Technology",
       "started_at": "2026-02-10T17:11:45Z"
+    },
+    {
+      "username": "DrawCuriosity",
+      "title": "🐝Science Stream kinda day✨🐑 !merch !louse !dailybug",
+      "game": "Science & Technology",
+      "started_at": "2026-02-10T19:13:53Z"
     },
     {
       "username": "AdamLearnsLive",
@@ -38,16 +44,22 @@
       "started_at": "2026-02-10T21:01:45Z"
     },
     {
-      "username": "DrawCuriosity",
-      "title": "🐝Science Stream kinda day✨🐑 !merch !louse !dailybug",
-      "game": "Science & Technology",
-      "started_at": "2026-02-10T19:13:53Z"
-    },
-    {
       "username": "nSimplexPachinko",
       "title": "Blue Prince, Night 05: Starting Day 14: Chessboard...?",
-      "game": "Math",
+      "game": "Blue Prince",
       "started_at": "2026-02-10T22:18:54Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "An Introduction to Algebra: \"How Discrete Can You Be?\"",
+      "game": "Math",
+      "started_at": "2026-02-10T22:56:19Z"
+    },
+    {
+      "username": "shnaff",
+      "title": "Guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-02-10T23:01:33Z"
     }
   ]
 }
