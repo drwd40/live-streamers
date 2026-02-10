@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-10T02:28:48.008Z",
+  "timestamp": "2026-02-10T03:37:09.021Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-02-08T14:39:20Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "I've been told the factory must grow... Factorio (Part 2)",
-      "game": "Factorio",
-      "started_at": "2026-02-09T18:23:41Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "GHISLAINE MAXWELL PLEADS THE FIFTH IN CONGRESSIONAL TESTIMONY | LIB & LEAR @ 7 PM EST",
       "game": "Just Chatting",
       "started_at": "2026-02-09T22:56:45Z"
+    },
+    {
+      "username": "Moohoodles",
+      "title": "🪐 Space & Astrobiology News! ✨ Games later?",
+      "game": "Science & Technology",
+      "started_at": "2026-02-10T02:52:28Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -30,12 +30,6 @@
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Just Chatting",
       "started_at": "2026-02-10T01:00:00Z"
-    },
-    {
-      "username": "walkingsticklibrary",
-      "title": "China's search for ethnic gene markers and conserving purple martins.",
-      "game": "IRL",
-      "started_at": "2026-02-10T01:48:14Z"
     }
   ]
 }
