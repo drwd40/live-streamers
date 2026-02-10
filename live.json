@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-10T15:05:05.209Z",
+  "timestamp": "2026-02-10T15:35:46.781Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-02-10T14:39:22Z"
     },
     {
-      "username": "Zachap",
-      "title": "Political Economy is a thing and they (capitalists) don't want you to know about it.",
-      "game": "Just Chatting",
-      "started_at": "2026-02-10T10:03:15Z"
-    },
-    {
       "username": "csharpfritz",
       "title": "Minecraft with Aspire, AI, and Blazor",
       "game": "Software and Game Development",
       "started_at": "2026-02-10T14:00:35Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "Political Economy is a thing and they (capitalists) don't want you to know about it.",
+      "game": "Just Chatting",
+      "started_at": "2026-02-10T10:03:15Z"
     }
   ]
 }
