@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-11T07:07:09.216Z",
+  "timestamp": "2026-02-11T07:33:29.678Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,22 +8,10 @@
       "started_at": "2026-02-10T14:39:22Z"
     },
     {
-      "username": "Nerduino",
-      "title": "Astronomer plays Elite Dangerous and tries to do science stuff!  PhD Astronomer.  Former NASA guy  #science #space #stem #nasa",
-      "game": "Elite: Dangerous",
-      "started_at": "2026-02-11T01:50:46Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "And The Solder Will Flow Right In - Electronics - DIY",
       "game": "Science & Technology",
       "started_at": "2026-02-10T19:00:20Z"
-    },
-    {
-      "username": "LottaGlots",
-      "title": "le lo lay ¿Lo qué pasó con Hawái?",
-      "game": "Just Chatting",
-      "started_at": "2026-02-11T04:32:12Z"
     }
   ]
 }
