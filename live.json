@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-11T16:55:24.134Z",
+  "timestamp": "2026-02-11T17:20:39.715Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,10 +8,22 @@
       "started_at": "2026-02-10T14:39:22Z"
     },
     {
+      "username": "EJ_SA",
+      "title": "EJ's STARLINK GROUP 17-34 Launch Coverage!",
+      "game": "Science & Technology",
+      "started_at": "2026-02-11T17:05:09Z"
+    },
+    {
       "username": "Zachap",
       "title": "Wide Emotes for Twitch WHEN? btw America isn't known for good things btw MAGA people, it's the bad guy in this story.",
       "game": "Just Chatting",
       "started_at": "2026-02-11T10:03:00Z"
+    },
+    {
+      "username": "PotteryDojo",
+      "title": "Pottery: Making Bonsai Pots | Throwing | Batch # 19 | Batch Total: 52",
+      "game": "Art",
+      "started_at": "2026-02-11T17:03:06Z"
     }
   ]
 }
