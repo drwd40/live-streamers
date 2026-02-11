@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-11T21:08:50.778Z",
+  "timestamp": "2026-02-11T21:22:49.063Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-02-11T20:45:31Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Building a Differential Equations Curriculum: The Laplace Transform",
-      "game": "Math",
-      "started_at": "2026-02-11T18:57:14Z"
-    },
-    {
       "username": "Rocketology",
       "title": "New Industry Missions Are Here! !sc !org",
       "game": "Star Citizen",
       "started_at": "2026-02-11T19:05:44Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Building a Differential Equations Curriculum: The Laplace Transform",
+      "game": "Math",
+      "started_at": "2026-02-11T18:57:14Z"
     }
   ]
 }
