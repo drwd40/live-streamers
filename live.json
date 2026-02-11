@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-11T20:19:15.320Z",
+  "timestamp": "2026-02-11T20:36:03.164Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-02-11T10:03:00Z"
     },
     {
-      "username": "PotteryDojo",
-      "title": "Pottery: Making Bonsai Pots | Foot Stream | Batch # 19 | Batch Total: 71",
-      "game": "Art",
-      "started_at": "2026-02-11T17:03:06Z"
-    },
-    {
       "username": "eToThe2iPi",
       "title": "Building a Differential Equations Curriculum: The Laplace Transform",
       "game": "Math",
       "started_at": "2026-02-11T18:57:14Z"
+    },
+    {
+      "username": "PotteryDojo",
+      "title": "Pottery: Making Bonsai Pots | Foot Stream | Batch # 19 | Batch Total: 71",
+      "game": "Art",
+      "started_at": "2026-02-11T17:03:06Z"
     },
     {
       "username": "Rocketology",
