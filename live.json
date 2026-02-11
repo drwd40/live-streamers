@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-11T01:38:13.159Z",
+  "timestamp": "2026-02-11T02:33:42.954Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,12 +20,6 @@
       "started_at": "2026-02-10T23:07:40Z"
     },
     {
-      "username": "shnaff",
-      "title": "Guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-02-10T23:01:33Z"
-    },
-    {
       "username": "AstroCanuck",
       "title": "Astro's Po'Pourri: Artemis II Update & LEGO Tudor Corner Continues | !PGV !light !texas | !drop !tkf",
       "game": "Science & Technology",
@@ -38,16 +32,22 @@
       "started_at": "2026-02-10T19:00:20Z"
     },
     {
+      "username": "SciAnts_Streams",
+      "title": "Tinker Tuesday | Valentine's Day science and card making | Partner+ 101/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2026-02-11T02:21:42Z"
+    },
+    {
       "username": "MelissaInDeNile",
       "title": "HAPPY EARLY VALENTINES DAY!! Let's help an Archaeologist fall in Love in C-14 Dating!! ~ Follower Goal: 2248/2300 ~ !socials !beyonddenile",
       "game": "C14 Dating",
       "started_at": "2026-02-10T23:50:19Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "An Introduction to Algebra: \"How Discrete Can You Be?\"",
-      "game": "Math",
-      "started_at": "2026-02-10T22:56:19Z"
+      "username": "Nerduino",
+      "title": "Amazing new discoveries.  SpaceX realizes the moon is closer than Mars.  PhD Astronomer.  Former NASA guy  #science #space #stem #nasa",
+      "game": "Science & Technology",
+      "started_at": "2026-02-11T01:50:46Z"
     },
     {
       "username": "SharkG33k",
@@ -56,10 +56,22 @@
       "started_at": "2026-02-11T01:14:58Z"
     },
     {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-02-11T01:59:39Z"
+    },
+    {
       "username": "nSimplexPachinko",
       "title": "Blue Prince, Night 05: Starting Day 14: Chessboard...?",
       "game": "Blue Prince",
       "started_at": "2026-02-10T22:18:54Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "China using genetic technology to create bioweapons, conserving purple martins, and is Ben Carson selling Memotril?",
+      "game": "IRL",
+      "started_at": "2026-02-11T02:30:17Z"
     }
   ]
 }
