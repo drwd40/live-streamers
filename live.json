@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-11T20:54:23.009Z",
+  "timestamp": "2026-02-11T21:08:50.778Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,28 +14,22 @@
       "started_at": "2026-02-11T17:05:09Z"
     },
     {
+      "username": "Stephen_Wolfram",
+      "title": "History of Science and Technology Q&A (February 11, 2026)",
+      "game": "Science & Technology",
+      "started_at": "2026-02-11T20:45:31Z"
+    },
+    {
       "username": "eToThe2iPi",
       "title": "Building a Differential Equations Curriculum: The Laplace Transform",
       "game": "Math",
       "started_at": "2026-02-11T18:57:14Z"
     },
     {
-      "username": "PotteryDojo",
-      "title": "Pottery: Making Bonsai Pots | Foot Stream | Batch # 19 | Batch Total: 71",
-      "game": "Art",
-      "started_at": "2026-02-11T17:03:06Z"
-    },
-    {
       "username": "Rocketology",
       "title": "New Industry Missions Are Here! !sc !org",
       "game": "Star Citizen",
       "started_at": "2026-02-11T19:05:44Z"
-    },
-    {
-      "username": "Stephen_Wolfram",
-      "title": "History of Science and Technology Q&A (February 11, 2026)",
-      "game": "Science & Technology",
-      "started_at": "2026-02-11T20:45:31Z"
     }
   ]
 }
