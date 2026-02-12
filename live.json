@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-12T19:20:02.479Z",
+  "timestamp": "2026-02-12T19:41:25.416Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,22 +20,16 @@
       "started_at": "2026-02-12T10:00:45Z"
     },
     {
-      "username": "oh_bother",
-      "title": "Sim setup: Wiring, it's always wiring.",
-      "game": "Just Chatting",
-      "started_at": "2026-02-12T17:44:23Z"
-    },
-    {
       "username": "SciAnts_Streams",
       "title": "Pokémon Legends Science - First Playthrough | The science of Pokémon as we catch them all! | Partner+ 122/300 | !ppp !yt !pod",
       "game": "Science & Technology",
       "started_at": "2026-02-12T19:10:09Z"
     },
     {
-      "username": "pencenter",
-      "title": "Beyond the Blackboard S2E3 - Consolidation [!fish🎣|!commands💻]",
-      "game": "Math",
-      "started_at": "2026-02-12T18:11:21Z"
+      "username": "oh_bother",
+      "title": "Sim setup: Wiring, it's always wiring.",
+      "game": "Just Chatting",
+      "started_at": "2026-02-12T17:44:23Z"
     }
   ]
 }
