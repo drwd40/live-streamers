@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-12T13:48:08.972Z",
+  "timestamp": "2026-02-12T14:14:24.243Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "Uservoice to get WIDE Emotes | HISTORY | POLITICS | ECONOMICS | PHILOSOPHY | THEORY | YOU ASK",
       "game": "Just Chatting",
       "started_at": "2026-02-12T10:00:45Z"
+    },
+    {
+      "username": "csharpfritz",
+      "title": "My AI Squad is better than yours",
+      "game": "Software and Game Development",
+      "started_at": "2026-02-12T14:00:22Z"
     }
   ]
 }
