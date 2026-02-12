@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-12T22:59:38.229Z",
+  "timestamp": "2026-02-12T23:13:04.352Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,28 +14,34 @@
       "started_at": "2026-02-12T19:47:13Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "Pokémon Legends Science - First Playthrough | The science of Pokémon as we catch them all! | Partner+ 122/300 | !ppp !yt !pod",
-      "game": "Science & Technology",
-      "started_at": "2026-02-12T19:10:09Z"
-    },
-    {
       "username": "Zachap",
       "title": "Uservoice to get WIDE Emotes | HISTORY | POLITICS | ECONOMICS | PHILOSOPHY | THEORY | YOU ASK",
       "game": "Just Chatting",
       "started_at": "2026-02-12T10:00:45Z"
     },
     {
+      "username": "SciAnts_Streams",
+      "title": "Pokémon Legends Science - First Playthrough | The science of Pokémon as we catch them all! | Partner+ 122/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2026-02-12T19:10:09Z"
+    },
+    {
+      "username": "imreallyimportant",
+      "title": "TRUMP FOLDS: ANNOUNCES END TO MINNESOTA ICE SURGE",
+      "game": "Just Chatting",
+      "started_at": "2026-02-12T23:02:38Z"
+    },
+    {
+      "username": "shnaff",
+      "title": "Guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-02-12T23:03:26Z"
+    },
+    {
       "username": "AndrewHolding",
       "title": "[UK/USA] Stream for progress! Science co-stream, Raising Money for Cancer Research UK (!donate) and donation induced chaos",
       "game": "The Witcher 3: Wild Hunt",
       "started_at": "2026-02-12T21:45:35Z"
-    },
-    {
-      "username": "SETIInstitute",
-      "title": "Lost Pulsars Found? Breakthrough Listen’s Deep Survey of the Galactic Core",
-      "game": "Talk Shows & Podcasts",
-      "started_at": "2026-02-12T22:31:38Z"
     }
   ]
 }
