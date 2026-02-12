@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-12T18:06:43.151Z",
+  "timestamp": "2026-02-12T18:30:46.954Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "Sim setup: Wiring, it's always wiring.",
       "game": "Just Chatting",
       "started_at": "2026-02-12T17:44:23Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "Beyond the Blackboard S2E3 - Consolidation [!fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-02-12T18:11:21Z"
     }
   ]
 }
