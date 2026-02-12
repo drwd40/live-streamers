@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-12T23:26:29.322Z",
+  "timestamp": "2026-02-12T23:41:53.590Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -22,7 +22,7 @@
     {
       "username": "SciAnts_Streams",
       "title": "Pokémon Legends Science - First Playthrough | The science of Pokémon as we catch them all! | Partner+ 122/300 | !ppp !yt !pod",
-      "game": "Science & Technology",
+      "game": "Pokémon Legends: Z-A",
       "started_at": "2026-02-12T19:10:09Z"
     },
     {
@@ -36,12 +36,6 @@
       "title": "Guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2026-02-12T23:03:26Z"
-    },
-    {
-      "username": "AndrewHolding",
-      "title": "[UK/USA] Stream for progress! Science co-stream, Raising Money for Cancer Research UK (!donate) and donation induced chaos",
-      "game": "The Witcher 3: Wild Hunt",
-      "started_at": "2026-02-12T21:45:35Z"
     }
   ]
 }
