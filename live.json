@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-13T09:24:15.731Z",
+  "timestamp": "2026-02-13T09:43:04.768Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "NSF - NASA/SPACEX FALCON 9 CREW 12 LAUNCH COVERAGE!",
       "game": "Science & Technology",
       "started_at": "2026-02-13T05:49:11Z"
+    },
+    {
+      "username": "DrWD40",
+      "title": "Live Coverage: SpaceX Falcon 9 Crew-12 Launch w/ RTLS! | Space Coast, FL",
+      "game": "Science & Technology",
+      "started_at": "2026-02-13T09:42:33Z"
     }
   ]
 }
