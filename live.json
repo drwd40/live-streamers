@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-13T20:33:16.362Z",
+  "timestamp": "2026-02-13T20:52:43.823Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,12 +14,6 @@
       "started_at": "2026-02-13T17:01:49Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "The perf-optimization journey continues ⚡️ (day 305)",
-      "game": "Software and Game Development",
-      "started_at": "2026-02-13T16:29:09Z"
-    },
-    {
       "username": "Zachap",
       "title": "The economy doesn't have to work the way it does atm, it could be completely different. raid here for partner push if you want/can lol",
       "game": "Just Chatting",
@@ -32,10 +26,22 @@
       "started_at": "2026-02-13T17:37:21Z"
     },
     {
+      "username": "Stephen_Wolfram",
+      "title": "Future of Science and Technology Q&A (February 13, 2026)",
+      "game": "Science & Technology",
+      "started_at": "2026-02-13T20:42:13Z"
+    },
+    {
       "username": "CosmoQuestX",
       "title": "Astronomy Cast: Luminous Blue Optical Transients",
       "game": "Talk Shows & Podcasts",
       "started_at": "2026-02-13T20:31:38Z"
+    },
+    {
+      "username": "GeoJim2006",
+      "title": "More Reconstructing Geologic Events + Searching the Mid-Atlantic Geo-Image Collection 🌋🪨🤘 !discord !nova !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-02-13T20:46:27Z"
     },
     {
       "username": "jacksfacts",
