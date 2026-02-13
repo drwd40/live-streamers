@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-02-13T20:00:01.592Z",
+  "timestamp": "2026-02-13T20:17:38.246Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Show and Tell | !alveus !institute !pixel !schedule !video !feed",
-      "game": "Just Chatting",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
+      "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-02-12T14:39:26Z"
     },
     {
@@ -30,6 +30,12 @@
       "title": "Sim Setup: Muxes and analogues, this is how they used to design car electronics!",
       "game": "Just Chatting",
       "started_at": "2026-02-13T17:37:21Z"
+    },
+    {
+      "username": "jacksfacts",
+      "title": "Watching/reviewing Apple TV's show Prehistoric Planet Ice age!",
+      "game": "Science & Technology",
+      "started_at": "2026-02-13T20:02:44Z"
     }
   ]
 }
