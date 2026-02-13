@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-13T19:27:18.749Z",
+  "timestamp": "2026-02-13T19:45:42.876Z",
   "live": [
     {
       "username": "Maya",
@@ -42,6 +42,12 @@
       "title": "After Hours: Making discoveries and illustrating them",
       "game": "Talk Shows & Podcasts",
       "started_at": "2026-02-13T18:55:51Z"
+    },
+    {
+      "username": "jacksfacts",
+      "title": "Watching/reviewing Apple TV's show Prehistoric Planet Ice age!",
+      "game": "Science & Technology",
+      "started_at": "2026-02-13T19:37:49Z"
     }
   ]
 }
