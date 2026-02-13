@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-13T02:16:59.774Z",
+  "timestamp": "2026-02-13T03:23:07.979Z",
   "live": [
     {
       "username": "Maya",
@@ -20,12 +20,6 @@
       "started_at": "2026-02-12T19:47:13Z"
     },
     {
-      "username": "imreallyimportant",
-      "title": "TRUMP FOLDS: ANNOUNCES END TO MINNESOTA ICE SURGE",
-      "game": "Just Chatting",
-      "started_at": "2026-02-12T23:02:38Z"
-    },
-    {
       "username": "SciAnts_Streams",
       "title": "Pokémon Legends Science - First Playthrough | The science of Pokémon as we catch them all! | Partner+ 122/300 | !ppp !yt !pod",
       "game": "Pokémon Legends: Z-A",
@@ -44,16 +38,16 @@
       "started_at": "2026-02-13T01:03:28Z"
     },
     {
-      "username": "SharkG33k",
-      "title": "🦈Scuba mask repair and prepping for morning shark dive🦈",
-      "game": "Science & Technology",
-      "started_at": "2026-02-13T01:16:32Z"
-    },
-    {
       "username": "MelissaInDeNile",
       "title": "HAPPY EARLY VALENTINES DAY!! Let's go romance the brooding Archaeologist in C-14 Dating! ~ Follower Goal: 2252/2300 ~ !socials !beyonddenile",
       "game": "C14 Dating",
       "started_at": "2026-02-12T23:50:41Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Sea turtle navigation and magnetic sense, writing to learn code, and mayacoba beans.",
+      "game": "IRL",
+      "started_at": "2026-02-13T02:29:58Z"
     }
   ]
 }
