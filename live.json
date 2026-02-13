@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-13T21:38:31.715Z",
+  "timestamp": "2026-02-13T21:53:52.536Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "Sim Setup: Muxes and analogues, this is how they used to design car electronics!",
       "game": "Just Chatting",
       "started_at": "2026-02-13T17:37:21Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "More optimizations (day 305½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-02-13T21:41:09Z"
     },
     {
       "username": "Stephen_Wolfram",
