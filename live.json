@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-13T00:52:20.211Z",
+  "timestamp": "2026-02-13T01:26:25.919Z",
   "live": [
     {
       "username": "Maya",
@@ -32,12 +32,6 @@
       "started_at": "2026-02-12T19:10:09Z"
     },
     {
-      "username": "Zachap",
-      "title": "Uservoice to get WIDE Emotes | HISTORY | POLITICS | ECONOMICS | PHILOSOPHY | THEORY | YOU ASK",
-      "game": "Just Chatting",
-      "started_at": "2026-02-12T10:00:45Z"
-    },
-    {
       "username": "shnaff",
       "title": "Guitar, piano, and singing in !stereo🎧",
       "game": "Music",
@@ -48,6 +42,18 @@
       "title": "HAPPY EARLY VALENTINES DAY!! Let's go romance the brooding Archaeologist in C-14 Dating! ~ Follower Goal: 2252/2300 ~ !socials !beyonddenile",
       "game": "C14 Dating",
       "started_at": "2026-02-12T23:50:41Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "🦈Scuba mask repair and prepping for morning shark dive🦈",
+      "game": "Science & Technology",
+      "started_at": "2026-02-13T01:16:32Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-02-13T01:03:28Z"
     }
   ]
 }
