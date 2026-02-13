@@ -1,11 +1,17 @@
 {
-  "timestamp": "2026-02-13T05:49:44.038Z",
+  "timestamp": "2026-02-13T06:13:13.578Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-02-12T14:39:26Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "NSF - NASA/SPACEX FALCON 9 CREW 12 LAUNCH COVERAGE!",
+      "game": "Science & Technology",
+      "started_at": "2026-02-13T05:49:11Z"
     },
     {
       "username": "happyknightmares",
@@ -18,12 +24,6 @@
       "title": "Sea turtle navigation and magnetic sense, writing to learn code, and mayacoba beans.",
       "game": "IRL",
       "started_at": "2026-02-13T04:51:53Z"
-    },
-    {
-      "username": "EJ_SA",
-      "title": "NSF - NASA/SPACEX FALCON 9 CREW 12 LAUNCH COVERAGE!",
-      "game": "Science & Technology",
-      "started_at": "2026-02-13T05:49:11Z"
     }
   ]
 }
