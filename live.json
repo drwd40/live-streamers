@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-13T10:22:12.312Z",
+  "timestamp": "2026-02-13T10:39:42.130Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,12 +18,6 @@
       "title": "The economy doesn't have to work the way it does atm, it could be completely different",
       "game": "Just Chatting",
       "started_at": "2026-02-13T10:00:22Z"
-    },
-    {
-      "username": "DrWD40",
-      "title": "Live Coverage: SpaceX Falcon 9 Crew-12 Launch w/ RTLS! | Space Coast, FL",
-      "game": "Science & Technology",
-      "started_at": "2026-02-13T09:42:33Z"
     }
   ]
 }
