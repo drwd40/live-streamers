@@ -1,11 +1,17 @@
 {
-  "timestamp": "2026-02-14T21:07:51.188Z",
+  "timestamp": "2026-02-14T21:18:57.031Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-02-14T14:40:49Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "💘🦕HAPPY VALENDINOS 🦖💘 Discussing dinosaur hearts, evidence for dinosaur courtship & reproduction +more (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-02-14T21:05:16Z"
     },
     {
       "username": "Zachap",
@@ -30,12 +36,6 @@
       "title": "Golden Hour Podcast ft. Ramtin",
       "game": "Just Chatting",
       "started_at": "2026-02-14T20:59:30Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "💘🦕HAPPY VALENDINOS 🦖💘 Discussing dinosaur hearts, evidence for dinosaur courtship & reproduction +more (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-02-14T21:05:16Z"
     }
   ]
 }
