@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-15T16:56:30.125Z",
+  "timestamp": "2026-02-15T17:07:21.174Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-02-15T12:29:16Z"
     },
     {
-      "username": "AstroCanuck",
-      "title": "Lazy Sunday LEGO: Small Set Showcase & !Giveaway Day | !PGV !light !texas | !drop !tkf",
-      "game": "Lego & Brickbuilding",
-      "started_at": "2026-02-15T15:03:26Z"
-    },
-    {
       "username": "LumiRue",
       "title": "Sinful Sunday: Epstein?  Learning on Buddhism, Buddhist Psychology, and Thich Nhat Hanh | 1pm Undocumented Americans Book Club Intro | DayZ?",
       "game": "Just Chatting",
       "started_at": "2026-02-15T15:02:00Z"
+    },
+    {
+      "username": "AstroCanuck",
+      "title": "Lazy Sunday LEGO: Small Set Showcase & !Giveaway Day | !PGV !light !texas | !drop !tkf",
+      "game": "Lego & Brickbuilding",
+      "started_at": "2026-02-15T15:03:26Z"
     },
     {
       "username": "Zachap",
@@ -42,12 +42,6 @@
       "title": "Replicating RNAs | hopfions? | Whale of an Issue | Clean Air - please | 🧪🌿",
       "game": "Just Chatting",
       "started_at": "2026-02-15T15:29:30Z"
-    },
-    {
-      "username": "DrAlexanderClarke",
-      "title": "Going A Viking...",
-      "game": "Northgard",
-      "started_at": "2026-02-15T13:56:05Z"
     }
   ]
 }
