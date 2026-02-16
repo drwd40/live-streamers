@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-16T02:11:13.299Z",
+  "timestamp": "2026-02-16T03:17:44.086Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,12 +14,6 @@
       "started_at": "2026-02-16T01:59:56Z"
     },
     {
-      "username": "nogre0",
-      "title": "brain wimperings. just yapping",
-      "game": "Just Chatting",
-      "started_at": "2026-02-16T01:00:05Z"
-    },
-    {
       "username": "Nerduino",
       "title": "Sunday night science chill with a  PhD Astronomer & former NASA guy.  SpaceX Launch &  Elite: Dangerous Later?  #science #space #stem #nasa",
       "game": "Science & Technology",
@@ -30,6 +24,12 @@
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Just Chatting",
       "started_at": "2026-02-16T01:13:37Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Searching for self-assembling nanobots, mobile-fortify, and stay or go with Miro.",
+      "game": "IRL",
+      "started_at": "2026-02-16T02:29:31Z"
     }
   ]
 }
