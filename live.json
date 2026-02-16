@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-16T19:03:22.442Z",
+  "timestamp": "2026-02-16T19:20:24.785Z",
   "live": [
     {
       "username": "Maya",
@@ -38,16 +38,16 @@
       "started_at": "2026-02-16T09:50:32Z"
     },
     {
-      "username": "CosmoQuestX",
-      "title": "Astronomy Cast Double Header",
-      "game": "Talk Shows & Podcasts",
-      "started_at": "2026-02-16T18:58:26Z"
-    },
-    {
       "username": "eToThe2iPi",
       "title": "Building Quiz Show Software: Sixteen",
       "game": "Software and Game Development",
       "started_at": "2026-02-16T18:57:40Z"
+    },
+    {
+      "username": "CosmoQuestX",
+      "title": "Astronomy Cast Double Header",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2026-02-16T18:58:26Z"
     }
   ]
 }
