@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-17T23:01:23.815Z",
+  "timestamp": "2026-02-17T23:14:02.874Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,6 +26,12 @@
       "started_at": "2026-02-17T10:01:08Z"
     },
     {
+      "username": "imreallyimportant",
+      "title": "COLBERT SAYS CBS PULLED TALARICO INTERVIEW | MTG CALLS OUT MAGA",
+      "game": "Just Chatting",
+      "started_at": "2026-02-17T23:03:31Z"
+    },
+    {
       "username": "DrawCuriosity",
       "title": "🐝Making my Haircut Vision Board! Happy CNY 88 bits - zodiac animal imitation, 888 bits - zodiac animal deepdive  ✨🐑",
       "game": "Just Chatting",
@@ -44,12 +50,6 @@
       "started_at": "2026-02-17T21:04:05Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and working on population dynamics with differential equations",
-      "game": "Math",
-      "started_at": "2026-02-17T21:15:45Z"
-    },
-    {
       "username": "eToThe2iPi",
       "title": "An Introduction to Algebra: Sylvia's Pool Party",
       "game": "Math",
@@ -60,6 +60,12 @@
       "title": "Guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2026-02-17T23:00:53Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and working on population dynamics with differential equations",
+      "game": "Math",
+      "started_at": "2026-02-17T21:15:45Z"
     }
   ]
 }
