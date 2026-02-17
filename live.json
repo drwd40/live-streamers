@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-17T18:11:36.476Z",
+  "timestamp": "2026-02-17T18:33:04.433Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,12 +20,6 @@
       "started_at": "2026-02-17T17:02:26Z"
     },
     {
-      "username": "TinyToxicTofu",
-      "title": "No Man's Sky Dailies + God of War Ragnarok Story - No Physics! Only Games!",
-      "game": "God of War Ragnarök",
-      "started_at": "2026-02-17T14:11:03Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "Finishing some perf stuff (day 307)",
       "game": "Software and Game Development",
@@ -36,12 +30,6 @@
       "title": "Karl Marx is good actually.",
       "game": "Just Chatting",
       "started_at": "2026-02-17T10:01:08Z"
-    },
-    {
-      "username": "pencenter",
-      "title": "Thinking about RSA and Diffie-Hellman [!fish🎣|!commands💻]",
-      "game": "Math",
-      "started_at": "2026-02-17T17:05:31Z"
     }
   ]
 }
