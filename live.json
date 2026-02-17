@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-17T01:21:44.995Z",
+  "timestamp": "2026-02-17T02:09:08.349Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,34 +14,28 @@
       "started_at": "2026-02-16T17:02:30Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "🦕💬 Dinosaur science discussion 🦖💬 Talkin' natural history w/ vidyagames streamer @delta_rayne & paleontologist Danny Anduza",
-      "game": "Science & Technology",
-      "started_at": "2026-02-16T21:08:34Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "DHS SHUTDOWN WEEK ONE | LIB & LEAR @ 7 PM EST",
       "game": "Just Chatting",
       "started_at": "2026-02-16T23:27:40Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Round 2: FIGHT (the garbage collector) (day 306½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-02-16T21:08:17Z"
-    },
-    {
-      "username": "Zachap",
-      "title": "lower the retirement age :) guarantee human needs with all this overproduction instead of supporting them bad things that hurt you/all",
-      "game": "Just Chatting",
-      "started_at": "2026-02-16T09:50:32Z"
+      "username": "SciAnts_Streams",
+      "title": "🔬 Microscopy Monday 🔬| Tiny worlds under the microscope + science rabbit holes galore! | Partner+ 158/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2026-02-17T02:01:10Z"
     },
     {
       "username": "DonFactorial",
       "title": "Sometimes you've gotta revisit the classics",
       "game": "Dark Souls: Remastered",
       "started_at": "2026-02-16T21:12:45Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Stay or go for Miro and genetic basis of pyrethrin resistance in mosquitoes.",
+      "game": "IRL",
+      "started_at": "2026-02-17T01:30:56Z"
     }
   ]
 }
