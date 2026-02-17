@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-17T22:50:22.321Z",
+  "timestamp": "2026-02-17T23:01:23.815Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -48,6 +48,18 @@
       "title": "Answering your math questions and working on population dynamics with differential equations",
       "game": "Math",
       "started_at": "2026-02-17T21:15:45Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "An Introduction to Algebra: Sylvia's Pool Party",
+      "game": "Math",
+      "started_at": "2026-02-17T22:56:50Z"
+    },
+    {
+      "username": "shnaff",
+      "title": "Guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-02-17T23:00:53Z"
     }
   ]
 }
