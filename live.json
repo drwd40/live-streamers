@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-17T23:42:26.356Z",
+  "timestamp": "2026-02-17T23:54:10.260Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,22 +26,10 @@
       "started_at": "2026-02-17T23:03:31Z"
     },
     {
-      "username": "Zachap",
-      "title": "Karl Marx is good actually.",
-      "game": "Just Chatting",
-      "started_at": "2026-02-17T10:01:08Z"
-    },
-    {
       "username": "DrawCuriosity",
       "title": "🐝Making my Haircut Vision Board! Happy CNY 88 bits - zodiac animal imitation, 888 bits - zodiac animal deepdive  ✨🐑",
       "game": "Just Chatting",
       "started_at": "2026-02-17T21:33:45Z"
-    },
-    {
-      "username": "SydHeresy",
-      "title": "What's New Solder Kats? Whoa Whoa Whoa - Electronics - Soldering - Repairs",
-      "game": "Science & Technology",
-      "started_at": "2026-02-17T20:46:08Z"
     },
     {
       "username": "shnaff",
@@ -50,10 +38,22 @@
       "started_at": "2026-02-17T23:00:53Z"
     },
     {
+      "username": "SydHeresy",
+      "title": "What's New Solder Kats? Whoa Whoa Whoa - Electronics - Soldering - Repairs",
+      "game": "Science & Technology",
+      "started_at": "2026-02-17T20:46:08Z"
+    },
+    {
       "username": "GeoJim2006",
       "title": "Mineral & Igneous Rock Connections 🌋🪨🤘 !discord !nova !tkf",
       "game": "Science & Technology",
       "started_at": "2026-02-17T21:04:05Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "An Introduction to Algebra: Sylvia's Pool Party",
+      "game": "Math",
+      "started_at": "2026-02-17T22:56:50Z"
     },
     {
       "username": "DonFactorial",
@@ -62,10 +62,10 @@
       "started_at": "2026-02-17T21:15:45Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "An Introduction to Algebra: Sylvia's Pool Party",
-      "game": "Math",
-      "started_at": "2026-02-17T22:56:50Z"
+      "username": "MelissaInDeNile",
+      "title": "Back to C-14 Dating! How much longer with Kyler put up with us?? ~ Follower Goal: 2257/2300 ~ !socials !beyonddenile",
+      "game": "C14 Dating",
+      "started_at": "2026-02-17T23:50:16Z"
     }
   ]
 }
