@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-18T05:20:15.179Z",
+  "timestamp": "2026-02-18T05:46:47.435Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,10 @@
       "started_at": "2026-02-16T14:40:51Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "We need more lightweight materials! Factorio (Part 10)",
-      "game": "Factorio",
-      "started_at": "2026-02-17T17:24:25Z"
-    },
-    {
       "username": "SciAnts_Streams",
       "title": "Tinker Tuesday | Clover science, crafts, + science rabbit holes galore! | Partner+ 167/300 | !ppp !yt !pod",
       "game": "Makers & Crafting",
-      "started_at": "2026-02-18T02:21:22Z"
+      "started_at": "2026-02-18T05:34:37Z"
     },
     {
       "username": "Nerduino",
@@ -26,16 +20,16 @@
       "started_at": "2026-02-18T01:50:56Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "What's New Solder Kats? Whoa Whoa Whoa - Electronics - Soldering - Repairs",
-      "game": "Science & Technology",
-      "started_at": "2026-02-17T20:46:08Z"
-    },
-    {
       "username": "DrMick",
       "title": "Heels vs Party Crashers",
       "game": "Sports",
       "started_at": "2026-02-18T05:03:49Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "What's New Solder Kats? Whoa Whoa Whoa - Electronics - Soldering - Repairs",
+      "game": "Science & Technology",
+      "started_at": "2026-02-17T20:46:08Z"
     },
     {
       "username": "happyknightmares",
