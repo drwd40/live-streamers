@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-18T23:02:11.295Z",
+  "timestamp": "2026-02-18T23:14:31.452Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,22 @@
       "started_at": "2026-02-18T17:18:09Z"
     },
     {
+      "username": "JapanesePrintmaking",
+      "title": "Making Japanese woodblock prints ... live while you watch ...",
+      "game": "Makers & Crafting",
+      "started_at": "2026-02-18T22:59:54Z"
+    },
+    {
       "username": "Paleontologizing",
       "title": "Triceratops noses, dinosaur metabolism, and more 🦖 plus viewer Q&A (w/ paleontologist Danny Anduza)",
       "game": "Science & Technology",
       "started_at": "2026-02-18T21:18:33Z"
     },
     {
-      "username": "JapanesePrintmaking",
-      "title": "Making Japanese woodblock prints ... live while you watch ...",
-      "game": "Makers & Crafting",
-      "started_at": "2026-02-18T22:59:54Z"
+      "username": "imreallyimportant",
+      "title": "EPSTEIN'S BUDDY BILLIONAIRE LES WEXNER DEPOSED BY CONGRESS | HILLARY ACCUSES TRUMP OF COVER-UP",
+      "game": "Just Chatting",
+      "started_at": "2026-02-18T22:59:34Z"
     },
     {
       "username": "AdamLearnsLive",
@@ -36,12 +42,6 @@
       "title": "Liberalism makes children homeless. Capitalism makes War profitable. Politicians make people alienated from their own political agency.",
       "game": "Just Chatting",
       "started_at": "2026-02-18T09:56:55Z"
-    },
-    {
-      "username": "imreallyimportant",
-      "title": "EPSTEIN'S BUDDY BILLIONAIRE LES WEXNER DEPOSED BY CONGRESS | HILLARY ACCUSES TRUMP OF COVER-UP",
-      "game": "Just Chatting",
-      "started_at": "2026-02-18T22:59:34Z"
     }
   ]
 }
