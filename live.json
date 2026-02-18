@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-18T03:16:32.772Z",
+  "timestamp": "2026-02-18T04:07:12.356Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,15 +14,9 @@
       "started_at": "2026-02-17T17:24:25Z"
     },
     {
-      "username": "imreallyimportant",
-      "title": "COLBERT SAYS CBS PULLED TALARICO INTERVIEW | MTG CALLS OUT MAGA",
-      "game": "Just Chatting",
-      "started_at": "2026-02-18T00:48:24Z"
-    },
-    {
       "username": "SciAnts_Streams",
       "title": "Tinker Tuesday | Clover science, crafts, + science rabbit holes galore! | Partner+ 167/300 | !ppp !yt !pod",
-      "game": "Science & Technology",
+      "game": "Makers & Crafting",
       "started_at": "2026-02-18T02:21:22Z"
     },
     {
@@ -32,16 +26,16 @@
       "started_at": "2026-02-18T01:01:02Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "What's New Solder Kats? Whoa Whoa Whoa - Electronics - Soldering - Repairs",
-      "game": "Science & Technology",
-      "started_at": "2026-02-17T20:46:08Z"
-    },
-    {
       "username": "Nerduino",
       "title": "Space Science Tuesday with a PhD astronomer and former NASA guy!   #science #space #stem #nasa",
       "game": "Science & Technology",
       "started_at": "2026-02-18T01:50:56Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "What's New Solder Kats? Whoa Whoa Whoa - Electronics - Soldering - Repairs",
+      "game": "Science & Technology",
+      "started_at": "2026-02-17T20:46:08Z"
     },
     {
       "username": "MelissaInDeNile",
