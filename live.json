@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-18T02:11:07.527Z",
+  "timestamp": "2026-02-18T03:16:32.772Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,10 +20,10 @@
       "started_at": "2026-02-18T00:48:24Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "It's... it's a dinosaur stream 🦕👀 Introducing new titanosaur Dasosaurus, plus viewer Q&A (w/ paleontologist Danny Anduza)",
+      "username": "SciAnts_Streams",
+      "title": "Tinker Tuesday | Clover science, crafts, + science rabbit holes galore! | Partner+ 167/300 | !ppp !yt !pod",
       "game": "Science & Technology",
-      "started_at": "2026-02-17T22:02:07Z"
+      "started_at": "2026-02-18T02:21:22Z"
     },
     {
       "username": "AstroCanuck",
@@ -36,12 +36,6 @@
       "title": "What's New Solder Kats? Whoa Whoa Whoa - Electronics - Soldering - Repairs",
       "game": "Science & Technology",
       "started_at": "2026-02-17T20:46:08Z"
-    },
-    {
-      "username": "DrawCuriosity",
-      "title": "🐝Making my Haircut Vision Board! Happy CNY 88 bits - zodiac animal imitation, 888 bits - zodiac animal deepdive  ✨🐑",
-      "game": "Just Chatting",
-      "started_at": "2026-02-17T21:33:45Z"
     },
     {
       "username": "Nerduino",
@@ -66,6 +60,12 @@
       "title": "Teacher Plays: Honkai Star Rail! Planet Arcadia, here we come",
       "game": "Honkai: Star Rail",
       "started_at": "2026-02-18T01:30:22Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Caffeine and ADHD, Coping/lived experience with ADHD and College Students, and medical autoethnography.",
+      "game": "IRL",
+      "started_at": "2026-02-18T02:26:55Z"
     }
   ]
 }
