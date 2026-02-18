@@ -1,23 +1,11 @@
 {
-  "timestamp": "2026-02-18T05:46:47.435Z",
+  "timestamp": "2026-02-18T06:12:27.962Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-02-16T14:40:51Z"
-    },
-    {
-      "username": "SciAnts_Streams",
-      "title": "Tinker Tuesday | Clover science, crafts, + science rabbit holes galore! | Partner+ 167/300 | !ppp !yt !pod",
-      "game": "Makers & Crafting",
-      "started_at": "2026-02-18T05:34:37Z"
-    },
-    {
-      "username": "Nerduino",
-      "title": "Space Science Tuesday with a PhD astronomer and former NASA guy!   #science #space #stem #nasa",
-      "game": "Science & Technology",
-      "started_at": "2026-02-18T01:50:56Z"
     },
     {
       "username": "DrMick",
@@ -32,16 +20,16 @@
       "started_at": "2026-02-17T20:46:08Z"
     },
     {
-      "username": "happyknightmares",
-      "title": "Co-working and art streamin' tonight! Synesthesia art and museum visits 🎨🧠",
-      "game": "Art",
-      "started_at": "2026-02-18T04:44:35Z"
-    },
-    {
       "username": "walkingsticklibrary",
       "title": "Caffeine and ADHD, Coping/lived experience with ADHD and College Students, and medical autoethnography.",
       "game": "IRL",
       "started_at": "2026-02-18T02:26:55Z"
+    },
+    {
+      "username": "happyknightmares",
+      "title": "Co-working and art streamin' tonight! Synesthesia art and museum visits 🎨🧠",
+      "game": "Art",
+      "started_at": "2026-02-18T04:44:35Z"
     }
   ]
 }
