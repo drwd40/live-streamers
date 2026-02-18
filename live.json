@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-18T22:01:01.083Z",
+  "timestamp": "2026-02-18T22:16:19.475Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,22 +26,10 @@
       "started_at": "2026-02-18T21:30:39Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Business, Innovation and Managing Life (February 18, 2026)",
-      "game": "Science & Technology",
-      "started_at": "2026-02-18T20:40:30Z"
-    },
-    {
       "username": "Zachap",
       "title": "Liberalism makes children homeless. Capitalism makes War profitable. Politicians make people alienated from their own political agency.",
       "game": "Just Chatting",
       "started_at": "2026-02-18T09:56:55Z"
-    },
-    {
-      "username": "eToThe2iPi",
-      "title": "The Laplace Transform + Other Stuff about Differential Equations",
-      "game": "Math",
-      "started_at": "2026-02-18T18:58:31Z"
     }
   ]
 }
