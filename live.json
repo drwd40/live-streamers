@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-18T21:33:28.860Z",
+  "timestamp": "2026-02-18T21:49:00.637Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,28 +14,28 @@
       "started_at": "2026-02-18T17:18:09Z"
     },
     {
-      "username": "Zachap",
-      "title": "Liberalism makes children homeless. Capitalism makes War profitable. Politicians make people alienated from their own political agency.",
-      "game": "Just Chatting",
-      "started_at": "2026-02-18T09:56:55Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "Triceratops noses, dinosaur metabolism, and more 🦖 plus viewer Q&A (w/ paleontologist Danny Anduza)",
       "game": "Science & Technology",
       "started_at": "2026-02-18T21:18:33Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Business, Innovation and Managing Life (February 18, 2026)",
-      "game": "Science & Technology",
-      "started_at": "2026-02-18T20:40:30Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "PROGRESS! 27 days until launch (day 308½)",
       "game": "Software and Game Development",
       "started_at": "2026-02-18T21:30:39Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "Liberalism makes children homeless. Capitalism makes War profitable. Politicians make people alienated from their own political agency.",
+      "game": "Just Chatting",
+      "started_at": "2026-02-18T09:56:55Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Business, Innovation and Managing Life (February 18, 2026)",
+      "game": "Science & Technology",
+      "started_at": "2026-02-18T20:40:30Z"
     },
     {
       "username": "eToThe2iPi",
