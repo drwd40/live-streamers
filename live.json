@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-18T04:48:33.086Z",
+  "timestamp": "2026-02-18T05:20:15.179Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,12 +20,6 @@
       "started_at": "2026-02-18T02:21:22Z"
     },
     {
-      "username": "AstroCanuck",
-      "title": "Astro's Po'Pourri: Artemis II Update & LEGO Telescope concludes | !PGV !light !texas | !drop !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-02-18T01:01:02Z"
-    },
-    {
       "username": "Nerduino",
       "title": "Space Science Tuesday with a PhD astronomer and former NASA guy!   #science #space #stem #nasa",
       "game": "Science & Technology",
@@ -38,22 +32,22 @@
       "started_at": "2026-02-17T20:46:08Z"
     },
     {
-      "username": "MelissaInDeNile",
-      "title": "Back to C-14 Dating! How much longer with Kyler put up with us?? ~ Follower Goal: 2257/2300 ~ !socials !beyonddenile",
-      "game": "C14 Dating",
-      "started_at": "2026-02-17T23:50:16Z"
-    },
-    {
-      "username": "walkingsticklibrary",
-      "title": "Caffeine and ADHD, Coping/lived experience with ADHD and College Students, and medical autoethnography.",
-      "game": "IRL",
-      "started_at": "2026-02-18T02:26:55Z"
+      "username": "DrMick",
+      "title": "Heels vs Party Crashers",
+      "game": "Sports",
+      "started_at": "2026-02-18T05:03:49Z"
     },
     {
       "username": "happyknightmares",
       "title": "Co-working and art streamin' tonight! Synesthesia art and museum visits 🎨🧠",
       "game": "Art",
       "started_at": "2026-02-18T04:44:35Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Caffeine and ADHD, Coping/lived experience with ADHD and College Students, and medical autoethnography.",
+      "game": "IRL",
+      "started_at": "2026-02-18T02:26:55Z"
     }
   ]
 }
