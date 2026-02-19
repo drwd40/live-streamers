@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-19T22:44:38.063Z",
+  "timestamp": "2026-02-19T22:58:43.225Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -42,6 +42,12 @@
       "title": "Palatino Armor Farming !sc !org",
       "game": "Star Citizen",
       "started_at": "2026-02-19T19:12:10Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Fixing trillions of bugs all at once (day 309½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-02-19T22:58:07Z"
     }
   ]
 }
