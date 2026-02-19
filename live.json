@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-19T23:28:13.466Z",
+  "timestamp": "2026-02-19T23:43:28.785Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-02-19T23:00:07Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "Pokémon Legends Science - First Playthrough | The science of Pokémon as we catch them all! | Partner+ 184/300 | !ppp !yt !pod",
-      "game": "Science & Technology",
-      "started_at": "2026-02-19T21:06:57Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "Fixing trillions of bugs all at once (day 309½)",
       "game": "Software and Game Development",
       "started_at": "2026-02-19T22:58:07Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "Pokémon Legends Science - First Playthrough | The science of Pokémon as we catch them all! | Partner+ 184/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2026-02-19T21:06:57Z"
     },
     {
       "username": "DrMick",
@@ -50,16 +50,16 @@
       "started_at": "2026-02-19T20:00:24Z"
     },
     {
-      "username": "Rocketology",
-      "title": "Palatino Armor Farming !sc !org",
-      "game": "Star Citizen",
-      "started_at": "2026-02-19T19:12:10Z"
-    },
-    {
       "username": "shnaff",
       "title": "Guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2026-02-19T23:05:42Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "Palatino Armor Farming !sc !org",
+      "game": "Star Citizen",
+      "started_at": "2026-02-19T19:12:10Z"
     }
   ]
 }
