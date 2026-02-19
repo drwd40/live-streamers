@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-19T23:14:26.109Z",
+  "timestamp": "2026-02-19T23:28:13.466Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-02-19T21:09:08Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "Pokémon Legends Science - First Playthrough | The science of Pokémon as we catch them all! | Partner+ 184/300 | !ppp !yt !pod",
-      "game": "Science & Technology",
-      "started_at": "2026-02-19T21:06:57Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "HASAN X ADAM MOCKLER CONVO | PARKER ON THE NECESSARY CONVERSATION PODCAST",
       "game": "Just Chatting",
       "started_at": "2026-02-19T23:00:07Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "Pokémon Legends Science - First Playthrough | The science of Pokémon as we catch them all! | Partner+ 184/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2026-02-19T21:06:57Z"
     },
     {
       "username": "AdamLearnsLive",
