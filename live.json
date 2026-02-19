@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-19T09:44:08.910Z",
+  "timestamp": "2026-02-19T10:05:10.294Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "🪐 Expedition & Astrobiology ✨ !pp",
       "game": "No Man's Sky",
       "started_at": "2026-02-19T02:21:17Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "Tell me something I don't know :) I'm sure there's plenty of options :)",
+      "game": "Just Chatting",
+      "started_at": "2026-02-19T10:01:49Z"
     }
   ]
 }
