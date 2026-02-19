@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-19T18:54:33.789Z",
+  "timestamp": "2026-02-19T19:14:26.409Z",
   "live": [
     {
       "username": "Maya",
@@ -15,8 +15,8 @@
     },
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
-      "game": "Animals, Aquariums, and Zoos",
+      "title": "Live, Laugh, Lukas | !alveus !institute !pixel !schedule !video !feed",
+      "game": "Just Chatting",
       "started_at": "2026-02-18T14:40:53Z"
     },
     {
@@ -30,6 +30,18 @@
       "title": "Tell me something I don't know :) I'm sure there's plenty of options :)",
       "game": "Just Chatting",
       "started_at": "2026-02-19T10:01:49Z"
+    },
+    {
+      "username": "SETIInstitute",
+      "title": "Exoplanetary Poetry: AI, Chemistry, and Alien Communication",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2026-02-19T19:00:52Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "SCL Replay and Reaction !sc !org",
+      "game": "Star Citizen",
+      "started_at": "2026-02-19T19:12:10Z"
     }
   ]
 }
