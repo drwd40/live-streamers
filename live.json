@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-19T20:00:21.542Z",
+  "timestamp": "2026-02-19T20:15:50.724Z",
   "live": [
     {
       "username": "Kitboga",
@@ -9,8 +9,8 @@
     },
     {
       "username": "AlveusSanctuary",
-      "title": "Live, Laugh, Lukas | !alveus !institute !pixel !schedule !video !feed",
-      "game": "Just Chatting",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
+      "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-02-18T14:40:53Z"
     },
     {
@@ -24,6 +24,12 @@
       "title": "Tell me something I don't know :) I'm sure there's plenty of options :)",
       "game": "Just Chatting",
       "started_at": "2026-02-19T10:01:49Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Soldering + Electronics + Repair + Fun",
+      "game": "Science & Technology",
+      "started_at": "2026-02-19T20:00:24Z"
     },
     {
       "username": "Rocketology",
