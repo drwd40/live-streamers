@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-19T03:17:15.491Z",
+  "timestamp": "2026-02-19T04:06:09.791Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,12 +14,6 @@
       "started_at": "2026-02-18T17:18:09Z"
     },
     {
-      "username": "ipaintbirbs",
-      "title": "PUMA WEEK!!! day two: finding bird love at the top pigeon school",
-      "game": "Hatoful Boyfriend",
-      "started_at": "2026-02-19T00:01:05Z"
-    },
-    {
       "username": "Moohoodles",
       "title": "🪐 Astrobiology & space news! ✨ !pp Games later too!?",
       "game": "Science & Technology",
@@ -30,6 +24,12 @@
       "title": "Wacom Wednesday | Science art, rabbit holes, and wasp deep dive! | Partner+ 173/300 | !ppp !yt !pod",
       "game": "Science & Technology",
       "started_at": "2026-02-19T02:05:57Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "Thinking about RSA and Diffie-Hellman [!fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-02-19T04:00:52Z"
     },
     {
       "username": "walkingsticklibrary",
