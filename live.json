@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-20T23:27:28.503Z",
+  "timestamp": "2026-02-20T23:42:01.245Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,6 +32,12 @@
       "started_at": "2026-02-20T10:03:11Z"
     },
     {
+      "username": "shnaff",
+      "title": "Guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-02-20T23:02:31Z"
+    },
+    {
       "username": "DrawCuriosity",
       "title": "🐝BACK FROM BEING SICKKKK ✨🐑 !dailybug !merch !bugwiki",
       "game": "Just Chatting",
@@ -42,12 +48,6 @@
       "title": "Sorting & Classifying Unknown Igneous Rocks (also watching USA hockey)🌋🪨🏒🥅 !discord !nova !tkf",
       "game": "Science & Technology",
       "started_at": "2026-02-20T21:00:43Z"
-    },
-    {
-      "username": "shnaff",
-      "title": "Guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-02-20T23:02:31Z"
     },
     {
       "username": "SharkG33k",
