@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-20T00:48:23.903Z",
+  "timestamp": "2026-02-20T01:20:09.547Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,22 +14,16 @@
       "started_at": "2026-02-19T20:55:46Z"
     },
     {
-      "username": "imreallyimportant",
-      "title": "HASAN X ADAM MOCKLER CONVO | PARKER ON THE NECESSARY CONVERSATION PODCAST",
-      "game": "Just Chatting",
-      "started_at": "2026-02-19T23:00:07Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "Brief intro to new spinosaur 🦕+Dinosaur tracks in TX threatened by \"A.I.\" datacenter? 🐔+Thursday BIRDSday (w/ paleontologist Danny Anduza)",
       "game": "Science & Technology",
       "started_at": "2026-02-19T21:09:08Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Fixing trillions of bugs all at once (day 309½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-02-19T22:58:07Z"
+      "username": "imreallyimportant",
+      "title": "HASAN X ADAM MOCKLER CONVO | PARKER ON THE NECESSARY CONVERSATION PODCAST",
+      "game": "Just Chatting",
+      "started_at": "2026-02-19T23:00:07Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -38,10 +32,10 @@
       "started_at": "2026-02-19T21:06:57Z"
     },
     {
-      "username": "shnaff",
-      "title": "Guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-02-19T23:05:42Z"
+      "username": "AstroCanuck",
+      "title": "NASA Artemis II Wet Dress Rehearsal Live views & chat | !PGV !light !texas | !drop !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-02-20T00:40:34Z"
     },
     {
       "username": "SydHeresy",
@@ -50,16 +44,28 @@
       "started_at": "2026-02-19T20:00:24Z"
     },
     {
-      "username": "AstroCanuck",
-      "title": "NASA Artemis II Wet Dress Rehearsal Live views & chat | !PGV !light !texas | !drop !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-02-20T00:40:34Z"
+      "username": "shnaff",
+      "title": "Guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-02-19T23:05:42Z"
     },
     {
       "username": "MelissaInDeNile",
       "title": "Ancient Egyptian Farmville?? Let's try out a new game Ancient Farms!! Thanks #Keymailer! ~ Follower Goal: 2262/2300 ~ !socials !beyonddenile",
       "game": "Ancient Farm",
       "started_at": "2026-02-19T23:51:55Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "🦈Catching up on shark news!🦈",
+      "game": "Science & Technology",
+      "started_at": "2026-02-20T01:06:49Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-02-20T01:16:53Z"
     }
   ]
 }
