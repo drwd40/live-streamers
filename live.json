@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-20T00:09:39.486Z",
+  "timestamp": "2026-02-20T00:48:23.903Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-02-19T20:55:46Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "Brief intro to new spinosaur 🦕+Dinosaur tracks in TX threatened by \"A.I.\" datacenter? 🐔+Thursday BIRDSday (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-02-19T21:09:08Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "HASAN X ADAM MOCKLER CONVO | PARKER ON THE NECESSARY CONVERSATION PODCAST",
       "game": "Just Chatting",
       "started_at": "2026-02-19T23:00:07Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "Brief intro to new spinosaur 🦕+Dinosaur tracks in TX threatened by \"A.I.\" datacenter? 🐔+Thursday BIRDSday (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-02-19T21:09:08Z"
     },
     {
       "username": "AdamLearnsLive",
@@ -38,10 +38,10 @@
       "started_at": "2026-02-19T21:06:57Z"
     },
     {
-      "username": "DrMick",
-      "title": "Mental Health Chat + Painting 40k",
-      "game": "Miniatures & Models",
-      "started_at": "2026-02-19T20:16:53Z"
+      "username": "shnaff",
+      "title": "Guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-02-19T23:05:42Z"
     },
     {
       "username": "SydHeresy",
@@ -50,22 +50,16 @@
       "started_at": "2026-02-19T20:00:24Z"
     },
     {
-      "username": "shnaff",
-      "title": "Guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-02-19T23:05:42Z"
+      "username": "AstroCanuck",
+      "title": "NASA Artemis II Wet Dress Rehearsal Live views & chat | !PGV !light !texas | !drop !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-02-20T00:40:34Z"
     },
     {
       "username": "MelissaInDeNile",
       "title": "Ancient Egyptian Farmville?? Let's try out a new game Ancient Farms!! Thanks #Keymailer! ~ Follower Goal: 2262/2300 ~ !socials !beyonddenile",
       "game": "Ancient Farm",
       "started_at": "2026-02-19T23:51:55Z"
-    },
-    {
-      "username": "ActualEducation",
-      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
-      "game": "Just Chatting",
-      "started_at": "2026-02-20T00:00:46Z"
     }
   ]
 }
