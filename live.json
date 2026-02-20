@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-20T02:06:50.759Z",
+  "timestamp": "2026-02-20T03:10:09.560Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,12 +20,6 @@
       "started_at": "2026-02-19T23:00:07Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "Brief intro to new spinosaur 🦕+Dinosaur tracks in TX threatened by \"A.I.\" datacenter? 🐔+Thursday BIRDSday (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-02-19T21:09:08Z"
-    },
-    {
       "username": "AstroCanuck",
       "title": "NASA Artemis II Wet Dress Rehearsal Live views & chat | !PGV !light !texas | !drop !tkf",
       "game": "Science & Technology",
@@ -36,6 +30,12 @@
       "title": "Wacom Wednesday | Science art, rabbit holes, and wasp deep dive! | Partner+ 173/300 | !ppp !yt !pod",
       "game": "Pokémon Legends: Z-A",
       "started_at": "2026-02-19T21:06:57Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Have we just found a galaxy that's >99% dark matter!   EPA says Mercury is good for you now. #science #space #stem #nasa",
+      "game": "Science & Technology",
+      "started_at": "2026-02-20T01:49:55Z"
     },
     {
       "username": "SydHeresy",
@@ -50,22 +50,16 @@
       "started_at": "2026-02-19T23:51:55Z"
     },
     {
-      "username": "Nerduino",
-      "title": "Have we just found a galaxy that's >99% dark matter!   EPA says Mercury is good for you now. #science #space #stem #nasa",
-      "game": "Science & Technology",
-      "started_at": "2026-02-20T01:49:55Z"
-    },
-    {
       "username": "SharkG33k",
       "title": "🦈Catching up on shark news!🦈",
       "game": "Science & Technology",
       "started_at": "2026-02-20T01:06:49Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
-      "game": "Just Chatting",
-      "started_at": "2026-02-20T01:16:53Z"
+      "username": "walkingsticklibrary",
+      "title": "Safety of nanoparticles. How do bumble bees fly? And Clever Hans/horsemanship.",
+      "game": "IRL",
+      "started_at": "2026-02-20T02:30:45Z"
     }
   ]
 }
