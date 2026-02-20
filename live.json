@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-20T20:27:25.518Z",
+  "timestamp": "2026-02-20T20:44:52.978Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,12 +18,6 @@
       "title": "PUMA WEEK PAINT ALONG! let me teach you how to paint a Purple Martin :) with @purplemartinconservation",
       "game": "Art",
       "started_at": "2026-02-20T16:52:35Z"
-    },
-    {
-      "username": "AdamLearnsLive",
-      "title": "We walked so that we could FLY (day 310)",
-      "game": "Software and Game Development",
-      "started_at": "2026-02-20T16:30:25Z"
     },
     {
       "username": "Zachap",
@@ -48,6 +42,12 @@
       "title": "Pottery: Making Bonsai Pots | Foot Stream | Batch # 19 | Batch Total: 89",
       "game": "Art",
       "started_at": "2026-02-20T18:25:36Z"
+    },
+    {
+      "username": "GeoJim2006",
+      "title": "Sorting & Classifying Unknown Igneous Rocks (also watching USA hockey)🌋🪨🏒🥅 !discord !nova !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-02-20T20:33:53Z"
     }
   ]
 }
