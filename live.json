@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-20T20:13:45.689Z",
+  "timestamp": "2026-02-20T20:27:25.518Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,22 @@
       "started_at": "2026-02-20T10:03:11Z"
     },
     {
-      "username": "PotteryDojo",
-      "title": "Pottery: Making Bonsai Pots | Foot Stream | Batch # 19 | Batch Total: 89",
-      "game": "Art",
-      "started_at": "2026-02-20T18:25:36Z"
+      "username": "DrawCuriosity",
+      "title": "🐝BACK FROM BEING SICKKKK ✨🐑 !dailybug !merch !bugwiki",
+      "game": "Just Chatting",
+      "started_at": "2026-02-20T20:20:51Z"
     },
     {
       "username": "SharkG33k",
       "title": "🏴‍☠️Wind Rose Pirate MMO Demo! 🏴‍☠️",
       "game": "Windrose",
       "started_at": "2026-02-20T18:29:27Z"
+    },
+    {
+      "username": "PotteryDojo",
+      "title": "Pottery: Making Bonsai Pots | Foot Stream | Batch # 19 | Batch Total: 89",
+      "game": "Art",
+      "started_at": "2026-02-20T18:25:36Z"
     }
   ]
 }
