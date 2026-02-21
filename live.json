@@ -1,6 +1,12 @@
 {
-  "timestamp": "2026-02-21T00:45:40.242Z",
+  "timestamp": "2026-02-21T01:16:23.457Z",
   "live": [
+    {
+      "username": "Maya",
+      "title": "@ADAPT TEACHES ME COD🎮",
+      "game": "Just Chatting",
+      "started_at": "2026-02-21T00:43:29Z"
+    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
@@ -14,22 +20,10 @@
       "started_at": "2026-02-20T15:38:52Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "25 days until Skeleseller comes out (day 310½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-02-20T21:14:59Z"
-    },
-    {
       "username": "shnaff",
       "title": "Guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2026-02-20T23:02:31Z"
-    },
-    {
-      "username": "GeoJim2006",
-      "title": "Sorting & Classifying Unknown Igneous Rocks (also watching USA hockey)🌋🪨🏒🥅 !discord !nova !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-02-20T21:00:43Z"
     },
     {
       "username": "Zachap",
@@ -38,16 +32,10 @@
       "started_at": "2026-02-20T10:03:11Z"
     },
     {
-      "username": "DrawCuriosity",
-      "title": "🐝BACK FROM BEING SICKKKK ✨🐑 !dailybug !merch !bugwiki",
-      "game": "Just Chatting",
-      "started_at": "2026-02-20T20:20:51Z"
-    },
-    {
-      "username": "Maya",
-      "title": "@ADAPT TEACHES ME COD🎮",
-      "game": "Just Chatting",
-      "started_at": "2026-02-21T00:43:29Z"
+      "username": "AstroCanuck",
+      "title": "Week's End Catch-up: Artemis II Launch Date Set*! Space News & More | !PGV !light !texas | !drop !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-02-21T01:01:39Z"
     },
     {
       "username": "SharkG33k",
