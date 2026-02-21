@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-21T16:56:35.256Z",
+  "timestamp": "2026-02-21T17:07:40.008Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,12 @@
       "title": "Political Economy | Political Philosophy | Political Sociology | Political Theory | Political Science | Political Geography",
       "game": "Just Chatting",
       "started_at": "2026-02-21T10:02:01Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Bring Your Questions: A Math/Math Ed Q&A",
+      "game": "Math",
+      "started_at": "2026-02-21T16:57:28Z"
     }
   ]
 }
