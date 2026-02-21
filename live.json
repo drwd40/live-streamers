@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-21T19:47:02.377Z",
+  "timestamp": "2026-02-21T19:54:26.440Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "Bring Your Questions: A Math/Math Ed Q&A",
       "game": "Math",
       "started_at": "2026-02-21T16:57:28Z"
+    },
+    {
+      "username": "Andilippi",
+      "title": "Did somebody say REBRAND!? - Designing OBS setup",
+      "game": "Just Chatting",
+      "started_at": "2026-02-21T19:52:54Z"
     }
   ]
 }
