@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-02-21T05:33:20.801Z",
+  "timestamp": "2026-02-21T05:52:41.488Z",
   "live": [
     {
       "username": "Maya",
-      "title": "@ADAPT TEACHES ME COD🎮",
+      "title": "catching a vibe",
       "game": "Just Chatting",
       "started_at": "2026-02-21T00:43:29Z"
     },
@@ -14,16 +14,16 @@
       "started_at": "2026-02-20T14:40:55Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "SciAnts News | New species, enzymes, termite love, microscopy, plant epigenetics, snail fear and more! | Partner+ 212/300 | !ppp !yt !pod",
-      "game": "Science & Technology",
-      "started_at": "2026-02-21T02:01:55Z"
-    },
-    {
       "username": "Moohoodles",
       "title": "🪐 Astrobiology & Space news! ✨ !pp Games later :)",
       "game": "Science & Technology",
       "started_at": "2026-02-21T02:19:56Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "SciAnts News | New species, enzymes, termite love, microscopy, plant epigenetics, snail fear and more! | Partner+ 212/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2026-02-21T02:01:55Z"
     },
     {
       "username": "TominationTime",
