@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-21T14:00:31.384Z",
+  "timestamp": "2026-02-21T14:11:49.390Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "Political Economy | Political Philosophy | Political Sociology | Political Theory | Political Science | Political Geography",
       "game": "Just Chatting",
       "started_at": "2026-02-21T10:02:01Z"
+    },
+    {
+      "username": "TinyToxicTofu",
+      "title": "Designing a PIR Motion Sensor + Playing God of War",
+      "game": "Science & Technology",
+      "started_at": "2026-02-21T14:02:04Z"
     }
   ]
 }
