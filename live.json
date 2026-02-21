@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-21T21:14:11.633Z",
+  "timestamp": "2026-02-21T21:27:06.785Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,18 @@
       "title": "Did somebody say REBRAND!? - Designing OBS setup",
       "game": "Just Chatting",
       "started_at": "2026-02-21T19:52:54Z"
+    },
+    {
+      "username": "Maya",
+      "title": "HORROR GAMES WITH @EMIRU @BONNIE @VALKYRAE 🎮",
+      "game": "Just Chatting",
+      "started_at": "2026-02-21T21:24:45Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and getting series solutions to ODEs and maybe more",
+      "game": "Math",
+      "started_at": "2026-02-21T21:15:27Z"
     }
   ]
 }
