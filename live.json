@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-21T23:10:26.972Z",
+  "timestamp": "2026-02-21T23:22:22.732Z",
   "live": [
     {
       "username": "Maya",
@@ -26,16 +26,16 @@
       "started_at": "2026-02-21T10:02:01Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and getting series solutions to ODEs and maybe more",
-      "game": "Math",
-      "started_at": "2026-02-21T21:15:27Z"
-    },
-    {
       "username": "AstroCanuck",
       "title": "NASA Artemis II Update & Special Presentation with @uacnj at 8pm ET | !PGV !light !texas | !drop !tkf",
       "game": "Science & Technology",
       "started_at": "2026-02-21T23:02:04Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and getting series solutions to ODEs and maybe more",
+      "game": "Math",
+      "started_at": "2026-02-21T21:15:27Z"
     }
   ]
 }
