@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-21T23:22:22.732Z",
+  "timestamp": "2026-02-21T23:35:10.485Z",
   "live": [
     {
       "username": "Maya",
@@ -20,16 +20,16 @@
       "started_at": "2026-02-21T17:38:36Z"
     },
     {
-      "username": "Zachap",
-      "title": "Political Economy | Political Philosophy | Political Sociology | Political Theory | Political Science | Political Geography",
-      "game": "Just Chatting",
-      "started_at": "2026-02-21T10:02:01Z"
-    },
-    {
       "username": "AstroCanuck",
       "title": "NASA Artemis II Update & Special Presentation with @uacnj at 8pm ET | !PGV !light !texas | !drop !tkf",
       "game": "Science & Technology",
       "started_at": "2026-02-21T23:02:04Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "Political Economy | Political Philosophy | Political Sociology | Political Theory | Political Science | Political Geography",
+      "game": "Just Chatting",
+      "started_at": "2026-02-21T10:02:01Z"
     },
     {
       "username": "DonFactorial",
