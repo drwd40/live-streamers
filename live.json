@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-22T12:25:56.643Z",
+  "timestamp": "2026-02-22T12:45:43.568Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "Looking for Real Gamers",
       "game": "Just Chatting",
       "started_at": "2026-02-22T10:02:43Z"
+    },
+    {
+      "username": "TinyToxicTofu",
+      "title": "Teaching Physics! Motion in One Dimension + Motion of Kratos' Axe in One Dimension or Another!",
+      "game": "Science & Technology",
+      "started_at": "2026-02-22T12:31:39Z"
     }
   ]
 }
