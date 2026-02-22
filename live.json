@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-22T23:23:58.108Z",
+  "timestamp": "2026-02-22T23:37:53.612Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-02-22T23:00:10Z"
     },
     {
-      "username": "VolcanoDoc",
-      "title": "Trying to Balance with Basaltic Volcanism |🌋 Science Sunday | !phd !tkf !socials !pubs",
-      "game": "Science & Technology",
-      "started_at": "2026-02-22T21:51:23Z"
-    },
-    {
       "username": "ArchitectureTV",
       "title": "Architecture Talks, Chicago Spire skyscraper, 2026 skyscrapers to be completed",
       "game": "Talk Shows & Podcasts",
       "started_at": "2026-02-22T23:14:51Z"
+    },
+    {
+      "username": "VolcanoDoc",
+      "title": "Trying to Balance with Basaltic Volcanism |🌋 Science Sunday | !phd !tkf !socials !pubs",
+      "game": "Science & Technology",
+      "started_at": "2026-02-22T21:51:23Z"
     },
     {
       "username": "shnaff",
