@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-22T15:11:48.928Z",
+  "timestamp": "2026-02-22T15:24:07.509Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -10,7 +10,7 @@
     {
       "username": "TinyToxicTofu",
       "title": "Teaching Physics! Motion in One Dimension + Motion of Kratos' Axe in One Dimension or Another!",
-      "game": "Science & Technology",
+      "game": "God of War Ragnarök",
       "started_at": "2026-02-22T12:31:39Z"
     },
     {
@@ -26,16 +26,16 @@
       "started_at": "2026-02-22T15:00:07Z"
     },
     {
-      "username": "Andilippi",
-      "title": "Chit-Chat-Chat-Chit - New Beta Release Today",
-      "game": "Just Chatting",
-      "started_at": "2026-02-22T14:31:15Z"
-    },
-    {
       "username": "LumiRue",
       "title": "The War on Science! | Made it to Indiana to see my Folks<3",
       "game": "Just Chatting",
       "started_at": "2026-02-22T15:06:43Z"
+    },
+    {
+      "username": "Andilippi",
+      "title": "Chit-Chat-Chat-Chit - New Beta Release Today",
+      "game": "Just Chatting",
+      "started_at": "2026-02-22T14:31:15Z"
     }
   ]
 }
