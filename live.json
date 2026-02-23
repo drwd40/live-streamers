@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-23T23:19:10.457Z",
+  "timestamp": "2026-02-23T23:34:41.130Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-02-22T14:40:57Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "Why study dinosaurs?  💥🦖💥 Fossil science Q&A, more Spinosaurus discussion, and much more (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-02-23T21:04:45Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "NEWSOM ACCUSED OF RACISM | SC STRIKES DOWN TARIFFS | LIB & LEAR @ 7 PM EST",
       "game": "Just Chatting",
       "started_at": "2026-02-23T22:52:46Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "Why study dinosaurs?  💥🦖💥 Fossil science Q&A, more Spinosaurus discussion, and much more (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-02-23T21:04:45Z"
     },
     {
       "username": "AdamLearnsLive",
@@ -26,16 +26,16 @@
       "started_at": "2026-02-23T21:19:49Z"
     },
     {
-      "username": "DrawCuriosity",
-      "title": "🌊First Time! What if I continued to brave Subnautica? ✨🐑 !dailybug !merch !bugwiki 350 bits for Soggy Socks!",
-      "game": "Subnautica",
-      "started_at": "2026-02-23T20:15:29Z"
-    },
-    {
       "username": "Zachap",
       "title": "Epstein is a bad guy, Trump is a bad guy, America is a bad guy, Capitalism is a bad system that makes that level of a bad guys possible",
       "game": "Just Chatting",
       "started_at": "2026-02-23T09:54:26Z"
+    },
+    {
+      "username": "DrawCuriosity",
+      "title": "🌊First Time! What if I continued to brave Subnautica? ✨🐑 !dailybug !merch !bugwiki 350 bits for Soggy Socks!",
+      "game": "Subnautica",
+      "started_at": "2026-02-23T20:15:29Z"
     }
   ]
 }
