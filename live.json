@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-23T20:48:52.768Z",
+  "timestamp": "2026-02-23T21:06:15.062Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -15,7 +15,7 @@
     },
     {
       "username": "DrawCuriosity",
-      "title": "🌊First Time! What if I continued to brave Subnautica? ✨🐑 !dailybug !merch !bugwiki 255 bits for a Jumpscare!",
+      "title": "🌊First Time! What if I continued to brave Subnautica? ✨🐑 !dailybug !merch !bugwiki 350 bits for Soggy Socks!",
       "game": "Subnautica",
       "started_at": "2026-02-23T20:15:29Z"
     },
@@ -26,16 +26,22 @@
       "started_at": "2026-02-23T19:19:13Z"
     },
     {
+      "username": "Andilippi",
+      "title": "I love my girlfriend",
+      "game": "World of Warcraft",
+      "started_at": "2026-02-23T20:46:04Z"
+    },
+    {
       "username": "eToThe2iPi",
       "title": "Building Quiz Show Software: Sixteen",
       "game": "Software and Game Development",
       "started_at": "2026-02-23T18:57:35Z"
     },
     {
-      "username": "Andilippi",
-      "title": "I love my girlfriend",
-      "game": "World of Warcraft",
-      "started_at": "2026-02-23T20:46:04Z"
+      "username": "Paleontologizing",
+      "title": "Why study dinosaurs?  💥🦖💥 Fossil science Q&A, more Spinosaurus discussion, and much more (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-02-23T21:04:45Z"
     }
   ]
 }
