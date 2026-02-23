@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-23T22:24:12.128Z",
+  "timestamp": "2026-02-23T22:42:00.412Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,16 @@
       "started_at": "2026-02-23T20:15:29Z"
     },
     {
-      "username": "Andilippi",
-      "title": "I love my girlfriend",
-      "game": "World of Warcraft",
-      "started_at": "2026-02-23T20:46:04Z"
-    },
-    {
       "username": "Rocketology",
       "title": "MechWarrior Monday - Gunpowder Messiahs Career!",
       "game": "MechWarrior 5: Mercenaries",
       "started_at": "2026-02-23T19:19:13Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Math Communication Monday! More Galileo & Huygens",
+      "game": "Math",
+      "started_at": "2026-02-23T22:34:03Z"
     }
   ]
 }
