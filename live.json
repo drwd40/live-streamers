@@ -1,11 +1,17 @@
 {
-  "timestamp": "2026-02-23T21:06:15.062Z",
+  "timestamp": "2026-02-23T21:26:39.617Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Care Chats | !alveus !institute !pixel !schedule !video !feed",
       "game": "Just Chatting",
       "started_at": "2026-02-22T14:40:57Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "Why study dinosaurs?  💥🦖💥 Fossil science Q&A, more Spinosaurus discussion, and much more (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-02-23T21:04:45Z"
     },
     {
       "username": "Zachap",
@@ -20,16 +26,16 @@
       "started_at": "2026-02-23T20:15:29Z"
     },
     {
+      "username": "AdamLearnsLive",
+      "title": "Chopping down issues on GitHub 🪓 (day 311½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-02-23T21:19:49Z"
+    },
+    {
       "username": "Rocketology",
       "title": "MechWarrior Monday - Gunpowder Messiahs Career!",
       "game": "MechWarrior 5: Mercenaries",
       "started_at": "2026-02-23T19:19:13Z"
-    },
-    {
-      "username": "Andilippi",
-      "title": "I love my girlfriend",
-      "game": "World of Warcraft",
-      "started_at": "2026-02-23T20:46:04Z"
     },
     {
       "username": "eToThe2iPi",
@@ -38,10 +44,10 @@
       "started_at": "2026-02-23T18:57:35Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "Why study dinosaurs?  💥🦖💥 Fossil science Q&A, more Spinosaurus discussion, and much more (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-02-23T21:04:45Z"
+      "username": "Andilippi",
+      "title": "I love my girlfriend",
+      "game": "World of Warcraft",
+      "started_at": "2026-02-23T20:46:04Z"
     }
   ]
 }
