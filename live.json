@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-02-23T00:33:05.865Z",
+  "timestamp": "2026-02-23T00:58:45.037Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-02-22T14:40:57Z"
-    },
-    {
-      "username": "JapanesePrintmaking",
-      "title": "Making Japanese woodblock prints ... live while you watch ...",
-      "game": "Makers & Crafting",
-      "started_at": "2026-02-22T23:00:10Z"
     },
     {
       "username": "ArchitectureTV",
@@ -36,12 +30,6 @@
       "title": "🍀 2 days until release TESTING SOMETHING - NO STREAM! | !discord !streamers !MicroProse !steam",
       "game": "Rise of Piracy",
       "started_at": "2026-02-23T00:01:14Z"
-    },
-    {
-      "username": "Rocketology",
-      "title": "New Campaign, All DLC - and Modded !sc !org",
-      "game": "MechWarrior 5: Mercenaries",
-      "started_at": "2026-02-22T19:44:38Z"
     }
   ]
 }
