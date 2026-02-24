@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-24T07:23:54.756Z",
+  "timestamp": "2026-02-24T07:43:59.994Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "🪐 Astrobiology nerd tries SpaceCraft - new game! ✨ !SpaceCraft #ad !pp",
       "game": "SpaceCraft",
       "started_at": "2026-02-24T04:54:04Z"
+    },
+    {
+      "username": "happyknightmares",
+      "title": "Quick late-night stream!!",
+      "game": "Science & Technology",
+      "started_at": "2026-02-24T07:33:25Z"
     }
   ]
 }
