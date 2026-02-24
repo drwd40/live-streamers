@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-24T22:16:57.100Z",
+  "timestamp": "2026-02-24T22:31:58.599Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,12 +32,6 @@
       "started_at": "2026-02-24T09:53:13Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and doing dynamical systems stuff and getting series solutions to ODEs",
-      "game": "Math",
-      "started_at": "2026-02-24T21:04:38Z"
-    },
-    {
       "username": "eToThe2iPi",
       "title": "An Introduction to Algebra: Sumthing About Functions",
       "game": "Math",
@@ -50,22 +44,16 @@
       "started_at": "2026-02-24T19:33:47Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 967: Language Design in Wolfram Language [Graphic Issues]",
-      "game": "Science & Technology",
-      "started_at": "2026-02-24T22:05:57Z"
+      "username": "DonFactorial",
+      "title": "Answering your math questions and doing dynamical systems stuff and getting series solutions to ODEs",
+      "game": "Math",
+      "started_at": "2026-02-24T21:04:38Z"
     },
     {
       "username": "nSimplexPachinko",
       "title": "IrishJohnGames Presents: Rise of Piracy! New game just dropped today!",
       "game": "Rise of Piracy",
       "started_at": "2026-02-24T21:35:55Z"
-    },
-    {
-      "username": "xTalkProgrammer",
-      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
-      "game": "Just Chatting",
-      "started_at": "2026-02-24T20:13:48Z"
     }
   ]
 }
