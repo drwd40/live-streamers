@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-24T22:03:20.469Z",
+  "timestamp": "2026-02-24T22:16:57.100Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -23,7 +23,7 @@
       "username": "SciAnts_Streams",
       "title": "🏴‍☠️ Rise Of Piracy 🏴‍☠️| Day 1 Release Day - Best Pirate RTS ever? | Congratulations @irishjohngames !! | Partner+ 236/300 | !ppp !yt !pod",
       "game": "Rise of Piracy",
-      "started_at": "2026-02-24T19:01:42Z"
+      "started_at": "2026-02-24T22:11:50Z"
     },
     {
       "username": "Zachap",
@@ -50,16 +50,22 @@
       "started_at": "2026-02-24T19:33:47Z"
     },
     {
-      "username": "xTalkProgrammer",
-      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
-      "game": "Just Chatting",
-      "started_at": "2026-02-24T20:13:48Z"
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 967: Language Design in Wolfram Language [Graphic Issues]",
+      "game": "Science & Technology",
+      "started_at": "2026-02-24T22:05:57Z"
     },
     {
       "username": "nSimplexPachinko",
       "title": "IrishJohnGames Presents: Rise of Piracy! New game just dropped today!",
       "game": "Rise of Piracy",
       "started_at": "2026-02-24T21:35:55Z"
+    },
+    {
+      "username": "xTalkProgrammer",
+      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
+      "game": "Just Chatting",
+      "started_at": "2026-02-24T20:13:48Z"
     }
   ]
 }
