@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-24T22:50:03.892Z",
+  "timestamp": "2026-02-24T23:03:00.616Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,10 +14,16 @@
       "started_at": "2026-02-24T17:50:12Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "🏴‍☠️ Rise Of Piracy 🏴‍☠️| Day 1 Release Day - Best Pirate RTS ever? | Congratulations @irishjohngames !! | Partner+ 236/300 | !ppp !yt !pod",
-      "game": "Rise of Piracy",
-      "started_at": "2026-02-24T22:11:50Z"
+      "username": "Paleontologizing",
+      "title": "🦕 Let's clear up some misconceptions about dinosaurs 🦖 plus viewer Q&A (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-02-24T22:45:56Z"
+    },
+    {
+      "username": "imreallyimportant",
+      "title": "LIVE @ 9 PM EST: STATE OF THE UNION",
+      "game": "Just Chatting",
+      "started_at": "2026-02-24T22:50:17Z"
     },
     {
       "username": "Zachap",
@@ -26,10 +32,10 @@
       "started_at": "2026-02-24T09:53:13Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "🦕 Let's clear up some misconceptions about dinosaurs 🦖 plus viewer Q&A (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-02-24T22:45:56Z"
+      "username": "SciAnts_Streams",
+      "title": "🏴‍☠️ Rise Of Piracy 🏴‍☠️| Day 1 Release Day - Best Pirate RTS ever? | Congratulations @irishjohngames !! | Partner+ 236/300 | !ppp !yt !pod",
+      "game": "Rise of Piracy",
+      "started_at": "2026-02-24T22:11:50Z"
     },
     {
       "username": "eToThe2iPi",
@@ -54,6 +60,12 @@
       "title": "IrishJohnGames Presents: Rise of Piracy! New game just dropped today!",
       "game": "Rise of Piracy",
       "started_at": "2026-02-24T21:35:55Z"
+    },
+    {
+      "username": "shnaff",
+      "title": "Guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-02-24T23:02:19Z"
     }
   ]
 }
