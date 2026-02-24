@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-24T02:00:54.814Z",
+  "timestamp": "2026-02-24T03:09:44.316Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-02-22T14:40:57Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "Why study dinosaurs?  💥🦖💥 Fossil science Q&A, more Spinosaurus discussion, and much more (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-02-23T21:04:45Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "NEWSOM ACCUSED OF RACISM | SC STRIKES DOWN TARIFFS | LIB & LEAR @ 7 PM EST",
       "game": "Just Chatting",
       "started_at": "2026-02-23T22:52:46Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "Microscopy Monday | Tiny worlds under the microscope including fossils, insects, and more! | Partner+ 236/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2026-02-24T02:00:00Z"
     },
     {
       "username": "ActualEducation",
@@ -30,12 +30,6 @@
       "title": "Who is Doctor Bla(i)ne Schilling? What happened to Brunswick sardines (and other brands)?",
       "game": "IRL",
       "started_at": "2026-02-24T01:27:40Z"
-    },
-    {
-      "username": "SciAnts_Streams",
-      "title": "Microscopy Monday | Tiny worlds under the microscope including fossils, insects, and more! | Partner+ 236/300 | !ppp !yt !pod",
-      "game": "Science & Technology",
-      "started_at": "2026-02-24T02:00:00Z"
     }
   ]
 }
