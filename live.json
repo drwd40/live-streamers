@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-24T21:37:06.315Z",
+  "timestamp": "2026-02-24T21:51:53.551Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,6 +38,12 @@
       "started_at": "2026-02-24T19:54:36Z"
     },
     {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and doing dynamical systems stuff and getting series solutions to ODEs",
+      "game": "Math",
+      "started_at": "2026-02-24T21:04:38Z"
+    },
+    {
       "username": "vul100",
       "title": "Tuesday February 24th @ 2:30 pm EST: Visual Snow Part 2: Visual snow & auditory pareidolia: do you hear music in white noise?",
       "game": "Science & Technology",
@@ -48,12 +54,6 @@
       "title": "How to Farm Ace Pilots !sc !org",
       "game": "Star Citizen",
       "started_at": "2026-02-24T19:33:47Z"
-    },
-    {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and doing dynamical systems stuff and getting series solutions to ODEs",
-      "game": "Math",
-      "started_at": "2026-02-24T21:04:38Z"
     },
     {
       "username": "xTalkProgrammer",
