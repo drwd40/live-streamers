@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-24T22:31:58.599Z",
+  "timestamp": "2026-02-24T22:50:03.892Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,12 +14,6 @@
       "started_at": "2026-02-24T17:50:12Z"
     },
     {
-      "username": "ipaintbirbs",
-      "title": "junco! jumping!!!!!",
-      "game": "Art",
-      "started_at": "2026-02-24T16:58:35Z"
-    },
-    {
       "username": "SciAnts_Streams",
       "title": "🏴‍☠️ Rise Of Piracy 🏴‍☠️| Day 1 Release Day - Best Pirate RTS ever? | Congratulations @irishjohngames !! | Partner+ 236/300 | !ppp !yt !pod",
       "game": "Rise of Piracy",
@@ -32,22 +26,28 @@
       "started_at": "2026-02-24T09:53:13Z"
     },
     {
+      "username": "Paleontologizing",
+      "title": "🦕 Let's clear up some misconceptions about dinosaurs 🦖 plus viewer Q&A (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-02-24T22:45:56Z"
+    },
+    {
       "username": "eToThe2iPi",
       "title": "An Introduction to Algebra: Sumthing About Functions",
       "game": "Math",
       "started_at": "2026-02-24T19:54:36Z"
     },
     {
-      "username": "Rocketology",
-      "title": "How to Farm Ace Pilots !sc !org",
-      "game": "Star Citizen",
-      "started_at": "2026-02-24T19:33:47Z"
-    },
-    {
       "username": "DonFactorial",
       "title": "Answering your math questions and doing dynamical systems stuff and getting series solutions to ODEs",
       "game": "Math",
       "started_at": "2026-02-24T21:04:38Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "How to Farm Ace Pilots !sc !org",
+      "game": "Star Citizen",
+      "started_at": "2026-02-24T19:33:47Z"
     },
     {
       "username": "nSimplexPachinko",
