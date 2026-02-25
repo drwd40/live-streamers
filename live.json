@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-25T00:43:51.197Z",
+  "timestamp": "2026-02-25T01:14:12.601Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,16 +38,34 @@
       "started_at": "2026-02-24T23:02:19Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "IrishJohnGames Presents: Rise of Piracy! New game just dropped today!",
-      "game": "Rise of Piracy",
-      "started_at": "2026-02-24T21:35:55Z"
+      "username": "AstroCanuck",
+      "title": "Astro's Po'Pourri: Space LEGO & Space News - 35% Gift Sub Discount tonight !continental| !PGV !texas | !drop !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-02-25T01:00:20Z"
     },
     {
       "username": "MelissaInDeNile",
       "title": "Speed Run through C-14 Dating to 100% the loverssss!! ~ Follower Goal: 2282/2300 ~ !socials !beyonddenile",
       "game": "C14 Dating",
       "started_at": "2026-02-24T23:50:52Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "IrishJohnGames Presents: Rise of Piracy! New game just dropped today!",
+      "game": "Rise of Piracy",
+      "started_at": "2026-02-24T21:35:55Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Toothday! Shark Science News!🦈",
+      "game": "Science & Technology",
+      "started_at": "2026-02-25T01:03:57Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-02-25T01:01:00Z"
     }
   ]
 }
