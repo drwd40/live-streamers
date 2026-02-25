@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-25T23:01:27.874Z",
+  "timestamp": "2026-02-25T23:15:22.765Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,34 +14,28 @@
       "started_at": "2026-02-25T19:05:47Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "FOSSIL NEWS 🦖 T. rex ran like a bird 🐔 Alvarezsaur evolution shake-up 🧬 4-eyed vertebrate ancestors 👓 (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-02-25T21:05:21Z"
-    },
-    {
       "username": "JapanesePrintmaking",
       "title": "Making Japanese woodblock prints ... live while you watch ...",
       "game": "Makers & Crafting",
       "started_at": "2026-02-25T22:59:54Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Delighting players 💎 (day 312½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-02-25T21:44:33Z"
-    },
-    {
-      "username": "Stephen_Wolfram",
-      "title": "Stephen Wolfram: What Ultimately Is There? Metaphysics and the Ruliad",
+      "username": "Paleontologizing",
+      "title": "FOSSIL NEWS 🦖 T. rex ran like a bird 🐔 Alvarezsaur evolution shake-up 🧬 4-eyed vertebrate ancestors 👓 (w/ paleontologist Danny Anduza)",
       "game": "Science & Technology",
-      "started_at": "2026-02-25T20:51:50Z"
+      "started_at": "2026-02-25T21:05:21Z"
     },
     {
       "username": "imreallyimportant",
       "title": "MISSING EPSTEIN FILES RELATED TO TRUMP ACCUSATIONS | SOTU REACTIONS",
       "game": "Just Chatting",
       "started_at": "2026-02-25T22:54:41Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Delighting players 💎 (day 312½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-02-25T21:44:33Z"
     },
     {
       "username": "DrawCuriosity",
