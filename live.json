@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-25T18:56:30.972Z",
+  "timestamp": "2026-02-25T19:23:41.354Z",
   "live": [
     {
       "username": "Kitboga",
@@ -12,6 +12,12 @@
       "title": "Projects w/ Dan | !alveus !institute !pixel !schedule !video !feed",
       "game": "Just Chatting",
       "started_at": "2026-02-24T14:41:02Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "EJ's Space and SLS Rollback Revue! 2/25/26",
+      "game": "Science & Technology",
+      "started_at": "2026-02-25T19:05:47Z"
     },
     {
       "username": "AdamLearnsLive",
@@ -32,16 +38,16 @@
       "started_at": "2026-02-25T10:01:49Z"
     },
     {
-      "username": "PotteryDojo",
-      "title": "Pottery: Making Bonsai Pots | Throwing | Batch # 19 | Batch Total: 89",
-      "game": "Art",
-      "started_at": "2026-02-25T17:12:36Z"
-    },
-    {
       "username": "eToThe2iPi",
       "title": "Laplace Transforms: Differential Equations Book Writing/Curriculum Development",
       "game": "Math",
-      "started_at": "2026-02-25T18:55:54Z"
+      "started_at": "2026-02-25T19:07:09Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "How to Farm Ace Pilots !sc !org",
+      "game": "Star Citizen",
+      "started_at": "2026-02-25T19:06:24Z"
     }
   ]
 }
