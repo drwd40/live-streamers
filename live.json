@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-25T18:32:35.962Z",
+  "timestamp": "2026-02-25T18:56:30.972Z",
   "live": [
     {
       "username": "Kitboga",
@@ -9,8 +9,8 @@
     },
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
-      "game": "Animals, Aquariums, and Zoos",
+      "title": "Projects w/ Dan | !alveus !institute !pixel !schedule !video !feed",
+      "game": "Just Chatting",
       "started_at": "2026-02-24T14:41:02Z"
     },
     {
@@ -36,6 +36,12 @@
       "title": "Pottery: Making Bonsai Pots | Throwing | Batch # 19 | Batch Total: 89",
       "game": "Art",
       "started_at": "2026-02-25T17:12:36Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Laplace Transforms: Differential Equations Book Writing/Curriculum Development",
+      "game": "Math",
+      "started_at": "2026-02-25T18:55:54Z"
     }
   ]
 }
