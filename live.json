@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-25T01:58:16.090Z",
+  "timestamp": "2026-02-25T03:08:12.082Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -15,21 +15,15 @@
     },
     {
       "username": "imreallyimportant",
-      "title": "LIVE @ 9 PM EST: STATE OF THE UNION",
+      "title": "LIVE: STATE OF THE UNION",
       "game": "Just Chatting",
       "started_at": "2026-02-24T22:50:17Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "🦕 Let's clear up some misconceptions about dinosaurs 🦖 plus viewer Q&A (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-02-24T22:45:56Z"
     },
     {
       "username": "SciAnts_Streams",
       "title": "🏴‍☠️ Rise Of Piracy 🏴‍☠️| Day 1 Release Day - Best Pirate RTS ever? | Congratulations @irishjohngames !! | Partner+ 236/300 | !ppp !yt !pod",
       "game": "Rise of Piracy",
-      "started_at": "2026-02-24T22:11:50Z"
+      "started_at": "2026-02-25T02:09:40Z"
     },
     {
       "username": "AstroCanuck",
@@ -38,28 +32,22 @@
       "started_at": "2026-02-25T01:00:20Z"
     },
     {
-      "username": "shnaff",
-      "title": "Guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-02-24T23:02:19Z"
-    },
-    {
       "username": "MelissaInDeNile",
       "title": "Speed Run through C-14 Dating to 100% the loverssss!! ~ Follower Goal: 2282/2300 ~ !socials !beyonddenile",
       "game": "C14 Dating",
       "started_at": "2026-02-24T23:50:52Z"
     },
     {
+      "username": "Nerduino",
+      "title": "It's Early Access Day!!!  Astronomer playing Rise of Piracy.  Come pillage and plunder with us!  #science #space #stem #nasa",
+      "game": "Rise of Piracy",
+      "started_at": "2026-02-25T01:49:56Z"
+    },
+    {
       "username": "SharkG33k",
       "title": "Toothday! Shark Science News!🦈",
       "game": "Science & Technology",
       "started_at": "2026-02-25T01:03:57Z"
-    },
-    {
-      "username": "Nerduino",
-      "title": "It's Early Access Day!!!  Astronomer playing Rise of Piracy.  Come pillage and plunder with us!  #science #space #stem #nasa",
-      "game": "Science & Technology",
-      "started_at": "2026-02-25T01:49:56Z"
     },
     {
       "username": "ActualEducation",
@@ -72,6 +60,12 @@
       "title": "Teacher Plays: Honkai Star Rail!",
       "game": "Honkai: Star Rail",
       "started_at": "2026-02-25T01:31:45Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Blood flow and shoulder injuries, the devil in art, and child labor in coal mines.",
+      "game": "IRL",
+      "started_at": "2026-02-25T02:23:54Z"
     }
   ]
 }
