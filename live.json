@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-25T01:14:12.601Z",
+  "timestamp": "2026-02-25T01:58:16.090Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,16 @@
       "started_at": "2026-02-24T22:11:50Z"
     },
     {
-      "username": "shnaff",
-      "title": "Guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-02-24T23:02:19Z"
-    },
-    {
       "username": "AstroCanuck",
       "title": "Astro's Po'Pourri: Space LEGO & Space News - 35% Gift Sub Discount tonight !continental| !PGV !texas | !drop !tkf",
       "game": "Science & Technology",
       "started_at": "2026-02-25T01:00:20Z"
+    },
+    {
+      "username": "shnaff",
+      "title": "Guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-02-24T23:02:19Z"
     },
     {
       "username": "MelissaInDeNile",
@@ -50,22 +50,28 @@
       "started_at": "2026-02-24T23:50:52Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "IrishJohnGames Presents: Rise of Piracy! New game just dropped today!",
-      "game": "Rise of Piracy",
-      "started_at": "2026-02-24T21:35:55Z"
-    },
-    {
       "username": "SharkG33k",
       "title": "Toothday! Shark Science News!🦈",
       "game": "Science & Technology",
       "started_at": "2026-02-25T01:03:57Z"
     },
     {
+      "username": "Nerduino",
+      "title": "It's Early Access Day!!!  Astronomer playing Rise of Piracy.  Come pillage and plunder with us!  #science #space #stem #nasa",
+      "game": "Science & Technology",
+      "started_at": "2026-02-25T01:49:56Z"
+    },
+    {
       "username": "ActualEducation",
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Just Chatting",
       "started_at": "2026-02-25T01:01:00Z"
+    },
+    {
+      "username": "Mr_Aejis",
+      "title": "Teacher Plays: Honkai Star Rail!",
+      "game": "Honkai: Star Rail",
+      "started_at": "2026-02-25T01:31:45Z"
     }
   ]
 }
