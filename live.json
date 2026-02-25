@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-02-25T20:47:56.558Z",
+  "timestamp": "2026-02-25T21:02:34.131Z",
   "live": [
     {
       "username": "Kitboga",
       "title": "Angry Scammers Ft. MiltonTPike1 [Ep 1515]",
       "game": "Just Chatting",
       "started_at": "2026-02-25T17:14:47Z"
-    },
-    {
-      "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
-      "game": "Animals, Aquariums, and Zoos",
-      "started_at": "2026-02-24T14:41:02Z"
     },
     {
       "username": "EJ_SA",
@@ -32,9 +26,15 @@
       "started_at": "2026-02-25T19:07:09Z"
     },
     {
+      "username": "Stephen_Wolfram",
+      "title": "Stephen Wolfram: What Ultimately Is There? Metaphysics and the Ruliad",
+      "game": "Science & Technology",
+      "started_at": "2026-02-25T20:51:50Z"
+    },
+    {
       "username": "Rocketology",
-      "title": "How to Farm Ace Pilots !sc !org",
-      "game": "Star Citizen",
+      "title": "Gunpowder Messiahs Career Continues!",
+      "game": "MechWarrior 5: Mercenaries",
       "started_at": "2026-02-25T19:06:24Z"
     }
   ]
