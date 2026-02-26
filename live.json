@@ -1,12 +1,6 @@
 {
-  "timestamp": "2026-02-26T00:48:50.217Z",
+  "timestamp": "2026-02-26T01:21:15.378Z",
   "live": [
-    {
-      "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
-      "game": "Animals, Aquariums, and Zoos",
-      "started_at": "2026-02-25T21:09:55Z"
-    },
     {
       "username": "EJ_SA",
       "title": "EJ's Space and SLS Rollback Revue! 2/25/26",
@@ -14,10 +8,10 @@
       "started_at": "2026-02-25T19:05:47Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "FOSSIL NEWS 🦖 T. rex ran like a bird 🐔 Alvarezsaur evolution shake-up 🧬 4-eyed vertebrate ancestors 👓 (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-02-25T21:05:21Z"
+      "username": "AlveusSanctuary",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
+      "game": "Animals, Aquariums, and Zoos",
+      "started_at": "2026-02-25T21:09:55Z"
     },
     {
       "username": "imreallyimportant",
@@ -26,16 +20,46 @@
       "started_at": "2026-02-25T22:54:41Z"
     },
     {
+      "username": "Paleontologizing",
+      "title": "FOSSIL NEWS 🦖 T. rex ran like a bird 🐔 Alvarezsaur evolution shake-up 🧬 4-eyed vertebrate ancestors 👓 (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-02-25T21:05:21Z"
+    },
+    {
       "username": "ipaintbirbs",
       "title": "paint a little game a little if that's chill!",
       "game": "Art",
       "started_at": "2026-02-26T00:03:03Z"
     },
     {
+      "username": "AstroCanuck",
+      "title": "Astro's Po'Pourri: Space & LEGO Chat | !PGV !texas | !drop !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-02-26T01:01:22Z"
+    },
+    {
       "username": "DrawCuriosity",
-      "title": "🌊MERMAID --> MEDUSA COSPLAY. Turn me into Medusa 100 bits at a time - 100 bits = 1 HAIR TIE✨🐑 !dailybug !merch !tangia",
+      "title": "🌊100 bits = 1 HAIR TIE✨🐑 !dailybug !merch !tangia",
       "game": "Just Chatting",
       "started_at": "2026-02-25T22:44:40Z"
+    },
+    {
+      "username": "Ask_a_Scientist_Gaming",
+      "title": "Dr. Jenny Root- Special Education, and Donkey Kong Country.",
+      "game": "Science & Technology",
+      "started_at": "2026-02-26T00:57:04Z"
+    },
+    {
+      "username": "nogre0",
+      "title": "one can never grind in the same way twice. new paper !we",
+      "game": "Just Chatting",
+      "started_at": "2026-02-26T01:00:07Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "🌊Water Wednesday! Bull and sandbar shark dive! | !charity",
+      "game": "Science & Technology",
+      "started_at": "2026-02-26T01:07:49Z"
     }
   ]
 }
