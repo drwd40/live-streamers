@@ -1,28 +1,16 @@
 {
-  "timestamp": "2026-02-26T02:08:09.315Z",
+  "timestamp": "2026-02-26T03:10:50.647Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Chat Chats w/ Evan | !alveus !institute !pixel !schedule !video !feed",
-      "game": "Just Chatting",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
+      "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-02-25T21:09:55Z"
-    },
-    {
-      "username": "imreallyimportant",
-      "title": "MISSING EPSTEIN FILES RELATED TO TRUMP ACCUSATIONS | SOTU REACTIONS",
-      "game": "Just Chatting",
-      "started_at": "2026-02-25T22:54:41Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "FOSSIL NEWS 🦖 T. rex ran like a bird 🐔 Alvarezsaur evolution shake-up 🧬 4-eyed vertebrate ancestors 👓 (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-02-25T21:05:21Z"
     },
     {
       "username": "ipaintbirbs",
       "title": "paint a little game a little if that's chill!",
-      "game": "Hatoful Boyfriend",
+      "game": "Art",
       "started_at": "2026-02-26T00:03:03Z"
     },
     {
@@ -32,16 +20,22 @@
       "started_at": "2026-02-26T01:01:22Z"
     },
     {
+      "username": "Moohoodles",
+      "title": "🪐 Astrobiology & Space News!✨ !pp",
+      "game": "Science & Technology",
+      "started_at": "2026-02-26T02:16:25Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "Wacom-Tinker Wednesday | Pirate themed art and science to celebrate 🏴‍☠️ Rise Of Piracy 🏴‍☠️ | Partner+ 261/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2026-02-26T02:20:35Z"
+    },
+    {
       "username": "DrawCuriosity",
       "title": "🌊100 bits = 1 HAIR TIE✨🐑 !dailybug !merch !tangia",
       "game": "Just Chatting",
       "started_at": "2026-02-25T22:44:40Z"
-    },
-    {
-      "username": "Ask_a_Scientist_Gaming",
-      "title": "Dr. Jenny Root- Special Education, and Donkey Kong Country.",
-      "game": "Science & Technology",
-      "started_at": "2026-02-26T00:57:04Z"
     },
     {
       "username": "nogre0",
@@ -50,10 +44,22 @@
       "started_at": "2026-02-26T01:00:07Z"
     },
     {
+      "username": "Ask_a_Scientist_Gaming",
+      "title": "Dr. Jenny Root- Special Education, and Donkey Kong Country.",
+      "game": "Science & Technology",
+      "started_at": "2026-02-26T00:57:04Z"
+    },
+    {
       "username": "SharkG33k",
       "title": "🌊Water Wednesday! Bull and sandbar shark dive! | !charity",
       "game": "Science & Technology",
       "started_at": "2026-02-26T01:07:49Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Children in small-scale/artisinal mines, Israel's technology sector, and who was John Henry?",
+      "game": "IRL",
+      "started_at": "2026-02-26T02:26:58Z"
     }
   ]
 }
