@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-26T23:29:11.128Z",
+  "timestamp": "2026-02-26T23:43:51.431Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -44,22 +44,16 @@
       "started_at": "2026-02-26T20:20:00Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Soldering - Troubleshooting - Chill Vibez",
-      "game": "Just Chatting",
-      "started_at": "2026-02-26T20:30:45Z"
-    },
-    {
       "username": "shnaff",
       "title": "Guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2026-02-26T23:05:15Z"
     },
     {
-      "username": "AndrewHolding",
-      "title": "[UK/USA] Stream for progress! Science co-stream, Raising Money for Cancer Research UK (!donate) and donation induced chaos",
-      "game": "The Witcher 3: Wild Hunt",
-      "started_at": "2026-02-26T21:21:51Z"
+      "username": "SydHeresy",
+      "title": "Soldering - Troubleshooting - Chill Vibez",
+      "game": "Just Chatting",
+      "started_at": "2026-02-26T20:30:45Z"
     }
   ]
 }
