@@ -1,6 +1,12 @@
 {
-  "timestamp": "2026-02-26T17:15:01.837Z",
+  "timestamp": "2026-02-26T17:40:11.648Z",
   "live": [
+    {
+      "username": "Kitboga",
+      "title": "Will Scammers Notice I'm Not Taylor Swift [Ep 1516]",
+      "game": "Just Chatting",
+      "started_at": "2026-02-26T17:21:20Z"
+    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
@@ -24,6 +30,12 @@
       "title": "Let's ship this jawn!",
       "game": "Software and Game Development",
       "started_at": "2026-02-26T14:02:00Z"
+    },
+    {
+      "username": "oh_bother",
+      "title": "Simpit: Plugging and programming CAN stuff, getting stuff to talk to stuff, and stuff.",
+      "game": "Just Chatting",
+      "started_at": "2026-02-26T17:36:29Z"
     }
   ]
 }
