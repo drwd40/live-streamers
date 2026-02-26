@@ -1,16 +1,10 @@
 {
-  "timestamp": "2026-02-26T01:21:15.378Z",
+  "timestamp": "2026-02-26T02:08:09.315Z",
   "live": [
     {
-      "username": "EJ_SA",
-      "title": "EJ's Space and SLS Rollback Revue! 2/25/26",
-      "game": "Science & Technology",
-      "started_at": "2026-02-25T19:05:47Z"
-    },
-    {
       "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
-      "game": "Animals, Aquariums, and Zoos",
+      "title": "Chat Chats w/ Evan | !alveus !institute !pixel !schedule !video !feed",
+      "game": "Just Chatting",
       "started_at": "2026-02-25T21:09:55Z"
     },
     {
@@ -28,7 +22,7 @@
     {
       "username": "ipaintbirbs",
       "title": "paint a little game a little if that's chill!",
-      "game": "Art",
+      "game": "Hatoful Boyfriend",
       "started_at": "2026-02-26T00:03:03Z"
     },
     {
