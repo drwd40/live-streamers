@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-26T18:02:41.718Z",
+  "timestamp": "2026-02-26T18:25:08.587Z",
   "live": [
     {
       "username": "Kitboga",
@@ -12,6 +12,12 @@
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-02-25T21:09:55Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "The search for car parts continues! My Winter Car ATTEMPT IV (Part 5)",
+      "game": "My Winter Car",
+      "started_at": "2026-02-26T18:04:35Z"
     },
     {
       "username": "AdamLearnsLive",
@@ -30,6 +36,12 @@
       "title": "Simpit: Plugging and programming CAN stuff, getting stuff to talk to stuff, and stuff.",
       "game": "Just Chatting",
       "started_at": "2026-02-26T17:36:29Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "S2E4 Beyond the Blackboard - Classroom Flow [!fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-02-26T18:10:19Z"
     }
   ]
 }
