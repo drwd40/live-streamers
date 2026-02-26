@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-26T21:20:28.024Z",
+  "timestamp": "2026-02-26T21:36:13.709Z",
   "live": [
     {
       "username": "Kitboga",
@@ -32,10 +32,10 @@
       "started_at": "2026-02-26T10:02:27Z"
     },
     {
-      "username": "DrAlexanderClarke",
-      "title": "Top/Bottom 5 inventions/adaptations of RN ships that came from the ships themselves...(Patreon Live)",
-      "game": "Just Chatting",
-      "started_at": "2026-02-26T20:00:33Z"
+      "username": "Paleontologizing",
+      "title": "FOSSIL NEWS and VIEWER Q&A 🦕💬 Early dinosaur jumping abilities, ocean amphibians (!) +Thursday BIRDSday (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-02-26T21:23:12Z"
     },
     {
       "username": "DrMick",
@@ -44,10 +44,22 @@
       "started_at": "2026-02-26T20:20:00Z"
     },
     {
+      "username": "DrAlexanderClarke",
+      "title": "Top/Bottom 5 inventions/adaptations of RN ships that came from the ships themselves...(Patreon Live)",
+      "game": "Just Chatting",
+      "started_at": "2026-02-26T20:00:33Z"
+    },
+    {
       "username": "SydHeresy",
       "title": "Soldering - Troubleshooting - Chill Vibez",
       "game": "Just Chatting",
       "started_at": "2026-02-26T20:30:45Z"
+    },
+    {
+      "username": "AndrewHolding",
+      "title": "[UK/USA] Stream for progress! Science co-stream, Raising Money for Cancer Research UK (!donate) and donation induced chaos",
+      "game": "The Witcher 3: Wild Hunt",
+      "started_at": "2026-02-26T21:21:51Z"
     }
   ]
 }
