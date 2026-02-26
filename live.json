@@ -1,12 +1,6 @@
 {
-  "timestamp": "2026-02-26T00:11:14.916Z",
+  "timestamp": "2026-02-26T00:48:50.217Z",
   "live": [
-    {
-      "username": "JapanesePrintmaking",
-      "title": "Making Japanese woodblock prints ... live while you watch ...",
-      "game": "Makers & Crafting",
-      "started_at": "2026-02-25T22:59:54Z"
-    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
@@ -20,22 +14,16 @@
       "started_at": "2026-02-25T19:05:47Z"
     },
     {
-      "username": "imreallyimportant",
-      "title": "MISSING EPSTEIN FILES RELATED TO TRUMP ACCUSATIONS | SOTU REACTIONS",
-      "game": "Just Chatting",
-      "started_at": "2026-02-25T22:54:41Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "FOSSIL NEWS 🦖 T. rex ran like a bird 🐔 Alvarezsaur evolution shake-up 🧬 4-eyed vertebrate ancestors 👓 (w/ paleontologist Danny Anduza)",
       "game": "Science & Technology",
       "started_at": "2026-02-25T21:05:21Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Delighting players 💎 (day 312½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-02-25T21:44:33Z"
+      "username": "imreallyimportant",
+      "title": "MISSING EPSTEIN FILES RELATED TO TRUMP ACCUSATIONS | SOTU REACTIONS",
+      "game": "Just Chatting",
+      "started_at": "2026-02-25T22:54:41Z"
     },
     {
       "username": "ipaintbirbs",
@@ -48,18 +36,6 @@
       "title": "🌊MERMAID --> MEDUSA COSPLAY. Turn me into Medusa 100 bits at a time - 100 bits = 1 HAIR TIE✨🐑 !dailybug !merch !tangia",
       "game": "Just Chatting",
       "started_at": "2026-02-25T22:44:40Z"
-    },
-    {
-      "username": "Rocketology",
-      "title": "Gunpowder Messiahs Career Continues!",
-      "game": "MechWarrior 5: Mercenaries",
-      "started_at": "2026-02-25T19:06:24Z"
-    },
-    {
-      "username": "nSimplexPachinko",
-      "title": "Cracking the GRE Math Subject Test, Night 034: Calc II \"Final Exam\"",
-      "game": "Math",
-      "started_at": "2026-02-25T22:42:49Z"
     }
   ]
 }
