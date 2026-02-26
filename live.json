@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-26T23:43:51.431Z",
+  "timestamp": "2026-02-26T23:55:05.755Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,21 +14,21 @@
       "started_at": "2026-02-26T18:04:35Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "FOSSIL NEWS and VIEWER Q&A 🦕💬 Early dinosaur jumping abilities, ocean amphibians (!) +Thursday BIRDSday (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-02-26T21:23:12Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "HILLARY TESTIFIES ABOUT EPSTEIN | TRUMP CONSIDERS EXECUTIVE ORDER TO TAKE OVER ELECTIONS",
       "game": "Just Chatting",
       "started_at": "2026-02-26T22:49:38Z"
     },
     {
+      "username": "Paleontologizing",
+      "title": "FOSSIL NEWS and VIEWER Q&A 🦕💬 Early dinosaur jumping abilities, ocean amphibians (!) +Thursday BIRDSday (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-02-26T21:23:12Z"
+    },
+    {
       "username": "SciAnts_Streams",
       "title": "🔥 God of War x Science 🔬 | Regeneration, venoms, and more! Pokemon Later! | Partner+ 265/300 | !ppp !yt !pod",
-      "game": "Science & Technology",
+      "game": "God of War Sons of Sparta",
       "started_at": "2026-02-26T19:05:32Z"
     },
     {
@@ -36,12 +36,6 @@
       "title": "proletariat union decolonisation anti-imperialist anti-capitalist commie communist communism socialist socialism marxism class consciousness",
       "game": "Just Chatting",
       "started_at": "2026-02-26T10:02:27Z"
-    },
-    {
-      "username": "DrMick",
-      "title": "Mental Health Chat + Painting Thousand Sons",
-      "game": "Miniatures & Models",
-      "started_at": "2026-02-26T20:20:00Z"
     },
     {
       "username": "shnaff",
@@ -54,6 +48,12 @@
       "title": "Soldering - Troubleshooting - Chill Vibez",
       "game": "Just Chatting",
       "started_at": "2026-02-26T20:30:45Z"
+    },
+    {
+      "username": "MelissaInDeNile",
+      "title": "FINALLY starting Assassin's Creed: Revelations!! Constantinople here we come!! ~ Follower Goal: 2282/2300 ~ !socials !beyonddenile",
+      "game": "Assassin's Creed Revelations",
+      "started_at": "2026-02-26T23:51:11Z"
     }
   ]
 }
