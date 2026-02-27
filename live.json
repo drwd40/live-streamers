@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-27T20:42:10.140Z",
+  "timestamp": "2026-02-27T20:53:44.057Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-02-27T17:05:29Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "Resident Evil 9 Release Day | Science of the T-virus, zombies, and more! | Partner+ 271/300 | !ppp !yt !pod",
-      "game": "Science & Technology",
-      "started_at": "2026-02-27T17:13:08Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "2/27/26: DEBATING POLITICS ON TIKTOK",
       "game": "Just Chatting",
       "started_at": "2026-02-27T17:48:12Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "Resident Evil 9 Release Day | Science of the T-virus, zombies, and more! | Partner+ 271/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2026-02-27T17:13:08Z"
     },
     {
       "username": "Zachap",
@@ -32,16 +32,16 @@
       "started_at": "2026-02-27T10:00:38Z"
     },
     {
-      "username": "oh_bother",
-      "title": "Simpit: Continued adventures with the CAN setup",
-      "game": "Just Chatting",
-      "started_at": "2026-02-27T17:40:56Z"
-    },
-    {
       "username": "DrawCuriosity",
       "title": "🌊POKEMON DAY - Paldean Packs! // Also, 100 bits = 1 HAIR TIE // Tier 3 for Mermaid shoot!✨🐑 !dailybug !merch !tangia",
       "game": "Pokémon Trading Card Game Pocket",
       "started_at": "2026-02-27T20:22:52Z"
+    },
+    {
+      "username": "oh_bother",
+      "title": "Simpit: Continued adventures with the CAN setup",
+      "game": "Just Chatting",
+      "started_at": "2026-02-27T17:40:56Z"
     },
     {
       "username": "Rocketology",
@@ -62,16 +62,16 @@
       "started_at": "2026-02-27T19:11:01Z"
     },
     {
-      "username": "pencenter",
-      "title": "Bingo ZOoTR test run. how far can we get on 2 hours of sleep? lol [!fish🎣|!commands💻]",
-      "game": "The Legend of Zelda: Ocarina of Time",
-      "started_at": "2026-02-27T19:31:22Z"
-    },
-    {
       "username": "jacksfacts",
       "title": "talking about Punch the monkey, then watching/reviewing Apple TV's show Prehistoric Planet Ice age!",
       "game": "Science & Technology",
       "started_at": "2026-02-27T19:46:27Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "Bingo ZOoTR test run. how far can we get on 2 hours of sleep? lol [!fish🎣|!commands💻]",
+      "game": "The Legend of Zelda: Ocarina of Time",
+      "started_at": "2026-02-27T19:31:22Z"
     }
   ]
 }
