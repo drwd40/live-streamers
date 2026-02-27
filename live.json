@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-27T17:23:16.127Z",
+  "timestamp": "2026-02-27T17:40:05.399Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -48,6 +48,12 @@
       "title": "Attempting math! (If only I had a plushy, I'd be as adorable as Punch)",
       "game": "Math",
       "started_at": "2026-02-27T17:04:41Z"
+    },
+    {
+      "username": "PotteryDojo",
+      "title": "Pottery: Making Bonsai Pots | Throwing | Batch # 19 | Batch Total: 89",
+      "game": "Art",
+      "started_at": "2026-02-27T17:36:24Z"
     }
   ]
 }
