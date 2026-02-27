@@ -1,11 +1,17 @@
 {
-  "timestamp": "2026-02-27T14:56:41.463Z",
+  "timestamp": "2026-02-27T15:15:21.618Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-02-25T21:09:55Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "EJ's Artemis Update (Feb. 27, 2026) Coverage!",
+      "game": "Science & Technology",
+      "started_at": "2026-02-27T14:55:57Z"
     },
     {
       "username": "Zachap",
@@ -26,10 +32,10 @@
       "started_at": "2026-02-27T13:58:19Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "EJ's Artemis Update (Feb. 27, 2026) Coverage!",
-      "game": "Science & Technology",
-      "started_at": "2026-02-27T14:55:57Z"
+      "username": "TimberAnew",
+      "title": "Wood is my favourite",
+      "game": "Art",
+      "started_at": "2026-02-27T15:00:47Z"
     }
   ]
 }
