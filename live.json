@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-02-27T19:01:48.159Z",
+  "timestamp": "2026-02-27T19:20:02.239Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
-      "game": "Animals, Aquariums, and Zoos",
+      "title": "Show and Tell | !alveus !institute !pixel !schedule !video !feed",
+      "game": "Just Chatting",
       "started_at": "2026-02-27T17:07:11Z"
     },
     {
@@ -54,6 +54,12 @@
       "title": "Attempting math! (If only I had a plushy, I'd be as adorable as Punch)",
       "game": "Math",
       "started_at": "2026-02-27T17:04:41Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Bill Nye the Science Guy: Stop the Rock! | !charity",
+      "game": "Bill Nye the Science Guy: Stop the Rock",
+      "started_at": "2026-02-27T19:11:01Z"
     }
   ]
 }
