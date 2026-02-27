@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-27T21:53:20.030Z",
+  "timestamp": "2026-02-27T22:00:32.822Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-02-27T17:07:11Z"
     },
     {
-      "username": "ipaintbirbs",
-      "title": "nice day to be a bird",
-      "game": "Art",
-      "started_at": "2026-02-27T17:05:29Z"
-    },
-    {
       "username": "EJ_SA",
       "title": "Let's do it like Apollo - The Flame Trench",
       "game": "Science & Technology",
       "started_at": "2026-02-27T21:37:41Z"
+    },
+    {
+      "username": "ipaintbirbs",
+      "title": "nice day to be a bird",
+      "game": "Art",
+      "started_at": "2026-02-27T17:05:29Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -26,16 +26,16 @@
       "started_at": "2026-02-27T17:13:08Z"
     },
     {
-      "username": "Zachap",
-      "title": "hello, nice people, of twitch :)",
-      "game": "Just Chatting",
-      "started_at": "2026-02-27T10:00:38Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "More Skeleseller sheet music (day 314½)",
       "game": "Software and Game Development",
       "started_at": "2026-02-27T21:33:05Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "hello, nice people, of twitch :)",
+      "game": "Just Chatting",
+      "started_at": "2026-02-27T10:00:38Z"
     },
     {
       "username": "DrawCuriosity",
