@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-27T19:35:37.340Z",
+  "timestamp": "2026-02-27T19:49:33.269Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -66,6 +66,12 @@
       "title": "Bingo ZOoTR test run. how far can we get on 2 hours of sleep? lol [!fish🎣|!commands💻]",
       "game": "The Legend of Zelda: Ocarina of Time",
       "started_at": "2026-02-27T19:31:22Z"
+    },
+    {
+      "username": "jacksfacts",
+      "title": "Just a normal stream, some animal photos, some news, then watching/reviewing Apple TV's show Prehistoric Planet Ice age!",
+      "game": "Science & Technology",
+      "started_at": "2026-02-27T19:46:27Z"
     }
   ]
 }
