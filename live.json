@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-27T21:42:48.706Z",
+  "timestamp": "2026-02-27T21:53:20.030Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,16 @@
       "started_at": "2026-02-27T10:00:38Z"
     },
     {
-      "username": "DrawCuriosity",
-      "title": "🌊POKEMON DAY - Paldean Packs! // Also, 100 bits = 1 HAIR TIE // Tier 3 for Mermaid shoot!✨🐑 !dailybug !merch !tangia",
-      "game": "Pokémon Trading Card Game Pocket",
-      "started_at": "2026-02-27T20:22:52Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "More Skeleseller sheet music (day 314½)",
       "game": "Software and Game Development",
       "started_at": "2026-02-27T21:33:05Z"
+    },
+    {
+      "username": "DrawCuriosity",
+      "title": "🌊POKEMON DAY - Paldean Packs! // Also, 100 bits = 1 HAIR TIE // Tier 3 for Mermaid shoot!✨🐑 !dailybug !merch !tangia",
+      "game": "Pokémon Trading Card Game Pocket",
+      "started_at": "2026-02-27T20:22:52Z"
     },
     {
       "username": "Rocketology",
@@ -50,22 +50,10 @@
       "started_at": "2026-02-27T20:12:46Z"
     },
     {
-      "username": "PotteryDojo",
-      "title": "Pottery: Making Bonsai Pots | Hand Building | Batch # 20 | Batch Total: 0",
-      "game": "Art",
-      "started_at": "2026-02-27T17:36:24Z"
-    },
-    {
       "username": "SharkG33k",
       "title": "Bill Nye the Science Guy: Stop the Rock! | !charity",
       "game": "Bill Nye the Science Guy: Stop the Rock",
       "started_at": "2026-02-27T19:11:01Z"
-    },
-    {
-      "username": "jacksfacts",
-      "title": "talking about Punch the monkey, then watching/reviewing Apple TV's show Prehistoric Planet Ice age!",
-      "game": "Science & Technology",
-      "started_at": "2026-02-27T19:46:27Z"
     }
   ]
 }
