@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-27T06:39:27.816Z",
+  "timestamp": "2026-02-27T07:03:59.733Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-02-27T05:01:06Z"
     },
     {
-      "username": "happyknightmares",
-      "title": "Co-stream with @big_duckie_snow! Come hang out and chat!",
-      "game": "Just Chatting",
-      "started_at": "2026-02-27T06:08:43Z"
-    },
-    {
       "username": "walkingsticklibrary",
       "title": "John Henry continued. Invasive pierid butterflies, and who is Will Mitchell, what is the Beseden protocol, and coconut oil and alzhimers.",
       "game": "IRL",
       "started_at": "2026-02-27T02:30:28Z"
+    },
+    {
+      "username": "happyknightmares",
+      "title": "Co-stream with @big_duckie_snow! Come hang out and chat!",
+      "game": "Just Chatting",
+      "started_at": "2026-02-27T06:08:43Z"
     }
   ]
 }
