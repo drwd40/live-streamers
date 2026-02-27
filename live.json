@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-27T04:40:10.766Z",
+  "timestamp": "2026-02-27T05:08:50.219Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,22 +8,10 @@
       "started_at": "2026-02-25T21:09:55Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "🔥 God of War x Science 🔬 | Regeneration, venoms, and more! Pokemon Later! | Partner+ 265/300 | !ppp !yt !pod",
-      "game": "Science & Technology",
-      "started_at": "2026-02-26T19:05:32Z"
-    },
-    {
       "username": "AstroCanuck",
       "title": "Space News & Live Recording of \"Zam's Real Talk\" with @zealouszam | !PGV !texas | !drop !tkf",
       "game": "Science & Technology",
       "started_at": "2026-02-27T00:54:32Z"
-    },
-    {
-      "username": "Nerduino",
-      "title": "Space.   Astronomy.  Vera Rubin Science!  #science #space #stem #nasa",
-      "game": "Rise of Piracy",
-      "started_at": "2026-02-27T01:50:11Z"
     },
     {
       "username": "SydHeresy",
@@ -36,6 +24,12 @@
       "title": "John Henry continued. Invasive pierid butterflies, and who is Will Mitchell, what is the Beseden protocol, and coconut oil and alzhimers.",
       "game": "IRL",
       "started_at": "2026-02-27T02:30:28Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "Bingo ZOoTR test run. how far can we get on 2 hours of sleep? lol [!fish🎣|!commands💻]",
+      "game": "The Legend of Zelda: Ocarina of Time",
+      "started_at": "2026-02-27T05:01:06Z"
     }
   ]
 }
