@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-27T00:50:24.266Z",
+  "timestamp": "2026-02-27T01:23:14.916Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,16 +38,34 @@
       "started_at": "2026-02-26T23:05:15Z"
     },
     {
+      "username": "AstroCanuck",
+      "title": "Space News & Live Recording of \"Zam's Real Talk\" with @zealouszam | !PGV !texas | !drop !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-02-27T00:54:32Z"
+    },
+    {
       "username": "SydHeresy",
       "title": "Soldering - Troubleshooting - Chill Vibez",
       "game": "Science & Technology",
       "started_at": "2026-02-26T20:30:45Z"
     },
     {
+      "username": "SharkG33k",
+      "title": "Interview with Spencer from Fish Defender [redeems disabled] | !charity",
+      "game": "Just Chatting",
+      "started_at": "2026-02-27T01:03:46Z"
+    },
+    {
       "username": "MelissaInDeNile",
       "title": "FINALLY starting Assassin's Creed: Revelations!! Constantinople here we come!! ~ Follower Goal: 2282/2300 ~ !socials !beyonddenile",
       "game": "Assassin's Creed Revelations",
       "started_at": "2026-02-26T23:51:11Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-02-27T01:01:22Z"
     }
   ]
 }
