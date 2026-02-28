@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-28T21:09:15.105Z",
+  "timestamp": "2026-02-28T21:20:26.413Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-02-28T09:59:10Z"
     },
     {
-      "username": "professor_ashley",
-      "title": "Opening Bloomburrow Boosters",
-      "game": "Magic: The Gathering",
-      "started_at": "2026-02-28T20:39:50Z"
-    },
-    {
       "username": "AcademyOfUselessIdeas",
       "title": "Attempting math! (Using the power of math to fight my sociopathic tendencies!)",
       "game": "Math",
       "started_at": "2026-02-28T19:45:43Z"
+    },
+    {
+      "username": "professor_ashley",
+      "title": "Opening Bloomburrow Boosters",
+      "game": "Magic: The Gathering",
+      "started_at": "2026-02-28T20:39:50Z"
     }
   ]
 }
