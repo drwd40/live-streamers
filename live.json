@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-28T19:39:05.241Z",
+  "timestamp": "2026-02-28T19:46:20.990Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "Opening Bloomburrow Boosters",
       "game": "Magic: The Gathering",
       "started_at": "2026-02-28T19:37:02Z"
+    },
+    {
+      "username": "AcademyOfUselessIdeas",
+      "title": "Attempting math! (Using the power of math to fight my sociopathic tendencies!)",
+      "game": "Math",
+      "started_at": "2026-02-28T19:45:43Z"
     }
   ]
 }
