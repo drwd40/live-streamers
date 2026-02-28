@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-28T19:58:28.052Z",
+  "timestamp": "2026-02-28T20:09:32.965Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,28 +20,22 @@
       "started_at": "2026-02-28T09:59:10Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Bring Your Questions: A Math/Ed Q&A",
-      "game": "Math",
-      "started_at": "2026-02-28T16:55:15Z"
-    },
-    {
       "username": "GeneralSte",
       "title": "My Voice Zoo and then Lets Check Out Roman Stardew Valley!! | !linktree !discord",
       "game": "Romestead",
       "started_at": "2026-02-28T17:24:41Z"
     },
     {
-      "username": "professor_ashley",
-      "title": "Opening Bloomburrow Boosters",
-      "game": "Magic: The Gathering",
-      "started_at": "2026-02-28T19:37:02Z"
-    },
-    {
       "username": "AcademyOfUselessIdeas",
       "title": "Attempting math! (Using the power of math to fight my sociopathic tendencies!)",
       "game": "Math",
       "started_at": "2026-02-28T19:45:43Z"
+    },
+    {
+      "username": "professor_ashley",
+      "title": "Opening Bloomburrow Boosters",
+      "game": "Magic: The Gathering",
+      "started_at": "2026-02-28T19:37:02Z"
     }
   ]
 }
