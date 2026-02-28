@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-28T17:09:31.048Z",
+  "timestamp": "2026-02-28T17:20:27.276Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,12 @@
       "title": "Bring Your Questions: A Math/Ed Q&A",
       "game": "Math",
       "started_at": "2026-02-28T16:55:15Z"
+    },
+    {
+      "username": "ArchitectureTV",
+      "title": "TORONTO markets, sunny day, cabbagetown 💜 Historic and contemporary buildings | Architecture IRL",
+      "game": "IRL",
+      "started_at": "2026-02-28T17:19:43Z"
     }
   ]
 }
