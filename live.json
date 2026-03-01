@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-01T11:58:45.014Z",
+  "timestamp": "2026-03-01T12:17:11.357Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "war, what is it good for?",
       "game": "Just Chatting",
       "started_at": "2026-03-01T10:02:21Z"
+    },
+    {
+      "username": "TinyToxicTofu",
+      "title": "Solving DC Circuits! Physics + God of War Ragnorok Playthrough !physics !phd !cnc",
+      "game": "Science & Technology",
+      "started_at": "2026-03-01T12:15:38Z"
     }
   ]
 }
