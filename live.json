@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-01T01:01:53.740Z",
+  "timestamp": "2026-03-01T01:41:32.251Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,22 @@
       "started_at": "2026-02-28T23:50:09Z"
     },
     {
+      "username": "LottaGlots",
+      "title": "90 Day Arabic Challenge Prep Day",
+      "game": "Co-working & Studying",
+      "started_at": "2026-03-01T01:02:56Z"
+    },
+    {
       "username": "nSimplexPachinko",
       "title": "Rise of Piracy, Night 02: Obi Wan of The PEZ Fleet Building Reputation via Mercantilism",
       "game": "Rise of Piracy",
       "started_at": "2026-02-28T22:05:11Z"
     },
     {
-      "username": "happyknightmares",
-      "title": "Short art stream!l! 🎨🧠🥪",
-      "game": "Just Chatting",
-      "started_at": "2026-03-01T00:05:36Z"
+      "username": "Mr_Aejis",
+      "title": "Teacher Plays: Dispatch!",
+      "game": "Dispatch",
+      "started_at": "2026-03-01T01:29:39Z"
     }
   ]
 }
