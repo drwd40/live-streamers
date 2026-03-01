@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-01T19:55:39.580Z",
+  "timestamp": "2026-03-01T20:02:43.909Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-03-01T10:02:21Z"
     },
     {
-      "username": "DrAlexanderClarke",
-      "title": "Bruships 234: Naval History Questions Answered Live...",
-      "game": "Just Chatting",
-      "started_at": "2026-03-01T19:30:40Z"
-    },
-    {
       "username": "VolcanoDoc",
       "title": "learn the TRUTH about obsidian |🌋 Science Sunday | !phd !tkf !socials !pubs",
       "game": "Science & Technology",
       "started_at": "2026-03-01T19:54:43Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "Bruships 234: Naval History Questions Answered Live...",
+      "game": "Just Chatting",
+      "started_at": "2026-03-01T19:30:40Z"
     }
   ]
 }
