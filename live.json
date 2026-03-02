@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-02T15:57:27.267Z",
+  "timestamp": "2026-03-02T16:15:56.081Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,12 @@
       "title": "Lantern man gets skinnier",
       "game": "Art",
       "started_at": "2026-03-02T14:59:38Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "15 days until launch (day 315)",
+      "game": "Software and Game Development",
+      "started_at": "2026-03-02T16:14:44Z"
     }
   ]
 }
