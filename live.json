@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-02T21:01:14.883Z",
+  "timestamp": "2026-03-02T21:17:02.936Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,10 +14,10 @@
       "started_at": "2026-03-02T18:05:28Z"
     },
     {
-      "username": "imreallyimportant",
-      "title": "3/2/26: DEBATING POLITICS ON TIKTOK",
-      "game": "Just Chatting",
-      "started_at": "2026-03-02T18:05:27Z"
+      "username": "Paleontologizing",
+      "title": "📽🦖🎞 DINOSAUR MOVIE MAGIC on Willis O'Brien's 140th birthday 🦕🎬 Let's talk stop-motion dinosaurs! (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-03-02T21:07:19Z"
     },
     {
       "username": "Zachap",
@@ -26,22 +26,28 @@
       "started_at": "2026-03-02T10:00:13Z"
     },
     {
+      "username": "AdamLearnsLive",
+      "title": "Game dev (day 315½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-03-02T21:00:59Z"
+    },
+    {
       "username": "DrawCuriosity",
       "title": "🌊LAST STREAM WITH LONG HAIR / SCIENCE + maybe some Paldean fates✨🐑 !dailybug !merch !tangia",
       "game": "Science & Technology",
       "started_at": "2026-03-02T19:56:13Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Develping Quiz Show Software: Sixteen",
-      "game": "Software and Game Development",
-      "started_at": "2026-03-02T19:07:02Z"
-    },
-    {
       "username": "PotteryDojo",
       "title": "Pottery: Making Bonsai Pots | Hand Building | Batch # 20 | Batch Total: 0",
       "game": "Art",
       "started_at": "2026-03-02T18:07:32Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Develping Quiz Show Software: Sixteen",
+      "game": "Software and Game Development",
+      "started_at": "2026-03-02T19:07:02Z"
     }
   ]
 }
