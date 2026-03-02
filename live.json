@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-02T21:59:59.284Z",
+  "timestamp": "2026-03-02T22:13:20.679Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -42,12 +42,6 @@
       "title": "Pottery: Making Bonsai Pots | Foot Stream | Batch # 20 | Batch Total: 0",
       "game": "Art",
       "started_at": "2026-03-02T18:07:32Z"
-    },
-    {
-      "username": "eToThe2iPi",
-      "title": "Develping Quiz Show Software: Sixteen",
-      "game": "Software and Game Development",
-      "started_at": "2026-03-02T19:07:02Z"
     }
   ]
 }
