@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-03-02T00:00:09.072Z",
+  "timestamp": "2026-03-02T00:47:59.954Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-03-01T17:07:13Z"
-    },
-    {
-      "username": "JapanesePrintmaking",
-      "title": "Making Japanese woodblock prints ... live while you watch ...",
-      "game": "Makers & Crafting",
-      "started_at": "2026-03-01T22:59:42Z"
     },
     {
       "username": "imreallyimportant",
@@ -36,12 +30,6 @@
       "title": "Guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2026-03-01T23:06:10Z"
-    },
-    {
-      "username": "DrAlexanderClarke",
-      "title": "Bruships 234: Naval History Questions Answered Live...",
-      "game": "Just Chatting",
-      "started_at": "2026-03-01T19:30:40Z"
     }
   ]
 }
