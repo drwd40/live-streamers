@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-02T19:44:49.846Z",
+  "timestamp": "2026-03-02T19:58:16.079Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,22 @@
       "started_at": "2026-03-02T10:00:13Z"
     },
     {
-      "username": "PotteryDojo",
-      "title": "Pottery: Making Bonsai Pots | Hand Building | Batch # 20 | Batch Total: 0",
-      "game": "Art",
-      "started_at": "2026-03-02T18:07:32Z"
+      "username": "DrawCuriosity",
+      "title": "🌊LAST STREAM WITH LONG HAIR / SCIENCE + maybe some Paldean fates✨🐑 !dailybug !merch !tangia",
+      "game": "Science & Technology",
+      "started_at": "2026-03-02T19:56:13Z"
     },
     {
       "username": "eToThe2iPi",
       "title": "Develping Quiz Show Software: Sixteen",
       "game": "Software and Game Development",
       "started_at": "2026-03-02T19:07:02Z"
+    },
+    {
+      "username": "PotteryDojo",
+      "title": "Pottery: Making Bonsai Pots | Hand Building | Batch # 20 | Batch Total: 0",
+      "game": "Art",
+      "started_at": "2026-03-02T18:07:32Z"
     }
   ]
 }
