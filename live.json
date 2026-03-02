@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-02T05:35:00.860Z",
+  "timestamp": "2026-03-02T05:57:39.892Z",
   "live": [
     {
       "username": "SciAnts_Streams",
@@ -14,16 +14,16 @@
       "started_at": "2026-03-01T17:07:13Z"
     },
     {
-      "username": "walkingsticklibrary",
-      "title": "Aspartame, ants, and other adverse effects; Who was Dr. Mohammad Mosaddegh; And the fight against Tasmanian devil facial tumor.",
-      "game": "IRL",
-      "started_at": "2026-03-02T02:30:04Z"
-    },
-    {
       "username": "DrMick",
       "title": "Therapist Plays GTA IV: Part 24",
       "game": "Grand Theft Auto IV",
       "started_at": "2026-03-02T05:33:24Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Aspartame, ants, and other adverse effects; Who was Dr. Mohammad Mosaddegh; And the fight against Tasmanian devil facial tumor.",
+      "game": "IRL",
+      "started_at": "2026-03-02T02:30:04Z"
     }
   ]
 }
