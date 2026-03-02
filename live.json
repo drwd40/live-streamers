@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-02T23:49:28.158Z",
+  "timestamp": "2026-03-02T23:58:34.459Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-03-02T18:05:28Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "📽🦖🎞 DINOSAUR MOVIE MAGIC on Willis O'Brien's 140th birthday 🦕🎬 Let's talk stop-motion dinosaurs! (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-03-02T21:07:19Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "SIX US TROOPS DEAD IN IRAN WAR | LIB & LEAR @ 7 PM EST",
       "game": "Just Chatting",
       "started_at": "2026-03-02T22:49:34Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "📽🦖🎞 DINOSAUR MOVIE MAGIC on Willis O'Brien's 140th birthday 🦕🎬 Let's talk stop-motion dinosaurs! (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-03-02T21:07:19Z"
     },
     {
       "username": "AdamLearnsLive",
@@ -32,28 +32,28 @@
       "started_at": "2026-03-02T21:00:59Z"
     },
     {
-      "username": "DrawCuriosity",
-      "title": "🌊LAST STREAM WITH LONG HAIR / SCIENCE + maybe some Paldean fates✨🐑 !dailybug !merch !tangia",
-      "game": "Science & Technology",
-      "started_at": "2026-03-02T19:56:13Z"
-    },
-    {
       "username": "Zachap",
       "title": "Proletarian Politics | Educate our intelligence | Agitate our enthusiasm | Organize our force | No War but Class War | Learning and Teaching",
       "game": "Just Chatting",
       "started_at": "2026-03-02T10:00:13Z"
     },
     {
-      "username": "AcademyOfUselessIdeas",
-      "title": "Attempting math! (Too scandalous for TV)",
-      "game": "Math",
-      "started_at": "2026-03-02T23:29:45Z"
+      "username": "DrawCuriosity",
+      "title": "🌊LAST STREAM WITH LONG HAIR / SCIENCE + maybe some Paldean fates✨🐑 !dailybug !merch !tangia",
+      "game": "Science & Technology",
+      "started_at": "2026-03-02T19:56:13Z"
     },
     {
       "username": "nSimplexPachinko",
       "title": "Monday Night Math Communication!",
       "game": "Math",
       "started_at": "2026-03-02T22:41:59Z"
+    },
+    {
+      "username": "AcademyOfUselessIdeas",
+      "title": "Attempting math! (Too scandalous for TV)",
+      "game": "Math",
+      "started_at": "2026-03-02T23:29:45Z"
     }
   ]
 }
