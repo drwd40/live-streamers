@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-03T17:45:32.885Z",
+  "timestamp": "2026-03-03T18:02:25.465Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,6 +20,12 @@
       "started_at": "2026-03-03T16:53:16Z"
     },
     {
+      "username": "imreallyimportant",
+      "title": "3/3/26: DEBATING POLITICS ON TIKTOK",
+      "game": "Just Chatting",
+      "started_at": "2026-03-03T17:43:14Z"
+    },
+    {
       "username": "Zachap",
       "title": "Proletarian Politics | Educate our intelligence | Agitate our enthusiasm | Organize our force | No War but Class War | Learning and Teaching",
       "game": "Just Chatting",
@@ -30,12 +36,6 @@
       "title": "Simpit: Misc sim stuff, fixing the frame!",
       "game": "Just Chatting",
       "started_at": "2026-03-03T17:37:56Z"
-    },
-    {
-      "username": "imreallyimportant",
-      "title": "3/3/26: DEBATING POLITICS ON TIKTOK",
-      "game": "Just Chatting",
-      "started_at": "2026-03-03T17:43:14Z"
     }
   ]
 }
