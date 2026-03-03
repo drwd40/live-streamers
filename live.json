@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-03T21:08:56.171Z",
+  "timestamp": "2026-03-03T21:21:59.814Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -42,6 +42,12 @@
       "title": "Tuesday March 3rd @ 2:30 pm EST: Visual Snow Part 3: Visual snow & visual pareidolia: do you see faces in stones?",
       "game": "Science & Technology",
       "started_at": "2026-03-03T19:29:51Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and perturbing some ODEs",
+      "game": "Math",
+      "started_at": "2026-03-03T21:11:37Z"
     },
     {
       "username": "xTalkProgrammer",
