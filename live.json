@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-03T03:59:53.659Z",
+  "timestamp": "2026-03-03T04:40:26.376Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-03-01T17:07:13Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "Together for Women in STEAM ft @melissaindenile | Microscopy Monday after! | Partner+ 23/300 | !ppp !yt !pod",
-      "game": "Science & Technology",
-      "started_at": "2026-03-03T02:02:53Z"
-    },
-    {
       "username": "Moohoodles",
       "title": "🪐 Astrobiology & Space News!✨ Plus Program pushin !pp",
       "game": "Science & Technology",
       "started_at": "2026-03-03T02:12:27Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "Together for Women in STEAM ft @melissaindenile | Microscopy Monday after! | Partner+ 23/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2026-03-03T02:02:53Z"
     },
     {
       "username": "Nerduino",
@@ -34,7 +34,7 @@
     {
       "username": "happyknightmares",
       "title": "Short art stream!l! 🎨🧠🥪",
-      "game": "Just Chatting",
+      "game": "Art",
       "started_at": "2026-03-03T01:33:41Z"
     }
   ]
