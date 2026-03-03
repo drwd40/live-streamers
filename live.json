@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-03T13:42:30.725Z",
+  "timestamp": "2026-03-03T14:04:50.399Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "Proletarian Politics | Educate our intelligence | Agitate our enthusiasm | Organize our force | No War but Class War | Learning and Teaching",
       "game": "Just Chatting",
       "started_at": "2026-03-03T09:59:29Z"
+    },
+    {
+      "username": "csharpfritz",
+      "title": "Building Websites with my Squad",
+      "game": "Software and Game Development",
+      "started_at": "2026-03-03T14:03:59Z"
     }
   ]
 }
