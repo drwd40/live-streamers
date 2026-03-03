@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-03T22:54:51.334Z",
+  "timestamp": "2026-03-03T23:02:43.906Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,12 @@
       "title": "🐢 TURTLE TUESDAY 🐢 Let's talk about sea turtle evolution (and leatherback turtle conservation!) w/ paleontologist Danny Anduza",
       "game": "Science & Technology",
       "started_at": "2026-03-03T21:27:38Z"
+    },
+    {
+      "username": "imreallyimportant",
+      "title": "MIDTERMS START TONIGHT! TEXAS POLLS CLOSE AT 8 PM EST",
+      "game": "Just Chatting",
+      "started_at": "2026-03-03T22:54:36Z"
     },
     {
       "username": "Zachap",
@@ -42,12 +48,6 @@
       "title": "Rise of Piracy, Night 03: We may have to alter our strategy...",
       "game": "Rise of Piracy",
       "started_at": "2026-03-03T22:27:30Z"
-    },
-    {
-      "username": "imreallyimportant",
-      "title": "MIDTERMS START TONIGHT! TEXAS POLLS CLOSE AT 8 PM EST",
-      "game": "Just Chatting",
-      "started_at": "2026-03-03T22:54:36Z"
     }
   ]
 }
