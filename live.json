@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-03T23:02:43.906Z",
+  "timestamp": "2026-03-03T23:13:08.121Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,10 +38,22 @@
       "started_at": "2026-03-03T20:04:40Z"
     },
     {
+      "username": "shnaff",
+      "title": "Guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-03-03T23:03:09Z"
+    },
+    {
       "username": "DonFactorial",
       "title": "Answering your math questions and perturbing some ODEs",
       "game": "Math",
       "started_at": "2026-03-03T21:11:37Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Writing a Differential Equations Text",
+      "game": "Math",
+      "started_at": "2026-03-03T23:07:19Z"
     },
     {
       "username": "nSimplexPachinko",
