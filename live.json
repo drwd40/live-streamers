@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-04T01:16:40.598Z",
+  "timestamp": "2026-03-04T02:01:25.353Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-03-03T21:27:38Z"
     },
     {
-      "username": "shnaff",
-      "title": "Guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-03-03T23:03:09Z"
-    },
-    {
       "username": "AstroCanuck",
       "title": "Astro's Po'Pourri: Artemis II Update & LEGO Soundwave | !PGV !giveaway !texas | !drop !tkf",
       "game": "Science & Technology",
       "started_at": "2026-03-04T01:01:39Z"
+    },
+    {
+      "username": "shnaff",
+      "title": "Guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-03-03T23:03:09Z"
     },
     {
       "username": "Zachap",
@@ -44,22 +44,22 @@
       "started_at": "2026-03-03T09:59:29Z"
     },
     {
-      "username": "GeoJim2006",
-      "title": "Mineral & Rock Review -  The Least You Should Know ⛰️⛏️🪨🔬 !discord !nova !tkf",
+      "username": "Nerduino",
+      "title": "Rocket launch from Japan 6pm PST.  Live astrophotography.  Space and science news with a PhD astronomer.  #NASA #science #space #stem #nasa",
       "game": "Science & Technology",
-      "started_at": "2026-03-03T20:04:40Z"
-    },
-    {
-      "username": "MelissaInDeNile",
-      "title": "Back to C-14 Dating! Let's romance Hendrix and Joan!! ~ Follower Goal: 2301/2600 ~ !socials !beyonddenile",
-      "game": "C14 Dating",
-      "started_at": "2026-03-03T23:49:48Z"
+      "started_at": "2026-03-04T01:39:11Z"
     },
     {
       "username": "eToThe2iPi",
       "title": "Writing a Differential Equations Text",
       "game": "Math",
       "started_at": "2026-03-03T23:07:19Z"
+    },
+    {
+      "username": "MelissaInDeNile",
+      "title": "Back to C-14 Dating! Let's romance Hendrix and Joan!! ~ Follower Goal: 2301/2600 ~ !socials !beyonddenile",
+      "game": "C14 Dating",
+      "started_at": "2026-03-03T23:49:48Z"
     }
   ]
 }
