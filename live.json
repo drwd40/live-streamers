@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-04T02:01:25.353Z",
+  "timestamp": "2026-03-04T03:05:43.210Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,28 +20,10 @@
       "started_at": "2026-03-03T22:54:36Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "🐢 TURTLE TUESDAY 🐢 Let's talk about sea turtle evolution (and leatherback turtle conservation!) w/ paleontologist Danny Anduza",
-      "game": "Science & Technology",
-      "started_at": "2026-03-03T21:27:38Z"
-    },
-    {
       "username": "AstroCanuck",
       "title": "Astro's Po'Pourri: Artemis II Update & LEGO Soundwave | !PGV !giveaway !texas | !drop !tkf",
       "game": "Science & Technology",
       "started_at": "2026-03-04T01:01:39Z"
-    },
-    {
-      "username": "shnaff",
-      "title": "Guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-03-03T23:03:09Z"
-    },
-    {
-      "username": "Zachap",
-      "title": "Proletarian Politics | Educate our intelligence | Agitate our enthusiasm | Organize our force | No War but Class War | Learning and Teaching",
-      "game": "Just Chatting",
-      "started_at": "2026-03-03T09:59:29Z"
     },
     {
       "username": "Nerduino",
@@ -50,16 +32,22 @@
       "started_at": "2026-03-04T01:39:11Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Writing a Differential Equations Text",
-      "game": "Math",
-      "started_at": "2026-03-03T23:07:19Z"
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-03-04T02:02:37Z"
     },
     {
       "username": "MelissaInDeNile",
       "title": "Back to C-14 Dating! Let's romance Hendrix and Joan!! ~ Follower Goal: 2301/2600 ~ !socials !beyonddenile",
       "game": "C14 Dating",
       "started_at": "2026-03-03T23:49:48Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Clothes make the person -- the High Priest's Vestments Part II, the Muslim Brotherhood in the United States, and cowbird nest parasitism.",
+      "game": "IRL",
+      "started_at": "2026-03-04T02:30:15Z"
     }
   ]
 }
