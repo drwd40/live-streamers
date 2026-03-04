@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-04T16:51:01.007Z",
+  "timestamp": "2026-03-04T17:08:16.129Z",
   "live": [
     {
       "username": "Maya",
@@ -24,6 +24,12 @@
       "title": "Proletarian Politics | Educate our intelligence | Agitate our enthusiasm | Organize our force | No War but Class War | Learning and Teaching",
       "game": "Just Chatting",
       "started_at": "2026-03-04T10:01:26Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "Fixing the rocker panels on my heaping pile of Dodge. The Crew Cab Charger (Part 43)",
+      "game": "Science & Technology",
+      "started_at": "2026-03-04T17:06:54Z"
     }
   ]
 }
