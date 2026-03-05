@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-05T21:05:16.943Z",
+  "timestamp": "2026-03-05T21:19:12.879Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,22 @@
       "started_at": "2026-03-05T10:00:33Z"
     },
     {
-      "username": "Rocketology",
-      "title": "SCL: Q&A Tech Talk Watch and Reaction",
-      "game": "Star Citizen",
-      "started_at": "2026-03-05T19:13:29Z"
+      "username": "Paleontologizing",
+      "title": "🦕 TALKIN' DINOSAURS 🦖 Fossil science news, viewer Q&A, and Thursday BIRDSday (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-03-05T21:12:54Z"
     },
     {
       "username": "DonFactorial",
       "title": "Answering your math questions and perturbing some ODEs",
       "game": "Math",
       "started_at": "2026-03-05T20:43:22Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "SCL: Q&A Tech Talk Watch and Reaction",
+      "game": "Star Citizen",
+      "started_at": "2026-03-05T19:13:29Z"
     },
     {
       "username": "DrAlexanderClarke",
