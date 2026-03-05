@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-05T20:53:16.531Z",
+  "timestamp": "2026-03-05T21:05:16.943Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -16,7 +16,7 @@
     {
       "username": "SciAnts_Streams",
       "title": "Pokémon Pokopia Release Day | Stem cell science | Together for Women in STEAM ft @KaseySnowArt | Partner+ 53/300 | !ppp !yt !pod !code",
-      "game": "Science & Technology",
+      "game": "Pokémon Pokopia",
       "started_at": "2026-03-05T19:03:38Z"
     },
     {
@@ -32,16 +32,16 @@
       "started_at": "2026-03-05T19:13:29Z"
     },
     {
-      "username": "DrAlexanderClarke",
-      "title": "What if the Royal Navy's Aircraft Carrier HMS Hermes had sisters in the 1920s? (Patreon Live)",
-      "game": "Just Chatting",
-      "started_at": "2026-03-05T19:30:22Z"
-    },
-    {
       "username": "DonFactorial",
       "title": "Answering your math questions and perturbing some ODEs",
       "game": "Math",
       "started_at": "2026-03-05T20:43:22Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "What if the Royal Navy's Aircraft Carrier HMS Hermes had sisters in the 1920s? (Patreon Live)",
+      "game": "Just Chatting",
+      "started_at": "2026-03-05T19:30:22Z"
     }
   ]
 }
