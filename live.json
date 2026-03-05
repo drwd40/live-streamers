@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-05T20:36:26.327Z",
+  "timestamp": "2026-03-05T20:53:16.531Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "What if the Royal Navy's Aircraft Carrier HMS Hermes had sisters in the 1920s? (Patreon Live)",
       "game": "Just Chatting",
       "started_at": "2026-03-05T19:30:22Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and perturbing some ODEs",
+      "game": "Math",
+      "started_at": "2026-03-05T20:43:22Z"
     }
   ]
 }
