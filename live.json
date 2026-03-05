@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-04T23:52:34.937Z",
+  "timestamp": "2026-03-05T00:00:24.669Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "Trying to figure out a project: Galactic Coordinates. Taking requests on Math!",
       "game": "Math",
       "started_at": "2026-03-04T23:31:44Z"
+    },
+    {
+      "username": "ipaintbirbs",
+      "title": "bird of da day: wood duck",
+      "game": "Art",
+      "started_at": "2026-03-04T23:59:19Z"
     }
   ]
 }
