@@ -1,6 +1,12 @@
 {
-  "timestamp": "2026-03-06T18:40:18.890Z",
+  "timestamp": "2026-03-06T19:01:34.770Z",
   "live": [
+    {
+      "username": "Maya",
+      "title": "IRL ANGRY BIRDS COSPLAY WITH GIANT SLINGSHOTS AND @EMIRU 🐦",
+      "game": "Just Chatting",
+      "started_at": "2026-03-06T18:54:41Z"
+    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
@@ -42,6 +48,12 @@
       "title": "Simpit: Hackin stuff together?",
       "game": "Just Chatting",
       "started_at": "2026-03-06T17:50:51Z"
+    },
+    {
+      "username": "CosmoQuestX",
+      "title": "Astronomy Cast: Magnetars",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2026-03-06T18:52:49Z"
     }
   ]
 }
