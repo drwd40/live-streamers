@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-06T15:55:08.368Z",
+  "timestamp": "2026-03-06T16:07:06.405Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-03-06T14:00:14Z"
     },
     {
-      "username": "Zachap",
-      "title": "Proletarian Politics | Educate our intelligence | Agitate our enthusiasm | Organize our force | No War but Class War | Learning and Teaching",
-      "game": "Just Chatting",
-      "started_at": "2026-03-06T10:01:19Z"
-    },
-    {
       "username": "DrWD40",
       "title": "Live Backyard Beekeeping | Early Spring Hive Inspection | Space Coast, FL",
       "game": "IRL",
       "started_at": "2026-03-06T15:38:24Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "Proletarian Politics | Educate our intelligence | Agitate our enthusiasm | Organize our force | No War but Class War | Learning and Teaching",
+      "game": "Just Chatting",
+      "started_at": "2026-03-06T10:01:19Z"
     },
     {
       "username": "ProfessorEXP",
@@ -36,6 +36,12 @@
       "title": "Slice the wood, shape the wood",
       "game": "Art",
       "started_at": "2026-03-06T15:01:12Z"
+    },
+    {
+      "username": "CosmoQuestX",
+      "title": "Astronomy Cast: Magnetars",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2026-03-06T15:59:54Z"
     }
   ]
 }
