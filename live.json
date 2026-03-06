@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-06T20:57:20.566Z",
+  "timestamp": "2026-03-06T21:10:11.566Z",
   "live": [
     {
       "username": "Maya",
@@ -32,24 +32,6 @@
       "started_at": "2026-03-06T10:01:19Z"
     },
     {
-      "username": "oh_bother",
-      "title": "Simpit: Hackin stuff together?",
-      "game": "Just Chatting",
-      "started_at": "2026-03-06T17:50:51Z"
-    },
-    {
-      "username": "SharkG33k",
-      "title": "Clean up Earth! New update!",
-      "game": "Clean Up Earth",
-      "started_at": "2026-03-06T19:25:10Z"
-    },
-    {
-      "username": "DrMick",
-      "title": "Hockey at the Honda Center",
-      "game": "Sports",
-      "started_at": "2026-03-06T20:11:21Z"
-    },
-    {
       "username": "DrawCuriosity",
       "title": "🌊HPV awareness day + EQUILINOX (ECOLOGY GAME!) first playthrough! (the hair surviveth for one week longer!)✨🐑 !dailybug !merch !tangia",
       "game": "Science & Technology",
@@ -62,10 +44,28 @@
       "started_at": "2026-03-06T20:46:01Z"
     },
     {
+      "username": "DrMick",
+      "title": "Hockey at the Honda Center",
+      "game": "Sports",
+      "started_at": "2026-03-06T20:11:21Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Clean up Earth! New update!",
+      "game": "Clean Up Earth",
+      "started_at": "2026-03-06T19:25:10Z"
+    },
+    {
       "username": "Rocketology",
       "title": "New Mercenary Career, Stomp-Stomp, Pew-Pew, Bang-Bang, BOOM!",
       "game": "MechWarrior 5: Mercenaries",
       "started_at": "2026-03-06T19:10:30Z"
+    },
+    {
+      "username": "GeoJim2006",
+      "title": "It's Friday! We're Doin' Geology Stuff Here! ⛰️⛏️🪨🔬 !discord !nova !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-03-06T21:01:22Z"
     },
     {
       "username": "jacksfacts",
