@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-06T20:14:10.434Z",
+  "timestamp": "2026-03-06T20:28:04.787Z",
   "live": [
     {
       "username": "Maya",
@@ -26,12 +26,6 @@
       "started_at": "2026-03-06T17:10:14Z"
     },
     {
-      "username": "imreallyimportant",
-      "title": "3/6/26: DEBATING POLITICS ON TIKTOK",
-      "game": "Just Chatting",
-      "started_at": "2026-03-06T17:29:08Z"
-    },
-    {
       "username": "Zachap",
       "title": "Proletarian Politics | Educate our intelligence | Agitate our enthusiasm | Organize our force | No War but Class War | Learning and Teaching",
       "game": "Just Chatting",
@@ -56,16 +50,22 @@
       "started_at": "2026-03-06T19:25:10Z"
     },
     {
+      "username": "DrMick",
+      "title": "Hockey at the Honda Center",
+      "game": "Sports",
+      "started_at": "2026-03-06T20:11:21Z"
+    },
+    {
       "username": "Rocketology",
       "title": "New Mercenary Career, Stomp-Stomp, Pew-Pew, Bang-Bang, BOOM!",
       "game": "MechWarrior 5: Mercenaries",
       "started_at": "2026-03-06T19:10:30Z"
     },
     {
-      "username": "DrMick",
-      "title": "Hockey at the Honda Center",
-      "game": "Sports",
-      "started_at": "2026-03-06T20:11:21Z"
+      "username": "jacksfacts",
+      "title": "Talking over the latest animals science and reviewing Apple TV's show Prehistoric Planet Ice age!",
+      "game": "Science & Technology",
+      "started_at": "2026-03-06T20:19:25Z"
     }
   ]
 }
