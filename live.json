@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-06T00:52:59.937Z",
+  "timestamp": "2026-03-06T01:27:14.245Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-03-05T17:02:03Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "🦕 TALKIN' DINOSAURS 🦖 Fossil science news, viewer Q&A, and Thursday BIRDSday (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-03-05T21:12:54Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "KRISTI NOEM FIRED | IRAN WAR SPREADS | NEWSOM ON FRIEDLAND SHOW | DESTINY X KONSTANTIN",
       "game": "Just Chatting",
       "started_at": "2026-03-05T22:49:37Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "🦕 TALKIN' DINOSAURS 🦖 Fossil science news, viewer Q&A, and Thursday BIRDSday (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-03-05T21:12:54Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -50,10 +50,22 @@
       "started_at": "2026-03-05T23:51:51Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "Finally digitizing my Fantasy Age Campaign! #TitansGrave #Valkana",
-      "game": "Tabletop RPGs",
-      "started_at": "2026-03-05T22:01:30Z"
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-03-06T01:07:03Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "The Psychology of shark conservation with @rhaco_dactylus 🦈",
+      "game": "Science & Technology",
+      "started_at": "2026-03-06T01:03:24Z"
+    },
+    {
+      "username": "happyknightmares",
+      "title": "Synesthesia art time!!! 🎨🧠🎶♬",
+      "game": "Just Chatting",
+      "started_at": "2026-03-06T01:04:38Z"
     }
   ]
 }
