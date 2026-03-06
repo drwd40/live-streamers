@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-06T21:22:41.603Z",
+  "timestamp": "2026-03-06T21:37:52.013Z",
   "live": [
     {
       "username": "Maya",
@@ -32,28 +32,28 @@
       "started_at": "2026-03-06T10:01:19Z"
     },
     {
-      "username": "DrMick",
-      "title": "Hockey at the Honda Center",
-      "game": "Sports",
-      "started_at": "2026-03-06T20:11:21Z"
-    },
-    {
       "username": "Stephen_Wolfram",
       "title": "Future of Science and Technology Q&A (March 6, 2026)",
       "game": "Science & Technology",
       "started_at": "2026-03-06T20:46:01Z"
     },
     {
-      "username": "SharkG33k",
-      "title": "Clean up Earth! New update!",
-      "game": "Clean Up Earth",
-      "started_at": "2026-03-06T19:25:10Z"
-    },
-    {
       "username": "DrawCuriosity",
       "title": "🌊HPV awareness day + EQUILINOX (ECOLOGY GAME!) first playthrough! (the hair surviveth for one week longer!)✨🐑 !dailybug !merch !tangia",
       "game": "Science & Technology",
       "started_at": "2026-03-06T20:53:53Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Skellin' and sellin' (day 318½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-03-06T21:22:03Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Clean up Earth! New update!",
+      "game": "Clean Up Earth",
+      "started_at": "2026-03-06T19:25:10Z"
     },
     {
       "username": "Rocketology",
@@ -72,12 +72,6 @@
       "title": "Talking over the latest animals science and reviewing Apple TV's show Prehistoric Planet Ice age!",
       "game": "Science & Technology",
       "started_at": "2026-03-06T20:19:25Z"
-    },
-    {
-      "username": "AdamLearnsLive",
-      "title": "Skellin' and sellin' (day 318½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-03-06T21:22:03Z"
     }
   ]
 }
