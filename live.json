@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-06T19:01:34.770Z",
+  "timestamp": "2026-03-06T19:20:09.820Z",
   "live": [
     {
       "username": "Maya",
@@ -9,8 +9,8 @@
     },
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
-      "game": "Animals, Aquariums, and Zoos",
+      "title": "Joe and Tell w/ @purplemartinconservation | !pmca | !alveus !institute !pixel !schedule !video !feed",
+      "game": "Just Chatting",
       "started_at": "2026-03-05T17:11:37Z"
     },
     {
@@ -26,16 +26,16 @@
       "started_at": "2026-03-06T17:10:14Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "11 days until launch 😬 (day 318)",
-      "game": "Software and Game Development",
-      "started_at": "2026-03-06T16:11:16Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "3/6/26: DEBATING POLITICS ON TIKTOK",
       "game": "Just Chatting",
       "started_at": "2026-03-06T17:29:08Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "11 days until launch 😬 (day 318)",
+      "game": "Software and Game Development",
+      "started_at": "2026-03-06T16:11:16Z"
     },
     {
       "username": "Zachap",
@@ -54,6 +54,12 @@
       "title": "Astronomy Cast: Magnetars",
       "game": "Talk Shows & Podcasts",
       "started_at": "2026-03-06T18:52:49Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "New Mercenary Career, Stomp-Stomp, Pew-Pew, Bang-Bang, BOOM!",
+      "game": "MechWarrior 5: Mercenaries",
+      "started_at": "2026-03-06T19:10:30Z"
     }
   ]
 }
