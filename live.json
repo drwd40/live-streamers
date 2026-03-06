@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-06T04:00:38.861Z",
+  "timestamp": "2026-03-06T04:39:35.603Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -16,14 +16,8 @@
     {
       "username": "SciAnts_Streams",
       "title": "Pokémon Pokopia Release Day | Stem cell science | Together for Women in STEAM ft @KaseySnowArt | Partner+ 53/300 | !ppp !yt !pod !code",
-      "game": "Science & Technology",
+      "game": "Pokémon Pokopia",
       "started_at": "2026-03-05T19:03:38Z"
-    },
-    {
-      "username": "SharkG33k",
-      "title": "The Psychology of shark conservation with @rhaco_dactylus 🦈",
-      "game": "Science & Technology",
-      "started_at": "2026-03-06T01:03:24Z"
     },
     {
       "username": "Nerduino",
@@ -32,22 +26,16 @@
       "started_at": "2026-03-06T01:54:19Z"
     },
     {
-      "username": "MelissaInDeNile",
-      "title": "Let's explore more of Constantinople in Assassins Creed: Revelations!! ~ Follower Goal: 2310/2600 ~ !socials !beyonddenile",
-      "game": "Assassin's Creed Revelations",
-      "started_at": "2026-03-05T23:51:51Z"
+      "username": "walkingsticklibrary",
+      "title": "Green iguanas in Florida, artificial intelligence on the road, and how cats walk quietly.",
+      "game": "IRL",
+      "started_at": "2026-03-06T02:30:18Z"
     },
     {
       "username": "happyknightmares",
       "title": "Synesthesia art time!!! 🎨🧠🎶♬",
       "game": "Art",
       "started_at": "2026-03-06T01:59:33Z"
-    },
-    {
-      "username": "walkingsticklibrary",
-      "title": "Green iguanas in Florida, artificial intelligence on the road, and how cats walk quietly.",
-      "game": "IRL",
-      "started_at": "2026-03-06T02:30:18Z"
     }
   ]
 }
