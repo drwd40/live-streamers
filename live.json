@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-06T19:35:57.979Z",
+  "timestamp": "2026-03-06T19:50:01.515Z",
   "live": [
     {
       "username": "Maya",
@@ -56,16 +56,16 @@
       "started_at": "2026-03-06T19:25:10Z"
     },
     {
-      "username": "CosmoQuestX",
-      "title": "Astronomy Cast: Magnetars",
-      "game": "Talk Shows & Podcasts",
-      "started_at": "2026-03-06T18:52:49Z"
-    },
-    {
       "username": "Rocketology",
       "title": "New Mercenary Career, Stomp-Stomp, Pew-Pew, Bang-Bang, BOOM!",
       "game": "MechWarrior 5: Mercenaries",
       "started_at": "2026-03-06T19:10:30Z"
+    },
+    {
+      "username": "CosmoQuestX",
+      "title": "Astronomy Cast: Magnetars",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2026-03-06T18:52:49Z"
     }
   ]
 }
