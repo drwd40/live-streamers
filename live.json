@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-06T00:06:24.395Z",
+  "timestamp": "2026-03-06T00:52:59.937Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -9,21 +9,21 @@
     },
     {
       "username": "EJ_SA",
-      "title": "EJ's Space and Rocket Revue! 3/5/26",
-      "game": "Science & Technology",
+      "title": "Ok, we're really going to build the space ship now! Factorio (Part 18)",
+      "game": "Factorio",
       "started_at": "2026-03-05T17:02:03Z"
-    },
-    {
-      "username": "imreallyimportant",
-      "title": "KRISTI NOEM FIRED | IRAN WAR SPREADS | NEWSOM ON FRIEDLAND SHOW | DESTINY X KONSTANTIN",
-      "game": "Just Chatting",
-      "started_at": "2026-03-05T22:49:37Z"
     },
     {
       "username": "Paleontologizing",
       "title": "🦕 TALKIN' DINOSAURS 🦖 Fossil science news, viewer Q&A, and Thursday BIRDSday (w/ paleontologist Danny Anduza)",
       "game": "Science & Technology",
       "started_at": "2026-03-05T21:12:54Z"
+    },
+    {
+      "username": "imreallyimportant",
+      "title": "KRISTI NOEM FIRED | IRAN WAR SPREADS | NEWSOM ON FRIEDLAND SHOW | DESTINY X KONSTANTIN",
+      "game": "Just Chatting",
+      "started_at": "2026-03-05T22:49:37Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -42,12 +42,6 @@
       "title": "Guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2026-03-05T23:04:02Z"
-    },
-    {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and perturbing some ODEs",
-      "game": "Math",
-      "started_at": "2026-03-05T20:43:22Z"
     },
     {
       "username": "MelissaInDeNile",
