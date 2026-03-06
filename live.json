@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-06T15:39:34.127Z",
+  "timestamp": "2026-03-06T15:55:08.368Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,6 +20,12 @@
       "started_at": "2026-03-06T10:01:19Z"
     },
     {
+      "username": "DrWD40",
+      "title": "Live Backyard Beekeeping | Early Spring Hive Inspection | Space Coast, FL",
+      "game": "IRL",
+      "started_at": "2026-03-06T15:38:24Z"
+    },
+    {
       "username": "ProfessorEXP",
       "title": "VIBE FRIDAY |  INCLUSIVE DESIGN | TEACHING GRIND | NEWS AND CULTURE",
       "game": "Just Chatting",
@@ -30,12 +36,6 @@
       "title": "Slice the wood, shape the wood",
       "game": "Art",
       "started_at": "2026-03-06T15:01:12Z"
-    },
-    {
-      "username": "DrWD40",
-      "title": "Live Backyard Beekeeping | Early Spring Hive Inspection | Space Coast, FL",
-      "game": "IRL",
-      "started_at": "2026-03-06T15:38:24Z"
     }
   ]
 }
