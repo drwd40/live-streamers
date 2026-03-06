@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-06T02:17:52.436Z",
+  "timestamp": "2026-03-06T03:15:01.734Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,15 +14,9 @@
       "started_at": "2026-03-05T17:02:03Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "🦕 TALKIN' DINOSAURS 🦖 Fossil science news, viewer Q&A, and Thursday BIRDSday (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-03-05T21:12:54Z"
-    },
-    {
       "username": "SciAnts_Streams",
       "title": "Pokémon Pokopia Release Day | Stem cell science | Together for Women in STEAM ft @KaseySnowArt | Partner+ 53/300 | !ppp !yt !pod !code",
-      "game": "Pokémon Pokopia",
+      "game": "Science & Technology",
       "started_at": "2026-03-05T19:03:38Z"
     },
     {
@@ -32,16 +26,16 @@
       "started_at": "2026-03-06T01:03:24Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
-      "game": "Just Chatting",
-      "started_at": "2026-03-06T01:07:03Z"
-    },
-    {
       "username": "Nerduino",
       "title": "Space and science news with a PhD astronomer and former NASA guy.  #NASA #science #space #stem #nasa",
       "game": "Science & Technology",
       "started_at": "2026-03-06T01:54:19Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-03-06T01:07:03Z"
     },
     {
       "username": "MelissaInDeNile",
@@ -54,6 +48,12 @@
       "title": "Synesthesia art time!!! 🎨🧠🎶♬",
       "game": "Just Chatting",
       "started_at": "2026-03-06T01:59:33Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Green iguanas in Florida, artificial intelligence on the road, and how cats walk quietly.",
+      "game": "IRL",
+      "started_at": "2026-03-06T02:30:18Z"
     }
   ]
 }
