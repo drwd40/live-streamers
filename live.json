@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-06T19:20:09.820Z",
+  "timestamp": "2026-03-06T19:35:57.979Z",
   "live": [
     {
       "username": "Maya",
@@ -26,16 +26,16 @@
       "started_at": "2026-03-06T17:10:14Z"
     },
     {
-      "username": "imreallyimportant",
-      "title": "3/6/26: DEBATING POLITICS ON TIKTOK",
-      "game": "Just Chatting",
-      "started_at": "2026-03-06T17:29:08Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "11 days until launch 😬 (day 318)",
       "game": "Software and Game Development",
       "started_at": "2026-03-06T16:11:16Z"
+    },
+    {
+      "username": "imreallyimportant",
+      "title": "3/6/26: DEBATING POLITICS ON TIKTOK",
+      "game": "Just Chatting",
+      "started_at": "2026-03-06T17:29:08Z"
     },
     {
       "username": "Zachap",
@@ -48,6 +48,12 @@
       "title": "Simpit: Hackin stuff together?",
       "game": "Just Chatting",
       "started_at": "2026-03-06T17:50:51Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Clean up Earth! New update!",
+      "game": "Clean Up Earth",
+      "started_at": "2026-03-06T19:25:10Z"
     },
     {
       "username": "CosmoQuestX",
