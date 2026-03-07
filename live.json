@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-07T22:34:06.516Z",
+  "timestamp": "2026-03-07T22:44:39.793Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,28 +8,22 @@
       "started_at": "2026-03-07T16:21:38Z"
     },
     {
-      "username": "TinyToxicTofu",
-      "title": "How Long Can I Stream For? Take Bets! Physics, Teaching, Soldering and Gaming all day! !physics !phd !cnc",
-      "game": "God of War Ragnarök",
-      "started_at": "2026-03-07T10:48:22Z"
-    },
-    {
       "username": "Zachap",
       "title": "Proletarian Politics | Educate our intelligence | Agitate our enthusiasm | Organize our force | No War but Class War | Learning and Teaching",
       "game": "Just Chatting",
       "started_at": "2026-03-07T10:33:27Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "Golden Hour Podcast ft. Ramtin!",
-      "game": "Just Chatting",
-      "started_at": "2026-03-07T21:15:36Z"
-    },
-    {
       "username": "Rocketology",
       "title": "Blood Ravens Mercenary Commpany Career, Stomp-Stomp, Pew-Pew, Bang-Bang, BOOM!",
       "game": "MechWarrior 5: Mercenaries",
       "started_at": "2026-03-07T20:03:54Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "Golden Hour Podcast ft. Ramtin!",
+      "game": "Just Chatting",
+      "started_at": "2026-03-07T21:15:36Z"
     }
   ]
 }
