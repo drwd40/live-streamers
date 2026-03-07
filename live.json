@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-07T16:58:08.754Z",
+  "timestamp": "2026-03-07T17:08:30.407Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -10,7 +10,7 @@
     {
       "username": "TinyToxicTofu",
       "title": "How Long Can I Stream For? Take Bets! Physics, Teaching, Soldering and Gaming all day! !physics !phd !cnc",
-      "game": "Science & Technology",
+      "game": "God of War Ragnarök",
       "started_at": "2026-03-07T10:48:22Z"
     },
     {
@@ -24,6 +24,12 @@
       "title": "Beach Episode: Yoga, Stretches, and Chilling on the Beach | 50 Subs: Go Out to Lunch",
       "game": "Pools, Hot Tubs, and Beaches",
       "started_at": "2026-03-07T16:49:52Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Bring Your Questions: A Math/Ed Q&A",
+      "game": "Math",
+      "started_at": "2026-03-07T16:58:48Z"
     }
   ]
 }
