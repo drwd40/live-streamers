@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-08T20:19:13.694Z",
+  "timestamp": "2026-03-08T20:33:56.851Z",
   "live": [
-    {
-      "username": "AstroCanuck",
-      "title": "Crazy Sunday LEGO - Birthday and 3rd Partnerversary Extravaganza - !bday !confetti NEW BITS Redeems| !PGV !giveaway !texas | !drop !tkf",
-      "game": "Lego & Brickbuilding",
-      "started_at": "2026-03-08T11:30:35Z"
-    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-03-07T16:21:38Z"
+    },
+    {
+      "username": "AstroCanuck",
+      "title": "Crazy Sunday LEGO - Birthday and 3rd Partnerversary Extravaganza - !bday !confetti NEW BITS Redeems| !PGV !giveaway !texas | !drop !tkf",
+      "game": "Lego & Brickbuilding",
+      "started_at": "2026-03-08T11:30:35Z"
     },
     {
       "username": "EJ_SA",
@@ -42,12 +42,6 @@
       "title": "Bruships 235: Alternate History & Naval History Questions Answered Live...",
       "game": "Just Chatting",
       "started_at": "2026-03-08T19:30:22Z"
-    },
-    {
-      "username": "happyknightmares",
-      "title": "Montreal Biodome! 🦆🐢🌿",
-      "game": "Just Chatting",
-      "started_at": "2026-03-08T20:13:06Z"
     }
   ]
 }
