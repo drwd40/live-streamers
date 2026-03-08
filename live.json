@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-08T02:53:35.307Z",
+  "timestamp": "2026-03-08T03:42:33.247Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "It's March 7th! - Teacher Plays: Honkai Star Rail",
       "game": "Honkai: Star Rail",
       "started_at": "2026-03-08T02:00:05Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "The Iranian government(s) in exile, the 25th Amendment, and Mark Twain's War Prayer.",
+      "game": "IRL",
+      "started_at": "2026-03-08T02:58:37Z"
     }
   ]
 }
