@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-08T17:32:00.865Z",
+  "timestamp": "2026-03-08T17:43:15.301Z",
   "live": [
-    {
-      "username": "AstroCanuck",
-      "title": "Crazy Sunday LEGO - Birthday and 3rd Partnerversary Extravaganza - !bday !confetti NEW BITS Redeems| !PGV !giveaway !texas | !drop !tkf",
-      "game": "Lego & Brickbuilding",
-      "started_at": "2026-03-08T11:30:35Z"
-    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-03-07T16:21:38Z"
+    },
+    {
+      "username": "AstroCanuck",
+      "title": "Crazy Sunday LEGO - Birthday and 3rd Partnerversary Extravaganza - !bday !confetti NEW BITS Redeems| !PGV !giveaway !texas | !drop !tkf",
+      "game": "Lego & Brickbuilding",
+      "started_at": "2026-03-08T11:30:35Z"
     },
     {
       "username": "TinyToxicTofu",
@@ -34,7 +34,7 @@
     {
       "username": "GeneralSte",
       "title": "Lego Building and History Chats | !linktree !discord",
-      "game": "Just Chatting",
+      "game": "Lego & Brickbuilding",
       "started_at": "2026-03-08T16:59:37Z"
     }
   ]
