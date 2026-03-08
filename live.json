@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-08T18:28:18.109Z",
+  "timestamp": "2026-03-08T18:47:07.683Z",
   "live": [
     {
       "username": "AstroCanuck",
@@ -20,16 +20,16 @@
       "started_at": "2026-03-08T17:47:54Z"
     },
     {
-      "username": "TinyToxicTofu",
-      "title": "Maria Goeppert-Mayer, Maria Skłodowska-Curie, Chien-Shiung Wu and Lise Meitner - Women of Physics ⚛️ !cnc !phd !throne",
-      "game": "Dyson Sphere Program",
-      "started_at": "2026-03-08T15:27:54Z"
-    },
-    {
       "username": "ArchitectureTV",
       "title": "Old Town, brutal buildings, telephone city, university campus, 💜 Historic and contemporary buildings | Architecture IRL",
       "game": "IRL",
       "started_at": "2026-03-08T15:37:43Z"
+    },
+    {
+      "username": "TinyToxicTofu",
+      "title": "Maria Goeppert-Mayer, Maria Skłodowska-Curie, Chien-Shiung Wu and Lise Meitner - Women of Physics ⚛️ !cnc !phd !throne",
+      "game": "Dyson Sphere Program",
+      "started_at": "2026-03-08T15:27:54Z"
     },
     {
       "username": "Zachap",
@@ -42,6 +42,12 @@
       "title": "Lego Building and History Chats | !linktree !discord",
       "game": "Lego & Brickbuilding",
       "started_at": "2026-03-08T16:59:37Z"
+    },
+    {
+      "username": "AcademyOfUselessIdeas",
+      "title": "Attempting math! (Feeling too tired too stream. Thanks Daylight savings.)",
+      "game": "Math",
+      "started_at": "2026-03-08T18:42:35Z"
     }
   ]
 }
