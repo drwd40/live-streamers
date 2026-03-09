@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-09T00:48:55.733Z",
+  "timestamp": "2026-03-09T01:21:10.743Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,22 +8,10 @@
       "started_at": "2026-03-07T16:21:38Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "We're in the shop fixing more rust on my steaming pile of Dodge. The Crew Cab Charger (Part 45)",
-      "game": "Science & Technology",
-      "started_at": "2026-03-08T17:47:54Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "SUNDAY SHOWS | ANOTHER US SOLDIER DEAD",
       "game": "Just Chatting",
       "started_at": "2026-03-08T21:52:52Z"
-    },
-    {
-      "username": "VolcanoDoc",
-      "title": "a united tsunami of dislike towards daylight savings time |🌋 Science Sunday | !phd !tkf !socials !pubs",
-      "game": "Science & Technology",
-      "started_at": "2026-03-08T22:12:00Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -42,6 +30,12 @@
       "title": "tryin to make brain work again",
       "game": "Just Chatting",
       "started_at": "2026-03-09T00:00:10Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-03-09T01:01:27Z"
     }
   ]
 }
