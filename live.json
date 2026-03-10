@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-10T20:22:06.374Z",
+  "timestamp": "2026-03-10T20:38:46.391Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -9,7 +9,7 @@
     },
     {
       "username": "EJ_SA",
-      "title": "no",
+      "title": "EJ's Space and Rocket Revue! 3/10/26",
       "game": "Science & Technology",
       "started_at": "2026-03-10T16:26:28Z"
     },
@@ -32,6 +32,12 @@
       "started_at": "2026-03-10T10:00:54Z"
     },
     {
+      "username": "GeoJim2006",
+      "title": "Classifying & Cataloging Rocks - The Sedimentary Realm! ⛏️🪨🔬 !discord !nova !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-03-10T19:51:08Z"
+    },
+    {
       "username": "vul100",
       "title": "Tuesday March 10th @ 2:30 pm EDT: Visual Snow Part 4: Visual snow & migraine",
       "game": "Science & Technology",
@@ -44,10 +50,10 @@
       "started_at": "2026-03-10T19:28:38Z"
     },
     {
-      "username": "GeoJim2006",
-      "title": "Classifying & Cataloging Rocks - The Sedimentary Realm! ⛏️🪨🔬 !discord !nova !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-03-10T19:51:08Z"
+      "username": "xTalkProgrammer",
+      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
+      "game": "Just Chatting",
+      "started_at": "2026-03-10T20:24:22Z"
     }
   ]
 }
