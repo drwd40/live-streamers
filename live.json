@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-10T21:53:30.055Z",
+  "timestamp": "2026-03-10T22:00:54.501Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,6 +26,12 @@
       "started_at": "2026-03-10T10:00:54Z"
     },
     {
+      "username": "imreallyimportant",
+      "title": "GEORGIA SPECIAL ELECTION TONIGHT | IRAN BEGINS LAYING MINES IN STRAIT OF HORMUZ",
+      "game": "Just Chatting",
+      "started_at": "2026-03-10T21:49:46Z"
+    },
+    {
       "username": "GeoJim2006",
       "title": "Classifying & Cataloging Rocks - The Sedimentary Realm! ⛏️🪨🔬 !discord !nova !tkf",
       "game": "Science & Technology",
@@ -38,16 +44,16 @@
       "started_at": "2026-03-10T21:09:55Z"
     },
     {
+      "username": "eToThe2iPi",
+      "title": "Systems of ODEs + Other Shenanigans: Building an ODE Text",
+      "game": "Math",
+      "started_at": "2026-03-10T21:57:46Z"
+    },
+    {
       "username": "xTalkProgrammer",
       "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
       "game": "Just Chatting",
       "started_at": "2026-03-10T20:24:22Z"
-    },
-    {
-      "username": "imreallyimportant",
-      "title": "GEORGIA SPECIAL ELECTION TONIGHT | IRAN BEGINS LAYING MINES IN STRAIT OF HORMUZ",
-      "game": "Just Chatting",
-      "started_at": "2026-03-10T21:49:46Z"
     }
   ]
 }
