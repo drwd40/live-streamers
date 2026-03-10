@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-10T12:35:50.259Z",
+  "timestamp": "2026-03-10T13:00:07.623Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "click here for a million, just ask questions",
       "game": "Just Chatting",
       "started_at": "2026-03-10T10:00:54Z"
+    },
+    {
+      "username": "csharpfritz",
+      "title": "Improving Performance with Squad",
+      "game": "Software and Game Development",
+      "started_at": "2026-03-10T12:59:35Z"
     }
   ]
 }
