@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-10T16:17:56.863Z",
+  "timestamp": "2026-03-10T16:39:44.575Z",
   "live": [
     {
       "username": "Maya",
@@ -14,6 +14,12 @@
       "started_at": "2026-03-09T14:32:18Z"
     },
     {
+      "username": "EJ_SA",
+      "title": "TEXAS TANK WATCHING WITH NSF! BOOSTER 19 TESTING!",
+      "game": "Science & Technology",
+      "started_at": "2026-03-10T16:26:28Z"
+    },
+    {
       "username": "ipaintbirbs",
       "title": "bird-a-day bird is: turkey vulture :)",
       "game": "Art",
@@ -24,6 +30,12 @@
       "title": "click here for a million, just ask questions - be educated - drama reacts",
       "game": "Just Chatting",
       "started_at": "2026-03-10T10:00:54Z"
+    },
+    {
+      "username": "oh_bother",
+      "title": "Simpit: STM32 and Arduino, getting blue pilled with chat. Hacking a Midi pad that nobody makes anymore.",
+      "game": "Just Chatting",
+      "started_at": "2026-03-10T16:33:22Z"
     }
   ]
 }
