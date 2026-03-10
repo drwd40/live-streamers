@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-10T22:41:33.504Z",
+  "timestamp": "2026-03-10T22:53:37.757Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-03-10T16:26:28Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "Discussing Netflix's \"The Dinosaurs\" 🦕💥 It's... pretty good? 🦖 Plus paleontology Q&A 🤧 Still recovering from a cold",
-      "game": "Science & Technology",
-      "started_at": "2026-03-10T20:05:55Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "GEORGIA SPECIAL ELECTION TONIGHT | IRAN BEGINS LAYING MINES IN STRAIT OF HORMUZ",
       "game": "Just Chatting",
       "started_at": "2026-03-10T21:49:46Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "Discussing Netflix's \"The Dinosaurs\" 🦕💥 It's... pretty good? 🦖 Plus paleontology Q&A 🤧 Still recovering from a cold",
+      "game": "Science & Technology",
+      "started_at": "2026-03-10T20:05:55Z"
     },
     {
       "username": "Zachap",
@@ -42,6 +42,12 @@
       "title": "Systems of ODEs + Other Shenanigans: Building an ODE Text",
       "game": "Math",
       "started_at": "2026-03-10T21:57:46Z"
+    },
+    {
+      "username": "MelissaInDeNile",
+      "title": "Back to C-14 Dating, only two more Archaeologists to fall in love with!! ~ Follower Goal: 2310/2600 ~ !socials !beyonddenile",
+      "game": "C14 Dating",
+      "started_at": "2026-03-10T22:49:54Z"
     },
     {
       "username": "xTalkProgrammer",
