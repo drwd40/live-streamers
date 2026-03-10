@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-09T23:58:06.622Z",
+  "timestamp": "2026-03-10T00:37:32.604Z",
   "live": [
     {
       "username": "Maya",
@@ -8,16 +8,16 @@
       "started_at": "2026-03-09T19:18:09Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "Building a ship to deliver supplies because I'm stranded on Vulcanus! Factorio (Part 21)",
-      "game": "Factorio",
-      "started_at": "2026-03-09T14:40:43Z"
-    },
-    {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-03-09T14:32:18Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "Building a ship to deliver supplies because I'm stranded on Vulcanus! Factorio (Part 21)",
+      "game": "Factorio",
+      "started_at": "2026-03-09T14:40:43Z"
     },
     {
       "username": "imreallyimportant",
@@ -32,22 +32,28 @@
       "started_at": "2026-03-09T10:08:09Z"
     },
     {
+      "username": "AstroCanuck",
+      "title": "Lazy Monday LEGO: Soundwave finale - totally not a birthday stream - NEW BITS Redeems| !PGV !giveaway !texas | !drop !tkf",
+      "game": "Lego & Brickbuilding",
+      "started_at": "2026-03-10T00:26:44Z"
+    },
+    {
       "username": "DrawCuriosity",
       "title": "🌊 [First Time] Let's finally fix the Aurora! (actual last day with long hair!)✨🐑 !dailybug !merch !tangia",
       "game": "Subnautica",
       "started_at": "2026-03-09T20:05:30Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
-      "game": "Just Chatting",
-      "started_at": "2026-03-09T22:02:21Z"
-    },
-    {
       "username": "nSimplexPachinko",
       "title": "20260309 - Math Communication Monday! Coinage Geometry",
       "game": "Math",
       "started_at": "2026-03-09T22:32:30Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Synovial fluid and its bursa in osteoarthritis.",
+      "game": "IRL",
+      "started_at": "2026-03-10T00:28:10Z"
     }
   ]
 }
