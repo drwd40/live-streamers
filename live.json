@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-11T20:48:17.541Z",
+  "timestamp": "2026-03-11T21:00:02.912Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -42,6 +42,12 @@
       "title": "Systems of ODEs + Other Shenanigans: Building an ODE Text",
       "game": "Math",
       "started_at": "2026-03-11T17:59:57Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "Tackling crazy math competition questions & homework help.  [!fish🎣|!commands💻]",
+      "game": "",
+      "started_at": "2026-03-11T20:59:14Z"
     }
   ]
 }
