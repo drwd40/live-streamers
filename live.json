@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-03-11T18:10:41.218Z",
+  "timestamp": "2026-03-11T18:32:06.703Z",
   "live": [
     {
       "username": "Maya",
       "title": "making an album ????",
-      "game": "Music",
+      "game": "Just Chatting",
       "started_at": "2026-03-11T15:40:34Z"
     },
     {
@@ -42,6 +42,12 @@
       "title": "Systems of ODEs + Other Shenanigans: Building an ODE Text",
       "game": "Math",
       "started_at": "2026-03-11T17:59:57Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 970: Language Design in Wolfram Language [ArrayPlot, Skeleton and More]",
+      "game": "Science & Technology",
+      "started_at": "2026-03-11T18:21:50Z"
     },
     {
       "username": "PotteryDojo",
