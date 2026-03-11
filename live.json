@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-11T19:48:50.279Z",
+  "timestamp": "2026-03-11T20:01:38.939Z",
   "live": [
     {
       "username": "Kitboga",
@@ -32,22 +32,16 @@
       "started_at": "2026-03-11T19:33:13Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Systems of ODEs + Other Shenanigans: Building an ODE Text",
-      "game": "Math",
-      "started_at": "2026-03-11T17:59:57Z"
-    },
-    {
-      "username": "PotteryDojo",
-      "title": "Pottery: Making Bonsai Pots | Foot Stream | Batch # 20 | Batch Total: 0",
-      "game": "ASMR",
-      "started_at": "2026-03-11T16:18:48Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "More playtesting and balancing (day 320½)",
       "game": "Software and Game Development",
       "started_at": "2026-03-11T19:45:25Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Systems of ODEs + Other Shenanigans: Building an ODE Text",
+      "game": "Math",
+      "started_at": "2026-03-11T17:59:57Z"
     }
   ]
 }
