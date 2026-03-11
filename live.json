@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-11T21:15:05.605Z",
+  "timestamp": "2026-03-11T21:29:53.153Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,12 +36,6 @@
       "title": "Ep 1: Philosophy Discussion with Stephen Wolfram and Mark Jago",
       "game": "Science & Technology",
       "started_at": "2026-03-11T19:33:13Z"
-    },
-    {
-      "username": "eToThe2iPi",
-      "title": "Systems of ODEs + Other Shenanigans: Building an ODE Text",
-      "game": "Math",
-      "started_at": "2026-03-11T17:59:57Z"
     },
     {
       "username": "pencenter",
