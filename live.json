@@ -1,12 +1,6 @@
 {
-  "timestamp": "2026-03-11T19:32:06.363Z",
+  "timestamp": "2026-03-11T19:48:50.279Z",
   "live": [
-    {
-      "username": "Maya",
-      "title": "making an album ????",
-      "game": "Just Chatting",
-      "started_at": "2026-03-11T15:40:34Z"
-    },
     {
       "username": "Kitboga",
       "title": "Making Scammers Angry (Ft. MiltonTPike1) [Ep 1519]",
@@ -32,6 +26,12 @@
       "started_at": "2026-03-11T10:00:18Z"
     },
     {
+      "username": "Stephen_Wolfram",
+      "title": "Ep 1: Philosophy Discussion with Stephen Wolfram and Mark Jago",
+      "game": "Science & Technology",
+      "started_at": "2026-03-11T19:33:13Z"
+    },
+    {
       "username": "eToThe2iPi",
       "title": "Systems of ODEs + Other Shenanigans: Building an ODE Text",
       "game": "Math",
@@ -42,6 +42,12 @@
       "title": "Pottery: Making Bonsai Pots | Foot Stream | Batch # 20 | Batch Total: 0",
       "game": "ASMR",
       "started_at": "2026-03-11T16:18:48Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "More playtesting and balancing (day 320½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-03-11T19:45:25Z"
     }
   ]
 }
