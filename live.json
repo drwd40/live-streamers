@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-12T21:16:50.023Z",
+  "timestamp": "2026-03-12T21:31:32.831Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-03-11T14:32:21Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "Yet more discussion of Netflix's \"The Dinosaurs\" 🦕💥 Cold symptoms nearly gone 🤧👍🏽 +Thursday BIRDSday (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-03-12T20:00:32Z"
-    },
-    {
       "username": "EJ_SA",
       "title": "EJ's NASA's Artemis II Flight Readiness News Conference Coverage! (March 12, 2026)",
       "game": "Science & Technology",
       "started_at": "2026-03-12T16:06:02Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "Yet more discussion of Netflix's \"The Dinosaurs\" 🦕💥 Cold symptoms nearly gone 🤧👍🏽 +Thursday BIRDSday (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-03-12T20:00:32Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -26,16 +26,16 @@
       "started_at": "2026-03-12T18:04:02Z"
     },
     {
-      "username": "Zachap",
-      "title": "speak out and be clear because silence supports fascism and ignorance will make you join it.",
-      "game": "Just Chatting",
-      "started_at": "2026-03-12T10:02:56Z"
-    },
-    {
       "username": "DrMick",
       "title": "Mental Health Chat + Painting 40k",
       "game": "Miniatures & Models",
       "started_at": "2026-03-12T18:55:12Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "speak out and be clear because silence supports fascism and ignorance will make you join it.",
+      "game": "Just Chatting",
+      "started_at": "2026-03-12T10:02:56Z"
     },
     {
       "username": "DrawCuriosity",
@@ -44,22 +44,28 @@
       "started_at": "2026-03-12T18:42:22Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and doing some reading on AI in teaching and maybe other stuff, who knows",
-      "game": "Math",
-      "started_at": "2026-03-12T20:01:24Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Back From The Road - Parts Are In - Soldering - Electronics",
       "game": "Science & Technology",
       "started_at": "2026-03-12T21:00:18Z"
     },
     {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and doing some reading on AI in teaching and maybe other stuff, who knows",
+      "game": "Math",
+      "started_at": "2026-03-12T20:01:24Z"
+    },
+    {
       "username": "DrAlexanderClarke",
       "title": "Ideal Destroyers down the generations from 1901 to present day....",
       "game": "Just Chatting",
       "started_at": "2026-03-12T19:56:43Z"
+    },
+    {
+      "username": "AndrewHolding",
+      "title": "[UK/USA] Stream for progress! Science co-stream, Raising Money for Cancer Research UK (!donate) and donation induced chaos",
+      "game": "The Witcher 3: Wild Hunt",
+      "started_at": "2026-03-12T21:23:25Z"
     }
   ]
 }
