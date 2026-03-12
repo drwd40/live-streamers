@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-12T19:49:29.038Z",
+  "timestamp": "2026-03-12T20:02:03.219Z",
   "live": [
     {
       "username": "Kitboga",
@@ -26,6 +26,18 @@
       "started_at": "2026-03-12T18:04:02Z"
     },
     {
+      "username": "DrMick",
+      "title": "Mental Health Chat + Painting 40k",
+      "game": "Miniatures & Models",
+      "started_at": "2026-03-12T18:55:12Z"
+    },
+    {
+      "username": "DrawCuriosity",
+      "title": "💇‍♀️ FRESH NEW HAIRRRRRR WHO DIS✨🐑 !dailybug !merch !tangia",
+      "game": "Science & Technology",
+      "started_at": "2026-03-12T18:42:22Z"
+    },
+    {
       "username": "oh_bother",
       "title": "Totally confident in my hard-fought computer upgrades, 0% chance of a crash today, bluepilling (arduino) for simpit",
       "game": "Just Chatting",
@@ -38,22 +50,22 @@
       "started_at": "2026-03-12T10:02:56Z"
     },
     {
-      "username": "DrawCuriosity",
-      "title": "💇‍♀️ FRESH NEW HAIRRRRRR WHO DIS✨🐑 !dailybug !merch !tangia",
-      "game": "Science & Technology",
-      "started_at": "2026-03-12T18:42:22Z"
-    },
-    {
-      "username": "DrMick",
-      "title": "Mental Health Chat + Painting 40k",
-      "game": "Miniatures & Models",
-      "started_at": "2026-03-12T18:55:12Z"
-    },
-    {
       "username": "DrAlexanderClarke",
       "title": "Ideal Destroyers down the generations from 1901 to present day....",
       "game": "Just Chatting",
-      "started_at": "2026-03-12T19:45:40Z"
+      "started_at": "2026-03-12T19:56:43Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "Yet more discussion of Netflix's \"The Dinosaurs\" 🦕💥 Cold symptoms nearly gone 🤧👍🏽 +Thursday BIRDSday (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-03-12T20:00:32Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and doing some reading on AI in teaching and maybe other stuff, who knows",
+      "game": "Math",
+      "started_at": "2026-03-12T20:01:24Z"
     }
   ]
 }
