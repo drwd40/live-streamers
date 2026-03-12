@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-12T21:47:01.922Z",
+  "timestamp": "2026-03-12T21:57:56.267Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,12 +32,6 @@
       "started_at": "2026-03-12T18:42:22Z"
     },
     {
-      "username": "DrMick",
-      "title": "Mental Health Chat + Painting 40k",
-      "game": "Miniatures & Models",
-      "started_at": "2026-03-12T18:55:12Z"
-    },
-    {
       "username": "Zachap",
       "title": "speak out and be clear because silence supports fascism and ignorance will make you join it.",
       "game": "Just Chatting",
@@ -56,12 +50,6 @@
       "started_at": "2026-03-12T20:01:24Z"
     },
     {
-      "username": "SETIInstitute",
-      "title": "The Titan Impact: Saturn’s Moon System May Have Had a Catastrophic Past",
-      "game": "Talk Shows & Podcasts",
-      "started_at": "2026-03-12T21:31:56Z"
-    },
-    {
       "username": "DrAlexanderClarke",
       "title": "Ideal Destroyers down the generations from 1901 to present day....",
       "game": "Just Chatting",
@@ -72,6 +60,12 @@
       "title": "[UK/USA] Stream for progress! Science co-stream, Raising Money for Cancer Research UK (!donate) and donation induced chaos",
       "game": "The Witcher 3: Wild Hunt",
       "started_at": "2026-03-12T21:23:25Z"
+    },
+    {
+      "username": "SETIInstitute",
+      "title": "The Titan Impact: Saturn’s Moon System May Have Had a Catastrophic Past",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2026-03-12T21:31:56Z"
     }
   ]
 }
