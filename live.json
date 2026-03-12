@@ -1,6 +1,12 @@
 {
-  "timestamp": "2026-03-12T16:47:17.601Z",
+  "timestamp": "2026-03-12T17:10:05.601Z",
   "live": [
+    {
+      "username": "Kitboga",
+      "title": "Calling Angry Scammers [Ep 1520]",
+      "game": "Just Chatting",
+      "started_at": "2026-03-12T16:51:35Z"
+    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
@@ -26,12 +32,6 @@
       "started_at": "2026-03-12T16:29:53Z"
     },
     {
-      "username": "csharpfritz",
-      "title": "The Gritty Squad is HERE!",
-      "game": "Software and Game Development",
-      "started_at": "2026-03-12T13:44:27Z"
-    },
-    {
       "username": "Zachap",
       "title": "speak out and be clear because silence supports fascism and ignorance will make you join it.",
       "game": "Just Chatting",
@@ -48,6 +48,12 @@
       "title": "🔴!LOGITECHG !GIVEAWAY🔴 HOW TO HELP SOMEONE SPIRALING OUT OF CONTROL",
       "game": "Fitness & Health",
       "started_at": "2026-03-12T16:19:22Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "S2E5 Beyond the Blackboard - Evaulation & Assessment [!fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-03-12T17:06:18Z"
     }
   ]
 }
