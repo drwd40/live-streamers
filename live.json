@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-11T23:52:50.659Z",
+  "timestamp": "2026-03-12T00:00:49.862Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,18 @@
       "title": "speak out and be clear because silence supports fascism and ignorance will make you join it.",
       "game": "Just Chatting",
       "started_at": "2026-03-11T10:00:18Z"
+    },
+    {
+      "username": "Ask_a_Scientist_Gaming",
+      "title": "Dr. Billy Oates, mechanical engineering, and Tecmo Bowl",
+      "game": "Science & Technology",
+      "started_at": "2026-03-11T23:57:40Z"
+    },
+    {
+      "username": "nogre0",
+      "title": "have cold. medicated.",
+      "game": "Just Chatting",
+      "started_at": "2026-03-12T00:00:23Z"
     }
   ]
 }
