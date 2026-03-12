@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-12T20:16:21.373Z",
+  "timestamp": "2026-03-12T20:31:18.518Z",
   "live": [
     {
       "username": "Kitboga",
@@ -20,28 +20,16 @@
       "started_at": "2026-03-12T16:06:02Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "Pokémon Pokopia Science | Together for Women in STEAM ft @raregangster @ 9:30pm EDT | Partner+ 129/300 | !ppp !yt !pod !code",
-      "game": "Science & Technology",
-      "started_at": "2026-03-12T18:04:02Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "Yet more discussion of Netflix's \"The Dinosaurs\" 🦕💥 Cold symptoms nearly gone 🤧👍🏽 +Thursday BIRDSday (w/ paleontologist Danny Anduza)",
       "game": "Science & Technology",
       "started_at": "2026-03-12T20:00:32Z"
     },
     {
-      "username": "oh_bother",
-      "title": "Totally confident in my hard-fought computer upgrades, 0% chance of a crash today, bluepilling (arduino) for simpit",
-      "game": "Just Chatting",
-      "started_at": "2026-03-12T16:19:47Z"
-    },
-    {
-      "username": "DrawCuriosity",
-      "title": "💇‍♀️ FRESH NEW HAIRRRRRR WHO DIS✨🐑 !dailybug !merch !tangia",
+      "username": "SciAnts_Streams",
+      "title": "Pokémon Pokopia Science | Together for Women in STEAM ft @raregangster @ 9:30pm EDT | Partner+ 129/300 | !ppp !yt !pod !code",
       "game": "Science & Technology",
-      "started_at": "2026-03-12T18:42:22Z"
+      "started_at": "2026-03-12T18:04:02Z"
     },
     {
       "username": "DrMick",
@@ -50,22 +38,34 @@
       "started_at": "2026-03-12T18:55:12Z"
     },
     {
+      "username": "oh_bother",
+      "title": "Totally confident in my hard-fought computer upgrades, 0% chance of a crash today, bluepilling (arduino) for simpit",
+      "game": "Just Chatting",
+      "started_at": "2026-03-12T16:19:47Z"
+    },
+    {
       "username": "Zachap",
       "title": "speak out and be clear because silence supports fascism and ignorance will make you join it.",
       "game": "Just Chatting",
       "started_at": "2026-03-12T10:02:56Z"
     },
     {
-      "username": "DrAlexanderClarke",
-      "title": "Ideal Destroyers down the generations from 1901 to present day....",
-      "game": "Just Chatting",
-      "started_at": "2026-03-12T19:56:43Z"
+      "username": "DrawCuriosity",
+      "title": "💇‍♀️ FRESH NEW HAIRRRRRR WHO DIS✨🐑 !dailybug !merch !tangia",
+      "game": "Science & Technology",
+      "started_at": "2026-03-12T18:42:22Z"
     },
     {
       "username": "DonFactorial",
       "title": "Answering your math questions and doing some reading on AI in teaching and maybe other stuff, who knows",
       "game": "Math",
       "started_at": "2026-03-12T20:01:24Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "Ideal Destroyers down the generations from 1901 to present day....",
+      "game": "Just Chatting",
+      "started_at": "2026-03-12T19:56:43Z"
     }
   ]
 }
