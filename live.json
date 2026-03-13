@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-13T19:59:51.585Z",
+  "timestamp": "2026-03-13T20:15:21.798Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-03-13T16:09:48Z"
     },
     {
-      "username": "imreallyimportant",
-      "title": "3/13/26: DEBATING POLITICS ON TIKTOK",
-      "game": "Just Chatting",
-      "started_at": "2026-03-13T16:32:16Z"
-    },
-    {
       "username": "Zachap",
       "title": "Dialectical-Materialism. marxism. communism. end of alienation. end of liberal hegemony. society somewhat. no war but class war.",
       "game": "Just Chatting",
       "started_at": "2026-03-13T10:01:38Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Science & Technology Q&A for Kids (and others) [Part 165]",
+      "game": "Science & Technology",
+      "started_at": "2026-03-13T19:46:49Z"
     },
     {
       "username": "DrawCuriosity",
@@ -32,10 +32,10 @@
       "started_at": "2026-03-13T19:31:27Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Science & Technology Q&A for Kids (and others) [Part 165]",
-      "game": "Science & Technology",
-      "started_at": "2026-03-13T19:46:49Z"
+      "username": "IrishJohnGames",
+      "title": "🍀 Rise of Piracy - Available Now! Development Stream | !steam !discordROP !streamers !MicroProse",
+      "game": "Software and Game Development",
+      "started_at": "2026-03-13T19:59:19Z"
     },
     {
       "username": "SharkG33k",
@@ -48,12 +48,6 @@
       "title": "Cleaning the Pottery Studio",
       "game": "ASMR",
       "started_at": "2026-03-13T19:32:13Z"
-    },
-    {
-      "username": "IrishJohnGames",
-      "title": "🍀 Rise of Piracy - Available Now! Development Stream | !steam !discordROP !streamers !MicroProse",
-      "game": "Software and Game Development",
-      "started_at": "2026-03-13T19:59:19Z"
     }
   ]
 }
