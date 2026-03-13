@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-13T20:30:06.242Z",
+  "timestamp": "2026-03-13T20:48:50.102Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,16 +38,16 @@
       "started_at": "2026-03-13T19:31:27Z"
     },
     {
-      "username": "SharkG33k",
-      "title": "[18+] Happy Fin Friday! Knocking out some funny video edits.",
-      "game": "Co-working & Studying",
-      "started_at": "2026-03-13T18:16:50Z"
-    },
-    {
       "username": "PotteryDojo",
       "title": "Cleaning the Pottery Studio",
       "game": "ASMR",
       "started_at": "2026-03-13T19:32:13Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "[18+] Happy Fin Friday! Knocking out some funny video edits.",
+      "game": "Co-working & Studying",
+      "started_at": "2026-03-13T18:16:50Z"
     }
   ]
 }
