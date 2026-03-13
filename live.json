@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-13T01:15:02.976Z",
+  "timestamp": "2026-03-13T01:59:07.381Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -15,21 +15,21 @@
     },
     {
       "username": "SciAnts_Streams",
-      "title": "Pokémon Pokopia Science | Together for Women in STEAM ft @raregangster @ 9:30pm EDT | Partner+ 129/300 | !ppp !yt !pod !code",
-      "game": "Pokémon Pokopia",
-      "started_at": "2026-03-12T18:04:02Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "Yet more discussion of Netflix's \"The Dinosaurs\" 🦕💥 Cold symptoms nearly gone 🤧👍🏽 +Thursday BIRDSday (w/ paleontologist Danny Anduza)",
+      "title": "Together for Women in STEAM ft @raregangster | Pokémon Pokopia Science  | Partner+ 129/300 | !ppp !yt !pod !code",
       "game": "Science & Technology",
-      "started_at": "2026-03-12T20:00:32Z"
+      "started_at": "2026-03-12T18:04:02Z"
     },
     {
       "username": "imreallyimportant",
       "title": "IRAN WARNS OF OIL PRICES HITTING $200 | SUSPECT IS KILLED IN ATTACK ON MICHIGAN SYNAGOGUE",
       "game": "Just Chatting",
       "started_at": "2026-03-12T22:01:47Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Moons of Rogue Planets may be inhabitable for 4 billion years?!  PhD Astronomer and former NASA Guy.  #NASA #science #space #stem #nasa",
+      "game": "Science & Technology",
+      "started_at": "2026-03-13T00:59:17Z"
     },
     {
       "username": "SydHeresy",
@@ -44,28 +44,22 @@
       "started_at": "2026-03-12T18:42:22Z"
     },
     {
-      "username": "SharkG33k",
-      "title": "Charity stream for Sharks 4 Kids! Interviewing shark scientist Jillian Morris🦈",
-      "game": "Talk Shows & Podcasts",
-      "started_at": "2026-03-13T00:05:23Z"
-    },
-    {
       "username": "MelissaInDeNile",
       "title": "What are we going to do in Istanbul not Constantinople in Assassin's Creed: Revelations? ~ Follower Goal: 2310/2600 ~ !socials !beyonddenile",
       "game": "Assassin's Creed Revelations",
       "started_at": "2026-03-12T22:50:39Z"
     },
     {
-      "username": "Nerduino",
-      "title": "Moons of Rogue Planets may be inhabitable for 4 billion years?!  PhD Astronomer and former NASA Guy.  #NASA #science #space #stem #nasa",
-      "game": "Science & Technology",
-      "started_at": "2026-03-13T00:59:17Z"
-    },
-    {
       "username": "Mr_Aejis",
       "title": "Ferret Birthday stream: Let's learn about ferrets!",
       "game": "Honkai: Star Rail",
       "started_at": "2026-03-13T00:41:51Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "The business of bushmeat, down and dirty with type 2 diabetes, and ecosystem services provided by woodpeckers.",
+      "game": "IRL",
+      "started_at": "2026-03-13T01:37:18Z"
     }
   ]
 }
