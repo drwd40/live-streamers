@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-13T15:01:43.688Z",
+  "timestamp": "2026-03-13T15:23:04.278Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "VIBE FRIDAY |  INCLUSIVE DESIGN | TEACHING GRIND | NEWS AND CULTURE",
       "game": "Just Chatting",
       "started_at": "2026-03-13T12:56:23Z"
+    },
+    {
+      "username": "TimberAnew",
+      "title": "Painting Day - Lantern man gets a fresh coat",
+      "game": "Art",
+      "started_at": "2026-03-13T15:03:23Z"
     }
   ]
 }
