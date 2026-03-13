@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-12T23:58:29.566Z",
+  "timestamp": "2026-03-13T00:44:35.744Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,6 +14,12 @@
       "started_at": "2026-03-12T16:06:02Z"
     },
     {
+      "username": "SciAnts_Streams",
+      "title": "Pokémon Pokopia Science | Together for Women in STEAM ft @raregangster @ 9:30pm EDT | Partner+ 129/300 | !ppp !yt !pod !code",
+      "game": "Pokémon Pokopia",
+      "started_at": "2026-03-12T18:04:02Z"
+    },
+    {
       "username": "Paleontologizing",
       "title": "Yet more discussion of Netflix's \"The Dinosaurs\" 🦕💥 Cold symptoms nearly gone 🤧👍🏽 +Thursday BIRDSday (w/ paleontologist Danny Anduza)",
       "game": "Science & Technology",
@@ -24,12 +30,6 @@
       "title": "IRAN WARNS OF OIL PRICES HITTING $200 | SUSPECT IS KILLED IN ATTACK ON MICHIGAN SYNAGOGUE",
       "game": "Just Chatting",
       "started_at": "2026-03-12T22:01:47Z"
-    },
-    {
-      "username": "SciAnts_Streams",
-      "title": "Pokémon Pokopia Science | Together for Women in STEAM ft @raregangster @ 9:30pm EDT | Partner+ 129/300 | !ppp !yt !pod !code",
-      "game": "Pokémon Pokopia",
-      "started_at": "2026-03-12T18:04:02Z"
     },
     {
       "username": "DrawCuriosity",
@@ -50,9 +50,15 @@
       "started_at": "2026-03-12T21:00:18Z"
     },
     {
+      "username": "SharkG33k",
+      "title": "Charity stream for Sharks 4 Kids! Interviewing shark scientist Jillian Morris🦈",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2026-03-13T00:05:23Z"
+    },
+    {
       "username": "SophieQuests",
-      "title": "⚔️Definitely just really really good friends⚔️ Join our Historical Gaming Community !discord @sophiequests",
-      "game": "1348: Ex Voto",
+      "title": "Ghost of Yote  Join our Historical Gaming Community !discord @sophiequests",
+      "game": "Ghost of Yōtei",
       "started_at": "2026-03-12T22:29:01Z"
     },
     {
@@ -66,6 +72,12 @@
       "title": "TTRPG Prep, Night 002: Backstory and Prologue of TitansGrave: The Ashes of Valkana!",
       "game": "Tabletop RPGs",
       "started_at": "2026-03-12T22:26:48Z"
+    },
+    {
+      "username": "Mr_Aejis",
+      "title": "Ferret Birthday stream: Let's learn about ferrets!",
+      "game": "Honkai: Star Rail",
+      "started_at": "2026-03-13T00:41:51Z"
     }
   ]
 }
