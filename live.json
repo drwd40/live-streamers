@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-14T22:09:57.553Z",
+  "timestamp": "2026-03-14T22:22:05.427Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-03-14T10:01:42Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Soldering And Straight Chillin' - Electronics - DIY",
-      "game": "Science & Technology",
-      "started_at": "2026-03-14T19:10:31Z"
-    },
-    {
       "username": "AstroCanuck",
       "title": "Telescope Tinkering: New focuser for the deep sky scope | !PGV !texas !build | !drop !tkf",
       "game": "Science & Technology",
       "started_at": "2026-03-14T22:02:47Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Soldering And Straight Chillin' - Electronics - DIY",
+      "game": "Science & Technology",
+      "started_at": "2026-03-14T19:10:31Z"
     }
   ]
 }
