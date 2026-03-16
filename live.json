@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-03-16T00:04:30.090Z",
+  "timestamp": "2026-03-16T00:56:34.722Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
-      "game": "Animals, Aquariums, and Zoos",
+      "title": "Projects w/ Connor | !alveus !institute !pixel !schedule !video !feed",
+      "game": "Just Chatting",
       "started_at": "2026-03-15T14:32:25Z"
-    },
-    {
-      "username": "JapanesePrintmaking",
-      "title": "Making Japanese woodblock prints ... live while you watch ...",
-      "game": "Makers & Crafting",
-      "started_at": "2026-03-15T22:59:51Z"
     },
     {
       "username": "imreallyimportant",
@@ -26,16 +20,16 @@
       "started_at": "2026-03-15T22:03:10Z"
     },
     {
-      "username": "DrAlexanderClarke",
-      "title": "Bruships 236: Naval History Questions Answered Live...",
-      "game": "Just Chatting",
-      "started_at": "2026-03-15T19:31:45Z"
-    },
-    {
       "username": "nogre0",
       "title": "on the mend. brain is still somewhere.",
       "game": "Just Chatting",
       "started_at": "2026-03-16T00:00:12Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Sunday Night Space Science Chat.    PhD Astronomer and former NASA Guy.  #NASA #science #space #stem #nasa",
+      "game": "Science & Technology",
+      "started_at": "2026-03-16T00:49:14Z"
     }
   ]
 }
