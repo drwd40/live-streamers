@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-16T22:11:38.816Z",
+  "timestamp": "2026-03-16T22:25:05.959Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -48,6 +48,12 @@
       "title": "Gamers IN: Date Everything | Next: BG3 Run   7pm a lil DayZ",
       "game": "Date Everything!",
       "started_at": "2026-03-16T21:09:20Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "20260316 - Math Communication Monday!",
+      "game": "Math",
+      "started_at": "2026-03-16T22:22:29Z"
     }
   ]
 }
