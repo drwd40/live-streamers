@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-16T22:42:31.380Z",
+  "timestamp": "2026-03-16T22:55:47.120Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-03-16T16:18:34Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "🦖💬❔ DINOSAUR Q&A 🦕💬✔ Let's talk about fossil science and why you should care about it (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-03-16T20:06:01Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "ONE DAY LEFT! 😮 Skeleseller launches TOMORROW  👀 (day 323½)",
       "game": "Software and Game Development",
       "started_at": "2026-03-16T20:01:49Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "🦖💬❔ DINOSAUR Q&A 🦕💬✔ Let's talk about fossil science and why you should care about it (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-03-16T20:06:01Z"
     },
     {
       "username": "imreallyimportant",
