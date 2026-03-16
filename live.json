@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-16T18:03:52.440Z",
+  "timestamp": "2026-03-16T18:30:42.559Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -9,8 +9,8 @@
     },
     {
       "username": "EJ_SA",
-      "title": "NSF Challenge! Earth Orbit Rendezvous for Lunar Landing! (Part 1)",
-      "game": "Kerbal Space Program",
+      "title": "EJ's Space and Tank Watching Revue! 3/16/26",
+      "game": "Science & Technology",
       "started_at": "2026-03-16T16:18:34Z"
     },
     {
@@ -36,6 +36,12 @@
       "title": "Walking in Mercy Dreams",
       "game": "Blasphemous",
       "started_at": "2026-03-16T15:02:22Z"
+    },
+    {
+      "username": "CosmoQuestX",
+      "title": "Astronomy Cast: How stars die",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2026-03-16T18:05:19Z"
     }
   ]
 }
