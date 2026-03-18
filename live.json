@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-18T20:56:07.467Z",
+  "timestamp": "2026-03-18T21:11:47.501Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "Getting chilly on Namalsk",
       "game": "DayZ",
       "started_at": "2026-03-18T20:06:56Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "Tackling some more math contest questions [!fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-03-18T21:04:27Z"
     }
   ]
 }
