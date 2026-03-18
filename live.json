@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-18T22:24:55.091Z",
+  "timestamp": "2026-03-18T22:41:09.281Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,28 +32,22 @@
       "started_at": "2026-03-18T20:05:01Z"
     },
     {
-      "username": "GeoJim2006",
-      "title": "It's Spring Break - Chill Work Stream ⛰️⛏️🪨🔬 !discord !nova !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-03-18T18:55:09Z"
-    },
-    {
       "username": "DonFactorial",
       "title": "Getting chilly on Namalsk",
       "game": "DayZ",
       "started_at": "2026-03-18T20:06:56Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "Cracking the GRE Math Subject Test, Night 035: More Calc 2 Review & Other Requests",
-      "game": "Math",
-      "started_at": "2026-03-18T21:32:54Z"
-    },
-    {
       "username": "pencenter",
       "title": "Tackling some more math contest questions [!fish🎣|!commands💻]",
       "game": "Math",
       "started_at": "2026-03-18T21:04:27Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Cracking the GRE Math Subject Test, Night 035: More Calc 2 Review & Other Requests",
+      "game": "Math",
+      "started_at": "2026-03-18T21:32:54Z"
     }
   ]
 }
