@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-19T20:36:06.246Z",
+  "timestamp": "2026-03-19T20:54:42.719Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,22 +26,16 @@
       "started_at": "2026-03-19T10:01:33Z"
     },
     {
-      "username": "DrMick",
-      "title": "Mental Health Chat + Painting 40k",
-      "game": "Miniatures & Models",
-      "started_at": "2026-03-19T18:20:33Z"
-    },
-    {
-      "username": "oh_bother",
-      "title": "Keypads and Muxes, turning a drum pad into am Arduino CANbus accessory!",
-      "game": "Just Chatting",
-      "started_at": "2026-03-19T16:24:59Z"
-    },
-    {
       "username": "Rocketology",
       "title": "Fresh Start - Organic Playthrough",
       "game": "Starfield",
       "started_at": "2026-03-19T17:42:17Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and working on the ol github (to the soothing sounds of construction in the background)",
+      "game": "Math",
+      "started_at": "2026-03-19T20:27:21Z"
     },
     {
       "username": "GeoJim2006",
@@ -54,12 +48,6 @@
       "title": "Interwar mutinies of the Royal Navy...(Patreon Live)",
       "game": "Just Chatting",
       "started_at": "2026-03-19T19:58:07Z"
-    },
-    {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and working on the ol github (to the soothing sounds of construction in the background)",
-      "game": "Math",
-      "started_at": "2026-03-19T20:27:21Z"
     }
   ]
 }
