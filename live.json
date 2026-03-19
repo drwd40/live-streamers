@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-19T20:19:44.252Z",
+  "timestamp": "2026-03-19T20:36:06.246Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -54,6 +54,12 @@
       "title": "Interwar mutinies of the Royal Navy...(Patreon Live)",
       "game": "Just Chatting",
       "started_at": "2026-03-19T19:58:07Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and working on the ol github (to the soothing sounds of construction in the background)",
+      "game": "Math",
+      "started_at": "2026-03-19T20:27:21Z"
     }
   ]
 }
