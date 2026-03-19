@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-19T21:37:54.146Z",
+  "timestamp": "2026-03-19T21:51:04.422Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -50,16 +50,16 @@
       "started_at": "2026-03-19T19:58:07Z"
     },
     {
-      "username": "SETIInstitute",
-      "title": "The Science of SETI: Inside the First Modern Textbook",
-      "game": "Talk Shows & Podcasts",
-      "started_at": "2026-03-19T21:30:47Z"
-    },
-    {
       "username": "AndrewHolding",
       "title": "[UK/USA] Stream for progress! Science co-stream, Raising Money for Cancer Research UK (!donate) and donation induced chaos",
       "game": "The Witcher 3: Wild Hunt",
       "started_at": "2026-03-19T21:23:32Z"
+    },
+    {
+      "username": "SETIInstitute",
+      "title": "The Science of SETI: Inside the First Modern Textbook",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2026-03-19T21:30:47Z"
     }
   ]
 }
