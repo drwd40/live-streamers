@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-19T20:54:42.719Z",
+  "timestamp": "2026-03-19T21:07:10.986Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,16 @@
       "started_at": "2026-03-19T17:42:17Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and working on the ol github (to the soothing sounds of construction in the background)",
-      "game": "Math",
-      "started_at": "2026-03-19T20:27:21Z"
-    },
-    {
       "username": "GeoJim2006",
       "title": "Spring Break Rocks - Cataloging the College Collections ⛰️⛏️🪨🔬 !discord !nova !tkf",
       "game": "Science & Technology",
       "started_at": "2026-03-19T19:30:05Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and working on the ol github (to the soothing sounds of construction in the background)",
+      "game": "Math",
+      "started_at": "2026-03-19T20:27:21Z"
     },
     {
       "username": "DrAlexanderClarke",
