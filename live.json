@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-19T21:07:10.986Z",
+  "timestamp": "2026-03-19T21:21:22.632Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-03-19T10:01:33Z"
     },
     {
-      "username": "Rocketology",
-      "title": "Fresh Start - Organic Playthrough",
-      "game": "Starfield",
-      "started_at": "2026-03-19T17:42:17Z"
-    },
-    {
       "username": "GeoJim2006",
       "title": "Spring Break Rocks - Cataloging the College Collections ⛰️⛏️🪨🔬 !discord !nova !tkf",
       "game": "Science & Technology",
       "started_at": "2026-03-19T19:30:05Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "Fresh Start - Organic Playthrough",
+      "game": "Starfield",
+      "started_at": "2026-03-19T17:42:17Z"
     },
     {
       "username": "DonFactorial",
