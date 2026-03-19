@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-19T19:15:49.705Z",
+  "timestamp": "2026-03-19T19:36:26.469Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,12 +26,6 @@
       "started_at": "2026-03-19T18:08:43Z"
     },
     {
-      "username": "Zachap",
-      "title": "have you watered your plants? have you learnt how to play? have you started being curious?",
-      "game": "Just Chatting",
-      "started_at": "2026-03-19T10:01:33Z"
-    },
-    {
       "username": "DrMick",
       "title": "Mental Health Chat + Painting 40k",
       "game": "Miniatures & Models",
@@ -44,10 +38,22 @@
       "started_at": "2026-03-19T16:24:59Z"
     },
     {
+      "username": "Zachap",
+      "title": "have you watered your plants? have you learnt how to play? have you started being curious?",
+      "game": "Just Chatting",
+      "started_at": "2026-03-19T10:01:33Z"
+    },
+    {
       "username": "Rocketology",
       "title": "Fresh Start - Organic Playthrough",
       "game": "Starfield",
       "started_at": "2026-03-19T17:42:17Z"
+    },
+    {
+      "username": "GeoJim2006",
+      "title": "Spring Break Rocks - Cataloging the College Collections ⛰️⛏️🪨🔬 !discord !nova !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-03-19T19:30:05Z"
     }
   ]
 }
