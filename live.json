@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-19T12:45:27.420Z",
+  "timestamp": "2026-03-19T13:13:56.297Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "have you watered your plants? have you learnt how to play? have you started being curious?",
       "game": "Just Chatting",
       "started_at": "2026-03-19T10:01:33Z"
+    },
+    {
+      "username": "csharpfritz",
+      "title": "Aspireify'ing with a Squad",
+      "game": "Software and Game Development",
+      "started_at": "2026-03-19T13:10:08Z"
     }
   ]
 }
