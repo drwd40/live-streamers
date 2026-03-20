@@ -1,11 +1,17 @@
 {
-  "timestamp": "2026-03-20T20:47:09.130Z",
+  "timestamp": "2026-03-20T20:59:33.362Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-03-19T14:32:32Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "We're back at 39B, and this time to stay (till launch) - The Flame Trench 3/20/26",
+      "game": "Science & Technology",
+      "started_at": "2026-03-20T20:53:57Z"
     },
     {
       "username": "VolcanoDoc",
@@ -32,16 +38,16 @@
       "started_at": "2026-03-20T18:11:09Z"
     },
     {
-      "username": "GeoJim2006",
-      "title": "Spring Break May Be Ending but We Rock On! ⛰️⛏️🪨🔬 !discord !nova !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-03-20T19:53:55Z"
-    },
-    {
       "username": "SharkG33k",
       "title": "[18+] Peak with friends!🧗",
       "game": "Thalassophobia",
       "started_at": "2026-03-20T18:12:06Z"
+    },
+    {
+      "username": "GeoJim2006",
+      "title": "Spring Break May Be Ending but We Rock On! ⛰️⛏️🪨🔬 !discord !nova !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-03-20T19:53:55Z"
     }
   ]
 }
