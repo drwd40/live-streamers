@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-20T19:39:41.871Z",
+  "timestamp": "2026-03-20T19:52:37.949Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,12 +20,6 @@
       "started_at": "2026-03-20T10:01:10Z"
     },
     {
-      "username": "oh_bother",
-      "title": "Breaking into a car, then reprogramming a drum pad. I'm a menace.",
-      "game": "Just Chatting",
-      "started_at": "2026-03-20T16:06:25Z"
-    },
-    {
       "username": "VolcanoDoc",
       "title": "enjoying a leisurely last day of Spring Break | !phd !tkf !socials !pubs",
       "game": "Science & Technology",
@@ -39,9 +33,15 @@
     },
     {
       "username": "SharkG33k",
-      "title": "[18+] Thalassophobia with friends!🦈",
+      "title": "[18+] Peak with friends!🧗",
       "game": "Thalassophobia",
       "started_at": "2026-03-20T18:12:06Z"
+    },
+    {
+      "username": "DrawCuriosity",
+      "title": "💕Science + Pokopia! Happy Friday! ✨🐑 !dailybug !merch !tangia",
+      "game": "Science & Technology",
+      "started_at": "2026-03-20T19:48:12Z"
     }
   ]
 }
