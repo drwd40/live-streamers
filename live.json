@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-20T19:52:37.949Z",
+  "timestamp": "2026-03-20T20:01:53.499Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -9,15 +9,21 @@
     },
     {
       "username": "ipaintbirbs",
-      "title": "spring sounds / painting birbs",
+      "title": "spring sounds / painting an American Kestrel",
       "game": "Art",
       "started_at": "2026-03-20T16:07:58Z"
     },
     {
       "username": "Zachap",
-      "title": "since March 2019 this stream has been dedicated purely to education, leaning towards care for others. It's still dedicated to that. sorry :)",
+      "title": "Information Environment",
       "game": "Just Chatting",
       "started_at": "2026-03-20T10:01:10Z"
+    },
+    {
+      "username": "DrawCuriosity",
+      "title": "💕Science + Pokopia! Happy Friday! ✨🐑 !dailybug !merch !tangia",
+      "game": "Science & Technology",
+      "started_at": "2026-03-20T19:48:12Z"
     },
     {
       "username": "VolcanoDoc",
@@ -38,10 +44,10 @@
       "started_at": "2026-03-20T18:12:06Z"
     },
     {
-      "username": "DrawCuriosity",
-      "title": "💕Science + Pokopia! Happy Friday! ✨🐑 !dailybug !merch !tangia",
+      "username": "GeoJim2006",
+      "title": "Spring Break May Be Ending but We Rock On! ⛰️⛏️🪨🔬 !discord !nova !tkf",
       "game": "Science & Technology",
-      "started_at": "2026-03-20T19:48:12Z"
+      "started_at": "2026-03-20T19:53:55Z"
     }
   ]
 }
