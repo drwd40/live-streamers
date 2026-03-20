@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-20T14:46:47.735Z",
+  "timestamp": "2026-03-20T15:06:32.715Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "since March 2019 this stream has been dedicated purely to education, leaning towards care for others. It's still dedicated to that. sorry :)",
       "game": "Just Chatting",
       "started_at": "2026-03-20T10:01:10Z"
+    },
+    {
+      "username": "TimberAnew",
+      "title": "Animating Time",
+      "game": "Art",
+      "started_at": "2026-03-20T15:02:33Z"
     }
   ]
 }
