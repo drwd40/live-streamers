@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-21T00:01:27.779Z",
+  "timestamp": "2026-03-21T00:46:06.823Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,15 +8,9 @@
       "started_at": "2026-03-19T14:32:32Z"
     },
     {
-      "username": "JapanesePrintmaking",
-      "title": "Making Japanese woodblock prints ... live while you watch ...",
-      "game": "Makers & Crafting",
-      "started_at": "2026-03-20T22:59:58Z"
-    },
-    {
       "username": "EJ_SA",
-      "title": "We're back at 39B, and this time to stay (till launch) - The Flame Trench 3/20/26",
-      "game": "Science & Technology",
+      "title": "BATTLEFIELD 6 WITH NSF CREW! 3/20/26",
+      "game": "Battlefield 6",
       "started_at": "2026-03-20T20:53:57Z"
     },
     {
@@ -26,10 +20,10 @@
       "started_at": "2026-03-20T22:07:57Z"
     },
     {
-      "username": "IrishJohnGames",
-      "title": "🍀 Rise of Piracy Dev !GamesFromIreland | !steam !discordROP !streamers !MicroProse",
-      "game": "Software and Game Development",
-      "started_at": "2026-03-20T20:33:37Z"
+      "username": "AstroCanuck",
+      "title": "Week's End Catch-up: Artemis, LEGO BDP, FRIDAY, COFFEE! | !PGV !texas !build | !drop !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-03-21T00:00:37Z"
     },
     {
       "username": "DrawCuriosity",
@@ -44,16 +38,10 @@
       "started_at": "2026-03-20T22:01:30Z"
     },
     {
-      "username": "AstroCanuck",
-      "title": "Week's End Catch-up: Artemis, LEGO BDP, FRIDAY, COFFEE! | !PGV !texas !build | !drop !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-03-21T00:00:37Z"
-    },
-    {
-      "username": "nSimplexPachinko",
-      "title": "Baldur's Gate 3, Night 005: Back to the Emerald Grove!",
-      "game": "Baldur's Gate 3",
-      "started_at": "2026-03-20T22:39:56Z"
+      "username": "DonFactorial",
+      "title": "Phasmophobia Phriday with the OG crew! @jedlevi @hard_locked @call_sign_astro",
+      "game": "Phasmophobia",
+      "started_at": "2026-03-21T00:01:19Z"
     }
   ]
 }
