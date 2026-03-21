@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-21T00:46:06.823Z",
+  "timestamp": "2026-03-21T01:16:46.425Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,22 +26,28 @@
       "started_at": "2026-03-21T00:00:37Z"
     },
     {
+      "username": "SciAnts_Streams",
+      "title": "SciAnts News | New species,  color change, clonal fish, geckos, bees, ants and more! | Partner+ 220/300 | !ppp !yt !pod !code",
+      "game": "Science & Technology",
+      "started_at": "2026-03-21T01:06:58Z"
+    },
+    {
       "username": "DrawCuriosity",
       "title": "💕Science + Pokopia! Happy Friday! ✨🐑 !dailybug !merch !tangia",
       "game": "Pokémon Pokopia",
       "started_at": "2026-03-20T19:48:12Z"
     },
     {
-      "username": "shnaff",
-      "title": "Guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-03-20T22:01:30Z"
-    },
-    {
       "username": "DonFactorial",
       "title": "Phasmophobia Phriday with the OG crew! @jedlevi @hard_locked @call_sign_astro",
       "game": "Phasmophobia",
       "started_at": "2026-03-21T00:01:19Z"
+    },
+    {
+      "username": "Mr_Aejis",
+      "title": "Teacher Plays: PERSONA 5 - 1st time playthrough",
+      "game": "Persona 5",
+      "started_at": "2026-03-21T00:51:19Z"
     }
   ]
 }
