@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-21T21:59:52.012Z",
+  "timestamp": "2026-03-21T22:09:49.464Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "It's not Livonia it's Livoniaaahh, with @autistixlive and @senimj",
       "game": "DayZ",
       "started_at": "2026-03-21T18:46:41Z"
+    },
+    {
+      "username": "AstroCanuck",
+      "title": "Astronomy Chat - Space news & more! | !PGV !texas !build | !drop !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-03-21T22:03:41Z"
     }
   ]
 }
