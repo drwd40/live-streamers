@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-22T21:32:18.253Z",
+  "timestamp": "2026-03-22T21:44:10.954Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-03-22T19:07:41Z"
     },
     {
-      "username": "DrAlexanderClarke",
-      "title": "Bruships 237: Modern Navy & Naval History Questions Answered Live...",
-      "game": "Just Chatting",
-      "started_at": "2026-03-22T19:30:14Z"
-    },
-    {
       "username": "VolcanoDoc",
       "title": "petrology & (not quite) pinot noir |🌋 Science Sunday | !phd !tkf !socials !pubs",
       "game": "Science & Technology",
       "started_at": "2026-03-22T21:30:09Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "Bruships 237: Modern Navy & Naval History Questions Answered Live...",
+      "game": "Just Chatting",
+      "started_at": "2026-03-22T19:30:14Z"
     }
   ]
 }
