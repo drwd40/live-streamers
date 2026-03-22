@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-22T22:50:14.913Z",
+  "timestamp": "2026-03-22T22:59:26.006Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,6 +38,12 @@
       "started_at": "2026-03-22T19:07:41Z"
     },
     {
+      "username": "LumiRue",
+      "title": "Gamers IN: 130 hours Zombie SLAYER, Garden Grower here :)",
+      "game": "DayZ",
+      "started_at": "2026-03-22T22:55:37Z"
+    },
+    {
       "username": "DrAlexanderClarke",
       "title": "Bruships 237: Modern Navy & Naval History Questions Answered Live...",
       "game": "Just Chatting",
@@ -48,6 +54,12 @@
       "title": "Hockey Sunday Funday - OG Hockey on the PS3 🏒🥅 !discord !nova !tkf",
       "game": "NHL 14",
       "started_at": "2026-03-22T22:48:52Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-03-22T22:58:51Z"
     }
   ]
 }
