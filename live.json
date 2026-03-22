@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-22T23:25:33.528Z",
+  "timestamp": "2026-03-22T23:40:04.866Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -44,16 +44,16 @@
       "started_at": "2026-03-22T22:05:46Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
-      "game": "Just Chatting",
-      "started_at": "2026-03-22T22:58:51Z"
-    },
-    {
       "username": "DrAlexanderClarke",
       "title": "Bruships 237: Modern Navy & Naval History Questions Answered Live...",
       "game": "Just Chatting",
       "started_at": "2026-03-22T19:30:14Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-03-22T22:58:51Z"
     },
     {
       "username": "GeoJim2006",
