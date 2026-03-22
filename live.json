@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-22T14:47:32.512Z",
+  "timestamp": "2026-03-22T14:57:33.684Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "What's Sunday without a little viking & chat?",
       "game": "Northgard",
       "started_at": "2026-03-22T14:26:43Z"
+    },
+    {
+      "username": "sciencestreams",
+      "title": "DNA in Asteroids | Sponges and Microplastics | Graphene Foam | Science NEWS! | Pond water microscopy! 🧪🌿",
+      "game": "Just Chatting",
+      "started_at": "2026-03-22T14:55:01Z"
     }
   ]
 }
