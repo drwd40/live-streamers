@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-23T18:18:14.330Z",
+  "timestamp": "2026-03-23T18:36:03.337Z",
   "live": [
     {
       "username": "Maya",
@@ -42,12 +42,6 @@
       "title": "Astronomy Cast",
       "game": "Talk Shows & Podcasts",
       "started_at": "2026-03-23T17:59:21Z"
-    },
-    {
-      "username": "TimberAnew",
-      "title": "Carving a Boar from tree meat",
-      "game": "Art",
-      "started_at": "2026-03-23T15:03:13Z"
     }
   ]
 }
