@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-23T21:52:49.589Z",
+  "timestamp": "2026-03-23T22:02:48.594Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-03-23T15:24:58Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "❔🦖💬 DINOSAUR Q&A 🦕💬✔ Let's talk about the history of life on Earth (w/ likely emphasis on dinosaurs) 💊 Recovering from ear infection 💊",
-      "game": "Science & Technology",
-      "started_at": "2026-03-23T20:04:49Z"
-    },
-    {
       "username": "EJ_SA",
       "title": "EJ's Space and Rocket Revue! 3/23/26",
       "game": "Science & Technology",
       "started_at": "2026-03-23T21:41:28Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "❔🦖💬 DINOSAUR Q&A 🦕💬✔ Let's talk about the history of life on Earth (w/ likely emphasis on dinosaurs) 💊 Recovering from ear infection 💊",
+      "game": "Science & Technology",
+      "started_at": "2026-03-23T20:04:49Z"
     },
     {
       "username": "AdamLearnsLive",
@@ -36,6 +36,12 @@
       "title": "💕Do I remember any Chinese at all? + Pokopia - gotta unlock more abilities!!! ✨🐑 !dailybug !merch !tangia",
       "game": "Science & Technology",
       "started_at": "2026-03-23T19:44:50Z"
+    },
+    {
+      "username": "imreallyimportant",
+      "title": "TRUMP BACKS OFF HIS 48-HOUR DEADLINE (SHOCKER) - PUSHES IT UNTIL FRIDAY | LIB & LEAR @ 7 PM EST",
+      "game": "Just Chatting",
+      "started_at": "2026-03-23T22:00:38Z"
     }
   ]
 }
