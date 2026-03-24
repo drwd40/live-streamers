@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-23T23:57:48.395Z",
+  "timestamp": "2026-03-24T00:34:35.524Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,22 +8,16 @@
       "started_at": "2026-03-23T15:24:58Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "EJ's Space and Rocket Revue! 3/23/26",
-      "game": "Science & Technology",
-      "started_at": "2026-03-23T21:41:28Z"
+      "username": "imreallyimportant",
+      "title": "TRUMP BACKS OFF HIS 48-HOUR DEADLINE (SHOCKER) - PUSHES IT UNTIL FRIDAY | LIB & LEAR @ 7 PM EST",
+      "game": "Just Chatting",
+      "started_at": "2026-03-23T22:00:38Z"
     },
     {
       "username": "Paleontologizing",
       "title": "❔🦖💬 DINOSAUR Q&A 🦕💬✔ Let's talk about the history of life on Earth (w/ likely emphasis on dinosaurs) 💊 Recovering from ear infection 💊",
       "game": "Science & Technology",
       "started_at": "2026-03-23T20:04:49Z"
-    },
-    {
-      "username": "imreallyimportant",
-      "title": "TRUMP BACKS OFF HIS 48-HOUR DEADLINE (SHOCKER) - PUSHES IT UNTIL FRIDAY | LIB & LEAR @ 7 PM EST",
-      "game": "Just Chatting",
-      "started_at": "2026-03-23T22:00:38Z"
     },
     {
       "username": "Zachap",
@@ -42,6 +36,18 @@
       "title": "Playing some Namalsk, you know the drill",
       "game": "DayZ",
       "started_at": "2026-03-23T22:15:20Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-03-24T00:01:15Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Paper computers at ACM, my newest toy.",
+      "game": "IRL",
+      "started_at": "2026-03-24T00:31:04Z"
     }
   ]
 }
