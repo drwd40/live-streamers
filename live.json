@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-03-24T20:00:04.004Z",
+  "timestamp": "2026-03-24T20:20:25.622Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Painting with Gidget | !alveus !institute !pixel !schedule !video !feed",
       "game": "Just Chatting",
       "started_at": "2026-03-23T15:24:58Z"
-    },
-    {
-      "username": "EJ_SA",
-      "title": "EJ's \"Ignition: NASA's Plan for The Moon\" Coverage!",
-      "game": "Science & Technology",
-      "started_at": "2026-03-24T13:00:17Z"
     },
     {
       "username": "AdamLearnsLive",
@@ -36,6 +30,12 @@
       "title": "Geologizing from the NOVA geology lab 🌋⚒️🪨🔎🔬 !discord !nova !tkf",
       "game": "Science & Technology",
       "started_at": "2026-03-24T19:47:07Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "🐢 TURTLE TUESDAY 🐢 Discussing the biology, evolution, & conservation of LEATHERBACK TURTLES +more 💊 Still fighting off ear infection 🤒",
+      "game": "Science & Technology",
+      "started_at": "2026-03-24T20:17:10Z"
     }
   ]
 }
