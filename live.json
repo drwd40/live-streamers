@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-24T20:56:42.041Z",
+  "timestamp": "2026-03-24T21:13:20.470Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-03-24T20:44:55Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Paying [tech] debt",
-      "game": "Software and Game Development",
-      "started_at": "2026-03-24T18:59:45Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "🐢 TURTLE TUESDAY 🐢 Discussing the biology, evolution, & conservation of LEATHERBACK TURTLES +more 💊 Still fighting off ear infection 🤒",
       "game": "Science & Technology",
       "started_at": "2026-03-24T20:31:30Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Paying [tech] debt",
+      "game": "Software and Game Development",
+      "started_at": "2026-03-24T18:59:45Z"
     },
     {
       "username": "Zachap",
