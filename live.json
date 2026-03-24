@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-24T20:37:32.478Z",
+  "timestamp": "2026-03-24T20:56:42.041Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-03-23T15:24:58Z"
     },
     {
+      "username": "EJ_SA",
+      "title": "EJ's \"NASA: IGNITION Press Conference!\" Coverage!",
+      "game": "Science & Technology",
+      "started_at": "2026-03-24T20:44:55Z"
+    },
+    {
       "username": "AdamLearnsLive",
       "title": "Paying [tech] debt",
       "game": "Software and Game Development",
       "started_at": "2026-03-24T18:59:45Z"
-    },
-    {
-      "username": "Zachap",
-      "title": "wealthy people are morally broke",
-      "game": "Just Chatting",
-      "started_at": "2026-03-24T10:01:24Z"
     },
     {
       "username": "Paleontologizing",
@@ -26,9 +26,15 @@
       "started_at": "2026-03-24T20:31:30Z"
     },
     {
+      "username": "Zachap",
+      "title": "wealthy people are morally broke",
+      "game": "Just Chatting",
+      "started_at": "2026-03-24T10:01:24Z"
+    },
+    {
       "username": "SydHeresy",
       "title": "Making Synths And Fixing Stuff - Electronics - DIY",
-      "game": "Just Chatting",
+      "game": "Science & Technology",
       "started_at": "2026-03-24T19:30:04Z"
     },
     {
