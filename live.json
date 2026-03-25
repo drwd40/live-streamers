@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-25T23:05:56.233Z",
+  "timestamp": "2026-03-25T23:20:07.760Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-03-25T16:05:57Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "🌊 MANATEE APPRECIATION DAY 🌊 Appreciatin' sea cows: their biology, evolution, and conservation (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-03-25T20:07:52Z"
-    },
-    {
       "username": "JapanesePrintmaking",
       "title": "Making Japanese woodblock prints ... live while you watch ...",
       "game": "Makers & Crafting",
       "started_at": "2026-03-25T23:00:05Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "🌊 MANATEE APPRECIATION DAY 🌊 Appreciatin' sea cows: their biology, evolution, and conservation (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-03-25T20:07:52Z"
     },
     {
       "username": "imreallyimportant",
