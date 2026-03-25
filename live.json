@@ -1,17 +1,29 @@
 {
-  "timestamp": "2026-03-25T15:05:22.120Z",
+  "timestamp": "2026-03-25T15:36:09.116Z",
   "live": [
+    {
+      "username": "Maya",
+      "title": "NEW ANIMAL RESCUE🚨BUILDING AN ENCLOSURE IN A DAY🚨",
+      "game": "Just Chatting",
+      "started_at": "2026-03-25T15:32:54Z"
+    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
       "game": "Animals, Aquariums, and Zoos",
-      "started_at": "2026-03-23T15:24:58Z"
+      "started_at": "2026-03-25T15:27:02Z"
     },
     {
       "username": "Zachap",
       "title": "let's team up and learn together :)",
       "game": "Just Chatting",
       "started_at": "2026-03-25T10:01:25Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Tooling, workflow improvements, and probably other stuff (◕‿◕✿)",
+      "game": "Software and Game Development",
+      "started_at": "2026-03-25T15:31:27Z"
     },
     {
       "username": "TimberAnew",
