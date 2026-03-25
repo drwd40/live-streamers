@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-24T23:56:32.241Z",
+  "timestamp": "2026-03-25T00:24:34.014Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-03-24T20:31:30Z"
     },
     {
-      "username": "shnaff",
-      "title": "Guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-03-24T22:02:31Z"
-    },
-    {
       "username": "Zachap",
       "title": "wealthy people are morally broke",
       "game": "Just Chatting",
       "started_at": "2026-03-24T10:01:24Z"
+    },
+    {
+      "username": "shnaff",
+      "title": "Guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-03-24T22:02:31Z"
     },
     {
       "username": "SydHeresy",
@@ -42,6 +42,12 @@
       "title": "LETS BUILD A PYRAMID in Egypt Frontiers!!! ~ Follower Goal: 2319/2600 ~ !socials !beyonddenile",
       "game": "Egypt Frontiers",
       "started_at": "2026-03-24T22:49:27Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "It's TOOTHday! Lets talk sharks 🦈",
+      "game": "Science & Technology",
+      "started_at": "2026-03-25T00:08:15Z"
     }
   ]
 }
