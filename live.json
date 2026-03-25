@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-25T00:24:34.014Z",
+  "timestamp": "2026-03-25T00:54:31.328Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,12 +26,6 @@
       "started_at": "2026-03-24T10:01:24Z"
     },
     {
-      "username": "shnaff",
-      "title": "Guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-03-24T22:02:31Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Making Synths And Fixing Stuff - Electronics - DIY",
       "game": "Science & Technology",
@@ -44,10 +38,22 @@
       "started_at": "2026-03-24T22:49:27Z"
     },
     {
+      "username": "Mr_Aejis",
+      "title": "Teacher Plays: PERSONA 5 - 1st time playthrough",
+      "game": "Persona 5",
+      "started_at": "2026-03-25T00:30:47Z"
+    },
+    {
       "username": "SharkG33k",
       "title": "It's TOOTHday! Lets talk sharks 🦈",
       "game": "Science & Technology",
       "started_at": "2026-03-25T00:08:15Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "NASA's trying to catch falling space telescope!  Astronomer and former NASA Guy.   #NASA #science #space #stem #nasa",
+      "game": "Science & Technology",
+      "started_at": "2026-03-25T00:48:34Z"
     }
   ]
 }
