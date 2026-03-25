@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-25T20:22:08.834Z",
+  "timestamp": "2026-03-25T20:39:26.532Z",
   "live": [
     {
       "username": "Maya",
@@ -26,16 +26,16 @@
       "started_at": "2026-03-25T20:07:52Z"
     },
     {
-      "username": "DrawCuriosity",
-      "title": "💕Science: Male friendships + the \"future\" of AI + more Pokopia!!! ✨🐑 !dailybug !merch !tangia",
-      "game": "Science & Technology",
-      "started_at": "2026-03-25T20:01:19Z"
-    },
-    {
       "username": "IrishJohnGames",
       "title": "🍀 Game dev - Rise of Piracy | !GamesFromIreland !steam !discordROP !streamers !MicroProse",
       "game": "Software and Game Development",
       "started_at": "2026-03-25T19:59:44Z"
+    },
+    {
+      "username": "DrawCuriosity",
+      "title": "💕Science: Male friendships + the \"future\" of AI + more Pokopia!!! ✨🐑 !dailybug !merch !tangia",
+      "game": "Science & Technology",
+      "started_at": "2026-03-25T20:01:19Z"
     },
     {
       "username": "SharkG33k",
@@ -48,6 +48,12 @@
       "title": "Differential Equations FTW: Book Writing, Slide Making and General Yappery",
       "game": "Math",
       "started_at": "2026-03-25T17:55:26Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "Chatting DES and SHA today [!fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-03-25T20:25:06Z"
     }
   ]
 }
