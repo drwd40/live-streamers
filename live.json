@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-25T18:12:08.488Z",
+  "timestamp": "2026-03-25T18:33:14.461Z",
   "live": [
     {
       "username": "Maya",
@@ -38,10 +38,10 @@
       "started_at": "2026-03-25T16:01:42Z"
     },
     {
-      "username": "DrWD40",
-      "title": "Live Backyard Beekeeping | Are My Bees Drawing Comb Yet? | Space Coast, FL",
-      "game": "IRL",
-      "started_at": "2026-03-25T16:57:25Z"
+      "username": "SharkG33k",
+      "title": "Water Wednesday - early edition! | Checking out new shark drone footage. 🦈",
+      "game": "Science & Technology",
+      "started_at": "2026-03-25T18:01:20Z"
     },
     {
       "username": "Zachap",
@@ -54,18 +54,6 @@
       "title": "Differential Equations FTW: Book Writing, Slide Making and General Yappery",
       "game": "Math",
       "started_at": "2026-03-25T17:55:26Z"
-    },
-    {
-      "username": "TimberAnew",
-      "title": "Walking to a boss and beating it maybe",
-      "game": "Blasphemous",
-      "started_at": "2026-03-25T15:01:52Z"
-    },
-    {
-      "username": "SharkG33k",
-      "title": "Water Wednesday - early edition! | Checking out new shark drone footage. 🦈",
-      "game": "Science & Technology",
-      "started_at": "2026-03-25T18:01:20Z"
     }
   ]
 }
