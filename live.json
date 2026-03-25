@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-25T20:06:07.405Z",
+  "timestamp": "2026-03-25T20:22:08.834Z",
   "live": [
     {
       "username": "Maya",
@@ -8,34 +8,28 @@
       "started_at": "2026-03-25T15:32:54Z"
     },
     {
-      "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
-      "game": "Animals, Aquariums, and Zoos",
-      "started_at": "2026-03-25T15:27:02Z"
-    },
-    {
       "username": "EJ_SA",
       "title": "EJ's ISAR Aerospace SPECTRUM Launch Coverage!",
       "game": "Science & Technology",
       "started_at": "2026-03-25T16:05:57Z"
     },
     {
-      "username": "Zachap",
-      "title": "imagine caring about stuff COMRADE (btw my internet dropped out for a min lol but we back zzz)",
-      "game": "Just Chatting",
-      "started_at": "2026-03-25T16:36:26Z"
+      "username": "AlveusSanctuary",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
+      "game": "Animals, Aquariums, and Zoos",
+      "started_at": "2026-03-25T15:27:02Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Differential Equations FTW: Book Writing, Slide Making and General Yappery",
-      "game": "Math",
-      "started_at": "2026-03-25T17:55:26Z"
-    },
-    {
-      "username": "SharkG33k",
-      "title": "Water Wednesday - early edition! | Checking out new shark drone footage. 🦈",
+      "username": "Paleontologizing",
+      "title": "🌊 MANATEE APPRECIATION DAY 🌊 Appreciatin' sea cows: their biology, evolution, and conservation (w/ paleontologist Danny Anduza)",
       "game": "Science & Technology",
-      "started_at": "2026-03-25T18:01:20Z"
+      "started_at": "2026-03-25T20:07:52Z"
+    },
+    {
+      "username": "DrawCuriosity",
+      "title": "💕Science: Male friendships + the \"future\" of AI + more Pokopia!!! ✨🐑 !dailybug !merch !tangia",
+      "game": "Science & Technology",
+      "started_at": "2026-03-25T20:01:19Z"
     },
     {
       "username": "IrishJohnGames",
@@ -44,10 +38,16 @@
       "started_at": "2026-03-25T19:59:44Z"
     },
     {
-      "username": "DrawCuriosity",
-      "title": "💕Science: Male friendships + the \"future\" of AI + more Pokopia!!! ✨🐑 !dailybug !merch !tangia",
+      "username": "SharkG33k",
+      "title": "Water Wednesday - early edition! | Checking out new shark drone footage. 🦈",
       "game": "Science & Technology",
-      "started_at": "2026-03-25T20:01:19Z"
+      "started_at": "2026-03-25T18:01:20Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Differential Equations FTW: Book Writing, Slide Making and General Yappery",
+      "game": "Math",
+      "started_at": "2026-03-25T17:55:26Z"
     }
   ]
 }
