@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-26T18:46:01.181Z",
+  "timestamp": "2026-03-26T19:14:33.065Z",
   "live": [
     {
       "username": "Kitboga",
@@ -9,8 +9,8 @@
     },
     {
       "username": "AlveusSanctuary",
-      "title": "Live, Laugh, Lukas | !alveus !institute !pixel !schedule !video !feed",
-      "game": "Just Chatting",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
+      "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-03-25T15:27:02Z"
     },
     {
@@ -44,22 +44,16 @@
       "started_at": "2026-03-26T10:03:18Z"
     },
     {
-      "username": "pencenter",
-      "title": "Beyond the Blackboard S2E6 - to grade or not to grade? [!fish🎣|!commands💻]",
+      "username": "eToThe2iPi",
+      "title": "Zach vs. The DE Presentation: Round 2, LaTeX Equations and Transparency",
       "game": "Math",
-      "started_at": "2026-03-26T17:59:56Z"
+      "started_at": "2026-03-26T18:49:32Z"
     },
     {
       "username": "Rocketology",
       "title": "4.7 is Here, Aroura Mk2, and 4.8 on the Roadmap! So Much to Go Over!",
       "game": "Star Citizen",
       "started_at": "2026-03-26T17:41:37Z"
-    },
-    {
-      "username": "SETIInstitute",
-      "title": "From Moon to Mars: What Artemis II Means for the Future",
-      "game": "Talk Shows & Podcasts",
-      "started_at": "2026-03-26T18:01:40Z"
     }
   ]
 }
