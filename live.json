@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-26T20:27:57.808Z",
+  "timestamp": "2026-03-26T20:46:11.475Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,16 +38,16 @@
       "started_at": "2026-03-26T19:30:31Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Zach vs. The DE Presentation: Round 2, LaTeX Equations and Transparency",
-      "game": "Math",
-      "started_at": "2026-03-26T18:49:32Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Solder - Chill - Build - Electronics - DIY",
       "game": "Just Chatting",
       "started_at": "2026-03-26T20:15:32Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Zach vs. The DE Presentation: Round 2, LaTeX Equations and Transparency",
+      "game": "Math",
+      "started_at": "2026-03-26T18:49:32Z"
     },
     {
       "username": "DrAlexanderClarke",
