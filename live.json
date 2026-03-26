@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-26T00:02:57.011Z",
+  "timestamp": "2026-03-26T00:54:10.519Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,22 +8,10 @@
       "started_at": "2026-03-25T15:27:02Z"
     },
     {
-      "username": "JapanesePrintmaking",
-      "title": "Making Japanese woodblock prints ... live while you watch ...",
-      "game": "Makers & Crafting",
-      "started_at": "2026-03-25T23:00:05Z"
-    },
-    {
       "username": "EJ_SA",
       "title": "SRM Load testing and test launches! Re-useable STS-style shuttle and pad. (Part 4)",
       "game": "Kerbal Space Program",
       "started_at": "2026-03-25T16:05:57Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "🌊 MANATEE APPRECIATION DAY 🌊 Appreciatin' sea cows: their biology, evolution, and conservation (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-03-25T20:07:52Z"
     },
     {
       "username": "imreallyimportant",
@@ -32,16 +20,16 @@
       "started_at": "2026-03-25T21:49:50Z"
     },
     {
+      "username": "Paleontologizing",
+      "title": "🌊 MANATEE APPRECIATION DAY 🌊 Appreciatin' sea cows: their biology, evolution, and conservation (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-03-25T20:07:52Z"
+    },
+    {
       "username": "AstroCanuck",
       "title": "Astro's Po'Pourri: NASA Artemis II & Lunar Mission News - The Mighty Bowser maybe later | !PGV !texas !build | !drop !tkf",
       "game": "Science & Technology",
       "started_at": "2026-03-25T23:21:33Z"
-    },
-    {
-      "username": "IrishJohnGames",
-      "title": "🍀 Game dev - Rise of Piracy | !GamesFromIreland !steam !discordROP !streamers !MicroProse",
-      "game": "Software and Game Development",
-      "started_at": "2026-03-25T19:59:44Z"
     },
     {
       "username": "DrawCuriosity",
@@ -50,16 +38,22 @@
       "started_at": "2026-03-25T20:01:19Z"
     },
     {
-      "username": "Ask_a_Scientist_Gaming",
-      "title": "Dr. Allison Wing, tropical cyclones, and Mario Kart 64.",
-      "game": "Science & Technology",
-      "started_at": "2026-03-25T23:58:15Z"
-    },
-    {
       "username": "nogre0",
       "title": "inconsistent phenomenology",
       "game": "Writing & Reading",
       "started_at": "2026-03-26T00:00:10Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-03-26T00:04:05Z"
+    },
+    {
+      "username": "Ask_a_Scientist_Gaming",
+      "title": "Dr. Allison Wing, tropical cyclones, and Mario Kart 64.",
+      "game": "Science & Technology",
+      "started_at": "2026-03-25T23:58:15Z"
     }
   ]
 }
