@@ -1,11 +1,17 @@
 {
-  "timestamp": "2026-03-26T16:13:34.243Z",
+  "timestamp": "2026-03-26T16:40:43.111Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Chat Chats w/ Dr. Julie | !alveus !institute !pixel !schedule !video !feed",
       "game": "Just Chatting",
       "started_at": "2026-03-25T15:27:02Z"
+    },
+    {
+      "username": "Kitboga",
+      "title": "Making Scammers Angry [Episode 1522]",
+      "game": "Just Chatting",
+      "started_at": "2026-03-26T16:26:18Z"
     },
     {
       "username": "AdamLearnsLive",
@@ -26,10 +32,22 @@
       "started_at": "2026-03-26T13:13:55Z"
     },
     {
+      "username": "imreallyimportant",
+      "title": "3/26/26: DEBATING POLITICS ON TIKTOK",
+      "game": "Just Chatting",
+      "started_at": "2026-03-26T16:26:30Z"
+    },
+    {
       "username": "Andilippi",
       "title": "I got banned... now i'm not",
       "game": "Just Chatting",
       "started_at": "2026-03-26T15:22:50Z"
+    },
+    {
+      "username": "oh_bother",
+      "title": "Brute forcing a headlight switch, how complicated could it possibly be?",
+      "game": "Just Chatting",
+      "started_at": "2026-03-26T16:31:47Z"
     }
   ]
 }
