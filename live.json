@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-03-27T17:55:09.214Z",
+  "timestamp": "2026-03-27T18:13:44.664Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
-      "game": "Animals, Aquariums, and Zoos",
+      "title": "Show and Tell | !alveus !institute !pixel !schedule !video !feed",
+      "game": "Just Chatting",
       "started_at": "2026-03-27T15:29:09Z"
     },
     {
@@ -30,6 +30,12 @@
       "title": "Fritz reads The Time Machine",
       "game": "Science Fiction Classics",
       "started_at": "2026-03-27T14:09:24Z"
+    },
+    {
+      "username": "CosmoQuestX",
+      "title": "After Hours: Bringing STEM to Forgotten Populations",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2026-03-27T17:59:48Z"
     }
   ]
 }
