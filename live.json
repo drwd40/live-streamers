@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-27T18:13:44.664Z",
+  "timestamp": "2026-03-27T18:35:10.612Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-03-27T09:52:15Z"
     },
     {
-      "username": "csharpfritz",
-      "title": "Fritz reads The Time Machine",
-      "game": "Science Fiction Classics",
-      "started_at": "2026-03-27T14:09:24Z"
-    },
-    {
       "username": "CosmoQuestX",
       "title": "After Hours: Bringing STEM to Forgotten Populations",
       "game": "Talk Shows & Podcasts",
       "started_at": "2026-03-27T17:59:48Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Second Affiliate Anniversary!🦈",
+      "game": "Just Chatting",
+      "started_at": "2026-03-27T18:18:13Z"
     }
   ]
 }
