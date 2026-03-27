@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-26T23:57:18.527Z",
+  "timestamp": "2026-03-27T00:35:44.424Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-03-26T16:56:12Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "🦖🦴📰 FOSSIL NEWS 📰🦴🦕 plus paleontology Q&A and Thursday BIRDSday (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-03-26T20:04:59Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "TRUMP DELAYS POWER GRID STRIKES ANOTHER 10 DAYS",
       "game": "Just Chatting",
       "started_at": "2026-03-26T21:49:34Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "🦖🦴📰 FOSSIL NEWS 📰🦴🦕 plus paleontology Q&A and Thursday BIRDSday (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-03-26T20:04:59Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -32,22 +32,28 @@
       "started_at": "2026-03-26T18:07:48Z"
     },
     {
-      "username": "DrawCuriosity",
-      "title": "💕BONUS STREAM! (opening new digital SHINY cardboard + unlocking new areas in Pokopia!)✨🐑 !dailybug !merch !tangia",
-      "game": "Pokémon Pokopia",
-      "started_at": "2026-03-26T19:30:31Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Solder - Chill - Build - Electronics - DIY",
       "game": "Science & Technology",
       "started_at": "2026-03-26T20:15:32Z"
     },
     {
+      "username": "SharkG33k",
+      "title": "Interviewing \"Of Shark and Man\" creator David Diley!🦈",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2026-03-27T00:04:33Z"
+    },
+    {
       "username": "MelissaInDeNile",
       "title": "Back to Istanbul (not Constantinople) and Idk what we need to do! ~ Follower Goal: 2317/2600 ~ !socials !beyonddenile",
       "game": "Assassin's Creed Revelations",
       "started_at": "2026-03-26T22:51:18Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-03-27T00:03:42Z"
     }
   ]
 }
