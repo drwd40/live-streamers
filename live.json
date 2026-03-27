@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-27T16:50:35.862Z",
+  "timestamp": "2026-03-27T17:12:15.924Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "Fritz reads The Time Machine",
       "game": "Science Fiction Classics",
       "started_at": "2026-03-27T14:09:24Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "Building out a road course! Cities Skylines: RACE DAY (Part 2)",
+      "game": "Cities: Skylines",
+      "started_at": "2026-03-27T17:10:43Z"
     }
   ]
 }
