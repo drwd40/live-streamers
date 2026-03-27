@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-27T01:02:53.541Z",
+  "timestamp": "2026-03-27T01:43:47.335Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-03-26T21:49:34Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "🦖🦴📰 FOSSIL NEWS 📰🦴🦕 plus paleontology Q&A and Thursday BIRDSday (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-03-26T20:04:59Z"
-    },
-    {
       "username": "SciAnts_Streams",
       "title": "Pokemon Pokopia Science | Stem cells, organoids, and more as we collect them all! | Partner+ 265/300 | !ppp !yt !pod !wwf",
       "game": "Pokémon Pokopia",
       "started_at": "2026-03-26T18:07:48Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Thursday Night Science Stream.  PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
+      "game": "Science & Technology",
+      "started_at": "2026-03-27T01:03:49Z"
     },
     {
       "username": "SydHeresy",
@@ -50,22 +50,22 @@
       "started_at": "2026-03-26T22:51:18Z"
     },
     {
-      "username": "Nerduino",
-      "title": "Thursday Night Science Stream.  PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
-      "game": "Science & Technology",
-      "started_at": "2026-03-27T00:52:51Z"
-    },
-    {
       "username": "ActualEducation",
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Just Chatting",
       "started_at": "2026-03-27T00:03:42Z"
     },
     {
-      "username": "happyknightmares",
-      "title": "Not sure what we'll get up to tonight! Come find out? ✨",
-      "game": "Food & Drink",
-      "started_at": "2026-03-27T00:36:18Z"
+      "username": "pencenter",
+      "title": "multiworld ALTTP / SMW [!fish🎣|!commands💻]",
+      "game": "Retro",
+      "started_at": "2026-03-27T01:09:08Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Department store restaurants,  papier-mache sculpture, and binturong ecology.",
+      "game": "IRL",
+      "started_at": "2026-03-27T01:31:56Z"
     }
   ]
 }
