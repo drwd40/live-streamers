@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-28T19:54:19.511Z",
+  "timestamp": "2026-03-28T20:02:02.443Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -17,7 +17,13 @@
       "username": "GeneralSte",
       "title": "TW VET DOES A NEW CAMPAIGN!!!!  | !linktree !discord",
       "game": "Total War: WARHAMMER III",
-      "started_at": "2026-03-28T19:20:48Z"
+      "started_at": "2026-03-28T19:55:53Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and doing... something... probably yapping",
+      "game": "Math",
+      "started_at": "2026-03-28T19:56:11Z"
     }
   ]
 }
