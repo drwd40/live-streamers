@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-29T21:56:42.399Z",
+  "timestamp": "2026-03-29T22:07:49.183Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "SUNDAY SHOWS",
       "game": "Just Chatting",
       "started_at": "2026-03-29T21:50:10Z"
+    },
+    {
+      "username": "shnaff",
+      "title": "All new badges! - guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-03-29T22:01:33Z"
     }
   ]
 }
