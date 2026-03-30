@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-30T23:36:06.319Z",
+  "timestamp": "2026-03-30T23:52:02.747Z",
   "live": [
     {
       "username": "Maya",
@@ -14,12 +14,6 @@
       "started_at": "2026-03-29T15:29:11Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "EJ's Space and Artemis Revue! 3/30/26",
-      "game": "Science & Technology",
-      "started_at": "2026-03-30T16:12:22Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "TRUMP RENEWS THREATS AGAINST IRAN ENERGY INFRASTRUCTURE | GOP SENATE IGNORES HOUSE DHS BILL",
       "game": "Just Chatting",
@@ -32,9 +26,15 @@
       "started_at": "2026-03-30T20:02:23Z"
     },
     {
+      "username": "AstroCanuck",
+      "title": "Astro's Po'Pourri: Artemis II Info & LEGO Space Up-scaled Minifigure | !PGV !build | !drop !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-03-30T23:45:08Z"
+    },
+    {
       "username": "DrawCuriosity",
       "title": "🐑 Science + Gardevoir + Gyarados in POKOPIA SKYLANDS??✨🐑 !dailybug !merch !tangia",
-      "game": "Science & Technology",
+      "game": "Pokémon Pokopia",
       "started_at": "2026-03-30T19:44:36Z"
     }
   ]
