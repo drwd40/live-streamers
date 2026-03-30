@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-30T16:08:46.602Z",
+  "timestamp": "2026-03-30T16:34:03.581Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "Designing a NEW GAME !today (day 1)",
       "game": "Software and Game Development",
       "started_at": "2026-03-30T15:14:30Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "How the heck do we stack the Orbiter???? Re-useable STS-style shuttle and pad. (Part 6)",
+      "game": "Kerbal Space Program",
+      "started_at": "2026-03-30T16:12:22Z"
     },
     {
       "username": "Zachap",
