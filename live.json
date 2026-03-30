@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-30T18:02:56.530Z",
+  "timestamp": "2026-03-30T18:30:35.791Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,16 +38,16 @@
       "started_at": "2026-03-30T17:49:40Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Building a Quiz Show for Twitch/Future Public Release: Sixteen",
-      "game": "Software and Game Development",
-      "started_at": "2026-03-30T17:57:35Z"
-    },
-    {
       "username": "CosmoQuestX",
       "title": "Astronomy Cast: What happens to planets when their stars die",
       "game": "Talk Shows & Podcasts",
       "started_at": "2026-03-30T18:00:50Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Building a Quiz Show for Twitch/Future Public Release: Sixteen",
+      "game": "Software and Game Development",
+      "started_at": "2026-03-30T17:57:35Z"
     }
   ]
 }
