@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-31T22:19:32.387Z",
+  "timestamp": "2026-03-31T22:35:21.236Z",
   "live": [
     {
       "username": "Maya",
@@ -14,16 +14,16 @@
       "started_at": "2026-03-31T15:31:56Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "🎡 Introducing the WHEEL OF FOSSIL NEWS 🎡 Let's catch up on new paleo & natural history discoveries (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-03-31T20:12:38Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "GAS HITS $4 | TRUMP TELLS ALLIES TO GO GET THEIR OWN OIL | HEGSETH HOLDS PRESS CONFERENCE",
       "game": "Just Chatting",
       "started_at": "2026-03-31T21:51:32Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "🎡 Introducing the WHEEL OF FOSSIL NEWS 🎡 Let's catch up on new paleo & natural history discoveries (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-03-31T20:12:38Z"
     },
     {
       "username": "shnaff",
