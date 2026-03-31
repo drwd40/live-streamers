@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-31T21:49:47.074Z",
+  "timestamp": "2026-03-31T22:04:20.267Z",
   "live": [
     {
       "username": "Maya",
@@ -20,10 +20,28 @@
       "started_at": "2026-03-31T20:12:38Z"
     },
     {
+      "username": "imreallyimportant",
+      "title": "GAS HITS $4 | TRUMP TELLS ALLIES TO GO GET THEIR OWN OIL | HEGSETH HOLDS PRESS CONFERENCE",
+      "game": "Just Chatting",
+      "started_at": "2026-03-31T21:51:32Z"
+    },
+    {
       "username": "GeoJim2006",
       "title": "Mid-Term Lab Exam Review Pt 2 - The Least You Need To Know 🌋⚒️🪨🔎🔬 !discord !nova !tkf",
       "game": "Science & Technology",
       "started_at": "2026-03-31T20:03:21Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Math/Ed Chat",
+      "game": "Math",
+      "started_at": "2026-03-31T21:57:31Z"
+    },
+    {
+      "username": "shnaff",
+      "title": "Guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-03-31T22:03:12Z"
     }
   ]
 }
