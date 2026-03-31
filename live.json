@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-31T00:03:51.882Z",
+  "timestamp": "2026-03-31T00:54:27.897Z",
   "live": [
     {
       "username": "Maya",
@@ -42,6 +42,12 @@
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Just Chatting",
       "started_at": "2026-03-31T00:02:16Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "A vaccine for African swine fever?",
+      "game": "IRL",
+      "started_at": "2026-03-31T00:31:19Z"
     }
   ]
 }
