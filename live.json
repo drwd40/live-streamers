@@ -1,29 +1,11 @@
 {
-  "timestamp": "2026-03-31T02:21:08.226Z",
+  "timestamp": "2026-03-31T03:29:48.176Z",
   "live": [
-    {
-      "username": "Maya",
-      "title": "🐊EXPLORING THE EVERGLADES  w/ @yourragegaming",
-      "game": "Just Chatting",
-      "started_at": "2026-03-30T20:53:20Z"
-    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-03-29T15:29:11Z"
-    },
-    {
-      "username": "imreallyimportant",
-      "title": "TRUMP RENEWS THREATS AGAINST IRAN ENERGY INFRASTRUCTURE | GOP SENATE IGNORES HOUSE DHS BILL",
-      "game": "Just Chatting",
-      "started_at": "2026-03-30T21:55:03Z"
-    },
-    {
-      "username": "AstroCanuck",
-      "title": "Astro's Po'Pourri: Artemis II Info & LEGO Space Up-scaled Minifigure | !PGV !build | !drop !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-03-30T23:45:08Z"
     },
     {
       "username": "Moohoodles",
@@ -32,10 +14,10 @@
       "started_at": "2026-03-31T02:11:22Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
-      "game": "Just Chatting",
-      "started_at": "2026-03-31T00:02:16Z"
+      "username": "AstroCanuck",
+      "title": "Astro's Po'Pourri: Artemis II Info & LEGO Space Up-scaled Minifigure | !PGV !build | !drop !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-03-30T23:45:08Z"
     }
   ]
 }
