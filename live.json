@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-01T15:10:39.101Z",
+  "timestamp": "2026-04-01T15:43:31.551Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "NASA Artemis II Launch Day, All-Day Coverage - Liftoff 6:24pm ET | !PGV !build | !drop !tkf",
       "game": "Science & Technology",
       "started_at": "2026-04-01T11:01:07Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Designing a NEW GAME !today (day 3)",
+      "game": "Software and Game Development",
+      "started_at": "2026-04-01T15:25:39Z"
     },
     {
       "username": "Zachap",
