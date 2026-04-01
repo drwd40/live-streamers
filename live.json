@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-01T18:28:49.837Z",
+  "timestamp": "2026-04-01T18:50:56.248Z",
   "live": [
     {
       "username": "Kitboga",
@@ -21,7 +21,7 @@
     },
     {
       "username": "AstroCanuck",
-      "title": "NASA Artemis II Launch Day, All-Day Coverage - Liftoff 6:24pm ET | !PGV !build | !drop !tkf",
+      "title": "NASA Artemis II Launch Day, All-Day Coveragea with @nerduino - Liftoff 6:24pm ET | !PGV !build | !drop !tkf",
       "game": "Science & Technology",
       "started_at": "2026-04-01T11:01:07Z"
     },
@@ -60,6 +60,18 @@
       "title": "Live CEOing Ep 971: Language Design in Wolfram Language [Wolfram Financial Framework]",
       "game": "Science & Technology",
       "started_at": "2026-04-01T18:16:18Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Artemis II launch watch party with @astrocanuck!  PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
+      "game": "Science & Technology",
+      "started_at": "2026-04-01T18:37:22Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "NASA Artemis II Launch Coverage and SLS History Discussion",
+      "game": "Science & Technology",
+      "started_at": "2026-04-01T18:44:35Z"
     }
   ]
 }
