@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-01T13:24:54.761Z",
+  "timestamp": "2026-04-01T14:05:39.460Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,6 +14,12 @@
       "started_at": "2026-04-01T12:07:15Z"
     },
     {
+      "username": "TinyToxicTofu",
+      "title": "Today We Do SCIENCE ⚛️ !cnc !phd !bambi",
+      "game": "Science & Technology",
+      "started_at": "2026-04-01T13:42:55Z"
+    },
+    {
       "username": "AstroCanuck",
       "title": "NASA Artemis II Launch Day, All-Day Coverage - Liftoff 6:24pm ET | !PGV !build | !drop !tkf",
       "game": "Science & Technology",
@@ -24,6 +30,12 @@
       "title": "Communism, Marxism, Socialism, Dialectical Materialism, Anti-Imperialism, De-colonialism, Anti-Liberalism, Abolitionism, Situationism, Learn",
       "game": "Just Chatting",
       "started_at": "2026-04-01T10:00:44Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀 One Month in Early Access - Rise of Piracy | !rop !steam !discordROP !streamers !MicroProse",
+      "game": "Software and Game Development",
+      "started_at": "2026-04-01T13:41:13Z"
     }
   ]
 }
