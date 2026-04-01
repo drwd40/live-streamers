@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-01T21:00:24.480Z",
+  "timestamp": "2026-04-01T21:22:00.332Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -14,28 +14,34 @@
       "started_at": "2026-03-31T15:31:56Z"
     },
     {
-      "username": "AstroCanuck",
-      "title": "NASA Artemis II Launch Day, All-Day Coveragea with @nerduino - Liftoff 6:24pm ET | !PGV !build | !drop !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-04-01T11:01:07Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "🎡 WHEEL OF FOSSIL NEWS: Part 2 🎡 Let's explore some more paleo & natural history discoveries (w/ paleontologist Danny Anduza)",
       "game": "Science & Technology",
       "started_at": "2026-04-01T20:09:31Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "Earth Month with WWF | CHARITY EVENT | Conservation during climate change w/Nikhil Advani | Partner+ 16/300 | !ppp !yt !pod !wwf",
+      "username": "AstroCanuck",
+      "title": "NASA Artemis II Launch Day, All-Day Coveragea with @nerduino - Liftoff 6:24pm ET | !PGV !build | !drop !tkf",
       "game": "Science & Technology",
-      "started_at": "2026-04-01T19:04:00Z"
+      "started_at": "2026-04-01T11:01:07Z"
+    },
+    {
+      "username": "Moohoodles",
+      "title": "🚀 Artemis II launch! 🌙 Humanity is going BACK to the moon!!",
+      "game": "Science & Technology",
+      "started_at": "2026-04-01T21:08:28Z"
     },
     {
       "username": "AdamLearnsLive",
       "title": "Designing a NEW GAME !today (day 3½)",
       "game": "Software and Game Development",
       "started_at": "2026-04-01T20:24:07Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "Earth Month with WWF | CHARITY EVENT | Conservation during climate change w/Nikhil Advani | Partner+ 16/300 | !ppp !yt !pod !wwf",
+      "game": "Science & Technology",
+      "started_at": "2026-04-01T19:04:00Z"
     },
     {
       "username": "Nerduino",
@@ -48,12 +54,6 @@
       "title": "🐑 So we're sending people to the Moon today... maybe we should watch?✨🐑 !dailybug !merch !tangia",
       "game": "Science & Technology",
       "started_at": "2026-04-01T20:04:06Z"
-    },
-    {
-      "username": "Stephen_Wolfram",
-      "title": "Ep 2: Philosophy Discussion with Stephen Wolfram and Michelle Gilmore-Grier",
-      "game": "Science & Technology",
-      "started_at": "2026-04-01T19:35:37Z"
     },
     {
       "username": "Rocketology",
