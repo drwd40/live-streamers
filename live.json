@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-01T12:29:20.242Z",
+  "timestamp": "2026-04-01T12:52:19.914Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-04-01T12:07:15Z"
     },
     {
-      "username": "AstroCanuck",
-      "title": "NASA Artemis II Launch Day, All-Day Coverage - Liftoff 6:24pm ET | !PGV !build | !drop !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-04-01T11:01:07Z"
-    },
-    {
       "username": "Zachap",
       "title": "Communism, Marxism, Socialism, Dialectical Materialism, Anti-Imperialism, De-colonialism, Anti-Liberalism, Abolitionism, Situationism, Learn",
       "game": "Just Chatting",
       "started_at": "2026-04-01T10:00:44Z"
+    },
+    {
+      "username": "AstroCanuck",
+      "title": "NASA Artemis II Launch Day, All-Day Coverage - Liftoff 6:24pm ET | !PGV !build | !drop !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-04-01T11:01:07Z"
     }
   ]
 }
