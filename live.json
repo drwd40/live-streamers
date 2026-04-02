@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-02T20:37:08.289Z",
+  "timestamp": "2026-04-02T20:54:22.905Z",
   "live": [
     {
       "username": "Kitboga",
@@ -20,16 +20,16 @@
       "started_at": "2026-04-02T15:31:58Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "Earth Month with WWF | CHARITY EVENT | Prairie dog conservation w/ Noelle Guernsey | Partner+ 27/300 | !ppp !yt !pod !wwf",
-      "game": "Science & Technology",
-      "started_at": "2026-04-02T18:10:10Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "🎡🦖 WHEEL OF FOSSIL NEWS: Part 3 🦕🎡 New natural history discoveries +Thursday BIRDSday (w/ paleontologist Danny Anduza)",
       "game": "Science & Technology",
       "started_at": "2026-04-02T20:09:42Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "Earth Month with WWF | CHARITY EVENT | Prairie dog conservation w/ Noelle Guernsey | Partner+ 27/300 | !ppp !yt !pod !wwf",
+      "game": "Science & Technology",
+      "started_at": "2026-04-02T18:10:10Z"
     },
     {
       "username": "DrMick",
@@ -38,16 +38,16 @@
       "started_at": "2026-04-02T18:11:25Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "The 1000th Day Since My First Twitch Math Stream! (Bonus Stream)",
-      "game": "Math",
-      "started_at": "2026-04-02T18:08:34Z"
-    },
-    {
       "username": "DonFactorial",
       "title": "Answering your math questions and doing some Calculus of Variations and maybe PDEs if we're feeling frisky",
       "game": "Math",
       "started_at": "2026-04-02T19:48:13Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "The 1000th Day Since My First Twitch Math Stream! (Bonus Stream)",
+      "game": "Math",
+      "started_at": "2026-04-02T18:08:34Z"
     }
   ]
 }
