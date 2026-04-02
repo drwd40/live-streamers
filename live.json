@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-02T20:07:43.391Z",
+  "timestamp": "2026-04-02T20:20:50.024Z",
   "live": [
     {
       "username": "Kitboga",
@@ -8,16 +8,16 @@
       "started_at": "2026-04-02T18:22:09Z"
     },
     {
-      "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
-      "game": "Animals, Aquariums, and Zoos",
-      "started_at": "2026-04-02T15:31:58Z"
-    },
-    {
       "username": "EJ_SA",
       "title": "EJ'S ARTEMIS II MISSION COVERAGE!",
       "game": "Science & Technology",
       "started_at": "2026-04-01T12:07:15Z"
+    },
+    {
+      "username": "AlveusSanctuary",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
+      "game": "Animals, Aquariums, and Zoos",
+      "started_at": "2026-04-02T15:31:58Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -26,16 +26,16 @@
       "started_at": "2026-04-02T18:10:10Z"
     },
     {
+      "username": "Paleontologizing",
+      "title": "🎡🦖 WHEEL OF FOSSIL NEWS: Part 3 🦕🎡 New natural history discoveries +Thursday BIRDSday (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-04-02T20:09:42Z"
+    },
+    {
       "username": "DrMick",
       "title": "Mental Health Chat + Painting 40k",
       "game": "Miniatures & Models",
       "started_at": "2026-04-02T18:11:25Z"
-    },
-    {
-      "username": "oh_bother",
-      "title": "bus hacking! Cars work different these days, we have to adapt. Arduino stuff.",
-      "game": "Just Chatting",
-      "started_at": "2026-04-02T16:35:45Z"
     },
     {
       "username": "eToThe2iPi",
