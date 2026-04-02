@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-04-02T18:02:46.142Z",
+  "timestamp": "2026-04-02T18:29:10.820Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
-      "game": "Animals, Aquariums, and Zoos",
+      "title": "Playing a deep-sea adventure game | Darwin's Paradox! #ad !darwin",
+      "game": "Darwin's Paradox!",
       "started_at": "2026-04-02T15:31:58Z"
     },
     {
@@ -12,6 +12,12 @@
       "title": "EJ'S ARTEMIS II MISSION COVERAGE!",
       "game": "Science & Technology",
       "started_at": "2026-04-01T12:07:15Z"
+    },
+    {
+      "username": "Kitboga",
+      "title": "Impossible Captchas & Un-skippable Ads [Ep. 1524] #sponsored by Kraken",
+      "game": "Just Chatting",
+      "started_at": "2026-04-02T18:22:09Z"
     },
     {
       "username": "AdamLearnsLive",
@@ -30,6 +36,30 @@
       "title": "bus hacking! Cars work different these days, we have to adapt. Arduino stuff.",
       "game": "Just Chatting",
       "started_at": "2026-04-02T16:35:45Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "Earth Month with WWF | CHARITY EVENT | Prairie dog conservation w/ Noelle Guernsey | Partner+ 27/300 | !ppp !yt !pod !wwf",
+      "game": "Science & Technology",
+      "started_at": "2026-04-02T18:10:10Z"
+    },
+    {
+      "username": "csharpfritz",
+      "title": "Tech talk, Web Dev, Open Source, and the Library has opened",
+      "game": "Software and Game Development",
+      "started_at": "2026-04-02T18:03:38Z"
+    },
+    {
+      "username": "DrMick",
+      "title": "Mental Health Chat + Painting 40k",
+      "game": "Miniatures & Models",
+      "started_at": "2026-04-02T18:11:25Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "The 1000th Day Since My First Twitch Math Stream! (Bonus Stream)",
+      "game": "Math",
+      "started_at": "2026-04-02T18:08:34Z"
     }
   ]
 }
