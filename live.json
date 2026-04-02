@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-02T00:02:18.384Z",
+  "timestamp": "2026-04-02T00:51:43.224Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -14,14 +14,8 @@
       "started_at": "2026-03-31T15:31:56Z"
     },
     {
-      "username": "JapanesePrintmaking",
-      "title": "Making Japanese woodblock prints ... live while you watch ...",
-      "game": "Makers & Crafting",
-      "started_at": "2026-04-01T23:00:06Z"
-    },
-    {
       "username": "Moohoodles",
-      "title": "🚀 Artemis II info / updates! 🌙 Humanity is going BACK to the moon!!",
+      "title": "🚀 Artemis II Press Conference! Info / updates! 🌙 Humanity is going BACK to the moon!!",
       "game": "Science & Technology",
       "started_at": "2026-04-01T21:08:28Z"
     },
@@ -32,16 +26,16 @@
       "started_at": "2026-04-01T22:06:48Z"
     },
     {
-      "username": "AstroCanuck",
-      "title": "NASA Artemis II Launch Day, All-Day Coveragea with @nerduino - Liftoff 6:24pm ET | !PGV !build | !drop !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-04-01T11:01:07Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "🎡 WHEEL OF FOSSIL NEWS: Part 2 🎡 Let's explore some more paleo & natural history discoveries (w/ paleontologist Danny Anduza)",
       "game": "Science & Technology",
       "started_at": "2026-04-01T20:09:31Z"
+    },
+    {
+      "username": "AstroCanuck",
+      "title": "NASA Artemis II Launch Day, All-Day Coveragea - Liftoff 6:24pm ET | !PGV !build | !drop !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-04-01T11:01:07Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -68,10 +62,16 @@
       "started_at": "2026-04-02T00:00:16Z"
     },
     {
-      "username": "Rocketology",
-      "title": "NASA Artemis II Launch Coverage and SLS History Discussion",
+      "username": "CosmoQuestX",
+      "title": "Watch Party: Artemis II Press Conference",
       "game": "Science & Technology",
-      "started_at": "2026-04-01T18:44:35Z"
+      "started_at": "2026-04-02T00:19:45Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Water Wednesday! 360 Shark Dive!🦈",
+      "game": "Science & Technology",
+      "started_at": "2026-04-02T00:07:52Z"
     }
   ]
 }
