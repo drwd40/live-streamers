@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-02T12:59:16.381Z",
+  "timestamp": "2026-04-02T13:38:45.709Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,12 @@
       "title": "General Strike > Voting Harder  |  Tax-in-Kind > Tax the Rich  |  People > Capitalism  |  Analysis > Spectacle  |  Education > Drama",
       "game": "Just Chatting",
       "started_at": "2026-04-02T10:01:34Z"
+    },
+    {
+      "username": "csharpfritz",
+      "title": "Tech talk, Web Dev, Open Source, and the Library has opened",
+      "game": "Software and Game Development",
+      "started_at": "2026-04-02T13:03:54Z"
     }
   ]
 }
