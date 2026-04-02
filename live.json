@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-02T15:53:07.410Z",
+  "timestamp": "2026-04-02T16:14:39.870Z",
   "live": [
     {
       "username": "Maya",
@@ -8,16 +8,16 @@
       "started_at": "2026-04-02T15:37:34Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "EJ'S ARTEMIS II LAUNCH COVERAGE!",
-      "game": "Science & Technology",
-      "started_at": "2026-04-01T12:07:15Z"
-    },
-    {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video !feed",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-04-02T15:31:58Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "EJ'S ARTEMIS II LAUNCH COVERAGE!",
+      "game": "Science & Technology",
+      "started_at": "2026-04-01T12:07:15Z"
     },
     {
       "username": "AdamLearnsLive",
