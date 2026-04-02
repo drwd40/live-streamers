@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-02T15:02:34.150Z",
+  "timestamp": "2026-04-02T15:30:24.417Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "EJ'S ARTEMIS II LAUNCH COVERAGE!",
       "game": "Science & Technology",
       "started_at": "2026-04-01T12:07:15Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Designing sub-games for SiaBT !today (day 4)",
+      "game": "Software and Game Development",
+      "started_at": "2026-04-02T15:08:04Z"
     },
     {
       "username": "Zachap",
