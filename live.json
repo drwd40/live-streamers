@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-02T19:15:07.437Z",
+  "timestamp": "2026-04-02T19:36:29.872Z",
   "live": [
     {
       "username": "Kitboga",
@@ -20,12 +20,6 @@
       "started_at": "2026-04-01T12:07:15Z"
     },
     {
-      "username": "Zachap",
-      "title": "General Strike > Voting Harder  |  Tax-in-Kind > Tax the Rich  |  People > Capitalism  |  Analysis > Spectacle  |  Education > Drama",
-      "game": "Just Chatting",
-      "started_at": "2026-04-02T10:01:34Z"
-    },
-    {
       "username": "SciAnts_Streams",
       "title": "Earth Month with WWF | CHARITY EVENT | Prairie dog conservation w/ Noelle Guernsey | Partner+ 27/300 | !ppp !yt !pod !wwf",
       "game": "Science & Technology",
@@ -42,6 +36,12 @@
       "title": "Mental Health Chat + Painting 40k",
       "game": "Miniatures & Models",
       "started_at": "2026-04-02T18:11:25Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "General Strike > Voting Harder  |  Tax-in-Kind > Tax the Rich  |  People > Capitalism  |  Analysis > Spectacle  |  Education > Drama",
+      "game": "Just Chatting",
+      "started_at": "2026-04-02T10:01:34Z"
     },
     {
       "username": "csharpfritz",
