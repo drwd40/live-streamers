@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-02T21:21:59.489Z",
+  "timestamp": "2026-04-02T21:39:07.192Z",
   "live": [
     {
       "username": "Kitboga",
@@ -42,6 +42,12 @@
       "title": "Answering your math questions and doing some Calculus of Variations and maybe PDEs if we're feeling frisky",
       "game": "Math",
       "started_at": "2026-04-02T19:48:13Z"
+    },
+    {
+      "username": "SETIInstitute",
+      "title": "Planet Crash: Cosmic Collision Caught in Action",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2026-04-02T21:30:18Z"
     }
   ]
 }
