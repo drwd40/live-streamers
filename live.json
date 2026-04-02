@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-02T22:50:58.519Z",
+  "timestamp": "2026-04-02T23:03:14.571Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -32,16 +32,16 @@
       "started_at": "2026-04-02T22:03:42Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and doing some Calculus of Variations and maybe PDEs if we're feeling frisky",
-      "game": "Math",
-      "started_at": "2026-04-02T19:48:13Z"
-    },
-    {
       "username": "MelissaInDeNile",
       "title": "We have conquered all the towers in Assassins Creed: Revelations!! ~ Follower Goal: 2320/2600 ~ !socials !beyonddenile",
       "game": "Assassin's Creed Revelations",
       "started_at": "2026-04-02T22:49:40Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and doing some Calculus of Variations and maybe PDEs if we're feeling frisky",
+      "game": "Math",
+      "started_at": "2026-04-02T19:48:13Z"
     }
   ]
 }
