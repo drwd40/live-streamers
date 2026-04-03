@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-03T00:01:49.090Z",
+  "timestamp": "2026-04-03T00:54:07.554Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -28,20 +28,14 @@
     {
       "username": "SciAnts_Streams",
       "title": "Earth Month with WWF | CHARITY EVENT | Prairie dog conservation w/ Noelle Guernsey | Partner+ 27/300 | !ppp !yt !pod !wwf",
-      "game": "Science & Technology",
+      "game": "Pokémon Pokopia",
       "started_at": "2026-04-02T18:10:10Z"
     },
     {
-      "username": "shnaff",
-      "title": "Guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-04-02T22:03:42Z"
-    },
-    {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and doing some Calculus of Variations and maybe PDEs if we're feeling frisky",
-      "game": "Math",
-      "started_at": "2026-04-02T19:48:13Z"
+      "username": "SharkG33k",
+      "title": "Interview Dr. Stephen Kajiura about shark bycatch mitigation!🦈",
+      "game": "Science & Technology",
+      "started_at": "2026-04-03T00:02:46Z"
     },
     {
       "username": "MelissaInDeNile",
@@ -50,10 +44,22 @@
       "started_at": "2026-04-02T22:49:40Z"
     },
     {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and doing some Calculus of Variations and maybe PDEs if we're feeling frisky",
+      "game": "Math",
+      "started_at": "2026-04-02T19:48:13Z"
+    },
+    {
       "username": "ActualEducation",
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Just Chatting",
       "started_at": "2026-04-03T00:00:54Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Artemis II Updates, science and environment news!  PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
+      "game": "Science & Technology",
+      "started_at": "2026-04-03T00:50:27Z"
     }
   ]
 }
