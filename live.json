@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-04-03T06:43:38.420Z",
+  "timestamp": "2026-04-03T07:11:33.584Z",
   "live": [
-    {
-      "username": "EJ_SA",
-      "title": "EJ'S ARTEMIS II MISSION COVERAGE! (PART 2)",
-      "game": "Science & Technology",
-      "started_at": "2026-04-03T06:40:21Z"
-    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-04-02T15:31:58Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "EJ'S ARTEMIS II MISSION COVERAGE! (PART 2)",
+      "game": "Science & Technology",
+      "started_at": "2026-04-03T06:40:21Z"
     }
   ]
 }
