@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-03T22:15:41.920Z",
+  "timestamp": "2026-04-03T22:30:26.658Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -38,16 +38,16 @@
       "started_at": "2026-04-03T19:45:03Z"
     },
     {
-      "username": "GeoJim2006",
-      "title": "It's a Good Friday to look at some rock!🌋⚒️🪨🔎🔬 !discord !nova !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-04-03T20:08:40Z"
-    },
-    {
       "username": "shnaff",
       "title": "Guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2026-04-03T22:08:13Z"
+    },
+    {
+      "username": "GeoJim2006",
+      "title": "It's a Good Friday to look at some rock!🌋⚒️🪨🔎🔬 !discord !nova !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-04-03T20:08:40Z"
     }
   ]
 }
