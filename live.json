@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-03T19:23:06.344Z",
+  "timestamp": "2026-04-03T19:40:11.859Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -18,12 +18,6 @@
       "title": "looking at all my bird art books :)",
       "game": "Art",
       "started_at": "2026-04-03T16:04:20Z"
-    },
-    {
-      "username": "imreallyimportant",
-      "title": "4/3/26: DEBATING POLITICS ON TIKTOK",
-      "game": "Just Chatting",
-      "started_at": "2026-04-03T16:44:47Z"
     },
     {
       "username": "oh_bother",
@@ -54,6 +48,18 @@
       "title": "Happy Friday! Stream tinkering (music later?)🦈",
       "game": "Co-working & Studying",
       "started_at": "2026-04-03T18:13:24Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Future of Science and Technology Q&A (April 3, 2026)",
+      "game": "Science & Technology",
+      "started_at": "2026-04-03T19:32:40Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Wrapping up design !today before coding on Monday (day 5½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-04-03T19:39:51Z"
     }
   ]
 }
