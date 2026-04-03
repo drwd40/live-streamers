@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-04-03T18:04:14.238Z",
+  "timestamp": "2026-04-03T18:22:38.862Z",
   "live": [
-    {
-      "username": "AlveusSanctuary",
-      "title": "Show and Tell | !alveus !institute !pixel !schedule !video",
-      "game": "Just Chatting",
-      "started_at": "2026-04-02T15:31:58Z"
-    },
     {
       "username": "EJ_SA",
       "title": "EJ'S ARTEMIS II MISSION COVERAGE! (PART 2)",
       "game": "Science & Technology",
       "started_at": "2026-04-03T06:40:21Z"
+    },
+    {
+      "username": "AlveusSanctuary",
+      "title": "Show and Tell | !alveus !institute !pixel !schedule !video",
+      "game": "Just Chatting",
+      "started_at": "2026-04-02T15:31:58Z"
     },
     {
       "username": "ipaintbirbs",
@@ -48,6 +48,12 @@
       "title": "Live Artemis II Mission. PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
       "game": "Science & Technology",
       "started_at": "2026-04-03T17:19:52Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Happy Friday! Stream tinkering (music later?)🦈",
+      "game": "Co-working & Studying",
+      "started_at": "2026-04-03T18:13:24Z"
     }
   ]
 }
