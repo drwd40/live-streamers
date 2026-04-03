@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-03T19:02:41.120Z",
+  "timestamp": "2026-04-03T19:23:06.344Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -9,8 +9,8 @@
     },
     {
       "username": "AlveusSanctuary",
-      "title": "Show and Tell | !alveus !institute !pixel !schedule !video",
-      "game": "Just Chatting",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
+      "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-04-02T15:31:58Z"
     },
     {
@@ -44,16 +44,16 @@
       "started_at": "2026-04-03T17:19:52Z"
     },
     {
-      "username": "SharkG33k",
-      "title": "Happy Friday! Stream tinkering (music later?)🦈",
-      "game": "Co-working & Studying",
-      "started_at": "2026-04-03T18:13:24Z"
-    },
-    {
       "username": "IrishJohnGames",
       "title": "🍀 One Month in Early Access - Rise of Piracy | !rop !steam !discordROP !streamers !MicroProse",
       "game": "Software and Game Development",
       "started_at": "2026-04-03T19:00:38Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Happy Friday! Stream tinkering (music later?)🦈",
+      "game": "Co-working & Studying",
+      "started_at": "2026-04-03T18:13:24Z"
     }
   ]
 }
