@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-03T20:05:41.001Z",
+  "timestamp": "2026-04-03T20:18:41.386Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -26,28 +26,22 @@
       "started_at": "2026-04-03T19:39:51Z"
     },
     {
-      "username": "oh_bother",
-      "title": "Using an arduino to hack into a car part. Part two billion. Making progress!",
-      "game": "Just Chatting",
-      "started_at": "2026-04-03T16:42:45Z"
-    },
-    {
       "username": "Zachap",
       "title": "General Strike > Voting Harder  |  Tax-in-Kind > Tax the Rich  |  People > Capitalism  |  Analysis > Spectacle  |  Education > Drama",
       "game": "Just Chatting",
       "started_at": "2026-04-03T10:03:43Z"
     },
     {
-      "username": "Nerduino",
-      "title": "Live Artemis II Mission. PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
-      "game": "Science & Technology",
-      "started_at": "2026-04-03T17:19:52Z"
-    },
-    {
       "username": "DrawCuriosity",
       "title": "🐑Artemis II updates + finishing Pokopia!! [Apr 23rd - MOVE-A-THON!]✨🐑 !dailybug !merch !tangia",
       "game": "Science & Technology",
       "started_at": "2026-04-03T19:45:03Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Live Artemis II Mission. PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
+      "game": "Science & Technology",
+      "started_at": "2026-04-03T17:19:52Z"
     },
     {
       "username": "Stephen_Wolfram",
@@ -66,6 +60,12 @@
       "title": "Happy Friday! Stream tinkering (music later?)🦈",
       "game": "Co-working & Studying",
       "started_at": "2026-04-03T18:13:24Z"
+    },
+    {
+      "username": "GeoJim2006",
+      "title": "It's a Good Friday to look at some rock!🌋⚒️🪨🔎🔬 !discord !nova !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-04-03T20:08:40Z"
     }
   ]
 }
