@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-03T20:34:35.357Z",
+  "timestamp": "2026-04-03T20:52:15.959Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -20,12 +20,6 @@
       "started_at": "2026-04-03T16:04:20Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Wrapping up design !today before coding on Monday (day 5½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-04-03T19:39:51Z"
-    },
-    {
       "username": "Zachap",
       "title": "General Strike > Voting Harder  |  Tax-in-Kind > Tax the Rich  |  People > Capitalism  |  Analysis > Spectacle  |  Education > Drama",
       "game": "Just Chatting",
@@ -38,16 +32,16 @@
       "started_at": "2026-04-03T19:45:03Z"
     },
     {
-      "username": "Nerduino",
-      "title": "Live Artemis II Mission. PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
-      "game": "Science & Technology",
-      "started_at": "2026-04-03T17:19:52Z"
-    },
-    {
       "username": "Stephen_Wolfram",
       "title": "Future of Science and Technology Q&A (April 3, 2026)",
       "game": "Science & Technology",
       "started_at": "2026-04-03T19:32:40Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Live Artemis II Mission. PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
+      "game": "Science & Technology",
+      "started_at": "2026-04-03T17:19:52Z"
     },
     {
       "username": "SharkG33k",
