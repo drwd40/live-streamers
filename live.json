@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-03T19:40:11.859Z",
+  "timestamp": "2026-04-03T19:54:53.800Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -18,6 +18,12 @@
       "title": "looking at all my bird art books :)",
       "game": "Art",
       "started_at": "2026-04-03T16:04:20Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Wrapping up design !today before coding on Monday (day 5½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-04-03T19:39:51Z"
     },
     {
       "username": "oh_bother",
@@ -44,22 +50,22 @@
       "started_at": "2026-04-03T19:00:38Z"
     },
     {
-      "username": "SharkG33k",
-      "title": "Happy Friday! Stream tinkering (music later?)🦈",
-      "game": "Co-working & Studying",
-      "started_at": "2026-04-03T18:13:24Z"
-    },
-    {
       "username": "Stephen_Wolfram",
       "title": "Future of Science and Technology Q&A (April 3, 2026)",
       "game": "Science & Technology",
       "started_at": "2026-04-03T19:32:40Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Wrapping up design !today before coding on Monday (day 5½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-04-03T19:39:51Z"
+      "username": "DrawCuriosity",
+      "title": "🐑Artemis II updates + finishing Pokopia!! [Apr 23rd - MOVE-A-THON!]✨🐑 !dailybug !merch !tangia",
+      "game": "Science & Technology",
+      "started_at": "2026-04-03T19:45:03Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Happy Friday! Stream tinkering (music later?)🦈",
+      "game": "Co-working & Studying",
+      "started_at": "2026-04-03T18:13:24Z"
     }
   ]
 }
