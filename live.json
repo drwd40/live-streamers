@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-04T20:56:26.720Z",
+  "timestamp": "2026-04-04T21:08:44.971Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -36,6 +36,12 @@
       "title": "Answering your math questions and learning about PDEs",
       "game": "Math",
       "started_at": "2026-04-04T18:05:10Z"
+    },
+    {
+      "username": "AstroCanuck",
+      "title": "Astro's Po'Pourri: Lumibricks \"Alpine Observatory\" w/ @bythebrickbook | !PGV !giveaway !build | !drop !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-04-04T21:06:41Z"
     }
   ]
 }
