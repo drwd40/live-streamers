@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-04T17:45:27.957Z",
+  "timestamp": "2026-04-04T17:58:14.912Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -20,16 +20,16 @@
       "started_at": "2026-04-04T16:02:15Z"
     },
     {
-      "username": "Zachap",
-      "title": "General Strike > Voting Harder  |  Tax-in-Kind > Tax the Rich  |  People > Capitalism  |  Analysis > Spectacle  |  Education > Drama",
-      "game": "Just Chatting",
-      "started_at": "2026-04-04T10:01:50Z"
-    },
-    {
       "username": "Nerduino",
       "title": "Live Artemis II Mission. PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
       "game": "Science & Technology",
       "started_at": "2026-04-03T17:19:52Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "General Strike > Voting Harder  |  Tax-in-Kind > Tax the Rich  |  People > Capitalism  |  Analysis > Spectacle  |  Education > Drama",
+      "game": "Just Chatting",
+      "started_at": "2026-04-04T10:01:50Z"
     }
   ]
 }
