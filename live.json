@@ -1,6 +1,12 @@
 {
-  "timestamp": "2026-04-04T15:58:04.887Z",
+  "timestamp": "2026-04-04T16:13:14.058Z",
   "live": [
+    {
+      "username": "EJ_SA",
+      "title": "EJ'S ARTEMIS II MISSION COVERAGE! (PART 2) !a2schedule",
+      "game": "Science & Technology",
+      "started_at": "2026-04-03T06:40:21Z"
+    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
@@ -8,10 +14,10 @@
       "started_at": "2026-04-04T15:29:57Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "EJ'S ARTEMIS II MISSION COVERAGE! (PART 2) !a2schedule",
+      "username": "Nerduino",
+      "title": "Live Artemis II Mission. PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
       "game": "Science & Technology",
-      "started_at": "2026-04-03T06:40:21Z"
+      "started_at": "2026-04-03T17:19:52Z"
     },
     {
       "username": "Zachap",
@@ -20,10 +26,10 @@
       "started_at": "2026-04-04T10:01:50Z"
     },
     {
-      "username": "Nerduino",
-      "title": "Live Artemis II Mission. PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
+      "username": "SciAnts_Streams",
+      "title": "Earth Month with WWF | CHARITY EVENT | Bison conservation w/ Dennis Jorgenson | Partner+ 39/300 | !ppp !yt !pod !wwf",
       "game": "Science & Technology",
-      "started_at": "2026-04-03T17:19:52Z"
+      "started_at": "2026-04-04T16:02:15Z"
     }
   ]
 }
