@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-04T22:12:04.773Z",
+  "timestamp": "2026-04-04T22:25:18.949Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -42,6 +42,12 @@
       "title": "Back In The Lab - Mustache-iversary - Electronics - Eurorack - DIY",
       "game": "Just Chatting",
       "started_at": "2026-04-04T22:00:58Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "It's time for Piracy... & Naval History",
+      "game": "Pirates of the Burning Sea",
+      "started_at": "2026-04-04T22:15:54Z"
     }
   ]
 }
