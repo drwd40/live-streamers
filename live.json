@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-04T04:02:54.246Z",
+  "timestamp": "2026-04-04T04:42:48.320Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -21,7 +21,7 @@
     },
     {
       "username": "AstroCanuck",
-      "title": "Week's End Catch-up: Artemis II Live - Space & LEGO News | !PGV !giveaway !build | !drop !tkf",
+      "title": "Artemis II Live - CSA's Jeremy Hansen Q&A | !PGV !giveaway !build | !drop !tkf",
       "game": "Science & Technology",
       "started_at": "2026-04-03T22:34:56Z"
     },
@@ -32,16 +32,16 @@
       "started_at": "2026-04-03T17:19:52Z"
     },
     {
-      "username": "happyknightmares",
-      "title": "Not sure what we'll get up to tonight! Come find out? ✨",
-      "game": "Science & Technology",
-      "started_at": "2026-04-04T03:51:36Z"
-    },
-    {
       "username": "TominationTime",
       "title": "🔴1ST PLAYTHROUGH🔴SHE WILL SCREAM",
       "game": "Resident Evil 3",
       "started_at": "2026-04-04T03:58:30Z"
+    },
+    {
+      "username": "happyknightmares",
+      "title": "Not sure what we'll get up to tonight! Come find out? ✨",
+      "game": "Science & Technology",
+      "started_at": "2026-04-04T03:51:36Z"
     }
   ]
 }
