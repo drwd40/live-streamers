@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-04-05T23:30:18.983Z",
+  "timestamp": "2026-04-05T23:47:12.094Z",
   "live": [
-    {
-      "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
-      "game": "Animals, Aquariums, and Zoos",
-      "started_at": "2026-04-04T15:29:57Z"
-    },
     {
       "username": "EJ_SA",
       "title": "EJ'S ARTEMIS II MISSION COVERAGE! (PART 3) !a2schedule",
       "game": "Science & Technology",
       "started_at": "2026-04-05T05:06:07Z"
+    },
+    {
+      "username": "AlveusSanctuary",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
+      "game": "Animals, Aquariums, and Zoos",
+      "started_at": "2026-04-04T15:29:57Z"
     },
     {
       "username": "JapanesePrintmaking",
@@ -20,28 +20,22 @@
       "started_at": "2026-04-05T23:02:32Z"
     },
     {
-      "username": "Moohoodles",
-      "title": "🚀 Artemis II spacesuit testing!! 🌙 Humanity is going BACK to the moon!!",
-      "game": "Science & Technology",
-      "started_at": "2026-04-05T22:22:39Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "SUNDAY SHOWS",
       "game": "Just Chatting",
       "started_at": "2026-04-05T21:54:40Z"
     },
     {
-      "username": "Zachap",
-      "title": "learning and teaching isn't allowed in this economy apparently",
-      "game": "Just Chatting",
-      "started_at": "2026-04-05T10:00:58Z"
-    },
-    {
       "username": "Nerduino",
       "title": "Live Artemis II Mission. PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
       "game": "Science & Technology",
       "started_at": "2026-04-05T15:16:50Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "learning and teaching isn't allowed in this economy apparently",
+      "game": "Just Chatting",
+      "started_at": "2026-04-05T10:00:58Z"
     },
     {
       "username": "shnaff",
