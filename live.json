@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-05T07:05:25.711Z",
+  "timestamp": "2026-04-05T07:33:53.112Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,12 +14,6 @@
       "started_at": "2026-04-05T05:06:07Z"
     },
     {
-      "username": "DrMick",
-      "title": "Mental Health Chat + Marathon",
-      "game": "Marathon",
-      "started_at": "2026-04-05T04:42:45Z"
-    },
-    {
       "username": "Nerduino",
       "title": "Live Artemis II Mission. PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
       "game": "Science & Technology",
@@ -30,12 +24,6 @@
       "title": "Back In The Lab - Mustache-iversary - Electronics - Eurorack - DIY",
       "game": "Science & Technology",
       "started_at": "2026-04-04T22:00:58Z"
-    },
-    {
-      "username": "walkingsticklibrary",
-      "title": "Erte is real! Pigeon cognitive ability, and the living through the 1970's oil crisis.",
-      "game": "IRL",
-      "started_at": "2026-04-05T02:01:02Z"
     }
   ]
 }
