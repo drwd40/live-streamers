@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-05T00:44:46.757Z",
+  "timestamp": "2026-04-05T01:15:33.921Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -32,16 +32,22 @@
       "started_at": "2026-04-04T10:01:50Z"
     },
     {
+      "username": "SydHeresy",
+      "title": "Back In The Lab - Mustache-iversary - Electronics - Eurorack - DIY",
+      "game": "Science & Technology",
+      "started_at": "2026-04-04T22:00:58Z"
+    },
+    {
       "username": "MelissaInDeNile",
       "title": "Let's Drift Down De Nile and chat about some Ancient Egyptian Love Poetry!! ~ Follower Goal: 2329/2600 ~ !socials !beyonddenile",
       "game": "Just Chatting",
       "started_at": "2026-04-04T22:50:17Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Back In The Lab - Mustache-iversary - Electronics - Eurorack - DIY",
-      "game": "Just Chatting",
-      "started_at": "2026-04-04T22:00:58Z"
+      "username": "Mr_Aejis",
+      "title": "Teacher Plays: Persona 5!",
+      "game": "Persona 5 Royal",
+      "started_at": "2026-04-05T00:45:38Z"
     }
   ]
 }
