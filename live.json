@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-05T06:39:27.707Z",
+  "timestamp": "2026-04-05T07:05:25.711Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-04-05T05:06:07Z"
     },
     {
-      "username": "Nerduino",
-      "title": "Live Artemis II Mission. PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
-      "game": "Science & Technology",
-      "started_at": "2026-04-03T17:19:52Z"
-    },
-    {
       "username": "DrMick",
       "title": "Mental Health Chat + Marathon",
       "game": "Marathon",
       "started_at": "2026-04-05T04:42:45Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Live Artemis II Mission. PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
+      "game": "Science & Technology",
+      "started_at": "2026-04-03T17:19:52Z"
     },
     {
       "username": "SydHeresy",
