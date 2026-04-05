@@ -1,17 +1,23 @@
 {
-  "timestamp": "2026-04-05T05:03:02.839Z",
+  "timestamp": "2026-04-05T05:41:48.537Z",
   "live": [
-    {
-      "username": "EJ_SA",
-      "title": "EJ'S ARTEMIS II MISSION COVERAGE! (PART 2) !a2schedule",
-      "game": "Science & Technology",
-      "started_at": "2026-04-03T06:40:21Z"
-    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-04-04T15:29:57Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "EJ'S ARTEMIS II MISSION COVERAGE! (PART 3) !a2schedule",
+      "game": "Science & Technology",
+      "started_at": "2026-04-05T05:06:07Z"
+    },
+    {
+      "username": "DrMick",
+      "title": "Mental Health Chat + Marathon",
+      "game": "Marathon",
+      "started_at": "2026-04-05T04:42:45Z"
     },
     {
       "username": "Nerduino",
@@ -24,12 +30,6 @@
       "title": "BEAUTIFUL JILL MODS🔴1ST PLAYTHROUGH🔴SHE WILL SCREAM",
       "game": "Resident Evil 3",
       "started_at": "2026-04-05T03:44:47Z"
-    },
-    {
-      "username": "DrMick",
-      "title": "Mental Health Chat + Marathon",
-      "game": "Marathon",
-      "started_at": "2026-04-05T04:42:45Z"
     },
     {
       "username": "SydHeresy",
