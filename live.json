@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-06T03:41:39.225Z",
+  "timestamp": "2026-04-06T04:39:59.208Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -30,6 +30,12 @@
       "title": "The 1970's oil crises, arthropods and the terrestrial invasion, and cancer among younger populations.",
       "game": "IRL",
       "started_at": "2026-04-06T01:30:05Z"
+    },
+    {
+      "username": "DrMick",
+      "title": "Therapist Plays GTA IV: Part 30",
+      "game": "Grand Theft Auto IV",
+      "started_at": "2026-04-06T04:36:24Z"
     }
   ]
 }
