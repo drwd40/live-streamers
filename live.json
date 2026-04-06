@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-06T21:40:59.062Z",
+  "timestamp": "2026-04-06T21:55:07.331Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -20,16 +20,16 @@
       "started_at": "2026-04-06T15:29:59Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Wowee, a platforming sub-game! (day 6½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-04-06T19:24:51Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "🦕 DINOSAUR Q&A 🦖 Bring your best dinosaur questions — let's dive into what we know and how we know it (w/ paleontologist Danny Anduza)",
       "game": "Science & Technology",
       "started_at": "2026-04-06T20:01:06Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Wowee, a platforming sub-game! (day 6½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-04-06T19:24:51Z"
     },
     {
       "username": "AstroCanuck",
@@ -66,6 +66,12 @@
       "title": "NASA Artemis II Mission Coverage: Lunar Approach!",
       "game": "Science & Technology",
       "started_at": "2026-04-06T17:44:39Z"
+    },
+    {
+      "username": "imreallyimportant",
+      "title": "TRUMP HOLDS UNHINGED PRESS CONFERENCE OVER IRAN | LIB & LEAR @ 6 PM EST",
+      "game": "Just Chatting",
+      "started_at": "2026-04-06T21:50:43Z"
     }
   ]
 }
