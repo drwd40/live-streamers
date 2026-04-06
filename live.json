@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-06T22:36:23.868Z",
+  "timestamp": "2026-04-06T22:54:52.492Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -8,22 +8,22 @@
       "started_at": "2026-04-05T05:06:07Z"
     },
     {
-      "username": "Moohoodles",
-      "title": "🚀 Artemis II lunar flyby!! 🌙 History is happening!!",
-      "game": "Science & Technology",
-      "started_at": "2026-04-06T17:00:34Z"
-    },
-    {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-04-06T15:29:59Z"
     },
     {
-      "username": "LumiRue",
-      "title": "Stray First Playthrough | Cozy Kitty Game<3",
-      "game": "Stray",
-      "started_at": "2026-04-06T21:04:29Z"
+      "username": "Moohoodles",
+      "title": "🚀 Artemis II lunar flyby!! 🌙 History is happening!!",
+      "game": "Science & Technology",
+      "started_at": "2026-04-06T17:00:34Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "🦕 DINOSAUR Q&A 🦖 Bring your best dinosaur questions — let's dive into what we know and how we know it (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-04-06T20:01:06Z"
     },
     {
       "username": "imreallyimportant",
@@ -33,21 +33,21 @@
     },
     {
       "username": "AstroCanuck",
-      "title": "Live NASA Artemis II Lunar Flyby Mission - Astro's working in the background - on at 5pm | !lumi | !PGV !giveaway !build | !drop !tkf",
+      "title": "Live NASA Artemis II Lunar Flyby Mission | !lumi | !PGV !giveaway !build | !drop !tkf",
       "game": "Science & Technology",
       "started_at": "2026-04-06T16:54:25Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "🦕 DINOSAUR Q&A 🦖 Bring your best dinosaur questions — let's dive into what we know and how we know it (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-04-06T20:01:06Z"
     },
     {
       "username": "AdamLearnsLive",
       "title": "Wowee, a platforming sub-game! (day 6½)",
       "game": "Software and Game Development",
       "started_at": "2026-04-06T19:24:51Z"
+    },
+    {
+      "username": "LumiRue",
+      "title": "Stray First Playthrough | Cozy Kitty Game<3",
+      "game": "Stray",
+      "started_at": "2026-04-06T21:04:29Z"
     },
     {
       "username": "Nerduino",
@@ -62,15 +62,9 @@
       "started_at": "2026-04-06T18:59:39Z"
     },
     {
-      "username": "Rocketology",
-      "title": "NASA Artemis II Mission Coverage: Lunar Approach!",
-      "game": "Science & Technology",
-      "started_at": "2026-04-06T17:44:39Z"
-    },
-    {
       "username": "DrawCuriosity",
-      "title": "🪓 Artemis II updates + more Kerbal Space Program (for my future Artemis III missions!)[Apr 23rd - MOVE-A-THON!]✨🐑 !dailybug !merch !tangia",
-      "game": "Science & Technology",
+      "title": "🚀[First Time] For Artemis II! [Apr 23rd - MOVE-A-THON!]✨🐑 !dailybug !merch !tangia",
+      "game": "Kerbal Space Program",
       "started_at": "2026-04-06T19:27:24Z"
     }
   ]
