@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-06T17:46:06.080Z",
+  "timestamp": "2026-04-06T18:06:28.278Z",
   "live": [
     {
       "username": "Maya",
@@ -15,8 +15,8 @@
     },
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
-      "game": "Animals, Aquariums, and Zoos",
+      "title": "Animal Care Chats | !alveus !institute !pixel !schedule !video",
+      "game": "Just Chatting",
       "started_at": "2026-04-06T15:29:59Z"
     },
     {
@@ -56,16 +56,22 @@
       "started_at": "2026-04-06T10:01:56Z"
     },
     {
-      "username": "ProfessorEXP",
-      "title": "AI and Healthcare | Current Events | Religion and Society | Sociology BANNED",
-      "game": "Just Chatting",
-      "started_at": "2026-04-06T15:57:57Z"
-    },
-    {
       "username": "Rocketology",
       "title": "NASA Artemis II Mission Coverage: Lunar Approach!",
       "game": "Science & Technology",
       "started_at": "2026-04-06T17:44:39Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Working on the UI/UX of Sixteen",
+      "game": "Software and Game Development",
+      "started_at": "2026-04-06T17:57:52Z"
+    },
+    {
+      "username": "ProfessorEXP",
+      "title": "AI and Healthcare | Current Events | Religion and Society | Sociology BANNED",
+      "game": "Just Chatting",
+      "started_at": "2026-04-06T15:57:57Z"
     }
   ]
 }
