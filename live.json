@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-06T14:59:56.246Z",
+  "timestamp": "2026-04-06T15:24:06.157Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -8,10 +8,22 @@
       "started_at": "2026-04-05T05:06:07Z"
     },
     {
+      "username": "Maya",
+      "title": "GOOD MORNING☀️REACTS AND YAP☀️",
+      "game": "Just Chatting",
+      "started_at": "2026-04-06T15:15:39Z"
+    },
+    {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-04-04T15:29:57Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Coding starts today! (day 6)",
+      "game": "Software and Game Development",
+      "started_at": "2026-04-06T14:57:51Z"
     },
     {
       "username": "Nerduino",
@@ -30,12 +42,6 @@
       "title": "Socialism is political economy made honest",
       "game": "Just Chatting",
       "started_at": "2026-04-06T10:01:56Z"
-    },
-    {
-      "username": "AdamLearnsLive",
-      "title": "Coding starts today! (day 6)",
-      "game": "Software and Game Development",
-      "started_at": "2026-04-06T14:57:51Z"
     }
   ]
 }
