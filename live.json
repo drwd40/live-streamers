@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-07T17:29:43.175Z",
+  "timestamp": "2026-04-07T17:52:22.815Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -30,6 +30,12 @@
       "title": "War is a Racket.",
       "game": "Just Chatting",
       "started_at": "2026-04-07T10:01:57Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "Fresh Start - Freelanes & Terran Armada DLC",
+      "game": "Starfield",
+      "started_at": "2026-04-07T17:40:26Z"
     }
   ]
 }
