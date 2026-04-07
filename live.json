@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-07T12:55:51.748Z",
+  "timestamp": "2026-04-07T13:30:57.235Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -24,6 +24,12 @@
       "title": "War is a Racket.",
       "game": "Just Chatting",
       "started_at": "2026-04-07T10:01:57Z"
+    },
+    {
+      "username": "csharpfritz",
+      "title": "Making the Map for Everyone!",
+      "game": "Software and Game Development",
+      "started_at": "2026-04-07T13:10:12Z"
     }
   ]
 }
