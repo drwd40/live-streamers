@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-08T20:20:56.818Z",
+  "timestamp": "2026-04-08T20:38:36.482Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -26,22 +26,10 @@
       "started_at": "2026-04-08T19:54:37Z"
     },
     {
-      "username": "imreallyimportant",
-      "title": "4/8/26: DEBATING POLITICS ON TIKTOK",
-      "game": "Just Chatting",
-      "started_at": "2026-04-08T16:46:33Z"
-    },
-    {
       "username": "IrishJohnGames",
       "title": "🍀 One Month in Early Access - Rise of Piracy | !rop !steam !discordROP !streamers !MicroProse",
       "game": "Software and Game Development",
       "started_at": "2026-04-08T18:59:44Z"
-    },
-    {
-      "username": "Nerduino",
-      "title": "Live Artemis II Mission. PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
-      "game": "Science & Technology",
-      "started_at": "2026-04-08T14:57:47Z"
     },
     {
       "username": "Zachap",
@@ -50,22 +38,28 @@
       "started_at": "2026-04-08T10:02:36Z"
     },
     {
+      "username": "Nerduino",
+      "title": "Live Artemis II Mission. PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
+      "game": "Science & Technology",
+      "started_at": "2026-04-08T14:57:47Z"
+    },
+    {
       "username": "Stephen_Wolfram",
       "title": "Ep 2: Philosophy Discussion with Stephen Wolfram and Luz Christopher Seiberth",
       "game": "Science & Technology",
       "started_at": "2026-04-08T19:31:46Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Investigating Differential Equations + Writing a Book about It",
-      "game": "Math",
-      "started_at": "2026-04-08T17:58:30Z"
-    },
-    {
       "username": "DrawCuriosity",
       "title": "🚀TIme to draw some daily bugs? [Apr 23rd - MOVE-A-THON!]✨🐑 !dailybug !merch !tangia",
       "game": "Art",
       "started_at": "2026-04-08T20:20:03Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Investigating Differential Equations + Writing a Book about It",
+      "game": "Math",
+      "started_at": "2026-04-08T17:58:30Z"
     }
   ]
 }
