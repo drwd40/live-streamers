@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-08T18:05:43.895Z",
+  "timestamp": "2026-04-08T18:39:39.968Z",
   "live": [
     {
       "username": "Maya",
@@ -9,7 +9,7 @@
     },
     {
       "username": "Kitboga",
-      "title": "Gaslighting Puppy Scammers ft MiltonTPike1 [Ep. 1525]",
+      "title": "Scammers vs Impossible Captchas [Ep. 1525]",
       "game": "Just Chatting",
       "started_at": "2026-04-08T16:20:53Z"
     },
@@ -60,6 +60,12 @@
       "title": "Day 2",
       "game": "Starfield",
       "started_at": "2026-04-08T18:00:53Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 972: Language Design in Wolfram Language [Wolfram Financial Framework]",
+      "game": "Science & Technology",
+      "started_at": "2026-04-08T18:34:07Z"
     }
   ]
 }
