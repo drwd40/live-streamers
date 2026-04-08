@@ -1,12 +1,6 @@
 {
-  "timestamp": "2026-04-08T18:39:39.968Z",
+  "timestamp": "2026-04-08T19:07:11.224Z",
   "live": [
-    {
-      "username": "Maya",
-      "title": "HELPING FOSTER DOGS FIND THEIR FOREVER HOMES w/ Jake from State Farm and Real Good Rescue",
-      "game": "Just Chatting",
-      "started_at": "2026-04-08T17:51:26Z"
-    },
     {
       "username": "Kitboga",
       "title": "Scammers vs Impossible Captchas [Ep. 1525]",
@@ -50,6 +44,18 @@
       "started_at": "2026-04-08T10:02:36Z"
     },
     {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 972: Language Design in Wolfram Language [Wolfram Financial Framework]",
+      "game": "Science & Technology",
+      "started_at": "2026-04-08T18:34:07Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀 One Month in Early Access - Rise of Piracy | !rop !steam !discordROP !streamers !MicroProse",
+      "game": "Software and Game Development",
+      "started_at": "2026-04-08T18:59:44Z"
+    },
+    {
       "username": "eToThe2iPi",
       "title": "Investigating Differential Equations + Writing a Book about It",
       "game": "Math",
@@ -60,12 +66,6 @@
       "title": "Day 2",
       "game": "Starfield",
       "started_at": "2026-04-08T18:00:53Z"
-    },
-    {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 972: Language Design in Wolfram Language [Wolfram Financial Framework]",
-      "game": "Science & Technology",
-      "started_at": "2026-04-08T18:34:07Z"
     }
   ]
 }
