@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-08T02:21:38.174Z",
+  "timestamp": "2026-04-08T03:31:36.862Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -32,12 +32,6 @@
       "started_at": "2026-04-07T23:59:22Z"
     },
     {
-      "username": "csharpfritz",
-      "title": "BONUS Stream! Let's make a map for streamers",
-      "game": "Software and Game Development",
-      "started_at": "2026-04-08T00:57:08Z"
-    },
-    {
       "username": "Nerduino",
       "title": "Live Artemis II Mission. PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
       "game": "Science & Technology",
@@ -50,28 +44,28 @@
       "started_at": "2026-04-08T00:26:18Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
-      "game": "Just Chatting",
-      "started_at": "2026-04-08T01:01:57Z"
-    },
-    {
       "username": "MelissaInDeNile",
       "title": "Double Assassins Creed: Revelations Week!! ~ Follower Goal: 2332/2600 ~ !socials !beyonddenile",
       "game": "Assassin's Creed Revelations",
       "started_at": "2026-04-07T22:50:52Z"
     },
     {
-      "username": "Mr_Aejis",
-      "title": "Teacher Plays: Persona 5!",
-      "game": "Persona 5 Royal",
-      "started_at": "2026-04-08T00:33:44Z"
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-04-08T01:01:57Z"
     },
     {
       "username": "happyknightmares",
       "title": "Homework and fun time!! 📚🎨🧠",
       "game": "Co-working & Studying",
       "started_at": "2026-04-08T01:46:56Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "shoot all the robots [!fish🎣|!commands💻]",
+      "game": "Shooty Shooty Robot Invasion",
+      "started_at": "2026-04-08T03:10:17Z"
     },
     {
       "username": "walkingsticklibrary",
