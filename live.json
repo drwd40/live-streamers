@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-08T19:07:11.224Z",
+  "timestamp": "2026-04-08T19:39:55.720Z",
   "live": [
     {
       "username": "Kitboga",
@@ -8,28 +8,28 @@
       "started_at": "2026-04-08T16:20:53Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "EJ'S ARTEMIS II MISSION COVERAGE! (PART 4) !a2schedule !drops",
-      "game": "Science & Technology",
-      "started_at": "2026-04-07T04:30:05Z"
-    },
-    {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !Feed !ARC Raiders | !alveus !institute !pixel !schedule !video #ad",
       "game": "ARC Raiders",
       "started_at": "2026-04-08T15:32:50Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Goal !today: get platformer \"done\" (day 8)",
-      "game": "Software and Game Development",
-      "started_at": "2026-04-08T15:01:26Z"
+      "username": "EJ_SA",
+      "title": "EJ'S ARTEMIS II MISSION COVERAGE! (PART 4) !a2schedule !drops",
+      "game": "Science & Technology",
+      "started_at": "2026-04-07T04:30:05Z"
     },
     {
       "username": "imreallyimportant",
       "title": "4/8/26: DEBATING POLITICS ON TIKTOK",
       "game": "Just Chatting",
       "started_at": "2026-04-08T16:46:33Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀 One Month in Early Access - Rise of Piracy | !rop !steam !discordROP !streamers !MicroProse",
+      "game": "Software and Game Development",
+      "started_at": "2026-04-08T18:59:44Z"
     },
     {
       "username": "Nerduino",
@@ -44,28 +44,16 @@
       "started_at": "2026-04-08T10:02:36Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 972: Language Design in Wolfram Language [Wolfram Financial Framework]",
-      "game": "Science & Technology",
-      "started_at": "2026-04-08T18:34:07Z"
-    },
-    {
-      "username": "IrishJohnGames",
-      "title": "🍀 One Month in Early Access - Rise of Piracy | !rop !steam !discordROP !streamers !MicroProse",
-      "game": "Software and Game Development",
-      "started_at": "2026-04-08T18:59:44Z"
-    },
-    {
       "username": "eToThe2iPi",
       "title": "Investigating Differential Equations + Writing a Book about It",
       "game": "Math",
       "started_at": "2026-04-08T17:58:30Z"
     },
     {
-      "username": "Rocketology",
-      "title": "Day 2",
-      "game": "Starfield",
-      "started_at": "2026-04-08T18:00:53Z"
+      "username": "Stephen_Wolfram",
+      "title": "Ep 2: Philosophy Discussion with Stephen Wolfram and Luz Christopher Seiberth",
+      "game": "Science & Technology",
+      "started_at": "2026-04-08T19:31:46Z"
     }
   ]
 }
