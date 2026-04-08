@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-08T04:25:55.715Z",
+  "timestamp": "2026-04-08T05:14:45.059Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -20,16 +20,16 @@
       "started_at": "2026-04-06T22:08:20Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Electronics Repair - Soldering - Chillin'",
-      "game": "Science & Technology",
-      "started_at": "2026-04-08T00:26:18Z"
-    },
-    {
       "username": "DrMick",
       "title": "Heels vs. 1776ers | Final Regular Season Game",
       "game": "Sports",
       "started_at": "2026-04-08T03:59:39Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Electronics Repair - Soldering - Chillin'",
+      "game": "Science & Technology",
+      "started_at": "2026-04-08T00:26:18Z"
     },
     {
       "username": "happyknightmares",
