@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-07T23:59:53.291Z",
+  "timestamp": "2026-04-08T00:54:37.317Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -32,6 +32,12 @@
       "started_at": "2026-04-07T18:11:28Z"
     },
     {
+      "username": "AstroCanuck",
+      "title": "Astro's Po'Pourri: Lunar Images from Artemis II Mission! | !lumi | !PGV !giveaway !build | !drop !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-04-07T23:59:22Z"
+    },
+    {
       "username": "Nerduino",
       "title": "Live Artemis II Mission. PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
       "game": "Science & Technology",
@@ -47,7 +53,7 @@
       "username": "SydHeresy",
       "title": "Electronics Repair - Soldering - Chillin'",
       "game": "Science & Technology",
-      "started_at": "2026-04-07T18:59:29Z"
+      "started_at": "2026-04-08T00:26:18Z"
     },
     {
       "username": "eToThe2iPi",
@@ -62,10 +68,10 @@
       "started_at": "2026-04-07T22:50:52Z"
     },
     {
-      "username": "AstroCanuck",
-      "title": "Astro's Po'Pourri: Lunar Images from Artemis II Mission! | !lumi | !PGV !giveaway !build | !drop !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-04-07T23:59:22Z"
+      "username": "Mr_Aejis",
+      "title": "Teacher Plays: Persona 5!",
+      "game": "Persona 5 Royal",
+      "started_at": "2026-04-08T00:33:44Z"
     }
   ]
 }
