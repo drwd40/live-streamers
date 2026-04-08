@@ -1,6 +1,12 @@
 {
-  "timestamp": "2026-04-08T17:39:32.529Z",
+  "timestamp": "2026-04-08T18:05:43.895Z",
   "live": [
+    {
+      "username": "Maya",
+      "title": "HELPING FOSTER DOGS FIND THEIR FOREVER HOMES w/ Jake from State Farm and Real Good Rescue",
+      "game": "Just Chatting",
+      "started_at": "2026-04-08T17:51:26Z"
+    },
     {
       "username": "Kitboga",
       "title": "Gaslighting Puppy Scammers ft MiltonTPike1 [Ep. 1525]",
@@ -8,16 +14,16 @@
       "started_at": "2026-04-08T16:20:53Z"
     },
     {
-      "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !Feed !ARC Raiders | !alveus !institute !pixel !schedule !video #ad",
-      "game": "ARC Raiders",
-      "started_at": "2026-04-08T15:32:50Z"
-    },
-    {
       "username": "EJ_SA",
       "title": "EJ'S ARTEMIS II MISSION COVERAGE! (PART 4) !a2schedule !drops",
       "game": "Science & Technology",
       "started_at": "2026-04-07T04:30:05Z"
+    },
+    {
+      "username": "AlveusSanctuary",
+      "title": "Animal Ambassador 24/7 Live Cams | !Feed !ARC Raiders | !alveus !institute !pixel !schedule !video #ad",
+      "game": "ARC Raiders",
+      "started_at": "2026-04-08T15:32:50Z"
     },
     {
       "username": "AdamLearnsLive",
@@ -32,16 +38,28 @@
       "started_at": "2026-04-08T16:46:33Z"
     },
     {
+      "username": "Nerduino",
+      "title": "Live Artemis II Mission. PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
+      "game": "Science & Technology",
+      "started_at": "2026-04-08T14:57:47Z"
+    },
+    {
       "username": "Zachap",
       "title": "if new: pick a topic and say how long you have to find out :) education on the daily. The world could be on another better path sadly.",
       "game": "Just Chatting",
       "started_at": "2026-04-08T10:02:36Z"
     },
     {
-      "username": "Nerduino",
-      "title": "Live Artemis II Mission. PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
-      "game": "Science & Technology",
-      "started_at": "2026-04-08T14:57:47Z"
+      "username": "eToThe2iPi",
+      "title": "Investigating Differential Equations + Writing a Book about It",
+      "game": "Math",
+      "started_at": "2026-04-08T17:58:30Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "Day 2",
+      "game": "Starfield",
+      "started_at": "2026-04-08T18:00:53Z"
     }
   ]
 }
