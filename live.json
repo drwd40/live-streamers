@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-04-08T20:01:25.786Z",
+  "timestamp": "2026-04-08T20:20:56.818Z",
   "live": [
     {
-      "username": "Kitboga",
-      "title": "Scammers vs Impossible Captchas [Ep. 1525]",
-      "game": "Just Chatting",
-      "started_at": "2026-04-08T16:20:53Z"
+      "username": "EJ_SA",
+      "title": "EJ'S ARTEMIS II MISSION COVERAGE! (PART 4) !a2schedule !drops",
+      "game": "Science & Technology",
+      "started_at": "2026-04-07T04:30:05Z"
     },
     {
       "username": "AlveusSanctuary",
@@ -14,10 +14,16 @@
       "started_at": "2026-04-08T15:32:50Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "EJ'S ARTEMIS II MISSION COVERAGE! (PART 4) !a2schedule !drops",
+      "username": "Paleontologizing",
+      "title": "WHY is science important? 🔬👩🏽‍🔬⛏🦴🦖 Fossil science & natural history Q&A (w/ paleontologist Danny Anduza)",
       "game": "Science & Technology",
-      "started_at": "2026-04-07T04:30:05Z"
+      "started_at": "2026-04-08T19:52:44Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Into the Architect's Realm 😈 (day 8½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-04-08T19:54:37Z"
     },
     {
       "username": "imreallyimportant",
@@ -32,28 +38,16 @@
       "started_at": "2026-04-08T18:59:44Z"
     },
     {
-      "username": "Zachap",
-      "title": "if new: pick a topic and say how long you have to find out :) education on the daily. The world could be on another better path sadly.",
-      "game": "Just Chatting",
-      "started_at": "2026-04-08T10:02:36Z"
-    },
-    {
-      "username": "AdamLearnsLive",
-      "title": "Into the Architect's Realm 😈 (day 8½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-04-08T19:54:37Z"
-    },
-    {
       "username": "Nerduino",
       "title": "Live Artemis II Mission. PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
       "game": "Science & Technology",
       "started_at": "2026-04-08T14:57:47Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "WHY is science important? 🔬👩🏽‍🔬⛏🦴🦖 Fossil science & natural history Q&A (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-04-08T19:52:44Z"
+      "username": "Zachap",
+      "title": "if new: pick a topic and say how long you have to find out :) education on the daily. The world could be on another better path sadly.",
+      "game": "Just Chatting",
+      "started_at": "2026-04-08T10:02:36Z"
     },
     {
       "username": "Stephen_Wolfram",
@@ -66,6 +60,12 @@
       "title": "Investigating Differential Equations + Writing a Book about It",
       "game": "Math",
       "started_at": "2026-04-08T17:58:30Z"
+    },
+    {
+      "username": "DrawCuriosity",
+      "title": "🚀TIme to draw some daily bugs? [Apr 23rd - MOVE-A-THON!]✨🐑 !dailybug !merch !tangia",
+      "game": "Art",
+      "started_at": "2026-04-08T20:20:03Z"
     }
   ]
 }
