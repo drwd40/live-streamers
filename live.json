@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-08T00:54:37.317Z",
+  "timestamp": "2026-04-08T01:29:46.264Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -26,16 +26,16 @@
       "started_at": "2026-04-07T20:15:19Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "Earth Month with WWF | CHARITY EVENT | Black footed ferret conservation w/ Kristy Bly | Partner+ 73/300 | !ppp !yt !pod !wwf",
-      "game": "Science & Technology",
-      "started_at": "2026-04-07T18:11:28Z"
-    },
-    {
       "username": "AstroCanuck",
       "title": "Astro's Po'Pourri: Lunar Images from Artemis II Mission! | !lumi | !PGV !giveaway !build | !drop !tkf",
       "game": "Science & Technology",
       "started_at": "2026-04-07T23:59:22Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "Earth Month with WWF | CHARITY EVENT | Black footed ferret conservation w/ Kristy Bly | Partner+ 73/300 | !ppp !yt !pod !wwf",
+      "game": "Science & Technology",
+      "started_at": "2026-04-07T18:11:28Z"
     },
     {
       "username": "Nerduino",
@@ -50,16 +50,22 @@
       "started_at": "2026-04-07T22:03:32Z"
     },
     {
+      "username": "csharpfritz",
+      "title": "BONUS Stream! Let's make a map for streamers",
+      "game": "Software and Game Development",
+      "started_at": "2026-04-08T00:57:08Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-04-08T01:01:57Z"
+    },
+    {
       "username": "SydHeresy",
       "title": "Electronics Repair - Soldering - Chillin'",
       "game": "Science & Technology",
       "started_at": "2026-04-08T00:26:18Z"
-    },
-    {
-      "username": "eToThe2iPi",
-      "title": "Bring Your Questions: A Math/Ed Chat!",
-      "game": "Math",
-      "started_at": "2026-04-07T22:02:59Z"
     },
     {
       "username": "MelissaInDeNile",
