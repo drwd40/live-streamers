@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-08T20:59:02.255Z",
+  "timestamp": "2026-04-08T21:23:48.265Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -48,6 +48,12 @@
       "title": "🚀TIme to draw some daily bugs? [Apr 23rd - MOVE-A-THON!]✨🐑 !dailybug !merch !tangia",
       "game": "Art",
       "started_at": "2026-04-08T20:20:03Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "More math contest questions [!fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-04-08T21:05:48Z"
     }
   ]
 }
