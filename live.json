@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-09T22:06:33.199Z",
+  "timestamp": "2026-04-09T22:24:22.940Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -20,6 +20,12 @@
       "started_at": "2026-04-09T20:01:52Z"
     },
     {
+      "username": "imreallyimportant",
+      "title": "MELANIA TRUMP MAKES SURPRISE STATEMENT ABOUT EPSTEIN | TRUMP GOES OFF ON MAGA INFLUENCERS",
+      "game": "Just Chatting",
+      "started_at": "2026-04-09T22:06:59Z"
+    },
+    {
       "username": "SciAnts_Streams",
       "title": "Earth Month with WWF | CHARITY EVENT | Rhino conservation w/ Bas Huibregts | Partner+ 86/300 | !ppp !yt !pod !wwf",
       "game": "Science & Technology",
@@ -38,6 +44,12 @@
       "started_at": "2026-04-09T19:00:33Z"
     },
     {
+      "username": "shnaff",
+      "title": "Guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-04-09T22:03:44Z"
+    },
+    {
       "username": "GeneralSte",
       "title": "TW VET DOES A NEW CAMPAIGN!!!!  | !linktree !discord",
       "game": "Total War: WARHAMMER III",
@@ -48,12 +60,6 @@
       "title": "TTRPG Planning: TitansGrave 004: Story beats.",
       "game": "Tabletop RPGs",
       "started_at": "2026-04-09T21:01:16Z"
-    },
-    {
-      "username": "shnaff",
-      "title": "Guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-04-09T22:03:44Z"
     }
   ]
 }
