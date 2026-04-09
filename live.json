@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-09T17:43:56.917Z",
+  "timestamp": "2026-04-09T18:07:48.195Z",
   "live": [
     {
       "username": "Kitboga",
@@ -15,7 +15,7 @@
     },
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !ARC Raiders | !alveus !institute !pixel !schedule !video #ad",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video #ad",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-04-08T15:32:50Z"
     },
@@ -48,6 +48,12 @@
       "title": "Let's crack this thing, hacking into backlights using basic bus signals! Arduino hacking stream.",
       "game": "Just Chatting",
       "started_at": "2026-04-09T16:48:24Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "Earth Month with WWF | CHARITY EVENT | Rhino conservation w/ Bas Huibregts | Partner+ 86/300 | !ppp !yt !pod !wwf",
+      "game": "Science & Technology",
+      "started_at": "2026-04-09T18:06:29Z"
     }
   ]
 }
