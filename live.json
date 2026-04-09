@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-09T18:56:18.487Z",
+  "timestamp": "2026-04-09T19:27:38.001Z",
   "live": [
     {
       "username": "Kitboga",
@@ -20,28 +20,10 @@
       "started_at": "2026-04-08T15:32:50Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Meeting the Architect (day 9)",
-      "game": "Software and Game Development",
-      "started_at": "2026-04-09T14:53:12Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "4/9/26: DEBATING POLITICS ON TIKTOK",
       "game": "Just Chatting",
       "started_at": "2026-04-09T16:46:32Z"
-    },
-    {
-      "username": "Zachap",
-      "title": "liberalism is illiberal through it's internal contradictions so what you are seeing is a break down of an idealism myth",
-      "game": "Just Chatting",
-      "started_at": "2026-04-09T10:01:49Z"
-    },
-    {
-      "username": "oh_bother",
-      "title": "Let's crack this thing, hacking into backlights using basic bus signals! Arduino hacking stream.",
-      "game": "Just Chatting",
-      "started_at": "2026-04-09T16:48:24Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -50,10 +32,34 @@
       "started_at": "2026-04-09T18:06:29Z"
     },
     {
+      "username": "oh_bother",
+      "title": "Let's crack this thing, hacking into backlights using basic bus signals! Arduino hacking stream.",
+      "game": "Just Chatting",
+      "started_at": "2026-04-09T16:48:24Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "liberalism is illiberal through it's internal contradictions so what you are seeing is a break down of an idealism myth",
+      "game": "Just Chatting",
+      "started_at": "2026-04-09T10:01:49Z"
+    },
+    {
       "username": "Nerduino",
       "title": "Live Artemis II Mission. PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
       "game": "Science & Technology",
       "started_at": "2026-04-08T14:57:47Z"
+    },
+    {
+      "username": "DrMick",
+      "title": "Mental Health Chat + Painting 40k",
+      "game": "Miniatures & Models",
+      "started_at": "2026-04-09T19:03:31Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "E-Maxxing & Synth Mogging",
+      "game": "Just Chatting",
+      "started_at": "2026-04-09T19:00:33Z"
     }
   ]
 }
