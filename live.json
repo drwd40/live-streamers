@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-09T19:27:38.001Z",
+  "timestamp": "2026-04-09T19:53:08.935Z",
   "live": [
     {
       "username": "Kitboga",
@@ -20,28 +20,10 @@
       "started_at": "2026-04-08T15:32:50Z"
     },
     {
-      "username": "imreallyimportant",
-      "title": "4/9/26: DEBATING POLITICS ON TIKTOK",
-      "game": "Just Chatting",
-      "started_at": "2026-04-09T16:46:32Z"
-    },
-    {
       "username": "SciAnts_Streams",
       "title": "Earth Month with WWF | CHARITY EVENT | Rhino conservation w/ Bas Huibregts | Partner+ 86/300 | !ppp !yt !pod !wwf",
       "game": "Science & Technology",
       "started_at": "2026-04-09T18:06:29Z"
-    },
-    {
-      "username": "oh_bother",
-      "title": "Let's crack this thing, hacking into backlights using basic bus signals! Arduino hacking stream.",
-      "game": "Just Chatting",
-      "started_at": "2026-04-09T16:48:24Z"
-    },
-    {
-      "username": "Zachap",
-      "title": "liberalism is illiberal through it's internal contradictions so what you are seeing is a break down of an idealism myth",
-      "game": "Just Chatting",
-      "started_at": "2026-04-09T10:01:49Z"
     },
     {
       "username": "Nerduino",
@@ -50,10 +32,22 @@
       "started_at": "2026-04-08T14:57:47Z"
     },
     {
+      "username": "oh_bother",
+      "title": "Let's crack this thing, hacking into backlights using basic bus signals! Arduino hacking stream.",
+      "game": "Just Chatting",
+      "started_at": "2026-04-09T16:48:24Z"
+    },
+    {
       "username": "DrMick",
       "title": "Mental Health Chat + Painting 40k",
       "game": "Miniatures & Models",
       "started_at": "2026-04-09T19:03:31Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "liberalism is illiberal through it's internal contradictions so what you are seeing is a break down of an idealism myth",
+      "game": "Just Chatting",
+      "started_at": "2026-04-09T10:01:49Z"
     },
     {
       "username": "SydHeresy",
