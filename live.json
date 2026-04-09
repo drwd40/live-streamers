@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-09T06:48:46.796Z",
+  "timestamp": "2026-04-09T07:19:53.861Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,22 +20,10 @@
       "started_at": "2026-04-09T00:17:40Z"
     },
     {
-      "username": "DrMick",
-      "title": "Mental Health Chat + Painting 40k",
-      "game": "Miniatures & Models",
-      "started_at": "2026-04-09T04:27:37Z"
-    },
-    {
       "username": "Nerduino",
       "title": "Live Artemis II Mission. PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
       "game": "Science & Technology",
       "started_at": "2026-04-08T14:57:47Z"
-    },
-    {
-      "username": "walkingsticklibrary",
-      "title": "The bird killing Pope, where my lease comes from, cashless societies in Mexico and South Africa, plus Todd Callender has no shame.",
-      "game": "IRL",
-      "started_at": "2026-04-09T01:31:53Z"
     }
   ]
 }
