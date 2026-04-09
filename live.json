@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-09T18:07:48.195Z",
+  "timestamp": "2026-04-09T18:32:38.822Z",
   "live": [
     {
       "username": "Kitboga",
@@ -15,7 +15,7 @@
     },
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video #ad",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-04-08T15:32:50Z"
     },
@@ -38,16 +38,16 @@
       "started_at": "2026-04-09T10:01:49Z"
     },
     {
-      "username": "Nerduino",
-      "title": "Live Artemis II Mission. PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
-      "game": "Science & Technology",
-      "started_at": "2026-04-08T14:57:47Z"
-    },
-    {
       "username": "oh_bother",
       "title": "Let's crack this thing, hacking into backlights using basic bus signals! Arduino hacking stream.",
       "game": "Just Chatting",
       "started_at": "2026-04-09T16:48:24Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Live Artemis II Mission. PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
+      "game": "Science & Technology",
+      "started_at": "2026-04-08T14:57:47Z"
     },
     {
       "username": "SciAnts_Streams",
