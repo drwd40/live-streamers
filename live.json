@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-09T05:00:08.864Z",
+  "timestamp": "2026-04-09T05:41:49.441Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -20,28 +20,28 @@
       "started_at": "2026-04-09T00:17:40Z"
     },
     {
-      "username": "Nerduino",
-      "title": "Live Artemis II Mission. PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
-      "game": "Science & Technology",
-      "started_at": "2026-04-08T14:57:47Z"
-    },
-    {
       "username": "DrMick",
       "title": "Mental Health Chat + Painting 40k",
       "game": "Miniatures & Models",
       "started_at": "2026-04-09T04:27:37Z"
     },
     {
-      "username": "pencenter",
-      "title": "moar robotic death [!fish🎣|!commands💻]",
-      "game": "Shooty Shooty Robot Invasion",
-      "started_at": "2026-04-09T03:30:15Z"
+      "username": "Nerduino",
+      "title": "Live Artemis II Mission. PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
+      "game": "Science & Technology",
+      "started_at": "2026-04-08T14:57:47Z"
     },
     {
       "username": "happyknightmares",
       "title": "Homework and fun time!! 📚🎨🧠",
-      "game": "Co-working & Studying",
+      "game": "Words On Stream",
       "started_at": "2026-04-09T03:01:22Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "moar robotic death [!fish🎣|!commands💻]",
+      "game": "Shooty Shooty Robot Invasion",
+      "started_at": "2026-04-09T03:30:15Z"
     },
     {
       "username": "walkingsticklibrary",
