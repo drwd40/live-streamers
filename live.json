@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-09T16:24:49.383Z",
+  "timestamp": "2026-04-09T16:50:49.464Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -12,6 +12,12 @@
       "title": "Animal Ambassador 24/7 Live Cams | !ARC Raiders | !alveus !institute !pixel !schedule !video #ad",
       "game": "ARC Raiders",
       "started_at": "2026-04-08T15:32:50Z"
+    },
+    {
+      "username": "Kitboga",
+      "title": "Scammers vs Impossible Captchas [Ep. 1526]",
+      "game": "Just Chatting",
+      "started_at": "2026-04-09T16:49:06Z"
     },
     {
       "username": "AdamLearnsLive",
@@ -30,6 +36,18 @@
       "title": "Live Artemis II Mission. PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
       "game": "Science & Technology",
       "started_at": "2026-04-08T14:57:47Z"
+    },
+    {
+      "username": "imreallyimportant",
+      "title": "4/9/26: DEBATING POLITICS ON TIKTOK",
+      "game": "Just Chatting",
+      "started_at": "2026-04-09T16:46:32Z"
+    },
+    {
+      "username": "oh_bother",
+      "title": "Let's crack this thing, hacking into backlights using basic bus signals! Arduino hacking stream.",
+      "game": "Just Chatting",
+      "started_at": "2026-04-09T16:48:24Z"
     }
   ]
 }
