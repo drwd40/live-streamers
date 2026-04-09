@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-09T18:32:38.822Z",
+  "timestamp": "2026-04-09T18:56:18.487Z",
   "live": [
     {
       "username": "Kitboga",
@@ -44,16 +44,16 @@
       "started_at": "2026-04-09T16:48:24Z"
     },
     {
-      "username": "Nerduino",
-      "title": "Live Artemis II Mission. PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
-      "game": "Science & Technology",
-      "started_at": "2026-04-08T14:57:47Z"
-    },
-    {
       "username": "SciAnts_Streams",
       "title": "Earth Month with WWF | CHARITY EVENT | Rhino conservation w/ Bas Huibregts | Partner+ 86/300 | !ppp !yt !pod !wwf",
       "game": "Science & Technology",
       "started_at": "2026-04-09T18:06:29Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Live Artemis II Mission. PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
+      "game": "Science & Technology",
+      "started_at": "2026-04-08T14:57:47Z"
     }
   ]
 }
