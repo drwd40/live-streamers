@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-09T20:53:00.950Z",
+  "timestamp": "2026-04-09T21:10:12.272Z",
   "live": [
     {
       "username": "Kitboga",
@@ -38,16 +38,16 @@
       "started_at": "2026-04-09T10:01:49Z"
     },
     {
-      "username": "Nerduino",
-      "title": "Live Artemis II Mission. PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
-      "game": "Science & Technology",
-      "started_at": "2026-04-08T14:57:47Z"
-    },
-    {
       "username": "DrMick",
       "title": "Mental Health Chat + Painting 40k",
       "game": "Miniatures & Models",
       "started_at": "2026-04-09T19:03:31Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Live Artemis II Mission. PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
+      "game": "Science & Technology",
+      "started_at": "2026-04-08T14:57:47Z"
     },
     {
       "username": "SydHeresy",
@@ -60,6 +60,12 @@
       "title": "TW VET DOES A NEW CAMPAIGN!!!!  | !linktree !discord",
       "game": "Total War: WARHAMMER III",
       "started_at": "2026-04-09T19:59:51Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "TTRPG Planning: TitansGrave 004: Story beats.",
+      "game": "Tabletop RPGs",
+      "started_at": "2026-04-09T21:01:16Z"
     }
   ]
 }
