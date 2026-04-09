@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-09T23:39:07.797Z",
+  "timestamp": "2026-04-09T23:54:53.095Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -32,16 +32,16 @@
       "started_at": "2026-04-09T18:06:29Z"
     },
     {
-      "username": "Nerduino",
-      "title": "Live Artemis II Mission. PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
-      "game": "Science & Technology",
-      "started_at": "2026-04-08T14:57:47Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "E-Maxxing & Synth Mogging",
       "game": "Science & Technology",
       "started_at": "2026-04-09T19:00:33Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Live Artemis II Mission. PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
+      "game": "Science & Technology",
+      "started_at": "2026-04-08T14:57:47Z"
     },
     {
       "username": "ActualEducation",
