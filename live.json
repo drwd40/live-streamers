@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-08T23:52:41.359Z",
+  "timestamp": "2026-04-09T00:03:21.810Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -48,6 +48,18 @@
       "title": "Cracking the GRE Math Subject Test, Night 036: Further Review of Calc II.",
       "game": "Math",
       "started_at": "2026-04-08T22:11:53Z"
+    },
+    {
+      "username": "Ask_a_Scientist_Gaming",
+      "title": "Dr. Mike Bishop- Philosophy of cognitive science and Missile Command.",
+      "game": "Science & Technology",
+      "started_at": "2026-04-09T00:00:01Z"
+    },
+    {
+      "username": "nogre0",
+      "title": "philosophy ruins philosophy",
+      "game": "Just Chatting",
+      "started_at": "2026-04-09T00:00:06Z"
     }
   ]
 }
