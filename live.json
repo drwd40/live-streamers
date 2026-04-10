@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-10T20:54:10.649Z",
+  "timestamp": "2026-04-10T21:07:02.222Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -32,16 +32,16 @@
       "started_at": "2026-04-10T19:02:41Z"
     },
     {
+      "username": "AstroCanuck",
+      "title": "Live: NASA Artemis II Splashdown with @nerduino | !lumi | !PGV !giveaway !build | !drop !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-04-10T20:59:47Z"
+    },
+    {
       "username": "DrawCuriosity",
       "title": "🚀TIme to draw some MORE daily bugs? [Apr 23rd - MOVE-A-THON!]✨🐑 !dailybug !merch !tangia",
       "game": "Art",
       "started_at": "2026-04-10T20:07:07Z"
-    },
-    {
-      "username": "Stephen_Wolfram",
-      "title": "Science & Technology Q&A for Kids (and others) [Part 166]",
-      "game": "Science & Technology",
-      "started_at": "2026-04-10T19:43:26Z"
     }
   ]
 }
