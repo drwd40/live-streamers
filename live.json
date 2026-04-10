@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-10T12:37:55.234Z",
+  "timestamp": "2026-04-10T13:03:50.491Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -30,6 +30,12 @@
       "title": "Test stream. Please Ignore",
       "game": "Science & Technology",
       "started_at": "2026-04-10T11:31:22Z"
+    },
+    {
+      "username": "ProfessorEXP",
+      "title": "AI and Healthcare | Current Events | Religion and Society | Sociology BANNED",
+      "game": "Just Chatting",
+      "started_at": "2026-04-10T12:57:26Z"
     }
   ]
 }
