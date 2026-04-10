@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-10T16:00:29.741Z",
+  "timestamp": "2026-04-10T16:27:05.608Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -20,16 +20,16 @@
       "started_at": "2026-04-10T15:05:04Z"
     },
     {
-      "username": "Nerduino",
-      "title": "Live Artemis II Mission. PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
-      "game": "Science & Technology",
-      "started_at": "2026-04-10T13:46:45Z"
-    },
-    {
       "username": "Zachap",
       "title": "civilians are being bombed for rich to get richer and \"liberal states\" are created purely to defend capital line go up first and foremost.",
       "game": "Just Chatting",
       "started_at": "2026-04-10T10:01:06Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Live Artemis II Mission. PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
+      "game": "Science & Technology",
+      "started_at": "2026-04-10T13:46:45Z"
     }
   ]
 }
