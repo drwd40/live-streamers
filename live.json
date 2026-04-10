@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-10T22:39:30.153Z",
+  "timestamp": "2026-04-10T22:56:56.163Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -26,22 +26,28 @@
       "started_at": "2026-04-10T22:02:56Z"
     },
     {
-      "username": "Nerduino",
-      "title": "Live Artemis II Mission. PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
-      "game": "Science & Technology",
-      "started_at": "2026-04-10T16:38:59Z"
-    },
-    {
       "username": "AstroCanuck",
       "title": "Live: NASA Artemis II Splashdown with @nerduino | !lumi | !PGV !giveaway !build | !drop !tkf",
       "game": "Science & Technology",
       "started_at": "2026-04-10T20:59:47Z"
     },
     {
+      "username": "Nerduino",
+      "title": "Live Artemis II Mission. PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
+      "game": "Science & Technology",
+      "started_at": "2026-04-10T16:38:59Z"
+    },
+    {
       "username": "DrawCuriosity",
       "title": "🚀TIme to draw some MORE daily bugs? [Apr 23rd - MOVE-A-THON!]✨🐑 !dailybug !merch !tangia",
       "game": "Art",
       "started_at": "2026-04-10T20:07:07Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "#ArtemisII Comin' in Hot! Orion Reentry Coverage!",
+      "game": "Science & Technology",
+      "started_at": "2026-04-10T22:41:15Z"
     },
     {
       "username": "DonFactorial",
