@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-10T16:27:05.608Z",
+  "timestamp": "2026-04-10T16:47:26.926Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -26,10 +26,22 @@
       "started_at": "2026-04-10T10:01:06Z"
     },
     {
+      "username": "imreallyimportant",
+      "title": "4/10/26: DEBATING POLITICS ON TIKTOK",
+      "game": "Just Chatting",
+      "started_at": "2026-04-10T16:37:49Z"
+    },
+    {
       "username": "Nerduino",
       "title": "Live Artemis II Mission. PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
       "game": "Science & Technology",
-      "started_at": "2026-04-10T13:46:45Z"
+      "started_at": "2026-04-10T16:38:59Z"
+    },
+    {
+      "username": "oh_bother",
+      "title": "Hacking backlighting by just guessing packets. Weird car stuff, Arduino!",
+      "game": "Just Chatting",
+      "started_at": "2026-04-10T16:44:30Z"
     }
   ]
 }
