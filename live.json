@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-10T20:04:26.422Z",
+  "timestamp": "2026-04-10T20:19:25.210Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -32,12 +32,6 @@
       "started_at": "2026-04-10T10:01:06Z"
     },
     {
-      "username": "oh_bother",
-      "title": "Hacking backlighting by just guessing packets. Weird car stuff, Arduino!",
-      "game": "Just Chatting",
-      "started_at": "2026-04-10T16:44:30Z"
-    },
-    {
       "username": "IrishJohnGames",
       "title": "🍀 One Month in Early Access - Rise of Piracy | !rop !steam !discordROP !streamers !MicroProse",
       "game": "Software and Game Development",
@@ -48,6 +42,12 @@
       "title": "Science & Technology Q&A for Kids (and others) [Part 166]",
       "game": "Science & Technology",
       "started_at": "2026-04-10T19:43:26Z"
+    },
+    {
+      "username": "DrawCuriosity",
+      "title": "🚀TIme to draw some MORE daily bugs? [Apr 23rd - MOVE-A-THON!]✨🐑 !dailybug !merch !tangia",
+      "game": "Art",
+      "started_at": "2026-04-10T20:07:07Z"
     }
   ]
 }
