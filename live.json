@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-10T22:22:30.157Z",
+  "timestamp": "2026-04-10T22:39:30.153Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -20,6 +20,12 @@
       "started_at": "2026-04-10T21:16:41Z"
     },
     {
+      "username": "imreallyimportant",
+      "title": "INFLATION SURGES | US/IRAN MEETING IN PAKISTAN TOMORROW",
+      "game": "Just Chatting",
+      "started_at": "2026-04-10T22:02:56Z"
+    },
+    {
       "username": "Nerduino",
       "title": "Live Artemis II Mission. PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
       "game": "Science & Technology",
@@ -32,16 +38,16 @@
       "started_at": "2026-04-10T20:59:47Z"
     },
     {
-      "username": "imreallyimportant",
-      "title": "INFLATION SURGES | US/IRAN MEETING IN PAKISTAN TOMORROW",
-      "game": "Just Chatting",
-      "started_at": "2026-04-10T22:02:56Z"
-    },
-    {
       "username": "DrawCuriosity",
       "title": "🚀TIme to draw some MORE daily bugs? [Apr 23rd - MOVE-A-THON!]✨🐑 !dailybug !merch !tangia",
       "game": "Art",
       "started_at": "2026-04-10T20:07:07Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and learning about PDEs",
+      "game": "Math",
+      "started_at": "2026-04-10T22:34:05Z"
     }
   ]
 }
