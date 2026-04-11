@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-11T22:11:22.818Z",
+  "timestamp": "2026-04-11T22:24:58.848Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-04-11T19:00:04Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "SIXTEEN SEASON 2 PILOT!",
-      "game": "Just Chatting",
-      "started_at": "2026-04-11T21:31:59Z"
-    },
-    {
       "username": "eToThe2iPi",
       "title": "Sixteen: Season 2 Pilot Episode, with Guest Host @actualeducation",
       "game": "Quiz Show",
       "started_at": "2026-04-11T21:33:15Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "SIXTEEN SEASON 2 PILOT!",
+      "game": "Just Chatting",
+      "started_at": "2026-04-11T21:31:59Z"
     }
   ]
 }
