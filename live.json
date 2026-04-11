@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-04-11T18:36:32.314Z",
+  "timestamp": "2026-04-11T18:59:05.245Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-04-10T15:32:52Z"
-    },
-    {
-      "username": "TinyToxicTofu",
-      "title": "HoneyMooning on Twitch! Artemis Talk, Tricorder Project and New Game Day! ⚛️ !cnc !phd !bambi",
-      "game": "Elite: Dangerous",
-      "started_at": "2026-04-11T12:42:01Z"
     },
     {
       "username": "Zachap",
@@ -30,6 +24,12 @@
       "title": "THIS ISN'T TABLETOP?! TW VET AS A TEMPLAR !!!!  | !linktree !discord",
       "game": "Total War: WARHAMMER III",
       "started_at": "2026-04-11T16:54:08Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and struggling with homework",
+      "game": "Math",
+      "started_at": "2026-04-11T18:58:27Z"
     }
   ]
 }
