@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-11T18:59:05.245Z",
+  "timestamp": "2026-04-11T19:20:08.913Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,12 +14,6 @@
       "started_at": "2026-04-11T10:02:41Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Bring Your Questions: Math/Ed Chat",
-      "game": "Math",
-      "started_at": "2026-04-11T15:58:17Z"
-    },
-    {
       "username": "GeneralSte",
       "title": "THIS ISN'T TABLETOP?! TW VET AS A TEMPLAR !!!!  | !linktree !discord",
       "game": "Total War: WARHAMMER III",
@@ -30,6 +24,12 @@
       "title": "Answering your math questions and struggling with homework",
       "game": "Math",
       "started_at": "2026-04-11T18:58:27Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Ascend With SynthMaxxing - No Cap",
+      "game": "Just Chatting",
+      "started_at": "2026-04-11T19:00:04Z"
     }
   ]
 }
