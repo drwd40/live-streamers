@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-11T19:20:08.913Z",
+  "timestamp": "2026-04-11T19:35:47.816Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-04-11T16:54:08Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and struggling with homework",
-      "game": "Math",
-      "started_at": "2026-04-11T18:58:27Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Ascend With SynthMaxxing - No Cap",
       "game": "Just Chatting",
       "started_at": "2026-04-11T19:00:04Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and struggling with homework",
+      "game": "Math",
+      "started_at": "2026-04-11T18:58:27Z"
     }
   ]
 }
