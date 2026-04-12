@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-12T21:52:38.842Z",
+  "timestamp": "2026-04-12T22:03:10.954Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,6 +20,12 @@
       "started_at": "2026-04-12T21:23:55Z"
     },
     {
+      "username": "imreallyimportant",
+      "title": "SUNDAY SHOWS",
+      "game": "Just Chatting",
+      "started_at": "2026-04-12T21:49:43Z"
+    },
+    {
       "username": "Zachap",
       "title": "anti-slop streamer for the most part, not just ai related but generally. like I cant stand senselessness really...",
       "game": "Just Chatting",
@@ -30,12 +36,6 @@
       "title": "greetings from the new space |🌋 Science Sunday | !phd !tkf !socials !pubs",
       "game": "Just Chatting",
       "started_at": "2026-04-12T21:00:18Z"
-    },
-    {
-      "username": "imreallyimportant",
-      "title": "SUNDAY SHOWS",
-      "game": "Just Chatting",
-      "started_at": "2026-04-12T21:49:43Z"
     }
   ]
 }
