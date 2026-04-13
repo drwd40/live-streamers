@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-13T15:27:34.295Z",
+  "timestamp": "2026-04-13T15:58:46.617Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,22 @@
       "started_at": "2026-04-13T14:55:40Z"
     },
     {
-      "username": "Zachap",
-      "title": "people that do the least get the most in this economy. they struggle the least and get all the attention.",
-      "game": "Just Chatting",
-      "started_at": "2026-04-13T10:02:03Z"
+      "username": "EJ_SA",
+      "title": "Pumped from Artemis II? Want to learn how spacecraft fly? GET IN HERE!",
+      "game": "Kerbal Space Program",
+      "started_at": "2026-04-13T15:55:03Z"
     },
     {
       "username": "IrishJohnGames",
       "title": "🍀 2nd Month of Early Access - Rise of Piracy | !rop !steam !discordROP !streamers !MicroProse",
       "game": "Software and Game Development",
       "started_at": "2026-04-13T13:22:15Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "people that do the least get the most in this economy. they struggle the least and get all the attention.",
+      "game": "Just Chatting",
+      "started_at": "2026-04-13T10:02:03Z"
     }
   ]
 }
