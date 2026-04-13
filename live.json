@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-13T05:03:08.284Z",
+  "timestamp": "2026-04-13T05:59:08.399Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,6 +14,12 @@
       "started_at": "2026-04-13T01:07:35Z"
     },
     {
+      "username": "DrMick",
+      "title": "Therapist Plays GTA IV: Part 32",
+      "game": "Grand Theft Auto IV",
+      "started_at": "2026-04-13T05:14:14Z"
+    },
+    {
       "username": "SophieQuests",
       "title": "𖡼.𖤣𖥧𖡼.𖤣𖥧 Exploring the Oshima Coast 𖡼.𖤣𖥧𖡼.𖤣𖥧 Join our Historical Gaming Discord !discord",
       "game": "Ghost of Yōtei",
@@ -24,12 +30,6 @@
       "title": "Social and cultural aspects of kosher laws, genetics and chemistry of iris color, and wolbachia in Brazil.",
       "game": "Science & Technology",
       "started_at": "2026-04-13T01:30:51Z"
-    },
-    {
-      "username": "happyknightmares",
-      "title": "hanging out n stuff! ✨🍄🍭",
-      "game": "Duolingo",
-      "started_at": "2026-04-13T04:48:41Z"
     }
   ]
 }
