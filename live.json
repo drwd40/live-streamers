@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-13T01:01:15.034Z",
+  "timestamp": "2026-04-13T01:43:56.201Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "SUNDAY SHOWS",
       "game": "Just Chatting",
       "started_at": "2026-04-12T21:49:43Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "🩸New Legacy of Kain + Vampire Bird Science 🩸 | Partner+ 138/300 | !ppp !yt !pod !wwf",
+      "game": "Science & Technology",
+      "started_at": "2026-04-13T01:07:35Z"
     },
     {
       "username": "Zachap",
@@ -36,6 +42,12 @@
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Just Chatting",
       "started_at": "2026-04-13T00:03:23Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Social and cultural aspects of kosher laws, genetics and chemistry of iris color, and wolbachia in Brazil.",
+      "game": "Science & Technology",
+      "started_at": "2026-04-13T01:30:51Z"
     }
   ]
 }
