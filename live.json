@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-12T23:51:33.295Z",
+  "timestamp": "2026-04-13T00:04:04.123Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,18 @@
       "title": "greetings from the new space |🌋 Science Sunday | !phd !tkf !socials !pubs",
       "game": "Just Chatting",
       "started_at": "2026-04-12T21:00:18Z"
+    },
+    {
+      "username": "nogre0",
+      "title": "disputation & reputation",
+      "game": "Just Chatting",
+      "started_at": "2026-04-13T00:00:17Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-04-13T00:03:23Z"
     }
   ]
 }
