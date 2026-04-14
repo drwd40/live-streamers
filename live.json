@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-14T19:10:09.354Z",
+  "timestamp": "2026-04-14T19:42:31.046Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,10 +38,22 @@
       "started_at": "2026-04-14T19:00:46Z"
     },
     {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and continuing to suffer with PDEs",
+      "game": "Math",
+      "started_at": "2026-04-14T19:12:25Z"
+    },
+    {
       "username": "vul100",
       "title": "Tuesday April 14th @ 2:30 pm EDT: Shedding more light on aphantasia.",
       "game": "Science & Technology",
       "started_at": "2026-04-14T18:28:44Z"
+    },
+    {
+      "username": "xTalkProgrammer",
+      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
+      "game": "Just Chatting",
+      "started_at": "2026-04-14T19:33:52Z"
     }
   ]
 }
