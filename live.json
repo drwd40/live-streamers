@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-14T00:26:43.954Z",
+  "timestamp": "2026-04-14T01:06:21.640Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-04-12T15:21:05Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "🌱 PLANT APPRECIATION DAY 🌴 Celebrating the *true* rulers of our planet and their rich fossil history 🌲 (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-04-13T20:06:36Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "SWALWELL TO RESIGN FROM CONGRESS | TRUMP LIES ABOUT JESUS PIC",
       "game": "Just Chatting",
       "started_at": "2026-04-13T22:05:53Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "🌱 PLANT APPRECIATION DAY 🌴 Celebrating the *true* rulers of our planet and their rich fossil history 🌲 (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-04-13T20:06:36Z"
     },
     {
       "username": "Zachap",
@@ -26,28 +26,22 @@
       "started_at": "2026-04-13T10:02:03Z"
     },
     {
-      "username": "LumiRue",
-      "title": "Gamers In! Stray",
-      "game": "Stray",
-      "started_at": "2026-04-13T21:48:50Z"
-    },
-    {
       "username": "DrawCuriosity",
       "title": "🚀 Some science + Trying Switch 2 game demos 👀 [Apr 23rd - MOVE-A-THON!]✨🐑 !dailybug !merch !tangia",
       "game": "Games + Demos",
       "started_at": "2026-04-13T19:40:34Z"
     },
     {
+      "username": "SciAnts_Streams",
+      "title": "Microscopy Monday | Tiny worlds under the microscope including amber, insects, and more! | Partner+ 146/300 | !ppp !yt !pod !wwf",
+      "game": "Science & Technology",
+      "started_at": "2026-04-14T01:01:44Z"
+    },
+    {
       "username": "ActualEducation",
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Just Chatting",
       "started_at": "2026-04-14T00:01:30Z"
-    },
-    {
-      "username": "SETIInstitute",
-      "title": "SkyMapper is Live! Explore the Sky in Real Time 🌌",
-      "game": "Talk Shows & Podcasts",
-      "started_at": "2026-04-14T00:02:22Z"
     }
   ]
 }
