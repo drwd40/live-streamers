@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-14T11:40:26.676Z",
+  "timestamp": "2026-04-14T12:04:33.345Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "trump is a symptom of a larger problem.",
       "game": "Just Chatting",
       "started_at": "2026-04-14T10:01:49Z"
+    },
+    {
+      "username": "leioslabs",
+      "title": "Research stream",
+      "game": "Science & Technology",
+      "started_at": "2026-04-14T12:03:19Z"
     }
   ]
 }
