@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-14T22:13:14.719Z",
+  "timestamp": "2026-04-14T22:31:53.305Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,22 +32,16 @@
       "started_at": "2026-04-14T19:00:46Z"
     },
     {
-      "username": "GeoJim2006",
-      "title": "Fossilin' Around in the Lab!⚒️🪨🔎🔬 !discord !nova !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-04-14T21:20:23Z"
-    },
-    {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and continuing to suffer with PDEs",
-      "game": "Math",
-      "started_at": "2026-04-14T19:12:25Z"
-    },
-    {
       "username": "shnaff",
       "title": "Guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2026-04-14T22:04:17Z"
+    },
+    {
+      "username": "GeoJim2006",
+      "title": "Fossilin' Around in the Lab!⚒️🪨🔎🔬 !discord !nova !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-04-14T21:20:23Z"
     },
     {
       "username": "eToThe2iPi",
