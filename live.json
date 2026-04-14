@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-04-14T20:09:12.200Z",
+  "timestamp": "2026-04-14T20:31:49.066Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-04-14T15:21:07Z"
-    },
-    {
-      "username": "ipaintbirbs",
-      "title": "back from my art break!!! hello!",
-      "game": "Art",
-      "started_at": "2026-04-14T16:04:50Z"
     },
     {
       "username": "Zachap",
@@ -32,16 +26,16 @@
       "started_at": "2026-04-14T19:12:25Z"
     },
     {
-      "username": "xTalkProgrammer",
-      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
-      "game": "Just Chatting",
-      "started_at": "2026-04-14T19:33:52Z"
-    },
-    {
       "username": "vul100",
       "title": "Tuesday April 14th @ 2:30 pm EDT: Shedding more light on aphantasia.",
       "game": "Science & Technology",
       "started_at": "2026-04-14T18:28:44Z"
+    },
+    {
+      "username": "xTalkProgrammer",
+      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
+      "game": "Just Chatting",
+      "started_at": "2026-04-14T19:33:52Z"
     }
   ]
 }
