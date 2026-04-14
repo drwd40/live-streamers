@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-13T23:56:04.285Z",
+  "timestamp": "2026-04-14T00:26:43.954Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,10 +38,16 @@
       "started_at": "2026-04-13T19:40:34Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "20260413 - Math Communication Monday! The Weils and Stability of Navier-Stokes.",
-      "game": "Math",
-      "started_at": "2026-04-13T21:10:20Z"
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-04-14T00:01:30Z"
+    },
+    {
+      "username": "SETIInstitute",
+      "title": "SkyMapper is Live! Explore the Sky in Real Time 🌌",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2026-04-14T00:02:22Z"
     }
   ]
 }
