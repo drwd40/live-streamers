@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-15T01:00:53.291Z",
+  "timestamp": "2026-04-15T01:42:29.782Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,22 +20,16 @@
       "started_at": "2026-04-14T21:54:38Z"
     },
     {
-      "username": "AstroCanuck",
-      "title": "Astro's Po'Pourri: New Artemis II Launch Footage | !lumi | !PGV !giveaway !build | !drop !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-04-15T00:00:24Z"
-    },
-    {
       "username": "SciAnts_Streams",
       "title": "Earth Month with WWF | CHARITY EVENT | sugar glider conservation w/ Kita Ashman | Partner+ 158/300 | !ppp !yt !pod !wwf",
       "game": "Science & Technology",
       "started_at": "2026-04-15T00:09:55Z"
     },
     {
-      "username": "Zachap",
-      "title": "trump is a symptom of a larger problem.",
-      "game": "Just Chatting",
-      "started_at": "2026-04-14T10:01:49Z"
+      "username": "AstroCanuck",
+      "title": "Astro's Po'Pourri: New Artemis II Launch Footage | !lumi | !PGV !giveaway !build | !drop !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-04-15T00:00:24Z"
     },
     {
       "username": "SydHeresy",
@@ -44,10 +38,10 @@
       "started_at": "2026-04-14T19:00:46Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Triangles",
-      "game": "Math",
-      "started_at": "2026-04-14T22:00:33Z"
+      "username": "Zachap",
+      "title": "trump is a symptom of a larger problem.",
+      "game": "Just Chatting",
+      "started_at": "2026-04-14T10:01:49Z"
     },
     {
       "username": "Nerduino",
@@ -62,16 +56,22 @@
       "started_at": "2026-04-15T00:00:05Z"
     },
     {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-04-15T01:00:09Z"
+    },
+    {
       "username": "MelissaInDeNile",
       "title": "Finishing Up Assassins Creed: Revelations and Chatting About Ancient Egypt!! ~ Follower Goal: 2337/2600 ~ !socials !beyonddenile",
       "game": "Assassin's Creed Revelations",
       "started_at": "2026-04-15T00:39:01Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
-      "game": "Just Chatting",
-      "started_at": "2026-04-15T01:00:09Z"
+      "username": "walkingsticklibrary",
+      "title": "The right questions about wolbachia, gene drives, and mosquitoes, pigeon domestication, and can AI replace plumbers?",
+      "game": "Science & Technology",
+      "started_at": "2026-04-15T01:30:26Z"
     }
   ]
 }
