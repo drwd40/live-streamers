@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-15T00:05:10.155Z",
+  "timestamp": "2026-04-15T01:00:53.291Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,6 +20,18 @@
       "started_at": "2026-04-14T21:54:38Z"
     },
     {
+      "username": "AstroCanuck",
+      "title": "Astro's Po'Pourri: New Artemis II Launch Footage | !lumi | !PGV !giveaway !build | !drop !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-04-15T00:00:24Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "Earth Month with WWF | CHARITY EVENT | sugar glider conservation w/ Kita Ashman | Partner+ 158/300 | !ppp !yt !pod !wwf",
+      "game": "Science & Technology",
+      "started_at": "2026-04-15T00:09:55Z"
+    },
+    {
       "username": "Zachap",
       "title": "trump is a symptom of a larger problem.",
       "game": "Just Chatting",
@@ -32,40 +44,34 @@
       "started_at": "2026-04-14T19:00:46Z"
     },
     {
-      "username": "shnaff",
-      "title": "Guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-04-14T22:04:17Z"
-    },
-    {
-      "username": "AstroCanuck",
-      "title": "Astro's Po'Pourri: New Artemis II Launch Footage | !lumi | !PGV !giveaway !build | !drop !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-04-15T00:00:24Z"
-    },
-    {
-      "username": "GeoJim2006",
-      "title": "Fossilin' Around in the Lab!⚒️🪨🔎🔬 !discord !nova !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-04-14T21:20:23Z"
-    },
-    {
       "username": "eToThe2iPi",
       "title": "Triangles",
       "game": "Math",
       "started_at": "2026-04-14T22:00:33Z"
     },
     {
-      "username": "MelissaInDeNile",
-      "title": "Finishing Up Assassins Creed: Revelations and Chatting About Ancient Egypt!! ~ Follower Goal: 2337/2600 ~ !socials !beyonddenile",
-      "game": "Assassin's Creed Revelations",
-      "started_at": "2026-04-14T22:50:47Z"
+      "username": "Nerduino",
+      "title": "Space science updates.  Live SoCal SpaceX launch! The Story of Artemis I.  PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
+      "game": "Science & Technology",
+      "started_at": "2026-04-15T00:49:26Z"
     },
     {
       "username": "SharkG33k",
       "title": "Toothday! Shark science news!🦈",
       "game": "Science & Technology",
       "started_at": "2026-04-15T00:00:05Z"
+    },
+    {
+      "username": "MelissaInDeNile",
+      "title": "Finishing Up Assassins Creed: Revelations and Chatting About Ancient Egypt!! ~ Follower Goal: 2337/2600 ~ !socials !beyonddenile",
+      "game": "Assassin's Creed Revelations",
+      "started_at": "2026-04-15T00:39:01Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-04-15T01:00:09Z"
     }
   ]
 }
