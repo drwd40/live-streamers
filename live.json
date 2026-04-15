@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-15T14:49:53.452Z",
+  "timestamp": "2026-04-15T15:17:40.773Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "trump is a symptom of a larger problem.",
       "game": "Just Chatting",
       "started_at": "2026-04-15T10:07:33Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Wrapping up dialogue this morning (day 13)",
+      "game": "Software and Game Development",
+      "started_at": "2026-04-15T15:09:21Z"
     }
   ]
 }
