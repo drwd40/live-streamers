@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-15T22:11:15.749Z",
+  "timestamp": "2026-04-15T22:28:45.581Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,12 +14,6 @@
       "started_at": "2026-04-15T20:11:42Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Farmer Adam (day 13½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-04-15T20:03:47Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "TRUMP SAYS IRAN WAR IS \"VERY CLOSE TO BEING OVER\" FOR THE 10TH TIME",
       "game": "Just Chatting",
@@ -30,6 +24,12 @@
       "title": "trump is a symptom of a larger problem.",
       "game": "Just Chatting",
       "started_at": "2026-04-15T10:07:33Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Farmer Adam (day 13½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-04-15T20:03:47Z"
     },
     {
       "username": "DrawCuriosity",
