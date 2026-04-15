@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-15T20:29:36.525Z",
+  "timestamp": "2026-04-15T20:50:35.830Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-04-14T15:21:07Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Farmer Adam (day 13½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-04-15T20:03:47Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "🦖🎡 WHEEL OF FOSSIL NEWS 🎡🦴 New dinosaurs 🦕 and new discoveries, plus viewer Q&A (w/ paleontologist Danny Anduza)",
       "game": "Science & Technology",
       "started_at": "2026-04-15T20:11:42Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Farmer Adam (day 13½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-04-15T20:03:47Z"
     },
     {
       "username": "Zachap",
