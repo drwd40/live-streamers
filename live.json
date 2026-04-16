@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-04-16T15:08:59.291Z",
+  "timestamp": "2026-04-16T15:47:25.986Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-04-16T05:01:51Z"
-    },
-    {
-      "username": "Zachap",
-      "title": "people care more about aesthetics and it is killing us all slowly",
-      "game": "Just Chatting",
-      "started_at": "2026-04-16T10:01:03Z"
     },
     {
       "username": "csharpfritz",
@@ -24,6 +18,12 @@
       "title": "Creating music (day 14)",
       "game": "Software and Game Development",
       "started_at": "2026-04-16T15:05:17Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "people care more about aesthetics and it is killing us all slowly",
+      "game": "Just Chatting",
+      "started_at": "2026-04-16T10:01:03Z"
     }
   ]
 }
