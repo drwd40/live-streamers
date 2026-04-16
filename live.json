@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-16T01:01:30.675Z",
+  "timestamp": "2026-04-16T01:42:52.756Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,12 +14,6 @@
       "started_at": "2026-04-15T21:55:05Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "🦖🎡 WHEEL OF FOSSIL NEWS 🎡🦴 New dinosaurs 🦕 and new discoveries, plus viewer Q&A (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-04-15T20:11:42Z"
-    },
-    {
       "username": "ipaintbirbs",
       "title": "evening birb art",
       "game": "Art",
@@ -32,6 +26,12 @@
       "started_at": "2026-04-15T10:07:33Z"
     },
     {
+      "username": "Moohoodles",
+      "title": "🌎 Artemis II Hype! 🌙 Space & Astrobiology news :) !pp",
+      "game": "Science & Technology",
+      "started_at": "2026-04-16T01:35:13Z"
+    },
+    {
       "username": "SharkG33k",
       "title": "Water Wednesday! Bull shark drift dive!🦈",
       "game": "Science & Technology",
@@ -42,6 +42,12 @@
       "title": "finished joking. only srs philosphy",
       "game": "Just Chatting",
       "started_at": "2026-04-16T00:00:17Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Can AI replace plumbers, who are/were the Gray Panthers, and GLP-1 receptor agonists for head injuries.",
+      "game": "Science & Technology",
+      "started_at": "2026-04-16T01:29:47Z"
     }
   ]
 }
