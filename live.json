@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-04-16T19:43:23.894Z",
+  "timestamp": "2026-04-16T20:05:39.526Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-04-16T05:01:51Z"
-    },
-    {
-      "username": "SciAnts_Streams",
-      "title": "SciAnts IRL | Dinosaurs and Tulips | Partner+ 170/300 | !ppp !yt !pod !wwf",
-      "game": "IRL",
-      "started_at": "2026-04-16T17:11:21Z"
     },
     {
       "username": "csharpfritz",
@@ -36,6 +30,18 @@
       "title": "What happens if the entirety of the French Navy decides to carry on fighting in WWII? (Patreon Live)",
       "game": "Just Chatting",
       "started_at": "2026-04-16T18:38:38Z"
+    },
+    {
+      "username": "DrMick",
+      "title": "Mental Health Chat + Painting 40k",
+      "game": "Miniatures & Models",
+      "started_at": "2026-04-16T20:01:02Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Aura Farming With SolderMaxxing",
+      "game": "Just Chatting",
+      "started_at": "2026-04-16T20:00:20Z"
     }
   ]
 }
