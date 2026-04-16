@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-16T13:11:07.356Z",
+  "timestamp": "2026-04-16T13:52:45.500Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,22 +8,16 @@
       "started_at": "2026-04-16T05:01:51Z"
     },
     {
-      "username": "Zachap",
-      "title": "trump is a symptom of a larger problem that is liberalism",
-      "game": "Just Chatting",
-      "started_at": "2026-04-16T10:01:03Z"
-    },
-    {
-      "username": "leioslabs",
-      "title": "Research stream",
-      "game": "Science & Technology",
-      "started_at": "2026-04-16T11:43:57Z"
-    },
-    {
       "username": "csharpfritz",
       "title": "Aspireify and the Map Project",
       "game": "Software and Game Development",
       "started_at": "2026-04-16T13:04:06Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "trump is a symptom of a larger problem that is liberalism",
+      "game": "Just Chatting",
+      "started_at": "2026-04-16T10:01:03Z"
     }
   ]
 }
