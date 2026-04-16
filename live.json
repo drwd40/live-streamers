@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-16T20:25:09.929Z",
+  "timestamp": "2026-04-16T20:44:36.896Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -9,7 +9,7 @@
     },
     {
       "username": "Paleontologizing",
-      "title": "New poll asks \"What's your favorite dinosaur?\" 🦕🦖 and the results are INTERESTING 🐦 + Thursday BIRDSday (w/ paleontologist Danny Anduza)",
+      "title": "\"What's your favorite dinosaur?\" asks new poll 🦕🦖 and the results are INTERESTING 🐦 + Thursday BIRDSday (w/ paleontologist Danny Anduza)",
       "game": "Science & Technology",
       "started_at": "2026-04-16T20:13:07Z"
     },
@@ -32,16 +32,16 @@
       "started_at": "2026-04-16T20:00:20Z"
     },
     {
-      "username": "DrAlexanderClarke",
-      "title": "What happens if the entirety of the French Navy decides to carry on fighting in WWII? (Patreon Live)",
-      "game": "Just Chatting",
-      "started_at": "2026-04-16T18:38:38Z"
-    },
-    {
       "username": "AndrewHolding",
       "title": "[UK/USA] Stream for progress! Science co-stream, Raising Money for Cancer Research UK (!donate) and donation induced chaos",
       "game": "The Witcher 3: Wild Hunt",
       "started_at": "2026-04-16T20:23:41Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "What happens if the entirety of the French Navy decides to carry on fighting in WWII? (Patreon Live)",
+      "game": "Just Chatting",
+      "started_at": "2026-04-16T18:38:38Z"
     }
   ]
 }
