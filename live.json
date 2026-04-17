@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-17T01:11:31.290Z",
+  "timestamp": "2026-04-17T01:54:55.631Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,28 +26,10 @@
       "started_at": "2026-04-16T10:01:03Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Aura Farming With SolderMaxxing",
-      "game": "Science & Technology",
-      "started_at": "2026-04-16T20:00:20Z"
-    },
-    {
-      "username": "shnaff",
-      "title": "Guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-04-16T22:01:35Z"
-    },
-    {
       "username": "Nerduino",
       "title": "Thursday night space and Earth science.  Lyrid Meteors, Solar Astronomy . PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
       "game": "Science & Technology",
       "started_at": "2026-04-17T00:49:51Z"
-    },
-    {
-      "username": "MelissaInDeNile",
-      "title": "AHHH NEW GAME!!! FINALLY Playing Assassin's Creed 3!!!! ~ Follower Goal: 2340/2600 ~ !socials !beyonddenile",
-      "game": "Assassin's Creed III",
-      "started_at": "2026-04-16T22:49:31Z"
     },
     {
       "username": "SophieQuests",
@@ -56,16 +38,22 @@
       "started_at": "2026-04-16T22:52:00Z"
     },
     {
+      "username": "SydHeresy",
+      "title": "Aura Farming With SolderMaxxing",
+      "game": "Science & Technology",
+      "started_at": "2026-04-16T20:00:20Z"
+    },
+    {
+      "username": "MelissaInDeNile",
+      "title": "AHHH NEW GAME!!! FINALLY Playing Assassin's Creed 3!!!! ~ Follower Goal: 2340/2600 ~ !socials !beyonddenile",
+      "game": "Assassin's Creed III",
+      "started_at": "2026-04-16T22:49:31Z"
+    },
+    {
       "username": "SharkG33k",
       "title": "Shark content catch-up🦈",
       "game": "Science & Technology",
       "started_at": "2026-04-17T00:20:01Z"
-    },
-    {
-      "username": "Mr_Aejis",
-      "title": "Healing the world through violence: Persona 5 - Teacher Plays",
-      "game": "Persona 5 Royal",
-      "started_at": "2026-04-17T00:29:24Z"
     },
     {
       "username": "ActualEducation",
@@ -74,10 +62,22 @@
       "started_at": "2026-04-17T00:01:56Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "TTRPG Planning: TitansGrave 005: Some Specifics",
-      "game": "Tabletop RPGs",
-      "started_at": "2026-04-16T22:24:35Z"
+      "username": "Mr_Aejis",
+      "title": "Healing the world through violence: Persona 5 - Teacher Plays",
+      "game": "Persona 5 Royal",
+      "started_at": "2026-04-17T00:29:24Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "The price of cheap cashmere, mace in your face, and \"Why I Live at the P.O.\"",
+      "game": "Science & Technology",
+      "started_at": "2026-04-17T01:31:37Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "golfing is more chaotic with friends @xdarthdeathx [!fish🎣|!commands💻]",
+      "game": "Super Battle Golf",
+      "started_at": "2026-04-17T01:41:48Z"
     }
   ]
 }
