@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-17T12:03:32.697Z",
+  "timestamp": "2026-04-17T12:34:55.637Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-04-16T05:01:51Z"
     },
     {
-      "username": "Zachap",
-      "title": "facts. generally. that is all.",
-      "game": "Just Chatting",
-      "started_at": "2026-04-17T10:03:14Z"
-    },
-    {
       "username": "leioslabs",
       "title": "Research stream | NeRFs incoming!",
       "game": "Science & Technology",
       "started_at": "2026-04-17T11:06:11Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "facts. generally. that is all.",
+      "game": "Just Chatting",
+      "started_at": "2026-04-17T10:03:14Z"
     }
   ]
 }
