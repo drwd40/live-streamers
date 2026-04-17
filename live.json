@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-17T16:15:38.306Z",
+  "timestamp": "2026-04-17T16:36:36.260Z",
   "live": [
     {
       "username": "AdamLearnsLive",
@@ -20,22 +20,16 @@
       "started_at": "2026-04-17T12:57:32Z"
     },
     {
-      "username": "Zachap",
-      "title": "facts. generally. that is all.",
-      "game": "Just Chatting",
-      "started_at": "2026-04-17T10:03:14Z"
-    },
-    {
-      "username": "Andilippi",
-      "title": "I have a guitar... | NEW OBS PLUGIN -> !bbc",
-      "game": "Music",
-      "started_at": "2026-04-17T13:39:49Z"
-    },
-    {
       "username": "ipaintbirbs",
       "title": "workin' on my knight doves",
       "game": "Art",
       "started_at": "2026-04-17T16:13:29Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "facts. generally. that is all.",
+      "game": "Just Chatting",
+      "started_at": "2026-04-17T10:03:14Z"
     }
   ]
 }
