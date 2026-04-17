@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-17T21:01:25.570Z",
+  "timestamp": "2026-04-17T21:21:40.584Z",
   "live": [
     {
       "username": "AdamLearnsLive",
@@ -20,16 +20,16 @@
       "started_at": "2026-04-17T12:57:32Z"
     },
     {
-      "username": "Zachap",
-      "title": "facts. generally. that is all.",
-      "game": "Just Chatting",
-      "started_at": "2026-04-17T10:03:14Z"
-    },
-    {
       "username": "IrishJohnGames",
       "title": "🍀 2nd Month of Early Access - Rise of Piracy | !rop !steam !discordROP !streamers !MicroProse",
       "game": "Software and Game Development",
       "started_at": "2026-04-17T17:59:44Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "facts. generally. that is all.",
+      "game": "Just Chatting",
+      "started_at": "2026-04-17T10:03:14Z"
     },
     {
       "username": "DrawCuriosity",
@@ -42,6 +42,12 @@
       "title": "Episode 2 - Exploration Build (no mods)",
       "game": "Starfield",
       "started_at": "2026-04-17T18:34:42Z"
+    },
+    {
+      "username": "GeoJim2006",
+      "title": "Fossiliferous Friday - Lookin at preserved dead stuff!⚒️🪨🔎🔬 !discord !nova !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-04-17T21:10:19Z"
     }
   ]
 }
