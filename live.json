@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-17T00:41:38.769Z",
+  "timestamp": "2026-04-17T01:11:31.290Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,22 @@
       "started_at": "2026-04-16T10:01:03Z"
     },
     {
+      "username": "SydHeresy",
+      "title": "Aura Farming With SolderMaxxing",
+      "game": "Science & Technology",
+      "started_at": "2026-04-16T20:00:20Z"
+    },
+    {
       "username": "shnaff",
       "title": "Guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2026-04-16T22:01:35Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Aura Farming With SolderMaxxing",
+      "username": "Nerduino",
+      "title": "Thursday night space and Earth science.  Lyrid Meteors, Solar Astronomy . PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
       "game": "Science & Technology",
-      "started_at": "2026-04-16T20:00:20Z"
+      "started_at": "2026-04-17T00:49:51Z"
     },
     {
       "username": "MelissaInDeNile",
@@ -44,16 +50,16 @@
       "started_at": "2026-04-16T22:49:31Z"
     },
     {
-      "username": "SharkG33k",
-      "title": "Shark content catch-up🦈",
-      "game": "Science & Technology",
-      "started_at": "2026-04-17T00:20:01Z"
-    },
-    {
       "username": "SophieQuests",
       "title": "𖡼.𖤣𖥧𖡼.𖤣𖥧 Master of Manuscripts 𖡼.𖤣𖥧𖡼.𖤣𖥧 Join our Historical Gaming Discord !discord",
       "game": "Scriptorium: Master of Manuscripts",
       "started_at": "2026-04-16T22:52:00Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Shark content catch-up🦈",
+      "game": "Science & Technology",
+      "started_at": "2026-04-17T00:20:01Z"
     },
     {
       "username": "Mr_Aejis",
