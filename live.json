@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-16T23:57:24.092Z",
+  "timestamp": "2026-04-17T00:41:38.769Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-04-16T10:01:03Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Aura Farming With SolderMaxxing",
-      "game": "Science & Technology",
-      "started_at": "2026-04-16T20:00:20Z"
-    },
-    {
       "username": "shnaff",
       "title": "Guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2026-04-16T22:01:35Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Aura Farming With SolderMaxxing",
+      "game": "Science & Technology",
+      "started_at": "2026-04-16T20:00:20Z"
     },
     {
       "username": "MelissaInDeNile",
@@ -44,10 +44,28 @@
       "started_at": "2026-04-16T22:49:31Z"
     },
     {
+      "username": "SharkG33k",
+      "title": "Shark content catch-up🦈",
+      "game": "Science & Technology",
+      "started_at": "2026-04-17T00:20:01Z"
+    },
+    {
       "username": "SophieQuests",
       "title": "𖡼.𖤣𖥧𖡼.𖤣𖥧 Master of Manuscripts 𖡼.𖤣𖥧𖡼.𖤣𖥧 Join our Historical Gaming Discord !discord",
       "game": "Scriptorium: Master of Manuscripts",
       "started_at": "2026-04-16T22:52:00Z"
+    },
+    {
+      "username": "Mr_Aejis",
+      "title": "Healing the world through violence: Persona 5 - Teacher Plays",
+      "game": "Persona 5 Royal",
+      "started_at": "2026-04-17T00:29:24Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-04-17T00:01:56Z"
     },
     {
       "username": "nSimplexPachinko",
