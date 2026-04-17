@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-17T04:07:16.919Z",
+  "timestamp": "2026-04-17T05:10:15.715Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,28 +8,10 @@
       "started_at": "2026-04-16T05:01:51Z"
     },
     {
-      "username": "Nerduino",
-      "title": "Thursday night space and Earth science.  Lyrid Meteors, Solar Astronomy . PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
-      "game": "Science & Technology",
-      "started_at": "2026-04-17T00:49:51Z"
-    },
-    {
-      "username": "SophieQuests",
-      "title": "𖡼.𖤣𖥧𖡼.𖤣𖥧 Master of Manuscripts 𖡼.𖤣𖥧𖡼.𖤣𖥧 Join our Historical Gaming Discord !discord",
-      "game": "Scriptorium: Master of Manuscripts",
-      "started_at": "2026-04-16T22:52:00Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Aura Farming With SolderMaxxing",
       "game": "Science & Technology",
       "started_at": "2026-04-16T20:00:20Z"
-    },
-    {
-      "username": "pencenter",
-      "title": "OOT randomizers with @sexydexy @leonard317 [!fish🎣|!commands💻]",
-      "game": "The Legend of Zelda: Ocarina of Time",
-      "started_at": "2026-04-17T01:41:48Z"
     },
     {
       "username": "walkingsticklibrary",
@@ -42,6 +24,12 @@
       "title": "Tasks and chilling! ✨🍄🍭",
       "game": "Co-working & Studying",
       "started_at": "2026-04-17T03:55:50Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "OOT randomizers with @sexydexy @leonard317 [!fish🎣|!commands💻]",
+      "game": "The Legend of Zelda: Ocarina of Time",
+      "started_at": "2026-04-17T01:41:48Z"
     }
   ]
 }
