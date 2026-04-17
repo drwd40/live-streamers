@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-17T16:59:53.231Z",
+  "timestamp": "2026-04-17T17:23:44.944Z",
   "live": [
     {
       "username": "AdamLearnsLive",
@@ -42,6 +42,12 @@
       "title": "Got some info about backlighting, going to try some stuff on the BMW and Merc devices. Arduino hacking!",
       "game": "Just Chatting",
       "started_at": "2026-04-17T16:41:10Z"
+    },
+    {
+      "username": "CosmoQuestX",
+      "title": "Watch Party: Artemis II Press Conference",
+      "game": "Science & Technology",
+      "started_at": "2026-04-17T17:01:01Z"
     }
   ]
 }
