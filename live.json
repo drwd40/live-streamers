@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-17T18:28:23.333Z",
+  "timestamp": "2026-04-17T18:50:13.111Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -48,6 +48,12 @@
       "title": "🍀 2nd Month of Early Access - Rise of Piracy | !rop !steam !discordROP !streamers !MicroProse",
       "game": "Software and Game Development",
       "started_at": "2026-04-17T17:59:44Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "Episode 2 - Exploration Build (no mods)",
+      "game": "Starfield",
+      "started_at": "2026-04-17T18:34:42Z"
     }
   ]
 }
