@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-18T20:13:13.998Z",
+  "timestamp": "2026-04-18T20:27:33.300Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,6 +26,12 @@
       "started_at": "2026-04-18T10:01:35Z"
     },
     {
+      "username": "SydHeresy",
+      "title": "Go From Mid To Alpha And Slay Soldering To Become The Electronics GigaChad",
+      "game": "Science & Technology",
+      "started_at": "2026-04-18T19:45:19Z"
+    },
+    {
       "username": "DonFactorial",
       "title": "Answering your math questions and even more PDE homework, yay (?)",
       "game": "Math",
@@ -36,12 +42,6 @@
       "title": "Episode 3 - Exploration Build (Modded!)",
       "game": "Starfield",
       "started_at": "2026-04-18T17:35:57Z"
-    },
-    {
-      "username": "SydHeresy",
-      "title": "Go From Mid To Alpha And Slay Soldering To Become The Electronics GigaChad",
-      "game": "Science & Technology",
-      "started_at": "2026-04-18T19:45:19Z"
     },
     {
       "username": "DrAlexanderClarke",
