@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-04-18T23:03:40.055Z",
+  "timestamp": "2026-04-18T23:19:03.690Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-04-18T05:01:54Z"
-    },
-    {
-      "username": "EJ_SA",
-      "title": "AIAA Design/Build/Fly Event!",
-      "game": "Science & Technology",
-      "started_at": "2026-04-18T12:30:53Z"
     },
     {
       "username": "AstroCanuck",
@@ -26,16 +20,16 @@
       "started_at": "2026-04-18T10:01:35Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Go From Mid To Alpha And Slay Soldering To Become The Electronics GigaChad",
-      "game": "Science & Technology",
-      "started_at": "2026-04-18T19:45:19Z"
-    },
-    {
       "username": "DonFactorial",
       "title": "Answering your math questions and even more PDE homework, yay (?)",
       "game": "Math",
       "started_at": "2026-04-18T18:56:50Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Go From Mid To Alpha And Slay Soldering To Become The Electronics GigaChad",
+      "game": "Science & Technology",
+      "started_at": "2026-04-18T19:45:19Z"
     },
     {
       "username": "Rocketology",
