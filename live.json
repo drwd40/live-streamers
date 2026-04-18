@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-17T23:50:38.882Z",
+  "timestamp": "2026-04-18T00:05:22.401Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,6 +32,12 @@
       "started_at": "2026-04-17T22:00:31Z"
     },
     {
+      "username": "AstroCanuck",
+      "title": "Week's End Catch-up: Artemis II Crew Press Conf, Space News & LEGO Updates | !lumi | !PGV !giveaway !build | !drop !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-04-17T23:54:06Z"
+    },
+    {
       "username": "DrawCuriosity",
       "title": "🚀 TWO STREAMS TILL SUBATHON(!!) - Pokopia + Pokémon Champions? 👀 [Apr 23rd - MOVE-A-THON!]✨🐑 !dailybug !merch !tangia",
       "game": "Pokémon Pokopia",
@@ -42,12 +48,6 @@
       "title": "Fossiliferous Friday - Lookin at preserved dead stuff!⚒️🪨🔎🔬 !discord !nova !tkf",
       "game": "Science & Technology",
       "started_at": "2026-04-17T23:38:49Z"
-    },
-    {
-      "username": "nSimplexPachinko",
-      "title": "Elite Dangerous, Night 0061: More Stellar Cartography, wrapping up Distant Worlds 3.",
-      "game": "Elite: Dangerous",
-      "started_at": "2026-04-17T21:56:06Z"
     }
   ]
 }
