@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-18T15:51:40.511Z",
+  "timestamp": "2026-04-18T16:05:07.935Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "class war or world war - you choose",
       "game": "Just Chatting",
       "started_at": "2026-04-18T10:01:35Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Bring Your Questions: A Math/Ed Chat",
+      "game": "Math",
+      "started_at": "2026-04-18T15:56:05Z"
     }
   ]
 }
