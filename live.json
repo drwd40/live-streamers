@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-18T20:27:33.300Z",
+  "timestamp": "2026-04-18T20:46:06.898Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,16 @@
       "started_at": "2026-04-18T19:45:19Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and even more PDE homework, yay (?)",
-      "game": "Math",
-      "started_at": "2026-04-18T18:56:50Z"
-    },
-    {
       "username": "Rocketology",
       "title": "Episode 3 - Exploration Build (Modded!)",
       "game": "Starfield",
       "started_at": "2026-04-18T17:35:57Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and even more PDE homework, yay (?)",
+      "game": "Math",
+      "started_at": "2026-04-18T18:56:50Z"
     },
     {
       "username": "DrAlexanderClarke",
