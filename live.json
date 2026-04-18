@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-18T17:29:31.852Z",
+  "timestamp": "2026-04-18T17:48:13.147Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "Bring Your Questions: A Math/Ed Chat",
       "game": "Math",
       "started_at": "2026-04-18T15:56:05Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "Episode 3 - Exploration Build (Modded!)",
+      "game": "Starfield",
+      "started_at": "2026-04-18T17:35:57Z"
     }
   ]
 }
