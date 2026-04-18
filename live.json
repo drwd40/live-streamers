@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-18T18:41:25.863Z",
+  "timestamp": "2026-04-18T19:04:58.595Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "Episode 3 - Exploration Build (Modded!)",
       "game": "Starfield",
       "started_at": "2026-04-18T17:35:57Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and even more PDE homework, yay (?)",
+      "game": "Math",
+      "started_at": "2026-04-18T18:56:50Z"
     }
   ]
 }
