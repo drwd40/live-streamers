@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-19T19:57:56.849Z",
+  "timestamp": "2026-04-19T20:14:34.804Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-04-19T17:40:45Z"
     },
     {
-      "username": "DrAlexanderClarke",
-      "title": "Bruships 239: Alternate History & Naval History Questions Answered Live...",
-      "game": "Just Chatting",
-      "started_at": "2026-04-19T18:31:02Z"
-    },
-    {
       "username": "AcademyOfUselessIdeas",
       "title": "Attempting math! (A better Slim would stream more often)",
       "game": "Math",
       "started_at": "2026-04-19T18:12:43Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "Bruships 239: Alternate History & Naval History Questions Answered Live...",
+      "game": "Just Chatting",
+      "started_at": "2026-04-19T18:31:02Z"
     }
   ]
 }
