@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-19T17:27:15.889Z",
+  "timestamp": "2026-04-19T17:45:13.943Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,12 +14,6 @@
       "started_at": "2026-04-19T13:04:35Z"
     },
     {
-      "username": "TinyToxicTofu",
-      "title": "Welcoming a New 3D Printer! Thank you Creality ❤️ Time to Design Mach 2 ❤️ #sponsored",
-      "game": "Extinction Day",
-      "started_at": "2026-04-19T11:26:01Z"
-    },
-    {
       "username": "AstroCanuck",
       "title": "Lazy Sunday LEGO: !giveaway day and Lumibricks Alpine Observatory w/ @bythebrickbook | !lumi | !PGV !build | !drop !tkf",
       "game": "Lego & Brickbuilding",
@@ -30,6 +24,12 @@
       "title": "class war or world war - you choose - also end the genocide and war on drugs please ty, they are built on anti-intellectualism and ignorance",
       "game": "Politics",
       "started_at": "2026-04-19T10:01:47Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "Episode 4 - Exploration Character Build (Modded!)",
+      "game": "Starfield",
+      "started_at": "2026-04-19T17:40:45Z"
     }
   ]
 }
