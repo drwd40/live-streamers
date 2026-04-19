@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-19T21:51:15.106Z",
+  "timestamp": "2026-04-19T22:03:15.554Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,6 +14,12 @@
       "started_at": "2026-04-19T13:04:35Z"
     },
     {
+      "username": "imreallyimportant",
+      "title": "SUNDAY SHOWS | NEW !2028 POLL (TESTING)",
+      "game": "Just Chatting",
+      "started_at": "2026-04-19T22:00:00Z"
+    },
+    {
       "username": "Rocketology",
       "title": "Episode 4 - Exploration Character Build (Modded!)",
       "game": "Starfield",
@@ -24,6 +30,18 @@
       "title": "Bruships 239: Alternate History & Naval History Questions Answered Live... restart",
       "game": "Just Chatting",
       "started_at": "2026-04-19T20:16:42Z"
+    },
+    {
+      "username": "shnaff",
+      "title": "Guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-04-19T22:00:58Z"
+    },
+    {
+      "username": "VolcanoDoc",
+      "title": "[Contact] Aureoles of Unusual Size |🌋 Science Sunday | !phd !tkf !socials !pubs",
+      "game": "Science & Technology",
+      "started_at": "2026-04-19T21:56:15Z"
     }
   ]
 }
