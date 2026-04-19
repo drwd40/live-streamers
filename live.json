@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-19T17:59:45.371Z",
+  "timestamp": "2026-04-19T18:22:12.760Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "Episode 4 - Exploration Character Build (Modded!)",
       "game": "Starfield",
       "started_at": "2026-04-19T17:40:45Z"
+    },
+    {
+      "username": "AcademyOfUselessIdeas",
+      "title": "Attempting math! (A better Slim would stream more often)",
+      "game": "Math",
+      "started_at": "2026-04-19T18:12:43Z"
     }
   ]
 }
