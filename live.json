@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-19T18:22:12.760Z",
+  "timestamp": "2026-04-19T18:40:19.885Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "Attempting math! (A better Slim would stream more often)",
       "game": "Math",
       "started_at": "2026-04-19T18:12:43Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "Bruships 239: Alternate History & Naval History Questions Answered Live...",
+      "game": "Just Chatting",
+      "started_at": "2026-04-19T18:31:02Z"
     }
   ]
 }
