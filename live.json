@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-04-20T00:06:26.698Z",
+  "timestamp": "2026-04-20T01:02:24.769Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-04-18T05:01:54Z"
-    },
-    {
-      "username": "JapanesePrintmaking",
-      "title": "Making Japanese woodblock prints ... live while you watch ...",
-      "game": "Makers & Crafting",
-      "started_at": "2026-04-19T22:59:50Z"
     },
     {
       "username": "imreallyimportant",
@@ -26,10 +20,10 @@
       "started_at": "2026-04-19T21:56:15Z"
     },
     {
-      "username": "shnaff",
-      "title": "Guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-04-19T22:00:58Z"
+      "username": "Nerduino",
+      "title": "Sunday Night Science Chill. PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
+      "game": "Science & Technology",
+      "started_at": "2026-04-20T00:50:14Z"
     },
     {
       "username": "nogre0",
@@ -42,6 +36,12 @@
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Just Chatting",
       "started_at": "2026-04-20T00:02:56Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Failing on Namalsk for a bit",
+      "game": "DayZ",
+      "started_at": "2026-04-20T00:08:17Z"
     }
   ]
 }
