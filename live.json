@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-20T03:55:52.749Z",
+  "timestamp": "2026-04-20T05:01:41.100Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,28 +14,16 @@
       "started_at": "2026-04-20T01:34:12Z"
     },
     {
-      "username": "LumiRue",
-      "title": "New Orleans stream! Chess vs @Gremloe",
-      "game": "Just Chatting",
-      "started_at": "2026-04-20T01:42:15Z"
-    },
-    {
-      "username": "DonFactorial",
-      "title": "Failing on Namalsk for a bit",
-      "game": "DayZ",
-      "started_at": "2026-04-20T00:08:17Z"
+      "username": "DrMick",
+      "title": "Therapist Plays GTA IV: Part 34",
+      "game": "Grand Theft Auto IV",
+      "started_at": "2026-04-20T04:35:32Z"
     },
     {
       "username": "happyknightmares",
       "title": "Tasks and chilling! ✨🍄🍭",
       "game": "Food & Drink",
       "started_at": "2026-04-20T03:47:43Z"
-    },
-    {
-      "username": "001anthony",
-      "title": "ROR2: Eclipse 8 Full Clear | Survivor #2/18 - Commando",
-      "game": "Risk of Rain 2",
-      "started_at": "2026-04-20T02:52:15Z"
     }
   ]
 }
