@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-20T17:51:52.475Z",
+  "timestamp": "2026-04-20T18:12:19.910Z",
   "live": [
     {
       "username": "Maya",
@@ -9,8 +9,8 @@
     },
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
-      "game": "Animals, Aquariums, and Zoos",
+      "title": "Animal Care Chats | !alveus !institute !pixel !schedule !video",
+      "game": "Just Chatting",
       "started_at": "2026-04-20T05:01:56Z"
     },
     {
@@ -30,6 +30,12 @@
       "title": "Why is China Israel's 2nd largest trading partner?",
       "game": "Politics",
       "started_at": "2026-04-20T10:04:52Z"
+    },
+    {
+      "username": "CosmoQuestX",
+      "title": "Astronomy Cast: Chinese Sample Return",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2026-04-20T17:57:34Z"
     },
     {
       "username": "TimberAnew",
