@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-20T18:12:19.910Z",
+  "timestamp": "2026-04-20T18:36:57.519Z",
   "live": [
     {
       "username": "Maya",
@@ -36,18 +36,6 @@
       "title": "Astronomy Cast: Chinese Sample Return",
       "game": "Talk Shows & Podcasts",
       "started_at": "2026-04-20T17:57:34Z"
-    },
-    {
-      "username": "TimberAnew",
-      "title": "Over-encumbered and underpaid",
-      "game": "Kingdom Come: Deliverance",
-      "started_at": "2026-04-20T17:01:16Z"
-    },
-    {
-      "username": "eToThe2iPi",
-      "title": "Fixing Bugs and Adding Features: Getting Sixteen Ready for Season 2",
-      "game": "Software and Game Development",
-      "started_at": "2026-04-20T14:08:17Z"
     }
   ]
 }
