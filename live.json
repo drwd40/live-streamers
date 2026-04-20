@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-20T01:02:24.769Z",
+  "timestamp": "2026-04-20T01:43:59.792Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,22 @@
       "started_at": "2026-04-19T22:00:00Z"
     },
     {
+      "username": "Nerduino",
+      "title": "Sunday Night Science Chill. PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
+      "game": "Science & Technology",
+      "started_at": "2026-04-20T00:50:14Z"
+    },
+    {
       "username": "VolcanoDoc",
       "title": "[Contact] Aureoles of Unusual Size |🌋 Science Sunday | !phd !tkf !socials !pubs",
       "game": "Science & Technology",
       "started_at": "2026-04-19T21:56:15Z"
     },
     {
-      "username": "Nerduino",
-      "title": "Sunday Night Science Chill. PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
-      "game": "Science & Technology",
-      "started_at": "2026-04-20T00:50:14Z"
+      "username": "SciAnts_Streams",
+      "title": "Dad Space |  1 sub = badge! | Pragmata and Science! | | 🪐[DROPS] 🪐 | Partner+ 199/300 | !ppp !yt !pod !wwf",
+      "game": "PRAGMATA",
+      "started_at": "2026-04-20T01:34:12Z"
     },
     {
       "username": "nogre0",
@@ -38,10 +44,22 @@
       "started_at": "2026-04-20T00:02:56Z"
     },
     {
+      "username": "LumiRue",
+      "title": "New Orleans stream! Chess vs @Cinemarxism",
+      "game": "Just Chatting",
+      "started_at": "2026-04-20T01:42:15Z"
+    },
+    {
       "username": "DonFactorial",
       "title": "Failing on Namalsk for a bit",
       "game": "DayZ",
       "started_at": "2026-04-20T00:08:17Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Snakes with keeled scales, Tang, A famous fiber artist from the prairies.",
+      "game": "Science & Technology",
+      "started_at": "2026-04-20T01:30:03Z"
     }
   ]
 }
