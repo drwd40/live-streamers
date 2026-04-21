@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-21T01:42:41.370Z",
+  "timestamp": "2026-04-21T02:40:03.731Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,22 +26,16 @@
       "started_at": "2026-04-21T01:05:20Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
-      "game": "Just Chatting",
-      "started_at": "2026-04-21T00:00:11Z"
-    },
-    {
       "username": "Mr_Aejis",
       "title": "It's time - 4/20 - for our Cannabis lesson: Vtuber Health Class | Mr Aejis",
       "game": "Just Chatting",
       "started_at": "2026-04-21T00:30:37Z"
     },
     {
-      "username": "walkingsticklibrary",
-      "title": "Snakes with keeled scales, Tang, A famous fiber artist from the prairies.",
-      "game": "Science & Technology",
-      "started_at": "2026-04-21T00:31:18Z"
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-04-21T00:00:11Z"
     }
   ]
 }
