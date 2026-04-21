@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-20T23:44:11.357Z",
+  "timestamp": "2026-04-21T00:01:22.628Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,12 @@
       "title": "20260420 - Math Communication Monday!",
       "game": "Math",
       "started_at": "2026-04-20T20:51:23Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-04-21T00:00:11Z"
     }
   ]
 }
