@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-21T22:09:18.830Z",
+  "timestamp": "2026-04-21T22:26:11.453Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-04-21T21:54:37Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and doing... you guessed it... PDEs",
-      "game": "Math",
-      "started_at": "2026-04-21T19:59:14Z"
-    },
-    {
       "username": "eToThe2iPi",
       "title": "How Aligned Are You: A Vector Story (and Should This Video Go On YouTube?)",
       "game": "Math",
       "started_at": "2026-04-21T22:06:01Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and doing... you guessed it... PDEs",
+      "game": "Math",
+      "started_at": "2026-04-21T19:59:14Z"
     },
     {
       "username": "nSimplexPachinko",
