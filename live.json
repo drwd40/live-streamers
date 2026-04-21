@@ -1,11 +1,17 @@
 {
-  "timestamp": "2026-04-21T13:03:12.763Z",
+  "timestamp": "2026-04-21T13:41:47.483Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-04-20T05:01:56Z"
+    },
+    {
+      "username": "csharpfritz",
+      "title": "AI Coding, Streamer Maps, Glitches, and more",
+      "game": "Software and Game Development",
+      "started_at": "2026-04-21T13:09:11Z"
     },
     {
       "username": "Zachap",
