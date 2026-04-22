@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-22T23:18:46.918Z",
+  "timestamp": "2026-04-22T23:36:31.353Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,22 +26,16 @@
       "started_at": "2026-04-22T20:12:58Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "🌎 Celebrate the World 🌍| CHARITY Event with World Wild Life | Partner+ 231/300 | !ppp !yt !pod !wwf",
-      "game": "Science & Technology",
-      "started_at": "2026-04-22T16:04:46Z"
-    },
-    {
       "username": "ipaintbirbs",
       "title": "a little of this a little of that and some little birds",
       "game": "Art",
       "started_at": "2026-04-22T23:03:38Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "Cracking the GRE Math Subject Test, Night 037: Halfway through the Calc II Final exam review.",
-      "game": "Math",
-      "started_at": "2026-04-22T20:42:46Z"
+      "username": "SciAnts_Streams",
+      "title": "🌎 Celebrate the World 🌍| CHARITY Event with World Wild Life | Partner+ 231/300 | !ppp !yt !pod !wwf",
+      "game": "Science & Technology",
+      "started_at": "2026-04-22T16:04:46Z"
     }
   ]
 }
