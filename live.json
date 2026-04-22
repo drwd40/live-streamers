@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-22T20:52:02.984Z",
+  "timestamp": "2026-04-22T21:12:14.498Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -44,16 +44,22 @@
       "started_at": "2026-04-22T10:02:18Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Differential Equations: Working on a Textbook",
-      "game": "Math",
-      "started_at": "2026-04-22T18:05:04Z"
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 973: Language Design in Wolfram Language [Graphic Issues]",
+      "game": "Science & Technology",
+      "started_at": "2026-04-22T21:05:27Z"
     },
     {
       "username": "nSimplexPachinko",
       "title": "Cracking the GRE Math Subject Test, Night 037: Halfway through the Calc II Final exam review.",
-      "game": "Blue Prince",
+      "game": "Math",
       "started_at": "2026-04-22T20:42:46Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "Let's check out the 2026 Euclid math contest! [!fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-04-22T20:56:19Z"
     }
   ]
 }
