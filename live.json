@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-22T11:33:35.630Z",
+  "timestamp": "2026-04-22T11:57:21.651Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "private property is unjustifiable",
       "game": "Just Chatting",
       "started_at": "2026-04-22T10:02:18Z"
+    },
+    {
+      "username": "leioslabs",
+      "title": "Research stream | AI poisoning",
+      "game": "Science & Technology",
+      "started_at": "2026-04-22T11:39:44Z"
     }
   ]
 }
