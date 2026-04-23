@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-23T13:09:10.748Z",
+  "timestamp": "2026-04-23T13:49:42.553Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,18 @@
       "title": "is my mic audio clear? hopefully, also private property is unjustifiable",
       "game": "Just Chatting",
       "started_at": "2026-04-23T10:02:31Z"
+    },
+    {
+      "username": "csharpfritz",
+      "title": "Launching a new site with Azure and Copilot",
+      "game": "Software and Game Development",
+      "started_at": "2026-04-23T13:23:26Z"
+    },
+    {
+      "username": "Andilippi",
+      "title": "LUBALBLBLBLBLBL | NEW OBS PLUGIN -> !bbc",
+      "game": "Just Chatting",
+      "started_at": "2026-04-23T13:46:49Z"
     }
   ]
 }
