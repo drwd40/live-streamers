@@ -1,6 +1,12 @@
 {
-  "timestamp": "2026-04-23T16:04:21.565Z",
+  "timestamp": "2026-04-23T16:43:22.412Z",
   "live": [
+    {
+      "username": "Kitboga",
+      "title": "Calling Scammers [Ep. 1528]",
+      "game": "Just Chatting",
+      "started_at": "2026-04-23T16:24:44Z"
+    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
@@ -24,6 +30,12 @@
       "title": "Launching a new site with Azure and Copilot",
       "game": "Software and Game Development",
       "started_at": "2026-04-23T13:23:26Z"
+    },
+    {
+      "username": "oh_bother",
+      "title": "Taking stuff apart. Can these LED glasses do our bidding? I don't want to install an app.",
+      "game": "Science & Technology",
+      "started_at": "2026-04-23T16:38:41Z"
     }
   ]
 }
