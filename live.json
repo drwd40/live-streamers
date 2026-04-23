@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-23T19:41:29.837Z",
+  "timestamp": "2026-04-23T20:07:42.727Z",
   "live": [
     {
       "username": "Kitboga",
@@ -26,6 +26,12 @@
       "started_at": "2026-04-23T10:02:31Z"
     },
     {
+      "username": "DrawCuriosity",
+      "title": "🎉 [SUBATHON] LET'S GET DR. INÉS TO SINGAPORE!!  !subathon !tip (tips, donos, fourthwall, bits, subs ALL ADD TO THE TIMER) 👀 ✨🐑",
+      "game": "Special Events",
+      "started_at": "2026-04-23T19:55:23Z"
+    },
+    {
       "username": "DrMick",
       "title": "Mental Health Chat + Painting 40k | !links",
       "game": "Miniatures & Models",
@@ -36,6 +42,12 @@
       "title": "Episode 5 - First Outpost Build (Modded!)",
       "game": "Starfield",
       "started_at": "2026-04-23T18:09:19Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "🦕⁉ DINOSAUR Q&A + Thursday Birdsday 🐧 (w/ paleontologist Danny Anduza) 🦖 Discussing 'kraken' fossil discovery on BONUS STREAM tomorrow 🐙",
+      "game": "Science & Technology",
+      "started_at": "2026-04-23T20:04:01Z"
     }
   ]
 }
