@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-24T01:03:06.937Z",
+  "timestamp": "2026-04-24T01:43:20.106Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,40 +20,16 @@
       "started_at": "2026-04-24T00:16:43Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "Mouse: PI for Hire | Learning and memory mouse science with #MOUSEPIForHire #keymailer | Partner+ 247/300 | !ppp !yt !pod !wwf",
-      "game": "Mouse: P.I. For Hire",
-      "started_at": "2026-04-23T18:27:08Z"
-    },
-    {
       "username": "DrawCuriosity",
       "title": "🎉 [SUBATHON - @baronofbile] LET'S GET DR. INÉS TO SINGAPORE!!  !subathon !tip (tips, donos, bits, subs ALL ADD TO THE TIMER) 👀 ✨🐑",
       "game": "Science & Technology",
       "started_at": "2026-04-23T19:55:23Z"
     },
     {
-      "username": "shnaff",
-      "title": "Guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-04-23T22:00:47Z"
-    },
-    {
-      "username": "Zachap",
-      "title": "is my mic audio clear? hopefully, also private property is unjustifiable",
-      "game": "Just Chatting",
-      "started_at": "2026-04-23T10:02:31Z"
-    },
-    {
-      "username": "MelissaInDeNile",
-      "title": "Beyond De Nile Guest Lecture with @sharkg33k! Talking about sharks and conservation! ~ Follower Goal: 2339/2600 ~ !socials !beyonddenile",
-      "game": "Just Chatting",
-      "started_at": "2026-04-23T22:49:49Z"
-    },
-    {
-      "username": "SharkG33k",
-      "title": "Beyond de Nile Lecture Series with @melissaindenile",
-      "game": "Science & Technology",
-      "started_at": "2026-04-23T22:50:34Z"
+      "username": "SciAnts_Streams",
+      "title": "Mouse: PI for Hire | Learning and memory mouse science with #MOUSEPIForHire #keymailer | Partner+ 247/300 | !ppp !yt !pod !wwf",
+      "game": "Mouse: P.I. For Hire",
+      "started_at": "2026-04-23T18:27:08Z"
     },
     {
       "username": "Nerduino",
@@ -62,10 +38,22 @@
       "started_at": "2026-04-24T00:55:54Z"
     },
     {
+      "username": "MelissaInDeNile",
+      "title": "Beyond De Nile Guest Lecture with @sharkg33k! Talking about sharks and conservation! ~ Follower Goal: 2339/2600 ~ !socials !beyonddenile",
+      "game": "Just Chatting",
+      "started_at": "2026-04-23T22:49:49Z"
+    },
+    {
       "username": "ActualEducation",
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Just Chatting",
       "started_at": "2026-04-24T00:05:39Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Who was Chester A. Arthur, fourth generation biodiesel feedstocks, and psychological games supermarkets play.",
+      "game": "Science & Technology",
+      "started_at": "2026-04-24T01:32:07Z"
     }
   ]
 }
