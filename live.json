@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-24T19:53:44.978Z",
+  "timestamp": "2026-04-24T20:09:53.860Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -9,8 +9,8 @@
     },
     {
       "username": "AlveusSanctuary",
-      "title": "Show and Tell | !alveus !institute !pixel !schedule !video",
-      "game": "Just Chatting",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
+      "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-04-24T19:28:54Z"
     },
     {
@@ -32,16 +32,16 @@
       "started_at": "2026-04-24T10:03:42Z"
     },
     {
-      "username": "Rocketology",
-      "title": "Episode 6 - Exploration Character (Modded!)",
-      "game": "Starfield",
-      "started_at": "2026-04-24T18:01:54Z"
-    },
-    {
       "username": "Stephen_Wolfram",
       "title": "Future of Science and Technology Q&A (April 24, 2026)",
       "game": "Science & Technology",
       "started_at": "2026-04-24T19:40:14Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "Episode 6 - Exploration Character (Modded!)",
+      "game": "Starfield",
+      "started_at": "2026-04-24T18:01:54Z"
     }
   ]
 }
