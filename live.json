@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-24T00:05:37.357Z",
+  "timestamp": "2026-04-24T01:03:06.937Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,6 +14,12 @@
       "started_at": "2026-04-23T20:04:01Z"
     },
     {
+      "username": "imreallyimportant",
+      "title": "BACK FROM THE UNF*CK AMERICA TOUR",
+      "game": "Just Chatting",
+      "started_at": "2026-04-24T00:16:43Z"
+    },
+    {
       "username": "SciAnts_Streams",
       "title": "Mouse: PI for Hire | Learning and memory mouse science with #MOUSEPIForHire #keymailer | Partner+ 247/300 | !ppp !yt !pod !wwf",
       "game": "Mouse: P.I. For Hire",
@@ -21,21 +27,21 @@
     },
     {
       "username": "DrawCuriosity",
-      "title": "🎉 [SUBATHON - TWISTER] LET'S GET DR. INÉS TO SINGAPORE!!  !subathon !tip (tips, donos, fourthwall, bits, subs ALL ADD TO THE TIMER) 👀 ✨🐑",
-      "game": "Special Events",
+      "title": "🎉 [SUBATHON - @baronofbile] LET'S GET DR. INÉS TO SINGAPORE!!  !subathon !tip (tips, donos, bits, subs ALL ADD TO THE TIMER) 👀 ✨🐑",
+      "game": "Science & Technology",
       "started_at": "2026-04-23T19:55:23Z"
-    },
-    {
-      "username": "Zachap",
-      "title": "is my mic audio clear? hopefully, also private property is unjustifiable",
-      "game": "Just Chatting",
-      "started_at": "2026-04-23T10:02:31Z"
     },
     {
       "username": "shnaff",
       "title": "Guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2026-04-23T22:00:47Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "is my mic audio clear? hopefully, also private property is unjustifiable",
+      "game": "Just Chatting",
+      "started_at": "2026-04-23T10:02:31Z"
     },
     {
       "username": "MelissaInDeNile",
@@ -50,10 +56,16 @@
       "started_at": "2026-04-23T22:50:34Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "TTRPG Planning: TitansGrave 006: Players' Forlorn Hope",
-      "game": "Tabletop RPGs",
-      "started_at": "2026-04-23T21:43:38Z"
+      "username": "Nerduino",
+      "title": "Disappearing scientists?!  Space science, astronomy news and papers with a PhD Astronomer and former NASA Guy.   #NASA #science #space #stem",
+      "game": "Science & Technology",
+      "started_at": "2026-04-24T00:55:54Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-04-24T00:05:39Z"
     }
   ]
 }
