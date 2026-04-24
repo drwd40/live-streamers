@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-24T17:44:33.327Z",
+  "timestamp": "2026-04-24T18:02:34.872Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -54,6 +54,12 @@
       "title": "Fightin' for money",
       "game": "Kingdom Come: Deliverance",
       "started_at": "2026-04-24T16:57:20Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "Episode 6 - Exploration Character (Modded!)",
+      "game": "Starfield",
+      "started_at": "2026-04-24T18:01:54Z"
     }
   ]
 }
