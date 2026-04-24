@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-04-24T19:32:11.024Z",
+  "timestamp": "2026-04-24T19:53:44.978Z",
   "live": [
-    {
-      "username": "AlveusSanctuary",
-      "title": "Show and Tell | !alveus !institute !pixel !schedule !video",
-      "game": "Just Chatting",
-      "started_at": "2026-04-24T19:28:54Z"
-    },
     {
       "username": "EJ_SA",
       "title": "Building out an Ares-1 style rocket to make an SLS rocket!",
       "game": "Kerbal Space Program",
       "started_at": "2026-04-24T16:02:22Z"
+    },
+    {
+      "username": "AlveusSanctuary",
+      "title": "Show and Tell | !alveus !institute !pixel !schedule !video",
+      "game": "Just Chatting",
+      "started_at": "2026-04-24T19:28:54Z"
     },
     {
       "username": "ipaintbirbs",
@@ -32,16 +32,16 @@
       "started_at": "2026-04-24T10:03:42Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 974: Language Design in Wolfram Language [Wolfram Financial Framework]",
-      "game": "Science & Technology",
-      "started_at": "2026-04-24T18:37:48Z"
-    },
-    {
       "username": "Rocketology",
       "title": "Episode 6 - Exploration Character (Modded!)",
       "game": "Starfield",
       "started_at": "2026-04-24T18:01:54Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Future of Science and Technology Q&A (April 24, 2026)",
+      "game": "Science & Technology",
+      "started_at": "2026-04-24T19:40:14Z"
     }
   ]
 }
