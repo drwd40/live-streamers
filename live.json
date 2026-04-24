@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-04-24T20:09:53.860Z",
+  "timestamp": "2026-04-24T20:28:48.195Z",
   "live": [
-    {
-      "username": "EJ_SA",
-      "title": "Building out an Ares-1 style rocket to make an SLS rocket!",
-      "game": "Kerbal Space Program",
-      "started_at": "2026-04-24T16:02:22Z"
-    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-04-24T19:28:54Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "Building out an Ares-1 style rocket to make an SLS rocket!",
+      "game": "Kerbal Space Program",
+      "started_at": "2026-04-24T16:02:22Z"
     },
     {
       "username": "ipaintbirbs",
@@ -21,7 +21,7 @@
     },
     {
       "username": "DrawCuriosity",
-      "title": "🎉 [SUBATHON w/ Tom Scott!] LET'S GET DR. INÉS TO SINGAPORE!!  !subathon !tip (tips, donos, bits, subs ALL ADD TO THE TIMER) 👀 ✨🐑",
+      "title": "🎉 [SUBATHON w/ @KaseySnowArt !] LET'S GET DR. INÉS TO SINGAPORE!!  !subathon !tip (tips, donos, bits, subs ALL ADD TO THE TIMER) 👀 ✨🐑",
       "game": "Special Events",
       "started_at": "2026-04-23T19:55:23Z"
     },
@@ -36,6 +36,12 @@
       "title": "Future of Science and Technology Q&A (April 24, 2026)",
       "game": "Science & Technology",
       "started_at": "2026-04-24T19:40:14Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "🐙📏 Giant killer 'kraken'?? 📏🐙 Discussing this new paper alleging 19-meter cephalopods in the Cretaceous (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-04-24T20:25:14Z"
     },
     {
       "username": "Rocketology",
