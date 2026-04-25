@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-25T18:42:50.976Z",
+  "timestamp": "2026-04-25T19:07:09.821Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,10 +26,10 @@
       "started_at": "2026-04-25T10:02:50Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Bring Your Questions: An Open Math/Ed Q&A",
-      "game": "Math",
-      "started_at": "2026-04-25T16:02:05Z"
+      "username": "DrMick",
+      "title": "Monthly Guitar Stream Public Preview | !links",
+      "game": "Music",
+      "started_at": "2026-04-25T19:01:42Z"
     },
     {
       "username": "Rocketology",
@@ -42,6 +42,12 @@
       "title": "What happens if the British & Japanese refuse to break their alliance? (Patreon Live)",
       "game": "Just Chatting",
       "started_at": "2026-04-25T18:29:53Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and looking through papers on Mathematical Oncology and probably also PDEs",
+      "game": "Math",
+      "started_at": "2026-04-25T18:57:52Z"
     }
   ]
 }
