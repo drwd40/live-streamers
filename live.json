@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-26T16:21:51.039Z",
+  "timestamp": "2026-04-26T16:39:18.199Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,6 +14,12 @@
       "started_at": "2026-04-26T12:13:17Z"
     },
     {
+      "username": "LumiRue",
+      "title": "Social Class, Rising Social Inequality, and The American Dream | I shot a 12 Gauge! Let's Peep | Stray Gameplay<3",
+      "game": "Just Chatting",
+      "started_at": "2026-04-26T14:02:13Z"
+    },
+    {
       "username": "AstroCanuck",
       "title": "Lazy Sunday LEGO: Project Hail Mary | !lumi | !PGV !build | !drop !tkf",
       "game": "Lego & Brickbuilding",
@@ -24,12 +30,6 @@
       "title": "careful, capitalism is putting us all in danger day by day",
       "game": "Just Chatting",
       "started_at": "2026-04-26T10:05:00Z"
-    },
-    {
-      "username": "LumiRue",
-      "title": "Social Class, Rising Social Inequality, and The American Dream | I shot a 12 Gauge! Let's Peep | Stray Gameplay<3",
-      "game": "Just Chatting",
-      "started_at": "2026-04-26T14:02:13Z"
     },
     {
       "username": "Nerduino",
@@ -50,10 +50,10 @@
       "started_at": "2026-04-26T16:00:20Z"
     },
     {
-      "username": "sciencestreams",
-      "title": "What is mass? | Night into Day | 5th Force | Advanced Nuclear Microscopy | Science NEWS! | Pond water microscopy! 🧪🌿",
-      "game": "Just Chatting",
-      "started_at": "2026-04-26T14:15:58Z"
+      "username": "AcademyOfUselessIdeas",
+      "title": "Attempting math! (Slim is choosing a new career path, would you rather date him if he were an: Astronaut or a Cowboy?)",
+      "game": "Math",
+      "started_at": "2026-04-26T16:23:59Z"
     }
   ]
 }
