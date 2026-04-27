@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-27T01:04:13.059Z",
+  "timestamp": "2026-04-27T01:44:34.043Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,9 +26,15 @@
       "started_at": "2026-04-26T21:05:29Z"
     },
     {
+      "username": "SciAnts_Streams",
+      "title": "Dad sim? | Pragmata and Science! | 1 sub = badge! | 🪐[DROPS] 🪐 | Partner+ 272/300 | !ppp !yt !pod",
+      "game": "PRAGMATA",
+      "started_at": "2026-04-27T01:05:46Z"
+    },
+    {
       "username": "SharkG33k",
-      "title": "[18+] Sunday Funday! Super Battle Golf with @ninjagloppy & friends.",
-      "game": "Super Battle Golf",
+      "title": "[18+] Sunday Funday! Windrose.",
+      "game": "Windrose",
       "started_at": "2026-04-26T20:20:44Z"
     },
     {
@@ -42,6 +48,12 @@
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Just Chatting",
       "started_at": "2026-04-27T00:02:25Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Antifungal resistance on NPR, who is Julia Wolf, and diagnosing normal pressure hydrocephalus.",
+      "game": "Science & Technology",
+      "started_at": "2026-04-27T01:30:20Z"
     }
   ]
 }
