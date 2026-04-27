@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-27T19:47:17.722Z",
+  "timestamp": "2026-04-27T20:14:37.128Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,10 +14,10 @@
       "started_at": "2026-04-27T14:06:45Z"
     },
     {
-      "username": "DrawCuriosity",
-      "title": "🎉 [SUBATHON! - 89H+! - LET'S GET DR. INÉS TO SINGAPORE!!] !subathon !tip (tips,bits, subs ALL ADD TO THE TIMER) 👀 ✨🐑",
-      "game": "I'm Only Sleeping",
-      "started_at": "2026-04-26T09:36:30Z"
+      "username": "AdamLearnsLive",
+      "title": "Dialogue and portals (day 21½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-04-27T19:40:45Z"
     },
     {
       "username": "Zachap",
@@ -26,10 +26,10 @@
       "started_at": "2026-04-27T10:02:47Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Dialogue and portals (day 21½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-04-27T19:40:45Z"
+      "username": "DrawCuriosity",
+      "title": "🎉 [SUBATHON! - 89H+! - LET'S GET DR. INÉS TO SINGAPORE!!] !subathon !tip (tips,bits, subs ALL ADD TO THE TIMER) 👀 ✨🐑",
+      "game": "I'm Only Sleeping",
+      "started_at": "2026-04-26T09:36:30Z"
     },
     {
       "username": "Rocketology",
@@ -42,6 +42,18 @@
       "title": "Working on Quiz Show Software: Sixteen",
       "game": "Software and Game Development",
       "started_at": "2026-04-27T18:03:36Z"
+    },
+    {
+      "username": "AcademyOfUselessIdeas",
+      "title": "Attempting math! (Slim complains because the devil wouldn't buy his soul)",
+      "game": "Math",
+      "started_at": "2026-04-27T19:55:54Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "🦖🦴⛏💵 DINOSAUR DIG FUNDRAISER 💵⛏🦴🦖 Help us raise enough money to rent a truck for our Wyoming fieldwork 🚚 !wywishlist !MRC",
+      "game": "Science & Technology",
+      "started_at": "2026-04-27T20:14:11Z"
     }
   ]
 }
