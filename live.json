@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-27T02:43:15.976Z",
+  "timestamp": "2026-04-27T04:01:49.692Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,28 +26,16 @@
       "started_at": "2026-04-26T09:36:30Z"
     },
     {
-      "username": "SharkG33k",
-      "title": "[18+] Sunday Funday! Windrose.",
-      "game": "Windrose",
-      "started_at": "2026-04-26T20:20:44Z"
-    },
-    {
-      "username": "nogre0",
-      "title": "tired philosophy",
-      "game": "Just Chatting",
-      "started_at": "2026-04-27T00:00:06Z"
-    },
-    {
-      "username": "ActualEducation",
-      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
-      "game": "Just Chatting",
-      "started_at": "2026-04-27T00:02:25Z"
-    },
-    {
       "username": "walkingsticklibrary",
       "title": "Antifungal resistance on NPR, who is Julia Wolf, and diagnosing normal pressure hydrocephalus.",
       "game": "Science & Technology",
       "started_at": "2026-04-27T01:30:20Z"
+    },
+    {
+      "username": "happyknightmares",
+      "title": "Tasks and chilling! ✨🍄🍭",
+      "game": "Duolingo",
+      "started_at": "2026-04-27T03:47:40Z"
     }
   ]
 }
