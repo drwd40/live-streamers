@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-27T17:43:44.407Z",
+  "timestamp": "2026-04-27T18:10:47.922Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -42,6 +42,12 @@
       "title": "Let's try and do some actual missions",
       "game": "Kingdom Come: Deliverance",
       "started_at": "2026-04-27T17:01:24Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Working on Quiz Show Software: Sixteen",
+      "game": "Software and Game Development",
+      "started_at": "2026-04-27T18:03:36Z"
     }
   ]
 }
