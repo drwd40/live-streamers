@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-04-27T00:01:36.850Z",
+  "timestamp": "2026-04-27T01:04:13.059Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-04-26T19:28:56Z"
-    },
-    {
-      "username": "JapanesePrintmaking",
-      "title": "Making Japanese woodblock prints ... live while you watch ...",
-      "game": "Makers & Crafting",
-      "started_at": "2026-04-26T23:00:00Z"
     },
     {
       "username": "imreallyimportant",
@@ -21,8 +15,8 @@
     },
     {
       "username": "DrawCuriosity",
-      "title": "🎉 [SUBATHON! - IRL STREAM!!! ENTOMOLOGIST OUT AT THE GARDENS!] 72h+ !subathon !tip (tips, donos, bits, subs ALL ADD TO THE TIMER) 👀 ✨🐑",
-      "game": "IRL",
+      "title": "🎉 [SUBATHON! 72h+! - LET'S GET DR. INÉS TO SINGAPORE!!] !subathon !tip (tips, donos, bits, subs ALL ADD TO THE TIMER) 👀 ✨🐑",
+      "game": "Just Chatting",
       "started_at": "2026-04-26T09:36:30Z"
     },
     {
@@ -33,7 +27,7 @@
     },
     {
       "username": "SharkG33k",
-      "title": "Sunday Funday! Super Battle Golf with @ninjagloppy & friends.",
+      "title": "[18+] Sunday Funday! Super Battle Golf with @ninjagloppy & friends.",
       "game": "Super Battle Golf",
       "started_at": "2026-04-26T20:20:44Z"
     },
@@ -42,6 +36,12 @@
       "title": "tired philosophy",
       "game": "Just Chatting",
       "started_at": "2026-04-27T00:00:06Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-04-27T00:02:25Z"
     }
   ]
 }
