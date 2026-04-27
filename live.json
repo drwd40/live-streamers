@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-27T20:14:37.128Z",
+  "timestamp": "2026-04-27T20:39:54.116Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "Building a crane to re-integrate rockets! Fully Reusable STS-style Pad! (Part 7)",
       "game": "Kerbal Space Program",
       "started_at": "2026-04-27T14:06:45Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "🦖🦴⛏💵 DINOSAUR DIG FUNDRAISER 💵⛏🦴🦖 Help us raise enough money to rent a truck for our Wyoming fieldwork 🚚 !wywishlist !MRC",
+      "game": "Science & Technology",
+      "started_at": "2026-04-27T20:14:11Z"
     },
     {
       "username": "AdamLearnsLive",
@@ -48,12 +54,6 @@
       "title": "Attempting math! (Slim complains because the devil wouldn't buy his soul)",
       "game": "Math",
       "started_at": "2026-04-27T19:55:54Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "🦖🦴⛏💵 DINOSAUR DIG FUNDRAISER 💵⛏🦴🦖 Help us raise enough money to rent a truck for our Wyoming fieldwork 🚚 !wywishlist !MRC",
-      "game": "Science & Technology",
-      "started_at": "2026-04-27T20:14:11Z"
     }
   ]
 }
