@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-28T01:04:37.850Z",
+  "timestamp": "2026-04-28T01:45:37.513Z",
   "live": [
     {
       "username": "Maya",
@@ -8,22 +8,10 @@
       "started_at": "2026-04-28T00:37:42Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "EJ'S AMAZON LEO LA-06 LAUNCH COVERAGE!",
-      "game": "Science & Technology",
-      "started_at": "2026-04-27T14:06:45Z"
-    },
-    {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-04-26T19:28:56Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "🦖🦴⛏💵 DINOSAUR DIG FUNDRAISER 💵⛏🦴🦖 Help us raise enough money to rent a truck for our Wyoming fieldwork 🚚 !wywishlist !MRC",
-      "game": "Science & Technology",
-      "started_at": "2026-04-27T20:14:11Z"
     },
     {
       "username": "DrawCuriosity",
@@ -32,16 +20,16 @@
       "started_at": "2026-04-26T09:36:30Z"
     },
     {
+      "username": "SciAnts_Streams",
+      "title": "Microscopy Monday | Special guest Helen from Fred Hutch + Tiny worlds under the microscope | Partner+ 282/300 | !ppp !yt !pod !gotel",
+      "game": "Science & Technology",
+      "started_at": "2026-04-28T01:01:05Z"
+    },
+    {
       "username": "csharpfritz",
       "title": "Coding, AI, and GitHub Copilot",
       "game": "Software and Game Development",
       "started_at": "2026-04-27T23:58:35Z"
-    },
-    {
-      "username": "SciAnts_Streams",
-      "title": "Microscopy Monday | Special guest Helen from Fred Hutch + Tiny worlds under the microscope | Partner+ 282/300 | !ppp !yt !pod",
-      "game": "Science & Technology",
-      "started_at": "2026-04-28T01:01:05Z"
     },
     {
       "username": "ActualEducation",
