@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-27T23:37:41.673Z",
+  "timestamp": "2026-04-28T00:00:17.787Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,10 +26,10 @@
       "started_at": "2026-04-26T09:36:30Z"
     },
     {
-      "username": "professor_ashley",
-      "title": "I am ashamed",
-      "game": "RACCOIN: Coin Pusher Roguelike",
-      "started_at": "2026-04-27T22:11:01Z"
+      "username": "csharpfritz",
+      "title": "Coding, AI, and GitHub Copilot",
+      "game": "Software and Game Development",
+      "started_at": "2026-04-27T23:58:35Z"
     }
   ]
 }
