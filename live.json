@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-28T18:34:32.799Z",
+  "timestamp": "2026-04-28T19:09:44.573Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,12 +18,6 @@
       "title": "cute bird alert",
       "game": "Art",
       "started_at": "2026-04-28T15:47:58Z"
-    },
-    {
-      "username": "AdamLearnsLive",
-      "title": "Polishing for Thursday (day 22)",
-      "game": "Software and Game Development",
-      "started_at": "2026-04-28T15:07:26Z"
     },
     {
       "username": "imreallyimportant",
@@ -48,6 +42,12 @@
       "title": "Tuesday April 28th @ 2:30 pm EDT: Neolithic Ireland—Stones of the Seasons: preview of my talk for a Celtic Fair in June in Upstate New York.",
       "game": "Science & Technology",
       "started_at": "2026-04-28T18:28:39Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "First Look at Solar Expanse Early Access (Game Key Received for Free)",
+      "game": "Solar Expanse",
+      "started_at": "2026-04-28T19:02:45Z"
     }
   ]
 }
