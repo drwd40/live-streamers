@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-28T01:45:37.513Z",
+  "timestamp": "2026-04-28T02:45:21.197Z",
   "live": [
     {
       "username": "Maya",
-      "title": "TESTING STREAMERS' ANIMAL KNOWLEDGE!!!",
+      "title": "CALLING STREAMERS OUT!!",
       "game": "Just Chatting",
       "started_at": "2026-04-28T00:37:42Z"
     },
@@ -14,10 +14,10 @@
       "started_at": "2026-04-26T19:28:56Z"
     },
     {
-      "username": "DrawCuriosity",
-      "title": "🎉 [SUBATHON! - 103H+ 24/7! -THE GRAND FINALE!!] !subathon !tip SUBATHON ENDING *SOON!* LET'S CELEBRATE! 👀 ✨🐑",
-      "game": "Special Events",
-      "started_at": "2026-04-26T09:36:30Z"
+      "username": "Moohoodles",
+      "title": "🪐 Space & Astrobiology news! ✨ Close to a new emote slot & vibin out",
+      "game": "Science & Technology",
+      "started_at": "2026-04-28T01:59:53Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -26,22 +26,10 @@
       "started_at": "2026-04-28T01:01:05Z"
     },
     {
-      "username": "csharpfritz",
-      "title": "Coding, AI, and GitHub Copilot",
-      "game": "Software and Game Development",
-      "started_at": "2026-04-27T23:58:35Z"
-    },
-    {
-      "username": "ActualEducation",
-      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
-      "game": "Just Chatting",
-      "started_at": "2026-04-28T00:01:54Z"
-    },
-    {
-      "username": "walkingsticklibrary",
-      "title": "Methlyene blue -- fountain of Youth?",
-      "game": "Science & Technology",
-      "started_at": "2026-04-28T00:30:17Z"
+      "username": "DrawCuriosity",
+      "title": "🎉 [SUBATHON! - 103H+ 24/7! -THE GRAND FINALE!!] !subathon !tip SUBATHON ENDING *SOON!* LET'S CELEBRATE! 👀 ✨🐑",
+      "game": "Special Events",
+      "started_at": "2026-04-26T09:36:30Z"
     }
   ]
 }
