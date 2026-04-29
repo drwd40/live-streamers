@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-29T18:43:21.615Z",
+  "timestamp": "2026-04-29T19:12:33.667Z",
   "live": [
     {
       "username": "Maya",
@@ -20,10 +20,10 @@
       "started_at": "2026-04-29T17:36:19Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Slow and steady wins the race (day 23)",
-      "game": "Software and Game Development",
-      "started_at": "2026-04-29T15:00:13Z"
+      "username": "SciAnts_Streams",
+      "title": "🌘 SAROS Time 🌒| Eclipse science, animals, and rabbit holes galore | Partner+ 328/300 | !ppp !yt !pod !gotel",
+      "game": "SAROS",
+      "started_at": "2026-04-29T18:01:32Z"
     },
     {
       "username": "imreallyimportant",
@@ -32,10 +32,10 @@
       "started_at": "2026-04-29T16:46:06Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "🌘 SAROS Time 🌒| Eclipse science, animals, and rabbit holes galore | Partner+ 328/300 | !ppp !yt !pod !gotel",
-      "game": "SAROS",
-      "started_at": "2026-04-29T18:01:32Z"
+      "username": "IrishJohnGames",
+      "title": "🍀 Live Rise of Piracy Development | !rop !steam !discordROP !streamers !MicroProse",
+      "game": "Software and Game Development",
+      "started_at": "2026-04-29T18:18:01Z"
     },
     {
       "username": "Zachap",
@@ -44,28 +44,16 @@
       "started_at": "2026-04-29T10:02:03Z"
     },
     {
-      "username": "IrishJohnGames",
-      "title": "🍀 Live Rise of Piracy Development | !rop !steam !discordROP !streamers !MicroProse",
-      "game": "Software and Game Development",
-      "started_at": "2026-04-29T18:18:01Z"
-    },
-    {
-      "username": "CosmoQuestX",
-      "title": "Astronomy Cast Live",
-      "game": "Talk Shows & Podcasts",
-      "started_at": "2026-04-29T18:03:36Z"
-    },
-    {
-      "username": "eToThe2iPi",
-      "title": "Explorations in Differential Equations + Other Math/Ed Chat",
-      "game": "Just Chatting",
-      "started_at": "2026-04-29T17:57:50Z"
-    },
-    {
       "username": "Stephen_Wolfram",
       "title": "Live CEOing Ep 975: Language Design in Wolfram Language [Loggins, RationalQ and more]",
       "game": "Science & Technology",
       "started_at": "2026-04-29T18:19:43Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Explorations in Differential Equations + Other Math/Ed Chat, Part II",
+      "game": "Just Chatting",
+      "started_at": "2026-04-29T19:04:38Z"
     }
   ]
 }
