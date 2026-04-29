@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-29T20:42:43.312Z",
+  "timestamp": "2026-04-29T21:09:22.869Z",
   "live": [
     {
       "username": "Maya",
@@ -32,12 +32,6 @@
       "started_at": "2026-04-29T18:01:32Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Business, Innovation and Managing Life (April 29, 2026)",
-      "game": "Science & Technology",
-      "started_at": "2026-04-29T19:39:30Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "Chill development afternoon (day 23½)",
       "game": "Software and Game Development",
@@ -54,12 +48,6 @@
       "title": "Passionate about creating an educational space for far-left analysis to inspire a chance at democratizing the economy in a scientific manner",
       "game": "Just Chatting",
       "started_at": "2026-04-29T10:02:03Z"
-    },
-    {
-      "username": "eToThe2iPi",
-      "title": "Explorations in Differential Equations + Other Math/Ed Chat, Part II",
-      "game": "Just Chatting",
-      "started_at": "2026-04-29T19:04:38Z"
     }
   ]
 }
