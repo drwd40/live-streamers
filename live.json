@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-29T17:34:34.705Z",
+  "timestamp": "2026-04-29T18:04:38.759Z",
   "live": [
     {
       "username": "Maya",
@@ -12,6 +12,12 @@
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-04-28T15:20:29Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "Giving SLS the upper stage it deserves!",
+      "game": "Kerbal Space Program",
+      "started_at": "2026-04-29T17:36:19Z"
     },
     {
       "username": "AdamLearnsLive",
@@ -32,10 +38,28 @@
       "started_at": "2026-04-29T10:02:03Z"
     },
     {
+      "username": "eToThe2iPi",
+      "title": "Explorations in Differential Equations + Other Math/Ed Chat",
+      "game": "Just Chatting",
+      "started_at": "2026-04-29T17:57:50Z"
+    },
+    {
       "username": "TimberAnew",
       "title": "Medieval fun time",
       "game": "Kingdom Come: Deliverance",
       "started_at": "2026-04-29T16:58:12Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "🌘 SAROS Time 🌒| Eclipse science, animals, and rabbit holes galore | Partner+ 328/300 | !ppp !yt !pod !gotel",
+      "game": "Science & Technology",
+      "started_at": "2026-04-29T18:01:32Z"
+    },
+    {
+      "username": "CosmoQuestX",
+      "title": "Astronomy Cast Live",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2026-04-29T18:03:36Z"
     }
   ]
 }
