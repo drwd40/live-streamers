@@ -1,10 +1,16 @@
 {
-  "timestamp": "2026-04-29T15:49:44.195Z",
+  "timestamp": "2026-04-29T16:23:06.426Z",
   "live": [
     {
-      "username": "AlveusSanctuary",
-      "title": "Animal Care Chats | !alveus !institute !schedule !video",
+      "username": "Maya",
+      "title": "ALVEUS ART AUCTION 🎨 | !bid !postcard !items",
       "game": "Just Chatting",
+      "started_at": "2026-04-29T16:04:12Z"
+    },
+    {
+      "username": "AlveusSanctuary",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !schedule !video",
+      "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-04-28T15:20:29Z"
     },
     {
