@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-29T19:12:33.667Z",
+  "timestamp": "2026-04-29T19:50:19.503Z",
   "live": [
     {
       "username": "Maya",
@@ -26,12 +26,6 @@
       "started_at": "2026-04-29T18:01:32Z"
     },
     {
-      "username": "imreallyimportant",
-      "title": "4/29/26: DEBATING POLITICS ON TIKTOK",
-      "game": "Just Chatting",
-      "started_at": "2026-04-29T16:46:06Z"
-    },
-    {
       "username": "IrishJohnGames",
       "title": "🍀 Live Rise of Piracy Development | !rop !steam !discordROP !streamers !MicroProse",
       "game": "Software and Game Development",
@@ -44,16 +38,16 @@
       "started_at": "2026-04-29T10:02:03Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 975: Language Design in Wolfram Language [Loggins, RationalQ and more]",
-      "game": "Science & Technology",
-      "started_at": "2026-04-29T18:19:43Z"
-    },
-    {
       "username": "eToThe2iPi",
       "title": "Explorations in Differential Equations + Other Math/Ed Chat, Part II",
       "game": "Just Chatting",
       "started_at": "2026-04-29T19:04:38Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Business, Innovation and Managing Life (April 29, 2026)",
+      "game": "Science & Technology",
+      "started_at": "2026-04-29T19:39:30Z"
     }
   ]
 }
