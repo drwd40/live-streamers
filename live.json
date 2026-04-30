@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-30T14:19:37.660Z",
+  "timestamp": "2026-04-30T15:06:20.940Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "Finally New Stream Setup Started! New Tool / Widgets | NEW OBS PLUGIN -> !bbc",
       "game": "Just Chatting",
       "started_at": "2026-04-30T11:46:59Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Music Thursday - farm tune (day 24)",
+      "game": "Software and Game Development",
+      "started_at": "2026-04-30T15:00:02Z"
     }
   ]
 }
