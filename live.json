@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-30T01:13:16.348Z",
+  "timestamp": "2026-04-30T01:57:46.628Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,6 +26,12 @@
       "started_at": "2026-04-29T23:12:38Z"
     },
     {
+      "username": "Moohoodles",
+      "title": "🪐 Space news & Astrobiology scicomm here! ✨ Aphelion nerdin out soon",
+      "game": "Science & Technology",
+      "started_at": "2026-04-30T01:18:41Z"
+    },
+    {
       "username": "SciAnts_Streams",
       "title": "🌘 SAROS Time 🌒| Eclipse science, animals, and rabbit holes galore | Partner+ 328/300 | !ppp !yt !pod !gotel",
       "game": "SAROS",
@@ -42,6 +48,12 @@
       "title": "responding to philosophy referees",
       "game": "Just Chatting",
       "started_at": "2026-04-30T00:00:33Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "How to NOT culturally appropriate, have they bred the brains out of snakes, and positive uses for biofilms.",
+      "game": "Science & Technology",
+      "started_at": "2026-04-30T01:30:30Z"
     }
   ]
 }
