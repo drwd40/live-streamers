@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-29T23:55:49.466Z",
+  "timestamp": "2026-04-30T00:26:08.758Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-04-29T21:54:38Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "FOSSIL SCIENCE NEWS 🦕📰 What's new in the world of paleontology, plus viewer Q&A and more (w/ paleontologist Danny Anduza) !WYwishlist",
-      "game": "Science & Technology",
-      "started_at": "2026-04-29T20:05:06Z"
-    },
-    {
       "username": "ipaintbirbs",
       "title": "a sweet evening with the birbs",
       "game": "Art",
       "started_at": "2026-04-29T23:12:38Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "FOSSIL SCIENCE NEWS 🦕📰 What's new in the world of paleontology, plus viewer Q&A and more (w/ paleontologist Danny Anduza) !WYwishlist",
+      "game": "Science & Technology",
+      "started_at": "2026-04-29T20:05:06Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -44,10 +44,16 @@
       "started_at": "2026-04-29T18:01:32Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "Cracking the GRE Math Subject Test, Night 038: Calc II Final Exam: Volumes of Solids of Revolution",
-      "game": "Math",
-      "started_at": "2026-04-29T22:07:19Z"
+      "username": "nogre0",
+      "title": "responding to philosophy referees",
+      "game": "Just Chatting",
+      "started_at": "2026-04-30T00:00:33Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Water Wednesday! Trash clean up 360 dive videos! 🪸",
+      "game": "Science & Technology",
+      "started_at": "2026-04-30T00:01:52Z"
     }
   ]
 }
