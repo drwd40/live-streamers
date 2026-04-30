@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-30T03:13:56.065Z",
+  "timestamp": "2026-04-30T04:28:23.292Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,15 +8,9 @@
       "started_at": "2026-04-28T15:20:29Z"
     },
     {
-      "username": "ipaintbirbs",
-      "title": "a sweet evening with the birbs",
-      "game": "Art",
-      "started_at": "2026-04-29T23:12:38Z"
-    },
-    {
       "username": "Moohoodles",
-      "title": "🪐 Space news & Astrobiology scicomm here! ✨ Aphelion nerdin out soon",
-      "game": "Science & Technology",
+      "title": "🪐 Astrobiology scicomm here! ✨ I LOVE THIS GAME",
+      "game": "Aphelion",
       "started_at": "2026-04-30T01:18:41Z"
     },
     {
@@ -24,6 +18,12 @@
       "title": "🌘 SAROS Time 🌒| Eclipse science, animals, and rabbit holes galore | Partner+ 328/300 | !ppp !yt !pod !gotel",
       "game": "SAROS",
       "started_at": "2026-04-29T18:01:32Z"
+    },
+    {
+      "username": "DrMick",
+      "title": "Therapist Plays Beyond Two Souls: Part 2",
+      "game": "Beyond: Two Souls",
+      "started_at": "2026-04-30T04:24:19Z"
     },
     {
       "username": "walkingsticklibrary",
