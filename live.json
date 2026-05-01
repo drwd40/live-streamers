@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-01T01:13:47.326Z",
+  "timestamp": "2026-05-01T01:58:49.900Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,10 +14,10 @@
       "started_at": "2026-04-30T21:54:56Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "PALEONTOLOGY Q&A 🦖⁉💬✔ Discussing new fossil discoveries and publications + Thursday BIRDSday (w/ paleontologist Danny Anduza) !WYwishlist",
-      "game": "Science & Technology",
-      "started_at": "2026-04-30T20:08:34Z"
+      "username": "SciAnts_Streams",
+      "title": "🌘 SAROS Time 🌒| Eclipse science | Beat Adorable Adventures! | Partner+ 333/300 | !ppp !yt !pod !gotel",
+      "game": "SAROS",
+      "started_at": "2026-04-30T18:04:18Z"
     },
     {
       "username": "AstroCanuck",
@@ -26,22 +26,16 @@
       "started_at": "2026-04-30T23:00:14Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "Adorable Adventures & Science | Pig science, games, and more! | Partner+ 333/300 | !ppp !yt !pod !gotel",
-      "game": "Adorable Adventures",
-      "started_at": "2026-04-30T18:04:18Z"
+      "username": "Nerduino",
+      "title": "Thursday Science Chat.  PhD Astronomer and former NASA guy.  #NASA #science #space #stem",
+      "game": "Science & Technology",
+      "started_at": "2026-05-01T00:50:11Z"
     },
     {
       "username": "Zachap",
       "title": "Passionate about creating an educational space for far-left analysis to inspire a chance at democratizing the economy in a scientific manner",
       "game": "Just Chatting",
       "started_at": "2026-04-30T10:04:22Z"
-    },
-    {
-      "username": "Nerduino",
-      "title": "Thursday Science Chat.  PhD Astronomer and former NASA guy.  #NASA #science #space #stem",
-      "game": "Science & Technology",
-      "started_at": "2026-05-01T00:50:11Z"
     },
     {
       "username": "SharkG33k",
@@ -60,6 +54,12 @@
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Just Chatting",
       "started_at": "2026-05-01T00:00:49Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Have they bred the brains out of snakes Part II, positive uses for biofilms, and the St. James Infirmary Blues.",
+      "game": "Science & Technology",
+      "started_at": "2026-05-01T01:30:00Z"
     }
   ]
 }
