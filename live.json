@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-01T00:11:41.036Z",
+  "timestamp": "2026-05-01T01:13:47.326Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,28 +20,34 @@
       "started_at": "2026-04-30T20:08:34Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "Adorable Adventures & Science | Pig science, games, and more! | Partner+ 333/300 | !ppp !yt !pod !gotel",
-      "game": "Adorable Adventures",
-      "started_at": "2026-04-30T18:04:18Z"
-    },
-    {
       "username": "AstroCanuck",
       "title": "Astro's Po'Pourri: Wooden Rocket Crafting & LEGO News | !lumi | !PGV !build | !drop !tkf",
       "game": "Science & Technology",
       "started_at": "2026-04-30T23:00:14Z"
     },
     {
-      "username": "shnaff",
-      "title": "Guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-04-30T22:00:46Z"
+      "username": "SciAnts_Streams",
+      "title": "Adorable Adventures & Science | Pig science, games, and more! | Partner+ 333/300 | !ppp !yt !pod !gotel",
+      "game": "Adorable Adventures",
+      "started_at": "2026-04-30T18:04:18Z"
     },
     {
       "username": "Zachap",
       "title": "Passionate about creating an educational space for far-left analysis to inspire a chance at democratizing the economy in a scientific manner",
       "game": "Just Chatting",
       "started_at": "2026-04-30T10:04:22Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Thursday Science Chat.  PhD Astronomer and former NASA guy.  #NASA #science #space #stem",
+      "game": "Science & Technology",
+      "started_at": "2026-05-01T00:50:11Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Thrash Thursday! Making emotes and jamming!",
+      "game": "Just Chatting",
+      "started_at": "2026-04-30T23:59:59Z"
     },
     {
       "username": "MelissaInDeNile",
@@ -54,12 +60,6 @@
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Just Chatting",
       "started_at": "2026-05-01T00:00:49Z"
-    },
-    {
-      "username": "SharkG33k",
-      "title": "Thrash Thursday! Making emotes and jamming!",
-      "game": "Just Chatting",
-      "started_at": "2026-04-30T23:59:59Z"
     }
   ]
 }
