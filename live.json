@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-01T12:04:03.430Z",
+  "timestamp": "2026-05-01T12:34:16.937Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,12 @@
       "title": "First Time Doing This... • Encore at 25 subs | NEW OBS PLUGIN -> !bbc",
       "game": "Music",
       "started_at": "2026-05-01T11:12:36Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀 Live Rise of Piracy Development | !rop !steam !discordROP !streamers !MicroProse",
+      "game": "Software and Game Development",
+      "started_at": "2026-05-01T12:22:25Z"
     }
   ]
 }
