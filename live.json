@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-02T11:50:37.235Z",
+  "timestamp": "2026-05-02T12:06:52.566Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-04-30T15:20:02Z"
     },
     {
+      "username": "TinyToxicTofu",
+      "title": "Should we Learn Blender or Fusion? Elite Dangerous Gameplay Continues! !phd !physics",
+      "game": "Science & Technology",
+      "started_at": "2026-05-02T11:42:53Z"
+    },
+    {
       "username": "Zachap",
       "title": "\"the west\" and \"liberalism\" are fake and debunkable.",
       "game": "Just Chatting",
       "started_at": "2026-05-02T10:03:15Z"
-    },
-    {
-      "username": "TinyToxicTofu",
-      "title": "Should we Learn Blender or Fusion? Elite Dangerous Gameplay Continues! !phd !3dprinter !physics",
-      "game": "Elite: Dangerous",
-      "started_at": "2026-05-02T11:42:53Z"
     }
   ]
 }
