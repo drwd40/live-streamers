@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-03T14:18:45.355Z",
+  "timestamp": "2026-05-03T14:37:43.543Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -10,7 +10,7 @@
     {
       "username": "TinyToxicTofu",
       "title": "Bambi Chewed My Ethernet Cable So We Stream Until We Got No Internet !phd !physics",
-      "game": "Science & Technology",
+      "game": "Elite: Dangerous",
       "started_at": "2026-05-03T10:55:56Z"
     },
     {
@@ -30,12 +30,6 @@
       "title": "Chess Puzzle of the Day! Therapeutic Ethical Dilemma and Cultural Competence with Native Americans in Therapy | Intr-| Stray !chess !patreon",
       "game": "Just Chatting",
       "started_at": "2026-05-03T14:02:48Z"
-    },
-    {
-      "username": "DrAlexanderClarke",
-      "title": "Chatting on Sunday with Beavers",
-      "game": "Timberborn",
-      "started_at": "2026-05-03T12:36:10Z"
     }
   ]
 }
