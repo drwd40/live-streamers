@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-03T01:50:24.962Z",
+  "timestamp": "2026-05-03T02:52:04.999Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "Let me romance a persona, you kowards",
       "game": "Persona 5 Royal",
       "started_at": "2026-05-03T01:14:23Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Positive uses for biofilms, learning vocabulary from context, and the Saint James Infirmary Blues.",
+      "game": "Science & Technology",
+      "started_at": "2026-05-03T02:04:22Z"
     }
   ]
 }
