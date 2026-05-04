@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-03T23:43:09.916Z",
+  "timestamp": "2026-05-04T00:03:00.702Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "Guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2026-05-03T22:02:09Z"
+    },
+    {
+      "username": "nogre0",
+      "title": "waiting for philosophy",
+      "game": "Just Chatting",
+      "started_at": "2026-05-04T00:00:07Z"
     }
   ]
 }
