@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-05-04T18:08:20.611Z",
+  "timestamp": "2026-05-04T18:46:34.872Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
-      "game": "Animals, Aquariums, and Zoos",
+      "title": "Animal Care Chats | !alveus !institute !pixel !schedule !video",
+      "game": "Just Chatting",
       "started_at": "2026-05-04T06:59:37Z"
     },
     {
@@ -36,12 +36,6 @@
       "title": "Building Quiz Show Software: Sixteen",
       "game": "Software and Game Development",
       "started_at": "2026-05-04T17:57:11Z"
-    },
-    {
-      "username": "TimberAnew",
-      "title": "Searching for Limpy Lubosh's cronies",
-      "game": "Kingdom Come: Deliverance",
-      "started_at": "2026-05-04T17:00:40Z"
     }
   ]
 }
