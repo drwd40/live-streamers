@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-05-04T19:55:01.090Z",
+  "timestamp": "2026-05-04T20:25:23.065Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Care Chats | !alveus !institute !pixel !schedule !video",
-      "game": "Just Chatting",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
+      "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-05-04T06:59:37Z"
     },
     {
@@ -14,10 +14,10 @@
       "started_at": "2026-05-04T16:14:32Z"
     },
     {
-      "username": "Zachap",
-      "title": "the wealthy are dictators under the legal obligation for shareholder's private property value",
-      "game": "Just Chatting",
-      "started_at": "2026-05-04T10:01:35Z"
+      "username": "Paleontologizing",
+      "title": "🦕⭐ Paleontology in Star Wars ⁉  Let's talk about the galactic influence of fossil critters   (w/ paleontologist Danny Anduza) !WYwishlist",
+      "game": "Science & Technology",
+      "started_at": "2026-05-04T20:07:24Z"
     },
     {
       "username": "IrishJohnGames",
@@ -26,16 +26,16 @@
       "started_at": "2026-05-04T18:58:53Z"
     },
     {
+      "username": "DrawCuriosity",
+      "title": "🎉 MAY THE 4TH BE WITH YOU (unlike with my voice) CHLOE STREAM - IT'S BEEN 107HOURS (+48hrs) since the subathon!   👀 ✨🐑",
+      "game": "Just Chatting",
+      "started_at": "2026-05-04T20:18:44Z"
+    },
+    {
       "username": "eToThe2iPi",
       "title": "Building Quiz Show Software: Sixteen",
       "game": "Software and Game Development",
       "started_at": "2026-05-04T17:57:11Z"
-    },
-    {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 976: Language Design in Wolfram Language [Graphic Issues]",
-      "game": "Science & Technology",
-      "started_at": "2026-05-04T19:26:41Z"
     }
   ]
 }
