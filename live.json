@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-04T19:17:32.267Z",
+  "timestamp": "2026-05-04T19:55:01.090Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,12 +12,6 @@
       "title": "Kerbal sized Orion-style capsule build in stock!!",
       "game": "Kerbal Space Program",
       "started_at": "2026-05-04T16:14:32Z"
-    },
-    {
-      "username": "imreallyimportant",
-      "title": "5/4/26: DEBATING POLITICS ON TIKTOK",
-      "game": "Just Chatting",
-      "started_at": "2026-05-04T17:41:04Z"
     },
     {
       "username": "Zachap",
@@ -36,6 +30,12 @@
       "title": "Building Quiz Show Software: Sixteen",
       "game": "Software and Game Development",
       "started_at": "2026-05-04T17:57:11Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 976: Language Design in Wolfram Language [Graphic Issues]",
+      "game": "Science & Technology",
+      "started_at": "2026-05-04T19:26:41Z"
     }
   ]
 }
