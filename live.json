@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-04T20:25:23.065Z",
+  "timestamp": "2026-05-04T20:50:58.921Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "Building Quiz Show Software: Sixteen",
       "game": "Software and Game Development",
       "started_at": "2026-05-04T17:57:11Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Solomon Marcus on Transcendental Numbers: Math Communication Monday 20260504",
+      "game": "Math",
+      "started_at": "2026-05-04T20:36:52Z"
     }
   ]
 }
