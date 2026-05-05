@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-05T02:41:14.876Z",
+  "timestamp": "2026-05-05T03:54:32.357Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-05-04T06:59:37Z"
     },
     {
-      "username": "Moohoodles",
-      "title": "🪐 Artemis II pics!! Space & Astrobiology news! ✨ Games later?!",
-      "game": "Science & Technology",
-      "started_at": "2026-05-05T01:28:30Z"
-    },
-    {
       "username": "SciAnts_Streams",
       "title": "Microscopy Monday | Tiny worlds under the microscope + science rabbit holes | Partner+ 40/300 | !ppp !yt !pod !gotel",
       "game": "Science & Technology",
       "started_at": "2026-05-05T01:05:04Z"
+    },
+    {
+      "username": "Moohoodles",
+      "title": "🪐 Artemis II pics!! Space & Astrobiology news! ✨ Games later?!",
+      "game": "Science & Technology",
+      "started_at": "2026-05-05T01:28:30Z"
     },
     {
       "username": "AstroCanuck",
@@ -27,15 +27,9 @@
     },
     {
       "username": "Nerduino",
-      "title": "May the Fourth Be With You!  Astronomy chat and Star Wars games!  PhD Astronomer and former NASA guy.  #NASA #science #space #stem",
+      "title": "May the Fourth Be With You!  Astronomer plays Star Wars the Old Republic! PhD Astronomer and former NASA guy.  #NASA #science #space #stem",
       "game": "Star Wars: The Old Republic",
       "started_at": "2026-05-04T23:55:24Z"
-    },
-    {
-      "username": "ActualEducation",
-      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
-      "game": "Just Chatting",
-      "started_at": "2026-05-05T00:02:08Z"
     }
   ]
 }
