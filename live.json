@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-05T13:04:28.112Z",
+  "timestamp": "2026-05-05T13:45:06.524Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "Ask something politics or watch and learn stuff :)",
       "game": "Politics",
       "started_at": "2026-05-05T10:02:01Z"
+    },
+    {
+      "username": "csharpfritz",
+      "title": "SharpSite and StreamerMaps",
+      "game": "Software and Game Development",
+      "started_at": "2026-05-05T13:43:56Z"
     }
   ]
 }
