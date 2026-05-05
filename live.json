@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-05-05T18:49:54.775Z",
+  "timestamp": "2026-05-05T19:21:10.260Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Care Chats | !alveus !institute !pixel !schedule !video",
-      "game": "Just Chatting",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
+      "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-05-04T06:59:37Z"
     },
     {
@@ -14,22 +14,10 @@
       "started_at": "2026-05-05T16:04:26Z"
     },
     {
-      "username": "imreallyimportant",
-      "title": "5/5/26: DEBATING POLITICS ON TIKTOK",
-      "game": "Just Chatting",
-      "started_at": "2026-05-05T16:50:26Z"
-    },
-    {
       "username": "Zachap",
       "title": "Ask something politics or watch and learn stuff :)",
       "game": "Talk Shows & Podcasts",
       "started_at": "2026-05-05T10:02:01Z"
-    },
-    {
-      "username": "oh_bother",
-      "title": "Fix it with magnets? My keyboard is weird, let's see if I can fix the case or else I'll have to 3d print a new one.",
-      "game": "Just Chatting",
-      "started_at": "2026-05-05T16:41:01Z"
     }
   ]
 }
