@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-06T20:12:25.562Z",
+  "timestamp": "2026-05-06T20:46:35.600Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,22 @@
       "started_at": "2026-05-06T06:59:39Z"
     },
     {
-      "username": "Zachap",
-      "title": "Ask something politics or watch and learn stuff :)",
-      "game": "Talk Shows & Podcasts",
-      "started_at": "2026-05-06T10:03:43Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "🦕 Paleontology news & Q&A + Wednesday BIRDSday (due to streamiversary special tomorrow) 🦖w/ paleontologist Danny Anduza 🦕 !WYdinoSupport",
       "game": "Science & Technology",
       "started_at": "2026-05-06T20:01:53Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "History of Science and Technology Q&A (May 6, 2026)",
+      "game": "Science & Technology",
+      "started_at": "2026-05-06T19:52:25Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "Ask something politics or watch and learn stuff :)",
+      "game": "Just Chatting",
+      "started_at": "2026-05-06T10:03:43Z"
     },
     {
       "username": "IrishJohnGames",
@@ -30,12 +36,6 @@
       "title": "Differential Equations + Other Math/Ed Chat!",
       "game": "Math",
       "started_at": "2026-05-06T17:56:17Z"
-    },
-    {
-      "username": "Stephen_Wolfram",
-      "title": "History of Science and Technology Q&A (May 6, 2026)",
-      "game": "Science & Technology",
-      "started_at": "2026-05-06T19:52:25Z"
     }
   ]
 }
