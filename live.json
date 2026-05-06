@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-06T23:29:38.065Z",
+  "timestamp": "2026-05-06T23:50:52.196Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,28 +14,22 @@
       "started_at": "2026-05-06T22:59:54Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "🦕 Paleontology news & Q&A + Wednesday BIRDSday (due to streamiversary special tomorrow) 🦖w/ paleontologist Danny Anduza 🦕 !WYdinoSupport",
-      "game": "Science & Technology",
-      "started_at": "2026-05-06T20:01:53Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "TRUMP DESPERATE AFTER PROJECT FREEDOM FAILS | NUTLICK TESTIFIES IN HOUSE ABOUT EPSTEIN LIES",
       "game": "Just Chatting",
       "started_at": "2026-05-06T21:50:00Z"
     },
     {
+      "username": "Paleontologizing",
+      "title": "🦕 Paleontology news & Q&A + Wednesday BIRDSday (due to streamiversary special tomorrow) 🦖w/ paleontologist Danny Anduza 🦕 !WYdinoSupport",
+      "game": "Science & Technology",
+      "started_at": "2026-05-06T20:01:53Z"
+    },
+    {
       "username": "ipaintbirbs",
       "title": "quiet rainy painting hours",
       "game": "Art",
       "started_at": "2026-05-06T23:00:05Z"
-    },
-    {
-      "username": "nSimplexPachinko",
-      "title": "Trig Sub & Improper Integrals: Cracking the GRE Math Subject Test, Night 039 - 20260506",
-      "game": "Math",
-      "started_at": "2026-05-06T21:33:20Z"
     }
   ]
 }
