@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-05-06T19:01:21.285Z",
+  "timestamp": "2026-05-06T19:39:45.474Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Education Time w/ Kayla | !alveus !institute !pixel !schedule !video",
-      "game": "Just Chatting",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
+      "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-05-06T06:59:39Z"
     },
     {
@@ -14,22 +14,16 @@
       "started_at": "2026-05-06T10:03:43Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Differential Equations + Other Math/Ed Chat!",
-      "game": "Math",
-      "started_at": "2026-05-06T17:56:17Z"
-    },
-    {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 977: Language Design in Wolfram Language [DigitCount, UnitVector and more]",
-      "game": "Science & Technology",
-      "started_at": "2026-05-06T18:18:57Z"
-    },
-    {
       "username": "IrishJohnGames",
       "title": "🍀 Live Rise of Piracy Development | !rop !discord !streamers",
       "game": "Software and Game Development",
       "started_at": "2026-05-06T18:59:27Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Differential Equations + Other Math/Ed Chat!",
+      "game": "Math",
+      "started_at": "2026-05-06T17:56:17Z"
     }
   ]
 }
