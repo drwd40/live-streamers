@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-06T21:15:24.348Z",
+  "timestamp": "2026-05-06T21:41:23.712Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "🍀 Live Rise of Piracy Development | !rop !discord !streamers",
       "game": "Software and Game Development",
       "started_at": "2026-05-06T18:59:27Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Trig Sub & Improper Integrals: Cracking the GRE Math Subject Test, Night 039 - 20260506",
+      "game": "Math",
+      "started_at": "2026-05-06T21:33:20Z"
     }
   ]
 }
