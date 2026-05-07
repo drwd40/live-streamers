@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-07T01:07:52.002Z",
+  "timestamp": "2026-05-07T01:50:00.175Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,34 +8,34 @@
       "started_at": "2026-05-06T06:59:39Z"
     },
     {
-      "username": "ipaintbirbs",
-      "title": "quiet rainy painting hours",
-      "game": "Art",
-      "started_at": "2026-05-06T23:00:05Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "TRUMP DESPERATE AFTER PROJECT FREEDOM FAILS | NUTLICK TESTIFIES IN HOUSE ABOUT EPSTEIN LIES",
       "game": "Just Chatting",
       "started_at": "2026-05-06T21:50:00Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "🦕 Paleontology news & Q&A + Wednesday BIRDSday (due to streamiversary special tomorrow) 🦖w/ paleontologist Danny Anduza 🦕 !WYdinoSupport",
-      "game": "Science & Technology",
-      "started_at": "2026-05-06T20:01:53Z"
+      "username": "ipaintbirbs",
+      "title": "quiet rainy painting hours",
+      "game": "Art",
+      "started_at": "2026-05-06T23:00:05Z"
     },
     {
-      "username": "SharkG33k",
-      "title": "Water Wednesday! New gator drone footage and shark tier list!🦈",
+      "username": "Moohoodles",
+      "title": "🪐 Space & Astrobiology news! ✨ Games later?!",
       "game": "Science & Technology",
-      "started_at": "2026-05-07T00:08:52Z"
+      "started_at": "2026-05-07T01:24:12Z"
     },
     {
       "username": "SciAnts_Streams",
       "title": "Wacom Wednesday | Science art, deep dives, rabbit holes galore! | Partner+ 69/300 | !ppp !yt !pod !gotel",
       "game": "Science & Technology",
       "started_at": "2026-05-07T01:04:10Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Water Wednesday! New gator drone footage and shark tier list!🦈",
+      "game": "Science & Technology",
+      "started_at": "2026-05-07T00:08:52Z"
     },
     {
       "username": "nogre0",
@@ -54,6 +54,12 @@
       "title": "Dr. Haochuan Mao – Spin-Chemistry, and Solstice.",
       "game": "Science & Technology",
       "started_at": "2026-05-06T23:56:15Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Jewish genetic diseases, who is Ashlynn Kirk, and optimizing bus schedules and user experience.",
+      "game": "Science & Technology",
+      "started_at": "2026-05-07T01:30:32Z"
     }
   ]
 }
