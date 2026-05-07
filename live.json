@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-05-07T17:22:55.566Z",
+  "timestamp": "2026-05-07T17:59:42.983Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
-      "game": "Animals, Aquariums, and Zoos",
+      "title": "Projects w/ FAID | !alveus !institute !pixel !schedule !video",
+      "game": "Just Chatting",
       "started_at": "2026-05-06T06:59:39Z"
     },
     {
@@ -24,12 +24,6 @@
       "title": "Making a node red powered RAID LIGHT. One of those spinny lights, modified!",
       "game": "Just Chatting",
       "started_at": "2026-05-07T16:52:44Z"
-    },
-    {
-      "username": "SETIInstitute",
-      "title": "Lava Worlds & Nightside Volcanoes on K2-141 b",
-      "game": "Talk Shows & Podcasts",
-      "started_at": "2026-05-07T17:00:25Z"
     }
   ]
 }
