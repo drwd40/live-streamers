@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-06T23:50:52.196Z",
+  "timestamp": "2026-05-07T00:09:06.897Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,6 +14,12 @@
       "started_at": "2026-05-06T22:59:54Z"
     },
     {
+      "username": "ipaintbirbs",
+      "title": "quiet rainy painting hours",
+      "game": "Art",
+      "started_at": "2026-05-06T23:00:05Z"
+    },
+    {
       "username": "imreallyimportant",
       "title": "TRUMP DESPERATE AFTER PROJECT FREEDOM FAILS | NUTLICK TESTIFIES IN HOUSE ABOUT EPSTEIN LIES",
       "game": "Just Chatting",
@@ -26,10 +32,16 @@
       "started_at": "2026-05-06T20:01:53Z"
     },
     {
-      "username": "ipaintbirbs",
-      "title": "quiet rainy painting hours",
-      "game": "Art",
-      "started_at": "2026-05-06T23:00:05Z"
+      "username": "nogre0",
+      "title": "waiting for philosophy",
+      "game": "Just Chatting",
+      "started_at": "2026-05-07T00:00:38Z"
+    },
+    {
+      "username": "Ask_a_Scientist_Gaming",
+      "title": "Dr. Haochuan Mao – Spin-Chemistry, and Solstice.",
+      "game": "Science & Technology",
+      "started_at": "2026-05-06T23:56:15Z"
     }
   ]
 }
