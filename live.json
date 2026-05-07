@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-07T23:35:16.675Z",
+  "timestamp": "2026-05-07T23:58:01.913Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-05-07T18:22:58Z"
     },
     {
-      "username": "shnaff",
-      "title": "I have a new instrument to play on stream!",
-      "game": "Music",
-      "started_at": "2026-05-07T22:04:54Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Back From GigMaxxing - Time to Mog These Circuit Boards",
       "game": "Science & Technology",
       "started_at": "2026-05-07T19:30:12Z"
+    },
+    {
+      "username": "shnaff",
+      "title": "I have a new instrument to play on stream!",
+      "game": "Music",
+      "started_at": "2026-05-07T22:04:54Z"
     },
     {
       "username": "MelissaInDeNile",
