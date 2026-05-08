@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-05-08T20:38:12.396Z",
+  "timestamp": "2026-05-08T21:03:15.030Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-05-08T06:59:41Z"
-    },
-    {
-      "username": "ipaintbirbs",
-      "title": "painting knight doves, really focused!!",
-      "game": "Art",
-      "started_at": "2026-05-08T15:59:07Z"
     },
     {
       "username": "Paleontologizing",
@@ -38,22 +32,16 @@
       "started_at": "2026-05-08T20:16:55Z"
     },
     {
-      "username": "SharkG33k",
-      "title": "[18+] Happy Friday! Checking out an exclusive Minecraft mod called Ben's Fintastic Sharks!",
-      "game": "Minecraft",
-      "started_at": "2026-05-08T18:21:16Z"
-    },
-    {
       "username": "GeoJim2006",
       "title": "End o' Semester - Night of Science & Arts: Setup and Prep ⛰️⛏️🪨🔍🔬 !discord !nova !tkf",
       "game": "Science & Technology",
       "started_at": "2026-05-08T20:05:15Z"
     },
     {
-      "username": "DrAlexanderClarke",
-      "title": "Five Topics which tend to lead to me debating vigorously with other historians... (Patreon Live)",
-      "game": "Just Chatting",
-      "started_at": "2026-05-08T18:36:58Z"
+      "username": "SharkG33k",
+      "title": "[18+] Happy Friday! Checking out an exclusive Minecraft mod called Ben's Fintastic Sharks!",
+      "game": "Minecraft",
+      "started_at": "2026-05-08T18:21:16Z"
     }
   ]
 }
