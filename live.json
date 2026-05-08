@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-08T20:15:15.102Z",
+  "timestamp": "2026-05-08T20:38:12.396Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,28 +26,34 @@
       "started_at": "2026-05-08T10:03:36Z"
     },
     {
-      "username": "SharkG33k",
-      "title": "[18+] Happy Friday! Checking out an exclusive Minecraft mod called Ben's Fintastic Sharks!",
-      "game": "Minecraft",
-      "started_at": "2026-05-08T18:21:16Z"
-    },
-    {
       "username": "IrishJohnGames",
       "title": "🍀 Live Rise of Piracy Development | !rop !discord !streamers",
       "game": "Software and Game Development",
       "started_at": "2026-05-08T18:58:27Z"
     },
     {
-      "username": "DrAlexanderClarke",
-      "title": "Five Topics which tend to lead to me debating vigorously with other historians... (Patreon Live)",
-      "game": "Just Chatting",
-      "started_at": "2026-05-08T18:36:58Z"
+      "username": "DrawCuriosity",
+      "title": "🔬SCIENCIUS - SINUS SCIENCE STREAM - come see a microCT scan with me! (Voice is back but I still gotta use it softly)  👀 ✨🐑",
+      "game": "Science & Technology",
+      "started_at": "2026-05-08T20:16:55Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "[18+] Happy Friday! Checking out an exclusive Minecraft mod called Ben's Fintastic Sharks!",
+      "game": "Minecraft",
+      "started_at": "2026-05-08T18:21:16Z"
     },
     {
       "username": "GeoJim2006",
       "title": "End o' Semester - Night of Science & Arts: Setup and Prep ⛰️⛏️🪨🔍🔬 !discord !nova !tkf",
       "game": "Science & Technology",
       "started_at": "2026-05-08T20:05:15Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "Five Topics which tend to lead to me debating vigorously with other historians... (Patreon Live)",
+      "game": "Just Chatting",
+      "started_at": "2026-05-08T18:36:58Z"
     }
   ]
 }
