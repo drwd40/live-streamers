@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-08T19:18:02.110Z",
+  "timestamp": "2026-05-08T19:50:00.146Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -48,6 +48,12 @@
       "title": "Five Topics which tend to lead to me debating vigorously with other historians... (Patreon Live)",
       "game": "Just Chatting",
       "started_at": "2026-05-08T18:36:58Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "SACRAMENTO ZOO 🦒🐊🦕 Dinosaur models, live animals, and more (w/ paleontologist Danny Anduza)",
+      "game": "IRL",
+      "started_at": "2026-05-08T19:49:20Z"
     }
   ]
 }
