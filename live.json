@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-09T22:22:07.156Z",
+  "timestamp": "2026-05-09T22:39:44.758Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "I'm a Guest for @ShaneMcInnis' Epic Crossover Streaming Event",
       "game": "Just Chatting",
       "started_at": "2026-05-09T21:52:22Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "A quick sail of the Caribbean with the Bru Crew to chat some history",
+      "game": "Pirates of the Burning Sea",
+      "started_at": "2026-05-09T22:32:27Z"
     }
   ]
 }
