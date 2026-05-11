@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-11T01:14:25.776Z",
+  "timestamp": "2026-05-11T01:59:57.152Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,6 +20,12 @@
       "started_at": "2026-05-11T00:41:44Z"
     },
     {
+      "username": "Nerduino",
+      "title": "Sunday Science Chat.  Earth Science.  Space Science.  All the science!  PhD Astronomer and former NASA guy.  #NASA #science #space #stem",
+      "game": "Science & Technology",
+      "started_at": "2026-05-11T01:50:17Z"
+    },
+    {
       "username": "nogre0",
       "title": "go watch @shanemcinnis and philosophy friends",
       "game": "Just Chatting",
@@ -30,6 +36,12 @@
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Just Chatting",
       "started_at": "2026-05-11T00:32:10Z"
+    },
+    {
+      "username": "LottaGlots",
+      "title": "i booked the wrong month",
+      "game": "Just Chatting",
+      "started_at": "2026-05-11T01:44:26Z"
     }
   ]
 }
