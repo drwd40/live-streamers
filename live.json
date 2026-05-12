@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-12T18:49:30.070Z",
+  "timestamp": "2026-05-12T19:23:25.697Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,22 +8,16 @@
       "started_at": "2026-05-12T06:59:46Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "It's Season 3 time! Trying to get back in the groove!",
-      "game": "Battlefield 6",
-      "started_at": "2026-05-12T16:45:07Z"
-    },
-    {
       "username": "ipaintbirbs",
       "title": "returning to the medieval lesbian chickadee tapestry oh yes",
       "game": "Art",
       "started_at": "2026-05-12T16:07:09Z"
     },
     {
-      "username": "oh_bother",
-      "title": "Making a node red powered RAID LIGHT. Part3, assembly (definitely final)",
-      "game": "Just Chatting",
-      "started_at": "2026-05-12T16:31:50Z"
+      "username": "EJ_SA",
+      "title": "It's Season 3 time! Trying to get back in the groove!",
+      "game": "Battlefield 6",
+      "started_at": "2026-05-12T16:45:07Z"
     },
     {
       "username": "imreallyimportant",
@@ -32,16 +26,34 @@
       "started_at": "2026-05-12T16:42:46Z"
     },
     {
+      "username": "oh_bother",
+      "title": "Making a node red powered RAID LIGHT. Part3, assembly (definitely final)",
+      "game": "Just Chatting",
+      "started_at": "2026-05-12T16:31:50Z"
+    },
+    {
       "username": "Zachap",
       "title": "liberalism isn't good, that's how we got here burning the earth down.",
       "game": "IRL",
       "started_at": "2026-05-12T10:02:22Z"
     },
     {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 978: Language Design in Wolfram Language [Wolfram Financial Framework]",
+      "game": "Science & Technology",
+      "started_at": "2026-05-12T19:00:24Z"
+    },
+    {
       "username": "SydHeresy",
       "title": "Slangmogging Chads & Stacys With SolderSmashing & E-Maxxing",
       "game": "Just Chatting",
       "started_at": "2026-05-12T18:10:18Z"
+    },
+    {
+      "username": "xTalkProgrammer",
+      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
+      "game": "Just Chatting",
+      "started_at": "2026-05-12T19:23:03Z"
     }
   ]
 }
