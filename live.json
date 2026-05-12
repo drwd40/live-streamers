@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-12T22:11:43.615Z",
+  "timestamp": "2026-05-12T22:39:22.581Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,22 +20,16 @@
       "started_at": "2026-05-12T21:49:35Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Slangmogging Chads & Stacys With SolderSmashing & E-Maxxing",
-      "game": "Science & Technology",
-      "started_at": "2026-05-12T18:10:18Z"
-    },
-    {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and reading some Math Oncology papers",
-      "game": "Math",
-      "started_at": "2026-05-12T19:44:42Z"
-    },
-    {
       "username": "shnaff",
       "title": "Guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2026-05-12T22:02:36Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Slangmogging Chads & Stacys With SolderSmashing & E-Maxxing",
+      "game": "Science & Technology",
+      "started_at": "2026-05-12T18:10:18Z"
     },
     {
       "username": "eToThe2iPi",
