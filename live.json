@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-05-12T19:23:25.697Z",
+  "timestamp": "2026-05-12T20:05:40.719Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Serval Enclosure Meeting | !alveus !institute !pixel !schedule !video",
-      "game": "Just Chatting",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
+      "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-05-12T06:59:46Z"
     },
     {
@@ -18,12 +18,6 @@
       "title": "It's Season 3 time! Trying to get back in the groove!",
       "game": "Battlefield 6",
       "started_at": "2026-05-12T16:45:07Z"
-    },
-    {
-      "username": "imreallyimportant",
-      "title": "5/12/26: DEBATING POLITICS ON TIKTOK",
-      "game": "Just Chatting",
-      "started_at": "2026-05-12T16:42:46Z"
     },
     {
       "username": "oh_bother",
@@ -46,14 +40,26 @@
     {
       "username": "SydHeresy",
       "title": "Slangmogging Chads & Stacys With SolderSmashing & E-Maxxing",
-      "game": "Just Chatting",
+      "game": "Science & Technology",
       "started_at": "2026-05-12T18:10:18Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and reading some Math Oncology papers",
+      "game": "Math",
+      "started_at": "2026-05-12T19:44:42Z"
     },
     {
       "username": "xTalkProgrammer",
       "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
       "game": "Just Chatting",
-      "started_at": "2026-05-12T19:23:03Z"
+      "started_at": "2026-05-12T19:47:22Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "FOSSIL SCIENCE NEWS 🦕💬❔✔ and viewer Q&A (w/ paleontologist Danny Anduza) !WYdinoSupport",
+      "game": "Science & Technology",
+      "started_at": "2026-05-12T20:05:25Z"
     }
   ]
 }
