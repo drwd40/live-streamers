@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-12T17:21:41.077Z",
+  "timestamp": "2026-05-12T18:07:36.957Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,22 @@
       "started_at": "2026-05-12T06:59:46Z"
     },
     {
+      "username": "EJ_SA",
+      "title": "It's Season 3 time! Trying to get back in the groove!",
+      "game": "Battlefield 6",
+      "started_at": "2026-05-12T16:45:07Z"
+    },
+    {
       "username": "ipaintbirbs",
       "title": "returning to the medieval lesbian chickadee tapestry oh yes",
       "game": "Art",
       "started_at": "2026-05-12T16:07:09Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "It's Season 3 time! Trying to get back in the groove!",
-      "game": "Battlefield 6",
-      "started_at": "2026-05-12T16:45:07Z"
+      "username": "oh_bother",
+      "title": "Making a node red powered RAID LIGHT. Part3, assembly (definitely final)",
+      "game": "Just Chatting",
+      "started_at": "2026-05-12T16:31:50Z"
     },
     {
       "username": "imreallyimportant",
@@ -30,12 +36,6 @@
       "title": "liberalism isn't good, that's how we got here burning the earth down.",
       "game": "IRL",
       "started_at": "2026-05-12T10:02:22Z"
-    },
-    {
-      "username": "oh_bother",
-      "title": "Making a node red powered RAID LIGHT. Part3, assembly (definitely final)",
-      "game": "Just Chatting",
-      "started_at": "2026-05-12T16:31:50Z"
     }
   ]
 }
