@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-12T12:26:22.310Z",
+  "timestamp": "2026-05-12T13:11:32.604Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "liberalism isn't good, that's how we got here burning the earth down.",
       "game": "IRL",
       "started_at": "2026-05-12T10:02:22Z"
+    },
+    {
+      "username": "csharpfritz",
+      "title": "Improving StreamerMaps",
+      "game": "Software and Game Development",
+      "started_at": "2026-05-12T13:02:04Z"
     }
   ]
 }
