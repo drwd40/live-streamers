@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-05-13T20:59:25.396Z",
+  "timestamp": "2026-05-13T21:38:06.062Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
-      "started_at": "2026-05-12T06:59:46Z"
+      "started_at": "2026-05-13T21:33:06Z"
     },
     {
       "username": "Paleontologizing",
@@ -20,22 +20,22 @@
       "started_at": "2026-05-13T18:17:25Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Business, Innovation and Managing Life (May 13, 2026)",
-      "game": "Science & Technology",
-      "started_at": "2026-05-13T19:41:09Z"
-    },
-    {
       "username": "DrawCuriosity",
       "title": "🔬SHORT & SWEET STREAM - testing gimbal part 2 + maybe some art (still on vocal rest)  👀 ✨🐑",
       "game": "Science & Technology",
       "started_at": "2026-05-13T20:24:56Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Differential Equations: Books, Videos, Integrating Factors?",
+      "username": "nSimplexPachinko",
+      "title": "Starting Q43 of 50, Calc II Exam: Convergence of Series. Cracking the GRE Math Subject Test, Night 040 - 20260513",
       "game": "Math",
-      "started_at": "2026-05-13T18:02:02Z"
+      "started_at": "2026-05-13T21:12:37Z"
+    },
+    {
+      "username": "SETIInstitute",
+      "title": "The Sounds of Intelligence: A Conversation with 2026 Drake Award Recipient Lori Marino",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2026-05-13T21:30:49Z"
     }
   ]
 }
