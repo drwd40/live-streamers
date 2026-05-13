@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-13T17:47:48.646Z",
+  "timestamp": "2026-05-13T18:26:36.804Z",
   "live": [
     {
       "username": "Kitboga",
@@ -9,8 +9,8 @@
     },
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
-      "game": "Animals, Aquariums, and Zoos",
+      "title": "Education Time w/ Kayla | !alveus !institute !pixel !schedule !video",
+      "game": "IRL",
       "started_at": "2026-05-12T06:59:46Z"
     },
     {
@@ -26,10 +26,22 @@
       "started_at": "2026-05-13T10:14:18Z"
     },
     {
-      "username": "TimberAnew",
-      "title": "I'm now flush with cash",
-      "game": "Kingdom Come: Deliverance",
-      "started_at": "2026-05-13T17:00:32Z"
+      "username": "IrishJohnGames",
+      "title": "🍀 Live Rise of Piracy Development | !rop !discord !streamers",
+      "game": "Software and Game Development",
+      "started_at": "2026-05-13T18:17:25Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Differential Equations: Books, Videos, Integrating Factors?",
+      "game": "Math",
+      "started_at": "2026-05-13T18:02:02Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 980: Language Design in Wolfram Language [LoggingObject, Snap and more]",
+      "game": "Science & Technology",
+      "started_at": "2026-05-13T18:25:24Z"
     }
   ]
 }
