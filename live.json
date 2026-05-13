@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-13T01:15:24.868Z",
+  "timestamp": "2026-05-13T02:01:18.046Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,10 @@
       "started_at": "2026-05-12T21:49:35Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "FOSSIL SCIENCE NEWS 🦕💬❔✔ and viewer Q&A (w/ paleontologist Danny Anduza) !WYdinoSupport",
+      "username": "SharkG33k",
+      "title": "Toothday! Shark Science News!",
       "game": "Science & Technology",
-      "started_at": "2026-05-12T20:05:25Z"
-    },
-    {
-      "username": "AstroCanuck",
-      "title": "Astro's Po'Pourri: Space News & LEGO X-Wings | !DONATE | !PGV !bdp !giveaway | !drop !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-05-13T00:00:33Z"
+      "started_at": "2026-05-13T00:18:02Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -32,16 +26,16 @@
       "started_at": "2026-05-13T01:01:12Z"
     },
     {
+      "username": "AstroCanuck",
+      "title": "Astro's Po'Pourri: Space News & LEGO X-Wings | !DONATE | !PGV !bdp !giveaway | !drop !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-05-13T00:00:33Z"
+    },
+    {
       "username": "SydHeresy",
       "title": "Slangmogging Chads & Stacys With SolderSmashing & E-Maxxing",
       "game": "Science & Technology",
       "started_at": "2026-05-12T18:10:18Z"
-    },
-    {
-      "username": "SharkG33k",
-      "title": "Toothday! Shark Science News!",
-      "game": "Science & Technology",
-      "started_at": "2026-05-13T00:18:02Z"
     },
     {
       "username": "ActualEducation",
@@ -54,6 +48,12 @@
       "title": "Playing the Excavation at Hob's Barrow?? What will this archaeologist discover?? ~ Follower Goal: 2348/2600 ~ !socials !beyonddenile",
       "game": "The Excavation of Hob's Barrow",
       "started_at": "2026-05-12T22:50:14Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Our mascot the Lord Howe's Walking Stick, public transit mobile apps, and sociolinguistics of food.",
+      "game": "Science & Technology",
+      "started_at": "2026-05-13T01:31:15Z"
     }
   ]
 }
