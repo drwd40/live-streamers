@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-14T22:31:43.041Z",
+  "timestamp": "2026-05-14T22:54:01.461Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,12 +32,6 @@
       "started_at": "2026-05-14T18:11:56Z"
     },
     {
-      "username": "DrMick",
-      "title": "Mental Health Chat + AdMech Painting",
-      "game": "Miniatures & Models",
-      "started_at": "2026-05-14T19:05:07Z"
-    },
-    {
       "username": "SharkG33k",
       "title": "[18+] IRL shark diver plays Subnautica 2! | SHARK CON SUBATHON | !subathon",
       "game": "Subnautica 2",
@@ -60,6 +54,12 @@
       "title": "Planning Skyside Stronghold Escape: TitansGrave 009; TTRPG Planning",
       "game": "Tabletop RPGs",
       "started_at": "2026-05-14T21:17:04Z"
+    },
+    {
+      "username": "MelissaInDeNile",
+      "title": "Heading to NEW YORK in Assassins Creed III!! So excited!! ~ Follower Goal: 2347/2600 ~ !socials !beyonddenile",
+      "game": "Assassin's Creed III Remastered",
+      "started_at": "2026-05-14T22:50:23Z"
     }
   ]
 }
