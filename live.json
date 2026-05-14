@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-14T13:25:35.569Z",
+  "timestamp": "2026-05-14T14:14:31.039Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,18 @@
       "title": "challenge me with a question :)",
       "game": "IRL",
       "started_at": "2026-05-14T10:00:49Z"
+    },
+    {
+      "username": "csharpfritz",
+      "title": "Scaling out Maps for EVERYONE!",
+      "game": "Software and Game Development",
+      "started_at": "2026-05-14T13:29:43Z"
+    },
+    {
+      "username": "Andilippi",
+      "title": "HOLY MOLY... I NEED A ROUTINE!",
+      "game": "Just Chatting",
+      "started_at": "2026-05-14T13:39:48Z"
     }
   ]
 }
