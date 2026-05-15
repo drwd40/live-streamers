@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-05-15T01:07:28.846Z",
+  "timestamp": "2026-05-15T01:49:53.344Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-05-13T21:33:06Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "MORE NEW DINOSAURS 🦕 1st sauropod from Thailand, Pinacosaurus re-evaluation + Thursday BIRDSDAY 🐦 Bonus stream tomorrow ⚠",
-      "game": "Science & Technology",
-      "started_at": "2026-05-14T20:04:55Z"
     },
     {
       "username": "imreallyimportant",
@@ -24,6 +18,12 @@
       "title": "Mouse: PI for Hire | Mouse, rat and shrew science with #MOUSEPIForHire #keymailer | Partner+ 141/300 | !ppp !yt !pod !gotel",
       "game": "MOUSE: P.I. For Hire",
       "started_at": "2026-05-14T18:11:56Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Thursday night space science.  Earth and environment!  PhD Astronomer and former NASA guy.  #NASA #science #space #stem",
+      "game": "Science & Technology",
+      "started_at": "2026-05-15T01:10:51Z"
     },
     {
       "username": "SharkG33k",
@@ -48,6 +48,12 @@
       "title": "A bit of Namalsk",
       "game": "DayZ",
       "started_at": "2026-05-15T00:10:06Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Bus shelters. NPR lays an egg, and making parks attractive to adolescents.",
+      "game": "Science & Technology",
+      "started_at": "2026-05-15T01:41:08Z"
     }
   ]
 }
