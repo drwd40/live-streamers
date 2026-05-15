@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-05-15T17:45:04.604Z",
+  "timestamp": "2026-05-15T18:15:54.645Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
-      "game": "Animals, Aquariums, and Zoos",
+      "title": "Show and Tell | !alveus !institute !pixel !schedule !video",
+      "game": "Just Chatting",
       "started_at": "2026-05-15T06:31:15Z"
     },
     {
@@ -36,6 +36,18 @@
       "title": "liberals are anti-intellectual",
       "game": "Just Chatting",
       "started_at": "2026-05-15T10:03:52Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "LEATHERBACK TURTLES interview 🌊 Discussing conservation & research w/ Dr. Justin Perrault of the Loggerhead Marinelife Center 🏖  !LMC",
+      "game": "Science & Technology",
+      "started_at": "2026-05-15T18:14:02Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "Doing Rocket & Airplane Stuff...",
+      "game": "Kerbal Space Program",
+      "started_at": "2026-05-15T18:05:13Z"
     }
   ]
 }
