@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-15T19:25:59.034Z",
+  "timestamp": "2026-05-15T20:00:05.584Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-05-15T06:31:15Z"
     },
     {
-      "username": "ipaintbirbs",
-      "title": "whimsical birbs and pastries",
-      "game": "Art",
-      "started_at": "2026-05-15T16:08:01Z"
-    },
-    {
       "username": "EJ_SA",
       "title": "Restoring structure to the inner rockers! The Crew Cab Coronet! (Part 48)",
       "game": "Science & Technology",
       "started_at": "2026-05-15T17:29:30Z"
+    },
+    {
+      "username": "ipaintbirbs",
+      "title": "whimsical birbs and pastries",
+      "game": "Art",
+      "started_at": "2026-05-15T16:08:01Z"
     },
     {
       "username": "Paleontologizing",
@@ -48,6 +48,18 @@
       "title": "Doing Rocket & Airplane Stuff...",
       "game": "Kerbal Space Program",
       "started_at": "2026-05-15T18:05:13Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Future of Science and Technology Q&A (May 15, 2026)",
+      "game": "Science & Technology",
+      "started_at": "2026-05-15T19:41:35Z"
+    },
+    {
+      "username": "GeoJim2006",
+      "title": "Surrounded by Rocks - Settling Into the Lab for Summer ⛰️⛏️🪨🔍🔬 !discord !nova !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-05-15T19:28:47Z"
     }
   ]
 }
