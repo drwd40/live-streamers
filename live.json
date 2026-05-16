@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-16T16:13:10.943Z",
+  "timestamp": "2026-05-16T16:34:44.069Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,18 @@
       "title": "Bring Your Questions: A Math/Ed Q&A!",
       "game": "Math",
       "started_at": "2026-05-16T16:03:57Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "[18+] IRL shark diver plays Subnautica 2! | UNCAPPED SUBATHON | !subathon",
+      "game": "Subnautica 2",
+      "started_at": "2026-05-16T16:25:49Z"
+    },
+    {
+      "username": "oh_bother",
+      "title": "Synthesizer crimes with Julian! Building a micro ornament and crime module.",
+      "game": "Science & Technology",
+      "started_at": "2026-05-16T16:25:16Z"
     }
   ]
 }
