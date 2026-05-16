@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-16T17:26:01.436Z",
+  "timestamp": "2026-05-16T17:46:51.128Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,16 @@
       "started_at": "2026-05-16T16:25:16Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Bring Your Questions: A Math/Ed Q&A!",
-      "game": "Math",
-      "started_at": "2026-05-16T16:03:57Z"
-    },
-    {
       "username": "Rocketology",
       "title": "Gotta Get That Minmus Science! New Players Welcome!",
       "game": "Kerbal Space Program",
       "started_at": "2026-05-16T17:04:28Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Bring Your Questions: A Math/Ed Q&A!",
+      "game": "Math",
+      "started_at": "2026-05-16T16:03:57Z"
     }
   ]
 }
