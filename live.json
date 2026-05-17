@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-17T14:19:10.117Z",
+  "timestamp": "2026-05-17T14:44:38.570Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -27,7 +27,7 @@
     },
     {
       "username": "LumiRue",
-      "title": "Therapists Behaving Badly (Most Common Therapist Ethical Problems) | Studying Chess with Sanivel",
+      "title": "Therapists Behaving Badly (Most Common Therapist Ethical Problems) | Studying Chess at 12p with Sanivel",
       "game": "Just Chatting",
       "started_at": "2026-05-17T14:01:23Z"
     },
@@ -36,12 +36,6 @@
       "title": "Subathon Streamathon - How Long Can It Go On? !subathon",
       "game": "Science & Technology",
       "started_at": "2026-05-16T18:30:12Z"
-    },
-    {
-      "username": "DrAlexanderClarke",
-      "title": "Building a Beaver Run... how interesting can I make this map?",
-      "game": "Timberborn",
-      "started_at": "2026-05-17T12:33:55Z"
     }
   ]
 }
