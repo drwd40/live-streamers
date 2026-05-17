@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-17T00:11:48.111Z",
+  "timestamp": "2026-05-17T01:16:24.779Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "Subathon Streamathon - How Long Can It Go On? !subathon",
       "game": "Science & Technology",
       "started_at": "2026-05-16T18:30:12Z"
+    },
+    {
+      "username": "Mr_Aejis",
+      "title": "Self-Talk: Your Inner Bully - and how to fight back | Vtuber Health Class",
+      "game": "Just Chatting",
+      "started_at": "2026-05-17T00:38:04Z"
     }
   ]
 }
