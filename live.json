@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-17T18:32:05.816Z",
+  "timestamp": "2026-05-17T18:55:41.586Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,22 +8,10 @@
       "started_at": "2026-05-17T06:31:18Z"
     },
     {
-      "username": "TinyToxicTofu",
-      "title": "Lesson Planning - Teaching Everything About Artemis II - Then Some Mass Effect Legendary! !cnc !3dprinter !phd",
-      "game": "Mass Effect Legendary Edition",
-      "started_at": "2026-05-17T13:04:26Z"
-    },
-    {
       "username": "AstroCanuck",
       "title": "Lazy Sunday LEGO: Star Wars month continues & July Retirement Review| !DONATE | !PGV !giveaway | !drop !tkf",
       "game": "Lego & Brickbuilding",
       "started_at": "2026-05-17T14:00:24Z"
-    },
-    {
-      "username": "Zachap",
-      "title": "veganism is cheaper, learn to cook ;)",
-      "game": "Just Chatting",
-      "started_at": "2026-05-17T10:02:34Z"
     },
     {
       "username": "ArchitectureTV",
@@ -32,10 +20,10 @@
       "started_at": "2026-05-17T17:14:26Z"
     },
     {
-      "username": "LumiRue",
-      "title": "Chess at 12p with Sanivel",
-      "game": "Chess",
-      "started_at": "2026-05-17T14:01:23Z"
+      "username": "Zachap",
+      "title": "veganism is cheaper, learn to cook ;)",
+      "game": "Just Chatting",
+      "started_at": "2026-05-17T10:02:34Z"
     },
     {
       "username": "SydHeresy",
@@ -50,16 +38,16 @@
       "started_at": "2026-05-17T17:52:26Z"
     },
     {
-      "username": "AcademyOfUselessIdeas",
-      "title": "Attempting math! (Slim fights his water addiction)",
-      "game": "Math",
-      "started_at": "2026-05-17T15:49:09Z"
-    },
-    {
       "username": "DrAlexanderClarke",
       "title": "Bruships 243: Modern Navy & Naval History Questions Answered Live...",
       "game": "Just Chatting",
       "started_at": "2026-05-17T18:31:47Z"
+    },
+    {
+      "username": "AcademyOfUselessIdeas",
+      "title": "Attempting math! (Slim fights his water addiction)",
+      "game": "Math",
+      "started_at": "2026-05-17T15:49:09Z"
     }
   ]
 }
