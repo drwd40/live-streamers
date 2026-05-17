@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-17T01:16:24.779Z",
+  "timestamp": "2026-05-17T02:02:25.357Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "Self-Talk: Your Inner Bully - and how to fight back | Vtuber Health Class",
       "game": "Just Chatting",
       "started_at": "2026-05-17T00:38:04Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "What librarians do -- On the shoulders of giants, the hole of ignorance, and can we refine rare metals out of coal?",
+      "game": "Science & Technology",
+      "started_at": "2026-05-17T02:01:41Z"
     }
   ]
 }
