@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-17T17:37:11.292Z",
+  "timestamp": "2026-05-17T18:00:59.221Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-05-17T10:02:34Z"
     },
     {
-      "username": "LumiRue",
-      "title": "Chess at 12p with Sanivel",
-      "game": "Chess",
-      "started_at": "2026-05-17T14:01:23Z"
-    },
-    {
       "username": "ArchitectureTV",
       "title": "TORONTO north, main street, waterfront, grain terminals, heritage preservation💜 Historic and contemporary buildings | Architecture IRL",
       "game": "IRL",
       "started_at": "2026-05-17T17:14:26Z"
+    },
+    {
+      "username": "LumiRue",
+      "title": "Chess at 12p with Sanivel",
+      "game": "Chess",
+      "started_at": "2026-05-17T14:01:23Z"
     },
     {
       "username": "SydHeresy",
@@ -48,6 +48,12 @@
       "title": "Attempting math! (Slim fights his water addiction)",
       "game": "Math",
       "started_at": "2026-05-17T15:49:09Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "UnKerbaled Start Kareer - 50% Science",
+      "game": "Kerbal Space Program",
+      "started_at": "2026-05-17T17:52:26Z"
     }
   ]
 }
