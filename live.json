@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-18T22:06:48.689Z",
+  "timestamp": "2026-05-18T22:31:55.327Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,6 +20,12 @@
       "started_at": "2026-05-18T16:24:19Z"
     },
     {
+      "username": "imreallyimportant",
+      "title": "TRUMP CREATES $1.8 BILLION FUND FOR HIS ALLIES | LIB & LEAR @ 7 PM EST",
+      "game": "Just Chatting",
+      "started_at": "2026-05-18T22:01:02Z"
+    },
+    {
       "username": "AdamLearnsLive",
       "title": "Throw your axe to the ground (day 27½)",
       "game": "Software and Game Development",
@@ -38,12 +44,6 @@
       "started_at": "2026-05-18T21:01:18Z"
     },
     {
-      "username": "imreallyimportant",
-      "title": "TRUMP CREATES $1.8 BILLION FUND FOR HIS ALLIES | LIB & LEAR @ 7 PM EST",
-      "game": "Just Chatting",
-      "started_at": "2026-05-18T22:01:02Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Day 3 - Subathon Streamathon - How Long Can It Go On? !subathon",
       "game": "I'm Only Sleeping",
@@ -54,6 +54,12 @@
       "title": "The one with Slim fighting the voices telling him to burn down the house.",
       "game": "Math",
       "started_at": "2026-05-18T20:09:38Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "The Integral-Differential Calculus: Math Communication Monday - 20260518",
+      "game": "Math",
+      "started_at": "2026-05-18T22:15:31Z"
     }
   ]
 }
