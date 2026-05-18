@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-18T20:07:19.529Z",
+  "timestamp": "2026-05-18T20:42:18.168Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,10 +14,16 @@
       "started_at": "2026-05-18T16:24:19Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "Early Hours BF6 and then Space News!",
-      "game": "Battlefield 6",
-      "started_at": "2026-05-18T17:55:22Z"
+      "username": "Paleontologizing",
+      "title": "FLORIDA NATURE 🐊 Discussing the natural history of the Sunshine State before flying out there tonight ✈ (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-05-18T20:06:57Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Throw your axe to the ground (day 27½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-05-18T20:00:05Z"
     },
     {
       "username": "Zachap",
@@ -38,28 +44,16 @@
       "started_at": "2026-05-18T18:43:02Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Throw your axe to the ground (day 27½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-05-18T20:00:05Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Day 3 - Subathon Streamathon - How Long Can It Go On? !subathon",
       "game": "I'm Only Sleeping",
       "started_at": "2026-05-18T18:30:23Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Sixteen UI Improvements: Tweens, Other UI Enhancements, and Chatting with the Community, of Course",
-      "game": "Software and Game Development",
-      "started_at": "2026-05-18T19:40:28Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "FLORIDA NATURE 🐊 Discussing the natural history of the Sunshine State before flying out there tonight ✈ (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-05-18T20:06:57Z"
+      "username": "AcademyOfUselessIdeas",
+      "title": "The one with Slim fighting the voices telling him to burn down the house.",
+      "game": "Math",
+      "started_at": "2026-05-18T20:09:38Z"
     }
   ]
 }
