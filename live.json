@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-18T01:15:39.480Z",
+  "timestamp": "2026-05-18T02:02:08.947Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,10 +8,10 @@
       "started_at": "2026-05-17T06:31:18Z"
     },
     {
-      "username": "imreallyimportant",
-      "title": "SUNDAY POLITICS SHOWS",
-      "game": "Just Chatting",
-      "started_at": "2026-05-17T21:54:28Z"
+      "username": "SciAnts_Streams",
+      "title": "🪐 Dad Space 🪐| Pragmata and Science! | Partner+ 171/300 | !ppp !yt !pod !gotel",
+      "game": "PRAGMATA",
+      "started_at": "2026-05-18T01:00:19Z"
     },
     {
       "username": "Nerduino",
@@ -26,12 +26,6 @@
       "started_at": "2026-05-16T18:30:12Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "🪐 Dad Space 🪐| Pragmata and Science! | Partner+ 171/300 | !ppp !yt !pod !gotel",
-      "game": "PRAGMATA",
-      "started_at": "2026-05-18T01:00:19Z"
-    },
-    {
       "username": "MelissaInDeNile",
       "title": "Drifting Down De Nile Discussion Stream ~ Let's discuss the Book of the Dead Part 2!! ~ Follower Goal: 2346/2600 ~ !socials !beyonddenile",
       "game": "Just Chatting",
@@ -42,6 +36,12 @@
       "title": "it is too hot for philosophy",
       "game": "Writing & Reading",
       "started_at": "2026-05-18T00:00:11Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Was Lysenko right? Recipes for chayotes, and a fence around the sabbath.",
+      "game": "Science & Technology",
+      "started_at": "2026-05-18T01:37:58Z"
     }
   ]
 }
