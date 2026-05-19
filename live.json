@@ -1,12 +1,6 @@
 {
-  "timestamp": "2026-05-19T03:21:46.409Z",
+  "timestamp": "2026-05-19T04:46:16.790Z",
   "live": [
-    {
-      "username": "Maya",
-      "title": "BACK FROM NYC :D",
-      "game": "Just Chatting",
-      "started_at": "2026-05-19T00:24:42Z"
-    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
@@ -15,27 +9,21 @@
     },
     {
       "username": "Moohoodles",
-      "title": "🪐Astrobiology & Space News! ✨ SC or Subnautica 2 later? [No streams 22-1st]",
+      "title": "Rocket Launch! SMILE on Vega-c 🪐Astrobiology & Space News! ✨ SC or Subnautica 2 later? [No streams 22-1st]",
       "game": "Science & Technology",
       "started_at": "2026-05-19T02:38:38Z"
-    },
-    {
-      "username": "DrawCuriosity",
-      "title": "🐛 2 YEAR STREAMIVERSARY!!  👀 ✨🐑",
-      "game": "Art",
-      "started_at": "2026-05-18T21:01:18Z"
-    },
-    {
-      "username": "SciAnts_Streams",
-      "title": "Microscopy Monday | Tiny worlds under the microscope with fossils, insects, and more! | Partner+ 176/300 | !ppp !yt !pod !gotel",
-      "game": "Science & Technology",
-      "started_at": "2026-05-19T01:04:47Z"
     },
     {
       "username": "Nerduino",
       "title": "Live LAUNCH!  ESA's SMILE mission.  PhD Astronomer and former NASA guy.  #NASA #science #space #stem",
       "game": "Science & Technology",
       "started_at": "2026-05-19T02:49:03Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "Microscopy Monday | Tiny worlds under the microscope with fossils, insects, and more! | Partner+ 176/300 | !ppp !yt !pod !gotel",
+      "game": "Science & Technology",
+      "started_at": "2026-05-19T01:04:47Z"
     },
     {
       "username": "SydHeresy",
