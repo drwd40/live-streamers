@@ -1,11 +1,17 @@
 {
-  "timestamp": "2026-05-19T14:23:30.688Z",
+  "timestamp": "2026-05-19T15:40:25.982Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-05-19T06:31:20Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Gently place the 🍓 in the trash (day 28)",
+      "game": "Software and Game Development",
+      "started_at": "2026-05-19T14:59:25Z"
     },
     {
       "username": "Zachap",
@@ -18,12 +24,6 @@
       "title": "Adding subscribers to our Map project",
       "game": "Software and Game Development",
       "started_at": "2026-05-19T13:04:57Z"
-    },
-    {
-      "username": "nSimplexPachinko",
-      "title": "Bookshelf Building: Some Assembly Required",
-      "game": "Just Chatting",
-      "started_at": "2026-05-19T12:37:49Z"
     }
   ]
 }
