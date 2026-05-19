@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-19T19:05:05.445Z",
+  "timestamp": "2026-05-19T19:44:57.561Z",
   "live": [
     {
       "username": "Maya",
@@ -60,6 +60,12 @@
       "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
       "game": "Just Chatting",
       "started_at": "2026-05-19T19:01:16Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 981: Language Design in Wolfram Language [Graphic Issues]",
+      "game": "Science & Technology",
+      "started_at": "2026-05-19T19:39:43Z"
     }
   ]
 }
