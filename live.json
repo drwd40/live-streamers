@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-19T18:19:48.876Z",
+  "timestamp": "2026-05-19T19:05:05.445Z",
   "live": [
     {
       "username": "Maya",
@@ -32,20 +32,8 @@
       "started_at": "2026-05-19T16:12:38Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Gently place the 🍓 in the trash (day 28)",
-      "game": "Software and Game Development",
-      "started_at": "2026-05-19T14:59:25Z"
-    },
-    {
-      "username": "imreallyimportant",
-      "title": "5/19/26: DEBATING POLITICS ON TIKTOK",
-      "game": "Just Chatting",
-      "started_at": "2026-05-19T17:00:13Z"
-    },
-    {
       "username": "oh_bother",
-      "title": "Synthesizer crimes,  Building a micro ornament and crime module. Then working on the RAID indicator lights.",
+      "title": "Synthesizer crimes,  Building a micro ornament and crime module. Channel RAID light ACTIVE.",
       "game": "Science & Technology",
       "started_at": "2026-05-19T16:16:53Z"
     },
@@ -66,6 +54,12 @@
       "title": "A very special episode in which Slim relapses from his water addiction",
       "game": "Math",
       "started_at": "2026-05-19T18:01:55Z"
+    },
+    {
+      "username": "xTalkProgrammer",
+      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
+      "game": "Just Chatting",
+      "started_at": "2026-05-19T19:01:16Z"
     }
   ]
 }
