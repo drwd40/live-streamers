@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-19T21:57:02.640Z",
+  "timestamp": "2026-05-19T22:29:36.018Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,28 +14,46 @@
       "started_at": "2026-05-19T16:12:38Z"
     },
     {
-      "username": "Zachap",
-      "title": "ANCOM. EDUCATIONAL. POLITICAL. CURIOUS. Campism is not Marxism. Working Class > Owning Class, is it that hard?",
-      "game": "Just Chatting",
-      "started_at": "2026-05-19T16:05:41Z"
-    },
-    {
-      "username": "Rocketology",
-      "title": "UnKerbaled Start Kareer 50% Science - New Player Questions Welcome",
-      "game": "Kerbal Space Program",
-      "started_at": "2026-05-19T18:04:41Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "ELECTION NIGHT: THOMAS MASSIE, GEORGIA & MORE",
       "game": "Just Chatting",
       "started_at": "2026-05-19T21:49:29Z"
     },
     {
+      "username": "Zachap",
+      "title": "ANCOM. EDUCATIONAL. POLITICAL. CURIOUS. Campism is not Marxism. Working Class > Owning Class, is it that hard?",
+      "game": "Just Chatting",
+      "started_at": "2026-05-19T16:05:41Z"
+    },
+    {
+      "username": "shnaff",
+      "title": "Guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-05-19T22:03:43Z"
+    },
+    {
       "username": "GeoJim2006",
       "title": "Summertime in the Lab - Organizing the Collections ⛰️⛏️🪨🔍🔬 !discord !nova !tkf",
       "game": "Science & Technology",
       "started_at": "2026-05-19T20:17:07Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "DrakeCon!",
+      "game": "Star Citizen",
+      "started_at": "2026-05-19T18:04:41Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Bring Your Questions: Math/Ed Chat",
+      "game": "Math",
+      "started_at": "2026-05-19T22:01:26Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Investigating the Sigils? Starting Day 26, Night 011 - 20260519",
+      "game": "Blue Prince",
+      "started_at": "2026-05-19T22:18:46Z"
     }
   ]
 }
