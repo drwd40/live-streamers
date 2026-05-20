@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-20T12:02:14.247Z",
+  "timestamp": "2026-05-20T13:12:14.656Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "AMA about politics or whatever",
       "game": "Just Chatting",
       "started_at": "2026-05-20T10:03:59Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Wednesday morning space science.  Working on the solar spectrograph!  PhD Astronomer and former NASA guy.  #NASA #science #space #stem",
+      "game": "Science & Technology",
+      "started_at": "2026-05-20T12:50:24Z"
     }
   ]
 }
