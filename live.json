@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-05-20T16:30:16.044Z",
+  "timestamp": "2026-05-20T17:36:53.939Z",
   "live": [
     {
       "username": "Maya",
-      "title": "trimming my horse’s feet🐎🐎🐎",
+      "title": "hanging out with my horse today 🐎🐎🐎",
       "game": "Just Chatting",
       "started_at": "2026-05-20T15:31:38Z"
-    },
-    {
-      "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
-      "game": "Animals, Aquariums, and Zoos",
-      "started_at": "2026-05-19T06:31:20Z"
     },
     {
       "username": "Kitboga",
@@ -20,9 +14,15 @@
       "started_at": "2026-05-20T16:14:00Z"
     },
     {
+      "username": "AlveusSanctuary",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
+      "game": "Animals, Aquariums, and Zoos",
+      "started_at": "2026-05-19T06:31:20Z"
+    },
+    {
       "username": "EJ_SA",
-      "title": "BF6 until car parts arrive. Then the Space and Rocket Revue! #poundsign",
-      "game": "Battlefield 6",
+      "title": "Having fun with new car parts!",
+      "game": "Just Chatting",
       "started_at": "2026-05-20T16:02:46Z"
     },
     {
@@ -42,6 +42,12 @@
       "title": "🍀 Ocean Fest: Rise of Piracy! | !rop !patreon !discord",
       "game": "Software and Game Development",
       "started_at": "2026-05-20T13:45:03Z"
+    },
+    {
+      "username": "AcademyOfUselessIdeas",
+      "title": "An episode too spicy for TV",
+      "game": "Math",
+      "started_at": "2026-05-20T17:10:32Z"
     }
   ]
 }
