@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-21T23:04:10.180Z",
+  "timestamp": "2026-05-21T23:31:00.578Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -45,8 +45,8 @@
     },
     {
       "username": "Rocketology",
-      "title": "DefenseCon! Patch? Does It Work?",
-      "game": "Star Citizen",
+      "title": "Starship V3 Launch Coverage!",
+      "game": "Science & Technology",
       "started_at": "2026-05-21T17:59:33Z"
     },
     {
@@ -54,6 +54,12 @@
       "title": "Soldering - Electronics - Emotes",
       "game": "Science & Technology",
       "started_at": "2026-05-21T18:45:55Z"
+    },
+    {
+      "username": "CosmoQuestX",
+      "title": "Watch Party: Starship 12",
+      "game": "Just Chatting",
+      "started_at": "2026-05-21T23:27:04Z"
     },
     {
       "username": "MelissaInDeNile",
