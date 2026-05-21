@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-20T23:40:31.236Z",
+  "timestamp": "2026-05-21T00:06:51.792Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "Starting Q45 of 50: Convergence of Series; Calc II Exam; Cracking the GRE Math Subject Test - 20260520",
       "game": "Math",
       "started_at": "2026-05-20T20:58:56Z"
+    },
+    {
+      "username": "nogre0",
+      "title": "i put my head under the faucet",
+      "game": "Just Chatting",
+      "started_at": "2026-05-21T00:00:06Z"
     }
   ]
 }
