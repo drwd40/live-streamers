@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-22T20:56:48.628Z",
+  "timestamp": "2026-05-22T21:27:03.959Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,10 +14,10 @@
       "started_at": "2026-05-22T12:55:48Z"
     },
     {
-      "username": "csharpfritz",
-      "title": "Get Started with Web Development Workshop 2026",
-      "game": "Software and Game Development",
-      "started_at": "2026-05-22T13:26:55Z"
+      "username": "SharkG33k",
+      "title": "IRL shark diver plays Subnautica 2 with @baronofbile and @tergus86",
+      "game": "Subnautica 2",
+      "started_at": "2026-05-22T16:31:25Z"
     },
     {
       "username": "AdamLearnsLive",
@@ -26,10 +26,10 @@
       "started_at": "2026-05-22T19:35:45Z"
     },
     {
-      "username": "Zachap",
-      "title": "the politics streamer.",
-      "game": "Just Chatting",
-      "started_at": "2026-05-22T10:02:16Z"
+      "username": "csharpfritz",
+      "title": "Get Started with Web Development Workshop 2026",
+      "game": "Software and Game Development",
+      "started_at": "2026-05-22T13:26:55Z"
     },
     {
       "username": "Rocketology",
@@ -38,22 +38,16 @@
       "started_at": "2026-05-22T17:14:59Z"
     },
     {
-      "username": "SharkG33k",
-      "title": "IRL shark diver plays Subnautica 2 with @baronofbile and @tergus86",
-      "game": "Subnautica 2",
-      "started_at": "2026-05-22T16:31:25Z"
-    },
-    {
-      "username": "Stephen_Wolfram",
-      "title": "Science & Technology Q&A for Kids (and others) [Part 168]",
-      "game": "Science & Technology",
-      "started_at": "2026-05-22T20:13:38Z"
-    },
-    {
       "username": "GeoJim2006",
       "title": "Geology Under the Microscope - Organizing the College Collections 🪨🔍🔬 !discord !nova !tkf",
       "game": "Science & Technology",
       "started_at": "2026-05-22T19:48:46Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Starship Launch.  Working on the solar spectrograph!  PhD Astronomer and former NASA guy.  #NASA #science #space #stem",
+      "game": "Science & Technology",
+      "started_at": "2026-05-22T21:22:29Z"
     }
   ]
 }
