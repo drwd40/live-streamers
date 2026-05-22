@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-22T03:22:54.383Z",
+  "timestamp": "2026-05-22T04:48:08.664Z",
   "live": [
     {
       "username": "Maya",
@@ -14,22 +14,16 @@
       "started_at": "2026-05-21T05:36:19Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "Exploring Subnautica 2 with @sharkg33k and @tergus86 | Partner+ 219/300 | !ppp !yt !pod !gotel",
-      "game": "Subnautica 2",
-      "started_at": "2026-05-21T18:06:00Z"
-    },
-    {
-      "username": "SharkG33k",
-      "title": "IRL shark diver plays Subnautica 2 with @sciants_streams and @tergus86",
-      "game": "Subnautica 2",
-      "started_at": "2026-05-22T00:04:51Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Soldering - Electronics - Emotes",
       "game": "Science & Technology",
       "started_at": "2026-05-21T18:45:55Z"
+    },
+    {
+      "username": "happyknightmares",
+      "title": "learned a bunch of stuff at a neuroscience conference :D 🧠",
+      "game": "Science & Technology",
+      "started_at": "2026-05-22T04:34:41Z"
     }
   ]
 }
