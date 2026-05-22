@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-22T19:52:30.904Z",
+  "timestamp": "2026-05-22T20:26:49.511Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,12 +20,6 @@
       "started_at": "2026-05-22T17:48:23Z"
     },
     {
-      "username": "TinyToxicTofu",
-      "title": "We're Trying Subnautica 2 with @fisishine !ccc",
-      "game": "Subnautica 2",
-      "started_at": "2026-05-22T16:41:04Z"
-    },
-    {
       "username": "csharpfritz",
       "title": "Get Started with Web Development Workshop 2026",
       "game": "Software and Game Development",
@@ -36,12 +30,6 @@
       "title": "Game design all day (day 31½)",
       "game": "Software and Game Development",
       "started_at": "2026-05-22T19:35:45Z"
-    },
-    {
-      "username": "oh_bother",
-      "title": "Misc projects, second spinny channel raid light, mc505 troubleshooting.",
-      "game": "Science & Technology",
-      "started_at": "2026-05-22T16:51:46Z"
     },
     {
       "username": "Zachap",
@@ -60,6 +48,12 @@
       "title": "IRL shark diver plays Subnautica 2 with @baronofbile @freshmeat911 and @tergus86",
       "game": "Subnautica 2",
       "started_at": "2026-05-22T16:31:25Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Science & Technology Q&A for Kids (and others) [Part 168]",
+      "game": "Science & Technology",
+      "started_at": "2026-05-22T20:13:38Z"
     },
     {
       "username": "GeoJim2006",
