@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-22T19:11:24.664Z",
+  "timestamp": "2026-05-22T19:52:30.904Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,6 +32,12 @@
       "started_at": "2026-05-22T13:26:55Z"
     },
     {
+      "username": "AdamLearnsLive",
+      "title": "Game design all day (day 31½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-05-22T19:35:45Z"
+    },
+    {
       "username": "oh_bother",
       "title": "Misc projects, second spinny channel raid light, mc505 troubleshooting.",
       "game": "Science & Technology",
@@ -56,10 +62,10 @@
       "started_at": "2026-05-22T16:31:25Z"
     },
     {
-      "username": "AcademyOfUselessIdeas",
-      "title": "The one where Slim changes his fortune for some magic beans!",
-      "game": "Math",
-      "started_at": "2026-05-22T16:47:53Z"
+      "username": "GeoJim2006",
+      "title": "Geology Under the Microscope - Organizing the College Collections 🪨🔍🔬 !discord !nova !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-05-22T19:48:46Z"
     }
   ]
 }
