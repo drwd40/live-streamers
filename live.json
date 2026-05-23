@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-23T18:54:51.313Z",
+  "timestamp": "2026-05-23T19:24:49.492Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,10 +20,16 @@
       "started_at": "2026-05-23T17:54:11Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Bring Your Questions: Math/Ed Chat Time",
+      "username": "SydHeresy",
+      "title": "More Parts - More Electronics - More Synths",
+      "game": "Just Chatting",
+      "started_at": "2026-05-23T19:00:20Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and working on the never-ending PDEs",
       "game": "Math",
-      "started_at": "2026-05-23T16:21:06Z"
+      "started_at": "2026-05-23T19:14:30Z"
     }
   ]
 }
