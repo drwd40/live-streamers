@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-23T17:39:58.579Z",
+  "timestamp": "2026-05-23T18:04:26.432Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "Bring Your Questions: Math/Ed Chat Time",
       "game": "Math",
       "started_at": "2026-05-23T16:21:06Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "UnKerbaled Start 50% Science Kareer Kontinued",
+      "game": "Kerbal Space Program",
+      "started_at": "2026-05-23T17:54:11Z"
     }
   ]
 }
