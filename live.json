@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-23T21:34:04.093Z",
+  "timestamp": "2026-05-23T21:57:01.795Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,12 +18,6 @@
       "title": "More Parts - More Electronics - More Synths",
       "game": "Science & Technology",
       "started_at": "2026-05-23T19:00:20Z"
-    },
-    {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and working on the never-ending PDEs",
-      "game": "Math",
-      "started_at": "2026-05-23T19:14:30Z"
     }
   ]
 }
