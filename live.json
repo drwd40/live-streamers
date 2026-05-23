@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-23T16:02:29.881Z",
+  "timestamp": "2026-05-23T16:28:59.991Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -10,7 +10,7 @@
     {
       "username": "TinyToxicTofu",
       "title": "Elite Dangerous and Mass Effect Legendary !cnc !phd !tofutechtalk",
-      "game": "Elite: Dangerous",
+      "game": "Mass Effect Legendary Edition",
       "started_at": "2026-05-23T11:37:40Z"
     },
     {
@@ -24,6 +24,12 @@
       "title": "From Hovel to Homestead | !linktree !discord",
       "game": "Farthest Frontier",
       "started_at": "2026-05-23T15:29:46Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Bring Your Questions: Math/Ed Chat Time",
+      "game": "Math",
+      "started_at": "2026-05-23T16:21:06Z"
     }
   ]
 }
