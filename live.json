@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-23T18:04:26.432Z",
+  "timestamp": "2026-05-23T18:31:24.880Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-05-23T05:36:22Z"
     },
     {
-      "username": "TinyToxicTofu",
-      "title": "Elite Dangerous and Mass Effect Legendary !cnc !phd !tofutechtalk",
-      "game": "Mass Effect Legendary Edition",
-      "started_at": "2026-05-23T11:37:40Z"
-    },
-    {
       "username": "Zachap",
       "title": "learning is a hard task is it?",
       "game": "Just Chatting",
       "started_at": "2026-05-23T10:03:47Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "UnKerbaled Start 50% Science Kareer Kontinued",
+      "game": "Kerbal Space Program",
+      "started_at": "2026-05-23T17:54:11Z"
     },
     {
       "username": "GeneralSte",
@@ -30,12 +30,6 @@
       "title": "Bring Your Questions: Math/Ed Chat Time",
       "game": "Math",
       "started_at": "2026-05-23T16:21:06Z"
-    },
-    {
-      "username": "Rocketology",
-      "title": "UnKerbaled Start 50% Science Kareer Kontinued",
-      "game": "Kerbal Space Program",
-      "started_at": "2026-05-23T17:54:11Z"
     }
   ]
 }
