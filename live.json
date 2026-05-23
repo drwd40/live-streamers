@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-23T01:30:21.541Z",
+  "timestamp": "2026-05-23T02:24:06.866Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-05-21T05:36:19Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "EJ'S SPACEX STARSHIP FLIGHT 12 LAUNCH COVERAGE! (ATTEMPT 2) 5/22/26",
-      "game": "Science & Technology",
-      "started_at": "2026-05-22T12:55:48Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "TULSI GABBARD RESIGNS | TRUMP TO MISS SON'S WEDDING",
       "game": "Just Chatting",
       "started_at": "2026-05-22T21:49:43Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "SciAnts News | New species, venoms, insect pain, clonal fish, and more! | Partner+ 229/300 | !ppp !yt !pod !gotel",
+      "game": "Science & Technology",
+      "started_at": "2026-05-23T01:06:16Z"
     },
     {
       "username": "AstroCanuck",
@@ -30,12 +30,6 @@
       "title": "📍CLITORAL NERVES FOUND BY SCIENTISTS!!!  EVERY RAID = $1 to World Climate Relay charity! -ART later! [partner nudge]👀 ✨🐑",
       "game": "Science & Technology",
       "started_at": "2026-05-22T21:28:31Z"
-    },
-    {
-      "username": "SciAnts_Streams",
-      "title": "SciAnts News | New species, venoms, insect pain, clonal fish, and more! | Partner+ 229/300 | !ppp !yt !pod !gotel",
-      "game": "Science & Technology",
-      "started_at": "2026-05-23T01:06:16Z"
     }
   ]
 }
