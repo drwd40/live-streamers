@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-24T16:09:50.389Z",
+  "timestamp": "2026-05-24T16:34:07.119Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,16 @@
       "started_at": "2026-05-24T14:10:17Z"
     },
     {
+      "username": "VolcanoDoc",
+      "title": "bacon rocks & the in-between |🌋 Science Sunday | !phd !tkf !socials !pubs",
+      "game": "Two Point Museum",
+      "started_at": "2026-05-24T16:02:50Z"
+    },
+    {
       "username": "GeneralSte",
       "title": "From Hovel to Homestead | !linktree !discord",
       "game": "Farthest Frontier",
       "started_at": "2026-05-24T15:25:54Z"
-    },
-    {
-      "username": "VolcanoDoc",
-      "title": "bacon rocks & the in-between |🌋 Science Sunday | !phd !tkf !socials !pubs",
-      "game": "Science & Technology",
-      "started_at": "2026-05-24T16:02:50Z"
     }
   ]
 }
