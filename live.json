@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-24T17:25:13.829Z",
+  "timestamp": "2026-05-24T17:46:18.487Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -27,21 +27,21 @@
     },
     {
       "username": "LumiRue",
-      "title": "When Therapists Cross the Line... | \"Daddy Issues,\" Where People go when Healthcare Fails Them, and Vodou: Bookclub with KarroKicks at 12p",
+      "title": "\"Daddy Issues,\" Where People go when Healthcare Fails Them, and Vodou: Bookclub with KarroKicks at 12p",
       "game": "Just Chatting",
       "started_at": "2026-05-24T14:10:17Z"
-    },
-    {
-      "username": "VolcanoDoc",
-      "title": "bacon rocks & the in-between |🌋 Science Sunday | !phd !tkf !socials !pubs",
-      "game": "Two Point Museum",
-      "started_at": "2026-05-24T16:02:50Z"
     },
     {
       "username": "GeneralSte",
       "title": "From Hovel to Homestead | !linktree !discord",
       "game": "Farthest Frontier",
       "started_at": "2026-05-24T15:25:54Z"
+    },
+    {
+      "username": "VolcanoDoc",
+      "title": "bacon rocks & the in-between |🌋 Science Sunday | !phd !tkf !socials !pubs",
+      "game": "Two Point Museum",
+      "started_at": "2026-05-24T16:02:50Z"
     }
   ]
 }
