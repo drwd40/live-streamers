@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-24T14:19:41.729Z",
+  "timestamp": "2026-05-24T14:49:12.069Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,12 +20,6 @@
       "started_at": "2026-05-24T10:02:30Z"
     },
     {
-      "username": "lawfulmasses",
-      "title": "Lawful Mass - May 24, 2026 - The $200k of Stolen Legos",
-      "game": "Talk Shows & Podcasts",
-      "started_at": "2026-05-24T13:56:32Z"
-    },
-    {
       "username": "AstroCanuck",
       "title": "Lazy Sunday LEGO: Star Wars LEGO! | !DONO | !PGV !giveaway | !drop !tkf",
       "game": "Lego & Brickbuilding",
@@ -36,6 +30,12 @@
       "title": "When Therapists Cross the Line... | \"Daddy Issues,\" Where People go when Healthcare Fails Them, and Vodou: Bookclub with KarroKicks at 12p",
       "game": "Just Chatting",
       "started_at": "2026-05-24T14:10:17Z"
+    },
+    {
+      "username": "lawfulmasses",
+      "title": "Lawful Mass - May 24, 2026 - The $200k of Stolen Legos",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2026-05-24T13:56:32Z"
     }
   ]
 }
