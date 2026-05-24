@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-23T23:47:25.854Z",
+  "timestamp": "2026-05-24T00:10:45.354Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-05-23T22:00:49Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "More Parts - More Electronics - More Synths",
-      "game": "Science & Technology",
-      "started_at": "2026-05-23T19:00:20Z"
-    },
-    {
       "username": "MelissaInDeNile",
       "title": "Beyond De Nile Lecture Series ~ Cities and Nomes of Ancient Egypt: Part 1! ~ Follower Goal: 2355/2600 ~ !socials !beyonddenile",
       "game": "Just Chatting",
       "started_at": "2026-05-23T22:50:54Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "More Parts - More Electronics - More Synths",
+      "game": "Science & Technology",
+      "started_at": "2026-05-23T19:00:20Z"
     }
   ]
 }
