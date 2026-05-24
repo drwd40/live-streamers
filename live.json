@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-24T15:44:36.192Z",
+  "timestamp": "2026-05-24T16:09:50.389Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -10,7 +10,7 @@
     {
       "username": "TinyToxicTofu",
       "title": "Sorting Electronic Components, Deriving and Learning about Terminal Velocity & Rocket Equation + Playing Mass Effect Legendary !cnc !socials",
-      "game": "Science & Technology",
+      "game": "Mass Effect Legendary Edition",
       "started_at": "2026-05-24T12:51:00Z"
     },
     {
@@ -36,6 +36,12 @@
       "title": "From Hovel to Homestead | !linktree !discord",
       "game": "Farthest Frontier",
       "started_at": "2026-05-24T15:25:54Z"
+    },
+    {
+      "username": "VolcanoDoc",
+      "title": "bacon rocks & the in-between |🌋 Science Sunday | !phd !tkf !socials !pubs",
+      "game": "Science & Technology",
+      "started_at": "2026-05-24T16:02:50Z"
     }
   ]
 }
