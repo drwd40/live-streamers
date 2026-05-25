@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-25T20:40:41.107Z",
+  "timestamp": "2026-05-25T21:07:00.577Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -27,15 +27,9 @@
     },
     {
       "username": "Rocketology",
-      "title": "Kerbals, Rockets, Aircraft, Oh, My!",
-      "game": "Kerbal Space Program",
+      "title": "DefenseCon 2956 Anvil Day!",
+      "game": "Star Citizen",
       "started_at": "2026-05-25T16:59:19Z"
-    },
-    {
-      "username": "eToThe2iPi",
-      "title": "Working on Quiz Show Software: Sixteen.",
-      "game": "Software and Game Development",
-      "started_at": "2026-05-25T18:05:44Z"
     }
   ]
 }
