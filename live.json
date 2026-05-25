@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-05-25T01:23:30.339Z",
+  "timestamp": "2026-05-25T02:13:30.290Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Alveus Subathon (Day 1 / 16+) | !alveus !institute !pixel !schedule !video !subathon",
+      "title": "Alveus Subathon (Day 1 / 18+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
       "started_at": "2026-05-23T05:36:22Z"
-    },
-    {
-      "username": "imreallyimportant",
-      "title": "SUNDAY POLITICS SHOWS",
-      "game": "Just Chatting",
-      "started_at": "2026-05-24T21:49:39Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -24,6 +18,12 @@
       "title": "Sunday Night Science Chill with a PhD Astronomer and former NASA guy.  #NASA #science #space #stem",
       "game": "Science & Technology",
       "started_at": "2026-05-25T00:50:40Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Best practices in religious education, neophobes at the kiddush table, and electronic tracking of truck drivers.",
+      "game": "Science & Technology",
+      "started_at": "2026-05-25T01:31:33Z"
     }
   ]
 }
