@@ -1,11 +1,17 @@
 {
-  "timestamp": "2026-05-25T14:23:14.892Z",
+  "timestamp": "2026-05-25T15:30:39.921Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Alveus Subathon (Day 2 / 20+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
       "started_at": "2026-05-25T05:00:44Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Stabilization Mode begins (day 32)",
+      "game": "Software and Game Development",
+      "started_at": "2026-05-25T15:02:36Z"
     },
     {
       "username": "Zachap",
