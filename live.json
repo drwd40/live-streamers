@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-26T21:06:35.416Z",
+  "timestamp": "2026-05-26T21:45:54.978Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Alveus Subathon (Day 3 / 22+) | !alveus !institute !pixel !schedule !video !subathon",
+      "title": "Alveus Subathon (Day 3 / 24+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
       "started_at": "2026-05-25T05:00:44Z"
     },
@@ -28,7 +28,7 @@
     {
       "username": "SydHeresy",
       "title": "Science Mogging By SolderMaxxing",
-      "game": "Just Chatting",
+      "game": "Science & Technology",
       "started_at": "2026-05-26T19:46:06Z"
     },
     {
@@ -36,12 +36,6 @@
       "title": "[!chaosreign] All DLC Campaign Start",
       "game": "MechWarrior 5: Mercenaries",
       "started_at": "2026-05-26T17:39:41Z"
-    },
-    {
-      "username": "xTalkProgrammer",
-      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
-      "game": "Just Chatting",
-      "started_at": "2026-05-26T19:33:15Z"
     }
   ]
 }
