@@ -1,11 +1,23 @@
 {
-  "timestamp": "2026-05-26T14:24:44.478Z",
+  "timestamp": "2026-05-26T15:43:11.391Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Alveus Subathon (Day 3 / 22+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
       "started_at": "2026-05-25T05:00:44Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "LEATHERBACK LAB 🚰 Touring the sea turtle hatchling center at Florida Atlantic University w/ Dr. Jeanette Wyneken 🚰 !fauML !GLdonate",
+      "game": "IRL",
+      "started_at": "2026-05-26T15:20:35Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Investigating Weblate's \"monolingual gettext\" (day 33)",
+      "game": "Software and Game Development",
+      "started_at": "2026-05-26T14:59:06Z"
     },
     {
       "username": "Zachap",
