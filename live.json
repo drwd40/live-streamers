@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-26T18:58:24.509Z",
+  "timestamp": "2026-05-26T19:42:46.691Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Care Chats | !alveus !institute !pixel !schedule !video",
+      "title": "Alveus Subathon (Day 3 / 22+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
       "started_at": "2026-05-25T05:00:44Z"
     },
@@ -12,6 +12,12 @@
       "title": "EJ's Space and Rocket Revue! 5/26/26",
       "game": "Science & Technology",
       "started_at": "2026-05-26T18:19:04Z"
+    },
+    {
+      "username": "ipaintbirbs",
+      "title": "oops all birbs",
+      "game": "Art",
+      "started_at": "2026-05-26T19:02:38Z"
     },
     {
       "username": "imreallyimportant",
@@ -30,6 +36,12 @@
       "title": "[!chaosreign] All DLC Campaign Start",
       "game": "MechWarrior 5: Mercenaries",
       "started_at": "2026-05-26T17:39:41Z"
+    },
+    {
+      "username": "xTalkProgrammer",
+      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
+      "game": "Just Chatting",
+      "started_at": "2026-05-26T19:33:15Z"
     }
   ]
 }
