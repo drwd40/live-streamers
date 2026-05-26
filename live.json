@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-26T21:45:54.978Z",
+  "timestamp": "2026-05-26T22:16:12.082Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,6 +20,12 @@
       "started_at": "2026-05-26T19:02:38Z"
     },
     {
+      "username": "imreallyimportant",
+      "title": "LIVE: TEXAS SENATE REPUBLICAN PRIMARY RUNOFF",
+      "game": "Just Chatting",
+      "started_at": "2026-05-26T21:51:31Z"
+    },
+    {
       "username": "GeoJim2006",
       "title": "Geologizing from the lab at Northern Virginia Community College ⛰️⚒️🪨🔎🔬 !discord !nova !tkf",
       "game": "Science & Technology",
@@ -36,6 +42,18 @@
       "title": "[!chaosreign] All DLC Campaign Start",
       "game": "MechWarrior 5: Mercenaries",
       "started_at": "2026-05-26T17:39:41Z"
+    },
+    {
+      "username": "shnaff",
+      "title": "Guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-05-26T22:02:02Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Bring Your Questions: A Math/Ed Chat",
+      "game": "Math",
+      "started_at": "2026-05-26T21:56:54Z"
     }
   ]
 }
