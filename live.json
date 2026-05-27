@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-27T20:56:01.531Z",
+  "timestamp": "2026-05-27T21:33:57.797Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "Live CEOing Ep 982: Language Design in Wolfram Language [Stop vs Abort, DigitCount and more]",
       "game": "Science & Technology",
       "started_at": "2026-05-27T20:48:10Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "[!chaosreign] All DLC Campaign - Day 2",
+      "game": "MechWarrior 5: Mercenaries",
+      "started_at": "2026-05-27T21:22:17Z"
     }
   ]
 }
