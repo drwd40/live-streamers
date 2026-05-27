@@ -1,15 +1,9 @@
 {
-  "timestamp": "2026-05-27T17:36:21.050Z",
+  "timestamp": "2026-05-27T18:29:38.829Z",
   "live": [
     {
-      "username": "Maya",
-      "title": "HANGING OUT WITH PUPPIES🐾",
-      "game": "Just Chatting",
-      "started_at": "2026-05-27T15:11:10Z"
-    },
-    {
       "username": "AlveusSanctuary",
-      "title": "Alveus Subathon (Day 4 / 24+) | !alveus !institute !pixel !schedule !video !subathon",
+      "title": "Animal Care Chats | !alveus !institute !pixel !schedule !video",
       "game": "Just Chatting",
       "started_at": "2026-05-27T05:02:33Z"
     },
@@ -24,12 +18,6 @@
       "title": "workers have more material mass of power than politicians/owners",
       "game": "Just Chatting",
       "started_at": "2026-05-27T10:02:07Z"
-    },
-    {
-      "username": "TimberAnew",
-      "title": "Beginning Sifu",
-      "game": "SIFU",
-      "started_at": "2026-05-27T17:00:15Z"
     }
   ]
 }
