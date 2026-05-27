@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-27T16:27:32.763Z",
+  "timestamp": "2026-05-27T17:36:21.050Z",
   "live": [
     {
       "username": "Maya",
@@ -24,6 +24,12 @@
       "title": "workers have more material mass of power than politicians/owners",
       "game": "Just Chatting",
       "started_at": "2026-05-27T10:02:07Z"
+    },
+    {
+      "username": "TimberAnew",
+      "title": "Beginning Sifu",
+      "game": "SIFU",
+      "started_at": "2026-05-27T17:00:15Z"
     }
   ]
 }
