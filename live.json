@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-27T21:33:57.797Z",
+  "timestamp": "2026-05-27T22:14:02.943Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,22 +8,28 @@
       "started_at": "2026-05-27T05:02:33Z"
     },
     {
+      "username": "EJ_SA",
+      "title": "EJ's Space and Rocket Revue! 5/27/26",
+      "game": "Science & Technology",
+      "started_at": "2026-05-27T21:36:51Z"
+    },
+    {
       "username": "AdamLearnsLive",
       "title": ".csv → .po (!today) (day 34½)",
       "game": "Software and Game Development",
       "started_at": "2026-05-27T20:02:32Z"
     },
     {
+      "username": "DrawCuriosity",
+      "title": "📍[RAID 4 CHARITY] COME MEET MY STICK BUGS // EVERY RAID = $1 to World Climate Relay charity! -ART later! 👀 ✨🐑",
+      "game": "Science & Technology",
+      "started_at": "2026-05-27T21:38:14Z"
+    },
+    {
       "username": "Zachap",
       "title": "people want slop.",
       "game": "Just Chatting",
       "started_at": "2026-05-27T10:02:07Z"
-    },
-    {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 982: Language Design in Wolfram Language [Stop vs Abort, DigitCount and more]",
-      "game": "Science & Technology",
-      "started_at": "2026-05-27T20:48:10Z"
     },
     {
       "username": "Rocketology",
