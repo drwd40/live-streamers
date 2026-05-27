@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-27T20:09:12.929Z",
+  "timestamp": "2026-05-27T20:56:01.531Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,22 @@
       "started_at": "2026-05-27T05:02:33Z"
     },
     {
+      "username": "AdamLearnsLive",
+      "title": ".csv → .po (!today) (day 34½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-05-27T20:02:32Z"
+    },
+    {
       "username": "Zachap",
       "title": "people want slop.",
       "game": "Just Chatting",
       "started_at": "2026-05-27T10:02:07Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": ".csv → .po (!today) (day 34½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-05-27T20:02:32Z"
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 982: Language Design in Wolfram Language [Stop vs Abort, DigitCount and more]",
+      "game": "Science & Technology",
+      "started_at": "2026-05-27T20:48:10Z"
     }
   ]
 }
