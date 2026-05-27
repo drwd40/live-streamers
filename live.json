@@ -1,17 +1,23 @@
 {
-  "timestamp": "2026-05-27T19:21:23.864Z",
+  "timestamp": "2026-05-27T20:09:12.929Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Care Chats | !alveus !institute !pixel !schedule !video",
+      "title": "Alveus Subathon (Day 4 / 24+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
       "started_at": "2026-05-27T05:02:33Z"
     },
     {
       "username": "Zachap",
-      "title": "workers have more material mass of power than politicians/owners",
+      "title": "people want slop.",
       "game": "Just Chatting",
       "started_at": "2026-05-27T10:02:07Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": ".csv → .po (!today) (day 34½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-05-27T20:02:32Z"
     }
   ]
 }
