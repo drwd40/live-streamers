@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-27T23:46:27.708Z",
+  "timestamp": "2026-05-28T00:10:33.131Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,24 @@
       "title": "[!chaosreign] All DLC Campaign - Day 2",
       "game": "MechWarrior 5: Mercenaries",
       "started_at": "2026-05-27T21:22:17Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Interview with cinematographer Wilson McCourtney.",
+      "game": "Science & Technology",
+      "started_at": "2026-05-27T23:59:59Z"
+    },
+    {
+      "username": "nogre0",
+      "title": "meta ta physica",
+      "game": "Just Chatting",
+      "started_at": "2026-05-28T00:00:06Z"
+    },
+    {
+      "username": "Ask_a_Scientist_Gaming",
+      "title": "Dr. DePrince and Dr. Hanson playing some video games.",
+      "game": "Science & Technology",
+      "started_at": "2026-05-28T00:00:20Z"
     }
   ]
 }
