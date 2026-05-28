@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-28T22:03:03.758Z",
+  "timestamp": "2026-05-28T22:40:52.829Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-05-28T21:03:06Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "The Fast and the SciAnts | #ForzaHorizon6 #Horizon6 #FH6 #HorizonAdventure #HorizonJapan | Partner+ 313/300 | !ppp !yt !pod !gotel",
-      "game": "Science & Technology",
-      "started_at": "2026-05-28T18:08:18Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "GOP STARTS ATTACKING TALARICO | $250 TRUMP NOTE? | DOJ OPENS INVESTIGATION INTO E. JEAN CARROLL",
       "game": "Just Chatting",
       "started_at": "2026-05-28T21:50:06Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "The Fast and the SciAnts | #ForzaHorizon6 #Horizon6 #FH6 #HorizonAdventure #HorizonJapan | Partner+ 313/300 | !ppp !yt !pod !gotel",
+      "game": "Science & Technology",
+      "started_at": "2026-05-28T18:08:18Z"
     },
     {
       "username": "Rocketology",
@@ -38,28 +38,16 @@
       "started_at": "2026-05-28T17:38:10Z"
     },
     {
-      "username": "Zachap",
-      "title": "free stuff, and by stuff i mean you get to learn about all the things",
-      "game": "Just Chatting",
-      "started_at": "2026-05-28T10:03:12Z"
+      "username": "shnaff",
+      "title": "Guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-05-28T22:02:35Z"
     },
     {
       "username": "SydHeresy",
       "title": "Solder Mogging And RepairMaxxing",
       "game": "Science & Technology",
       "started_at": "2026-05-28T21:35:06Z"
-    },
-    {
-      "username": "SETIInstitute",
-      "title": "Not Planets, Not Stars: NASA Volunteers Doubled the Number of Known Brown Dwarfs",
-      "game": "Talk Shows & Podcasts",
-      "started_at": "2026-05-28T21:31:34Z"
-    },
-    {
-      "username": "shnaff",
-      "title": "Guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-05-28T22:02:35Z"
     }
   ]
 }
