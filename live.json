@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-28T18:43:52.847Z",
+  "timestamp": "2026-05-28T19:40:01.466Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -42,6 +42,12 @@
       "title": "50% Science Modded Career...",
       "game": "Kerbal Space Program",
       "started_at": "2026-05-28T17:38:10Z"
+    },
+    {
+      "username": "DrMick",
+      "title": "International Bandy Tournament: Game 2 vs. Minnesota",
+      "game": "Sports",
+      "started_at": "2026-05-28T19:23:26Z"
     }
   ]
 }
