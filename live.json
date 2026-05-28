@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-28T14:01:34.338Z",
+  "timestamp": "2026-05-28T15:21:05.833Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "free stuff, and by stuff i mean you get to learn about all the things",
       "game": "Just Chatting",
       "started_at": "2026-05-28T10:03:12Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Skeleseller again?! Pushing the Japanese translation (day 328)",
+      "game": "Software and Game Development",
+      "started_at": "2026-05-28T15:06:32Z"
     }
   ]
 }
