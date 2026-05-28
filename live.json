@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-28T23:08:41.486Z",
+  "timestamp": "2026-05-28T23:42:08.018Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,22 +32,16 @@
       "started_at": "2026-05-28T18:08:18Z"
     },
     {
-      "username": "Rocketology",
-      "title": "[!chaosreign] Stompy, Stompy..",
-      "game": "MechWarrior 5: Mercenaries",
-      "started_at": "2026-05-28T17:38:10Z"
+      "username": "SydHeresy",
+      "title": "Solder Mogging And RepairMaxxing",
+      "game": "Science & Technology",
+      "started_at": "2026-05-28T21:35:06Z"
     },
     {
       "username": "shnaff",
       "title": "Guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2026-05-28T22:02:35Z"
-    },
-    {
-      "username": "SydHeresy",
-      "title": "Solder Mogging And RepairMaxxing",
-      "game": "Science & Technology",
-      "started_at": "2026-05-28T21:35:06Z"
     }
   ]
 }
