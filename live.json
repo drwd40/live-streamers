@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-29T22:14:41.876Z",
+  "timestamp": "2026-05-29T22:45:22.258Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Alveus Subathon (Day 6 / 25+) | !alveus !institute !pixel !schedule !video !subathon",
+      "title": "Alveus Subathon (Day 6 / 28+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
       "started_at": "2026-05-28T12:58:21Z"
     },
@@ -20,12 +20,6 @@
       "started_at": "2026-05-29T21:49:25Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Finishing up localization foundation (day 35½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-05-29T19:44:33Z"
-    },
-    {
       "username": "DrawCuriosity",
       "title": "📍[PARTNER PUSH + RAID 4 CHARITY] DR continues Subnautica!  // EVERY RAID = $1 to World Climate Relay charity! 👀 ✨🐑",
       "game": "Subnautica",
@@ -36,12 +30,6 @@
       "title": "Guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2026-05-29T22:01:28Z"
-    },
-    {
-      "username": "GeneralSte",
-      "title": "Balance equals Brilliance | !linktree !discord",
-      "game": "Farthest Frontier",
-      "started_at": "2026-05-29T19:16:02Z"
     }
   ]
 }
