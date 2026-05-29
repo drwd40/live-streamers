@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-28T23:42:08.018Z",
+  "timestamp": "2026-05-29T00:09:41.188Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,22 @@
       "started_at": "2026-05-28T18:08:18Z"
     },
     {
+      "username": "shnaff",
+      "title": "Guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-05-28T22:02:35Z"
+    },
+    {
       "username": "SydHeresy",
       "title": "Solder Mogging And RepairMaxxing",
       "game": "Science & Technology",
       "started_at": "2026-05-28T21:35:06Z"
     },
     {
-      "username": "shnaff",
-      "title": "Guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-05-28T22:02:35Z"
+      "username": "Nerduino",
+      "title": "Thursday night space and Earth science news with a former NASA guy. #NASA #science #space #stem",
+      "game": "Science & Technology",
+      "started_at": "2026-05-28T23:47:14Z"
     }
   ]
 }
