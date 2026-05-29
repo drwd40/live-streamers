@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-29T23:14:01.730Z",
+  "timestamp": "2026-05-29T23:44:56.051Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,16 @@
       "started_at": "2026-05-29T21:27:48Z"
     },
     {
-      "username": "shnaff",
-      "title": "Guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-05-29T22:01:28Z"
-    },
-    {
       "username": "AstroCanuck",
       "title": "Week's End Catch-up: More Rockets Go Boom & Star Wars LEGO | !DONO !MENU | !PGV !giveaway | !drop !tkf",
       "game": "Science & Technology",
       "started_at": "2026-05-29T23:03:29Z"
+    },
+    {
+      "username": "shnaff",
+      "title": "Guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-05-29T22:01:28Z"
     }
   ]
 }
