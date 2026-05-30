@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-30T18:42:40.728Z",
+  "timestamp": "2026-05-30T19:10:32.132Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,10 +26,10 @@
       "started_at": "2026-05-30T16:43:42Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Bring Your Questions: A Math/Ed Q&A",
-      "game": "Math",
-      "started_at": "2026-05-30T16:03:02Z"
+      "username": "DrMick",
+      "title": "International Bandy Tournament: Bronze Medal Game",
+      "game": "Sports",
+      "started_at": "2026-05-30T18:21:12Z"
     },
     {
       "username": "GeneralSte",
@@ -38,10 +38,10 @@
       "started_at": "2026-05-30T15:26:34Z"
     },
     {
-      "username": "DrMick",
-      "title": "International Bandy Tournament: Bronze Medal Game",
-      "game": "Sports",
-      "started_at": "2026-05-30T18:21:12Z"
+      "username": "DonFactorial",
+      "title": "Answering your math questions and working on more PDEs",
+      "game": "Math",
+      "started_at": "2026-05-30T18:47:49Z"
     }
   ]
 }
