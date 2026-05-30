@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-30T01:15:50.340Z",
+  "timestamp": "2026-05-30T02:01:41.222Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-05-28T12:58:21Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "NSF - New Glenn RUD aftermath, Starship, and perhaps an Atlas V launch - The Flame Trench 5/29/26",
-      "game": "Science & Technology",
-      "started_at": "2026-05-29T18:39:27Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "PAM BONDI TESTIFIES ABOUT THE EPSTEIN FILES - BLAMES TODD BLANCHE FOR MESS",
       "game": "Just Chatting",
       "started_at": "2026-05-29T21:49:25Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "SciAnts News | New species, clonal animals, aging, regeneration, and more! | Partner+ 318/300 | !ppp !yt !pod !gotel",
+      "game": "Science & Technology",
+      "started_at": "2026-05-30T01:05:32Z"
     },
     {
       "username": "AstroCanuck",
@@ -30,12 +30,6 @@
       "title": "📍[PARTNER PUSH + RAID 4 CHARITY] DR continues Subnautica!  // EVERY RAID = $1 to World Climate Relay charity! 👀 ✨🐑",
       "game": "Subnautica",
       "started_at": "2026-05-29T21:27:48Z"
-    },
-    {
-      "username": "SciAnts_Streams",
-      "title": "SciAnts News | New species, clonal animals, aging, regeneration, and more! | Partner+ 318/300 | !ppp !yt !pod !gotel",
-      "game": "Science & Technology",
-      "started_at": "2026-05-30T01:05:32Z"
     }
   ]
 }
