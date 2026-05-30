@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-30T18:16:08.445Z",
+  "timestamp": "2026-05-30T18:42:40.728Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "Balance equals Brilliance | !linktree !discord",
       "game": "Farthest Frontier",
       "started_at": "2026-05-30T15:26:34Z"
+    },
+    {
+      "username": "DrMick",
+      "title": "International Bandy Tournament: Bronze Medal Game",
+      "game": "Sports",
+      "started_at": "2026-05-30T18:21:12Z"
     }
   ]
 }
