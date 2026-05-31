@@ -1,11 +1,23 @@
 {
-  "timestamp": "2026-05-31T21:41:44.178Z",
+  "timestamp": "2026-05-31T22:07:16.206Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Alveus Subathon (Day 8 / 30+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
       "started_at": "2026-05-30T13:00:06Z"
+    },
+    {
+      "username": "imreallyimportant",
+      "title": "SUNDAY POLITICS SHOWS | LAST DAY FOR MAY DEM 2028 CANDIDATE POLL",
+      "game": "Just Chatting",
+      "started_at": "2026-05-31T21:49:33Z"
+    },
+    {
+      "username": "shnaff",
+      "title": "Guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-05-31T22:04:18Z"
     }
   ]
 }
