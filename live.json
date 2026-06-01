@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-01T20:15:00.378Z",
+  "timestamp": "2026-06-01T21:29:20.443Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,28 +14,16 @@
       "started_at": "2026-06-01T19:43:39Z"
     },
     {
-      "username": "Rocketology",
-      "title": "!chaosreign 'Shadow Company' Merc Campaign, All DLC - y3027 [BIRTHDAY MONTH!]",
-      "game": "MechWarrior 5: Mercenaries",
-      "started_at": "2026-06-01T18:17:10Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "Grit Week (day 36½)",
       "game": "Software and Game Development",
       "started_at": "2026-06-01T20:02:44Z"
     },
     {
-      "username": "Zachap",
-      "title": "google/search \"Palmer raids\"",
-      "game": "Just Chatting",
-      "started_at": "2026-06-01T10:00:47Z"
-    },
-    {
-      "username": "eToThe2iPi",
-      "title": "Working on Quiz Show Software: Sixteen",
-      "game": "Software and Game Development",
-      "started_at": "2026-06-01T18:00:44Z"
+      "username": "Rocketology",
+      "title": "!chaosreign 'Shadow Company' Merc Campaign, All DLC - y3027 [BIRTHDAY MONTH!]",
+      "game": "MechWarrior 5: Mercenaries",
+      "started_at": "2026-06-01T18:17:10Z"
     }
   ]
 }
