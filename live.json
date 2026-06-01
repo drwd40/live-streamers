@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-01T01:27:16.033Z",
+  "timestamp": "2026-06-01T02:22:37.986Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,22 +20,16 @@
       "started_at": "2026-06-01T01:03:12Z"
     },
     {
-      "username": "shnaff",
-      "title": "Guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-05-31T22:04:18Z"
-    },
-    {
       "username": "Nerduino",
       "title": "Sunday Night Science Chill.  Space and Earth science news with a former NASA guy. #NASA #science #space #stem",
       "game": "Science & Technology",
       "started_at": "2026-06-01T00:50:50Z"
     },
     {
-      "username": "nogre0",
-      "title": "end of thought",
-      "game": "Just Chatting",
-      "started_at": "2026-06-01T00:00:05Z"
+      "username": "walkingsticklibrary",
+      "title": "Mongoose and snake. Who is Dave Ramsey? Visit beautiful Beaufort Castle?",
+      "game": "Science & Technology",
+      "started_at": "2026-06-01T01:35:23Z"
     }
   ]
 }
