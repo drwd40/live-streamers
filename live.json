@@ -1,12 +1,6 @@
 {
-  "timestamp": "2026-06-01T16:48:02.837Z",
+  "timestamp": "2026-06-01T18:45:26.251Z",
   "live": [
-    {
-      "username": "Maya",
-      "title": "BIIIIIG ANNOUNCEMENT AT ALVEUS TODAY😭EMU POOL PARTY💧",
-      "game": "Just Chatting",
-      "started_at": "2026-06-01T15:27:51Z"
-    },
     {
       "username": "AlveusSanctuary",
       "title": "Alveus Subathon (Day 9 / 30+) | !alveus !institute !pixel !schedule !video !subathon",
@@ -24,6 +18,30 @@
       "title": "google/search \"Palmer raids\"",
       "game": "Just Chatting",
       "started_at": "2026-06-01T10:00:47Z"
+    },
+    {
+      "username": "CosmoQuestX",
+      "title": "Astronomy Cast 796: Oceans and Organics on Mars",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2026-06-01T17:59:04Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Working on Quiz Show Software: Sixteen",
+      "game": "Software and Game Development",
+      "started_at": "2026-06-01T18:00:44Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "!chaosreign 'Shadow Company' Merc Campaign, All DLC - y3027 [BIRTHDAY MONTH!]",
+      "game": "MechWarrior 5: Mercenaries",
+      "started_at": "2026-06-01T18:17:10Z"
+    },
+    {
+      "username": "PotteryDojo",
+      "title": "Pottery: Making Bonsai Pots | Hand Building | Batch # 20 | Batch Total: 0",
+      "game": "Art",
+      "started_at": "2026-06-01T18:35:43Z"
     }
   ]
 }
