@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-06-02T00:11:58.202Z",
+  "timestamp": "2026-06-02T01:25:26.460Z",
   "live": [
+    {
+      "username": "Maya",
+      "title": "hello😇😇😇",
+      "game": "Just Chatting",
+      "started_at": "2026-06-02T01:11:56Z"
+    },
     {
       "username": "AlveusSanctuary",
       "title": "Alveus Subathon (Day 9 / 30+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
       "started_at": "2026-06-01T13:00:05Z"
-    },
-    {
-      "username": "EJ_SA",
-      "title": "Passenger side Inner rocker repair! The Crew Cab Coronet (PART 50)",
-      "game": "Science & Technology",
-      "started_at": "2026-06-01T19:43:39Z"
     },
     {
       "username": "imreallyimportant",
@@ -20,10 +20,22 @@
       "started_at": "2026-06-01T21:49:33Z"
     },
     {
+      "username": "SciAnts_Streams",
+      "title": "Microscopy Monday | Tiny worlds under the microscope with fossils, amber, and more! | Partner+ 11/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2026-06-02T01:04:44Z"
+    },
+    {
       "username": "DrawCuriosity",
       "title": "📍[PARTNER PUSH] FIRST TIME PLAYING HADES - HAPPY PRIDEEE // EVERY RAID = $1 to World Climate Relay charity! 👀 ✨🐑",
       "game": "Hades",
       "started_at": "2026-06-01T21:55:04Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Visit beautiful Beaufort Castle? The New World Screwworm Fly is coming!",
+      "game": "Science & Technology",
+      "started_at": "2026-06-02T00:31:04Z"
     }
   ]
 }
