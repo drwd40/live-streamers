@@ -1,17 +1,23 @@
 {
-  "timestamp": "2026-06-02T19:42:49.013Z",
+  "timestamp": "2026-06-02T20:41:12.862Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "PO Box Opening | !alveus !institute !pixel !schedule !video",
+      "title": "Alveus Subathon (Day 10 / 31+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
       "started_at": "2026-06-01T13:00:05Z"
     },
     {
       "username": "EJ_SA",
-      "title": "Passenger side Inner rocker repair (Take 2)! The Crew Cab Coronet (PART 51)",
+      "title": "EJ's Space and Rocket Revue! NEW GLENN CONOPS POST NG-4 RUD! 6/2/26",
       "game": "Science & Technology",
       "started_at": "2026-06-02T18:01:39Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "DINOSAUR DIG 🦕 Day 1 in Wyoming 🦴 Getting back into fieldwork at Turtle Hill",
+      "game": "IRL",
+      "started_at": "2026-06-02T19:56:43Z"
     },
     {
       "username": "oh_bother",
@@ -20,22 +26,22 @@
       "started_at": "2026-06-02T16:49:00Z"
     },
     {
-      "username": "Zachap",
-      "title": "abolish landlordism",
-      "game": "Just Chatting",
-      "started_at": "2026-06-02T10:01:42Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "It's Soldering Time!!!!",
       "game": "Science & Technology",
       "started_at": "2026-06-02T18:30:14Z"
     },
     {
-      "username": "xTalkProgrammer",
-      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
-      "game": "Just Chatting",
-      "started_at": "2026-06-02T18:57:37Z"
+      "username": "GeoJim2006",
+      "title": "Summer Geologizing from the lab at Northern Virginia Community College ⛰️⚒️🪨🔎🔬 !discord !nova !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-06-02T20:00:49Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "Real Analysis Lesson #1 [!fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-06-02T20:02:27Z"
     }
   ]
 }
