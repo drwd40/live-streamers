@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-02T21:39:58.295Z",
+  "timestamp": "2026-06-02T22:27:52.951Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,10 +20,28 @@
       "started_at": "2026-06-02T19:56:43Z"
     },
     {
+      "username": "imreallyimportant",
+      "title": "LIVE: PRIMARY ELECTIONS IN CALIFORNIA, IOWA & MORE",
+      "game": "Just Chatting",
+      "started_at": "2026-06-02T21:49:32Z"
+    },
+    {
+      "username": "shnaff",
+      "title": "Guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-06-02T22:01:05Z"
+    },
+    {
       "username": "SydHeresy",
       "title": "It's Soldering Time!!!!",
       "game": "Science & Technology",
       "started_at": "2026-06-02T18:30:14Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Bring Your Questions: A Math/Ed Q&A",
+      "game": "Math",
+      "started_at": "2026-06-02T21:56:25Z"
     },
     {
       "username": "GeoJim2006",
@@ -33,9 +51,9 @@
     },
     {
       "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 983: Language Design in Wolfram Language [LoggingLevel, Cyclic Logging and more]",
+      "title": "Live CEOing Ep 984: Language Design in Wolfram Language [Graphic Issues]",
       "game": "Science & Technology",
-      "started_at": "2026-06-02T20:49:36Z"
+      "started_at": "2026-06-02T21:42:09Z"
     }
   ]
 }
