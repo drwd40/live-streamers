@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-02T18:24:45.165Z",
+  "timestamp": "2026-06-02T19:42:49.013Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,12 +14,6 @@
       "started_at": "2026-06-02T18:01:39Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Grit Week (day 37)",
-      "game": "Software and Game Development",
-      "started_at": "2026-06-02T14:56:30Z"
-    },
-    {
       "username": "oh_bother",
       "title": "Manual pick and place machine, need to design a bearing arm! #autocadad",
       "game": "Science & Technology",
@@ -30,6 +24,18 @@
       "title": "abolish landlordism",
       "game": "Just Chatting",
       "started_at": "2026-06-02T10:01:42Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "It's Soldering Time!!!!",
+      "game": "Science & Technology",
+      "started_at": "2026-06-02T18:30:14Z"
+    },
+    {
+      "username": "xTalkProgrammer",
+      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
+      "game": "Just Chatting",
+      "started_at": "2026-06-02T18:57:37Z"
     }
   ]
 }
