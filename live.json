@@ -1,23 +1,11 @@
 {
-  "timestamp": "2026-06-02T02:17:35.546Z",
+  "timestamp": "2026-06-02T03:33:23.489Z",
   "live": [
-    {
-      "username": "Maya",
-      "title": "hello😇😇😇",
-      "game": "Just Chatting",
-      "started_at": "2026-06-02T01:11:56Z"
-    },
     {
       "username": "AlveusSanctuary",
       "title": "Alveus Subathon (Day 9 / 30+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
       "started_at": "2026-06-01T13:00:05Z"
-    },
-    {
-      "username": "imreallyimportant",
-      "title": "TRUMP TO DROP $1.8 BILLION SLUSH FUND | CEASE-FIRE IN IRAN ON LIFE SUPPORT | NO LIB & LEAR TONIGHT",
-      "game": "Just Chatting",
-      "started_at": "2026-06-01T21:49:33Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -29,7 +17,13 @@
       "username": "DrawCuriosity",
       "title": "📍[PARTNER PUSH] FIRST TIME PLAYING HADES - HAPPY PRIDEEE // EVERY RAID = $1 to World Climate Relay charity! 👀 ✨🐑",
       "game": "Hades",
-      "started_at": "2026-06-01T21:55:04Z"
+      "started_at": "2026-06-02T03:09:05Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "!chaosreign 'Shadow Company' Merc Campaign, All DLC - y3027 [BIRTHDAY MONTH!]",
+      "game": "MechWarrior 5: Mercenaries",
+      "started_at": "2026-06-02T03:18:35Z"
     }
   ]
 }
