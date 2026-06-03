@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-03T01:33:41.805Z",
+  "timestamp": "2026-06-03T02:29:00.163Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,28 +26,16 @@
       "started_at": "2026-06-03T00:59:46Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "It's Soldering Time!!!!",
-      "game": "Science & Technology",
-      "started_at": "2026-06-02T18:30:14Z"
-    },
-    {
       "username": "Nerduino",
       "title": "Tuesday Science Ramble.  Space and Earth science news with a former NASA guy. #NASA #science #space #stem",
       "game": "Science & Technology",
       "started_at": "2026-06-03T00:49:39Z"
     },
     {
-      "username": "SharkG33k",
-      "title": "TOOTHday! Shark News AND new guitar reveal!🦈| !charity",
+      "username": "SydHeresy",
+      "title": "It's Soldering Time!!!!",
       "game": "Science & Technology",
-      "started_at": "2026-06-03T00:02:16Z"
-    },
-    {
-      "username": "MelissaInDeNile",
-      "title": "NEW GAME!! Let's find some treasure in Map Map! Thanks for the key! ~ Follower Goal: 2363/2600 ~ !socials !beyonddenile",
-      "game": "Map Map: A Game About Maps",
-      "started_at": "2026-06-02T22:50:40Z"
+      "started_at": "2026-06-02T18:30:14Z"
     },
     {
       "username": "ActualEducation",
@@ -56,16 +44,22 @@
       "started_at": "2026-06-03T00:59:37Z"
     },
     {
+      "username": "MelissaInDeNile",
+      "title": "NEW GAME!! Let's find some treasure in Map Map! Thanks for the key! ~ Follower Goal: 2363/2600 ~ !socials !beyonddenile",
+      "game": "Map Map: A Game About Maps",
+      "started_at": "2026-06-02T22:50:40Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "TOOTHday! Shark News AND new guitar reveal!🦈| !charity",
+      "game": "Science & Technology",
+      "started_at": "2026-06-03T00:02:16Z"
+    },
+    {
       "username": "Mr_Aejis",
       "title": "Persona and Pride - teacher plays: Persona 5!",
       "game": "Persona 5",
       "started_at": "2026-06-03T00:37:45Z"
-    },
-    {
-      "username": "walkingsticklibrary",
-      "title": "Intellectual disability and dating, the New World Screwworm Fly is coming! And what the rabbis say about vows and oaths.",
-      "game": "Science & Technology",
-      "started_at": "2026-06-03T01:30:41Z"
     }
   ]
 }
