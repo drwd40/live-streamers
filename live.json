@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-03T17:29:17.334Z",
+  "timestamp": "2026-06-03T18:49:16.349Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,28 +8,22 @@
       "started_at": "2026-06-03T13:00:07Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Repro Hunters: Episode IV (day 38)",
-      "game": "Software and Game Development",
-      "started_at": "2026-06-03T15:01:35Z"
-    },
-    {
       "username": "EJ_SA",
       "title": "Iron sight bolt action fiesta! BF6 early hours then SPACE NEWS! 6/3/26",
       "game": "Battlefield 6",
       "started_at": "2026-06-03T17:17:32Z"
     },
     {
+      "username": "AdamLearnsLive",
+      "title": "Repro Hunters: Episode IV (day 38)",
+      "game": "Software and Game Development",
+      "started_at": "2026-06-03T15:01:35Z"
+    },
+    {
       "username": "Zachap",
       "title": "I'm against many stuff",
       "game": "Just Chatting",
       "started_at": "2026-06-03T10:05:01Z"
-    },
-    {
-      "username": "TimberAnew",
-      "title": "Ok...let's keep trying Sifu",
-      "game": "SIFU",
-      "started_at": "2026-06-03T16:59:32Z"
     }
   ]
 }
