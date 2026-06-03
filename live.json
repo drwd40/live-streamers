@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-03T18:49:16.349Z",
+  "timestamp": "2026-06-03T20:02:19.546Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,28 @@
       "started_at": "2026-06-03T17:17:32Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Repro Hunters: Episode IV (day 38)",
+      "username": "Paleontologizing",
+      "title": "DINOSAUR DIG 🦖 Day 2 in Wyoming 🦴 Digging up a HUGE duckbill dinosaur at the \"Purple Puzzle\" site",
+      "game": "IRL",
+      "started_at": "2026-06-03T19:48:53Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀 Just home from TwitchCon! Recap! | !rop !patreon !discord",
       "game": "Software and Game Development",
-      "started_at": "2026-06-03T15:01:35Z"
+      "started_at": "2026-06-03T18:58:30Z"
     },
     {
       "username": "Zachap",
       "title": "I'm against many stuff",
       "game": "Just Chatting",
       "started_at": "2026-06-03T10:05:01Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "History of Science and Technology Q&A (June 3, 2026)",
+      "game": "Science & Technology",
+      "started_at": "2026-06-03T19:40:09Z"
     }
   ]
 }
