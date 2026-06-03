@@ -1,11 +1,17 @@
 {
-  "timestamp": "2026-06-03T14:02:40.050Z",
+  "timestamp": "2026-06-03T15:46:10.441Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Alveus Subathon (Day 11 / 32+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
       "started_at": "2026-06-03T13:00:07Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Repro Hunters: Episode IV (day 38)",
+      "game": "Software and Game Development",
+      "started_at": "2026-06-03T15:01:35Z"
     },
     {
       "username": "Zachap",
@@ -15,7 +21,7 @@
     },
     {
       "username": "Nerduino",
-      "title": "Wednesday morning coffee with Nerd!  Space and Earth science news with a former NASA guy. #NASA #science #space #stem",
+      "title": "Live Falcon 9 launch!  Wednesday morning coffee with Nerd!  Space and Earth science news with a former NASA guy. #NASA #science #space #stem",
       "game": "Science & Technology",
       "started_at": "2026-06-03T12:51:14Z"
     }
