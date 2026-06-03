@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-03T20:02:19.546Z",
+  "timestamp": "2026-06-03T21:15:44.689Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,22 +8,22 @@
       "started_at": "2026-06-03T13:00:07Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "Iron sight bolt action fiesta! BF6 early hours then SPACE NEWS! 6/3/26",
-      "game": "Battlefield 6",
-      "started_at": "2026-06-03T17:17:32Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "DINOSAUR DIG 🦖 Day 2 in Wyoming 🦴 Digging up a HUGE duckbill dinosaur at the \"Purple Puzzle\" site",
       "game": "IRL",
       "started_at": "2026-06-03T19:48:53Z"
     },
     {
-      "username": "IrishJohnGames",
-      "title": "🍀 Just home from TwitchCon! Recap! | !rop !patreon !discord",
+      "username": "EJ_SA",
+      "title": "EJ's Space and Rocket Revue! 6/3/26",
+      "game": "Science & Technology",
+      "started_at": "2026-06-03T17:17:32Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Repro Hunters: Episode V (day 38½)",
       "game": "Software and Game Development",
-      "started_at": "2026-06-03T18:58:30Z"
+      "started_at": "2026-06-03T20:23:27Z"
     },
     {
       "username": "Zachap",
@@ -32,10 +32,10 @@
       "started_at": "2026-06-03T10:05:01Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "History of Science and Technology Q&A (June 3, 2026)",
-      "game": "Science & Technology",
-      "started_at": "2026-06-03T19:40:09Z"
+      "username": "nSimplexPachinko",
+      "title": "Dot and Cross Products, Calc III; Cracking the GRE, Math Subject Test, Night 042",
+      "game": "Math",
+      "started_at": "2026-06-03T20:59:26Z"
     }
   ]
 }
