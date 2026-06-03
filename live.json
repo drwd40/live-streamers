@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-03T15:46:10.441Z",
+  "timestamp": "2026-06-03T17:29:17.334Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,22 @@
       "started_at": "2026-06-03T15:01:35Z"
     },
     {
+      "username": "EJ_SA",
+      "title": "Iron sight bolt action fiesta! BF6 early hours then SPACE NEWS! 6/3/26",
+      "game": "Battlefield 6",
+      "started_at": "2026-06-03T17:17:32Z"
+    },
+    {
       "username": "Zachap",
       "title": "I'm against many stuff",
       "game": "Just Chatting",
       "started_at": "2026-06-03T10:05:01Z"
     },
     {
-      "username": "Nerduino",
-      "title": "Live Falcon 9 launch!  Wednesday morning coffee with Nerd!  Space and Earth science news with a former NASA guy. #NASA #science #space #stem",
-      "game": "Science & Technology",
-      "started_at": "2026-06-03T12:51:14Z"
+      "username": "TimberAnew",
+      "title": "Ok...let's keep trying Sifu",
+      "game": "SIFU",
+      "started_at": "2026-06-03T16:59:32Z"
     }
   ]
 }
