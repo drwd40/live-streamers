@@ -1,11 +1,17 @@
 {
-  "timestamp": "2026-06-04T14:18:24.754Z",
+  "timestamp": "2026-06-04T15:32:45.342Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Alveus Subathon (Day 12 / 33+) | !alveus !institute !pixel !schedule !video !subathon",
+      "title": "Sit and Stay with Sruti | !alveus !institute !pixel !schedule !video",
       "game": "Just Chatting",
       "started_at": "2026-06-03T13:00:07Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Gave up on the crash (😢), takin' it easy (day 39)",
+      "game": "Software and Game Development",
+      "started_at": "2026-06-04T15:09:39Z"
     },
     {
       "username": "Zachap",
