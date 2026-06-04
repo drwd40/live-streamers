@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-04T16:33:54.872Z",
+  "timestamp": "2026-06-04T17:34:17.454Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Sit and Stay with Sruti | !alveus !institute !pixel !schedule !video",
+      "title": "Alveus Subathon (Day 12 / 33+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
       "started_at": "2026-06-03T13:00:07Z"
     },
@@ -18,6 +18,12 @@
       "title": "politicians are bad and basically cops, how long will it take for \"leftists\" to get it? the state is the enforcer of alienation.",
       "game": "Just Chatting",
       "started_at": "2026-06-04T10:00:52Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Zach Attempts Category Theory, Ep. 4, ft. @nylonco",
+      "game": "Math",
+      "started_at": "2026-06-04T17:29:50Z"
     }
   ]
 }
