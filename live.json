@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-03T23:36:01.021Z",
+  "timestamp": "2026-06-04T00:14:18.200Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-06-03T13:00:07Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "EJ's Space and Rocket Revue! 6/3/26",
-      "game": "Science & Technology",
-      "started_at": "2026-06-03T17:17:32Z"
-    },
-    {
       "username": "JapanesePrintmaking",
       "title": "Making Japanese woodblock prints ... live while you watch ...",
       "game": "Makers & Crafting",
       "started_at": "2026-06-03T22:59:55Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "EJ's Space and Rocket Revue! 6/3/26",
+      "game": "Science & Technology",
+      "started_at": "2026-06-03T17:17:32Z"
     },
     {
       "username": "imreallyimportant",
@@ -26,16 +26,10 @@
       "started_at": "2026-06-03T21:49:43Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Repro Hunters: Episode V (day 38½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-06-03T20:23:27Z"
-    },
-    {
-      "username": "nSimplexPachinko",
-      "title": "Dot and Cross Products, Calc III; Cracking the GRE, Math Subject Test, Night 042",
-      "game": "Math",
-      "started_at": "2026-06-03T20:59:26Z"
+      "username": "professor_ashley",
+      "title": "Gameplay analysis",
+      "game": "Berry Bury Berry",
+      "started_at": "2026-06-03T23:35:53Z"
     }
   ]
 }
