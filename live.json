@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-04T18:25:43.917Z",
+  "timestamp": "2026-06-04T19:15:49.812Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,10 +14,10 @@
       "started_at": "2026-06-04T17:44:00Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Gave up on the crash (😢), takin' it easy (day 39)",
-      "game": "Software and Game Development",
-      "started_at": "2026-06-04T15:09:39Z"
+      "username": "SciAnts_Streams",
+      "title": "Ink SciAnts | Realm of Ink first play with the science of inky animals | #RealmOfInk #keymailer | Partner+ 31/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2026-06-04T18:08:46Z"
     },
     {
       "username": "Zachap",
@@ -26,10 +26,10 @@
       "started_at": "2026-06-04T10:00:52Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "Ink SciAnts | Realm of Ink first play with the science of inky animals | #RealmOfInk #keymailer | Partner+ 31/300 | !ppp !yt !pod",
-      "game": "Science & Technology",
-      "started_at": "2026-06-04T18:08:46Z"
+      "username": "DrMick",
+      "title": "Mental Health Chat + Painting 40k",
+      "game": "Miniatures & Models",
+      "started_at": "2026-06-04T19:01:25Z"
     },
     {
       "username": "Rocketology",
@@ -42,6 +42,12 @@
       "title": "Zach Attempts Category Theory, Ep. 4, ft. @nylonco",
       "game": "Math",
       "started_at": "2026-06-04T17:29:50Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Soldering Electronics Until It All Makes Sense",
+      "game": "Just Chatting",
+      "started_at": "2026-06-04T19:00:25Z"
     }
   ]
 }
