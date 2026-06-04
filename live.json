@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-04T19:15:49.812Z",
+  "timestamp": "2026-06-04T20:00:46.077Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-06-04T18:08:46Z"
     },
     {
-      "username": "Zachap",
-      "title": "politicians are bad and basically cops, how long will it take for \"leftists\" to get it? the state is the enforcer of alienation.",
-      "game": "Just Chatting",
-      "started_at": "2026-06-04T10:00:52Z"
-    },
-    {
       "username": "DrMick",
       "title": "Mental Health Chat + Painting 40k",
       "game": "Miniatures & Models",
       "started_at": "2026-06-04T19:01:25Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "politicians are bad and basically cops, how long will it take for \"leftists\" to get it? the state is the enforcer of alienation.",
+      "game": "Just Chatting",
+      "started_at": "2026-06-04T10:00:52Z"
     },
     {
       "username": "Rocketology",
@@ -38,16 +38,16 @@
       "started_at": "2026-06-04T17:58:58Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Zach Attempts Category Theory, Ep. 4, ft. @nylonco",
-      "game": "Math",
-      "started_at": "2026-06-04T17:29:50Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Soldering Electronics Until It All Makes Sense",
-      "game": "Just Chatting",
+      "game": "Science & Technology",
       "started_at": "2026-06-04T19:00:25Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "DINOSAUR DIG 🦕 Day 3 in Wyoming 🦴 🛡️ Ankylosaur bonebed site with bonus theropods, fishes, and more (w/ paleontologist Danny Anduza)",
+      "game": "IRL",
+      "started_at": "2026-06-04T19:57:58Z"
     }
   ]
 }
