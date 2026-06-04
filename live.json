@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-06-04T20:00:46.077Z",
+  "timestamp": "2026-06-04T20:51:11.541Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Projects w/ FAID | !alveus !institute !pixel !schedule !video",
+      "title": "Alveus Subathon (Day 12 / 33+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
       "started_at": "2026-06-03T13:00:07Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "Building a Race Track and fixing this for my new to me city! The Return of Las Rico!",
-      "game": "Cities: Skylines",
-      "started_at": "2026-06-04T17:44:00Z"
+      "username": "Paleontologizing",
+      "title": "DINOSAUR DIG 🦕 Day 3 in Wyoming 🦴 🛡️ Ankylosaur bonebed site with bonus theropods, fishes, and more (w/ paleontologist Danny Anduza)",
+      "game": "IRL",
+      "started_at": "2026-06-04T19:57:58Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -32,22 +32,22 @@
       "started_at": "2026-06-04T10:00:52Z"
     },
     {
-      "username": "Rocketology",
-      "title": "Eve Direct & First Duna Flyby! [BIRTHDAY MONTH!]",
-      "game": "Kerbal Space Program",
-      "started_at": "2026-06-04T17:58:58Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Soldering Electronics Until It All Makes Sense",
       "game": "Science & Technology",
       "started_at": "2026-06-04T19:00:25Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "DINOSAUR DIG 🦕 Day 3 in Wyoming 🦴 🛡️ Ankylosaur bonebed site with bonus theropods, fishes, and more (w/ paleontologist Danny Anduza)",
-      "game": "IRL",
-      "started_at": "2026-06-04T19:57:58Z"
+      "username": "Rocketology",
+      "title": "Eve Direct & First Duna Flyby! [BIRTHDAY MONTH!]",
+      "game": "Kerbal Space Program",
+      "started_at": "2026-06-04T17:58:58Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "Real Analysis Lesson #2 [(off) !fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-06-04T20:01:46Z"
     }
   ]
 }
