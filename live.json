@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-05T16:32:47.570Z",
+  "timestamp": "2026-06-05T17:22:39.051Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,18 @@
       "title": "tired oops",
       "game": "Just Chatting",
       "started_at": "2026-06-05T10:20:16Z"
+    },
+    {
+      "username": "oh_bother",
+      "title": "Reinventing my eurorack. Slate vinyl and thermal labels. Synthesizer stuff!",
+      "game": "Science & Technology",
+      "started_at": "2026-06-05T16:37:58Z"
+    },
+    {
+      "username": "TimberAnew",
+      "title": "Another run, more stuff unlocked",
+      "game": "SIFU",
+      "started_at": "2026-06-05T16:59:49Z"
     }
   ]
 }
