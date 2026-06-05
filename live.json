@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-05T18:05:14.256Z",
+  "timestamp": "2026-06-05T18:50:58.051Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-06-05T13:00:10Z"
     },
     {
+      "username": "EJ_SA",
+      "title": "EJ's Space and Rocket Revue! 6/5/26",
+      "game": "Science & Technology",
+      "started_at": "2026-06-05T18:07:22Z"
+    },
+    {
       "username": "ipaintbirbs",
       "title": "the art of the yap",
       "game": "Art",
       "started_at": "2026-06-05T16:11:57Z"
-    },
-    {
-      "username": "AdamLearnsLive",
-      "title": "Final day of the stabilization phase (day 40)",
-      "game": "Software and Game Development",
-      "started_at": "2026-06-05T15:02:32Z"
     },
     {
       "username": "Zachap",
@@ -38,10 +38,16 @@
       "started_at": "2026-06-05T18:02:22Z"
     },
     {
-      "username": "TimberAnew",
-      "title": "Another run, more stuff unlocked",
-      "game": "SIFU",
-      "started_at": "2026-06-05T16:59:49Z"
+      "username": "Rocketology",
+      "title": "!chaosreign 'Shadow Company' Campaign, All DLC - y3028 [BIRTHDAY MONTH!]",
+      "game": "MechWarrior 5: Mercenaries",
+      "started_at": "2026-06-05T18:20:26Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Happy Friday! | Workin' on fundraisers and public outreach! | Maybe games/music later?| !charity",
+      "game": "Science & Technology",
+      "started_at": "2026-06-05T18:37:37Z"
     }
   ]
 }
