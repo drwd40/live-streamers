@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-05T20:07:59.222Z",
+  "timestamp": "2026-06-05T20:47:37.532Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -9,9 +9,15 @@
     },
     {
       "username": "EJ_SA",
-      "title": "EJ's Space and Rocket Revue! 6/5/26",
-      "game": "Science & Technology",
+      "title": "Your Next Artemis Crew is... - The Flame Trench 6/5/26",
+      "game": "Just Chatting",
       "started_at": "2026-06-05T18:07:22Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "DINOSAUR DIG 🦖 Day 4 in Wyoming 🪨⛏️ Moving literal TONS of rock at the ceratopsian site (w/ paleontologist Danny Anduza)",
+      "game": "IRL",
+      "started_at": "2026-06-05T20:00:01Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -32,16 +38,10 @@
       "started_at": "2026-06-05T10:20:16Z"
     },
     {
-      "username": "oh_bother",
-      "title": "Reinventing my eurorack. Slate vinyl and thermal labels. Synthesizer stuff!",
-      "game": "Science & Technology",
-      "started_at": "2026-06-05T16:37:58Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "DINOSAUR DIG 🦖 Day 4 in Wyoming 🪨⛏️ Moving literal TONS of rock at the ceratopsian site (w/ paleontologist Danny Anduza)",
-      "game": "IRL",
-      "started_at": "2026-06-05T20:00:01Z"
+      "username": "Rocketology",
+      "title": "!chaosreign 'Shadow Company' Campaign, All DLC - y3028 [BIRTHDAY MONTH!]",
+      "game": "MechWarrior 5: Mercenaries",
+      "started_at": "2026-06-05T18:20:26Z"
     },
     {
       "username": "GeneralSte",
@@ -50,16 +50,16 @@
       "started_at": "2026-06-05T19:01:36Z"
     },
     {
-      "username": "Rocketology",
-      "title": "!chaosreign 'Shadow Company' Campaign, All DLC - y3028 [BIRTHDAY MONTH!]",
-      "game": "MechWarrior 5: Mercenaries",
-      "started_at": "2026-06-05T18:20:26Z"
-    },
-    {
       "username": "SharkG33k",
       "title": "Happy Friday! | Workin' on fundraisers and public outreach! | Maybe games/music later?| !charity",
       "game": "Science & Technology",
       "started_at": "2026-06-05T18:37:37Z"
+    },
+    {
+      "username": "GeoJim2006",
+      "title": "We Look At Rocks Here - Summer Geologizing from the lab at Northern Virginia Community College ⛰️⚒️🪨🔎🔬 !discord !nova !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-06-05T20:15:30Z"
     }
   ]
 }
