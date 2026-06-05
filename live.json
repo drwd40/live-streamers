@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-05T19:24:57.268Z",
+  "timestamp": "2026-06-05T20:07:59.222Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,6 +20,12 @@
       "started_at": "2026-06-05T18:57:41Z"
     },
     {
+      "username": "AdamLearnsLive",
+      "title": "Friday co-working (day 40½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-06-05T19:43:07Z"
+    },
+    {
       "username": "Zachap",
       "title": "tired oops",
       "game": "Just Chatting",
@@ -32,6 +38,18 @@
       "started_at": "2026-06-05T16:37:58Z"
     },
     {
+      "username": "Paleontologizing",
+      "title": "DINOSAUR DIG 🦖 Day 4 in Wyoming 🪨⛏️ Moving literal TONS of rock at the ceratopsian site (w/ paleontologist Danny Anduza)",
+      "game": "IRL",
+      "started_at": "2026-06-05T20:00:01Z"
+    },
+    {
+      "username": "GeneralSte",
+      "title": "Lego TriSTEratops | !linktree !discord",
+      "game": "Lego & Brickbuilding",
+      "started_at": "2026-06-05T19:01:36Z"
+    },
+    {
       "username": "Rocketology",
       "title": "!chaosreign 'Shadow Company' Campaign, All DLC - y3028 [BIRTHDAY MONTH!]",
       "game": "MechWarrior 5: Mercenaries",
@@ -42,12 +60,6 @@
       "title": "Happy Friday! | Workin' on fundraisers and public outreach! | Maybe games/music later?| !charity",
       "game": "Science & Technology",
       "started_at": "2026-06-05T18:37:37Z"
-    },
-    {
-      "username": "GeneralSte",
-      "title": "Lego TriSTEratops | !linktree !discord",
-      "game": "Lego & Brickbuilding",
-      "started_at": "2026-06-05T19:01:36Z"
     }
   ]
 }
