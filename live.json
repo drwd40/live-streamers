@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-05T23:14:31.819Z",
+  "timestamp": "2026-06-05T23:43:58.514Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-06-05T13:00:10Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "Your Next Artemis Crew is... - The Flame Trench 6/5/26",
-      "game": "Science & Technology",
-      "started_at": "2026-06-05T18:07:22Z"
-    },
-    {
       "username": "JapanesePrintmaking",
       "title": "Making Japanese woodblock prints ... live while you watch ...",
       "game": "Makers & Crafting",
       "started_at": "2026-06-05T22:59:50Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "Your Next Artemis Crew is... - The Flame Trench 6/5/26",
+      "game": "Science & Technology",
+      "started_at": "2026-06-05T18:07:22Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -48,12 +48,6 @@
       "title": "We Look At Rocks Here - Summer Geologizing from the lab at Northern Virginia Community College ⛰️⚒️🪨🔎🔬 !discord !nova !tkf",
       "game": "Science & Technology",
       "started_at": "2026-06-05T20:15:30Z"
-    },
-    {
-      "username": "SharkG33k",
-      "title": "Happy Friday! | Workin' on fundraisers and public outreach! | Maybe games/music later?| !charity",
-      "game": "Subnautica 2",
-      "started_at": "2026-06-05T20:53:53Z"
     }
   ]
 }
