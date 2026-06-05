@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-05T18:50:58.051Z",
+  "timestamp": "2026-06-05T19:24:57.268Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Show and Tell | !alveus !institute !pixel !schedule !video",
+      "title": "Alveus Subathon (Day 13 / 33+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
       "started_at": "2026-06-05T13:00:10Z"
     },
@@ -14,10 +14,10 @@
       "started_at": "2026-06-05T18:07:22Z"
     },
     {
-      "username": "ipaintbirbs",
-      "title": "the art of the yap",
-      "game": "Art",
-      "started_at": "2026-06-05T16:11:57Z"
+      "username": "SciAnts_Streams",
+      "title": "🎈Birthday Stream 🎈 | Revisiting favorite game in Onimusha 3 | Partner+ 48/300 | !ppp !yt !pod",
+      "game": "Retro",
+      "started_at": "2026-06-05T18:57:41Z"
     },
     {
       "username": "Zachap",
@@ -32,12 +32,6 @@
       "started_at": "2026-06-05T16:37:58Z"
     },
     {
-      "username": "CosmoQuestX",
-      "title": "CosmoQuest After Hours: Exploring Physics thru Space Flight with Guest Trisha Muro",
-      "game": "Talk Shows & Podcasts",
-      "started_at": "2026-06-05T18:02:22Z"
-    },
-    {
       "username": "Rocketology",
       "title": "!chaosreign 'Shadow Company' Campaign, All DLC - y3028 [BIRTHDAY MONTH!]",
       "game": "MechWarrior 5: Mercenaries",
@@ -48,6 +42,12 @@
       "title": "Happy Friday! | Workin' on fundraisers and public outreach! | Maybe games/music later?| !charity",
       "game": "Science & Technology",
       "started_at": "2026-06-05T18:37:37Z"
+    },
+    {
+      "username": "GeneralSte",
+      "title": "Lego TriSTEratops | !linktree !discord",
+      "game": "Lego & Brickbuilding",
+      "started_at": "2026-06-05T19:01:36Z"
     }
   ]
 }
