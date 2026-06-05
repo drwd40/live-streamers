@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-05T17:22:39.051Z",
+  "timestamp": "2026-06-05T18:05:14.256Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Alveus Subathon (Day 13 / 33+) | !alveus !institute !pixel !schedule !video !subathon",
+      "title": "Show and Tell | !alveus !institute !pixel !schedule !video",
       "game": "Just Chatting",
       "started_at": "2026-06-05T13:00:10Z"
     },
@@ -30,6 +30,12 @@
       "title": "Reinventing my eurorack. Slate vinyl and thermal labels. Synthesizer stuff!",
       "game": "Science & Technology",
       "started_at": "2026-06-05T16:37:58Z"
+    },
+    {
+      "username": "CosmoQuestX",
+      "title": "CosmoQuest After Hours: Exploring Physics thru Space Flight with Guest Trisha Muro",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2026-06-05T18:02:22Z"
     },
     {
       "username": "TimberAnew",
