@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-05T21:19:03.171Z",
+  "timestamp": "2026-06-05T21:51:45.576Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,34 +26,10 @@
       "started_at": "2026-06-05T18:57:41Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Friday co-working (day 40½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-06-05T19:43:07Z"
-    },
-    {
       "username": "Zachap",
       "title": "tired oops",
       "game": "Just Chatting",
       "started_at": "2026-06-05T10:20:16Z"
-    },
-    {
-      "username": "Rocketology",
-      "title": "!chaosreign 'Shadow Company' Campaign, All DLC - y3028 [BIRTHDAY MONTH!]",
-      "game": "MechWarrior 5: Mercenaries",
-      "started_at": "2026-06-05T18:20:26Z"
-    },
-    {
-      "username": "GeoJim2006",
-      "title": "We Look At Rocks Here - Summer Geologizing from the lab at Northern Virginia Community College ⛰️⚒️🪨🔎🔬 !discord !nova !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-06-05T20:15:30Z"
-    },
-    {
-      "username": "GeneralSte",
-      "title": "Lego TriSTEratops | !linktree !discord",
-      "game": "Lego & Brickbuilding",
-      "started_at": "2026-06-05T19:01:36Z"
     },
     {
       "username": "eToThe2iPi",
@@ -62,10 +38,28 @@
       "started_at": "2026-06-05T21:06:25Z"
     },
     {
+      "username": "Rocketology",
+      "title": "!chaosreign 'Shadow Company' Campaign, All DLC - y3028 [BIRTHDAY MONTH!]",
+      "game": "MechWarrior 5: Mercenaries",
+      "started_at": "2026-06-05T18:20:26Z"
+    },
+    {
       "username": "SharkG33k",
       "title": "Happy Friday! | Workin' on fundraisers and public outreach! | Maybe games/music later?| !charity",
       "game": "Science & Technology",
       "started_at": "2026-06-05T20:53:53Z"
+    },
+    {
+      "username": "GeneralSte",
+      "title": "Lego TriSTEratops | !linktree !discord",
+      "game": "Lego & Brickbuilding",
+      "started_at": "2026-06-05T19:01:36Z"
+    },
+    {
+      "username": "GeoJim2006",
+      "title": "We Look At Rocks Here - Summer Geologizing from the lab at Northern Virginia Community College ⛰️⚒️🪨🔎🔬 !discord !nova !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-06-05T20:15:30Z"
     }
   ]
 }
