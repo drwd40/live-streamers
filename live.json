@@ -1,23 +1,11 @@
 {
-  "timestamp": "2026-06-05T03:22:26.297Z",
+  "timestamp": "2026-06-05T04:55:29.077Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Alveus Subathon (Day 12 / 33+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
       "started_at": "2026-06-03T13:00:07Z"
-    },
-    {
-      "username": "imreallyimportant",
-      "title": "NY TIMES INTERVIEWS WOMEN WHO DATED PLATNER | HUTCH INTERVIEWS MCMORROW",
-      "game": "Just Chatting",
-      "started_at": "2026-06-04T21:51:34Z"
-    },
-    {
-      "username": "SciAnts_Streams",
-      "title": "Ink SciAnts | Realm of Ink first play with the science of inky animals | #RealmOfInk #keymailer | Partner+ 31/300 | !ppp !yt !pod",
-      "game": "Realm of Ink",
-      "started_at": "2026-06-04T18:08:46Z"
     },
     {
       "username": "DrawCuriosity",
@@ -30,18 +18,6 @@
       "title": "Soldering Electronics Until It All Makes Sense",
       "game": "Science & Technology",
       "started_at": "2026-06-04T19:00:25Z"
-    },
-    {
-      "username": "SharkG33k",
-      "title": "Recording in progress 🔴 | Making Shark Ecotourism Activism Content | !charity",
-      "game": "Science & Technology",
-      "started_at": "2026-06-05T00:21:47Z"
-    },
-    {
-      "username": "walkingsticklibrary",
-      "title": "What the rabbis say about vows and oaths. Who is Jeff Carroll and what is Brain Health Accelerator, and all about unlocked Android phones.",
-      "game": "Science & Technology",
-      "started_at": "2026-06-05T01:31:56Z"
     }
   ]
 }
