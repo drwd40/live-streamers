@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-06T19:57:00.765Z",
+  "timestamp": "2026-06-06T20:27:44.441Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-06-05T13:00:10Z"
     },
     {
+      "username": "Paleontologizing",
+      "title": "DINOSAUR DIG 🦕 Day 5 in Wyoming 🐊🐟🐢🦴🔍 Finding Cretaceous fish, turtle, and croc bones at Turtle Hill (w/ paleontologist Danny Anduza)",
+      "game": "IRL",
+      "started_at": "2026-06-06T19:59:42Z"
+    },
+    {
       "username": "TinyToxicTofu",
       "title": "Thank You So Much for 15 K Followers! 15 Hour Stream! 2-Point, Physics Experiments, Schrödinger's Cat Burglar and Mass Effect Legendary!",
       "game": "Mass Effect Legendary Edition",
       "started_at": "2026-06-06T08:31:20Z"
-    },
-    {
-      "username": "IrishJohnGames",
-      "title": "🍀 Bonus Rise of Piracy Development stream! Recap! | !rop !patreon !discord",
-      "game": "Software and Game Development",
-      "started_at": "2026-06-06T17:00:50Z"
     },
     {
       "username": "ArchitectureTV",
@@ -34,20 +34,20 @@
     {
       "username": "SydHeresy",
       "title": "Where Does Solder Go After We're Gone?",
-      "game": "Just Chatting",
+      "game": "Science & Technology",
       "started_at": "2026-06-06T19:00:35Z"
-    },
-    {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and suffering with PDEs, but the suffering is almost over",
-      "game": "Math",
-      "started_at": "2026-06-06T18:54:21Z"
     },
     {
       "username": "Rocketology",
       "title": "!chaosreign 'Shadow Company' Campaign, All DLC - y3028 [BIRTHDAY MONTH!]",
       "game": "MechWarrior 5: Mercenaries",
       "started_at": "2026-06-06T18:22:58Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and suffering with PDEs, but the suffering is almost over",
+      "game": "Math",
+      "started_at": "2026-06-06T18:54:21Z"
     }
   ]
 }
