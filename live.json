@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-06T20:50:08.997Z",
+  "timestamp": "2026-06-06T21:15:26.738Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,22 +32,28 @@
       "started_at": "2026-06-06T10:02:40Z"
     },
     {
+      "username": "AstroCanuck",
+      "title": "Week's End Catch-up: Space News and chill - !35 | !PGV | !drop !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-06-06T21:02:16Z"
+    },
+    {
       "username": "SydHeresy",
       "title": "Where Does Solder Go After We're Gone?",
       "game": "Science & Technology",
       "started_at": "2026-06-06T19:00:35Z"
     },
     {
-      "username": "Rocketology",
-      "title": "!chaosreign 'Shadow Company' Campaign, All DLC - y3028 [BIRTHDAY MONTH!]",
-      "game": "MechWarrior 5: Mercenaries",
-      "started_at": "2026-06-06T18:22:58Z"
-    },
-    {
       "username": "DonFactorial",
       "title": "Answering your math questions and suffering with PDEs, but the suffering is almost over",
       "game": "Math",
       "started_at": "2026-06-06T18:54:21Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "!chaosreign 'Shadow Company' Campaign, All DLC - y3028 [BIRTHDAY MONTH!]",
+      "game": "MechWarrior 5: Mercenaries",
+      "started_at": "2026-06-06T18:22:58Z"
     }
   ]
 }
