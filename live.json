@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-06-07T12:47:51.109Z",
+  "timestamp": "2026-06-07T13:19:50.644Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Alveus Subathon (Day 14 / 34+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
-      "started_at": "2026-06-05T13:00:10Z"
-    },
-    {
-      "username": "Zachap",
-      "title": "make me curious",
-      "game": "Just Chatting",
-      "started_at": "2026-06-07T10:03:50Z"
+      "started_at": "2026-06-07T13:00:12Z"
     },
     {
       "username": "TinyToxicTofu",
       "title": "Three Body Problem, Building my Tricorder Device and Playing Mass Effect Legendary 🕹️ !cnc !3dprinter !physics",
       "game": "Science & Technology",
       "started_at": "2026-06-07T12:45:37Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "make me curious",
+      "game": "Just Chatting",
+      "started_at": "2026-06-07T10:03:50Z"
     }
   ]
 }
