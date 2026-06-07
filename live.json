@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-07T00:15:06.084Z",
+  "timestamp": "2026-06-07T01:27:02.427Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -9,21 +9,27 @@
     },
     {
       "username": "AstroCanuck",
-      "title": "Week's End Catch-up: Space News and chill - !35 | !PGV | !drop !tkf",
+      "title": "Week's End Catch-up: Space News and chill | !PGV | !drop !tkf",
       "game": "Science & Technology",
       "started_at": "2026-06-06T21:02:16Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Where Does Solder Go After We're Gone?",
-      "game": "Science & Technology",
-      "started_at": "2026-06-06T19:00:35Z"
+      "username": "SciAnts_Streams",
+      "title": "🎈Birthday Stream pt 2🎈| Revisiting favorite game in Onimusha 3 w/PS2 hardware | Partner+ 48/300 | !ppp !yt !pod",
+      "game": "Retro",
+      "started_at": "2026-06-07T00:59:53Z"
     },
     {
       "username": "MelissaInDeNile",
       "title": "Beyond De Nile Lecture ~ Part 1 of Cities of Ancient Egypt!! ~ Follower Goal: 2367/2600 ~ !socials !beyonddenile",
       "game": "Just Chatting",
       "started_at": "2026-06-06T22:49:50Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Where Does Solder Go After We're Gone?",
+      "game": "Science & Technology",
+      "started_at": "2026-06-06T19:00:35Z"
     }
   ]
 }
