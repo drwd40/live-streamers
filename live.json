@@ -1,11 +1,23 @@
 {
-  "timestamp": "2026-06-08T14:52:46.796Z",
+  "timestamp": "2026-06-08T16:17:47.252Z",
   "live": [
+    {
+      "username": "Maya",
+      "title": "COFFEE & YAP⭐️☕️",
+      "game": "Just Chatting",
+      "started_at": "2026-06-08T15:30:42Z"
+    },
     {
       "username": "AlveusSanctuary",
       "title": "Alveus Subathon (Day 16 / 40+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
       "started_at": "2026-06-07T13:00:12Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "A NEW SUB-GAME! Top-down shooter (day 41)",
+      "game": "Software and Game Development",
+      "started_at": "2026-06-08T15:02:04Z"
     },
     {
       "username": "Zachap",
