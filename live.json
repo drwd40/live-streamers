@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-08T19:54:26.246Z",
+  "timestamp": "2026-06-08T20:40:55.355Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Care Chats | !alveus !institute !pixel !schedule !video",
+      "title": "Alveus Subathon (Day 16 / 40+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
       "started_at": "2026-06-07T13:00:12Z"
     },
@@ -12,6 +12,12 @@
       "title": "Quick car stream then Space News!",
       "game": "Science & Technology",
       "started_at": "2026-06-08T18:43:23Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "WYOMING FOSSIL DIG 🦴⛏️ Day 7 🐟🐢🐊 Finding bones, teeth, and scales of wetland creatures at Turtle Hill (w/ paleontologist Danny Anduza)",
+      "game": "IRL",
+      "started_at": "2026-06-08T20:01:04Z"
     },
     {
       "username": "DrawCuriosity",
@@ -30,6 +36,12 @@
       "title": "strikes is the only option, stop with your liberal nonsense or else. disagree? have the convo instead of staying a liberal.",
       "game": "Just Chatting",
       "started_at": "2026-06-08T10:01:06Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Animation tooling and top-down shootering (day 41½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-06-08T20:34:32Z"
     }
   ]
 }
