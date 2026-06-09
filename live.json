@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-09T20:58:14.367Z",
+  "timestamp": "2026-06-09T21:39:10.028Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,22 +32,10 @@
       "started_at": "2026-06-09T19:00:59Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 987: Language Design in Wolfram Language [Graphic Issues]",
-      "game": "Science & Technology",
-      "started_at": "2026-06-09T20:50:05Z"
-    },
-    {
-      "username": "pencenter",
-      "title": "Real Analysis Lesson #3 [(off) !fish🎣|!commands💻]",
-      "game": "Math",
-      "started_at": "2026-06-09T19:55:55Z"
-    },
-    {
-      "username": "xTalkProgrammer",
-      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
-      "game": "Just Chatting",
-      "started_at": "2026-06-09T20:02:27Z"
+      "username": "nSimplexPachinko",
+      "title": "Quick Colony Completion, then Starting Day 26: Shall we hunt an Achievement?",
+      "game": "Blue Prince",
+      "started_at": "2026-06-09T21:28:33Z"
     }
   ]
 }
