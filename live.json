@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-09T15:18:17.440Z",
+  "timestamp": "2026-06-09T16:17:35.007Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-06-09T14:54:59Z"
     },
     {
-      "username": "Zachap",
-      "title": "What society created, society can abolish. Ask a leftist anything.",
-      "game": "Politics",
-      "started_at": "2026-06-09T10:01:02Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "Rooty tooty point-n-shooty (day 42)",
       "game": "Software and Game Development",
       "started_at": "2026-06-09T15:03:02Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "What society created, society can abolish. Ask a leftist anything.",
+      "game": "Politics",
+      "started_at": "2026-06-09T10:01:02Z"
     }
   ]
 }
