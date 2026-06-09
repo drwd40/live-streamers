@@ -1,23 +1,11 @@
 {
-  "timestamp": "2026-06-09T00:03:10.757Z",
+  "timestamp": "2026-06-09T01:13:01.439Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Alveus Subathon (Day 16 / 40+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
       "started_at": "2026-06-07T13:00:12Z"
-    },
-    {
-      "username": "EJ_SA",
-      "title": "EJ's Space and Rocket Revue! 6/8/26",
-      "game": "Science & Technology",
-      "started_at": "2026-06-08T18:43:23Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "WYOMING FOSSIL DIG 🦴⛏️ Day 7 🐟🐢🐊 Finding bones, teeth, and scales of wetland creatures at Turtle Hill (w/ paleontologist Danny Anduza)",
-      "game": "IRL",
-      "started_at": "2026-06-08T20:01:04Z"
     },
     {
       "username": "imreallyimportant",
@@ -30,6 +18,18 @@
       "title": "strikes is the only option, stop with your liberal nonsense or else. disagree? have the convo instead of staying a liberal.",
       "game": "Just Chatting",
       "started_at": "2026-06-08T10:01:06Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "Microscopy Monday | Tiny worlds under the microscope + new microscopy techniques | Partner+ 75/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2026-06-09T00:59:41Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "How does ornamental corn get its color through genetics? What to do when you bite off more than you can chew.",
+      "game": "Science & Technology",
+      "started_at": "2026-06-09T00:31:11Z"
     }
   ]
 }
