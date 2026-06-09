@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-09T14:08:26.130Z",
+  "timestamp": "2026-06-09T15:18:17.440Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,22 @@
       "started_at": "2026-06-09T13:00:16Z"
     },
     {
+      "username": "EJ_SA",
+      "title": "EJ'S NASA ARTEMIS III CREW ANNOUNCEMENT COVERAGE! 6/9/26",
+      "game": "Science & Technology",
+      "started_at": "2026-06-09T14:54:59Z"
+    },
+    {
       "username": "Zachap",
       "title": "What society created, society can abolish. Ask a leftist anything.",
       "game": "Politics",
       "started_at": "2026-06-09T10:01:02Z"
     },
     {
-      "username": "csharpfritz",
-      "title": "Build, Components and Bourbon",
+      "username": "AdamLearnsLive",
+      "title": "Rooty tooty point-n-shooty (day 42)",
       "game": "Software and Game Development",
-      "started_at": "2026-06-09T12:57:41Z"
+      "started_at": "2026-06-09T15:03:02Z"
     }
   ]
 }
