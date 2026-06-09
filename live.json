@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-09T21:39:10.028Z",
+  "timestamp": "2026-06-09T22:13:24.576Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "Finishing the inner rocker patches! The Crew Cab Coronet (Part 52)",
       "game": "Science & Technology",
       "started_at": "2026-06-09T14:54:59Z"
+    },
+    {
+      "username": "imreallyimportant",
+      "title": "ELECTION NIGHT: PRIMARIES IN MAINE & MORE | LIB & LEAR @ 7 PM EST",
+      "game": "Just Chatting",
+      "started_at": "2026-06-09T21:49:43Z"
     },
     {
       "username": "DrawCuriosity",
@@ -32,9 +38,15 @@
       "started_at": "2026-06-09T19:00:59Z"
     },
     {
+      "username": "shnaff",
+      "title": "Guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-06-09T22:01:19Z"
+    },
+    {
       "username": "nSimplexPachinko",
       "title": "Quick Colony Completion, then Starting Day 26: Shall we hunt an Achievement?",
-      "game": "Blue Prince",
+      "game": "Elite: Dangerous",
       "started_at": "2026-06-09T21:28:33Z"
     }
   ]
