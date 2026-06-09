@@ -1,17 +1,23 @@
 {
-  "timestamp": "2026-06-09T12:16:31.512Z",
+  "timestamp": "2026-06-09T13:18:58.240Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Alveus Subathon (Day 16 / 39+) | !alveus !institute !pixel !schedule !video !subathon",
+      "title": "Alveus Subathon (Day 17 / 40+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Animals, Aquariums, and Zoos",
-      "started_at": "2026-06-07T13:00:12Z"
+      "started_at": "2026-06-09T13:00:16Z"
     },
     {
       "username": "Zachap",
       "title": "What society created, society can abolish. Ask a leftist anything.",
       "game": "Politics",
       "started_at": "2026-06-09T10:01:02Z"
+    },
+    {
+      "username": "csharpfritz",
+      "title": "Build, Components and Bourbon",
+      "game": "Software and Game Development",
+      "started_at": "2026-06-09T12:57:41Z"
     }
   ]
 }
