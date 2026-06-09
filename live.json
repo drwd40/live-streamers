@@ -1,11 +1,17 @@
 {
-  "timestamp": "2026-06-09T08:42:54.671Z",
+  "timestamp": "2026-06-09T10:02:32.513Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Alveus Subathon (Day 16 / 40+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
       "started_at": "2026-06-07T13:00:12Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "What society created, society can abolish.",
+      "game": "Politics",
+      "started_at": "2026-06-09T10:01:02Z"
     }
   ]
 }
