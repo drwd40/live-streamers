@@ -1,12 +1,6 @@
 {
-  "timestamp": "2026-06-09T19:26:42.199Z",
+  "timestamp": "2026-06-09T20:14:49.648Z",
   "live": [
-    {
-      "username": "Maya",
-      "title": "Zelina Vega Tours @Alveussanctuary",
-      "game": "Just Chatting",
-      "started_at": "2026-06-09T17:11:42Z"
-    },
     {
       "username": "AlveusSanctuary",
       "title": "Alveus Subathon (Day 17 / 40+) | !alveus !institute !pixel !schedule !video !subathon",
@@ -15,7 +9,7 @@
     },
     {
       "username": "EJ_SA",
-      "title": "EJ'S NASA ARTEMIS III CREW ANNOUNCEMENT COVERAGE! 6/9/26",
+      "title": "Finishing the inner rocker patches! The Crew Cab Coronet (Part 52)",
       "game": "Science & Technology",
       "started_at": "2026-06-09T14:54:59Z"
     },
@@ -24,6 +18,12 @@
       "title": "📍[PARTNER PUSH] IRL STREAM WITH @Nerduino at DESCANSO GARDENS! // EVERY RAID = $2 to World Climate Relay charity! 👀 ✨🐑",
       "game": "IRL",
       "started_at": "2026-06-09T19:14:22Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 986: Language Design in Wolfram Language [Wolfram Financial Framework]",
+      "game": "Science & Technology",
+      "started_at": "2026-06-09T19:49:43Z"
     },
     {
       "username": "Zachap",
@@ -36,6 +36,18 @@
       "title": "Just Some More Soldering And Electronics",
       "game": "Science & Technology",
       "started_at": "2026-06-09T19:00:59Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "Real Analysis Lesson #3 [(off) !fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-06-09T19:55:55Z"
+    },
+    {
+      "username": "xTalkProgrammer",
+      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
+      "game": "Just Chatting",
+      "started_at": "2026-06-09T20:02:27Z"
     }
   ]
 }
