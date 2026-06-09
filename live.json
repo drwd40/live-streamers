@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-09T20:14:49.648Z",
+  "timestamp": "2026-06-09T20:58:14.367Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,12 +20,6 @@
       "started_at": "2026-06-09T19:14:22Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 986: Language Design in Wolfram Language [Wolfram Financial Framework]",
-      "game": "Science & Technology",
-      "started_at": "2026-06-09T19:49:43Z"
-    },
-    {
       "username": "Zachap",
       "title": "What society created, society can abolish. Ask a leftist anything.",
       "game": "Politics",
@@ -36,6 +30,12 @@
       "title": "Just Some More Soldering And Electronics",
       "game": "Science & Technology",
       "started_at": "2026-06-09T19:00:59Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 987: Language Design in Wolfram Language [Graphic Issues]",
+      "game": "Science & Technology",
+      "started_at": "2026-06-09T20:50:05Z"
     },
     {
       "username": "pencenter",
