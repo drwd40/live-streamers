@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-10T00:19:56.062Z",
+  "timestamp": "2026-06-10T01:24:13.107Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,28 @@
       "started_at": "2026-06-09T21:49:43Z"
     },
     {
-      "username": "shnaff",
-      "title": "Guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-06-09T22:01:19Z"
-    },
-    {
       "username": "AstroCanuck",
       "title": "Space News: Artemis III Crew Reveal (I haven't watched yet) | !PGV !giveaway | !drop !tkf",
       "game": "Science & Technology",
       "started_at": "2026-06-10T00:00:22Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "Tinker Tuesday | New microscopy techniques + model builds | Partner+ 80/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2026-06-10T01:13:33Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "NASA's Artemis III update - Crew announced!    Space and Earth science news with a former NASA guy. #NASA #science #space #stem",
+      "game": "Science & Technology",
+      "started_at": "2026-06-10T00:50:37Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Happy TOOTHday! | Combating shark misinformation with science! | !charity",
+      "game": "Science & Technology",
+      "started_at": "2026-06-10T00:16:18Z"
     },
     {
       "username": "SydHeresy",
@@ -32,16 +44,16 @@
       "started_at": "2026-06-09T19:00:59Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "Quick Colony Completion, then Starting Day 28: Shall we hunt an Achievement?",
-      "game": "Blue Prince",
-      "started_at": "2026-06-09T21:28:33Z"
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-06-10T00:22:05Z"
     },
     {
-      "username": "SharkG33k",
-      "title": "Happy TOOTHday! | Combating shark misinformation with science! | !charity",
-      "game": "Science & Technology",
-      "started_at": "2026-06-10T00:16:18Z"
+      "username": "Mr_Aejis",
+      "title": "Who is this gamer girl now? Persona 5 1st time playthru",
+      "game": "Persona 5 Royal",
+      "started_at": "2026-06-10T00:29:53Z"
     }
   ]
 }
