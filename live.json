@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-10T18:03:21.491Z",
+  "timestamp": "2026-06-10T19:07:17.216Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,22 +14,28 @@
       "started_at": "2026-06-10T16:28:42Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Game development in Godot (day 43)",
-      "game": "Software and Game Development",
-      "started_at": "2026-06-10T15:00:45Z"
-    },
-    {
       "username": "Zachap",
       "title": "\"socialism in one country\"? just call yourself a liberal that depends on class-collaborationism and doesnt care about workers.",
       "game": "Politics",
       "started_at": "2026-06-10T10:04:26Z"
     },
     {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 988: Language Design in Wolfram Language [SimplifyList, BasicSimplify and more]",
+      "game": "Science & Technology",
+      "started_at": "2026-06-10T18:13:10Z"
+    },
+    {
       "username": "CosmoQuestX",
       "title": "Astronomy Cast 797: Summer Space Events (while we're on hiatus)",
       "game": "Talk Shows & Podcasts",
       "started_at": "2026-06-10T18:01:39Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀 Update 45 dropped! Rise of Piracy Development stream! | !rop !patreon !discord",
+      "game": "Software and Game Development",
+      "started_at": "2026-06-10T19:00:29Z"
     }
   ]
 }
