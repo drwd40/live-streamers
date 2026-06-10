@@ -1,11 +1,17 @@
 {
-  "timestamp": "2026-06-10T15:54:51.506Z",
+  "timestamp": "2026-06-10T16:58:31.515Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Alveus Subathon (Day 18 / 41+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-06-09T13:00:16Z"
+    },
+    {
+      "username": "Kitboga",
+      "title": "Forcing Scammers to Watch Infinite Ads [Ep. 1533]",
+      "game": "Just Chatting",
+      "started_at": "2026-06-10T16:28:42Z"
     },
     {
       "username": "AdamLearnsLive",
@@ -18,6 +24,12 @@
       "title": "\"socialism in one country\"? just call yourself a liberal that depends on class-collaborationism and doesnt care about workers.",
       "game": "Politics",
       "started_at": "2026-06-10T10:04:26Z"
+    },
+    {
+      "username": "TimberAnew",
+      "title": "The Sifu diet",
+      "game": "SIFU",
+      "started_at": "2026-06-10T16:56:24Z"
     }
   ]
 }
