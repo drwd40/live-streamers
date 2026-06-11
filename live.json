@@ -1,29 +1,11 @@
 {
-  "timestamp": "2026-06-11T01:21:35.960Z",
+  "timestamp": "2026-06-11T02:10:59.455Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Alveus Subathon (Day 18 / 41+) | !alveus !institute !pixel !schedule !video !subathon",
+      "title": "Chat Chats w/ Evan | !alveus !institute !pixel !schedule !video",
       "game": "Just Chatting",
       "started_at": "2026-06-09T13:00:16Z"
-    },
-    {
-      "username": "imreallyimportant",
-      "title": "GRAHAM PLATNER SECURES THE DEM NOMINATION | \"I LOVE THE INFLATION\" - TRUMP",
-      "game": "Just Chatting",
-      "started_at": "2026-06-10T21:49:51Z"
-    },
-    {
-      "username": "SharkG33k",
-      "title": "Water Wednesday! 🌊 | New drone footage of rays! | New Smyrna Beach Dunes Park 360 video | !charity",
-      "game": "Science & Technology",
-      "started_at": "2026-06-11T00:00:13Z"
-    },
-    {
-      "username": "SciAnts_Streams",
-      "title": "Wacom Wednesday | Science art and science rabbit holes galore! | Partner+ 89/300 | !ppp !yt !pod",
-      "game": "Science & Technology",
-      "started_at": "2026-06-11T01:00:32Z"
     },
     {
       "username": "DrawCuriosity",
@@ -32,10 +14,28 @@
       "started_at": "2026-06-10T20:49:25Z"
     },
     {
+      "username": "SciAnts_Streams",
+      "title": "Wacom Wednesday | Science art and science rabbit holes galore! | Partner+ 89/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2026-06-11T01:00:32Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Water Wednesday! 🌊 | New drone footage of rays! | New Smyrna Beach Dunes Park 360 video | !charity",
+      "game": "Science & Technology",
+      "started_at": "2026-06-11T00:00:13Z"
+    },
+    {
       "username": "Ask_a_Scientist_Gaming",
       "title": "Dr. Deanna Barath- Public Health, and Super Mario Bros.",
       "game": "Science & Technology",
       "started_at": "2026-06-10T23:57:32Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "The psychology of phone scams, alternatives to turf lawns, and GLP-1 agonist nonresponders.",
+      "game": "Science & Technology",
+      "started_at": "2026-06-11T01:32:11Z"
     }
   ]
 }
