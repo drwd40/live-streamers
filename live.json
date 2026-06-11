@@ -1,11 +1,17 @@
 {
-  "timestamp": "2026-06-11T14:05:51.011Z",
+  "timestamp": "2026-06-11T15:21:02.436Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Alveus Subathon (Day 18 / 41+) | !alveus !institute !pixel !schedule !video !subathon",
+      "title": "Alveus Subathon (Day 19 / 41+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
       "started_at": "2026-06-11T13:00:02Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "Starlink 17-44! The Last Private SpaceX Launch!",
+      "game": "Science & Technology",
+      "started_at": "2026-06-11T15:01:59Z"
     },
     {
       "username": "csharpfritz",
@@ -18,6 +24,12 @@
       "title": "learning about stuff is better",
       "game": "Politics",
       "started_at": "2026-06-11T10:05:19Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Music Day! Let's improv some game music (day 44)",
+      "game": "Software and Game Development",
+      "started_at": "2026-06-11T15:10:16Z"
     }
   ]
 }
