@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-11T17:52:09.521Z",
+  "timestamp": "2026-06-11T18:51:37.135Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Alveus Subathon (Day 19 / 41+) | !alveus !institute !pixel !schedule !video !subathon",
+      "title": "Projects w/ FAID | !alveus !institute !pixel !schedule !video",
       "game": "Just Chatting",
       "started_at": "2026-06-11T13:00:02Z"
     },
@@ -20,22 +20,28 @@
       "started_at": "2026-06-11T15:01:59Z"
     },
     {
+      "username": "oh_bother",
+      "title": "The good technique, how I 3d print, label and skin modular synth... modules. #autocadad",
+      "game": "Science & Technology",
+      "started_at": "2026-06-11T16:31:37Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "Minecraft Science | Building and chatting structural biology | Partner+ 104/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2026-06-11T18:30:36Z"
+    },
+    {
       "username": "Zachap",
       "title": "learning about stuff is better",
       "game": "Politics",
       "started_at": "2026-06-11T10:05:19Z"
     },
     {
-      "username": "Nerduino",
-      "title": "Mini's 10 mile ride for World Climate Relay . #NASA #science #space #stem #charity",
-      "game": "IRL",
-      "started_at": "2026-06-11T17:18:10Z"
-    },
-    {
-      "username": "oh_bother",
-      "title": "The good technique, how I 3d print, label and skin modular synth... modules. #autocadad",
-      "game": "Science & Technology",
-      "started_at": "2026-06-11T16:31:37Z"
+      "username": "DrAlexanderClarke",
+      "title": "Could the US Navy have kept the Oliver Hazard Perry's in service for longer?",
+      "game": "Just Chatting",
+      "started_at": "2026-06-11T18:47:06Z"
     }
   ]
 }
