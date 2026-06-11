@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-11T19:45:39.580Z",
+  "timestamp": "2026-06-11T20:36:02.114Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,10 +8,10 @@
       "started_at": "2026-06-11T13:00:02Z"
     },
     {
-      "username": "Kitboga",
-      "title": "Making Scammers Angry [Ep. 1534]",
-      "game": "Just Chatting",
-      "started_at": "2026-06-11T16:23:01Z"
+      "username": "Paleontologizing",
+      "title": "🦖 WYOMING DINOSAUR DIG 🪨⛏️ Day 10  🦴  Bones of armored & duckbill dinosaurs & more at ankylosaur site (w/ paleontologist Danny Anduza)",
+      "game": "IRL",
+      "started_at": "2026-06-11T20:00:13Z"
     },
     {
       "username": "EJ_SA",
@@ -26,10 +26,10 @@
       "started_at": "2026-06-11T18:30:36Z"
     },
     {
-      "username": "Zachap",
-      "title": "learning about stuff is better",
-      "game": "Politics",
-      "started_at": "2026-06-11T10:05:19Z"
+      "username": "DrMick",
+      "title": "Mental Health Chat + Painting 40k",
+      "game": "Miniatures & Models",
+      "started_at": "2026-06-11T19:02:39Z"
     },
     {
       "username": "oh_bother",
@@ -38,16 +38,34 @@
       "started_at": "2026-06-11T16:31:37Z"
     },
     {
-      "username": "DrMick",
-      "title": "Mental Health Chat + Painting 40k",
-      "game": "Miniatures & Models",
-      "started_at": "2026-06-11T19:02:39Z"
+      "username": "Zachap",
+      "title": "learning about stuff is better",
+      "game": "Politics",
+      "started_at": "2026-06-11T10:05:19Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Games between Programs: The Ruliology of Competition",
+      "game": "Science & Technology",
+      "started_at": "2026-06-11T19:52:24Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "Real Analysis Lesson #4 [(off) !fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-06-11T19:57:49Z"
     },
     {
       "username": "DrAlexanderClarke",
       "title": "Could the US Navy have kept the Oliver Hazard Perry's in service for longer?",
       "game": "Just Chatting",
       "started_at": "2026-06-11T18:47:06Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Lets put some 12 gauge strings on this guitar  | !charity",
+      "game": "Just Chatting",
+      "started_at": "2026-06-11T20:07:17Z"
     }
   ]
 }
