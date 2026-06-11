@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-11T20:36:02.114Z",
+  "timestamp": "2026-06-11T21:27:52.683Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Projects w/ FAID | !alveus !institute !pixel !schedule !video",
+      "title": "Alveus Subathon (Day 19 / 41+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
       "started_at": "2026-06-11T13:00:02Z"
     },
@@ -15,8 +15,8 @@
     },
     {
       "username": "EJ_SA",
-      "title": "Haven't played in a bit. Figuring out where we left off! Factorio (Part 23)",
-      "game": "Factorio",
+      "title": "EJ's Space and Rocket Revue! 6/11/26",
+      "game": "Science & Technology",
       "started_at": "2026-06-11T15:01:59Z"
     },
     {
@@ -32,40 +32,22 @@
       "started_at": "2026-06-11T19:02:39Z"
     },
     {
-      "username": "oh_bother",
-      "title": "The good technique, how I 3d print, label and skin modular synth... modules. #autocadad",
-      "game": "Science & Technology",
-      "started_at": "2026-06-11T16:31:37Z"
-    },
-    {
       "username": "Zachap",
       "title": "learning about stuff is better",
       "game": "Politics",
       "started_at": "2026-06-11T10:05:19Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Games between Programs: The Ruliology of Competition",
-      "game": "Science & Technology",
-      "started_at": "2026-06-11T19:52:24Z"
-    },
-    {
-      "username": "pencenter",
-      "title": "Real Analysis Lesson #4 [(off) !fish🎣|!commands💻]",
-      "game": "Math",
-      "started_at": "2026-06-11T19:57:49Z"
-    },
-    {
-      "username": "DrAlexanderClarke",
-      "title": "Could the US Navy have kept the Oliver Hazard Perry's in service for longer?",
-      "game": "Just Chatting",
-      "started_at": "2026-06-11T18:47:06Z"
-    },
-    {
       "username": "SharkG33k",
       "title": "Lets put some 12 gauge strings on this guitar  | !charity",
       "game": "Just Chatting",
       "started_at": "2026-06-11T20:07:17Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Namalsk coast locked POV",
+      "game": "DayZ",
+      "started_at": "2026-06-11T21:23:22Z"
     }
   ]
 }
