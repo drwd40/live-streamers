@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-11T23:24:39.111Z",
+  "timestamp": "2026-06-11T23:58:48.300Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -9,8 +9,8 @@
     },
     {
       "username": "SciAnts_Streams",
-      "title": "Minecraft Science | Building and chatting structural biology | Partner+ 104/300 | !ppp !yt !pod",
-      "game": "Science & Technology",
+      "title": "Minecraft Science |  @onlythomwilltell @tergus86 @darkmuppeteer @sharkg33k @mister__brain | Partner+ 104/300 | !ppp !yt !pod",
+      "game": "Minecraft",
       "started_at": "2026-06-11T18:30:36Z"
     },
     {
@@ -20,22 +20,16 @@
       "started_at": "2026-06-11T22:19:34Z"
     },
     {
-      "username": "Zachap",
-      "title": "learning about stuff is better",
-      "game": "Politics",
-      "started_at": "2026-06-11T10:05:19Z"
+      "username": "DonFactorial",
+      "title": "Namalsk coast locked POV",
+      "game": "DayZ",
+      "started_at": "2026-06-11T21:23:22Z"
     },
     {
       "username": "SharkG33k",
       "title": "Lets put some 12 gauge strings on this guitar  | !charity",
       "game": "Just Chatting",
       "started_at": "2026-06-11T20:07:17Z"
-    },
-    {
-      "username": "DonFactorial",
-      "title": "Namalsk coast locked POV",
-      "game": "DayZ",
-      "started_at": "2026-06-11T21:23:22Z"
     }
   ]
 }
