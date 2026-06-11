@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-11T21:27:52.683Z",
+  "timestamp": "2026-06-11T22:12:57.536Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,6 +20,12 @@
       "started_at": "2026-06-11T15:01:59Z"
     },
     {
+      "username": "Zachap",
+      "title": "learning about stuff is better",
+      "game": "Politics",
+      "started_at": "2026-06-11T10:05:19Z"
+    },
+    {
       "username": "SciAnts_Streams",
       "title": "Minecraft Science | Building and chatting structural biology | Partner+ 104/300 | !ppp !yt !pod",
       "game": "Science & Technology",
@@ -30,12 +36,6 @@
       "title": "Mental Health Chat + Painting 40k",
       "game": "Miniatures & Models",
       "started_at": "2026-06-11T19:02:39Z"
-    },
-    {
-      "username": "Zachap",
-      "title": "learning about stuff is better",
-      "game": "Politics",
-      "started_at": "2026-06-11T10:05:19Z"
     },
     {
       "username": "SharkG33k",
