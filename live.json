@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-12T17:29:42.931Z",
+  "timestamp": "2026-06-12T18:17:22.249Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Alveus Subathon (Day 20 / 41+) | !alveus !institute !pixel !schedule !video !subathon",
+      "title": "Show and Tell | !alveus !institute !pixel !schedule !video",
       "game": "Just Chatting",
       "started_at": "2026-06-11T13:00:02Z"
     },
@@ -32,16 +32,22 @@
       "started_at": "2026-06-12T15:03:39Z"
     },
     {
-      "username": "TimberAnew",
-      "title": "I got some beefu with sifu",
-      "game": "SIFU",
-      "started_at": "2026-06-12T17:02:59Z"
-    },
-    {
       "username": "oh_bother",
       "title": "Fixin up an mc-505 groovebox!",
       "game": "Science & Technology",
       "started_at": "2026-06-12T17:28:46Z"
+    },
+    {
+      "username": "CosmoQuestX",
+      "title": "After Hours with !guest Dr Chanda Prescod-Weinstein, author of \"The Edge of Space-Time\"",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2026-06-12T17:56:14Z"
+    },
+    {
+      "username": "TimberAnew",
+      "title": "I got some beefu with sifu",
+      "game": "SIFU",
+      "started_at": "2026-06-12T17:02:59Z"
     }
   ]
 }
