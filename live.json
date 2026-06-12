@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-12T21:10:20.463Z",
+  "timestamp": "2026-06-12T21:50:59.613Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,12 +20,6 @@
       "started_at": "2026-06-12T21:05:16Z"
     },
     {
-      "username": "LumiRue",
-      "title": "Dressing Up for Pride + Coming Out Stories | HAPPY PRIDE | Baltimore Pride Sunday and then DC Pride the Next",
-      "game": "Just Chatting",
-      "started_at": "2026-06-12T16:21:14Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "Prepping a video on localization",
       "game": "Software and Game Development",
@@ -38,22 +32,34 @@
       "started_at": "2026-06-12T20:15:49Z"
     },
     {
-      "username": "SharkG33k",
-      "title": "[18] I'm sick. Let's kick it. | I might be getting older tomorrow. | !charity",
-      "game": "Just Chatting",
-      "started_at": "2026-06-12T19:31:07Z"
-    },
-    {
       "username": "Rocketology",
       "title": "Modded Kerbal Career - Full Recovery Aircraft Build [BIRTHDAY MONTH!]",
       "game": "Kerbal Space Program",
       "started_at": "2026-06-12T18:59:07Z"
     },
     {
+      "username": "SharkG33k",
+      "title": "[18] I'm sick. Let's kick it. | I might be getting older tomorrow. | !charity",
+      "game": "Just Chatting",
+      "started_at": "2026-06-12T19:31:07Z"
+    },
+    {
       "username": "GeoJim2006",
       "title": "Mostly Minerals? Sorting & Labeling the collection at Northern Virginia Community College ⛰️⚒️🪨🔎🔬 !discord !nova !tkf",
       "game": "Science & Technology",
       "started_at": "2026-06-12T20:02:48Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Exploring the New Zone: Act I; Night 008; Baldur's Gate 3 - 20260612",
+      "game": "Baldur's Gate 3",
+      "started_at": "2026-06-12T21:23:25Z"
+    },
+    {
+      "username": "imreallyimportant",
+      "title": "TRUMP AND IRAN SAY A DEAL IS CLOSE | DESTINY/TIM MILLER CONVO",
+      "game": "Just Chatting",
+      "started_at": "2026-06-12T21:49:38Z"
     }
   ]
 }
