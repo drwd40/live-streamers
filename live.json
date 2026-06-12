@@ -1,11 +1,17 @@
 {
-  "timestamp": "2026-06-12T18:17:22.249Z",
+  "timestamp": "2026-06-12T19:02:52.966Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Show and Tell | !alveus !institute !pixel !schedule !video",
       "game": "Just Chatting",
       "started_at": "2026-06-11T13:00:02Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "EJ's Space and Rocket Revue! 6/12/26",
+      "game": "Science & Technology",
+      "started_at": "2026-06-12T18:17:54Z"
     },
     {
       "username": "AdamLearnsLive",
@@ -44,10 +50,10 @@
       "started_at": "2026-06-12T17:56:14Z"
     },
     {
-      "username": "TimberAnew",
-      "title": "I got some beefu with sifu",
-      "game": "SIFU",
-      "started_at": "2026-06-12T17:02:59Z"
+      "username": "Rocketology",
+      "title": "Modded Kerbal Career - Full Recovery Aircraft Build [BIRTHDAY MONTH!]",
+      "game": "Kerbal Space Program",
+      "started_at": "2026-06-12T18:59:07Z"
     }
   ]
 }
