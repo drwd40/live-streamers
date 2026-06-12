@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-12T20:32:07.617Z",
+  "timestamp": "2026-06-12T21:10:20.463Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,6 +14,12 @@
       "started_at": "2026-06-12T19:59:56Z"
     },
     {
+      "username": "EJ_SA",
+      "title": "NSF - 100 EPISODES OF TFT! THE FLAME TRENCH 6/12/26",
+      "game": "Science & Technology",
+      "started_at": "2026-06-12T21:05:16Z"
+    },
+    {
       "username": "LumiRue",
       "title": "Dressing Up for Pride + Coming Out Stories | HAPPY PRIDE | Baltimore Pride Sunday and then DC Pride the Next",
       "game": "Just Chatting",
@@ -26,16 +32,10 @@
       "started_at": "2026-06-12T20:04:15Z"
     },
     {
-      "username": "Nerduino",
-      "title": "World Climate Relay Charity Ride   #NASA #science #space #stem #charity #teamstream",
-      "game": "IRL",
-      "started_at": "2026-06-12T15:03:39Z"
-    },
-    {
-      "username": "Stephen_Wolfram",
-      "title": "Future of Science and Technology Q&A (June 12, 2026)",
-      "game": "Science & Technology",
-      "started_at": "2026-06-12T19:43:29Z"
+      "username": "IrishJohnGames",
+      "title": "🍀 Update 45 dropped! Rise of Piracy Development stream! | !rop !patreon !discord",
+      "game": "Software and Game Development",
+      "started_at": "2026-06-12T20:15:49Z"
     },
     {
       "username": "SharkG33k",
@@ -48,12 +48,6 @@
       "title": "Modded Kerbal Career - Full Recovery Aircraft Build [BIRTHDAY MONTH!]",
       "game": "Kerbal Space Program",
       "started_at": "2026-06-12T18:59:07Z"
-    },
-    {
-      "username": "IrishJohnGames",
-      "title": "🍀 Update 45 dropped! Rise of Piracy Development stream! | !rop !patreon !discord",
-      "game": "Software and Game Development",
-      "started_at": "2026-06-12T20:15:49Z"
     },
     {
       "username": "GeoJim2006",
