@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-11T23:58:48.300Z",
+  "timestamp": "2026-06-12T01:22:23.431Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,28 @@
       "started_at": "2026-06-11T22:19:34Z"
     },
     {
+      "username": "AstroCanuck",
+      "title": "Astro's Po'Pourri: LEGO Mars Explorer & Space Chat | !PGV !giveaway | !drop !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-06-12T00:02:04Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Thursday night science chit chat with a former NASA guy.   #NASA #science #space #stem #charity #teamstream",
+      "game": "IRL",
+      "started_at": "2026-06-12T00:53:45Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Minecraft biology with @sciants_streams and @tergus86 @mister__brain | !charity",
+      "game": "Minecraft",
+      "started_at": "2026-06-11T20:07:17Z"
+    },
+    {
       "username": "DonFactorial",
       "title": "Namalsk coast locked POV",
       "game": "DayZ",
       "started_at": "2026-06-11T21:23:22Z"
-    },
-    {
-      "username": "SharkG33k",
-      "title": "Lets put some 12 gauge strings on this guitar  | !charity",
-      "game": "Just Chatting",
-      "started_at": "2026-06-11T20:07:17Z"
     }
   ]
 }
