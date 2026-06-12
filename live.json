@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-12T22:55:44.726Z",
+  "timestamp": "2026-06-12T23:29:00.316Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,28 +8,16 @@
       "started_at": "2026-06-11T13:00:02Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "🦕 WYOMING DINOSAUR DIG 🪨 Day 11  🦴 Excavating a horned dinosaur ⛏️ Last full stream from WY 🤯 Subscriber-only DinoFest streams 2morrow",
-      "game": "IRL",
-      "started_at": "2026-06-12T19:59:56Z"
-    },
-    {
       "username": "EJ_SA",
       "title": "NSF - 100 EPISODES OF TFT! THE FLAME TRENCH 6/12/26",
       "game": "Science & Technology",
       "started_at": "2026-06-12T21:05:16Z"
     },
     {
-      "username": "imreallyimportant",
-      "title": "TRUMP AND IRAN SAY A DEAL IS CLOSE | DESTINY/TIM MILLER CONVO",
-      "game": "Just Chatting",
-      "started_at": "2026-06-12T21:49:38Z"
-    },
-    {
-      "username": "AdamLearnsLive",
-      "title": "Prepping a video on localization",
-      "game": "Software and Game Development",
-      "started_at": "2026-06-12T20:04:15Z"
+      "username": "JapanesePrintmaking",
+      "title": "Making Japanese woodblock prints ... live while you watch ...",
+      "game": "Makers & Crafting",
+      "started_at": "2026-06-12T22:59:56Z"
     },
     {
       "username": "DrawCuriosity",
@@ -38,22 +26,34 @@
       "started_at": "2026-06-12T22:43:39Z"
     },
     {
+      "username": "imreallyimportant",
+      "title": "TRUMP AND IRAN SAY A DEAL IS CLOSE | DESTINY/TIM MILLER CONVO",
+      "game": "Just Chatting",
+      "started_at": "2026-06-12T21:49:38Z"
+    },
+    {
+      "username": "AstroCanuck",
+      "title": "Astro's Po'Pourri: LEGO Mars Explorer & Space Chat | !nails | !PGV !giveaway | !drop !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-06-12T23:11:37Z"
+    },
+    {
       "username": "shnaff",
       "title": "Guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2026-06-12T22:01:22Z"
     },
     {
-      "username": "GeoJim2006",
-      "title": "Mostly Minerals? Sorting & Labeling the collection at Northern Virginia Community College ⛰️⚒️🪨🔎🔬 !discord !nova !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-06-12T20:02:48Z"
-    },
-    {
       "username": "SharkG33k",
       "title": "[18] I'm sick. Let's kick it. | I might be getting older tomorrow. | !charity",
       "game": "Just Chatting",
       "started_at": "2026-06-12T19:31:07Z"
+    },
+    {
+      "username": "GeoJim2006",
+      "title": "Mostly Minerals? Sorting & Labeling the collection at Northern Virginia Community College ⛰️⚒️🪨🔎🔬 !discord !nova !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-06-12T20:02:48Z"
     },
     {
       "username": "nSimplexPachinko",
