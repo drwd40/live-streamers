@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-12T19:46:03.004Z",
+  "timestamp": "2026-06-12T20:32:07.617Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,10 +8,22 @@
       "started_at": "2026-06-11T13:00:02Z"
     },
     {
+      "username": "Paleontologizing",
+      "title": "🦕 WYOMING DINOSAUR DIG 🪨 Day 11  🦴 Excavating a horned dinosaur ⛏️ Last full stream from WY 🤯 Subscriber-only DinoFest streams 2morrow",
+      "game": "IRL",
+      "started_at": "2026-06-12T19:59:56Z"
+    },
+    {
       "username": "LumiRue",
       "title": "Dressing Up for Pride + Coming Out Stories | HAPPY PRIDE | Baltimore Pride Sunday and then DC Pride the Next",
       "game": "Just Chatting",
       "started_at": "2026-06-12T16:21:14Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Prepping a video on localization",
+      "game": "Software and Game Development",
+      "started_at": "2026-06-12T20:04:15Z"
     },
     {
       "username": "Nerduino",
@@ -20,16 +32,16 @@
       "started_at": "2026-06-12T15:03:39Z"
     },
     {
-      "username": "Zachap",
-      "title": "this society was never democratic in the first place.",
-      "game": "Politics",
-      "started_at": "2026-06-12T10:02:20Z"
+      "username": "Stephen_Wolfram",
+      "title": "Future of Science and Technology Q&A (June 12, 2026)",
+      "game": "Science & Technology",
+      "started_at": "2026-06-12T19:43:29Z"
     },
     {
-      "username": "oh_bother",
-      "title": "Fixin up an mc-505 groovebox!",
-      "game": "Science & Technology",
-      "started_at": "2026-06-12T17:28:46Z"
+      "username": "SharkG33k",
+      "title": "[18] I'm sick. Let's kick it. | I might be getting older tomorrow. | !charity",
+      "game": "Just Chatting",
+      "started_at": "2026-06-12T19:31:07Z"
     },
     {
       "username": "Rocketology",
@@ -38,22 +50,16 @@
       "started_at": "2026-06-12T18:59:07Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Future of Science and Technology Q&A (June 12, 2026)",
-      "game": "Science & Technology",
-      "started_at": "2026-06-12T19:43:29Z"
+      "username": "IrishJohnGames",
+      "title": "🍀 Update 45 dropped! Rise of Piracy Development stream! | !rop !patreon !discord",
+      "game": "Software and Game Development",
+      "started_at": "2026-06-12T20:15:49Z"
     },
     {
       "username": "GeoJim2006",
       "title": "Mostly Minerals? Sorting & Labeling the collection at Northern Virginia Community College ⛰️⚒️🪨🔎🔬 !discord !nova !tkf",
       "game": "Science & Technology",
-      "started_at": "2026-06-12T19:42:18Z"
-    },
-    {
-      "username": "SharkG33k",
-      "title": "I'm sick. Let's kick it. | I might be getting older tomorrow. | !charity",
-      "game": "Just Chatting",
-      "started_at": "2026-06-12T19:31:07Z"
+      "started_at": "2026-06-12T20:02:48Z"
     }
   ]
 }
