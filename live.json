@@ -1,23 +1,11 @@
 {
-  "timestamp": "2026-06-12T19:02:52.966Z",
+  "timestamp": "2026-06-12T19:46:03.004Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Show and Tell | !alveus !institute !pixel !schedule !video",
+      "title": "Alveus Subathon (Day 20 / 41+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
       "started_at": "2026-06-11T13:00:02Z"
-    },
-    {
-      "username": "EJ_SA",
-      "title": "EJ's Space and Rocket Revue! 6/12/26",
-      "game": "Science & Technology",
-      "started_at": "2026-06-12T18:17:54Z"
-    },
-    {
-      "username": "AdamLearnsLive",
-      "title": "Adding a sprinkle of FUN (day 45)",
-      "game": "Software and Game Development",
-      "started_at": "2026-06-12T14:51:50Z"
     },
     {
       "username": "LumiRue",
@@ -26,16 +14,16 @@
       "started_at": "2026-06-12T16:21:14Z"
     },
     {
-      "username": "Zachap",
-      "title": "this society was never democratic in the first place.",
-      "game": "Politics",
-      "started_at": "2026-06-12T10:02:20Z"
-    },
-    {
       "username": "Nerduino",
       "title": "World Climate Relay Charity Ride   #NASA #science #space #stem #charity #teamstream",
       "game": "IRL",
       "started_at": "2026-06-12T15:03:39Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "this society was never democratic in the first place.",
+      "game": "Politics",
+      "started_at": "2026-06-12T10:02:20Z"
     },
     {
       "username": "oh_bother",
@@ -44,16 +32,28 @@
       "started_at": "2026-06-12T17:28:46Z"
     },
     {
-      "username": "CosmoQuestX",
-      "title": "After Hours with !guest Dr Chanda Prescod-Weinstein, author of \"The Edge of Space-Time\"",
-      "game": "Talk Shows & Podcasts",
-      "started_at": "2026-06-12T17:56:14Z"
-    },
-    {
       "username": "Rocketology",
       "title": "Modded Kerbal Career - Full Recovery Aircraft Build [BIRTHDAY MONTH!]",
       "game": "Kerbal Space Program",
       "started_at": "2026-06-12T18:59:07Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Future of Science and Technology Q&A (June 12, 2026)",
+      "game": "Science & Technology",
+      "started_at": "2026-06-12T19:43:29Z"
+    },
+    {
+      "username": "GeoJim2006",
+      "title": "Mostly Minerals? Sorting & Labeling the collection at Northern Virginia Community College ⛰️⚒️🪨🔎🔬 !discord !nova !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-06-12T19:42:18Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "I'm sick. Let's kick it. | I might be getting older tomorrow. | !charity",
+      "game": "Just Chatting",
+      "started_at": "2026-06-12T19:31:07Z"
     }
   ]
 }
