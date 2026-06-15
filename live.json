@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-15T22:03:07.811Z",
+  "timestamp": "2026-06-15T22:49:24.234Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,28 +8,10 @@
       "started_at": "2026-06-15T13:00:07Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Game dev (day 46½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-06-15T19:20:42Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "NEWSOM SAYS DOJ INVESTIGATING HIM | STILL NO DETAILS ON IRAN DEAL | LIB & LEAR @ 7 PM EST",
       "game": "Just Chatting",
       "started_at": "2026-06-15T21:49:52Z"
-    },
-    {
-      "username": "GeneralSte",
-      "title": "Village to Empire | !linktree !discord",
-      "game": "Farthest Frontier",
-      "started_at": "2026-06-15T18:58:59Z"
-    },
-    {
-      "username": "nSimplexPachinko",
-      "title": "Laurent's Rehabilitation of Singularities; Can Claude Outsmart People; Triangulations of the Sphere; Math Communication Monday - 20260615",
-      "game": "Math",
-      "started_at": "2026-06-15T20:57:58Z"
     }
   ]
 }
