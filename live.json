@@ -1,11 +1,23 @@
 {
-  "timestamp": "2026-06-15T18:51:47.500Z",
+  "timestamp": "2026-06-15T20:04:51.635Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Care Chats | !alveus !institute !pixel !schedule !video",
       "game": "Just Chatting",
       "started_at": "2026-06-15T13:00:07Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "EJ's Space and Rocket Revue! 6/15/26",
+      "game": "Science & Technology",
+      "started_at": "2026-06-15T18:59:42Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Game dev (day 46½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-06-15T19:20:42Z"
     },
     {
       "username": "Zachap",
@@ -20,10 +32,10 @@
       "started_at": "2026-06-15T16:58:47Z"
     },
     {
-      "username": "CosmoQuestX",
-      "title": "Astronomy Cast #798: Summer Media List",
-      "game": "Talk Shows & Podcasts",
-      "started_at": "2026-06-15T18:00:50Z"
+      "username": "GeneralSte",
+      "title": "Village to Empire | !linktree !discord",
+      "game": "Farthest Frontier",
+      "started_at": "2026-06-15T18:58:59Z"
     }
   ]
 }
