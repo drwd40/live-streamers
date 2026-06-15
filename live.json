@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-15T13:36:45.193Z",
+  "timestamp": "2026-06-15T15:33:37.708Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,10 +8,22 @@
       "started_at": "2026-06-15T13:00:07Z"
     },
     {
+      "username": "AdamLearnsLive",
+      "title": "Game dev (day 46)",
+      "game": "Software and Game Development",
+      "started_at": "2026-06-15T14:59:46Z"
+    },
+    {
       "username": "Zachap",
       "title": "adopt all the people",
       "game": "Just Chatting",
       "started_at": "2026-06-15T10:02:30Z"
+    },
+    {
+      "username": "TimberAnew",
+      "title": "Random Animal Hybrid Carving Designs (then Sifu on Treadmill)",
+      "game": "Art",
+      "started_at": "2026-06-15T15:00:35Z"
     }
   ]
 }
