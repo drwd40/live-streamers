@@ -1,23 +1,11 @@
 {
-  "timestamp": "2026-06-15T01:28:40.526Z",
+  "timestamp": "2026-06-15T02:25:40.594Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Alveus Subathon (Day 22 / 41+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "A Game About Digging A Hole",
       "started_at": "2026-06-13T13:00:05Z"
-    },
-    {
-      "username": "imreallyimportant",
-      "title": "SUNDAY POLITICS SHOWS",
-      "game": "Just Chatting",
-      "started_at": "2026-06-14T21:49:46Z"
-    },
-    {
-      "username": "LumiRue",
-      "title": "Baltimore Pride and Trans Theory<3",
-      "game": "Just Chatting",
-      "started_at": "2026-06-14T18:57:12Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -36,6 +24,12 @@
       "title": "trying to think again",
       "game": "Just Chatting",
       "started_at": "2026-06-15T00:00:55Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Scent marking in cats. Direct-to-consumer medical testing, and making a watercolor from a sketch or directly in Photoshop.",
+      "game": "Science & Technology",
+      "started_at": "2026-06-15T01:30:53Z"
     }
   ]
 }
