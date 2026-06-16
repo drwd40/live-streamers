@@ -1,11 +1,17 @@
 {
-  "timestamp": "2026-06-16T16:05:43.468Z",
+  "timestamp": "2026-06-16T17:50:27.218Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Alveus Subathon (Day 24 / 41+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
       "started_at": "2026-06-15T13:00:07Z"
+    },
+    {
+      "username": "ipaintbirbs",
+      "title": "birb is back, tell a friend",
+      "game": "Art",
+      "started_at": "2026-06-16T16:01:01Z"
     },
     {
       "username": "AdamLearnsLive",
@@ -20,10 +26,10 @@
       "started_at": "2026-06-16T10:02:08Z"
     },
     {
-      "username": "ipaintbirbs",
-      "title": "birb is back, tell a friend",
-      "game": "Art",
-      "started_at": "2026-06-16T16:01:01Z"
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 989: Language Design in Wolfram Language [ColumnMap, WFR Review and more]",
+      "game": "Science & Technology",
+      "started_at": "2026-06-16T17:14:58Z"
     }
   ]
 }
