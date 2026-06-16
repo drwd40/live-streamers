@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-16T03:42:52.235Z",
+  "timestamp": "2026-06-16T05:32:59.671Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-06-16T01:35:10Z"
     },
     {
+      "username": "DrawCuriosity",
+      "title": "📍[PARTNER PUSH] Trying MAP MAP (& maybe finishing DDinosaur later) // EVERY RAID = $1 to World Climate Relay Charity !wcr // 👀 ✨🐑",
+      "game": "Map Map: A Game About Maps",
+      "started_at": "2026-06-16T02:35:31Z"
+    },
+    {
       "username": "SciAnts_Streams",
       "title": "Microscopy Monday | Tiny worlds under the microscope + what is a species? | Partner+ 140/300 | !ppp !yt !pod",
       "game": "Science & Technology",
       "started_at": "2026-06-16T00:36:13Z"
-    },
-    {
-      "username": "DrawCuriosity",
-      "title": "📍[PARTNER PUSH] Trying MAP MAP (& maybe finishing DDinosaur later) // EVERY RAID = $1 to World Climate Relay Charity !wcr // 👀 ✨🐑",
-      "game": "Just Chatting",
-      "started_at": "2026-06-16T02:35:31Z"
     }
   ]
 }
