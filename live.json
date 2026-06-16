@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-16T17:50:27.218Z",
+  "timestamp": "2026-06-16T19:03:47.448Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,22 +14,28 @@
       "started_at": "2026-06-16T16:01:01Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "BOSS BATTLE (day 47)",
-      "game": "Software and Game Development",
-      "started_at": "2026-06-16T14:55:17Z"
-    },
-    {
       "username": "Zachap",
       "title": "liberals are chuds. china is capitalist.",
       "game": "Just Chatting",
       "started_at": "2026-06-16T10:02:08Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 989: Language Design in Wolfram Language [ColumnMap, WFR Review and more]",
+      "username": "SETIInstitute",
+      "title": "Humanity's Plan for First Contact: Who Speaks for Earth?",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2026-06-16T18:02:58Z"
+    },
+    {
+      "username": "vul100",
+      "title": "Gemini",
       "game": "Science & Technology",
-      "started_at": "2026-06-16T17:14:58Z"
+      "started_at": "2026-06-16T18:47:56Z"
+    },
+    {
+      "username": "xTalkProgrammer",
+      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
+      "game": "Just Chatting",
+      "started_at": "2026-06-16T18:55:20Z"
     }
   ]
 }
