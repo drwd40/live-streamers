@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-16T22:04:36.182Z",
+  "timestamp": "2026-06-16T22:45:25.771Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,18 +14,6 @@
       "started_at": "2026-06-16T21:07:23Z"
     },
     {
-      "username": "GeoJim2006",
-      "title": "Summer Sorting - Organizing the Collections at Northern Virginia Community College ⛰️⚒️🪨🔎🔬 !discord !nova !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-06-16T19:39:31Z"
-    },
-    {
-      "username": "Stephen_Wolfram",
-      "title": "Exploring Wolfram Language V15",
-      "game": "Science & Technology",
-      "started_at": "2026-06-16T20:51:33Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "ELECTION NIGHT: GEORGIA & ALABAMA | JD VANCE TRIES TO SELL IRAN DEAL NO ONE HAS SEEN",
       "game": "Just Chatting",
@@ -36,6 +24,18 @@
       "title": "Guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2026-06-16T22:01:19Z"
+    },
+    {
+      "username": "GeoJim2006",
+      "title": "Summer Sorting - Organizing the Collections at Northern Virginia Community College ⛰️⚒️🪨🔎🔬 !discord !nova !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-06-16T22:36:32Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Exploring Wolfram Language V15",
+      "game": "Science & Technology",
+      "started_at": "2026-06-16T20:51:33Z"
     },
     {
       "username": "nSimplexPachinko",
