@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-17T21:20:35.110Z",
+  "timestamp": "2026-06-17T22:05:53.560Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,28 +14,28 @@
       "started_at": "2026-06-17T19:57:52Z"
     },
     {
+      "username": "imreallyimportant",
+      "title": "TRUMP DESPERATELY TRIES TO DEFEND HIS IRAN DEAL",
+      "game": "Just Chatting",
+      "started_at": "2026-06-17T21:49:42Z"
+    },
+    {
       "username": "AdamLearnsLive",
       "title": "Stuck in a Broken Tutorial (day 48½)",
       "game": "Software and Game Development",
       "started_at": "2026-06-17T19:26:47Z"
     },
     {
-      "username": "Zachap",
-      "title": "how great is everything going?",
-      "game": "Just Chatting",
-      "started_at": "2026-06-17T10:03:42Z"
-    },
-    {
-      "username": "Stephen_Wolfram",
-      "title": "History of Science and Technology Q&A (June 17, 2026)",
-      "game": "Science & Technology",
-      "started_at": "2026-06-17T19:39:36Z"
-    },
-    {
       "username": "DonFactorial",
       "title": "Getting shot in the back on Chernarus and questing",
       "game": "DayZ",
       "started_at": "2026-06-17T20:48:49Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Cylinders, Surfaces of Revolution, and Level Curves & Surfaces; Cracking the GRE Math Subject Test - 20260617",
+      "game": "Math",
+      "started_at": "2026-06-17T21:30:38Z"
     }
   ]
 }
