@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-17T19:03:10.123Z",
+  "timestamp": "2026-06-17T19:49:15.244Z",
   "live": [
     {
       "username": "Kitboga",
@@ -14,10 +14,22 @@
       "started_at": "2026-06-17T13:00:10Z"
     },
     {
+      "username": "AdamLearnsLive",
+      "title": "Stuck in a Broken Tutorial (day 48½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-06-17T19:26:47Z"
+    },
+    {
       "username": "Zachap",
       "title": "how great is everything going?",
       "game": "Just Chatting",
       "started_at": "2026-06-17T10:03:42Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "History of Science and Technology Q&A (June 17, 2026)",
+      "game": "Science & Technology",
+      "started_at": "2026-06-17T19:39:36Z"
     }
   ]
 }
