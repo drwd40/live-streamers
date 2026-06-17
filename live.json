@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-17T20:34:08.281Z",
+  "timestamp": "2026-06-17T21:20:35.110Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Education Time w/ Kayla | !alveus !institute !pixel !schedule !video",
+      "title": "Alveus Subathon (Day 25 / 41+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
       "started_at": "2026-06-17T13:00:10Z"
     },
@@ -30,6 +30,12 @@
       "title": "History of Science and Technology Q&A (June 17, 2026)",
       "game": "Science & Technology",
       "started_at": "2026-06-17T19:39:36Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Getting shot in the back on Chernarus and questing",
+      "game": "DayZ",
+      "started_at": "2026-06-17T20:48:49Z"
     }
   ]
 }
