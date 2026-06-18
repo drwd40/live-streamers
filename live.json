@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-18T17:14:31.278Z",
+  "timestamp": "2026-06-18T18:13:24.560Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,12 +14,6 @@
       "started_at": "2026-06-18T17:06:13Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Gimme a beat (day 49)",
-      "game": "Software and Game Development",
-      "started_at": "2026-06-18T15:06:28Z"
-    },
-    {
       "username": "Zachap",
       "title": "make the economy scream.",
       "game": "Just Chatting",
@@ -30,6 +24,24 @@
       "title": "Building an IRL air raid siren with some old drone motors. Then making it trigger on channel raids!",
       "game": "Science & Technology",
       "started_at": "2026-06-18T16:10:05Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "🟩 Minecraft Science 🟪 | Building real proteins, examining cells, and more in Minecraft! | Partner+ 167/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2026-06-18T17:59:48Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Hi Everyone + An Electricity & Magnetism Study Group: Day 1 (Organization, etc.)",
+      "game": "Math",
+      "started_at": "2026-06-18T18:07:46Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "Patch 4.8.2 - Is Is Playable? [Birthday Stream!]",
+      "game": "Star Citizen",
+      "started_at": "2026-06-18T18:03:33Z"
     }
   ]
 }
