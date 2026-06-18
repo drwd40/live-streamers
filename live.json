@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-18T14:50:46.317Z",
+  "timestamp": "2026-06-18T16:02:44.333Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "make the economy scream.",
       "game": "Just Chatting",
       "started_at": "2026-06-18T10:01:42Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Gimme a beat (day 49)",
+      "game": "Software and Game Development",
+      "started_at": "2026-06-18T15:06:28Z"
     }
   ]
 }
