@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-18T21:30:56.238Z",
+  "timestamp": "2026-06-18T22:21:08.417Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -9,8 +9,8 @@
     },
     {
       "username": "EJ_SA",
-      "title": "I have no idea when the last time I played this was but I need to railroad. Derail Valley! 6/18/26",
-      "game": "Derail Valley",
+      "title": "EJ's Space and Rocket Revue! 6/18/26",
+      "game": "Science & Technology",
       "started_at": "2026-06-18T17:06:13Z"
     },
     {
@@ -20,22 +20,28 @@
       "started_at": "2026-06-18T19:58:34Z"
     },
     {
+      "username": "imreallyimportant",
+      "title": "JD VANCE CONTINUES HIS SAD TOUR OF DEFENDING THE TERRIBLE IRAN DEAL",
+      "game": "Just Chatting",
+      "started_at": "2026-06-18T21:49:54Z"
+    },
+    {
       "username": "SciAnts_Streams",
       "title": "🟩 Minecraft Science 🟪 | Building real proteins, examining cells, and more in Minecraft! | Partner+ 167/300 | !ppp !yt !pod",
       "game": "Science & Technology",
       "started_at": "2026-06-18T17:59:48Z"
     },
     {
+      "username": "shnaff",
+      "title": "Guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-06-18T22:02:42Z"
+    },
+    {
       "username": "DonFactorial",
       "title": "Back to Namalsk",
       "game": "DayZ",
       "started_at": "2026-06-18T20:09:14Z"
-    },
-    {
-      "username": "DrAlexanderClarke",
-      "title": "The Defence Investment Plan: A Live Review if it's been published, A Chat of What to Look For if not",
-      "game": "Just Chatting",
-      "started_at": "2026-06-18T18:47:54Z"
     }
   ]
 }
