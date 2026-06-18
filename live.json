@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-18T18:13:24.560Z",
+  "timestamp": "2026-06-18T19:06:15.546Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,22 +14,16 @@
       "started_at": "2026-06-18T17:06:13Z"
     },
     {
-      "username": "Zachap",
-      "title": "make the economy scream.",
-      "game": "Just Chatting",
-      "started_at": "2026-06-18T10:01:42Z"
-    },
-    {
-      "username": "oh_bother",
-      "title": "Building an IRL air raid siren with some old drone motors. Then making it trigger on channel raids!",
-      "game": "Science & Technology",
-      "started_at": "2026-06-18T16:10:05Z"
-    },
-    {
       "username": "SciAnts_Streams",
       "title": "🟩 Minecraft Science 🟪 | Building real proteins, examining cells, and more in Minecraft! | Partner+ 167/300 | !ppp !yt !pod",
       "game": "Science & Technology",
       "started_at": "2026-06-18T17:59:48Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "make the economy scream.",
+      "game": "Just Chatting",
+      "started_at": "2026-06-18T10:01:42Z"
     },
     {
       "username": "eToThe2iPi",
@@ -42,6 +36,12 @@
       "title": "Patch 4.8.2 - Is Is Playable? [Birthday Stream!]",
       "game": "Star Citizen",
       "started_at": "2026-06-18T18:03:33Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "The Defence Investment Plan: A Live Review if it's been published, A Chat of What to Look For if not",
+      "game": "Just Chatting",
+      "started_at": "2026-06-18T18:47:54Z"
     }
   ]
 }
