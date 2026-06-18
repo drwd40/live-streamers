@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-17T23:50:54.264Z",
+  "timestamp": "2026-06-18T00:21:03.363Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,22 @@
       "started_at": "2026-06-17T23:00:45Z"
     },
     {
+      "username": "SharkG33k",
+      "title": "Water Wednesday! | Sea Turtles & Eagle Rays! | !charity",
+      "game": "Science & Technology",
+      "started_at": "2026-06-18T00:12:15Z"
+    },
+    {
       "username": "DonFactorial",
       "title": "Getting shot in the back on Chernarus and questing",
       "game": "DayZ",
       "started_at": "2026-06-17T20:48:49Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "Cylinders, Surfaces of Revolution, and Level Curves & Surfaces; Cracking the GRE Math Subject Test - 20260617",
-      "game": "Math",
-      "started_at": "2026-06-17T21:30:38Z"
+      "username": "nogre0",
+      "title": "trying to think again",
+      "game": "Just Chatting",
+      "started_at": "2026-06-18T00:00:08Z"
     }
   ]
 }
