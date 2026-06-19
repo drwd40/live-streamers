@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-19T00:14:08.176Z",
+  "timestamp": "2026-06-19T01:33:29.497Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -9,15 +9,9 @@
     },
     {
       "username": "SciAnts_Streams",
-      "title": "🟩 Minecraft Science 🟪 | Building real proteins, examining cells, and more in Minecraft! | Partner+ 167/300 | !ppp !yt !pod",
+      "title": "🟩 Minecraft Science 🟪 | @onlythomwilltell @sharkg33k @mister__brain @darkmuppeteer | Partner+ 167/300 | !ppp !yt !pod",
       "game": "Minecraft",
       "started_at": "2026-06-18T17:59:48Z"
-    },
-    {
-      "username": "EJ_SA",
-      "title": "EJ's Space and Rocket Revue! 6/18/26",
-      "game": "Science & Technology",
-      "started_at": "2026-06-18T17:06:13Z"
     },
     {
       "username": "imreallyimportant",
@@ -26,16 +20,34 @@
       "started_at": "2026-06-18T21:49:54Z"
     },
     {
-      "username": "shnaff",
-      "title": "Guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-06-18T22:02:42Z"
+      "username": "Nerduino",
+      "title": "Satellite constellations Astronomer and former NASA guy.  Intro to antennas!  JPL History #NASA #science #space #stem #charity #teamstream",
+      "game": "Science & Technology",
+      "started_at": "2026-06-19T00:50:35Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Minecraft science | !charity",
+      "game": "Minecraft",
+      "started_at": "2026-06-19T00:40:56Z"
     },
     {
       "username": "MelissaInDeNile",
       "title": "More Assassins Creed: III and Melissa singing Hamilton! ~ Follower Goal: 2372/2600 ~ !socials !beyonddenile",
       "game": "Assassin's Creed III Remastered",
       "started_at": "2026-06-18T22:50:22Z"
+    },
+    {
+      "username": "Mr_Aejis",
+      "title": "1st-time Persona playthru! | Teacher Plays",
+      "game": "Persona 5 Royal",
+      "started_at": "2026-06-19T00:34:24Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "The Heliconius butterfly in the Atlantic. What radar and lidar do in smart cities, and the psychological effects of watchful waiting.",
+      "game": "Science & Technology",
+      "started_at": "2026-06-19T01:32:27Z"
     }
   ]
 }
