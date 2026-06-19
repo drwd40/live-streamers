@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-19T20:02:26.624Z",
+  "timestamp": "2026-06-19T20:39:22.880Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,10 +8,10 @@
       "started_at": "2026-06-19T13:00:13Z"
     },
     {
-      "username": "ipaintbirbs",
-      "title": "can you believe i'm still painting birbs",
-      "game": "Art",
-      "started_at": "2026-06-19T16:07:20Z"
+      "username": "Paleontologizing",
+      "title": "🦕🪨 MONTANA DINOSAUR DIG  Day 4 🦴⛏️ Finding tyrannosaur teeth, champsosaur bones & more w/ Denver Fowler & Badlands Dinosaur Museum crew",
+      "game": "IRL",
+      "started_at": "2026-06-19T19:58:15Z"
     },
     {
       "username": "Zachap",
@@ -20,22 +20,10 @@
       "started_at": "2026-06-19T10:02:12Z"
     },
     {
-      "username": "oh_bother",
-      "title": "Making a manual pick and place machine. blow air to suck up electronics! Maybe 3d design. #autocadad",
-      "game": "Science & Technology",
-      "started_at": "2026-06-19T16:20:57Z"
-    },
-    {
       "username": "Rocketology",
       "title": "Never Ending Pursuit of Science! 50% Science Career [Birthday Month!]",
       "game": "Kerbal Space Program",
       "started_at": "2026-06-19T18:05:51Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "🦕🪨 MONTANA DINOSAUR DIG  Day 4 🦴⛏️ Finding tyrannosaur teeth, champsosaur bones & more w/ Denver Fowler & Badlands Dinosaur Museum crew",
-      "game": "IRL",
-      "started_at": "2026-06-19T19:58:15Z"
     }
   ]
 }
