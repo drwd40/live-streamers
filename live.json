@@ -1,11 +1,17 @@
 {
-  "timestamp": "2026-06-19T12:17:35.551Z",
+  "timestamp": "2026-06-19T13:33:00.617Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Alveus Subathon (Day 26 / 41+) | !alveus !institute !pixel !schedule !video !subathon",
+      "title": "Alveus Subathon (Day 27 / 42+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
-      "started_at": "2026-06-17T13:00:10Z"
+      "started_at": "2026-06-19T13:00:13Z"
+    },
+    {
+      "username": "csharpfritz",
+      "title": "C# Evolved and Bits for Maps",
+      "game": "Software and Game Development",
+      "started_at": "2026-06-19T13:00:39Z"
     },
     {
       "username": "Zachap",
