@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-19T17:25:42.105Z",
+  "timestamp": "2026-06-19T18:07:05.634Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Alveus Subathon (Day 27 / 42+) | !alveus !institute !pixel !schedule !video !subathon",
+      "title": "Show and Tell | !alveus !institute !pixel !schedule !video",
       "game": "Just Chatting",
       "started_at": "2026-06-19T13:00:13Z"
     },
@@ -36,6 +36,12 @@
       "title": "C# Evolved and Bits for Maps",
       "game": "Software and Game Development",
       "started_at": "2026-06-19T17:00:18Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "Never Ending Pursuit of Science! 50% Science Career [Birthday Month!]",
+      "game": "Kerbal Space Program",
+      "started_at": "2026-06-19T18:05:51Z"
     }
   ]
 }
