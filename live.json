@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-19T19:22:37.332Z",
+  "timestamp": "2026-06-19T20:02:26.624Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,12 +12,6 @@
       "title": "can you believe i'm still painting birbs",
       "game": "Art",
       "started_at": "2026-06-19T16:07:20Z"
-    },
-    {
-      "username": "AdamLearnsLive",
-      "title": "Sprite-colorization tool (day 50)",
-      "game": "Software and Game Development",
-      "started_at": "2026-06-19T15:01:56Z"
     },
     {
       "username": "Zachap",
@@ -36,6 +30,12 @@
       "title": "Never Ending Pursuit of Science! 50% Science Career [Birthday Month!]",
       "game": "Kerbal Space Program",
       "started_at": "2026-06-19T18:05:51Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "🦕🪨 MONTANA DINOSAUR DIG  Day 4 🦴⛏️ Finding tyrannosaur teeth, champsosaur bones & more w/ Denver Fowler & Badlands Dinosaur Museum crew",
+      "game": "IRL",
+      "started_at": "2026-06-19T19:58:15Z"
     }
   ]
 }
