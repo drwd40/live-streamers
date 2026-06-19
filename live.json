@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-19T16:37:43.257Z",
+  "timestamp": "2026-06-19T17:25:42.105Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "Making a manual pick and place machine. blow air to suck up electronics! Maybe 3d design. #autocadad",
       "game": "Science & Technology",
       "started_at": "2026-06-19T16:20:57Z"
+    },
+    {
+      "username": "csharpfritz",
+      "title": "C# Evolved and Bits for Maps",
+      "game": "Software and Game Development",
+      "started_at": "2026-06-19T17:00:18Z"
     }
   ]
 }
