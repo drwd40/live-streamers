@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-20T17:48:18.830Z",
+  "timestamp": "2026-06-20T18:17:22.156Z",
   "live": [
     {
       "username": "Maya",
@@ -26,16 +26,16 @@
       "started_at": "2026-06-20T10:01:45Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Bring Your Questions: A Math/Ed Q&A",
-      "game": "Math",
-      "started_at": "2026-06-20T16:00:17Z"
-    },
-    {
       "username": "Rocketology",
       "title": "Never Ending Pursuit of Science! 50% Science Career [Birthday Month!]",
       "game": "Kerbal Space Program",
       "started_at": "2026-06-20T17:05:03Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Bring Your Questions: A Math/Ed Q&A",
+      "game": "Math",
+      "started_at": "2026-06-20T16:00:17Z"
     }
   ]
 }
