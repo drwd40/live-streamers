@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-20T22:01:47.375Z",
+  "timestamp": "2026-06-20T22:33:25.689Z",
   "live": [
     {
       "username": "Maya",
@@ -26,22 +26,28 @@
       "started_at": "2026-06-20T10:01:45Z"
     },
     {
-      "username": "Rocketology",
-      "title": "Never Ending Pursuit of Science! 50% Science Career [Birthday Month!]",
-      "game": "Kerbal Space Program",
-      "started_at": "2026-06-20T17:05:03Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "I'M BACK!!! To Solder Some Sense Into These Synths",
       "game": "Science & Technology",
       "started_at": "2026-06-20T18:50:23Z"
     },
     {
+      "username": "Rocketology",
+      "title": "Never Ending Pursuit of Science! 50% Science Career [Birthday Month!]",
+      "game": "Kerbal Space Program",
+      "started_at": "2026-06-20T17:05:03Z"
+    },
+    {
       "username": "DonFactorial",
       "title": "Answering your math questions!",
       "game": "Math",
       "started_at": "2026-06-20T19:58:08Z"
+    },
+    {
+      "username": "DrawCuriosity",
+      "title": "🦎̸/̸̅̅ ̆̅ ̅̅ ̅̅  [PARTNER PUSH] MECCHA CHAMELEON with @xanthe @emilordy @martubymartu @ipaintbirbs",
+      "game": "MECCHA CHAMELEON",
+      "started_at": "2026-06-20T22:28:56Z"
     }
   ]
 }
