@@ -1,6 +1,12 @@
 {
-  "timestamp": "2026-06-20T15:38:19.570Z",
+  "timestamp": "2026-06-20T16:08:19.586Z",
   "live": [
+    {
+      "username": "Maya",
+      "title": "BASKETBALL TODAY? coffee? live ALL DAY ???🏀🍵",
+      "game": "Just Chatting",
+      "started_at": "2026-06-20T15:39:48Z"
+    },
     {
       "username": "AlveusSanctuary",
       "title": "Alveus Subathon (Day 28 / 42+) | !alveus !institute !pixel !schedule !video !subathon",
@@ -18,6 +24,12 @@
       "title": "Politics and Economics is inseparable",
       "game": "Writing & Reading",
       "started_at": "2026-06-20T10:01:45Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Bring Your Questions: A Math/Ed Q&A",
+      "game": "Math",
+      "started_at": "2026-06-20T16:00:17Z"
     }
   ]
 }
