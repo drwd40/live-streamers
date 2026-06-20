@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-20T16:43:53.333Z",
+  "timestamp": "2026-06-20T17:13:43.884Z",
   "live": [
     {
       "username": "Maya",
@@ -30,6 +30,12 @@
       "title": "Bring Your Questions: A Math/Ed Q&A",
       "game": "Math",
       "started_at": "2026-06-20T16:00:17Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "Never Ending Pursuit of Science! 50% Science Career [Birthday Month!]",
+      "game": "Kerbal Space Program",
+      "started_at": "2026-06-20T17:05:03Z"
     }
   ]
 }
