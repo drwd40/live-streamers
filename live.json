@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-21T00:31:46.513Z",
+  "timestamp": "2026-06-21T01:37:21.087Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,22 +14,28 @@
       "started_at": "2026-06-20T22:28:56Z"
     },
     {
+      "username": "SciAnts_Streams",
+      "title": "Sword Saturday | Onimusha 3 with the OG PS2 sword controller! | Partner+ 201/300 | !ppp !yt !pod",
+      "game": "Onimusha 3: Demon Siege",
+      "started_at": "2026-06-21T01:05:00Z"
+    },
+    {
       "username": "SydHeresy",
       "title": "I'M BACK!!! To Solder Some Sense Into These Synths",
       "game": "Science & Technology",
       "started_at": "2026-06-20T18:50:23Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Answering your math questions!",
-      "game": "Math",
-      "started_at": "2026-06-20T19:58:08Z"
-    },
-    {
       "username": "MelissaInDeNile",
       "title": "Community Game Night with Mark!! ~ Follower Goal: 2372/2600 ~ !socials !beyonddenile",
       "game": "Just Chatting",
       "started_at": "2026-06-20T23:20:32Z"
+    },
+    {
+      "username": "Mr_Aejis",
+      "title": "Reverse S.A.D.? Sunburn on your EYES? Let's talk Summer Health",
+      "game": "Just Chatting",
+      "started_at": "2026-06-21T00:50:48Z"
     }
   ]
 }
