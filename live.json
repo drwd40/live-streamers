@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-21T22:06:02.402Z",
+  "timestamp": "2026-06-21T22:36:23.326Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-06-21T17:00:20Z"
     },
     {
-      "username": "DrAlexanderClarke",
-      "title": "Bruships 247: Science Fiction & Naval History Questions Answered Live...",
-      "game": "Just Chatting",
-      "started_at": "2026-06-21T18:33:51Z"
-    },
-    {
       "username": "shnaff",
       "title": "Guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2026-06-21T22:00:58Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "Bruships 247: Science Fiction & Naval History Questions Answered Live...",
+      "game": "Just Chatting",
+      "started_at": "2026-06-21T18:33:51Z"
     }
   ]
 }
