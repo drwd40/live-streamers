@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-21T15:51:05.559Z",
+  "timestamp": "2026-06-21T16:24:29.483Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -10,7 +10,7 @@
     {
       "username": "TinyToxicTofu",
       "title": "Building and Designing a Water Level Transistor Sensor, Choosing Next Game and Finishing Mass Effect Legendary !phd !science !physics",
-      "game": "Science & Technology",
+      "game": "Mass Effect Legendary Edition",
       "started_at": "2026-06-21T12:01:14Z"
     },
     {
@@ -26,16 +26,16 @@
       "started_at": "2026-06-21T15:42:19Z"
     },
     {
-      "username": "DrAlexanderClarke",
-      "title": "A Historian Reorganises a Library... I just want to read the books!",
-      "game": "Librarian: Tidy Up the Arcane Library!",
-      "started_at": "2026-06-21T12:00:31Z"
-    },
-    {
       "username": "sciencestreams",
       "title": "Butterfly Longevity | Whale Necropolis | Cognitive Genetics | Science News - Microscope Time 🔬",
       "game": "Just Chatting",
       "started_at": "2026-06-21T14:48:11Z"
+    },
+    {
+      "username": "nogre0",
+      "title": "philosophy at a european friendly time",
+      "game": "Just Chatting",
+      "started_at": "2026-06-21T16:14:34Z"
     }
   ]
 }
