@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-21T11:16:02.593Z",
+  "timestamp": "2026-06-21T12:02:39.571Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,18 @@
       "title": "Politics and Economics is inseparable",
       "game": "Writing & Reading",
       "started_at": "2026-06-21T10:01:45Z"
+    },
+    {
+      "username": "TinyToxicTofu",
+      "title": "Building and Designing a Water Level Transistor Sensor, Choosing Next Game and Finishing Mass Effect Legendary !phd !science !physics",
+      "game": "Science & Technology",
+      "started_at": "2026-06-21T12:01:14Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "A Historian Reorganises a Library... I just want to read the books!",
+      "game": "Librarian: Tidy Up the Arcane Library!",
+      "started_at": "2026-06-21T12:00:31Z"
     }
   ]
 }
