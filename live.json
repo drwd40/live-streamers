@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-21T21:38:17.823Z",
+  "timestamp": "2026-06-21T22:06:02.402Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,6 +14,12 @@
       "started_at": "2026-06-21T15:42:19Z"
     },
     {
+      "username": "imreallyimportant",
+      "title": "SUNDAY POLITICS SHOWS",
+      "game": "Just Chatting",
+      "started_at": "2026-06-21T21:49:51Z"
+    },
+    {
       "username": "Rocketology",
       "title": "Never Ending Pursuit of Science! 50% Science Modded Career [Birthday Month!]",
       "game": "Kerbal Space Program",
@@ -24,6 +30,12 @@
       "title": "Bruships 247: Science Fiction & Naval History Questions Answered Live...",
       "game": "Just Chatting",
       "started_at": "2026-06-21T18:33:51Z"
+    },
+    {
+      "username": "shnaff",
+      "title": "Guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-06-21T22:00:58Z"
     }
   ]
 }
