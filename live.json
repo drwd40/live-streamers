@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-06-21T01:37:21.087Z",
+  "timestamp": "2026-06-21T02:34:10.004Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Alveus Subathon (Day 28 / 42+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
       "started_at": "2026-06-19T13:00:13Z"
-    },
-    {
-      "username": "DrawCuriosity",
-      "title": "🦎̸/̸̅̅ ̆̅ ̅̅ ̅̅  [PARTNER PUSH] MECCHA CHAMELEON with @xanthe @emilordy @martubymartu @ipaintbirbs @peybtw",
-      "game": "MECCHA CHAMELEON",
-      "started_at": "2026-06-20T22:28:56Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -33,9 +27,15 @@
     },
     {
       "username": "Mr_Aejis",
-      "title": "Reverse S.A.D.? Sunburn on your EYES? Let's talk Summer Health",
-      "game": "Just Chatting",
+      "title": "First time Persona! Teacher Plays!",
+      "game": "Persona 5 Royal",
       "started_at": "2026-06-21T00:50:48Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Two loose ends and a beer rack. Question for Spotify. Psychological effects of watchful waiting, and how FinTech effects personal finance.",
+      "game": "Science & Technology",
+      "started_at": "2026-06-21T02:00:38Z"
     }
   ]
 }
