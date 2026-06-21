@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-21T18:09:57.159Z",
+  "timestamp": "2026-06-21T18:46:04.332Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,12 +12,6 @@
       "title": "DC Pride! | A Day in DC",
       "game": "Just Chatting",
       "started_at": "2026-06-21T15:42:19Z"
-    },
-    {
-      "username": "TinyToxicTofu",
-      "title": "Building and Designing a Water Level Transistor Sensor, Choosing Next Game and Finishing Mass Effect Legendary !phd !science !physics",
-      "game": "Mass Effect Legendary Edition",
-      "started_at": "2026-06-21T12:01:14Z"
     },
     {
       "username": "Zachap",
@@ -36,6 +30,12 @@
       "title": "philosophy at a european friendly time",
       "game": "Just Chatting",
       "started_at": "2026-06-21T16:14:34Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "Bruships 247: Science Fiction & Naval History Questions Answered Live...",
+      "game": "Just Chatting",
+      "started_at": "2026-06-21T18:33:51Z"
     }
   ]
 }
