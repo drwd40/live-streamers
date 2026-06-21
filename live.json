@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-21T14:22:22.103Z",
+  "timestamp": "2026-06-21T15:10:01.205Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "A Historian Reorganises a Library... I just want to read the books!",
       "game": "Librarian: Tidy Up the Arcane Library!",
       "started_at": "2026-06-21T12:00:31Z"
+    },
+    {
+      "username": "sciencestreams",
+      "title": "Butterfly Longevity | Whale Necropolis | Cognitive Genetics | Science News - Microscope Time 🔬",
+      "game": "Just Chatting",
+      "started_at": "2026-06-21T14:48:11Z"
     }
   ]
 }
