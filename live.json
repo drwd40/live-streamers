@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-22T16:49:06.225Z",
+  "timestamp": "2026-06-22T18:15:39.620Z",
   "live": [
     {
       "username": "Maya",
@@ -9,7 +9,7 @@
     },
     {
       "username": "AlveusSanctuary",
-      "title": "Alveus Subathon (Day 30 / 42+) | !alveus !institute !pixel !schedule !video !subathon",
+      "title": "Animal Care Chats | !alveus !institute !pixel !schedule !video",
       "game": "Just Chatting",
       "started_at": "2026-06-21T13:03:35Z"
     },
@@ -36,6 +36,18 @@
       "title": "Politics and Economics is inseparable",
       "game": "Politics",
       "started_at": "2026-06-22T10:00:49Z"
+    },
+    {
+      "username": "CosmoQuestX",
+      "title": "Astronomy Cast #799: Heavy Lift Rockets",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2026-06-22T18:01:04Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Implementing Tweens using Phaser for a Quiz Show: Sixteen",
+      "game": "Software and Game Development",
+      "started_at": "2026-06-22T18:05:57Z"
     }
   ]
 }
