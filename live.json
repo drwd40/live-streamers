@@ -1,15 +1,9 @@
 {
-  "timestamp": "2026-06-22T19:29:29.943Z",
+  "timestamp": "2026-06-22T20:24:50.084Z",
   "live": [
     {
-      "username": "Maya",
-      "title": "BEACH DAY (being a californian again)🏝️☀️🌊",
-      "game": "Just Chatting",
-      "started_at": "2026-06-22T15:08:56Z"
-    },
-    {
       "username": "AlveusSanctuary",
-      "title": "Animal Care Chats | !alveus !institute !pixel !schedule !video",
+      "title": "Alveus Subathon (Day 30 / 42+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
       "started_at": "2026-06-21T13:03:35Z"
     },
@@ -20,16 +14,28 @@
       "started_at": "2026-06-22T15:57:52Z"
     },
     {
-      "username": "Zachap",
-      "title": "Politics and Economics is inseparable",
-      "game": "Politics",
-      "started_at": "2026-06-22T10:00:49Z"
+      "username": "Paleontologizing",
+      "title": "🦕🪨 MONTANA DINOSAUR DIG,  Day 6 🦴⛏️ Working the bonebed site w/ Denver & Liz Freedman-Fowler + Badlands Dinosaur Museum crew",
+      "game": "IRL",
+      "started_at": "2026-06-22T19:59:09Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "New sub-game development: LOOTBOXES (day 51½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-06-22T19:40:24Z"
     },
     {
       "username": "eToThe2iPi",
       "title": "Implementing Tweens using Phaser for a Quiz Show: Sixteen",
       "game": "Software and Game Development",
       "started_at": "2026-06-22T18:05:57Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "Physics 1B Lec 0",
+      "game": "Just Chatting",
+      "started_at": "2026-06-22T19:30:49Z"
     }
   ]
 }
