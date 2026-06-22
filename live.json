@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-06-22T01:26:41.723Z",
+  "timestamp": "2026-06-22T02:20:23.174Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Alveus Subathon (Day 29 / 42+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
       "started_at": "2026-06-21T13:03:35Z"
-    },
-    {
-      "username": "LumiRue",
-      "title": "DC Pride! | A Day in DC",
-      "game": "Just Chatting",
-      "started_at": "2026-06-21T15:42:19Z"
     },
     {
       "username": "imreallyimportant",
@@ -24,6 +18,18 @@
       "title": "Happy Father's Day! | Dads, fungus, ants and zombies? First play of Last of Us with in game science! | Partner+ 209/300 | !ppp !yt !pod",
       "game": "The Last of Us Part I",
       "started_at": "2026-06-22T01:05:15Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Father's Day and Summer Solstice all at once?  Oh My!  #NASA #science #space #stem #charity #teamstream",
+      "game": "Science & Technology",
+      "started_at": "2026-06-22T01:56:05Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "How FinTech effects personal finance. Analyzing a poem without artificial intelligence, and how the mollusc got its shell.",
+      "game": "Science & Technology",
+      "started_at": "2026-06-22T01:31:26Z"
     }
   ]
 }
