@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-22T20:24:50.084Z",
+  "timestamp": "2026-06-22T21:22:33.802Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -9,8 +9,8 @@
     },
     {
       "username": "EJ_SA",
-      "title": "Figuring out where we left off! Mission Mode 3 Vehicle Preparations! (SLS, ARES I, and SHUTTLE) 6/22/26",
-      "game": "Kerbal Space Program",
+      "title": "EJ's Space and Rocket Revue! 6/22/26",
+      "game": "Science & Technology",
       "started_at": "2026-06-22T15:57:52Z"
     },
     {
@@ -24,18 +24,6 @@
       "title": "New sub-game development: LOOTBOXES (day 51½)",
       "game": "Software and Game Development",
       "started_at": "2026-06-22T19:40:24Z"
-    },
-    {
-      "username": "eToThe2iPi",
-      "title": "Implementing Tweens using Phaser for a Quiz Show: Sixteen",
-      "game": "Software and Game Development",
-      "started_at": "2026-06-22T18:05:57Z"
-    },
-    {
-      "username": "ActualEducation",
-      "title": "Physics 1B Lec 0",
-      "game": "Just Chatting",
-      "started_at": "2026-06-22T19:30:49Z"
     }
   ]
 }
