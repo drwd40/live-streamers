@@ -1,11 +1,23 @@
 {
-  "timestamp": "2026-06-22T15:08:04.629Z",
+  "timestamp": "2026-06-22T16:49:06.225Z",
   "live": [
+    {
+      "username": "Maya",
+      "title": "BEACH DAY (being a californian again)🏝️☀️🌊",
+      "game": "Just Chatting",
+      "started_at": "2026-06-22T15:08:56Z"
+    },
     {
       "username": "AlveusSanctuary",
       "title": "Alveus Subathon (Day 30 / 42+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
       "started_at": "2026-06-21T13:03:35Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "Figuring out where we left off! Mission Mode 3 Vehicle Preparations! (SLS, ARES I, and SHUTTLE) 6/22/26",
+      "game": "Kerbal Space Program",
+      "started_at": "2026-06-22T15:57:52Z"
     },
     {
       "username": "TinyToxicTofu",
@@ -14,9 +26,15 @@
       "started_at": "2026-06-22T11:03:45Z"
     },
     {
+      "username": "AdamLearnsLive",
+      "title": "LOOTBOXES (game design and maybe some development) (day 51)",
+      "game": "Software and Game Development",
+      "started_at": "2026-06-22T15:25:46Z"
+    },
+    {
       "username": "Zachap",
       "title": "Politics and Economics is inseparable",
-      "game": "Writing & Reading",
+      "game": "Politics",
       "started_at": "2026-06-22T10:00:49Z"
     }
   ]
