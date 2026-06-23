@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-23T21:50:32.795Z",
+  "timestamp": "2026-06-23T22:19:46.326Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,10 +20,10 @@
       "started_at": "2026-06-23T16:00:52Z"
     },
     {
-      "username": "DrawCuriosity",
-      "title": "🌎[PARTNER PUSH] Chatting science and climate with @PeaceFireNow ✨🐏 !merch !dailybug !wcr",
-      "game": "Science & Technology",
-      "started_at": "2026-06-23T20:06:32Z"
+      "username": "imreallyimportant",
+      "title": "ELECTION NIGHT: NEW YORK PRIMARIES + MORE | SENATE REBUKES TRUMP BY PASSING WAR POWERS RESOLUTION",
+      "game": "Just Chatting",
+      "started_at": "2026-06-23T21:49:53Z"
     },
     {
       "username": "Zachap",
@@ -32,10 +32,10 @@
       "started_at": "2026-06-23T10:01:26Z"
     },
     {
-      "username": "GeoJim2006",
-      "title": "Short Stream - Sorting & Organizing Rocks 'n' Minerals ⛰️⚒️🪨🔎🔬 !discord !nova !tkf",
+      "username": "DrawCuriosity",
+      "title": "🌎[PARTNER PUSH] Chatting science and climate with @PeaceFireNow ✨🐏 !merch !dailybug !wcr",
       "game": "Science & Technology",
-      "started_at": "2026-06-23T18:57:46Z"
+      "started_at": "2026-06-23T20:06:32Z"
     },
     {
       "username": "SydHeresy",
@@ -50,16 +50,22 @@
       "started_at": "2026-06-23T17:06:29Z"
     },
     {
+      "username": "shnaff",
+      "title": "Chill instrumental tunes in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-06-23T22:03:25Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Vectors + Line Integrals + Your Questions",
+      "game": "Math",
+      "started_at": "2026-06-23T21:57:44Z"
+    },
+    {
       "username": "nSimplexPachinko",
       "title": "May go back to The Gallery; Starting Day 31; Night 14, Blue Prince - 20260623",
       "game": "Blue Prince",
       "started_at": "2026-06-23T21:16:48Z"
-    },
-    {
-      "username": "imreallyimportant",
-      "title": "ELECTION NIGHT: NEW YORK PRIMARIES + MORE | SENATE REBUKES TRUMP BY PASSING WAR POWERS RESOLUTION",
-      "game": "Just Chatting",
-      "started_at": "2026-06-23T21:49:53Z"
     }
   ]
 }
