@@ -1,17 +1,23 @@
 {
-  "timestamp": "2026-06-23T12:15:18.624Z",
+  "timestamp": "2026-06-23T13:17:50.453Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Alveus Subathon (Day 30 / 42+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
-      "started_at": "2026-06-21T13:03:35Z"
+      "started_at": "2026-06-23T13:01:48Z"
     },
     {
       "username": "Zachap",
       "title": "General Strike... Abolish Private Property...",
       "game": "Just Chatting",
       "started_at": "2026-06-23T10:01:26Z"
+    },
+    {
+      "username": "csharpfritz",
+      "title": "Open Source C#",
+      "game": "Software and Game Development",
+      "started_at": "2026-06-23T13:08:15Z"
     }
   ]
 }
