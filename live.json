@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-23T19:52:48.056Z",
+  "timestamp": "2026-06-23T20:36:31.470Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Care Chats | !alveus !institute !pixel !schedule !video",
+      "title": "Alveus Subathon (Day 31 / 42+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
       "started_at": "2026-06-23T13:01:48Z"
     },
@@ -14,10 +14,16 @@
       "started_at": "2026-06-23T16:00:52Z"
     },
     {
-      "username": "ipaintbirbs",
-      "title": "mind if i paint some owls having coffee?",
-      "game": "Art",
-      "started_at": "2026-06-23T16:07:20Z"
+      "username": "Paleontologizing",
+      "title": "🦖⛏️  MONTANA DINOSAUR DIG,  Day 7 🥚 More dinosaur eggs w/ @FossilPreparator + Badlands Dinosaur Museum crew 🩳 Short stream b/c solar 😑",
+      "game": "IRL",
+      "started_at": "2026-06-23T20:05:24Z"
+    },
+    {
+      "username": "DrawCuriosity",
+      "title": "🌎[PARTNER PUSH] Chatting science and climate with @PeaceFireNow ✨🐏 !merch !dailybug !wcr",
+      "game": "Just Chatting",
+      "started_at": "2026-06-23T20:06:32Z"
     },
     {
       "username": "Zachap",
@@ -26,16 +32,16 @@
       "started_at": "2026-06-23T10:01:26Z"
     },
     {
-      "username": "Rocketology",
-      "title": "Helicopters, Airplanes, Space Stations, Oh My! [Birthday Month!]",
-      "game": "Kerbal Space Program",
-      "started_at": "2026-06-23T17:06:29Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Soldering - Building - Modular Synths",
       "game": "Science & Technology",
       "started_at": "2026-06-23T19:00:45Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "Helicopters, Airplanes, Space Stations, Oh My! [Birthday Month!]",
+      "game": "Kerbal Space Program",
+      "started_at": "2026-06-23T17:06:29Z"
     },
     {
       "username": "GeoJim2006",
@@ -44,16 +50,16 @@
       "started_at": "2026-06-23T18:57:46Z"
     },
     {
-      "username": "vul100",
-      "title": "Tuesday June 23rd @2:30pm EDT:  Unboxing a special present, then Darjeeling: brewing an exquisite tea",
-      "game": "Science & Technology",
-      "started_at": "2026-06-23T18:28:55Z"
-    },
-    {
       "username": "ActualEducation",
       "title": "Physics 1B Lec 1",
       "game": "Just Chatting",
       "started_at": "2026-06-23T19:29:55Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "Real Analysis Lesson #7 [(off) !fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-06-23T19:54:51Z"
     },
     {
       "username": "xTalkProgrammer",
