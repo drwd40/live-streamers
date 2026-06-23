@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-23T13:17:50.453Z",
+  "timestamp": "2026-06-23T14:07:57.101Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-06-23T13:01:48Z"
     },
     {
-      "username": "Zachap",
-      "title": "General Strike... Abolish Private Property...",
-      "game": "Just Chatting",
-      "started_at": "2026-06-23T10:01:26Z"
-    },
-    {
       "username": "csharpfritz",
       "title": "Open Source C#",
       "game": "Software and Game Development",
       "started_at": "2026-06-23T13:08:15Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "General Strike... Abolish Private Property...",
+      "game": "Just Chatting",
+      "started_at": "2026-06-23T10:01:26Z"
     }
   ]
 }
