@@ -1,11 +1,23 @@
 {
-  "timestamp": "2026-06-23T10:00:59.642Z",
+  "timestamp": "2026-06-23T11:11:38.461Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Alveus Subathon (Day 30 / 42+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
       "started_at": "2026-06-21T13:03:35Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "EJ'S SPACEX STARFALL DEMO MISSION LAUNCH COVERAGE!",
+      "game": "Science & Technology",
+      "started_at": "2026-06-23T10:30:26Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "General Strike... Abolish Private Property...",
+      "game": "Just Chatting",
+      "started_at": "2026-06-23T10:01:26Z"
     }
   ]
 }
