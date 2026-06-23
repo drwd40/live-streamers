@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-23T19:10:25.014Z",
+  "timestamp": "2026-06-23T19:52:48.056Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,12 +20,6 @@
       "started_at": "2026-06-23T16:07:20Z"
     },
     {
-      "username": "oh_bother",
-      "title": "Fixing and building Eurorack stuff! Cozy rainy day stream.",
-      "game": "Science & Technology",
-      "started_at": "2026-06-23T16:29:28Z"
-    },
-    {
       "username": "Zachap",
       "title": "General Strike... Abolish Private Property...",
       "game": "Just Chatting",
@@ -38,15 +32,9 @@
       "started_at": "2026-06-23T17:06:29Z"
     },
     {
-      "username": "vul100",
-      "title": "Tuesday June 23rd @2:30pm EDT:  Unboxing a special present, then Darjeeling: brewing an exquisite tea",
-      "game": "Science & Technology",
-      "started_at": "2026-06-23T18:28:55Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Soldering - Building - Modular Synths",
-      "game": "Just Chatting",
+      "game": "Science & Technology",
       "started_at": "2026-06-23T19:00:45Z"
     },
     {
@@ -54,6 +42,24 @@
       "title": "Short Stream - Sorting & Organizing Rocks 'n' Minerals ⛰️⚒️🪨🔎🔬 !discord !nova !tkf",
       "game": "Science & Technology",
       "started_at": "2026-06-23T18:57:46Z"
+    },
+    {
+      "username": "vul100",
+      "title": "Tuesday June 23rd @2:30pm EDT:  Unboxing a special present, then Darjeeling: brewing an exquisite tea",
+      "game": "Science & Technology",
+      "started_at": "2026-06-23T18:28:55Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "Physics 1B Lec 1",
+      "game": "Just Chatting",
+      "started_at": "2026-06-23T19:29:55Z"
+    },
+    {
+      "username": "xTalkProgrammer",
+      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
+      "game": "Just Chatting",
+      "started_at": "2026-06-23T19:18:30Z"
     }
   ]
 }
