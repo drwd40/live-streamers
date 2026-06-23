@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-23T17:03:10.312Z",
+  "timestamp": "2026-06-23T17:42:51.186Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "Fixing and building Eurorack stuff! Cozy rainy day stream.",
       "game": "Science & Technology",
       "started_at": "2026-06-23T16:29:28Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "Helicopters, Airplanes, Space Stations, Oh My! [Birthday Month!]",
+      "game": "Kerbal Space Program",
+      "started_at": "2026-06-23T17:06:29Z"
     }
   ]
 }
