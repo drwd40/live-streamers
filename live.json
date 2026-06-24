@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-24T00:03:48.882Z",
+  "timestamp": "2026-06-24T01:10:36.126Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-06-23T13:01:48Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "The SLC-6 Shuttle Pad Build! (Part 4) Cranes, pads and more!",
-      "game": "Kerbal Space Program",
-      "started_at": "2026-06-23T16:00:52Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "ELECTION NIGHT: NEW YORK PRIMARIES + MORE | SENATE REBUKES TRUMP BY PASSING WAR POWERS RESOLUTION",
       "game": "Just Chatting",
       "started_at": "2026-06-23T21:49:53Z"
+    },
+    {
+      "username": "AstroCanuck",
+      "title": "Astro's Po'Pourri: Brickworld Chicago 2026 Review | !PGV !nail | !drop !tkf",
+      "game": "Lego & Brickbuilding",
+      "started_at": "2026-06-24T00:04:35Z"
     },
     {
       "username": "DrawCuriosity",
@@ -26,22 +26,22 @@
       "started_at": "2026-06-23T20:06:32Z"
     },
     {
-      "username": "shnaff",
-      "title": "Guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-06-23T22:03:25Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Soldering - Building - Modular Synths",
       "game": "Science & Technology",
       "started_at": "2026-06-23T19:00:45Z"
     },
     {
-      "username": "Rocketology",
-      "title": "Helicopters, Airplanes, Space Stations, Oh My! [Birthday Month!]",
-      "game": "Kerbal Space Program",
-      "started_at": "2026-06-23T17:06:29Z"
+      "username": "Nerduino",
+      "title": "Tuesday Astronomy and Space Updates with a former NASA guy.  #NASA #science #space #stem #charity #teamstream",
+      "game": "Science & Technology",
+      "started_at": "2026-06-24T00:49:36Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "🦔 Tinker Tuesday | Happy Birthday Sonic 🦔| Science of hedgehog signaling + sonic and more! | Partner+ 215/300 | !ppp !yt !pod !fredhutch",
+      "game": "Science & Technology",
+      "started_at": "2026-06-24T01:01:03Z"
     },
     {
       "username": "eToThe2iPi",
@@ -50,10 +50,28 @@
       "started_at": "2026-06-23T21:57:44Z"
     },
     {
+      "username": "SharkG33k",
+      "title": "Toothday! Sharks in Minecraft with @mister__brain | !charity",
+      "game": "Minecraft",
+      "started_at": "2026-06-24T00:03:52Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-06-24T00:58:49Z"
+    },
+    {
       "username": "nSimplexPachinko",
       "title": "May go back to The Gallery; Starting Day 31; Night 14, Blue Prince - 20260623",
       "game": "Blue Prince",
       "started_at": "2026-06-23T21:16:48Z"
+    },
+    {
+      "username": "Mr_Aejis",
+      "title": "Time to save this gamer girl - Persona 5 continues!",
+      "game": "Persona 5 Royal",
+      "started_at": "2026-06-24T00:36:33Z"
     }
   ]
 }
