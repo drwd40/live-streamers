@@ -1,6 +1,12 @@
 {
-  "timestamp": "2026-06-24T14:56:04.111Z",
+  "timestamp": "2026-06-24T15:45:49.940Z",
   "live": [
+    {
+      "username": "Maya",
+      "title": "ordering room service and doing nothing in a hotel room :D",
+      "game": "Just Chatting",
+      "started_at": "2026-06-24T15:35:41Z"
+    },
     {
       "username": "AlveusSanctuary",
       "title": "Alveus Subathon (Day 32 / 42+) | !alveus !institute !pixel !schedule !video !subathon",
@@ -12,6 +18,12 @@
       "title": "🔭 What Happens to a Physicist in a Heat Wave? Tune in to Find Out! 🚀 !physics !cnc !3dprinter",
       "game": "Sintopia",
       "started_at": "2026-06-24T12:02:40Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "More lootboxes 💰 (day 52)",
+      "game": "Software and Game Development",
+      "started_at": "2026-06-24T15:14:42Z"
     },
     {
       "username": "Zachap",
