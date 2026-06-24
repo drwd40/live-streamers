@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-24T20:01:21.610Z",
+  "timestamp": "2026-06-24T20:42:20.322Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,10 +20,10 @@
       "started_at": "2026-06-24T16:14:05Z"
     },
     {
-      "username": "IrishJohnGames",
-      "title": "🍀 Is it even possible to do anything in this heat?!! Charity stream with Balint tomorrow. | !rop !patreon !discord",
-      "game": "Software and Game Development",
-      "started_at": "2026-06-24T18:02:40Z"
+      "username": "Paleontologizing",
+      "title": "🦴🦖  MONTANA DINOSAUR DIG,  Final Day ⛏️  Dinosaur bonebed excavation w/ Drs. Denver & Liz Freedman-Fowler + Badlands Dinosaur Museum crew",
+      "game": "IRL",
+      "started_at": "2026-06-24T20:03:25Z"
     },
     {
       "username": "AdamLearnsLive",
@@ -32,16 +32,22 @@
       "started_at": "2026-06-24T19:42:30Z"
     },
     {
-      "username": "Zachap",
-      "title": "end bootlicking today",
-      "game": "Just Chatting",
-      "started_at": "2026-06-24T10:02:22Z"
+      "username": "IrishJohnGames",
+      "title": "🍀 Is it even possible to do anything in this heat?!! Charity stream with Balint tomorrow. | !rop !patreon !discord",
+      "game": "Software and Game Development",
+      "started_at": "2026-06-24T18:02:40Z"
     },
     {
       "username": "DiatomsATTACK",
       "title": "Diatoms from glacial potholes with guests Mark and Wyatt.",
       "game": "Science & Technology",
       "started_at": "2026-06-24T18:37:33Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "end bootlicking today",
+      "game": "Just Chatting",
+      "started_at": "2026-06-24T10:02:22Z"
     },
     {
       "username": "ActualEducation",
