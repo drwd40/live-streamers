@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-24T01:54:18.123Z",
+  "timestamp": "2026-06-24T02:58:03.305Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,21 +14,21 @@
       "started_at": "2026-06-23T21:49:53Z"
     },
     {
-      "username": "AstroCanuck",
-      "title": "Astro's Po'Pourri: Brickworld Chicago 2026 Review | !PGV !nail | !drop !tkf",
-      "game": "Lego & Brickbuilding",
-      "started_at": "2026-06-24T00:04:35Z"
-    },
-    {
       "username": "SciAnts_Streams",
       "title": "🦔 Tinker Tuesday | Happy Birthday Sonic 🦔| Science of hedgehog signaling + sonic and more! | Partner+ 215/300 | !ppp !yt !pod !fredhutch",
       "game": "Science & Technology",
       "started_at": "2026-06-24T01:01:03Z"
     },
     {
+      "username": "AstroCanuck",
+      "title": "Astro's Po'Pourri: Brickworld Chicago 2026 Review | !PGV !nail | !drop !tkf",
+      "game": "Lego & Brickbuilding",
+      "started_at": "2026-06-24T00:04:35Z"
+    },
+    {
       "username": "DrawCuriosity",
-      "title": "🌎[PARTNER PUSH] Chatting science and climate with @PeaceFireNow ✨🐏 !merch !dailybug !wcr",
-      "game": "Science & Technology",
+      "title": "🌎[PARTNER PUSH] Drawing bugs - Chatting science and climate with @PeaceFireNow ✨🐏 !merch !dailybug !wcr",
+      "game": "Art",
       "started_at": "2026-06-23T20:06:32Z"
     },
     {
@@ -44,34 +44,28 @@
       "started_at": "2026-06-23T19:00:45Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
-      "game": "Just Chatting",
-      "started_at": "2026-06-24T00:58:49Z"
-    },
-    {
       "username": "SharkG33k",
       "title": "Toothday! Sharks in Minecraft with @mister__brain | !charity",
       "game": "Minecraft",
       "started_at": "2026-06-24T00:03:52Z"
     },
     {
-      "username": "Mr_Aejis",
-      "title": "Time to save this gamer girl - Persona 5 continues!",
-      "game": "Persona 5 Royal",
-      "started_at": "2026-06-24T00:36:33Z"
-    },
-    {
-      "username": "nSimplexPachinko",
-      "title": "May go back to The Gallery; Starting Day 31; Night 14, Blue Prince - 20260623",
-      "game": "Blue Prince",
-      "started_at": "2026-06-23T21:16:48Z"
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-06-24T00:58:49Z"
     },
     {
       "username": "walkingsticklibrary",
       "title": "How the mollusc got its shell -- for real. How Christians and Moslems view the red heifer, and how to support someone in recovery.",
       "game": "Science & Technology",
       "started_at": "2026-06-24T01:30:20Z"
+    },
+    {
+      "username": "Mr_Aejis",
+      "title": "Time to save this gamer girl - Persona 5 continues!",
+      "game": "Persona 5 Royal",
+      "started_at": "2026-06-24T00:36:33Z"
     }
   ]
 }
