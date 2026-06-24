@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-24T20:42:20.322Z",
+  "timestamp": "2026-06-24T21:13:30.661Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,15 +8,9 @@
       "started_at": "2026-06-23T13:01:48Z"
     },
     {
-      "username": "Kitboga",
-      "title": "Making Phone Scammers Angry [Ep. 1536]",
-      "game": "Just Chatting",
-      "started_at": "2026-06-24T16:35:58Z"
-    },
-    {
       "username": "EJ_SA",
-      "title": "Building a working SLC-6 style Shuttle Pad! (Part 5)",
-      "game": "Kerbal Space Program",
+      "title": "EJ's Space and Rocket Revue! 6/24/26",
+      "game": "Science & Technology",
       "started_at": "2026-06-24T16:14:05Z"
     },
     {
@@ -38,22 +32,16 @@
       "started_at": "2026-06-24T18:02:40Z"
     },
     {
-      "username": "DiatomsATTACK",
-      "title": "Diatoms from glacial potholes with guests Mark and Wyatt.",
-      "game": "Science & Technology",
-      "started_at": "2026-06-24T18:37:33Z"
-    },
-    {
       "username": "Zachap",
       "title": "end bootlicking today",
       "game": "Just Chatting",
       "started_at": "2026-06-24T10:02:22Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "Physics 1B Lec 2",
-      "game": "Just Chatting",
-      "started_at": "2026-06-24T19:29:27Z"
+      "username": "nSimplexPachinko",
+      "title": "Level Curves, Level Surfaces, and Alternate Coordinates; Cracking the GRE Math Subject Test, Night 045 - 20260624",
+      "game": "Math",
+      "started_at": "2026-06-24T21:06:33Z"
     }
   ]
 }
