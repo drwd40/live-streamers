@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-06-24T18:02:51.027Z",
+  "timestamp": "2026-06-24T18:46:00.454Z",
   "live": [
     {
-      "username": "Maya",
-      "title": "ordering room service and doing nothing in a hotel room :D",
+      "username": "AlveusSanctuary",
+      "title": "Education Time w/ Kayla | !alveus !institute !pixel !schedule !video",
       "game": "Just Chatting",
-      "started_at": "2026-06-24T15:35:41Z"
+      "started_at": "2026-06-23T13:01:48Z"
     },
     {
       "username": "Kitboga",
@@ -14,34 +14,28 @@
       "started_at": "2026-06-24T16:35:58Z"
     },
     {
-      "username": "AlveusSanctuary",
-      "title": "Alveus Subathon (Day 32 / 42+) | !alveus !institute !pixel !schedule !video !subathon",
-      "game": "Just Chatting",
-      "started_at": "2026-06-23T13:01:48Z"
-    },
-    {
       "username": "EJ_SA",
       "title": "Building a working SLC-6 style Shuttle Pad! (Part 5)",
       "game": "Kerbal Space Program",
       "started_at": "2026-06-24T16:14:05Z"
     },
     {
-      "username": "TinyToxicTofu",
-      "title": "🔭 What Happens to a Physicist in a Heat Wave? Tune in to Find Out! 🚀 !physics !cnc !3dprinter",
-      "game": "Sintopia",
-      "started_at": "2026-06-24T12:02:40Z"
-    },
-    {
-      "username": "AdamLearnsLive",
-      "title": "More lootboxes 💰 (day 52)",
+      "username": "IrishJohnGames",
+      "title": "🍀 Is it even possible to do anything in this heat?!! Charity stream with Balint tomorrow. | !rop !patreon !discord",
       "game": "Software and Game Development",
-      "started_at": "2026-06-24T15:14:42Z"
+      "started_at": "2026-06-24T18:02:40Z"
     },
     {
       "username": "Zachap",
       "title": "end bootlicking today",
       "game": "Just Chatting",
       "started_at": "2026-06-24T10:02:22Z"
+    },
+    {
+      "username": "DiatomsATTACK",
+      "title": "Diatoms from glacial potholes with guests Mark and Wyatt.",
+      "game": "Science & Technology",
+      "started_at": "2026-06-24T18:37:33Z"
     }
   ]
 }
