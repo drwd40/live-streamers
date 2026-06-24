@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-24T19:19:32.560Z",
+  "timestamp": "2026-06-24T20:01:21.610Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Education Time w/ Kayla | !alveus !institute !pixel !schedule !video",
+      "title": "Alveus Subathon (Day 32 / 42+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
       "started_at": "2026-06-23T13:01:48Z"
     },
@@ -26,6 +26,12 @@
       "started_at": "2026-06-24T18:02:40Z"
     },
     {
+      "username": "AdamLearnsLive",
+      "title": "Chill game dev (day 52½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-06-24T19:42:30Z"
+    },
+    {
       "username": "Zachap",
       "title": "end bootlicking today",
       "game": "Just Chatting",
@@ -36,6 +42,12 @@
       "title": "Diatoms from glacial potholes with guests Mark and Wyatt.",
       "game": "Science & Technology",
       "started_at": "2026-06-24T18:37:33Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "Physics 1B Lec 2",
+      "game": "Just Chatting",
+      "started_at": "2026-06-24T19:29:27Z"
     }
   ]
 }
