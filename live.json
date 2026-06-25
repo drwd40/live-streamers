@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-25T20:48:41.927Z",
+  "timestamp": "2026-06-25T21:20:57.667Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,22 @@
       "started_at": "2026-06-25T10:01:11Z"
     },
     {
+      "username": "IrishJohnGames",
+      "title": "🍀 Charity Special with Balint! !charity | !rop !patreon !discord",
+      "game": "Minecraft",
+      "started_at": "2026-06-25T17:59:32Z"
+    },
+    {
       "username": "GeoJim2006",
       "title": "We're Doin' Geology Here - Rare Thursday Stream ⛰️⚒️🪨🔎🔬 !discord !nova !tkf",
       "game": "Science & Technology",
       "started_at": "2026-06-25T19:12:18Z"
     },
     {
-      "username": "IrishJohnGames",
-      "title": "🍀 Charity Special with Balint! !charity | !rop !patreon !discord",
-      "game": "Minecraft",
-      "started_at": "2026-06-25T17:59:32Z"
+      "username": "SydHeresy",
+      "title": "Audio Electronics - Soldering - Repairs",
+      "game": "Science & Technology",
+      "started_at": "2026-06-25T18:00:35Z"
     },
     {
       "username": "Rocketology",
@@ -50,22 +56,10 @@
       "started_at": "2026-06-25T17:59:57Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Audio Electronics - Soldering - Repairs",
-      "game": "Just Chatting",
-      "started_at": "2026-06-25T18:00:35Z"
-    },
-    {
       "username": "DonFactorial",
       "title": "Answering your math questions and learning R",
       "game": "Math",
       "started_at": "2026-06-25T20:07:11Z"
-    },
-    {
-      "username": "pencenter",
-      "title": "Real Analysis Lesson #8 [(off) !fish🎣|!commands💻]",
-      "game": "Math",
-      "started_at": "2026-06-25T19:56:28Z"
     }
   ]
 }
