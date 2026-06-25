@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-25T13:23:23.259Z",
+  "timestamp": "2026-06-25T14:12:30.945Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-06-25T13:01:24Z"
     },
     {
-      "username": "Zachap",
-      "title": "ancom/syndicalist here ask me whatever",
-      "game": "Just Chatting",
-      "started_at": "2026-06-25T10:01:11Z"
-    },
-    {
       "username": "csharpfritz",
       "title": "C# Evolved",
       "game": "Software and Game Development",
       "started_at": "2026-06-25T13:11:59Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "ancom/syndicalist here ask me whatever",
+      "game": "Just Chatting",
+      "started_at": "2026-06-25T10:01:11Z"
     }
   ]
 }
