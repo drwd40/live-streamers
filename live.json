@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-06-25T00:11:25.897Z",
+  "timestamp": "2026-06-25T01:17:27.393Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Alveus Subathon (Day 32 / 42+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
       "started_at": "2026-06-23T13:01:48Z"
-    },
-    {
-      "username": "EJ_SA",
-      "title": "EJ's Space and Rocket Revue! 6/24/26",
-      "game": "Science & Technology",
-      "started_at": "2026-06-24T16:14:05Z"
     },
     {
       "username": "ipaintbirbs",
@@ -26,28 +20,40 @@
       "started_at": "2026-06-24T21:50:23Z"
     },
     {
+      "username": "EJ_SA",
+      "title": "LATE NIGHT BATTLEFIELD! 6/24/26",
+      "game": "Battlefield 6",
+      "started_at": "2026-06-24T16:14:05Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "Wacom Wednesday | Science art, rabbit holes, and Star Fox Launch at midnight! | Partner+ 226/300 | !ppp !yt !pod !fredhutch",
+      "game": "Science & Technology",
+      "started_at": "2026-06-25T01:00:44Z"
+    },
+    {
       "username": "nogre0",
       "title": "dogmatism and normalcy",
-      "game": "Just Chatting",
+      "game": "Writing & Reading",
       "started_at": "2026-06-25T00:00:25Z"
-    },
-    {
-      "username": "ActualEducation",
-      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
-      "game": "Just Chatting",
-      "started_at": "2026-06-25T00:06:10Z"
-    },
-    {
-      "username": "Ask_a_Scientist_Gaming",
-      "title": "Dr. Mollie Romano- childhood communication, and Sonic the Hedgehog.",
-      "game": "Science & Technology",
-      "started_at": "2026-06-24T23:56:22Z"
     },
     {
       "username": "SharkG33k",
       "title": "Water Wednesday! NEW Marine Life Drone Footage! | !charity",
       "game": "Science & Technology",
       "started_at": "2026-06-25T00:06:05Z"
+    },
+    {
+      "username": "Ask_a_Scientist_Gaming",
+      "title": "Dr. Mollie Romano- Childhood Communication, and Sonic the Hedgehog.",
+      "game": "Science & Technology",
+      "started_at": "2026-06-24T23:56:22Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-06-25T00:06:10Z"
     }
   ]
 }
