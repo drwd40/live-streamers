@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-25T16:08:49.395Z",
+  "timestamp": "2026-06-25T16:57:25.106Z",
   "live": [
     {
       "username": "Kitboga",
@@ -9,9 +9,15 @@
     },
     {
       "username": "AlveusSanctuary",
-      "title": "Giraffe Quest w/ Amanda | !alveus !institute !pixel !schedule !video",
+      "title": "Alveus Subathon (Day 33 / 42+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
       "started_at": "2026-06-25T13:01:24Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "ancom/syndicalist here ask me whatever",
+      "game": "Just Chatting",
+      "started_at": "2026-06-25T10:01:11Z"
     },
     {
       "username": "AdamLearnsLive",
@@ -20,10 +26,10 @@
       "started_at": "2026-06-25T15:11:25Z"
     },
     {
-      "username": "Zachap",
-      "title": "ancom/syndicalist here ask me whatever",
-      "game": "Just Chatting",
-      "started_at": "2026-06-25T10:01:11Z"
+      "username": "oh_bother",
+      "title": "Eurorack module testing module made modularly by wirewrapping modules module by module. #autocadad",
+      "game": "Science & Technology",
+      "started_at": "2026-06-25T16:39:24Z"
     }
   ]
 }
