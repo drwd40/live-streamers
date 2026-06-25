@@ -1,15 +1,9 @@
 {
-  "timestamp": "2026-06-25T17:50:26.422Z",
+  "timestamp": "2026-06-25T18:32:20.198Z",
   "live": [
     {
-      "username": "Kitboga",
-      "title": "Tech Scammers vs Unskippable Ads [Ep. 1537]",
-      "game": "Just Chatting",
-      "started_at": "2026-06-25T14:29:00Z"
-    },
-    {
       "username": "AlveusSanctuary",
-      "title": "Chat Chats w/ Dr. Julie | !alveus !institute !pixel !schedule !video",
+      "title": "Projects w/ FAID | !alveus !institute !pixel !schedule !video",
       "game": "Just Chatting",
       "started_at": "2026-06-25T13:01:24Z"
     },
@@ -30,6 +24,36 @@
       "title": "Eurorack module testing module made modularly by wirewrapping modules module by module. #autocadad",
       "game": "Science & Technology",
       "started_at": "2026-06-25T16:39:24Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "[Charity Event for Cancer Research] Raising money for Fred Hutch with @irishjohngames | Partner+ 229/300 | !ppp !yt !pod !fredhutch",
+      "game": "Minecraft",
+      "started_at": "2026-06-25T18:00:10Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀 Charity Special with Balint! !charity | !rop !patreon !discord",
+      "game": "Minecraft",
+      "started_at": "2026-06-25T17:59:32Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Day 2 of E&M: Gauss' Law",
+      "game": "Math",
+      "started_at": "2026-06-25T17:56:10Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "Moar Mods, Moar Science, Moar Kerbal!",
+      "game": "Kerbal Space Program",
+      "started_at": "2026-06-25T17:59:57Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Audio Electronics - Soldering - Repairs",
+      "game": "Just Chatting",
+      "started_at": "2026-06-25T18:00:35Z"
     },
     {
       "username": "ActualEducation",
