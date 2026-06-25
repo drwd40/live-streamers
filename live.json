@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-25T19:17:00.720Z",
+  "timestamp": "2026-06-25T20:01:34.560Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,28 +14,34 @@
       "started_at": "2026-06-25T17:05:57Z"
     },
     {
-      "username": "Zachap",
-      "title": "ancom/syndicalist here ask me whatever",
-      "game": "Just Chatting",
-      "started_at": "2026-06-25T10:01:11Z"
-    },
-    {
       "username": "SciAnts_Streams",
       "title": "[Charity Event for Cancer Research] Raising money for Fred Hutch with @irishjohngames | Partner+ 229/300 | !ppp !yt !pod !fredhutch",
       "game": "Minecraft",
       "started_at": "2026-06-25T18:00:10Z"
     },
     {
-      "username": "oh_bother",
-      "title": "Eurorack module testing module made modularly by wirewrapping modules module by module. #autocadad",
-      "game": "Science & Technology",
-      "started_at": "2026-06-25T16:39:24Z"
+      "username": "Zachap",
+      "title": "ancom/syndicalist here ask me whatever",
+      "game": "Just Chatting",
+      "started_at": "2026-06-25T10:01:11Z"
+    },
+    {
+      "username": "DrMick",
+      "title": "Mental Health Chat + Painting 40k",
+      "game": "Miniatures & Models",
+      "started_at": "2026-06-25T19:14:50Z"
     },
     {
       "username": "IrishJohnGames",
       "title": "🍀 Charity Special with Balint! !charity | !rop !patreon !discord",
       "game": "Minecraft",
       "started_at": "2026-06-25T17:59:32Z"
+    },
+    {
+      "username": "GeoJim2006",
+      "title": "We're Doin' Geology Here - Rare Thursday Stream ⛰️⚒️🪨🔎🔬 !discord !nova !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-06-25T19:12:18Z"
     },
     {
       "username": "SydHeresy",
@@ -56,16 +62,10 @@
       "started_at": "2026-06-25T17:56:10Z"
     },
     {
-      "username": "DrMick",
-      "title": "Mental Health Chat + Painting 40k",
-      "game": "Miniatures & Models",
-      "started_at": "2026-06-25T19:14:50Z"
-    },
-    {
-      "username": "GeoJim2006",
-      "title": "We're Doin' Geology Here - Rare Thursday Stream ⛰️⚒️🪨🔎🔬 !discord !nova !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-06-25T19:12:18Z"
+      "username": "pencenter",
+      "title": "Real Analysis Lesson #8 [(off) !fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-06-25T19:56:28Z"
     }
   ]
 }
