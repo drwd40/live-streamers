@@ -1,17 +1,23 @@
 {
-  "timestamp": "2026-06-25T12:33:25.982Z",
+  "timestamp": "2026-06-25T13:23:23.259Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Alveus Subathon (Day 33 / 42+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
-      "started_at": "2026-06-23T13:01:48Z"
+      "started_at": "2026-06-25T13:01:24Z"
     },
     {
       "username": "Zachap",
       "title": "ancom/syndicalist here ask me whatever",
       "game": "Just Chatting",
       "started_at": "2026-06-25T10:01:11Z"
+    },
+    {
+      "username": "csharpfritz",
+      "title": "C# Evolved",
+      "game": "Software and Game Development",
+      "started_at": "2026-06-25T13:11:59Z"
     }
   ]
 }
