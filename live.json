@@ -1,12 +1,6 @@
 {
-  "timestamp": "2026-06-25T15:16:24.784Z",
+  "timestamp": "2026-06-25T16:08:49.395Z",
   "live": [
-    {
-      "username": "AlveusSanctuary",
-      "title": "Giraffe Quest w/ Amanda | !alveus !institute !pixel !schedule !video",
-      "game": "Just Chatting",
-      "started_at": "2026-06-25T13:01:24Z"
-    },
     {
       "username": "Kitboga",
       "title": "Tech Scammers vs Unskippable Ads [Ep. 1537]",
@@ -14,16 +8,22 @@
       "started_at": "2026-06-25T14:29:00Z"
     },
     {
-      "username": "Zachap",
-      "title": "ancom/syndicalist here ask me whatever",
+      "username": "AlveusSanctuary",
+      "title": "Giraffe Quest w/ Amanda | !alveus !institute !pixel !schedule !video",
       "game": "Just Chatting",
-      "started_at": "2026-06-25T10:01:11Z"
+      "started_at": "2026-06-25T13:01:24Z"
     },
     {
       "username": "AdamLearnsLive",
       "title": "Game-music day (day 53)",
       "game": "Software and Game Development",
       "started_at": "2026-06-25T15:11:25Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "ancom/syndicalist here ask me whatever",
+      "game": "Just Chatting",
+      "started_at": "2026-06-25T10:01:11Z"
     }
   ]
 }
