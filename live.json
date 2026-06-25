@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-06-25T01:17:27.393Z",
+  "timestamp": "2026-06-25T02:04:26.992Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Alveus Subathon (Day 32 / 42+) | !alveus !institute !pixel !schedule !video !subathon",
+      "title": "Chat Chats w/ Evan | !alveus !institute !pixel !schedule !video",
       "game": "Just Chatting",
       "started_at": "2026-06-23T13:01:48Z"
-    },
-    {
-      "username": "ipaintbirbs",
-      "title": "professional artist is bad at painting game",
-      "game": "MECCHA CHAMELEON",
-      "started_at": "2026-06-24T21:57:28Z"
     },
     {
       "username": "imreallyimportant",
@@ -20,16 +14,16 @@
       "started_at": "2026-06-24T21:50:23Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "LATE NIGHT BATTLEFIELD! 6/24/26",
-      "game": "Battlefield 6",
-      "started_at": "2026-06-24T16:14:05Z"
-    },
-    {
       "username": "SciAnts_Streams",
       "title": "Wacom Wednesday | Science art, rabbit holes, and Star Fox Launch at midnight! | Partner+ 226/300 | !ppp !yt !pod !fredhutch",
       "game": "Science & Technology",
       "started_at": "2026-06-25T01:00:44Z"
+    },
+    {
+      "username": "Moohoodles",
+      "title": "🪐 Astrobiology & Space News! ✨",
+      "game": "Science & Technology",
+      "started_at": "2026-06-25T01:21:26Z"
     },
     {
       "username": "nogre0",
@@ -54,6 +48,12 @@
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Just Chatting",
       "started_at": "2026-06-25T00:06:10Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "The nations of the world's \"red heifer.\" Genetically modified papaya in Atlanta, and the idiots' on the MARTA bus's argument.",
+      "game": "Science & Technology",
+      "started_at": "2026-06-25T01:28:56Z"
     }
   ]
 }
