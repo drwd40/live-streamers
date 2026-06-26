@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-26T19:22:01.436Z",
+  "timestamp": "2026-06-26T20:04:53.315Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,24 @@
       "title": "if click, ask something. i dare.",
       "game": "Just Chatting",
       "started_at": "2026-06-26T10:01:31Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Upgrades (day 54½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-06-26T19:59:27Z"
+    },
+    {
+      "username": "VolcanoDoc",
+      "title": "all these EQs are NOT connected | Intro to Earth Science Series | !phd !tkf !socials !pubs",
+      "game": "Science & Technology",
+      "started_at": "2026-06-26T19:52:34Z"
+    },
+    {
+      "username": "GeoJim2006",
+      "title": "Friday Hangout in the Lab - Rockin You Into The Weekend ⛰️⚒️🪨🔎🔬 !discord !nova !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-06-26T19:52:20Z"
     }
   ]
 }
