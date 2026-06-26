@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-26T17:58:24.365Z",
+  "timestamp": "2026-06-26T18:45:46.656Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -16,14 +16,8 @@
     {
       "username": "ipaintbirbs",
       "title": "chill bird coworking hours?",
-      "game": "Art",
+      "game": "Co-working & Studying",
       "started_at": "2026-06-26T16:04:21Z"
-    },
-    {
-      "username": "AdamLearnsLive",
-      "title": "An enticing title (day 54)",
-      "game": "Software and Game Development",
-      "started_at": "2026-06-26T15:05:28Z"
     },
     {
       "username": "Zachap",
@@ -32,10 +26,10 @@
       "started_at": "2026-06-26T10:01:31Z"
     },
     {
-      "username": "oh_bother",
-      "title": "Eurorack module testing module made modularly by wirewrapping modules module by module. Part 2",
-      "game": "Science & Technology",
-      "started_at": "2026-06-26T14:56:06Z"
+      "username": "AdamLearnsLive",
+      "title": "An enticing title (day 54)",
+      "game": "Software and Game Development",
+      "started_at": "2026-06-26T15:05:28Z"
     },
     {
       "username": "csharpfritz",
@@ -45,7 +39,7 @@
     },
     {
       "username": "CosmoQuestX",
-      "title": "Astronomy Cast #799: Heavy Lift Rockets",
+      "title": "Space Rocks Collected for Science with guest Dr Rhonda Stroud",
       "game": "Talk Shows & Podcasts",
       "started_at": "2026-06-26T17:55:28Z"
     }
