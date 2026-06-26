@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-26T14:05:56.663Z",
+  "timestamp": "2026-06-26T15:04:48.978Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "if click, ask something. i dare.",
       "game": "Just Chatting",
       "started_at": "2026-06-26T10:01:31Z"
+    },
+    {
+      "username": "oh_bother",
+      "title": "Eurorack module testing module made modularly by wirewrapping modules module by module. Part 2",
+      "game": "Science & Technology",
+      "started_at": "2026-06-26T14:56:06Z"
     }
   ]
 }
