@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-26T20:04:53.315Z",
+  "timestamp": "2026-06-26T20:43:57.716Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -9,27 +9,21 @@
     },
     {
       "username": "EJ_SA",
-      "title": "EJ's Space and Rocket Launch Revue! 6/26/26",
+      "title": "NSF - TFT",
       "game": "Science & Technology",
       "started_at": "2026-06-26T16:04:40Z"
-    },
-    {
-      "username": "ipaintbirbs",
-      "title": "chill bird coworking hours?",
-      "game": "Co-working & Studying",
-      "started_at": "2026-06-26T16:04:21Z"
-    },
-    {
-      "username": "Zachap",
-      "title": "if click, ask something. i dare.",
-      "game": "Just Chatting",
-      "started_at": "2026-06-26T10:01:31Z"
     },
     {
       "username": "AdamLearnsLive",
       "title": "Upgrades (day 54½)",
       "game": "Software and Game Development",
       "started_at": "2026-06-26T19:59:27Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "if click, ask something. i dare.",
+      "game": "Just Chatting",
+      "started_at": "2026-06-26T10:01:31Z"
     },
     {
       "username": "VolcanoDoc",
@@ -42,6 +36,12 @@
       "title": "Friday Hangout in the Lab - Rockin You Into The Weekend ⛰️⚒️🪨🔎🔬 !discord !nova !tkf",
       "game": "Science & Technology",
       "started_at": "2026-06-26T19:52:20Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Namalsk. No pants, no problem",
+      "game": "DayZ",
+      "started_at": "2026-06-26T20:07:48Z"
     }
   ]
 }
