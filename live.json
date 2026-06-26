@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-26T18:45:46.656Z",
+  "timestamp": "2026-06-26T19:22:01.436Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,24 +24,6 @@
       "title": "if click, ask something. i dare.",
       "game": "Just Chatting",
       "started_at": "2026-06-26T10:01:31Z"
-    },
-    {
-      "username": "AdamLearnsLive",
-      "title": "An enticing title (day 54)",
-      "game": "Software and Game Development",
-      "started_at": "2026-06-26T15:05:28Z"
-    },
-    {
-      "username": "csharpfritz",
-      "title": "Building a Geography game for StreamerMap",
-      "game": "Software and Game Development",
-      "started_at": "2026-06-26T17:16:47Z"
-    },
-    {
-      "username": "CosmoQuestX",
-      "title": "Space Rocks Collected for Science with guest Dr Rhonda Stroud",
-      "game": "Talk Shows & Podcasts",
-      "started_at": "2026-06-26T17:55:28Z"
     }
   ]
 }
