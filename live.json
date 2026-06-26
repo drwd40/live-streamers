@@ -1,11 +1,23 @@
 {
-  "timestamp": "2026-06-26T15:55:31.038Z",
+  "timestamp": "2026-06-26T16:37:06.360Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Alveus Subathon (Day 33 / 42+) | !alveus !institute !pixel !schedule !video !subathon",
+      "title": "Alveus Subathon (Day 34 / 42+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
       "started_at": "2026-06-25T13:01:24Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "EJ's Space and Rocket Launch Revue! 6/26/26",
+      "game": "Science & Technology",
+      "started_at": "2026-06-26T16:04:40Z"
+    },
+    {
+      "username": "ipaintbirbs",
+      "title": "chill bird coworking hours?",
+      "game": "Art",
+      "started_at": "2026-06-26T16:04:21Z"
     },
     {
       "username": "AdamLearnsLive",
