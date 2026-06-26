@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-06-26T22:12:08.159Z",
+  "timestamp": "2026-06-26T22:40:52.823Z",
   "live": [
-    {
-      "username": "AlveusSanctuary",
-      "title": "Alveus Subathon (Day 34 / 42+) | !alveus !institute !pixel !schedule !video !subathon",
-      "game": "Just Chatting",
-      "started_at": "2026-06-25T13:01:24Z"
-    },
     {
       "username": "Maya",
       "title": "BASKETBALL W/ @ADAPT 🏀",
       "game": "Just Chatting",
       "started_at": "2026-06-26T22:00:47Z"
+    },
+    {
+      "username": "AlveusSanctuary",
+      "title": "Alveus Subathon (Day 34 / 42+) | !alveus !institute !pixel !schedule !video !subathon",
+      "game": "Just Chatting",
+      "started_at": "2026-06-25T13:01:24Z"
     },
     {
       "username": "EJ_SA",
@@ -26,22 +26,10 @@
       "started_at": "2026-06-26T21:54:38Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Upgrades (day 54½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-06-26T19:59:27Z"
-    },
-    {
       "username": "VolcanoDoc",
       "title": "all these EQs are NOT connected | Intro to Earth Science Series | !phd !tkf !socials !pubs",
       "game": "Science & Technology",
       "started_at": "2026-06-26T19:52:34Z"
-    },
-    {
-      "username": "GeoJim2006",
-      "title": "Friday Hangout in the Lab - Rockin You Into The Weekend ⛰️⚒️🪨🔎🔬 !discord !nova !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-06-26T19:52:20Z"
     },
     {
       "username": "shnaff",
@@ -50,16 +38,28 @@
       "started_at": "2026-06-26T22:03:38Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Namalsk. No pants, no problem",
-      "game": "DayZ",
-      "started_at": "2026-06-26T20:07:48Z"
+      "username": "GeoJim2006",
+      "title": "Friday Hangout in the Lab - Rockin You Into The Weekend ⛰️⚒️🪨🔎🔬 !discord !nova !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-06-26T19:52:20Z"
     },
     {
       "username": "eToThe2iPi",
       "title": "Sixteen, Episode 26.02",
       "game": "Quiz Show",
       "started_at": "2026-06-26T21:59:28Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Namalsk. No pants, no problem",
+      "game": "DayZ",
+      "started_at": "2026-06-26T20:07:48Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Kicking around the Galaxy, Working for BOOP; Elite: Dangerous, Night 0066 - 20260626",
+      "game": "Elite: Dangerous",
+      "started_at": "2026-06-26T22:34:45Z"
     }
   ]
 }
