@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-06-26T00:03:16.210Z",
+  "timestamp": "2026-06-26T01:17:01.191Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Alveus Subathon (Day 33 / 42+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
       "started_at": "2026-06-25T13:01:24Z"
-    },
-    {
-      "username": "EJ_SA",
-      "title": "NSF - SPACEX STARSHIP 40 TESTING COVERAGE! 6/25/26",
-      "game": "Science & Technology",
-      "started_at": "2026-06-25T17:05:57Z"
     },
     {
       "username": "imreallyimportant",
@@ -26,10 +20,10 @@
       "started_at": "2026-06-25T18:00:10Z"
     },
     {
-      "username": "shnaff",
-      "title": "Guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-06-25T22:02:17Z"
+      "username": "AstroCanuck",
+      "title": "Astro's Po'Pourri: Brickworld Chicago 2026 Review Part 2 | !35 !PGV !nail | !drop !tkf",
+      "game": "Lego & Brickbuilding",
+      "started_at": "2026-06-26T00:01:15Z"
     },
     {
       "username": "SydHeresy",
@@ -38,22 +32,16 @@
       "started_at": "2026-06-25T18:00:35Z"
     },
     {
+      "username": "Nerduino",
+      "title": "Astronomy news.  Building an antenna.  Jet Propulsion Laboratory History with NASA guy.  #NASA #science #space #stem #scientist",
+      "game": "Science & Technology",
+      "started_at": "2026-06-26T01:00:39Z"
+    },
+    {
       "username": "MelissaInDeNile",
       "title": "Back with Assassins Creed: III! Time to finish all the side quests!! ~ Follower Goal: 2372/2600 ~ !socials !beyonddenile",
       "game": "Assassin's Creed III Remastered",
       "started_at": "2026-06-25T22:49:45Z"
-    },
-    {
-      "username": "nSimplexPachinko",
-      "title": "Party Update & Conditions for Laboratory Trailhead Unlocks; TitansGrave 012, TTRPG Prep - 20260625",
-      "game": "Tabletop RPGs",
-      "started_at": "2026-06-25T21:24:01Z"
-    },
-    {
-      "username": "AstroCanuck",
-      "title": "Astro's Po'Pourri: Brickworld Chicago 2026 Review Part 2 | !35 !PGV !nail | !drop !tkf",
-      "game": "Lego & Brickbuilding",
-      "started_at": "2026-06-26T00:01:15Z"
     }
   ]
 }
