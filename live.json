@@ -1,11 +1,17 @@
 {
-  "timestamp": "2026-06-26T15:04:48.978Z",
+  "timestamp": "2026-06-26T15:55:31.038Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Alveus Subathon (Day 33 / 42+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
       "started_at": "2026-06-25T13:01:24Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "An enticing title (day 54)",
+      "game": "Software and Game Development",
+      "started_at": "2026-06-26T15:05:28Z"
     },
     {
       "username": "Zachap",
