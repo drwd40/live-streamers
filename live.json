@@ -1,11 +1,17 @@
 {
-  "timestamp": "2026-06-27T21:56:28.927Z",
+  "timestamp": "2026-06-27T22:23:09.859Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Alveus Subathon (Day 35 / 42+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
       "started_at": "2026-06-27T13:06:05Z"
+    },
+    {
+      "username": "AstroCanuck",
+      "title": "Week's-end Catch Up: Curiosity Box & Space News & LEGO News | !35 !PGV !nail | !drop !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-06-27T22:06:15Z"
     },
     {
       "username": "SydHeresy",
@@ -24,6 +30,12 @@
       "title": "Answering your math questions and learning R",
       "game": "Math",
       "started_at": "2026-06-27T18:58:06Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "A little Piracy in the Caribbean on a Saturday Night",
+      "game": "Pirates of the Burning Sea",
+      "started_at": "2026-06-27T22:18:50Z"
     }
   ]
 }
