@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-27T04:34:56.560Z",
+  "timestamp": "2026-06-27T05:57:18.222Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -9,8 +9,8 @@
     },
     {
       "username": "Moohoodles",
-      "title": "🪐 Astrobiology & Space News! ✨",
-      "game": "Science & Technology",
+      "title": "🪐 First time playing Gothic ✨",
+      "game": "Gothic 1 Remake",
       "started_at": "2026-06-27T01:28:15Z"
     },
     {
@@ -18,18 +18,6 @@
       "title": "SciAnts News | New species, aging, color, pigeons snails, and more! | Partner+ 250/300 | !ppp !yt !pod !fredhutch",
       "game": "Science & Technology",
       "started_at": "2026-06-27T01:04:02Z"
-    },
-    {
-      "username": "AstroCanuck",
-      "title": "Astro's Po'Pourri: Brickworld Chicago 2026 Review Part 3 | !35 !PGV !nail | !drop !tkf",
-      "game": "Lego & Brickbuilding",
-      "started_at": "2026-06-27T00:00:24Z"
-    },
-    {
-      "username": "Rocketology",
-      "title": "[!chaosreign] New Campaign, Modded, All DLC! Friday Night Stompin' Grounds!",
-      "game": "MechWarrior 5: Mercenaries",
-      "started_at": "2026-06-27T03:49:30Z"
     }
   ]
 }
