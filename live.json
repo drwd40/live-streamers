@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-27T20:39:44.899Z",
+  "timestamp": "2026-06-27T21:05:12.298Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,12 +30,6 @@
       "title": "Answering your math questions and learning R",
       "game": "Math",
       "started_at": "2026-06-27T18:58:06Z"
-    },
-    {
-      "username": "Andilippi",
-      "title": "The incredible ROGUE, Live at The Neptune, Chesterfield",
-      "game": "Music",
-      "started_at": "2026-06-27T19:01:48Z"
     }
   ]
 }
