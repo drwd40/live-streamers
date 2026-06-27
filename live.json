@@ -1,11 +1,17 @@
 {
-  "timestamp": "2026-06-27T22:23:09.859Z",
+  "timestamp": "2026-06-27T22:45:32.862Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Alveus Subathon (Day 35 / 42+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
       "started_at": "2026-06-27T13:06:05Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "A little Piracy in the Caribbean on a Saturday Night",
+      "game": "Pirates of the Burning Sea",
+      "started_at": "2026-06-27T22:18:50Z"
     },
     {
       "username": "AstroCanuck",
@@ -24,18 +30,6 @@
       "title": "[!chaosreign] New Campaign, Modded, All DLC! Phoenix Legion Mercenary Company",
       "game": "MechWarrior 5: Mercenaries",
       "started_at": "2026-06-27T19:30:54Z"
-    },
-    {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and learning R",
-      "game": "Math",
-      "started_at": "2026-06-27T18:58:06Z"
-    },
-    {
-      "username": "DrAlexanderClarke",
-      "title": "A little Piracy in the Caribbean on a Saturday Night",
-      "game": "Pirates of the Burning Sea",
-      "started_at": "2026-06-27T22:18:50Z"
     }
   ]
 }
