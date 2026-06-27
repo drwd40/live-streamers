@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-27T13:57:25.550Z",
+  "timestamp": "2026-06-27T14:35:37.641Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Alveus Subathon (Day 34 / 42+) | !alveus !institute !pixel !schedule !video !subathon",
+      "title": "Alveus Subathon (Day 35 / 42+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
       "started_at": "2026-06-27T13:06:05Z"
     },
@@ -18,6 +18,12 @@
       "title": "I'M BACK! - Prep for tonight’s ULTRA SPECIAL stream!",
       "game": "Just Chatting",
       "started_at": "2026-06-27T13:09:43Z"
+    },
+    {
+      "username": "AcademyOfUselessIdeas",
+      "title": "The one where Slim changes his fortune for some magic beans!",
+      "game": "Math",
+      "started_at": "2026-06-27T14:18:48Z"
     }
   ]
 }
