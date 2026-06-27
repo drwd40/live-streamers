@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-27T18:44:05.960Z",
+  "timestamp": "2026-06-27T19:13:03.390Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,10 +14,22 @@
       "started_at": "2026-06-27T10:03:18Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Tablet/Headphones Unboxing & Initial Testing + Bring Your Questions: A Math/Ed Q&A",
-      "game": "",
-      "started_at": "2026-06-27T16:06:27Z"
+      "username": "Andilippi",
+      "title": "The incredible ROGUE, Live at The Neptune, Chesterfield",
+      "game": "Music",
+      "started_at": "2026-06-27T19:01:48Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Electronics - Soldering - And Chill",
+      "game": "Science & Technology",
+      "started_at": "2026-06-27T19:00:44Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and learning R",
+      "game": "Math",
+      "started_at": "2026-06-27T18:58:06Z"
     }
   ]
 }
