@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-27T01:57:03.400Z",
+  "timestamp": "2026-06-27T03:09:38.930Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-06-25T13:01:24Z"
     },
     {
-      "username": "imreallyimportant",
-      "title": "US STRIKES IRANIAN MILITARY TARGETS IN RESPONSE TO ATTACK ON CARGO SHIP",
-      "game": "Just Chatting",
-      "started_at": "2026-06-26T21:54:38Z"
-    },
-    {
       "username": "Moohoodles",
       "title": "🪐 Astrobiology & Space News! ✨",
       "game": "Science & Technology",
       "started_at": "2026-06-27T01:28:15Z"
+    },
+    {
+      "username": "imreallyimportant",
+      "title": "US STRIKES IRANIAN MILITARY TARGETS IN RESPONSE TO ATTACK ON CARGO SHIP",
+      "game": "Just Chatting",
+      "started_at": "2026-06-26T21:54:38Z"
     },
     {
       "username": "AstroCanuck",
