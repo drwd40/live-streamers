@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-06-27T00:01:27.899Z",
+  "timestamp": "2026-06-27T01:12:24.493Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Alveus Subathon (Day 34 / 42+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
       "started_at": "2026-06-25T13:01:24Z"
-    },
-    {
-      "username": "JapanesePrintmaking",
-      "title": "Making Japanese woodblock prints ... live while you watch ...",
-      "game": "Makers & Crafting",
-      "started_at": "2026-06-26T23:00:33Z"
     },
     {
       "username": "EJ_SA",
@@ -26,28 +20,22 @@
       "started_at": "2026-06-26T21:54:38Z"
     },
     {
-      "username": "VolcanoDoc",
-      "title": "all these EQs are NOT connected | Intro to Earth Science Series | !phd !tkf !socials !pubs",
-      "game": "Science & Technology",
-      "started_at": "2026-06-26T19:52:34Z"
-    },
-    {
-      "username": "shnaff",
-      "title": "Guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-06-26T22:03:38Z"
-    },
-    {
-      "username": "nSimplexPachinko",
-      "title": "Kicking around the Galaxy, Working for BOOP; Elite: Dangerous, Night 0066 - 20260626",
-      "game": "Elite: Dangerous",
-      "started_at": "2026-06-26T22:34:45Z"
-    },
-    {
       "username": "AstroCanuck",
       "title": "Astro's Po'Pourri: Brickworld Chicago 2026 Review Part 3 | !35 !PGV !nail | !drop !tkf",
       "game": "Lego & Brickbuilding",
       "started_at": "2026-06-27T00:00:24Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "SciAnts News | New species, aging, color, pigeons snails, and more! | Partner+ 250/300 | !ppp !yt !pod !fredhutch",
+      "game": "Science & Technology",
+      "started_at": "2026-06-27T01:04:02Z"
+    },
+    {
+      "username": "Mr_Aejis",
+      "title": "Teacher Plays Deltarune!",
+      "game": "Deltarune",
+      "started_at": "2026-06-27T00:50:01Z"
     }
   ]
 }
