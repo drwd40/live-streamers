@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-28T00:00:39.346Z",
+  "timestamp": "2026-06-28T01:18:26.070Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,22 +14,22 @@
       "started_at": "2026-06-27T22:06:15Z"
     },
     {
-      "username": "DrAlexanderClarke",
-      "title": "A little Piracy in the Caribbean on a Saturday Night",
-      "game": "Pirates of the Burning Sea",
-      "started_at": "2026-06-27T22:18:50Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Electronics - Soldering - And Chill",
       "game": "Science & Technology",
       "started_at": "2026-06-27T19:00:44Z"
     },
     {
-      "username": "Rocketology",
-      "title": "[!chaosreign] New Campaign, Modded, All DLC! Phoenix Legion Mercenary Company",
-      "game": "MechWarrior 5: Mercenaries",
-      "started_at": "2026-06-27T19:30:54Z"
+      "username": "SciAnts_Streams",
+      "title": "Sword Saturday + Charity Event | Onimusha 3 sword controller on OG ps2 hardware | Partner+ 262/300 | !ppp !yt !pod !fredhutch",
+      "game": "Science & Technology",
+      "started_at": "2026-06-28T01:03:24Z"
+    },
+    {
+      "username": "Mr_Aejis",
+      "title": "Teacher Plays Deltarune!",
+      "game": "Deltarune",
+      "started_at": "2026-06-28T00:58:46Z"
     }
   ]
 }
