@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-28T17:57:03.788Z",
+  "timestamp": "2026-06-28T18:27:54.734Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-06-28T15:30:00Z"
     },
     {
-      "username": "Zachap",
-      "title": "school of whatever, learn :)",
-      "game": "Just Chatting",
-      "started_at": "2026-06-28T10:02:27Z"
-    },
-    {
       "username": "AstroCanuck",
       "title": "Lazy Sunday LEGO: Briksmax Galaxy Explorer !LIGHT kit | !35 !PGV !nail | !drop !tkf",
       "game": "Lego & Brickbuilding",
       "started_at": "2026-06-28T14:01:44Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "school of whatever, learn :)",
+      "game": "Just Chatting",
+      "started_at": "2026-06-28T10:02:27Z"
     },
     {
       "username": "LumiRue",
@@ -42,6 +42,12 @@
       "title": "summertime metaphysics",
       "game": "Writing & Reading",
       "started_at": "2026-06-28T17:00:11Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "[!chaosreign] LRM's, SRM's, Autocannons, Oh My! Phoenix Legion Mercenary Company",
+      "game": "MechWarrior 5: Mercenaries",
+      "started_at": "2026-06-28T18:01:52Z"
     }
   ]
 }
