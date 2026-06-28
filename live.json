@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-28T15:34:44.944Z",
+  "timestamp": "2026-06-28T16:00:22.967Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,10 +8,10 @@
       "started_at": "2026-06-27T13:06:05Z"
     },
     {
-      "username": "Zachap",
-      "title": "school of whatever, learn :)",
-      "game": "Just Chatting",
-      "started_at": "2026-06-28T10:02:27Z"
+      "username": "TinyToxicTofu",
+      "title": "🔭 Can Tofu Survive Mars? 🚀 !physics !cnc !3dprinter",
+      "game": "Surviving Mars",
+      "started_at": "2026-06-28T15:30:00Z"
     },
     {
       "username": "AstroCanuck",
@@ -20,22 +20,16 @@
       "started_at": "2026-06-28T14:01:44Z"
     },
     {
-      "username": "TinyToxicTofu",
-      "title": "🔭 Can Tofu Survive Mars? 🚀 !physics !cnc !3dprinter",
-      "game": "Surviving Mars",
-      "started_at": "2026-06-28T15:30:00Z"
+      "username": "Zachap",
+      "title": "school of whatever, learn :)",
+      "game": "Just Chatting",
+      "started_at": "2026-06-28T10:02:27Z"
     },
     {
       "username": "LumiRue",
       "title": "Last stream of Pride | GAY NEWS | DC Pride Recap and Follow-up | GOING FOR NEW PULLUP MAX :D | (maybe bookclub?) | I'm on break",
       "game": "Just Chatting",
       "started_at": "2026-06-28T14:08:31Z"
-    },
-    {
-      "username": "DrAlexanderClarke",
-      "title": "It's a Library, I'm a Historian... will I read the books or shelve them?",
-      "game": "Librarian: Tidy Up the Arcane Library!",
-      "started_at": "2026-06-28T12:34:53Z"
     }
   ]
 }
