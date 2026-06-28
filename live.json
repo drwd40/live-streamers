@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-28T12:40:12.570Z",
+  "timestamp": "2026-06-28T13:08:31.327Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-06-27T13:06:05Z"
     },
     {
-      "username": "Zachap",
-      "title": "school of whatever, learn :)",
-      "game": "Just Chatting",
-      "started_at": "2026-06-28T10:02:27Z"
-    },
-    {
       "username": "TinyToxicTofu",
       "title": "🔭 Exploring New Project Ideas, Repairing Bob and Playing Sintopia 🚀 !physics !cnc !3dprinter",
       "game": "Science & Technology",
       "started_at": "2026-06-28T12:37:35Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "school of whatever, learn :)",
+      "game": "Just Chatting",
+      "started_at": "2026-06-28T10:02:27Z"
     },
     {
       "username": "DrAlexanderClarke",
