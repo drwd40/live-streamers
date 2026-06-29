@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-29T20:12:16.984Z",
+  "timestamp": "2026-06-29T20:52:29.842Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,12 +36,6 @@
       "title": "Building Quiz Show Software: Sixteen (Node.JS, Phaser 4, HTML/JS/CSS)",
       "game": "Software and Game Development",
       "started_at": "2026-06-29T18:07:32Z"
-    },
-    {
-      "username": "ActualEducation",
-      "title": "Physics 1B: Lecture 5",
-      "game": "Just Chatting",
-      "started_at": "2026-06-29T19:26:53Z"
     }
   ]
 }
