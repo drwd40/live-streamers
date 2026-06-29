@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-29T20:52:29.842Z",
+  "timestamp": "2026-06-29T21:25:08.740Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -16,7 +16,7 @@
     {
       "username": "SciAnts_Streams",
       "title": "[Charity Event For Cancer Research] | Dark Scrolls with @plainoletrey! Fredhutch guests later! | Partner+ 307/300 | !ppp !yt !pod !fredhutch",
-      "game": "Dark Scrolls",
+      "game": "Science & Technology",
       "started_at": "2026-06-29T16:10:55Z"
     },
     {
@@ -32,10 +32,10 @@
       "started_at": "2026-06-29T17:20:38Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Building Quiz Show Software: Sixteen (Node.JS, Phaser 4, HTML/JS/CSS)",
-      "game": "Software and Game Development",
-      "started_at": "2026-06-29T18:07:32Z"
+      "username": "nSimplexPachinko",
+      "title": "Who is Smarter? Claude or Humans? Math Communication Monday - 20260629",
+      "game": "Math",
+      "started_at": "2026-06-29T20:55:45Z"
     }
   ]
 }
