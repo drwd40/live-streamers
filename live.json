@@ -1,6 +1,12 @@
 {
-  "timestamp": "2026-06-29T14:36:53.540Z",
+  "timestamp": "2026-06-29T16:00:14.479Z",
   "live": [
+    {
+      "username": "Maya",
+      "title": "ALVEUS POLLINATOR CENSUS 🐝OUR FIRST CITIZEN SCIENCE PROJECT!!!!!!🔬🧬",
+      "game": "Just Chatting",
+      "started_at": "2026-06-29T15:50:07Z"
+    },
     {
       "username": "AlveusSanctuary",
       "title": "Alveus Subathon (Day 37 / 43+) | !alveus !institute !pixel !schedule !video !subathon",
@@ -12,6 +18,12 @@
       "title": "Capital is dead labor, which, vampire-like, lives only by sucking living labor, and lives the more, the more labor it sucks.",
       "game": "Just Chatting",
       "started_at": "2026-06-29T10:01:35Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Short day of game dev today (day 55)",
+      "game": "Software and Game Development",
+      "started_at": "2026-06-29T15:32:15Z"
     }
   ]
 }
