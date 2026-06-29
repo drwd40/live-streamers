@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-29T17:08:54.147Z",
+  "timestamp": "2026-06-29T17:58:57.618Z",
   "live": [
     {
       "username": "Maya",
@@ -30,6 +30,12 @@
       "title": "[Charity Event For Cancer Research] | Dark Scrolls with @plainoletrey! Fredhutch guests later! | Partner+ 307/300 | !ppp !yt !pod !fredhutch",
       "game": "Dark Scrolls",
       "started_at": "2026-06-29T16:10:55Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "[!chaosreign] Monday MechWarrior Madness! Phoenix Legion Mercenary Company",
+      "game": "MechWarrior 5: Mercenaries",
+      "started_at": "2026-06-29T17:20:38Z"
     }
   ]
 }
