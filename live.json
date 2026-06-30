@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-30T19:19:13.478Z",
+  "timestamp": "2026-06-30T20:04:03.079Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -22,14 +22,32 @@
     {
       "username": "SydHeresy",
       "title": "Electronics LYFE - Soldering And Synthesizers",
-      "game": "Just Chatting",
+      "game": "Science & Technology",
       "started_at": "2026-06-30T18:31:17Z"
     },
     {
-      "username": "vul100",
-      "title": "Tuesday June 30th @2:30pm EDT: Short stream with some recent research into migraine",
+      "username": "GeoJim2006",
+      "title": "Hangin' Out With Cool Rocks All Summer Long ⛰️⚒️🪨🔎🔬 !discord !nova !tkf",
       "game": "Science & Technology",
-      "started_at": "2026-06-30T18:26:17Z"
+      "started_at": "2026-06-30T19:49:41Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "Physics 1B",
+      "game": "Just Chatting",
+      "started_at": "2026-06-30T19:30:27Z"
+    },
+    {
+      "username": "xTalkProgrammer",
+      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
+      "game": "Just Chatting",
+      "started_at": "2026-06-30T19:30:19Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "Real Analysis Lesson #9 (AFK) [(off) !fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-06-30T19:35:29Z"
     }
   ]
 }
