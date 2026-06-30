@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-30T22:21:20.568Z",
+  "timestamp": "2026-06-30T22:51:37.602Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,6 +26,12 @@
       "started_at": "2026-06-30T18:31:17Z"
     },
     {
+      "username": "eToThe2iPi",
+      "title": "Multivariable Calculus Review! Line Integrals + Surface Integrals (maybe)",
+      "game": "Math",
+      "started_at": "2026-06-30T21:57:51Z"
+    },
+    {
       "username": "shnaff",
       "title": "Guitar, piano, and singing in !stereo🎧",
       "game": "Music",
@@ -38,16 +44,16 @@
       "started_at": "2026-06-30T19:35:29Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Multivariable Calculus Review! Line Integrals + Surface Integrals (maybe)",
-      "game": "Math",
-      "started_at": "2026-06-30T21:57:51Z"
-    },
-    {
       "username": "nSimplexPachinko",
       "title": "Back to The Gallery, Using The Pawn; Starting Day 33; Night 15, Blue Prince - 20260630",
       "game": "Blue Prince",
       "started_at": "2026-06-30T20:33:23Z"
+    },
+    {
+      "username": "MelissaInDeNile",
+      "title": "How long will it take us to complete the Homesteading Missions in AC:III?? ~ Follower Goal: 2379/2600 ~ !socials !beyonddenile",
+      "game": "Assassin's Creed III Remastered",
+      "started_at": "2026-06-30T22:50:31Z"
     }
   ]
 }
