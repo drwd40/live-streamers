@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-30T22:51:37.602Z",
+  "timestamp": "2026-06-30T23:21:26.651Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,10 +14,10 @@
       "started_at": "2026-06-30T21:49:41Z"
     },
     {
-      "username": "GeoJim2006",
-      "title": "Hangin' Out With Cool Rocks All Summer Long ⛰️⚒️🪨🔎🔬 !discord !nova !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-06-30T19:49:41Z"
+      "username": "AstroCanuck",
+      "title": "Astro's Po'Pourri: Final Day of June Extravaganza! | !35 !PGV !nail | !drop !tkf",
+      "game": "Lego & Brickbuilding",
+      "started_at": "2026-06-30T23:05:45Z"
     },
     {
       "username": "SydHeresy",
@@ -26,22 +26,28 @@
       "started_at": "2026-06-30T18:31:17Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Multivariable Calculus Review! Line Integrals + Surface Integrals (maybe)",
-      "game": "Math",
-      "started_at": "2026-06-30T21:57:51Z"
-    },
-    {
       "username": "shnaff",
       "title": "Guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2026-06-30T22:01:50Z"
     },
     {
-      "username": "pencenter",
-      "title": "Real Analysis Lesson #9 (AFK) [(off) !fish🎣|!commands💻]",
+      "username": "GeoJim2006",
+      "title": "Hangin' Out With Cool Rocks All Summer Long ⛰️⚒️🪨🔎🔬 !discord !nova !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-06-30T19:49:41Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Multivariable Calculus Review! Line Integrals + Surface Integrals (maybe)",
       "game": "Math",
-      "started_at": "2026-06-30T19:35:29Z"
+      "started_at": "2026-06-30T21:57:51Z"
+    },
+    {
+      "username": "MelissaInDeNile",
+      "title": "How long will it take us to complete the Homesteading Missions in AC:III?? ~ Follower Goal: 2379/2600 ~ !socials !beyonddenile",
+      "game": "Assassin's Creed III Remastered",
+      "started_at": "2026-06-30T22:50:31Z"
     },
     {
       "username": "nSimplexPachinko",
@@ -50,10 +56,10 @@
       "started_at": "2026-06-30T20:33:23Z"
     },
     {
-      "username": "MelissaInDeNile",
-      "title": "How long will it take us to complete the Homesteading Missions in AC:III?? ~ Follower Goal: 2379/2600 ~ !socials !beyonddenile",
-      "game": "Assassin's Creed III Remastered",
-      "started_at": "2026-06-30T22:50:31Z"
+      "username": "pencenter",
+      "title": "Real Analysis Lesson #9 (AFK) [(off) !fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-06-30T19:35:29Z"
     }
   ]
 }
