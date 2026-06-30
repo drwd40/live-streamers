@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-30T15:38:46.626Z",
+  "timestamp": "2026-06-30T16:29:32.554Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,22 +8,16 @@
       "started_at": "2026-06-29T13:01:24Z"
     },
     {
-      "username": "Zachap",
-      "title": "From each according to his abilities, to each according to his needs. (my power went out for half hour so this is part 2 i guess)",
-      "game": "Just Chatting",
-      "started_at": "2026-06-30T12:08:29Z"
-    },
-    {
-      "username": "csharpfritz",
-      "title": "C# Evolved Updates and Geography Games",
-      "game": "Software and Game Development",
-      "started_at": "2026-06-30T13:29:31Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "[nocam] Polish day (day 56)",
       "game": "Software and Game Development",
       "started_at": "2026-06-30T15:06:11Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "From each according to his abilities, to each according to his needs. (my power went out for half hour so this is part 2 i guess)",
+      "game": "Just Chatting",
+      "started_at": "2026-06-30T12:08:29Z"
     }
   ]
 }
