@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-30T13:08:53.662Z",
+  "timestamp": "2026-06-30T13:51:40.187Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "From each according to his abilities, to each according to his needs. (my power went out for half hour so this is part 2 i guess)",
       "game": "Just Chatting",
       "started_at": "2026-06-30T12:08:29Z"
+    },
+    {
+      "username": "csharpfritz",
+      "title": "C# Evolved Updates and Geography Games",
+      "game": "Software and Game Development",
+      "started_at": "2026-06-30T13:29:31Z"
     }
   ]
 }
