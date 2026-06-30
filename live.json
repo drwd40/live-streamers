@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-30T23:21:26.651Z",
+  "timestamp": "2026-06-30T23:47:44.012Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,12 +32,6 @@
       "started_at": "2026-06-30T22:01:50Z"
     },
     {
-      "username": "GeoJim2006",
-      "title": "Hangin' Out With Cool Rocks All Summer Long ⛰️⚒️🪨🔎🔬 !discord !nova !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-06-30T19:49:41Z"
-    },
-    {
       "username": "eToThe2iPi",
       "title": "Multivariable Calculus Review! Line Integrals + Surface Integrals (maybe)",
       "game": "Math",
@@ -60,6 +54,12 @@
       "title": "Real Analysis Lesson #9 (AFK) [(off) !fish🎣|!commands💻]",
       "game": "Math",
       "started_at": "2026-06-30T19:35:29Z"
+    },
+    {
+      "username": "Moohoodles",
+      "title": "☄️Asteroid Day charity stream for The Planetary Society! ☄️ !casey !tps !defense",
+      "game": "Science & Technology",
+      "started_at": "2026-06-30T23:47:07Z"
     }
   ]
 }
