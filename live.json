@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-06-30T17:56:47.158Z",
+  "timestamp": "2026-06-30T18:39:12.210Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Alveus Subathon (Day 38 / 43+) | !alveus !institute !pixel !schedule !video !subathon",
+      "title": "Animal Care Chats | !alveus !institute !pixel !schedule !video",
       "game": "Just Chatting",
       "started_at": "2026-06-29T13:01:24Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "[nocam] Polish day (day 56)",
-      "game": "Software and Game Development",
-      "started_at": "2026-06-30T15:06:11Z"
+      "username": "ipaintbirbs",
+      "title": "i made it to stream",
+      "game": "Art",
+      "started_at": "2026-06-30T18:07:36Z"
     },
     {
       "username": "Zachap",
@@ -24,6 +24,18 @@
       "title": "Gravity Matters chat, behind the scenes :kappa:",
       "game": "Software and Game Development",
       "started_at": "2026-06-30T17:53:41Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Electronics LYFE - Soldering And Synthesizers",
+      "game": "Just Chatting",
+      "started_at": "2026-06-30T18:31:17Z"
+    },
+    {
+      "username": "vul100",
+      "title": "Tuesday June 30th @2:30pm EDT: Short stream with some recent research into migraine",
+      "game": "Science & Technology",
+      "started_at": "2026-06-30T18:26:17Z"
     }
   ]
 }
