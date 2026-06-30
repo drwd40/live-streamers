@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-30T01:35:46.132Z",
+  "timestamp": "2026-06-30T02:31:25.584Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-06-29T21:59:48Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "[Charity Event For Cancer Research] | Raising money for Fredhutch Cancer Research Center | Partner+ 307/300 | !ppp !yt !pod !fredhutch",
-      "game": "Science & Technology",
-      "started_at": "2026-06-30T00:59:30Z"
-    },
-    {
       "username": "Moohoodles",
       "title": "🪐 Astrobiology & Space News! ✨",
       "game": "Science & Technology",
       "started_at": "2026-06-30T01:12:08Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "[Charity Event For Cancer Research] | Raising money for Fredhutch Cancer Research Center | Partner+ 307/300 | !ppp !yt !pod !fredhutch",
+      "game": "Science & Technology",
+      "started_at": "2026-06-30T00:59:30Z"
     },
     {
       "username": "DrawCuriosity",
@@ -36,12 +36,6 @@
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Just Chatting",
       "started_at": "2026-06-29T23:59:38Z"
-    },
-    {
-      "username": "walkingsticklibrary",
-      "title": "The beetle on Instagram.",
-      "game": "Science & Technology",
-      "started_at": "2026-06-30T00:30:00Z"
     }
   ]
 }
