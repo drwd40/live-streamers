@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-06-30T20:04:03.079Z",
+  "timestamp": "2026-06-30T20:47:18.121Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Care Chats | !alveus !institute !pixel !schedule !video",
       "game": "Just Chatting",
       "started_at": "2026-06-29T13:01:24Z"
-    },
-    {
-      "username": "ipaintbirbs",
-      "title": "i made it to stream",
-      "game": "Art",
-      "started_at": "2026-06-30T18:07:36Z"
     },
     {
       "username": "Zachap",
@@ -32,6 +26,12 @@
       "started_at": "2026-06-30T19:49:41Z"
     },
     {
+      "username": "pencenter",
+      "title": "Real Analysis Lesson #9 (AFK) [(off) !fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-06-30T19:35:29Z"
+    },
+    {
       "username": "ActualEducation",
       "title": "Physics 1B",
       "game": "Just Chatting",
@@ -44,10 +44,10 @@
       "started_at": "2026-06-30T19:30:19Z"
     },
     {
-      "username": "pencenter",
-      "title": "Real Analysis Lesson #9 (AFK) [(off) !fish🎣|!commands💻]",
-      "game": "Math",
-      "started_at": "2026-06-30T19:35:29Z"
+      "username": "nSimplexPachinko",
+      "title": "Back to The Gallery, Using The Pawn; Starting Day 33; Night 15, Blue Prince - 20260630",
+      "game": "Blue Prince",
+      "started_at": "2026-06-30T20:33:23Z"
     }
   ]
 }
