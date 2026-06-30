@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-30T14:44:20.268Z",
+  "timestamp": "2026-06-30T15:38:46.626Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,12 @@
       "title": "C# Evolved Updates and Geography Games",
       "game": "Software and Game Development",
       "started_at": "2026-06-30T13:29:31Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "[nocam] Polish day (day 56)",
+      "game": "Software and Game Development",
+      "started_at": "2026-06-30T15:06:11Z"
     }
   ]
 }
