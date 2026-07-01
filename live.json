@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-30T23:47:44.012Z",
+  "timestamp": "2026-07-01T00:16:04.235Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,22 +14,28 @@
       "started_at": "2026-06-30T21:49:41Z"
     },
     {
+      "username": "Moohoodles",
+      "title": "☄️Asteroid Day charity stream for The Planetary Society! ☄️ !casey !tps !defense",
+      "game": "Science & Technology",
+      "started_at": "2026-06-30T23:47:07Z"
+    },
+    {
       "username": "AstroCanuck",
       "title": "Astro's Po'Pourri: Final Day of June Extravaganza! | !35 !PGV !nail | !drop !tkf",
       "game": "Lego & Brickbuilding",
       "started_at": "2026-06-30T23:05:45Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Electronics LYFE - Soldering And Synthesizers",
-      "game": "Science & Technology",
-      "started_at": "2026-06-30T18:31:17Z"
-    },
-    {
       "username": "shnaff",
       "title": "Guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2026-06-30T22:01:50Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Electronics LYFE - Soldering And Synthesizers",
+      "game": "Science & Technology",
+      "started_at": "2026-06-30T18:31:17Z"
     },
     {
       "username": "eToThe2iPi",
@@ -48,18 +54,6 @@
       "title": "Back to The Gallery, Using The Pawn; Starting Day 33; Night 15, Blue Prince - 20260630",
       "game": "Blue Prince",
       "started_at": "2026-06-30T20:33:23Z"
-    },
-    {
-      "username": "pencenter",
-      "title": "Real Analysis Lesson #9 (AFK) [(off) !fish🎣|!commands💻]",
-      "game": "Math",
-      "started_at": "2026-06-30T19:35:29Z"
-    },
-    {
-      "username": "Moohoodles",
-      "title": "☄️Asteroid Day charity stream for The Planetary Society! ☄️ !casey !tps !defense",
-      "game": "Science & Technology",
-      "started_at": "2026-06-30T23:47:07Z"
     }
   ]
 }
