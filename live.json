@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-01T14:32:08.801Z",
+  "timestamp": "2026-07-01T15:30:12.729Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,18 @@
       "title": "NASA's Moonbase update.  Astronomer and Former NASA Guy. #NASA #science #space #stem #scientis",
       "game": "Science & Technology",
       "started_at": "2026-07-01T12:53:46Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀 Rise of Piracy dev! | !charity !rop !patreon !discord",
+      "game": "Software and Game Development",
+      "started_at": "2026-07-01T15:21:19Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Broken-game design (day 57)",
+      "game": "Software and Game Development",
+      "started_at": "2026-07-01T15:25:52Z"
     }
   ]
 }
