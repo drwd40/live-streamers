@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-01T19:12:47.074Z",
+  "timestamp": "2026-07-01T19:55:07.899Z",
   "live": [
     {
       "username": "Kitboga",
@@ -24,6 +24,18 @@
       "title": "[!chaosreign] Phoenix Legion Mercenary Company Campaign y3022",
       "game": "MechWarrior 5: Mercenaries",
       "started_at": "2026-07-01T18:14:53Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "Physics 1B",
+      "game": "Just Chatting",
+      "started_at": "2026-07-01T19:29:44Z"
+    },
+    {
+      "username": "GeoJim2006",
+      "title": "Workin' Wednesday - Sorting & Organizing the College Collection ⛰️⚒️🪨🔎🔬 !discord !nova !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-07-01T19:37:17Z"
     }
   ]
 }
