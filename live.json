@@ -1,11 +1,23 @@
 {
-  "timestamp": "2026-07-01T22:44:08.945Z",
+  "timestamp": "2026-07-01T23:12:43.523Z",
   "live": [
+    {
+      "username": "Maya",
+      "title": "calling men to ask a question✈️",
+      "game": "Just Chatting",
+      "started_at": "2026-07-01T23:00:11Z"
+    },
     {
       "username": "AlveusSanctuary",
       "title": "Alveus Subathon (Day 39 / 43+) | !alveus !institute !pixel !schedule !video !census !subathon",
       "game": "Just Chatting",
       "started_at": "2026-07-01T13:01:27Z"
+    },
+    {
+      "username": "JapanesePrintmaking",
+      "title": "Making Japanese woodblock prints ... live while you watch ...",
+      "game": "Makers & Crafting",
+      "started_at": "2026-07-01T22:59:57Z"
     },
     {
       "username": "imreallyimportant",
@@ -15,7 +27,7 @@
     },
     {
       "username": "DrawCuriosity",
-      "title": "🌎 [12HR STREAM] MY LAST STREAM IN THE USA BEFORE I MOVE!!!✨🐏!tier2 !tier3 (for BTS stories on IG!) W/ @nerduino",
+      "title": "🌎 [12HR STREAM] MY LAST STREAM IN THE USA BEFORE I MOVE!!!✨🐏!tier2 !tier3 (for BTS stories on IG!)",
       "game": "Special Events",
       "started_at": "2026-07-01T20:09:06Z"
     },
@@ -30,12 +42,6 @@
       "title": "Communism is when you own your own labor. Unlike in capitalism where someone else does... Trump and MLs think its when government do stuff.",
       "game": "Just Chatting",
       "started_at": "2026-07-01T10:00:37Z"
-    },
-    {
-      "username": "GeoJim2006",
-      "title": "Workin' Wednesday - Sorting & Organizing the College Collection ⛰️⚒️🪨🔎🔬 !discord !nova !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-07-01T19:37:17Z"
     }
   ]
 }
