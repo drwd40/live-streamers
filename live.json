@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02T16:30:35.967Z",
+  "timestamp": "2026-07-02T17:08:25.057Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,22 +8,28 @@
       "started_at": "2026-07-01T13:01:27Z"
     },
     {
+      "username": "Kitboga",
+      "title": "Hunting AI Scammers [Ep. 1539]",
+      "game": "Just Chatting",
+      "started_at": "2026-07-02T16:45:29Z"
+    },
+    {
       "username": "oh_bother",
       "title": "All day chill electronics building stream! Module tester and TWO filters.",
       "game": "Science & Technology",
       "started_at": "2026-07-02T12:47:23Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Testing out a new synth for Music Day (day 58)",
-      "game": "Software and Game Development",
-      "started_at": "2026-07-02T15:29:45Z"
-    },
-    {
       "username": "Zachap",
       "title": "this has never happened before",
       "game": "Just Chatting",
       "started_at": "2026-07-02T10:01:13Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Testing out a new synth for Music Day (day 58)",
+      "game": "Software and Game Development",
+      "started_at": "2026-07-02T15:29:45Z"
     }
   ]
 }
