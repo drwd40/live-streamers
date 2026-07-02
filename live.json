@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02T17:48:27.954Z",
+  "timestamp": "2026-07-02T18:20:46.188Z",
   "live": [
     {
       "username": "Kitboga",
@@ -9,7 +9,7 @@
     },
     {
       "username": "AlveusSanctuary",
-      "title": "Alveus Subathon (Day 40 / 43+) | !alveus !institute !pixel !schedule !video !census !subathon",
+      "title": "Conservation Conversations with Dr. David Shiffman !guest | !alveus !institute !pixel !schedule !video",
       "game": "Just Chatting",
       "started_at": "2026-07-01T13:01:27Z"
     },
@@ -20,16 +20,22 @@
       "started_at": "2026-07-02T12:47:23Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Testing out a new synth for Music Day (day 58)",
-      "game": "Software and Game Development",
-      "started_at": "2026-07-02T15:29:45Z"
-    },
-    {
       "username": "Zachap",
       "title": "this has never happened before",
       "game": "Just Chatting",
       "started_at": "2026-07-02T10:01:13Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "An Attempt to Learn Electricity & Magnetism: Gauss' Law (and its Cousins!)",
+      "game": "Math",
+      "started_at": "2026-07-02T18:04:42Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀 Rise of Piracy dev! | !charity !rop !patreon !discord",
+      "game": "Software and Game Development",
+      "started_at": "2026-07-02T18:16:36Z"
     }
   ]
 }
