@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02T18:20:46.188Z",
+  "timestamp": "2026-07-02T18:54:07.672Z",
   "live": [
     {
       "username": "Kitboga",
@@ -26,16 +26,34 @@
       "started_at": "2026-07-02T10:01:13Z"
     },
     {
+      "username": "IrishJohnGames",
+      "title": "🍀 Rise of Piracy dev! | !charity !rop !patreon !discord",
+      "game": "Software and Game Development",
+      "started_at": "2026-07-02T18:16:36Z"
+    },
+    {
+      "username": "DrMick",
+      "title": "Mental Health Chat + Painting 40k",
+      "game": "Miniatures & Models",
+      "started_at": "2026-07-02T18:28:24Z"
+    },
+    {
       "username": "eToThe2iPi",
       "title": "An Attempt to Learn Electricity & Magnetism: Gauss' Law (and its Cousins!)",
       "game": "Math",
       "started_at": "2026-07-02T18:04:42Z"
     },
     {
-      "username": "IrishJohnGames",
-      "title": "🍀 Rise of Piracy dev! | !charity !rop !patreon !discord",
-      "game": "Software and Game Development",
-      "started_at": "2026-07-02T18:16:36Z"
+      "username": "DrAlexanderClarke",
+      "title": "The Defence Investment Plan is Out... Let's Talk it through, Good, Bad & What the Frigate?",
+      "game": "Just Chatting",
+      "started_at": "2026-07-02T18:30:14Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "[!chaosreign] Phoenix Legion Mercenary Company Campaign y3023",
+      "game": "MechWarrior 5: Mercenaries",
+      "started_at": "2026-07-02T18:37:35Z"
     }
   ]
 }
