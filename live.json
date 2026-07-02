@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02T18:54:07.672Z",
+  "timestamp": "2026-07-02T19:26:45.163Z",
   "live": [
     {
       "username": "Kitboga",
@@ -9,7 +9,7 @@
     },
     {
       "username": "AlveusSanctuary",
-      "title": "Conservation Conversations with Dr. David Shiffman !guest | !alveus !institute !pixel !schedule !video",
+      "title": "Alveus Subathon (Day 40 / 43+) | !alveus !institute !pixel !schedule !video !census !subathon",
       "game": "Just Chatting",
       "started_at": "2026-07-01T13:01:27Z"
     },
@@ -44,16 +44,22 @@
       "started_at": "2026-07-02T18:04:42Z"
     },
     {
-      "username": "DrAlexanderClarke",
-      "title": "The Defence Investment Plan is Out... Let's Talk it through, Good, Bad & What the Frigate?",
-      "game": "Just Chatting",
-      "started_at": "2026-07-02T18:30:14Z"
+      "username": "SydHeresy",
+      "title": "Electornic Repairs - Soldering - Vibin'",
+      "game": "Science & Technology",
+      "started_at": "2026-07-02T19:00:31Z"
     },
     {
       "username": "Rocketology",
       "title": "[!chaosreign] Phoenix Legion Mercenary Company Campaign y3023",
       "game": "MechWarrior 5: Mercenaries",
       "started_at": "2026-07-02T18:37:35Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "The Defence Investment Plan is Out... Let's Talk it through, Good, Bad & What the Frigate?",
+      "game": "Just Chatting",
+      "started_at": "2026-07-02T18:30:14Z"
     }
   ]
 }
