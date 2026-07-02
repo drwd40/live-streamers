@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02T15:06:37.608Z",
+  "timestamp": "2026-07-02T15:54:37.780Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,12 @@
       "title": "this has never happened before",
       "game": "Just Chatting",
       "started_at": "2026-07-02T10:01:13Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Testing out a new synth for Music Day (day 58)",
+      "game": "Software and Game Development",
+      "started_at": "2026-07-02T15:29:45Z"
     }
   ]
 }
