@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02T20:58:54.182Z",
+  "timestamp": "2026-07-02T21:30:23.054Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-07-01T13:01:27Z"
     },
     {
-      "username": "DrMick",
-      "title": "Mental Health Chat + Painting 40k",
-      "game": "Miniatures & Models",
-      "started_at": "2026-07-02T18:28:24Z"
-    },
-    {
       "username": "SciAnts_Streams",
       "title": "SciAnts Game Day | Dark Scrolls with @streamingfalcon + science rabbit holes! | 35% off 5 pack of subs!! | Partner+ 10/300 | !ppp !yt !pod",
       "game": "Dark Scrolls",
       "started_at": "2026-07-02T20:38:08Z"
+    },
+    {
+      "username": "DrMick",
+      "title": "Mental Health Chat + Painting 40k",
+      "game": "Miniatures & Models",
+      "started_at": "2026-07-02T18:28:24Z"
     },
     {
       "username": "SydHeresy",
@@ -26,28 +26,16 @@
       "started_at": "2026-07-02T19:00:31Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "An Attempt to Learn Electricity & Magnetism: Gauss' Law (and its Cousins!)",
+      "username": "DonFactorial",
+      "title": "Answering your math questions and trying out some Moscow Puzzles",
       "game": "Math",
-      "started_at": "2026-07-02T18:04:42Z"
-    },
-    {
-      "username": "Rocketology",
-      "title": "[!chaosreign] Phoenix Legion Mercenary Company Campaign y3023",
-      "game": "MechWarrior 5: Mercenaries",
-      "started_at": "2026-07-02T18:37:35Z"
+      "started_at": "2026-07-02T19:58:09Z"
     },
     {
       "username": "DrAlexanderClarke",
       "title": "The Defence Investment Plan is Out... Let's Talk it through, Good, Bad & What the Frigate?",
       "game": "Just Chatting",
       "started_at": "2026-07-02T18:30:14Z"
-    },
-    {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and trying out some Moscow Puzzles",
-      "game": "Math",
-      "started_at": "2026-07-02T19:58:09Z"
     }
   ]
 }
