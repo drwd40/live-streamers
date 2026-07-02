@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-07-02T02:05:31.106Z",
+  "timestamp": "2026-07-02T03:19:21.025Z",
   "live": [
     {
-      "username": "Maya",
-      "title": "hello😇😇😇",
-      "game": "Just Chatting",
-      "started_at": "2026-07-01T23:00:11Z"
-    },
-    {
       "username": "AlveusSanctuary",
-      "title": "Chat Chats w/ Evan | !alveus !institute !pixel !schedule !video",
+      "title": "Alveus Subathon (Day 39 / 43+) | !alveus !institute !pixel !schedule !video !census !subathon",
       "game": "Just Chatting",
       "started_at": "2026-07-01T13:01:27Z"
+    },
+    {
+      "username": "Moohoodles",
+      "title": "🪐 Astrobiology & Space News! ✨",
+      "game": "Science & Technology",
+      "started_at": "2026-07-02T01:28:59Z"
     },
     {
       "username": "DrawCuriosity",
@@ -24,18 +24,6 @@
       "title": "Wacom Wednesday | Science art and rabbit holes galore! Whale evolution | Tinker Tuesday | Partner+ 10/300 | !ppp !yt !pod",
       "game": "Science & Technology",
       "started_at": "2026-07-02T01:00:36Z"
-    },
-    {
-      "username": "Moohoodles",
-      "title": "🪐 Astrobiology & Space News! ✨",
-      "game": "Science & Technology",
-      "started_at": "2026-07-02T01:28:59Z"
-    },
-    {
-      "username": "nogre0",
-      "title": "the winter of metaphysics",
-      "game": "Just Chatting",
-      "started_at": "2026-07-02T00:00:08Z"
     },
     {
       "username": "walkingsticklibrary",
