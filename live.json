@@ -1,35 +1,11 @@
 {
-  "timestamp": "2026-07-02T20:01:22.594Z",
+  "timestamp": "2026-07-02T20:34:41.934Z",
   "live": [
-    {
-      "username": "Kitboga",
-      "title": "Hunting AI Scammers [Ep. 1539]",
-      "game": "Just Chatting",
-      "started_at": "2026-07-02T16:45:29Z"
-    },
     {
       "username": "AlveusSanctuary",
       "title": "Alveus Subathon (Day 40 / 43+) | !alveus !institute !pixel !schedule !video !census !subathon",
       "game": "Just Chatting",
       "started_at": "2026-07-01T13:01:27Z"
-    },
-    {
-      "username": "oh_bother",
-      "title": "All day chill electronics building stream! Module tester and TWO filters.",
-      "game": "Science & Technology",
-      "started_at": "2026-07-02T12:47:23Z"
-    },
-    {
-      "username": "Zachap",
-      "title": "this has never happened before",
-      "game": "Just Chatting",
-      "started_at": "2026-07-02T10:01:13Z"
-    },
-    {
-      "username": "DrMick",
-      "title": "Mental Health Chat + Painting 40k",
-      "game": "Miniatures & Models",
-      "started_at": "2026-07-02T18:28:24Z"
     },
     {
       "username": "IrishJohnGames",
@@ -38,16 +14,22 @@
       "started_at": "2026-07-02T18:16:36Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Electornic Repairs - Soldering - Vibin'",
-      "game": "Science & Technology",
-      "started_at": "2026-07-02T19:00:31Z"
+      "username": "DrMick",
+      "title": "Mental Health Chat + Painting 40k",
+      "game": "Miniatures & Models",
+      "started_at": "2026-07-02T18:28:24Z"
     },
     {
       "username": "eToThe2iPi",
       "title": "An Attempt to Learn Electricity & Magnetism: Gauss' Law (and its Cousins!)",
       "game": "Math",
       "started_at": "2026-07-02T18:04:42Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Electornic Repairs - Soldering - Vibin'",
+      "game": "Science & Technology",
+      "started_at": "2026-07-02T19:00:31Z"
     },
     {
       "username": "Rocketology",
@@ -62,16 +44,16 @@
       "started_at": "2026-07-02T18:30:14Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "Physics 1B",
-      "game": "Just Chatting",
-      "started_at": "2026-07-02T19:29:50Z"
-    },
-    {
       "username": "DonFactorial",
       "title": "Answering your math questions and trying out some Moscow Puzzles",
       "game": "Math",
       "started_at": "2026-07-02T19:58:09Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "Physics 1B",
+      "game": "Just Chatting",
+      "started_at": "2026-07-02T19:29:50Z"
     }
   ]
 }
