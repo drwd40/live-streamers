@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-07-02T14:19:18.859Z",
+  "timestamp": "2026-07-02T15:06:37.608Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Alveus Subathon (Day 39 / 43+) | !alveus !institute !pixel !schedule !video !census !subathon",
+      "title": "Sit and Stay w/ Sruti",
       "game": "Just Chatting",
       "started_at": "2026-07-01T13:01:27Z"
-    },
-    {
-      "username": "Zachap",
-      "title": "this has never happened before",
-      "game": "Just Chatting",
-      "started_at": "2026-07-02T10:01:13Z"
     },
     {
       "username": "oh_bother",
       "title": "All day chill electronics building stream! Module tester and TWO filters.",
       "game": "Science & Technology",
       "started_at": "2026-07-02T12:47:23Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "this has never happened before",
+      "game": "Just Chatting",
+      "started_at": "2026-07-02T10:01:13Z"
     }
   ]
 }
