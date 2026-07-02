@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02T19:26:45.163Z",
+  "timestamp": "2026-07-02T20:01:22.594Z",
   "live": [
     {
       "username": "Kitboga",
@@ -26,28 +26,28 @@
       "started_at": "2026-07-02T10:01:13Z"
     },
     {
-      "username": "IrishJohnGames",
-      "title": "🍀 Rise of Piracy dev! | !charity !rop !patreon !discord",
-      "game": "Software and Game Development",
-      "started_at": "2026-07-02T18:16:36Z"
-    },
-    {
       "username": "DrMick",
       "title": "Mental Health Chat + Painting 40k",
       "game": "Miniatures & Models",
       "started_at": "2026-07-02T18:28:24Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "An Attempt to Learn Electricity & Magnetism: Gauss' Law (and its Cousins!)",
-      "game": "Math",
-      "started_at": "2026-07-02T18:04:42Z"
+      "username": "IrishJohnGames",
+      "title": "🍀 Rise of Piracy dev! | !charity !rop !patreon !discord",
+      "game": "Software and Game Development",
+      "started_at": "2026-07-02T18:16:36Z"
     },
     {
       "username": "SydHeresy",
       "title": "Electornic Repairs - Soldering - Vibin'",
       "game": "Science & Technology",
       "started_at": "2026-07-02T19:00:31Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "An Attempt to Learn Electricity & Magnetism: Gauss' Law (and its Cousins!)",
+      "game": "Math",
+      "started_at": "2026-07-02T18:04:42Z"
     },
     {
       "username": "Rocketology",
@@ -60,6 +60,18 @@
       "title": "The Defence Investment Plan is Out... Let's Talk it through, Good, Bad & What the Frigate?",
       "game": "Just Chatting",
       "started_at": "2026-07-02T18:30:14Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "Physics 1B",
+      "game": "Just Chatting",
+      "started_at": "2026-07-02T19:29:50Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and trying out some Moscow Puzzles",
+      "game": "Math",
+      "started_at": "2026-07-02T19:58:09Z"
     }
   ]
 }
