@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02T22:19:14.028Z",
+  "timestamp": "2026-07-02T22:44:07.852Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,22 +20,16 @@
       "started_at": "2026-07-02T20:38:08Z"
     },
     {
-      "username": "DrMick",
-      "title": "Mental Health Chat + Painting 40k",
-      "game": "Miniatures & Models",
-      "started_at": "2026-07-02T18:28:24Z"
+      "username": "shnaff",
+      "title": "Guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-07-02T22:01:31Z"
     },
     {
       "username": "SydHeresy",
       "title": "Electornic Repairs - Soldering - Vibin'",
       "game": "Science & Technology",
       "started_at": "2026-07-02T19:00:31Z"
-    },
-    {
-      "username": "shnaff",
-      "title": "Guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-07-02T22:01:31Z"
     },
     {
       "username": "DonFactorial",
@@ -48,6 +42,12 @@
       "title": "The Defence Investment Plan is Out... Let's Talk it through, Good, Bad & What the Frigate?",
       "game": "Just Chatting",
       "started_at": "2026-07-02T18:30:14Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Genetics Investigations: Perditas & Cornucopia Group; TitansGrave 013, TTRPG Prep - 20260702",
+      "game": "Tabletop RPGs",
+      "started_at": "2026-07-02T22:19:51Z"
     }
   ]
 }
