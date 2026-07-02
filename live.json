@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-07-02T17:08:25.057Z",
+  "timestamp": "2026-07-02T17:48:27.954Z",
   "live": [
-    {
-      "username": "AlveusSanctuary",
-      "title": "Alveus Subathon (Day 40 / 43+) | !alveus !institute !pixel !schedule !video !census !subathon",
-      "game": "Just Chatting",
-      "started_at": "2026-07-01T13:01:27Z"
-    },
     {
       "username": "Kitboga",
       "title": "Hunting AI Scammers [Ep. 1539]",
       "game": "Just Chatting",
       "started_at": "2026-07-02T16:45:29Z"
+    },
+    {
+      "username": "AlveusSanctuary",
+      "title": "Alveus Subathon (Day 40 / 43+) | !alveus !institute !pixel !schedule !video !census !subathon",
+      "game": "Just Chatting",
+      "started_at": "2026-07-01T13:01:27Z"
     },
     {
       "username": "oh_bother",
@@ -20,16 +20,16 @@
       "started_at": "2026-07-02T12:47:23Z"
     },
     {
-      "username": "Zachap",
-      "title": "this has never happened before",
-      "game": "Just Chatting",
-      "started_at": "2026-07-02T10:01:13Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "Testing out a new synth for Music Day (day 58)",
       "game": "Software and Game Development",
       "started_at": "2026-07-02T15:29:45Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "this has never happened before",
+      "game": "Just Chatting",
+      "started_at": "2026-07-02T10:01:13Z"
     }
   ]
 }
