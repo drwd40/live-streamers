@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02T20:34:41.934Z",
+  "timestamp": "2026-07-02T20:58:54.182Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,28 +8,28 @@
       "started_at": "2026-07-01T13:01:27Z"
     },
     {
-      "username": "IrishJohnGames",
-      "title": "🍀 Rise of Piracy dev! | !charity !rop !patreon !discord",
-      "game": "Software and Game Development",
-      "started_at": "2026-07-02T18:16:36Z"
-    },
-    {
       "username": "DrMick",
       "title": "Mental Health Chat + Painting 40k",
       "game": "Miniatures & Models",
       "started_at": "2026-07-02T18:28:24Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "An Attempt to Learn Electricity & Magnetism: Gauss' Law (and its Cousins!)",
-      "game": "Math",
-      "started_at": "2026-07-02T18:04:42Z"
+      "username": "SciAnts_Streams",
+      "title": "SciAnts Game Day | Dark Scrolls with @streamingfalcon + science rabbit holes! | 35% off 5 pack of subs!! | Partner+ 10/300 | !ppp !yt !pod",
+      "game": "Dark Scrolls",
+      "started_at": "2026-07-02T20:38:08Z"
     },
     {
       "username": "SydHeresy",
       "title": "Electornic Repairs - Soldering - Vibin'",
       "game": "Science & Technology",
       "started_at": "2026-07-02T19:00:31Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "An Attempt to Learn Electricity & Magnetism: Gauss' Law (and its Cousins!)",
+      "game": "Math",
+      "started_at": "2026-07-02T18:04:42Z"
     },
     {
       "username": "Rocketology",
@@ -48,12 +48,6 @@
       "title": "Answering your math questions and trying out some Moscow Puzzles",
       "game": "Math",
       "started_at": "2026-07-02T19:58:09Z"
-    },
-    {
-      "username": "ActualEducation",
-      "title": "Physics 1B",
-      "game": "Just Chatting",
-      "started_at": "2026-07-02T19:29:50Z"
     }
   ]
 }
