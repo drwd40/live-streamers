@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-07-02T15:54:37.780Z",
+  "timestamp": "2026-07-02T16:30:35.967Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Sit and Stay w/ Sruti",
+      "title": "Alveus Subathon (Day 40 / 43+) | !alveus !institute !pixel !schedule !video !census !subathon",
       "game": "Just Chatting",
       "started_at": "2026-07-01T13:01:27Z"
     },
@@ -14,16 +14,16 @@
       "started_at": "2026-07-02T12:47:23Z"
     },
     {
-      "username": "Zachap",
-      "title": "this has never happened before",
-      "game": "Just Chatting",
-      "started_at": "2026-07-02T10:01:13Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "Testing out a new synth for Music Day (day 58)",
       "game": "Software and Game Development",
       "started_at": "2026-07-02T15:29:45Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "this has never happened before",
+      "game": "Just Chatting",
+      "started_at": "2026-07-02T10:01:13Z"
     }
   ]
 }
