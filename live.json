@@ -1,11 +1,17 @@
 {
-  "timestamp": "2026-07-02T21:54:18.304Z",
+  "timestamp": "2026-07-02T22:19:14.028Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Alveus Subathon (Day 40 / 43+) | !alveus !institute !pixel !schedule !video !census !subathon",
       "game": "Just Chatting",
       "started_at": "2026-07-01T13:01:27Z"
+    },
+    {
+      "username": "imreallyimportant",
+      "title": "AOC ENDORSES EL-SAYED IN MICHIGAN SENATE RACE | DAN GOLDMAN TALKS ABOUT HIS PRIMARY LOSS",
+      "game": "Just Chatting",
+      "started_at": "2026-07-02T21:56:38Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -24,6 +30,12 @@
       "title": "Electornic Repairs - Soldering - Vibin'",
       "game": "Science & Technology",
       "started_at": "2026-07-02T19:00:31Z"
+    },
+    {
+      "username": "shnaff",
+      "title": "Guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-07-02T22:01:31Z"
     },
     {
       "username": "DonFactorial",
