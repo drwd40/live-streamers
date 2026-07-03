@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-03T15:21:44.676Z",
+  "timestamp": "2026-07-03T16:00:49.224Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-07-03T10:02:16Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "Resident Evil 5:  Science behind the Uroboros Virus | Collab with @kimmydnc | 35% off 5 pack of subs!! | Partner+ 30/300 | !ppp !yt !pod",
-      "game": "Resident Evil 5",
-      "started_at": "2026-07-03T14:06:06Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "Game design AND development today (day 59)",
       "game": "Software and Game Development",
       "started_at": "2026-07-03T15:15:23Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "Resident Evil 5:  Science behind the Uroboros Virus | Collab with @kimmydnc | 35% off 5 pack of subs!! | Partner+ 30/300 | !ppp !yt !pod",
+      "game": "Resident Evil 5",
+      "started_at": "2026-07-03T14:06:06Z"
     }
   ]
 }
