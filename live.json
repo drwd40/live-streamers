@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-03T21:04:30.088Z",
+  "timestamp": "2026-07-03T21:33:35.095Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "Gig with Disco Biscuit @ The Neptune! (Drumming)",
       "game": "Music",
       "started_at": "2026-07-03T18:50:02Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Moonrise Towers await! Act II; Night 010, Baldur's Gate 3 - 20260703",
+      "game": "Baldur's Gate 3",
+      "started_at": "2026-07-03T21:27:11Z"
     }
   ]
 }
