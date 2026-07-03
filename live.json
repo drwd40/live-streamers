@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-07-03T16:37:05.300Z",
+  "timestamp": "2026-07-03T17:05:53.354Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Alveus Subathon (Day 41 / 43+) | !alveus !institute !pixel !schedule !video !subathon",
+      "title": "Show and Tell | !alveus !institute !pixel !schedule !video",
       "game": "Just Chatting",
       "started_at": "2026-07-03T13:01:30Z"
-    },
-    {
-      "username": "Zachap",
-      "title": "analysis should be prioritized over slop",
-      "game": "Just Chatting",
-      "started_at": "2026-07-03T10:02:16Z"
     },
     {
       "username": "AdamLearnsLive",
       "title": "Game design AND development today (day 59)",
       "game": "Software and Game Development",
       "started_at": "2026-07-03T15:15:23Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "analysis should be prioritized over slop",
+      "game": "Just Chatting",
+      "started_at": "2026-07-03T10:02:16Z"
     },
     {
       "username": "SciAnts_Streams",
