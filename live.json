@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-07-03T02:34:37.368Z",
+  "timestamp": "2026-07-03T03:56:45.418Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Alveus Subathon (Day 40 / 43+) | !alveus !institute !pixel !schedule !video !census !subathon",
       "game": "Just Chatting",
       "started_at": "2026-07-01T13:01:27Z"
-    },
-    {
-      "username": "imreallyimportant",
-      "title": "AOC ENDORSES EL-SAYED IN MICHIGAN SENATE RACE | DAN GOLDMAN TALKS ABOUT HIS PRIMARY LOSS",
-      "game": "Just Chatting",
-      "started_at": "2026-07-02T21:56:38Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -26,34 +20,28 @@
       "started_at": "2026-07-03T00:50:30Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Electornic Repairs - Soldering - Vibin'",
-      "game": "Science & Technology",
-      "started_at": "2026-07-02T19:00:31Z"
-    },
-    {
       "username": "SharkG33k",
       "title": "I'M BACK!! Time to purge some drone footage | !charity",
       "game": "Science & Technology",
       "started_at": "2026-07-03T00:12:46Z"
     },
     {
-      "username": "MelissaInDeNile",
-      "title": "Last side quests of AC:III before we try out the DLC! ~ Follower Goal: 2380/2600 ~ !socials !beyonddenile",
-      "game": "Assassin's Creed III Remastered",
-      "started_at": "2026-07-02T22:50:04Z"
-    },
-    {
-      "username": "pencenter",
-      "title": "Tackling some bosses w @xdarthdeathx [!fish🎣|!commands💻]",
-      "game": "Minecraft Dungeons",
-      "started_at": "2026-07-03T01:58:48Z"
+      "username": "SydHeresy",
+      "title": "Electornic Repairs - Soldering - Vibin'",
+      "game": "Science & Technology",
+      "started_at": "2026-07-02T19:00:31Z"
     },
     {
       "username": "walkingsticklibrary",
       "title": "What's in your fireworks? Two monumental cities. Borscht and beyond.",
       "game": "Science & Technology",
       "started_at": "2026-07-03T01:34:00Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "Tackling some bosses w @xdarthdeathx [!fish🎣|!commands💻]",
+      "game": "Minecraft Dungeons",
+      "started_at": "2026-07-03T01:58:48Z"
     }
   ]
 }
