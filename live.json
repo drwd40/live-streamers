@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-03T21:33:35.095Z",
+  "timestamp": "2026-07-03T21:57:47.193Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,10 +38,22 @@
       "started_at": "2026-07-03T18:50:02Z"
     },
     {
+      "username": "SharkG33k",
+      "title": "[18+] Happy Friday! Checking out a new game and then it's raffle time later! | !charity",
+      "game": "Voyagers of Nera",
+      "started_at": "2026-07-03T21:39:01Z"
+    },
+    {
       "username": "nSimplexPachinko",
       "title": "Moonrise Towers await! Act II; Night 010, Baldur's Gate 3 - 20260703",
       "game": "Baldur's Gate 3",
       "started_at": "2026-07-03T21:27:11Z"
+    },
+    {
+      "username": "imreallyimportant",
+      "title": "JACK SMITH DOES FIRST INTERVIEW | AOC ENDORSES EL-SAYED",
+      "game": "Just Chatting",
+      "started_at": "2026-07-03T21:56:52Z"
     }
   ]
 }
