@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-03T20:38:50.294Z",
+  "timestamp": "2026-07-03T21:04:30.088Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-07-03T19:46:07Z"
     },
     {
-      "username": "Zachap",
-      "title": "analysis should be prioritized over slop",
-      "game": "Just Chatting",
-      "started_at": "2026-07-03T10:02:16Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "Game design AND development today (day 59)",
       "game": "Software and Game Development",
       "started_at": "2026-07-03T19:45:32Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "analysis should be prioritized over slop",
+      "game": "Just Chatting",
+      "started_at": "2026-07-03T10:02:16Z"
     },
     {
       "username": "IrishJohnGames",
