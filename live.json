@@ -1,29 +1,11 @@
 {
-  "timestamp": "2026-07-03T03:56:45.418Z",
+  "timestamp": "2026-07-03T05:18:31.150Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Alveus Subathon (Day 40 / 43+) | !alveus !institute !pixel !schedule !video !census !subathon",
       "game": "Just Chatting",
       "started_at": "2026-07-01T13:01:27Z"
-    },
-    {
-      "username": "SciAnts_Streams",
-      "title": "SciAnts Game Day | Mouse genetics/brain science + Mouse PI for Hire | 35% off 5 pack of subs!! | Partner+ 10/300 | !ppp !yt !pod",
-      "game": "MOUSE: P.I. For Hire",
-      "started_at": "2026-07-02T20:38:08Z"
-    },
-    {
-      "username": "Nerduino",
-      "title": "Space News Updates then Outer Wilds!  Astronomer and Former NASA Guy. #NASA #science #space #stem #scientis",
-      "game": "Outer Wilds",
-      "started_at": "2026-07-03T00:50:30Z"
-    },
-    {
-      "username": "SharkG33k",
-      "title": "I'M BACK!! Time to purge some drone footage | !charity",
-      "game": "Science & Technology",
-      "started_at": "2026-07-03T00:12:46Z"
     },
     {
       "username": "SydHeresy",
@@ -36,12 +18,6 @@
       "title": "What's in your fireworks? Two monumental cities. Borscht and beyond.",
       "game": "Science & Technology",
       "started_at": "2026-07-03T01:34:00Z"
-    },
-    {
-      "username": "pencenter",
-      "title": "Tackling some bosses w @xdarthdeathx [!fish🎣|!commands💻]",
-      "game": "Minecraft Dungeons",
-      "started_at": "2026-07-03T01:58:48Z"
     }
   ]
 }
