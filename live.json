@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-03T00:02:46.769Z",
+  "timestamp": "2026-07-03T00:57:58.340Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,10 +32,10 @@
       "started_at": "2026-07-02T19:00:31Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and trying out some Moscow Puzzles",
-      "game": "Math",
-      "started_at": "2026-07-02T19:58:09Z"
+      "username": "SharkG33k",
+      "title": "I'M BACK!! Time to purge some drone footage | !charity",
+      "game": "Science & Technology",
+      "started_at": "2026-07-03T00:12:46Z"
     },
     {
       "username": "MelissaInDeNile",
@@ -44,16 +44,22 @@
       "started_at": "2026-07-02T22:50:04Z"
     },
     {
-      "username": "DrAlexanderClarke",
-      "title": "The Defence Investment Plan is Out... Let's Talk it through, Good, Bad & What the Frigate?",
-      "game": "Just Chatting",
-      "started_at": "2026-07-02T18:30:14Z"
+      "username": "DonFactorial",
+      "title": "Answering your math questions and trying out some Moscow Puzzles",
+      "game": "Math",
+      "started_at": "2026-07-02T19:58:09Z"
     },
     {
       "username": "nSimplexPachinko",
       "title": "Genetics Investigations: Perditas & Cornucopia Group; TitansGrave 013, TTRPG Prep - 20260702",
       "game": "Tabletop RPGs",
       "started_at": "2026-07-02T22:19:51Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Space News Updates then Outer Wilds!  Astronomer and Former NASA Guy. #NASA #science #space #stem #scientis",
+      "game": "Science & Technology",
+      "started_at": "2026-07-03T00:50:30Z"
     }
   ]
 }
