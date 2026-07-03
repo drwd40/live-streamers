@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-03T17:05:53.354Z",
+  "timestamp": "2026-07-03T17:41:53.071Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-07-03T10:02:16Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "Resident Evil 5:  Science behind the Uroboros Virus | Collab with @kimmydnc | 35% off 5 pack of subs!! | Partner+ 30/300 | !ppp !yt !pod",
-      "game": "Resident Evil 5",
-      "started_at": "2026-07-03T14:06:06Z"
-    },
-    {
       "username": "oh_bother",
       "title": "Testing a module, building the next. Eurorack continues!",
       "game": "Science & Technology",
       "started_at": "2026-07-03T16:21:53Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "Resident Evil 5:  Science behind the Uroboros Virus | Collab with @kimmydnc | 35% off 5 pack of subs!! | Partner+ 30/300 | !ppp !yt !pod",
+      "game": "Resident Evil 5",
+      "started_at": "2026-07-03T14:06:06Z"
     }
   ]
 }
