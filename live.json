@@ -1,11 +1,17 @@
 {
-  "timestamp": "2026-07-03T18:40:42.860Z",
+  "timestamp": "2026-07-03T19:08:06.449Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Show and Tell | !alveus !institute !pixel !schedule !video",
+      "title": "Alveus Subathon (Day 41 / 43+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
       "started_at": "2026-07-03T13:01:30Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "Resident Evil 5:  Science behind the Uroboros Virus | Collab with @kimmydnc | 35% off 5 pack of subs!! | Partner+ 30/300 | !ppp !yt !pod",
+      "game": "Resident Evil 5",
+      "started_at": "2026-07-03T14:06:06Z"
     },
     {
       "username": "Zachap",
@@ -20,10 +26,16 @@
       "started_at": "2026-07-03T16:21:53Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "Resident Evil 5:  Science behind the Uroboros Virus | Collab with @kimmydnc | 35% off 5 pack of subs!! | Partner+ 30/300 | !ppp !yt !pod",
-      "game": "Resident Evil 5",
-      "started_at": "2026-07-03T14:06:06Z"
+      "username": "Andilippi",
+      "title": "Gig with Disco Biscuit @ The Neptune! (Drumming)",
+      "game": "Music",
+      "started_at": "2026-07-03T18:50:02Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀 Rise of Piracy dev! | !charity !rop !patreon !discord",
+      "game": "Software and Game Development",
+      "started_at": "2026-07-03T19:00:23Z"
     }
   ]
 }
