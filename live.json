@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-07-04T19:00:13.212Z",
+  "timestamp": "2026-07-04T19:33:07.961Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Alveus Subathon (Day 42 / 43+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
       "started_at": "2026-07-03T13:01:30Z"
-    },
-    {
-      "username": "TinyToxicTofu",
-      "title": "🔭 I'm Back From Italy! I Did Not Release the T-Virus (unforuntately) 🚀 !physics !ccc",
-      "game": "Surviving Mars",
-      "started_at": "2026-07-04T12:24:08Z"
     },
     {
       "username": "ArchitectureTV",
@@ -24,6 +18,18 @@
       "title": "The colonizing force that is “America” is older than that, tbh.",
       "game": "Just Chatting",
       "started_at": "2026-07-04T10:01:54Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and trying out some Moscow Puzzles",
+      "game": "Math",
+      "started_at": "2026-07-04T19:04:52Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Celebrating The 4th Order Lowpass Filter",
+      "game": "Science & Technology",
+      "started_at": "2026-07-04T19:30:24Z"
     }
   ]
 }
