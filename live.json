@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-04T23:29:47.798Z",
+  "timestamp": "2026-07-04T23:52:30.582Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,18 +18,6 @@
       "title": "Celebrating The 4th Order Lowpass Filter",
       "game": "Science & Technology",
       "started_at": "2026-07-04T19:30:24Z"
-    },
-    {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and trying out some Moscow Puzzles",
-      "game": "Math",
-      "started_at": "2026-07-04T19:04:52Z"
-    },
-    {
-      "username": "DrAlexanderClarke",
-      "title": "It's Piracy, It's Piracy, It's Piracy Day!",
-      "game": "Pirates of the Burning Sea",
-      "started_at": "2026-07-04T22:25:21Z"
     }
   ]
 }
