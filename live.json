@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-05T19:06:23.210Z",
+  "timestamp": "2026-07-05T19:40:17.757Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,28 +8,22 @@
       "started_at": "2026-07-05T13:01:32Z"
     },
     {
-      "username": "AstroCanuck",
-      "title": "Lazy Sunday LEGO: Natural History Museum | !giveaway !PGV | !drop !tkf",
-      "game": "Lego & Brickbuilding",
-      "started_at": "2026-07-05T14:00:41Z"
-    },
-    {
       "username": "ArchitectureTV",
       "title": "StoneTown, Catherals, Little Falls, Limestone, Historical Architecture, St. Mary's💜 Architecture IRL 💜",
       "game": "IRL",
       "started_at": "2026-07-05T16:26:29Z"
     },
     {
+      "username": "AstroCanuck",
+      "title": "Lazy Sunday LEGO: Natural History Museum | !giveaway !PGV | !drop !tkf",
+      "game": "Lego & Brickbuilding",
+      "started_at": "2026-07-05T14:00:41Z"
+    },
+    {
       "username": "Zachap",
       "title": "everyone wants communism, what's all that about?",
       "game": "Just Chatting",
       "started_at": "2026-07-05T10:00:45Z"
-    },
-    {
-      "username": "nogre0",
-      "title": "overcooked or half baked philosophy",
-      "game": "Just Chatting",
-      "started_at": "2026-07-05T17:00:06Z"
     },
     {
       "username": "DrAlexanderClarke",
@@ -42,6 +36,12 @@
       "title": "Learning the construction of the Erdos Unit Distance Conjecture from LeoLectures on Youtube!",
       "game": "Math",
       "started_at": "2026-07-05T19:05:10Z"
+    },
+    {
+      "username": "nogre0",
+      "title": "overcooked or half baked philosophy",
+      "game": "Just Chatting",
+      "started_at": "2026-07-05T17:00:06Z"
     }
   ]
 }
