@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-07-05T18:39:24.630Z",
+  "timestamp": "2026-07-05T19:06:23.210Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Alveus Subathon (Day 43 / 43+) | !alveus !institute !pixel !schedule !video !subathon",
       "game": "Just Chatting",
       "started_at": "2026-07-05T13:01:32Z"
-    },
-    {
-      "username": "TinyToxicTofu",
-      "title": "🔭 We're Re-Building Bob the Self-Balancing Robot and Trying to Survive Mars 🚀 !physics !ccc !phd",
-      "game": "Surviving Mars",
-      "started_at": "2026-07-05T12:24:14Z"
     },
     {
       "username": "AstroCanuck",
@@ -42,6 +36,12 @@
       "title": "Bruships 249: Modern Navy & Naval History Questions Answered Live...",
       "game": "Just Chatting",
       "started_at": "2026-07-05T18:33:44Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Learning the construction of the Erdos Unit Distance Conjecture from LeoLectures on Youtube!",
+      "game": "Math",
+      "started_at": "2026-07-05T19:05:10Z"
     }
   ]
 }
