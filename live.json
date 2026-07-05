@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-05T14:03:39.140Z",
+  "timestamp": "2026-07-05T14:41:53.396Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -10,8 +10,14 @@
     {
       "username": "TinyToxicTofu",
       "title": "🔭 We're Re-Building Bob the Self-Balancing Robot and Trying to Survive Mars 🚀 !physics !ccc !phd",
-      "game": "Science & Technology",
+      "game": "Surviving Mars",
       "started_at": "2026-07-05T12:24:14Z"
+    },
+    {
+      "username": "AstroCanuck",
+      "title": "Lazy Sunday LEGO: Natural History Museum | !giveaway !PGV | !drop !tkf",
+      "game": "Lego & Brickbuilding",
+      "started_at": "2026-07-05T14:00:41Z"
     },
     {
       "username": "Zachap",
@@ -20,16 +26,16 @@
       "started_at": "2026-07-05T10:00:45Z"
     },
     {
+      "username": "LumiRue",
+      "title": "Going to Japan!!! | Time to Study Japanese Culture | Chat Vote on Monthly Goal | Chess Hour",
+      "game": "Just Chatting",
+      "started_at": "2026-07-05T14:16:05Z"
+    },
+    {
       "username": "DrAlexanderClarke",
       "title": "Finishing a Library... then going for some Artillery... Naval History Life!",
       "game": "Librarian: Tidy Up the Arcane Library!",
       "started_at": "2026-07-05T12:22:15Z"
-    },
-    {
-      "username": "AstroCanuck",
-      "title": "Lazy Sunday LEGO: Natural History Museum | !giveaway !PGV | !drop !tkf",
-      "game": "Lego & Brickbuilding",
-      "started_at": "2026-07-05T14:00:41Z"
     }
   ]
 }
