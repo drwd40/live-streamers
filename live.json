@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-06T11:46:45.257Z",
+  "timestamp": "2026-07-06T13:02:04.549Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,10 +8,28 @@
       "started_at": "2026-07-05T13:01:32Z"
     },
     {
+      "username": "TinyToxicTofu",
+      "title": "🔭 Figuring out Logic Gates and Logic Gates Math! Can We Use it to Terraform Mars? 🚀 !physics !ccc !phd",
+      "game": "Science & Technology",
+      "started_at": "2026-07-06T12:27:02Z"
+    },
+    {
       "username": "Zachap",
       "title": "What did you do the past 7 days?",
       "game": "Just Chatting",
       "started_at": "2026-07-06T10:03:53Z"
+    },
+    {
+      "username": "leioslabs",
+      "title": "Let's chat",
+      "game": "Science & Technology",
+      "started_at": "2026-07-06T12:14:36Z"
+    },
+    {
+      "username": "Andilippi",
+      "title": "New Updates & Even More OBS Tinkering!!!",
+      "game": "Just Chatting",
+      "started_at": "2026-07-06T12:52:37Z"
     }
   ]
 }
