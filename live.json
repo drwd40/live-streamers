@@ -1,11 +1,23 @@
 {
-  "timestamp": "2026-07-06T15:30:01.067Z",
+  "timestamp": "2026-07-06T16:37:04.380Z",
   "live": [
+    {
+      "username": "Maya",
+      "title": "handcuffed baking with @strayyzz and @chandlerirs …",
+      "game": "Just Chatting",
+      "started_at": "2026-07-06T15:33:30Z"
+    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-07-05T13:01:32Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "Back from Vacation! Catching up on things! Then we game!",
+      "game": "Just Chatting",
+      "started_at": "2026-07-06T16:04:47Z"
     },
     {
       "username": "TinyToxicTofu",
@@ -14,22 +26,16 @@
       "started_at": "2026-07-06T12:27:02Z"
     },
     {
-      "username": "Zachap",
-      "title": "What did you do the past 7 days?",
-      "game": "Just Chatting",
-      "started_at": "2026-07-06T10:03:53Z"
-    },
-    {
-      "username": "Andilippi",
-      "title": "Learning new setlist!",
-      "game": "Music",
-      "started_at": "2026-07-06T12:52:37Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "Watch me work 👀 (day 60)",
       "game": "Software and Game Development",
       "started_at": "2026-07-06T15:27:45Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "What did you do the past 7 days?",
+      "game": "Just Chatting",
+      "started_at": "2026-07-06T10:03:53Z"
     }
   ]
 }
