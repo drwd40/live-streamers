@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-06T23:32:05.040Z",
+  "timestamp": "2026-07-06T23:56:06.853Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,22 +8,10 @@
       "started_at": "2026-07-05T13:01:32Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "EJ's Space and Rocket Revue! 7/6/26",
-      "game": "Science & Technology",
-      "started_at": "2026-07-06T21:13:19Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "LIB & LEAR @ 6 PM EST | PLATNER IN BIG TROUBLE AFTER NEW SA ALLEGATION",
       "game": "Just Chatting",
       "started_at": "2026-07-06T21:49:44Z"
-    },
-    {
-      "username": "ActualEducation",
-      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
-      "game": "Just Chatting",
-      "started_at": "2026-07-06T22:04:43Z"
     }
   ]
 }
