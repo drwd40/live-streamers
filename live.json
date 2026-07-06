@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-06T19:02:23.809Z",
+  "timestamp": "2026-07-06T19:41:39.391Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,18 @@
       "title": "What did you do the past 7 days?",
       "game": "Just Chatting",
       "started_at": "2026-07-06T10:03:53Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀 Major Update #48 released! Rise of Piracy dev! | !charity !rop !patreon !discord",
+      "game": "Software and Game Development",
+      "started_at": "2026-07-06T19:03:37Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "Physics 1B",
+      "game": "Just Chatting",
+      "started_at": "2026-07-06T19:30:06Z"
     }
   ]
 }
