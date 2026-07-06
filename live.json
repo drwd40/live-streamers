@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-06T14:15:51.452Z",
+  "timestamp": "2026-07-06T15:30:01.067Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -10,7 +10,7 @@
     {
       "username": "TinyToxicTofu",
       "title": "🔭 Figuring out Logic Gates and Logic Gates Math! Can We Use it to Terraform Mars? 🚀 !physics !ccc !phd",
-      "game": "Science & Technology",
+      "game": "Surviving Mars",
       "started_at": "2026-07-06T12:27:02Z"
     },
     {
@@ -20,16 +20,16 @@
       "started_at": "2026-07-06T10:03:53Z"
     },
     {
-      "username": "leioslabs",
-      "title": "Let's chat",
-      "game": "Science & Technology",
-      "started_at": "2026-07-06T12:14:36Z"
-    },
-    {
       "username": "Andilippi",
       "title": "Learning new setlist!",
       "game": "Music",
       "started_at": "2026-07-06T12:52:37Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Watch me work 👀 (day 60)",
+      "game": "Software and Game Development",
+      "started_at": "2026-07-06T15:27:45Z"
     }
   ]
 }
