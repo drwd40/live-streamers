@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-06T21:02:10.560Z",
+  "timestamp": "2026-07-06T21:38:49.472Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-07-05T13:01:32Z"
     },
     {
+      "username": "EJ_SA",
+      "title": "EJ's Space and Rocket Revue! 7/6/26",
+      "game": "Science & Technology",
+      "started_at": "2026-07-06T21:13:19Z"
+    },
+    {
       "username": "AdamLearnsLive",
       "title": "Game dev (day 60½)",
       "game": "Software and Game Development",
       "started_at": "2026-07-06T19:55:32Z"
-    },
-    {
-      "username": "IrishJohnGames",
-      "title": "🍀 Major Update #48 released! Rise of Piracy dev! | !charity !rop !patreon !discord",
-      "game": "Software and Game Development",
-      "started_at": "2026-07-06T19:03:37Z"
     }
   ]
 }
