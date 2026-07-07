@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-07T23:14:27.402Z",
+  "timestamp": "2026-07-07T23:35:44.749Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-07-07T21:59:35Z"
     },
     {
-      "username": "GeoJim2006",
-      "title": "Hot Rocks All Summer Long 🔥🪨🔥 !discord !nova !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-07-07T19:59:20Z"
-    },
-    {
       "username": "shnaff",
       "title": "Guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2026-07-07T22:01:32Z"
+    },
+    {
+      "username": "GeoJim2006",
+      "title": "Hot Rocks All Summer Long 🔥🪨🔥 !discord !nova !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-07-07T19:59:20Z"
     },
     {
       "username": "SydHeresy",
@@ -42,6 +42,12 @@
       "title": "Surface Integrals: An Introduction",
       "game": "Math",
       "started_at": "2026-07-07T22:12:23Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Part 2: Creeping in the Attic; Starting Day 36; Night 16, Blue Prince - 20260707",
+      "game": "Blue Prince",
+      "started_at": "2026-07-07T23:27:22Z"
     }
   ]
 }
