@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-07-07T18:56:49.639Z",
+  "timestamp": "2026-07-07T19:33:52.466Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "PO Box Opening | !alveus !institute !pixel !schedule !video",
-      "game": "Just Chatting",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
+      "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-07-07T13:01:35Z"
     },
     {
@@ -20,10 +20,22 @@
       "started_at": "2026-07-07T10:04:00Z"
     },
     {
+      "username": "SydHeresy",
+      "title": "DIY - SERGE - MODCAN - EURORACK - BUILDS + REPAIRS",
+      "game": "Science & Technology",
+      "started_at": "2026-07-07T19:00:03Z"
+    },
+    {
       "username": "vul100",
       "title": "Tuesday July 7th @2:30pm EDT: Music-tastes interactions in the brain",
       "game": "Science & Technology",
       "started_at": "2026-07-07T18:33:13Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "Physics 1B",
+      "game": "Just Chatting",
+      "started_at": "2026-07-07T19:29:40Z"
     }
   ]
 }
