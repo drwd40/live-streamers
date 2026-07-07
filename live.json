@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-06T23:56:06.853Z",
+  "timestamp": "2026-07-07T00:34:00.889Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "LIB & LEAR @ 6 PM EST | PLATNER IN BIG TROUBLE AFTER NEW SA ALLEGATION",
       "game": "Just Chatting",
       "started_at": "2026-07-06T21:49:44Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Haussmann in my home town.",
+      "game": "Science & Technology",
+      "started_at": "2026-07-07T00:31:52Z"
     }
   ]
 }
