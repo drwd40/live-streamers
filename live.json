@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-07T15:46:26.008Z",
+  "timestamp": "2026-07-07T16:40:36.787Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,10 +8,16 @@
       "started_at": "2026-07-07T13:01:35Z"
     },
     {
-      "username": "csharpfritz",
-      "title": "Writing code.. doing stuff",
-      "game": "Software and Game Development",
-      "started_at": "2026-07-07T13:18:37Z"
+      "username": "EJ_SA",
+      "title": "Refactoring my early factory! Factorio (Part 24)",
+      "game": "Factorio",
+      "started_at": "2026-07-07T16:10:17Z"
+    },
+    {
+      "username": "ipaintbirbs",
+      "title": "painting birbs if you don't mind!",
+      "game": "Art",
+      "started_at": "2026-07-07T16:06:14Z"
     },
     {
       "username": "AdamLearnsLive",
