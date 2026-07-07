@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-07T14:47:51.005Z",
+  "timestamp": "2026-07-07T15:46:26.008Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "Writing code.. doing stuff",
       "game": "Software and Game Development",
       "started_at": "2026-07-07T13:18:37Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Polish day (🇵🇱?) (day 61)",
+      "game": "Software and Game Development",
+      "started_at": "2026-07-07T15:10:04Z"
     },
     {
       "username": "Zachap",
