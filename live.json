@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-07T18:13:10.788Z",
+  "timestamp": "2026-07-07T18:56:49.639Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,22 +14,16 @@
       "started_at": "2026-07-07T16:10:17Z"
     },
     {
-      "username": "ipaintbirbs",
-      "title": "painting birbs if you don't mind!",
-      "game": "Art",
-      "started_at": "2026-07-07T16:06:14Z"
-    },
-    {
-      "username": "AdamLearnsLive",
-      "title": "Polish day (🇵🇱?) (day 61)",
-      "game": "Software and Game Development",
-      "started_at": "2026-07-07T15:10:04Z"
-    },
-    {
       "username": "Zachap",
       "title": "anti-intellectualism exists \"on the left\" in a general sense as well. I wish things improved.",
       "game": "Just Chatting",
       "started_at": "2026-07-07T10:04:00Z"
+    },
+    {
+      "username": "vul100",
+      "title": "Tuesday July 7th @2:30pm EDT: Music-tastes interactions in the brain",
+      "game": "Science & Technology",
+      "started_at": "2026-07-07T18:33:13Z"
     }
   ]
 }
