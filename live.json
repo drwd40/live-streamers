@@ -1,11 +1,23 @@
 {
-  "timestamp": "2026-07-08T15:42:23.633Z",
+  "timestamp": "2026-07-08T16:18:34.287Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-07-07T13:01:35Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "Exploring abandoned railroad tracks on Google Earth! (The Old Colony Line) 7/8/26",
+      "game": "Just Chatting",
+      "started_at": "2026-07-08T16:06:27Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Last full day of game dev before a short vacation (day 62)",
+      "game": "Software and Game Development",
+      "started_at": "2026-07-08T15:32:58Z"
     },
     {
       "username": "Zachap",
@@ -18,12 +30,6 @@
       "title": "Coffee with Nerduino.  Solar astronomy and science chat.  Astronomer and Former NASA Guy. #NASA #science #space #stem #scientis",
       "game": "Science & Technology",
       "started_at": "2026-07-08T12:51:46Z"
-    },
-    {
-      "username": "AdamLearnsLive",
-      "title": "Last full day of game dev before a short vacation (day 62)",
-      "game": "Software and Game Development",
-      "started_at": "2026-07-08T15:32:58Z"
     }
   ]
 }
