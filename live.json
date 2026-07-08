@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-08T01:24:04.961Z",
+  "timestamp": "2026-07-08T02:13:13.568Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,22 +8,10 @@
       "started_at": "2026-07-07T13:01:35Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "EJ's Space and Rocket Revue! 7/7/26",
-      "game": "Science & Technology",
-      "started_at": "2026-07-07T22:32:38Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "PLATNER REMAINS DEFIANT - REFUSES TO DROP OUT | BERNIE WITHDRAWS SUPPORT",
       "game": "Just Chatting",
       "started_at": "2026-07-07T21:59:35Z"
-    },
-    {
-      "username": "AstroCanuck",
-      "title": "Astro's Po'Pourri: Baba's Birthday Bash with @babazelnik !baba - Later, LEGO BDP W.A.L.T. | !giveaway !PGV | !drop !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-07-08T00:03:00Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -32,10 +20,10 @@
       "started_at": "2026-07-08T01:01:51Z"
     },
     {
-      "username": "SharkG33k",
-      "title": "Toothday! Shark news! | !TFT",
+      "username": "AstroCanuck",
+      "title": "Astro's Po'Pourri: Baba's Birthday Bash with @babazelnik !baba - Later, LEGO BDP W.A.L.T. | !giveaway !PGV | !drop !tkf",
       "game": "Science & Technology",
-      "started_at": "2026-07-08T00:05:07Z"
+      "started_at": "2026-07-08T00:03:00Z"
     },
     {
       "username": "Nerduino",
@@ -44,22 +32,28 @@
       "started_at": "2026-07-08T00:51:14Z"
     },
     {
+      "username": "SharkG33k",
+      "title": "Toothday! Shark news! | !TFT",
+      "game": "Science & Technology",
+      "started_at": "2026-07-08T00:05:07Z"
+    },
+    {
       "username": "SydHeresy",
       "title": "DIY - SERGE - MODCAN - EURORACK - BUILDS + REPAIRS",
       "game": "Science & Technology",
       "started_at": "2026-07-07T21:29:56Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "Part 2: Creeping in the Attic; Starting Day 36; Night 16, Blue Prince - 20260707",
-      "game": "Blue Prince",
-      "started_at": "2026-07-07T23:27:22Z"
-    },
-    {
       "username": "ActualEducation",
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Just Chatting",
       "started_at": "2026-07-08T01:00:43Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Why there are so few beet recipes? Cellar spider ecology, and Bo Bartlett's Homecoming.",
+      "game": "Science & Technology",
+      "started_at": "2026-07-08T01:32:51Z"
     }
   ]
 }
