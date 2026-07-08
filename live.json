@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-08T19:41:02.610Z",
+  "timestamp": "2026-07-08T20:12:02.740Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,22 @@
       "started_at": "2026-07-08T10:01:13Z"
     },
     {
-      "username": "IrishJohnGames",
-      "title": "🍀 Major Update #48 released! Rise of Piracy dev! | !charity !rop !patreon !discord",
+      "username": "AdamLearnsLive",
+      "title": "Game dev (day 62½)",
       "game": "Software and Game Development",
-      "started_at": "2026-07-08T18:00:12Z"
+      "started_at": "2026-07-08T19:58:26Z"
     },
     {
       "username": "ActualEducation",
       "title": "Physics 1B",
       "game": "Just Chatting",
       "started_at": "2026-07-08T19:29:10Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Failing upwards on Namalsk",
+      "game": "DayZ",
+      "started_at": "2026-07-08T20:09:20Z"
     }
   ]
 }
