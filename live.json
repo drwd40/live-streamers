@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-08T14:54:47.978Z",
+  "timestamp": "2026-07-08T15:42:23.633Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,12 @@
       "title": "Coffee with Nerduino.  Solar astronomy and science chat.  Astronomer and Former NASA Guy. #NASA #science #space #stem #scientis",
       "game": "Science & Technology",
       "started_at": "2026-07-08T12:51:46Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Last full day of game dev before a short vacation (day 62)",
+      "game": "Software and Game Development",
+      "started_at": "2026-07-08T15:32:58Z"
     }
   ]
 }
