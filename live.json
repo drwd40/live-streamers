@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-09T00:58:14.159Z",
+  "timestamp": "2026-07-09T01:39:57.385Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,14 +14,8 @@
       "started_at": "2026-07-08T16:06:27Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "LET'S TALK FOSSILS 🦴🦕💬 Back from vacation 🏖 New dinosaur species catch-up tomorrow 🆕📃💥 T. rex auction 💰🤬 New leatherback video 🐢😍",
-      "game": "Science & Technology",
-      "started_at": "2026-07-08T20:13:49Z"
-    },
-    {
       "username": "imreallyimportant",
-      "title": "😐 GRAHAM PLATNER STILL HASN'T DROPPED OUT | US STRIKES IRAN AFTER TRUMP SAYS CEASEFIRE IS OVER",
+      "title": "GRAHAM PLATNER DROPS OUT | US STRIKES IRAN AFTER TRUMP SAYS CEASEFIRE IS OVER",
       "game": "Just Chatting",
       "started_at": "2026-07-08T21:54:41Z"
     },
@@ -30,6 +24,18 @@
       "title": "these birds ain't gonna paint themselves!",
       "game": "Art",
       "started_at": "2026-07-08T23:06:25Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "🏴‍☠️SciAnts of the Caribbean🏴‍☠️ | Caribbean ecology, conservation, piracy and more! | Partner+ 72/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2026-07-09T01:03:07Z"
+    },
+    {
+      "username": "Moohoodles",
+      "title": "🪐 Astrobiology & Space News! ✨",
+      "game": "Science & Technology",
+      "started_at": "2026-07-09T01:27:10Z"
     },
     {
       "username": "SharkG33k",
@@ -44,15 +50,9 @@
       "started_at": "2026-07-09T00:00:06Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Failing upwards on Namalsk",
-      "game": "DayZ",
-      "started_at": "2026-07-08T20:09:20Z"
-    },
-    {
       "username": "Ask_a_Scientist_Gaming",
-      "title": "Dr. Mike Shatruk, Molecular Magnets/Qubits, and Jurassic Park (Arcade).",
-      "game": "Science & Technology",
+      "title": "Dr. Mike Shatruk, Molecular Magnets/Qubits, and Q-Bert.",
+      "game": "Just Chatting",
       "started_at": "2026-07-08T23:57:07Z"
     },
     {
@@ -60,6 +60,12 @@
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Just Chatting",
       "started_at": "2026-07-09T00:02:36Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Klara and the Sun. Health effects of eviction, and Bo Bartlett's Homecoming.",
+      "game": "Science & Technology",
+      "started_at": "2026-07-09T01:30:52Z"
     }
   ]
 }
