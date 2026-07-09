@@ -1,6 +1,12 @@
 {
-  "timestamp": "2026-07-09T17:53:47.896Z",
+  "timestamp": "2026-07-09T18:30:55.614Z",
   "live": [
+    {
+      "username": "Kitboga",
+      "title": "Hunting Scammers [Ep. 1540]",
+      "game": "Just Chatting",
+      "started_at": "2026-07-09T18:07:48Z"
+    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
@@ -9,15 +15,9 @@
     },
     {
       "username": "EJ_SA",
-      "title": "Additional outer rocker work! Finally getting to adding more to the car then subtracting! The Crew Cab Coronet (Part 53)",
+      "title": "NSF - SPACEX BOOSTER 20 ROLLOUT!",
       "game": "Science & Technology",
       "started_at": "2026-07-09T17:09:58Z"
-    },
-    {
-      "username": "TinyToxicTofu",
-      "title": "“Yes, of course duct tape works in a near-vacuum. Duct tape works anywhere. Duct tape is magic and should be worshiped\" - The Martian",
-      "game": "Surviving Mars",
-      "started_at": "2026-07-09T12:32:31Z"
     },
     {
       "username": "Zachap",
@@ -36,6 +36,18 @@
       "title": "Fixing some modules, misc projects",
       "game": "Science & Technology",
       "started_at": "2026-07-09T16:46:53Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Season 4 Begins: Gauss' Law + More Electricity & Magnetism",
+      "game": "Science & Technology",
+      "started_at": "2026-07-09T18:06:15Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "WI delayed by six years? What would the Navy's look like? (Patreon Alternate History)",
+      "game": "Just Chatting",
+      "started_at": "2026-07-09T18:30:17Z"
     }
   ]
 }
