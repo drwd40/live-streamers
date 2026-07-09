@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-09T20:26:54.508Z",
+  "timestamp": "2026-07-09T21:01:44.497Z",
   "live": [
     {
       "username": "Kitboga",
@@ -32,12 +32,6 @@
       "started_at": "2026-07-09T10:01:40Z"
     },
     {
-      "username": "oh_bother",
-      "title": "Fixing some modules, misc projects",
-      "game": "Science & Technology",
-      "started_at": "2026-07-09T16:46:53Z"
-    },
-    {
       "username": "DrMick",
       "title": "Mental Health Chat + Painting 40k",
       "game": "Miniatures & Models",
@@ -56,28 +50,28 @@
       "started_at": "2026-07-09T19:24:15Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Season 4 Begins: Gauss' Law + More Electricity & Magnetism",
-      "game": "Science & Technology",
-      "started_at": "2026-07-09T18:06:15Z"
-    },
-    {
       "username": "DrAlexanderClarke",
-      "title": "WI delayed by six years? What would the Navy's look like? (Patreon Alternate History)",
+      "title": "WWI delayed by six years? What would the Navy's look like? (Patreon Alternate History)",
       "game": "Just Chatting",
       "started_at": "2026-07-09T18:30:17Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "Physics 1B!",
-      "game": "Just Chatting",
-      "started_at": "2026-07-09T19:29:13Z"
+      "username": "DonFactorial",
+      "title": "Answering your math questions and data analysis on disparities in cancer",
+      "game": "Math",
+      "started_at": "2026-07-09T20:37:08Z"
     },
     {
       "username": "pencenter",
       "title": "Real Analysis Lesson #12 [(off) !fish🎣|!commands💻]",
       "game": "Math",
       "started_at": "2026-07-09T19:54:09Z"
+    },
+    {
+      "username": "SETIInstitute",
+      "title": "Alien Skies Under Fire: What UV Radiation Does to Exoplanets",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2026-07-09T21:01:00Z"
     }
   ]
 }
