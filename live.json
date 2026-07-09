@@ -1,12 +1,6 @@
 {
-  "timestamp": "2026-07-09T21:01:44.497Z",
+  "timestamp": "2026-07-09T21:36:35.961Z",
   "live": [
-    {
-      "username": "Kitboga",
-      "title": "Hunting Scammers [Ep. 1540]",
-      "game": "Just Chatting",
-      "started_at": "2026-07-09T18:07:48Z"
-    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
@@ -21,15 +15,9 @@
     },
     {
       "username": "SciAnts_Streams",
-      "title": "Resident Evil 5:  Science behind the Uroboros Virus | Collab with @kimmydnc | 🏴‍☠️🏴‍☠️ later | Partner+ 73/300 | !ppp !yt !pod",
-      "game": "Resident Evil 5",
+      "title": "🏴‍☠️SciAnts of the Caribbean 🏴‍☠️| Coral reefs, assassins and more!  Partner+ 73/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
       "started_at": "2026-07-09T15:58:51Z"
-    },
-    {
-      "username": "Zachap",
-      "title": "Landlords are useless, lazy and parasitic, it's not a profession and they do not produce anything.",
-      "game": "Just Chatting",
-      "started_at": "2026-07-09T10:01:40Z"
     },
     {
       "username": "DrMick",
@@ -44,12 +32,6 @@
       "started_at": "2026-07-09T18:31:31Z"
     },
     {
-      "username": "SharkG33k",
-      "title": "[18+] Black Flag Resynced is finally here!| !TFT",
-      "game": "Assassin's Creed Black Flag Resynced",
-      "started_at": "2026-07-09T19:24:15Z"
-    },
-    {
       "username": "DrAlexanderClarke",
       "title": "WWI delayed by six years? What would the Navy's look like? (Patreon Alternate History)",
       "game": "Just Chatting",
@@ -62,16 +44,16 @@
       "started_at": "2026-07-09T20:37:08Z"
     },
     {
-      "username": "pencenter",
-      "title": "Real Analysis Lesson #12 [(off) !fish🎣|!commands💻]",
-      "game": "Math",
-      "started_at": "2026-07-09T19:54:09Z"
+      "username": "SharkG33k",
+      "title": "[18+] Black Flag Resynced is finally here!| !TFT",
+      "game": "Assassin's Creed Black Flag Resynced",
+      "started_at": "2026-07-09T19:24:15Z"
     },
     {
-      "username": "SETIInstitute",
-      "title": "Alien Skies Under Fire: What UV Radiation Does to Exoplanets",
-      "game": "Talk Shows & Podcasts",
-      "started_at": "2026-07-09T21:01:00Z"
+      "username": "nSimplexPachinko",
+      "title": "Babby Operations Strimmer, Have Guns, Will Travel; Elite: Dangerous, Night 0067 - 20260709",
+      "game": "Elite: Dangerous",
+      "started_at": "2026-07-09T21:18:44Z"
     }
   ]
 }
