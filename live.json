@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-07-09T00:09:04.600Z",
+  "timestamp": "2026-07-09T00:58:14.159Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-07-07T13:01:35Z"
-    },
-    {
-      "username": "JapanesePrintmaking",
-      "title": "Making Japanese woodblock prints ... live while you watch ...",
-      "game": "Makers & Crafting",
-      "started_at": "2026-07-08T22:59:52Z"
     },
     {
       "username": "EJ_SA",
@@ -38,6 +32,18 @@
       "started_at": "2026-07-08T23:06:25Z"
     },
     {
+      "username": "SharkG33k",
+      "title": "Whale sharks and manta rays! | !TFT",
+      "game": "Science & Technology",
+      "started_at": "2026-07-09T00:03:46Z"
+    },
+    {
+      "username": "nogre0",
+      "title": "what is an argument?",
+      "game": "Just Chatting",
+      "started_at": "2026-07-09T00:00:06Z"
+    },
+    {
       "username": "DonFactorial",
       "title": "Failing upwards on Namalsk",
       "game": "DayZ",
@@ -48,24 +54,6 @@
       "title": "Dr. Mike Shatruk, Molecular Magnets/Qubits, and Jurassic Park (Arcade).",
       "game": "Science & Technology",
       "started_at": "2026-07-08T23:57:07Z"
-    },
-    {
-      "username": "nogre0",
-      "title": "what is an argument?",
-      "game": "Just Chatting",
-      "started_at": "2026-07-09T00:00:06Z"
-    },
-    {
-      "username": "SharkG33k",
-      "title": "Whale sharks and manta rays! | !TFT",
-      "game": "Science & Technology",
-      "started_at": "2026-07-09T00:03:46Z"
-    },
-    {
-      "username": "nSimplexPachinko",
-      "title": "Partial Derivatives & Linear Approximations; Cracking the GRE Math Subject Test, Night 047 - 20260708",
-      "game": "Math",
-      "started_at": "2026-07-08T21:45:07Z"
     },
     {
       "username": "ActualEducation",
