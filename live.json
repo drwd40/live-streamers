@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-10T20:28:26.582Z",
+  "timestamp": "2026-07-10T20:54:00.496Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,28 +8,16 @@
       "started_at": "2026-07-09T13:01:39Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "4️⃣ FOUR NEW DINOSAUR SPECIES 4️⃣ Let's cover those leftover taxa 🦖 plus Denver Fowler interview on the real story behind dinosaur auctions",
-      "game": "Science & Technology",
-      "started_at": "2026-07-10T20:01:14Z"
-    },
-    {
       "username": "EJ_SA",
       "title": "NSF - Booster 20 hits epic Static Fire duration - The Flame Trench 7/10/26",
       "game": "Science & Technology",
       "started_at": "2026-07-10T20:23:00Z"
     },
     {
-      "username": "Zachap",
-      "title": "Cultural Hegemony - it's real and it's killing us all atm.",
-      "game": "Just Chatting",
-      "started_at": "2026-07-10T09:59:26Z"
-    },
-    {
-      "username": "oh_bother",
-      "title": "Modular synthesizer, but every ad break it turns off and I start over.",
+      "username": "Paleontologizing",
+      "title": "4️⃣ FOUR NEW DINOSAUR SPECIES 4️⃣ Let's cover those leftover taxa 🦖 plus Denver Fowler interview on the real story behind dinosaur auctions",
       "game": "Science & Technology",
-      "started_at": "2026-07-10T16:30:44Z"
+      "started_at": "2026-07-10T20:01:14Z"
     },
     {
       "username": "IrishJohnGames",
@@ -38,22 +26,28 @@
       "started_at": "2026-07-10T19:37:45Z"
     },
     {
+      "username": "Zachap",
+      "title": "Cultural Hegemony - it's real and it's killing us all atm.",
+      "game": "Just Chatting",
+      "started_at": "2026-07-10T09:59:26Z"
+    },
+    {
       "username": "Rocketology",
       "title": "1/4 Real Scale Install Tuning & Testing",
       "game": "Kerbal Space Program",
       "started_at": "2026-07-10T19:58:14Z"
     },
     {
-      "username": "SharkG33k",
-      "title": "Bonus Fin Friday Stream! |  Shark vidyas. More black flag later! | !TFT",
-      "game": "Science & Technology",
-      "started_at": "2026-07-10T20:20:19Z"
-    },
-    {
       "username": "GeoJim2006",
       "title": "Friday Mysteries - Trying to Identify/Classify Unknown Rocks & Minerals 😕🔍🔬🪨 !discord !nova !tkf",
       "game": "Science & Technology",
       "started_at": "2026-07-10T20:10:48Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Bonus Fin Friday Stream! |  Shark vidyas. More black flag later! | !TFT",
+      "game": "Science & Technology",
+      "started_at": "2026-07-10T20:20:19Z"
     }
   ]
 }
