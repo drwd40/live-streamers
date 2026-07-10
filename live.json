@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-10T15:32:10.336Z",
+  "timestamp": "2026-07-10T16:24:09.936Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,12 @@
       "title": "Cultural Hegemony - it's real and it's killing us all atm.",
       "game": "Just Chatting",
       "started_at": "2026-07-10T09:59:26Z"
+    },
+    {
+      "username": "CosmoQuestX",
+      "title": "Doing Big Science with Light Tools with guest Dr Danny Jacobs",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2026-07-10T16:00:52Z"
     }
   ]
 }
