@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-10T21:19:36.454Z",
+  "timestamp": "2026-07-10T21:42:22.108Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-07-10T19:37:45Z"
     },
     {
-      "username": "GeoJim2006",
-      "title": "Friday Mysteries - Trying to Identify/Classify Unknown Rocks & Minerals 😕🔍🔬🪨 !discord !nova !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-07-10T20:10:48Z"
-    },
-    {
       "username": "Rocketology",
       "title": "1/4 Real Scale Install Tuning & Testing",
       "game": "Kerbal Space Program",
       "started_at": "2026-07-10T19:58:14Z"
+    },
+    {
+      "username": "GeoJim2006",
+      "title": "Friday Mysteries - Trying to Identify/Classify Unknown Rocks & Minerals 😕🔍🔬🪨 !discord !nova !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-07-10T20:10:48Z"
     },
     {
       "username": "SharkG33k",
