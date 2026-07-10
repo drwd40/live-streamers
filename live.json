@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-10T23:19:16.900Z",
+  "timestamp": "2026-07-10T23:40:37.551Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-07-09T13:01:39Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "NSF - Booster 20 hits epic Static Fire duration - The Flame Trench 7/10/26",
-      "game": "Science & Technology",
-      "started_at": "2026-07-10T20:23:00Z"
-    },
-    {
       "username": "JapanesePrintmaking",
       "title": "Making Japanese woodblock prints ... live while you watch ...",
       "game": "Makers & Crafting",
       "started_at": "2026-07-10T23:01:45Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "NSF - Booster 20 hits epic Static Fire duration - The Flame Trench 7/10/26",
+      "game": "Science & Technology",
+      "started_at": "2026-07-10T20:23:00Z"
     },
     {
       "username": "Paleontologizing",
@@ -42,12 +42,6 @@
       "title": "Guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2026-07-10T22:00:31Z"
-    },
-    {
-      "username": "GeoJim2006",
-      "title": "Friday Mysteries - Trying to Identify/Classify Unknown Rocks & Minerals 😕🔍🔬🪨 !discord !nova !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-07-10T20:10:48Z"
     },
     {
       "username": "Rocketology",
