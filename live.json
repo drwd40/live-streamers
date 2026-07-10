@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-10T22:08:39.309Z",
+  "timestamp": "2026-07-10T22:32:55.449Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,10 +20,22 @@
       "started_at": "2026-07-10T20:01:14Z"
     },
     {
+      "username": "ipaintbirbs",
+      "title": "friday night stream so wild!!!! watching hummingbirds and calmly painting get in here wow",
+      "game": "Art",
+      "started_at": "2026-07-10T22:09:42Z"
+    },
+    {
       "username": "imreallyimportant",
       "title": "GRAHAM PLATNER OFFICIALLY WITHDRAWS FROM MAINE SENATE RACE (FINALLY)",
       "game": "Just Chatting",
       "started_at": "2026-07-10T21:55:15Z"
+    },
+    {
+      "username": "shnaff",
+      "title": "Guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-07-10T22:00:31Z"
     },
     {
       "username": "GeoJim2006",
@@ -42,18 +54,6 @@
       "title": "Bonus Fin Friday Stream! |  Shark vidyas. More black flag later! | !TFT",
       "game": "Science & Technology",
       "started_at": "2026-07-10T20:20:19Z"
-    },
-    {
-      "username": "eToThe2iPi",
-      "title": "Sixteen: Episode 26.03",
-      "game": "",
-      "started_at": "2026-07-10T21:09:46Z"
-    },
-    {
-      "username": "shnaff",
-      "title": "Guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-07-10T22:00:31Z"
     }
   ]
 }
