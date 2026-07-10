@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-10T00:04:38.316Z",
+  "timestamp": "2026-07-10T00:55:47.587Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,22 +38,28 @@
       "started_at": "2026-07-09T23:56:19Z"
     },
     {
-      "username": "SharkG33k",
-      "title": "[18+] Black Flag Resynced is finally here!| !TFT",
-      "game": "Assassin's Creed Black Flag Resynced",
-      "started_at": "2026-07-09T19:24:15Z"
-    },
-    {
       "username": "nSimplexPachinko",
       "title": "Babby Operations Strimmer, Have Guns, Will Travel; Elite: Dangerous, Night 0067 - 20260709",
       "game": "Elite: Dangerous",
       "started_at": "2026-07-09T21:18:44Z"
     },
     {
+      "username": "Mr_Aejis",
+      "title": "Jarona??? Teacher Plays - Deltarune!",
+      "game": "Deltarune",
+      "started_at": "2026-07-10T00:32:55Z"
+    },
+    {
       "username": "ActualEducation",
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Just Chatting",
       "started_at": "2026-07-10T00:00:43Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Thursday night science chat  Astronomer and Former NASA Guy. #NASA #science #space #stem #scientis",
+      "game": "Science & Technology",
+      "started_at": "2026-07-10T00:52:32Z"
     }
   ]
 }
