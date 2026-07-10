@@ -1,11 +1,23 @@
 {
-  "timestamp": "2026-07-10T19:55:17.293Z",
+  "timestamp": "2026-07-10T20:28:26.582Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-07-09T13:01:39Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "4️⃣ FOUR NEW DINOSAUR SPECIES 4️⃣ Let's cover those leftover taxa 🦖 plus Denver Fowler interview on the real story behind dinosaur auctions",
+      "game": "Science & Technology",
+      "started_at": "2026-07-10T20:01:14Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "NSF - Booster 20 hits epic Static Fire duration - The Flame Trench 7/10/26",
+      "game": "Science & Technology",
+      "started_at": "2026-07-10T20:23:00Z"
     },
     {
       "username": "Zachap",
@@ -24,6 +36,24 @@
       "title": "🍀 Major Update #48 released! Rise of Piracy dev! | !charity !rop !patreon !discord",
       "game": "Software and Game Development",
       "started_at": "2026-07-10T19:37:45Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "1/4 Real Scale Install Tuning & Testing",
+      "game": "Kerbal Space Program",
+      "started_at": "2026-07-10T19:58:14Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Bonus Fin Friday Stream! |  Shark vidyas. More black flag later! | !TFT",
+      "game": "Science & Technology",
+      "started_at": "2026-07-10T20:20:19Z"
+    },
+    {
+      "username": "GeoJim2006",
+      "title": "Friday Mysteries - Trying to Identify/Classify Unknown Rocks & Minerals 😕🔍🔬🪨 !discord !nova !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-07-10T20:10:48Z"
     }
   ]
 }
