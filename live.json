@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-09T23:39:09.257Z",
+  "timestamp": "2026-07-10T00:04:38.316Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,12 +26,6 @@
       "started_at": "2026-07-09T15:58:51Z"
     },
     {
-      "username": "shnaff",
-      "title": "Guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-07-09T22:01:17Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "More SERGE NLC Builds - 4-Track Repairs",
       "game": "Science & Technology",
@@ -41,13 +35,7 @@
       "username": "MelissaInDeNile",
       "title": "PLAYING ASSASSINS CREED: BLACK FLAG RESYNCED!!! Thanks Ubisoft!! ~ Follower Goal: 2377/2600 ~ !socials !beyonddenile",
       "game": "Assassin's Creed Black Flag Resynced",
-      "started_at": "2026-07-09T22:49:23Z"
-    },
-    {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and data analysis on disparities in cancer",
-      "game": "Math",
-      "started_at": "2026-07-09T20:37:08Z"
+      "started_at": "2026-07-09T23:56:19Z"
     },
     {
       "username": "SharkG33k",
@@ -60,6 +48,12 @@
       "title": "Babby Operations Strimmer, Have Guns, Will Travel; Elite: Dangerous, Night 0067 - 20260709",
       "game": "Elite: Dangerous",
       "started_at": "2026-07-09T21:18:44Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-07-10T00:00:43Z"
     }
   ]
 }
