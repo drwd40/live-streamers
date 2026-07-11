@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-11T15:37:53.681Z",
+  "timestamp": "2026-07-11T16:00:59.304Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "In this episode, Slim discovers that his long life archenemy was himself al along, and also his father!",
       "game": "Math",
       "started_at": "2026-07-11T14:26:53Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Bring Your Questions: A Math/Ed Q&A",
+      "game": "Math",
+      "started_at": "2026-07-11T15:59:58Z"
     }
   ]
 }
