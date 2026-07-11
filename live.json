@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-11T00:49:50.062Z",
+  "timestamp": "2026-07-11T01:23:05.232Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,12 +14,6 @@
       "started_at": "2026-07-10T20:23:00Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "4️⃣ FOUR NEW DINOSAUR SPECIES 4️⃣ Let's cover those leftover taxa 🦖 plus Denver Fowler interview on the real story behind dinosaur auctions",
-      "game": "Science & Technology",
-      "started_at": "2026-07-10T20:01:14Z"
-    },
-    {
       "username": "ipaintbirbs",
       "title": "friday night stream so wild!!!! watching hummingbirds and calmly painting get in here wow",
       "game": "Art",
@@ -32,10 +26,22 @@
       "started_at": "2026-07-10T21:55:15Z"
     },
     {
+      "username": "SciAnts_Streams",
+      "title": "SciAnts News | New species, snails, neuroscience, regeneration, and more! | Partner+ 85/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2026-07-11T01:04:40Z"
+    },
+    {
       "username": "AstroCanuck",
       "title": "Week's End Catch-up: Space News and Nerdy Talk | !giveaway !PGV | !drop !tkf",
       "game": "Science & Technology",
       "started_at": "2026-07-11T00:00:44Z"
+    },
+    {
+      "username": "Moohoodles",
+      "title": "🪐 Astrobiology & Space News! ✨ !DOOM Revelations DLC!! 🤘",
+      "game": "Science & Technology",
+      "started_at": "2026-07-11T01:22:29Z"
     }
   ]
 }
