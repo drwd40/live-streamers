@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-11T13:59:56.433Z",
+  "timestamp": "2026-07-11T14:31:22.506Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,12 @@
       "title": "No Sponsors. Ad Free. Just Chatters. Broad Education Daily.",
       "game": "Just Chatting",
       "started_at": "2026-07-11T10:01:24Z"
+    },
+    {
+      "username": "AcademyOfUselessIdeas",
+      "title": "In this episode, Slim discovers that his long life archenemy was himself al along, and also his father!",
+      "game": "Math",
+      "started_at": "2026-07-11T14:26:53Z"
     }
   ]
 }
