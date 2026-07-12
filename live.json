@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-07-12T02:54:08.228Z",
+  "timestamp": "2026-07-12T04:08:23.947Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-07-11T13:01:41Z"
-    },
-    {
-      "username": "AstroCanuck",
-      "title": "STEM Night - Nerd out with Space and Dinosaurs: LEGO Natural History Museum | !giveaway !PGV | !drop !tkf",
-      "game": "Lego & Brickbuilding",
-      "started_at": "2026-07-11T22:00:39Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -42,6 +36,12 @@
       "title": "Bo Bartlett's homecoming part II, happiness vs. well being, and fig wasps.",
       "game": "Science & Technology",
       "started_at": "2026-07-12T02:01:06Z"
+    },
+    {
+      "username": "happyknightmares",
+      "title": "Nail art time!",
+      "game": "Beauty & Body Art",
+      "started_at": "2026-07-12T03:54:17Z"
     }
   ]
 }
