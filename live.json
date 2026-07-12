@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-12T01:52:17.463Z",
+  "timestamp": "2026-07-12T02:54:08.228Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -15,7 +15,7 @@
     },
     {
       "username": "SciAnts_Streams",
-      "title": "🏴‍☠️SciAnts of the Caribbean🏴‍☠️ | 1 Gift Sub = 🏴‍☠️ Badge! | Caribbean ecology, piracy and more! | Partner+ 102/300 | !ppp !yt !pod",
+      "title": "🏴‍☠️SciAnts of the Caribbean🏴‍☠️ DROPS | 1 Gift Sub = 🏴‍☠️ Badge! | Caribbean ecology, piracy and more!| Partner+ 102/300 | !ppp !yt !pod",
       "game": "Assassin's Creed Black Flag Resynced",
       "started_at": "2026-07-12T01:07:25Z"
     },
@@ -33,9 +33,15 @@
     },
     {
       "username": "Mr_Aejis",
-      "title": "My Jarona??? Teacher plays Deltarune!",
-      "game": "Deltarune",
+      "title": "Teacher Plays: Persona 5!",
+      "game": "Persona 5 Royal",
       "started_at": "2026-07-12T00:51:56Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Bo Bartlett's homecoming part II, happiness vs. well being, and fig wasps.",
+      "game": "Science & Technology",
+      "started_at": "2026-07-12T02:01:06Z"
     }
   ]
 }
