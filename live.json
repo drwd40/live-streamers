@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-12T16:40:12.991Z",
+  "timestamp": "2026-07-12T17:05:09.058Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "OpenMic! LIVE at The Neptune, Chesterfield!",
       "game": "Music",
       "started_at": "2026-07-12T16:04:00Z"
+    },
+    {
+      "username": "nogre0",
+      "title": "what is an argument?",
+      "game": "Just Chatting",
+      "started_at": "2026-07-12T17:01:33Z"
     }
   ]
 }
