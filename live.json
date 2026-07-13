@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-13T21:35:40.903Z",
+  "timestamp": "2026-07-13T21:58:50.290Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,10 +14,16 @@
       "started_at": "2026-07-13T21:15:33Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Dungeon Racer (!today) (day 63½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-07-13T19:19:41Z"
+      "username": "imreallyimportant",
+      "title": "FBI INVESTIGATING LINDSEY GRAHAM'S DEATH | LIB & LEARN @ 7 PM EST",
+      "game": "Just Chatting",
+      "started_at": "2026-07-13T21:51:40Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Air Cargo Load & Route Planning paper; Math Communication Monday - 20260713",
+      "game": "Math",
+      "started_at": "2026-07-13T21:57:58Z"
     }
   ]
 }
