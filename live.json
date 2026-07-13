@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-13T00:58:10.511Z",
+  "timestamp": "2026-07-13T01:39:58.179Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,8 +14,14 @@
       "started_at": "2026-07-12T21:50:01Z"
     },
     {
+      "username": "SciAnts_Streams",
+      "title": "🏴‍☠️SciAnts of the Caribbean🏴‍☠️ DROPS | 1 Gift Sub = 🏴‍☠️ Badge! | Caribbean ecology, piracy and more!| Partner+ 102/300 | !ppp !yt !pod",
+      "game": "Assassin's Creed Black Flag Resynced",
+      "started_at": "2026-07-13T01:02:24Z"
+    },
+    {
       "username": "Nerduino",
-      "title": "Announcement Tonight!  Sunday Night Science Chat then Outwer Wilds. Astronomer and Former NASA Guy. #NASA #science #space #stem #scientis",
+      "title": "Partner Pushing!  Sunday Night Science Chat then Outer Wilds. Astronomer and Former NASA Guy. #NASA #science #space #stem #scientis",
       "game": "Science & Technology",
       "started_at": "2026-07-13T00:50:45Z"
     },
@@ -24,6 +30,12 @@
       "title": "Esseker adventures with @senimj and eventually @kazukipt",
       "game": "DayZ",
       "started_at": "2026-07-12T19:44:35Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Fig wasps, Teaching Epic Economist to do research right, and Reviving the draft in the USA.",
+      "game": "Science & Technology",
+      "started_at": "2026-07-13T01:30:35Z"
     }
   ]
 }
