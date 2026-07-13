@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-13T17:43:58.133Z",
+  "timestamp": "2026-07-13T18:20:15.665Z",
   "live": [
     {
       "username": "Maya",
@@ -9,8 +9,8 @@
     },
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
-      "game": "Animals, Aquariums, and Zoos",
+      "title": "Animal Care Chats | !alveus !institute !pixel !schedule !video",
+      "game": "Just Chatting",
       "started_at": "2026-07-13T13:01:43Z"
     },
     {
@@ -30,6 +30,12 @@
       "title": "The State is for Alienation.",
       "game": "Just Chatting",
       "started_at": "2026-07-13T10:03:14Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Building Quiz Show Software: Sixteen [HTML/JS/CSS]",
+      "game": "Software and Game Development",
+      "started_at": "2026-07-13T17:56:13Z"
     }
   ]
 }
