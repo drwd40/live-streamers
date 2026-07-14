@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-14T13:04:20.001Z",
+  "timestamp": "2026-07-14T13:42:38.908Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-07-13T13:01:43Z"
     },
     {
-      "username": "Zachap",
-      "title": "Schrödinger's ceasefire, Trump's war.",
-      "game": "Just Chatting",
-      "started_at": "2026-07-14T10:02:29Z"
-    },
-    {
       "username": "csharpfritz",
       "title": "Old School C# Coding",
       "game": "Software and Game Development",
       "started_at": "2026-07-14T13:00:27Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "Schrödinger's ceasefire, Trump's war.",
+      "game": "Just Chatting",
+      "started_at": "2026-07-14T10:02:29Z"
     }
   ]
 }
