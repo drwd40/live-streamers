@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-07-14T19:24:09.280Z",
+  "timestamp": "2026-07-14T19:52:55.928Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Care Chats | !alveus !institute !pixel !schedule !video",
-      "game": "Just Chatting",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
+      "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-07-13T13:01:43Z"
     },
     {
@@ -14,10 +14,10 @@
       "started_at": "2026-07-14T16:01:56Z"
     },
     {
-      "username": "oh_bother",
-      "title": "Jules is here to do synthesizer stuff! Soldering Eurorack and junk.",
-      "game": "Science & Technology",
-      "started_at": "2026-07-14T16:23:17Z"
+      "username": "DrawCuriosity",
+      "title": "🌎 BONUS STREAM BECAUSE I GOT PARTNER - very quick 1hr stream✨🐏!tier2 (for BTS)",
+      "game": "IRL",
+      "started_at": "2026-07-14T19:47:14Z"
     },
     {
       "username": "Zachap",
@@ -32,16 +32,22 @@
       "started_at": "2026-07-14T18:17:52Z"
     },
     {
+      "username": "SydHeresy",
+      "title": "Electronics - Soldering - SERGE - NLC - Euroroack",
+      "game": "Just Chatting",
+      "started_at": "2026-07-14T19:00:06Z"
+    },
+    {
       "username": "vul100",
       "title": "Tuesday July 14th @2:30pm EDT: Seashore aromas in teas & how plastics mislead pelagic birds",
       "game": "Science & Technology",
       "started_at": "2026-07-14T18:29:34Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Electronics - Soldering - SERGE - NLC - Euroroack",
+      "username": "xTalkProgrammer",
+      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
       "game": "Just Chatting",
-      "started_at": "2026-07-14T19:00:06Z"
+      "started_at": "2026-07-14T19:25:48Z"
     }
   ]
 }
