@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-13T23:50:08.637Z",
+  "timestamp": "2026-07-14T00:10:19.830Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-07-13T13:01:43Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "EJ's Space and Rocket Revue! 7/13/26",
-      "game": "Science & Technology",
-      "started_at": "2026-07-13T21:15:33Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "FBI INVESTIGATING LINDSEY GRAHAM'S DEATH | LIB & LEARN @ 7 PM EST",
       "game": "Just Chatting",
       "started_at": "2026-07-13T21:51:40Z"
+    },
+    {
+      "username": "csharpfritz",
+      "title": "Writing a Geography Game with Gunnar",
+      "game": "Software and Game Development",
+      "started_at": "2026-07-13T23:50:21Z"
     },
     {
       "username": "nSimplexPachinko",
