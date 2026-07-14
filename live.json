@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-07-14T18:52:38.847Z",
+  "timestamp": "2026-07-14T19:24:09.280Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Care Chats | !alveus !institute !pixel !schedule !video",
       "game": "Just Chatting",
       "started_at": "2026-07-13T13:01:43Z"
-    },
-    {
-      "username": "EJ_SA",
-      "title": "EJ's Space and Rocket Revue! 7/14/26",
-      "game": "Science & Technology",
-      "started_at": "2026-07-14T14:32:15Z"
     },
     {
       "username": "ipaintbirbs",
@@ -42,6 +36,12 @@
       "title": "Tuesday July 14th @2:30pm EDT: Seashore aromas in teas & how plastics mislead pelagic birds",
       "game": "Science & Technology",
       "started_at": "2026-07-14T18:29:34Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Electronics - Soldering - SERGE - NLC - Euroroack",
+      "game": "Just Chatting",
+      "started_at": "2026-07-14T19:00:06Z"
     }
   ]
 }
