@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-07-15T19:08:54.305Z",
+  "timestamp": "2026-07-15T19:39:00.091Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Education Time w/ Kayla | !alveus !institute !pixel !schedule !video",
-      "game": "Just Chatting",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
+      "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-07-15T13:01:46Z"
     },
     {
@@ -12,6 +12,18 @@
       "title": "Are you making it out like bandits or just tryna get by with a parasite that is your boss?",
       "game": "Just Chatting",
       "started_at": "2026-07-15T10:03:36Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "Physics 1B",
+      "game": "Just Chatting",
+      "started_at": "2026-07-15T19:28:45Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Zelda-ing my game (day 65½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-07-15T19:38:21Z"
     }
   ]
 }
