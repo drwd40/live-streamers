@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T00:45:26.059Z",
+  "timestamp": "2026-07-15T01:16:12.727Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -9,8 +9,8 @@
     },
     {
       "username": "EJ_SA",
-      "title": "BF6 WITH FRIENDS BEFORE BOOSTER ROLLOUT! 7/14/26",
-      "game": "Battlefield 6",
+      "title": "NSF - BOOSTER 20 ROLLOUT COVERAGE!",
+      "game": "Science & Technology",
       "started_at": "2026-07-14T21:12:18Z"
     },
     {
@@ -26,6 +26,18 @@
       "started_at": "2026-07-15T00:02:51Z"
     },
     {
+      "username": "Nerduino",
+      "title": "Partner Pushing!  Space, science and astronomy chat.  #NASA #science #space #stem #scientist",
+      "game": "Science & Technology",
+      "started_at": "2026-07-15T00:50:10Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "Tinker Tuesday | Marsupial science with a focus on echidnas + echidna model build! | Partner+ 124/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2026-07-15T01:00:17Z"
+    },
+    {
       "username": "SydHeresy",
       "title": "Electronics - Soldering - SERGE - NLC - Euroroack",
       "game": "Science & Technology",
@@ -36,12 +48,6 @@
       "title": "Happy Shark Awareness Day! | !TFT",
       "game": "Science & Technology",
       "started_at": "2026-07-15T00:17:42Z"
-    },
-    {
-      "username": "eToThe2iPi",
-      "title": "Talking about Vectors, Calculus + Physics: Surface Integrals + MOAR",
-      "game": "Math",
-      "started_at": "2026-07-14T22:06:36Z"
     }
   ]
 }
