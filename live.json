@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T20:05:02.630Z",
+  "timestamp": "2026-07-15T20:30:01.085Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,10 +20,22 @@
       "started_at": "2026-07-15T10:03:36Z"
     },
     {
+      "username": "IrishJohnGames",
+      "title": "🍀 Rise of Piracy dev! | !charity !rop !patreon !discord",
+      "game": "Software and Game Development",
+      "started_at": "2026-07-15T20:05:26Z"
+    },
+    {
       "username": "ActualEducation",
       "title": "Physics 1B",
       "game": "Just Chatting",
       "started_at": "2026-07-15T19:28:45Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and more Moscow Puzzles",
+      "game": "Math",
+      "started_at": "2026-07-15T20:19:35Z"
     }
   ]
 }
