@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T23:33:52.624Z",
+  "timestamp": "2026-07-15T23:56:49.502Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,18 +24,6 @@
       "title": "Are you making it out like bandits or just tryna get by with a parasite that is your boss?",
       "game": "Just Chatting",
       "started_at": "2026-07-15T10:03:36Z"
-    },
-    {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and more Moscow Puzzles",
-      "game": "Math",
-      "started_at": "2026-07-15T20:19:35Z"
-    },
-    {
-      "username": "nSimplexPachinko",
-      "title": "Intro to Partial Differential Equations, Night 001 - 20260715",
-      "game": "Math",
-      "started_at": "2026-07-15T22:01:43Z"
     }
   ]
 }
