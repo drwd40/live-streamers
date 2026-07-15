@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T01:16:12.727Z",
+  "timestamp": "2026-07-15T02:01:11.064Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,6 +20,12 @@
       "started_at": "2026-07-14T21:54:37Z"
     },
     {
+      "username": "SciAnts_Streams",
+      "title": "Tinker Tuesday | Marsupial science with a focus on echidnas + echidna model build! | Partner+ 124/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2026-07-15T01:00:17Z"
+    },
+    {
       "username": "AstroCanuck",
       "title": "Astro's Po'Pourri: Nerd out with Space and Dinosaurs - LEGO Natural History Museum !build | !giveaway !PGV | !drop !tkf",
       "game": "Lego & Brickbuilding",
@@ -32,10 +38,10 @@
       "started_at": "2026-07-15T00:50:10Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "Tinker Tuesday | Marsupial science with a focus on echidnas + echidna model build! | Partner+ 124/300 | !ppp !yt !pod",
+      "username": "SharkG33k",
+      "title": "Happy Shark Awareness Day! | !TFT",
       "game": "Science & Technology",
-      "started_at": "2026-07-15T01:00:17Z"
+      "started_at": "2026-07-15T00:17:42Z"
     },
     {
       "username": "SydHeresy",
@@ -44,10 +50,10 @@
       "started_at": "2026-07-14T19:00:06Z"
     },
     {
-      "username": "SharkG33k",
-      "title": "Happy Shark Awareness Day! | !TFT",
+      "username": "walkingsticklibrary",
+      "title": "Carrots aren't a delicacy, but what are they? How to use Instagram and Tiktok in social science research. Who was Alger Hiss.",
       "game": "Science & Technology",
-      "started_at": "2026-07-15T00:17:42Z"
+      "started_at": "2026-07-15T01:32:02Z"
     }
   ]
 }
