@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T22:01:46.052Z",
+  "timestamp": "2026-07-15T22:26:20.523Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,6 +14,12 @@
       "started_at": "2026-07-15T21:27:05Z"
     },
     {
+      "username": "imreallyimportant",
+      "title": "TRUMP'S ATTORNEY GENERAL NOMINEE GRILLED BY REPUBLICANS IN CONFIRMATION HEARING",
+      "game": "Just Chatting",
+      "started_at": "2026-07-15T21:49:45Z"
+    },
+    {
       "username": "AdamLearnsLive",
       "title": "Zelda-ing my game (day 65½)",
       "game": "Software and Game Development",
@@ -26,22 +32,16 @@
       "started_at": "2026-07-15T10:03:36Z"
     },
     {
-      "username": "imreallyimportant",
-      "title": "TRUMP'S ATTORNEY GENERAL NOMINEE GRILLED BY REPUBLICANS IN CONFIRMATION HEARING",
-      "game": "Just Chatting",
-      "started_at": "2026-07-15T21:49:45Z"
-    },
-    {
-      "username": "IrishJohnGames",
-      "title": "🍀 Rise of Piracy dev! | !charity !rop !patreon !discord",
-      "game": "Software and Game Development",
-      "started_at": "2026-07-15T20:05:26Z"
-    },
-    {
       "username": "DonFactorial",
       "title": "Answering your math questions and more Moscow Puzzles",
       "game": "Math",
       "started_at": "2026-07-15T20:19:35Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Intro to Partial Differential Equations, Night 001 - 20260715",
+      "game": "Math",
+      "started_at": "2026-07-15T22:01:43Z"
     }
   ]
 }
