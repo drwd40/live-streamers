@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T15:13:29.986Z",
+  "timestamp": "2026-07-15T15:48:59.201Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,28 +8,16 @@
       "started_at": "2026-07-15T13:01:46Z"
     },
     {
-      "username": "TinyToxicTofu",
-      "title": "Soldering using my new soldering kit, elevator problem and Mass Effecting Later !science !physics !phd",
-      "game": "Science & Technology",
-      "started_at": "2026-07-15T12:17:29Z"
-    },
-    {
-      "username": "Nerduino",
-      "title": "Coffee with Nerduino!  Space, science and astronomy chat.  #NASA #science #space #stem #scientist",
-      "game": "Science & Technology",
-      "started_at": "2026-07-15T12:51:42Z"
+      "username": "AdamLearnsLive",
+      "title": "...which makes today Fun Tasks Day (day 65)",
+      "game": "Software and Game Development",
+      "started_at": "2026-07-15T15:12:18Z"
     },
     {
       "username": "Zachap",
       "title": "Are you making it out like bandits or just tryna get by with a parasite that is your boss?",
       "game": "Just Chatting",
       "started_at": "2026-07-15T10:03:36Z"
-    },
-    {
-      "username": "AdamLearnsLive",
-      "title": "...which makes today Fun Tasks Day (day 65)",
-      "game": "Software and Game Development",
-      "started_at": "2026-07-15T15:12:18Z"
     }
   ]
 }
