@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-16T20:34:50.904Z",
+  "timestamp": "2026-07-16T20:58:06.045Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-07-16T16:00:55Z"
     },
     {
-      "username": "DrMick",
-      "title": "Mental Health Chat + Painting 40k",
-      "game": "Miniatures & Models",
-      "started_at": "2026-07-16T19:06:46Z"
-    },
-    {
       "username": "Zachap",
       "title": "people complain about brainrot, then enable it as if it wasn't optional. why does everyone feel they have to be a sacrificial lamb?",
       "game": "Politics",
       "started_at": "2026-07-16T09:59:27Z"
+    },
+    {
+      "username": "DrMick",
+      "title": "Mental Health Chat + Painting 40k",
+      "game": "Miniatures & Models",
+      "started_at": "2026-07-16T19:06:46Z"
     },
     {
       "username": "SydHeresy",
@@ -48,12 +48,6 @@
       "title": "1/4 Real Scale Kareer - Episode 3 Starship Launch Coverage Later",
       "game": "Kerbal Space Program",
       "started_at": "2026-07-16T18:45:56Z"
-    },
-    {
-      "username": "ActualEducation",
-      "title": "Physics 1B",
-      "game": "Just Chatting",
-      "started_at": "2026-07-16T19:29:35Z"
     }
   ]
 }
