@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-16T19:30:59.586Z",
+  "timestamp": "2026-07-16T19:54:20.490Z",
   "live": [
     {
       "username": "Kitboga",
@@ -56,16 +56,16 @@
       "started_at": "2026-07-16T18:00:18Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Matter + Potential: Electricity & Magnetism Study Group",
-      "game": "Science & Technology",
-      "started_at": "2026-07-16T18:00:01Z"
-    },
-    {
       "username": "Rocketology",
       "title": "1/4 Real Scale Kareer - Episode 3 Starship Launch Coverage Later",
       "game": "Kerbal Space Program",
       "started_at": "2026-07-16T18:45:56Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Matter + Potential: Electricity & Magnetism Study Group",
+      "game": "Science & Technology",
+      "started_at": "2026-07-16T18:00:01Z"
     },
     {
       "username": "ActualEducation",
