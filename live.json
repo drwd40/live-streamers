@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-16T21:24:57.915Z",
+  "timestamp": "2026-07-16T21:48:00.361Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -15,15 +15,9 @@
     },
     {
       "username": "SciAnts_Streams",
-      "title": "Resident Evil 5:  Science behind the Uroboros Virus | Collab with @kimmydnc | 🏴‍☠️🏴‍☠️ later | Partner+ 148/300 | !ppp !yt !pod",
-      "game": "Resident Evil 5",
+      "title": "🏴‍☠️SciAnts of the Caribbean🏴‍☠️ | 1 Gift Sub = 🏴‍☠️ Badge | RE5 collab w/ @kimmydnc  | Partner+ 148/300 | !ppp !yt !pod",
+      "game": "Assassin's Creed Black Flag Resynced",
       "started_at": "2026-07-16T16:00:55Z"
-    },
-    {
-      "username": "Zachap",
-      "title": "people complain about brainrot, then enable it as if it wasn't optional. why does everyone feel they have to be a sacrificial lamb?",
-      "game": "Politics",
-      "started_at": "2026-07-16T09:59:27Z"
     },
     {
       "username": "DrMick",
@@ -38,10 +32,22 @@
       "started_at": "2026-07-16T18:00:18Z"
     },
     {
+      "username": "AstroCanuck",
+      "title": "SpaceX Starship Test Flight 13 - later, Space Dinosaurs - LEGO Natural History Museum !build | !giveaway !PGV | !drop !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-07-16T21:39:48Z"
+    },
+    {
       "username": "Rocketology",
       "title": "1/4 Real Scale Kareer - Episode 3 Starship Launch Coverage Later",
       "game": "Kerbal Space Program",
       "started_at": "2026-07-16T18:45:56Z"
+    },
+    {
+      "username": "SETIInstitute",
+      "title": "A New Way to Search for Alien Civilizations | #SETILive",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2026-07-16T21:30:54Z"
     }
   ]
 }
