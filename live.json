@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-16T17:39:54.638Z",
+  "timestamp": "2026-07-16T18:05:39.033Z",
   "live": [
     {
       "username": "Kitboga",
@@ -9,8 +9,8 @@
     },
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
-      "game": "Animals, Aquariums, and Zoos",
+      "title": "Projects w/ FAID | !alveus !institute !pixel !schedule !video",
+      "game": "Just Chatting",
       "started_at": "2026-07-15T13:01:46Z"
     },
     {
@@ -38,10 +38,16 @@
       "started_at": "2026-07-16T09:59:27Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Making music for !SiaBT (day 66)",
-      "game": "Software and Game Development",
-      "started_at": "2026-07-16T15:05:25Z"
+      "username": "eToThe2iPi",
+      "title": "Matter + Potential: Electricity & Magnetism Study Group",
+      "game": "Science & Technology",
+      "started_at": "2026-07-16T18:00:01Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Did Someone Say Soldering",
+      "game": "Science & Technology",
+      "started_at": "2026-07-16T18:00:18Z"
     }
   ]
 }
