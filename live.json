@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-16T18:58:59.593Z",
+  "timestamp": "2026-07-16T19:30:59.586Z",
   "live": [
     {
       "username": "Kitboga",
@@ -9,13 +9,13 @@
     },
     {
       "username": "AlveusSanctuary",
-      "title": "Projects w/ FAID | !alveus !institute !pixel !schedule !video",
-      "game": "Just Chatting",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
+      "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-07-15T13:01:46Z"
     },
     {
       "username": "EJ_SA",
-      "title": "NSF - SpaceX Starship Flight 13 - Stakeout Stream! 7/16/26",
+      "title": "EJ'S SPACEX STARSHIP FLIGHT 13 LAUNCH COVERAGE! 7/16/26",
       "game": "Science & Technology",
       "started_at": "2026-07-16T13:50:33Z"
     },
@@ -38,16 +38,22 @@
       "started_at": "2026-07-16T09:59:27Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Did Someone Say Soldering",
-      "game": "Science & Technology",
-      "started_at": "2026-07-16T18:00:18Z"
+      "username": "DrMick",
+      "title": "Mental Health Chat + Painting 40k",
+      "game": "Miniatures & Models",
+      "started_at": "2026-07-16T19:06:46Z"
     },
     {
       "username": "IrishJohnGames",
       "title": "🍀 Rise of Piracy dev! | !charity !rop !patreon !discord",
       "game": "",
       "started_at": "2026-07-16T18:09:12Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Did Someone Say Soldering",
+      "game": "Science & Technology",
+      "started_at": "2026-07-16T18:00:18Z"
     },
     {
       "username": "eToThe2iPi",
@@ -60,6 +66,12 @@
       "title": "1/4 Real Scale Kareer - Episode 3 Starship Launch Coverage Later",
       "game": "Kerbal Space Program",
       "started_at": "2026-07-16T18:45:56Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "Physics 1B",
+      "game": "Just Chatting",
+      "started_at": "2026-07-16T19:29:35Z"
     }
   ]
 }
