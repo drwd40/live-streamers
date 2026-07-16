@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-16T01:04:02.292Z",
+  "timestamp": "2026-07-16T01:43:56.186Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,10 +14,16 @@
       "started_at": "2026-07-15T21:49:45Z"
     },
     {
-      "username": "SharkG33k",
-      "title": "360 Scuba Dive - Chat's Choice! | !TFT",
+      "username": "Moohoodles",
+      "title": "🪐 Astrobiology & Space News ✨ Then Doom?! 🤘",
       "game": "Science & Technology",
-      "started_at": "2026-07-16T00:12:44Z"
+      "started_at": "2026-07-16T01:06:14Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "Wacom Wednesday | Science art, marsupial development, and rabbit holes galore! | Partner+ 124/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2026-07-16T01:03:03Z"
     },
     {
       "username": "nogre0",
@@ -26,16 +32,22 @@
       "started_at": "2026-07-16T00:00:10Z"
     },
     {
+      "username": "SharkG33k",
+      "title": "360 Scuba Dive - Chat's Choice! | !TFT",
+      "game": "Science & Technology",
+      "started_at": "2026-07-16T00:12:44Z"
+    },
+    {
       "username": "ActualEducation",
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Just Chatting",
       "started_at": "2026-07-16T00:05:23Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "Wacom Wednesday | Science art, marsupial development, and rabbit holes galore! | Partner+ 124/300 | !ppp !yt !pod",
+      "username": "walkingsticklibrary",
+      "title": "Alger Hiss, Whittaker Chambers and ancient scandal. Targeted therapy for low-grade glioma, and translating an Inspired rant.",
       "game": "Science & Technology",
-      "started_at": "2026-07-16T01:03:03Z"
+      "started_at": "2026-07-16T01:33:19Z"
     }
   ]
 }
