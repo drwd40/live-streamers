@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-16T00:32:01.321Z",
+  "timestamp": "2026-07-16T01:04:02.292Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,12 +14,6 @@
       "started_at": "2026-07-15T21:49:45Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
-      "game": "Just Chatting",
-      "started_at": "2026-07-16T00:05:23Z"
-    },
-    {
       "username": "SharkG33k",
       "title": "360 Scuba Dive - Chat's Choice! | !TFT",
       "game": "Science & Technology",
@@ -30,6 +24,18 @@
       "title": "aesthetics of choice",
       "game": "Just Chatting",
       "started_at": "2026-07-16T00:00:10Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-07-16T00:05:23Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "Wacom Wednesday | Science art, marsupial development, and rabbit holes galore! | Partner+ 124/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2026-07-16T01:03:03Z"
     }
   ]
 }
