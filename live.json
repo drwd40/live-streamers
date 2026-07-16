@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-07-16T23:19:03.685Z",
+  "timestamp": "2026-07-16T23:40:35.031Z",
   "live": [
-    {
-      "username": "EJ_SA",
-      "title": "EJ'S SPACEX STARSHIP FLIGHT 13 LAUNCH COVERAGE! 7/16/26",
-      "game": "Science & Technology",
-      "started_at": "2026-07-16T13:50:33Z"
-    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-07-15T13:01:46Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "EJ'S SPACEX STARSHIP FLIGHT 13 LAUNCH COVERAGE! 7/16/26",
+      "game": "Science & Technology",
+      "started_at": "2026-07-16T13:50:33Z"
     },
     {
       "username": "imreallyimportant",
@@ -32,22 +32,16 @@
       "started_at": "2026-07-16T21:39:48Z"
     },
     {
-      "username": "Nerduino",
-      "title": "Space, science and astronomy chat.  Partner Pushing.  #NASA #science #space #stem #scientist",
-      "game": "Science & Technology",
-      "started_at": "2026-07-16T22:34:58Z"
-    },
-    {
-      "username": "DrMick",
-      "title": "Mental Health Chat + Painting 40k",
-      "game": "Miniatures & Models",
-      "started_at": "2026-07-16T19:06:46Z"
-    },
-    {
       "username": "shnaff",
       "title": "Guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2026-07-16T22:00:50Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Space, science and astronomy chat.  Partner Pushing.  #NASA #science #space #stem #scientist",
+      "game": "Science & Technology",
+      "started_at": "2026-07-16T22:34:58Z"
     },
     {
       "username": "SydHeresy",
