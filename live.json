@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-07-16T17:07:48.155Z",
+  "timestamp": "2026-07-16T17:39:54.638Z",
   "live": [
-    {
-      "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
-      "game": "Animals, Aquariums, and Zoos",
-      "started_at": "2026-07-15T13:01:46Z"
-    },
     {
       "username": "Kitboga",
       "title": "Hunting Scammers [Ep. 1541]",
       "game": "Just Chatting",
       "started_at": "2026-07-16T16:50:50Z"
+    },
+    {
+      "username": "AlveusSanctuary",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
+      "game": "Animals, Aquariums, and Zoos",
+      "started_at": "2026-07-15T13:01:46Z"
     },
     {
       "username": "EJ_SA",
@@ -26,6 +26,12 @@
       "started_at": "2026-07-16T16:00:55Z"
     },
     {
+      "username": "oh_bother",
+      "title": "Meet Momo the cowboy robot... lawn mower. Momo let the magic smoke go, so we gotta see what broke.",
+      "game": "Science & Technology",
+      "started_at": "2026-07-16T16:30:28Z"
+    },
+    {
       "username": "Zachap",
       "title": "people complain about brainrot, then enable it as if it wasn't optional. why does everyone feel they have to be a sacrificial lamb?",
       "game": "Politics",
@@ -36,12 +42,6 @@
       "title": "Making music for !SiaBT (day 66)",
       "game": "Software and Game Development",
       "started_at": "2026-07-16T15:05:25Z"
-    },
-    {
-      "username": "oh_bother",
-      "title": "Meet Momo the cowboy robot... lawn mower. Momo let the magic smoke go, so we gotta see what broke.",
-      "game": "Science & Technology",
-      "started_at": "2026-07-16T16:30:28Z"
     }
   ]
 }
