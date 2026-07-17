@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-07-17T17:43:39.382Z",
+  "timestamp": "2026-07-17T18:10:18.600Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
-      "game": "Animals, Aquariums, and Zoos",
+      "title": "Show and Tell | !alveus !institute !pixel !schedule !video",
+      "game": "Just Chatting",
       "started_at": "2026-07-17T13:01:48Z"
     },
     {
@@ -36,6 +36,12 @@
       "title": "The art of robot cowboy lawn mower repair. Momo gets its brain picked at!",
       "game": "Science & Technology",
       "started_at": "2026-07-17T16:38:39Z"
+    },
+    {
+      "username": "CosmoQuestX",
+      "title": "After Hours: Moon Day",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2026-07-17T18:00:07Z"
     }
   ]
 }
