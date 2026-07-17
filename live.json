@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-17T19:53:28.926Z",
+  "timestamp": "2026-07-17T20:15:29.186Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,22 +14,28 @@
       "started_at": "2026-07-17T18:20:40Z"
     },
     {
+      "username": "Paleontologizing",
+      "title": "🦖🦴 UTAH DINOSAUR DIG  Day 2 ⛏️ Let's see if we get our first bones today as we start digging in📍 Near Moab, Utah, USA",
+      "game": "IRL",
+      "started_at": "2026-07-17T19:56:47Z"
+    },
+    {
       "username": "Zachap",
       "title": "people are dying yet others just want to be distracted...",
       "game": "Politics",
       "started_at": "2026-07-17T10:03:06Z"
     },
     {
-      "username": "IrishJohnGames",
-      "title": "🍀 Rise of Piracy dev! | !charity !rop !patreon !discord",
-      "game": "",
-      "started_at": "2026-07-17T18:59:25Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "Almost dun(geon) (day 67½)",
       "game": "Software and Game Development",
       "started_at": "2026-07-17T19:39:28Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀 Rise of Piracy dev! | !charity !rop !patreon !discord",
+      "game": "",
+      "started_at": "2026-07-17T18:59:25Z"
     },
     {
       "username": "Rocketology",
@@ -44,10 +50,10 @@
       "started_at": "2026-07-17T19:31:18Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "Physics 1B",
-      "game": "Just Chatting",
-      "started_at": "2026-07-17T19:30:13Z"
+      "username": "DonFactorial",
+      "title": "Getting blood on the Namalsk snow (but it's mine)",
+      "game": "DayZ",
+      "started_at": "2026-07-17T20:07:36Z"
     }
   ]
 }
