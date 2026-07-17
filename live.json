@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-17T18:59:26.164Z",
+  "timestamp": "2026-07-17T19:29:42.855Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,34 +20,22 @@
       "started_at": "2026-07-17T15:57:06Z"
     },
     {
-      "username": "csharpfritz",
-      "title": "Hands-on AI Workshop",
-      "game": "Software and Game Development",
-      "started_at": "2026-07-17T13:07:21Z"
-    },
-    {
       "username": "Zachap",
       "title": "people are dying yet others just want to be distracted...",
       "game": "Politics",
       "started_at": "2026-07-17T10:03:06Z"
     },
     {
-      "username": "oh_bother",
-      "title": "The art of robot cowboy lawn mower repair. Momo gets its brain picked at!",
-      "game": "Science & Technology",
-      "started_at": "2026-07-17T16:38:39Z"
-    },
-    {
-      "username": "CosmoQuestX",
-      "title": "After Hours: Moon Day",
-      "game": "Talk Shows & Podcasts",
-      "started_at": "2026-07-17T18:00:07Z"
-    },
-    {
       "username": "Rocketology",
       "title": "1/4 Real Scale Kareer - Episode 4",
       "game": "Kerbal Space Program",
       "started_at": "2026-07-17T18:53:08Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀 Rise of Piracy dev! | !charity !rop !patreon !discord",
+      "game": "",
+      "started_at": "2026-07-17T18:59:25Z"
     }
   ]
 }
