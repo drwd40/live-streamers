@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-17T01:24:46.279Z",
+  "timestamp": "2026-07-17T02:14:04.630Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,6 +14,12 @@
       "started_at": "2026-07-16T21:55:23Z"
     },
     {
+      "username": "Nerduino",
+      "title": "The history of NASA's JPL. Partner Pushing.  #NASA #science #space #stem #scientist",
+      "game": "Science & Technology",
+      "started_at": "2026-07-16T22:34:58Z"
+    },
+    {
       "username": "SciAnts_Streams",
       "title": "🏴‍☠️SciAnts of the Caribbean🏴‍☠️ | 1 Gift Sub = 🏴‍☠️ Badge | RE5 collab w/ @kimmydnc  | Partner+ 148/300 | !ppp !yt !pod",
       "game": "Assassin's Creed Black Flag Resynced",
@@ -21,15 +27,9 @@
     },
     {
       "username": "AstroCanuck",
-      "title": "SpaceX SCRUBBED - later, Space Dinosaurs - LEGO Natural History Museum !build | !giveaway !PGV | !drop !tkf",
+      "title": "SpaceX SCRUBBED -NASA Dragonfly News - !build | !giveaway !PGV | !drop !tkf",
       "game": "Science & Technology",
       "started_at": "2026-07-16T21:39:48Z"
-    },
-    {
-      "username": "Nerduino",
-      "title": "NASA's Dragonfly Mission. Partner Pushing.  #NASA #science #space #stem #scientist",
-      "game": "Science & Technology",
-      "started_at": "2026-07-16T22:34:58Z"
     },
     {
       "username": "SydHeresy",
@@ -50,10 +50,10 @@
       "started_at": "2026-07-16T22:51:00Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
-      "game": "Just Chatting",
-      "started_at": "2026-07-17T00:08:06Z"
+      "username": "walkingsticklibrary",
+      "title": "Spud Cell! FinTech in Africa, not a First World problem, and testosterone screening in the military.",
+      "game": "Science & Technology",
+      "started_at": "2026-07-17T01:29:49Z"
     }
   ]
 }
