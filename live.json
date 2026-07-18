@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-18T19:54:06.505Z",
+  "timestamp": "2026-07-18T20:11:39.609Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "Answering your math questions and doing more Moscow Puzzles",
       "game": "Math",
       "started_at": "2026-07-18T18:53:47Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "The Solder Of SERGE Continues - Modular Synth - Electronics",
+      "game": "Just Chatting",
+      "started_at": "2026-07-18T20:00:03Z"
     }
   ]
 }
