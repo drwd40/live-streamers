@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-18T19:28:21.990Z",
+  "timestamp": "2026-07-18T19:54:06.505Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,22 +8,28 @@
       "started_at": "2026-07-17T13:01:48Z"
     },
     {
+      "username": "Paleontologizing",
+      "title": "🦕🦴 UTAH DINOSAUR DIG  Day 3  Starting to find bones and teeth of our new iguanodont dinosaur📍 Near Moab, Utah, USA",
+      "game": "IRL",
+      "started_at": "2026-07-18T19:46:30Z"
+    },
+    {
       "username": "Zachap",
       "title": "news channels only make you \"feel\" informed. \"flood the zone\" as they say.",
       "game": "Politics",
       "started_at": "2026-07-18T09:59:15Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and doing more Moscow Puzzles",
-      "game": "Math",
-      "started_at": "2026-07-18T18:53:47Z"
-    },
-    {
       "username": "Rocketology",
       "title": "1/4 Real Scale Kareer - Episode 5",
       "game": "Kerbal Space Program",
       "started_at": "2026-07-18T18:02:48Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and doing more Moscow Puzzles",
+      "game": "Math",
+      "started_at": "2026-07-18T18:53:47Z"
     }
   ]
 }
