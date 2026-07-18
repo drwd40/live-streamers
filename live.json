@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-18T11:52:22.324Z",
+  "timestamp": "2026-07-18T12:10:18.625Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "news channels only make you \"feel\" informed. \"flood the zone\" as they say.",
       "game": "Politics",
       "started_at": "2026-07-18T09:59:15Z"
+    },
+    {
+      "username": "TinyToxicTofu",
+      "title": "Beginner Friendly Lesson on Electricity, Ohm's Law and Resistor Networks. Then We Mass Effect 2! !throne !phd !ccc",
+      "game": "Science & Technology",
+      "started_at": "2026-07-18T12:02:47Z"
     }
   ]
 }
