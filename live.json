@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-18T17:08:10.331Z",
+  "timestamp": "2026-07-18T17:31:55.814Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,12 +24,6 @@
       "title": "A Math/Ed Q&A: Questions Welcome",
       "game": "Math",
       "started_at": "2026-07-18T16:02:24Z"
-    },
-    {
-      "username": "AcademyOfUselessIdeas",
-      "title": "Today Slim spreads some math using the power of love!",
-      "game": "Math",
-      "started_at": "2026-07-18T14:05:42Z"
     }
   ]
 }
