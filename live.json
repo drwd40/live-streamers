@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-19T16:04:52.480Z",
+  "timestamp": "2026-07-19T16:27:22.420Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -27,8 +27,8 @@
     },
     {
       "username": "LumiRue",
-      "title": "The Downfall of Scientific Papers? | Japanese History! (Tale of Genji and More) | Chess at 12p ET w/ Sanivel",
-      "game": "Just Chatting",
+      "title": "Chess Studying :D w/ Sanivel",
+      "game": "Chess",
       "started_at": "2026-07-19T14:08:03Z"
     },
     {
@@ -36,6 +36,12 @@
       "title": "SASA Virtual Conference Day 1",
       "game": "Just Chatting",
       "started_at": "2026-07-19T13:23:23Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Live at SharkCon! 🦈",
+      "game": "IRL",
+      "started_at": "2026-07-19T16:14:09Z"
     }
   ]
 }
