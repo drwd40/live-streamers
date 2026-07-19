@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-07-19T01:01:29.565Z",
+  "timestamp": "2026-07-19T01:40:44.218Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-07-17T13:01:48Z"
-    },
-    {
-      "username": "ArchitectureTV",
-      "title": "HOUSE RENO home depot supplies 💜 Architecture IRL 💜",
-      "game": "IRL",
-      "started_at": "2026-07-18T20:30:08Z"
     },
     {
       "username": "MelissaInDeNile",
@@ -30,6 +24,12 @@
       "title": "The Solder Of SERGE Continues - Modular Synth - Electronics",
       "game": "Science & Technology",
       "started_at": "2026-07-18T20:00:03Z"
+    },
+    {
+      "username": "Mr_Aejis",
+      "title": "Vtuber Health Class: Oral Health!",
+      "game": "Just Chatting",
+      "started_at": "2026-07-19T01:08:01Z"
     }
   ]
 }
