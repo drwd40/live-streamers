@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-19T00:27:18.549Z",
+  "timestamp": "2026-07-19T01:01:29.565Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-07-17T13:01:48Z"
     },
     {
-      "username": "MelissaInDeNile",
-      "title": "Beyond De Nile Lecture Series ~ Necropoli of Ancient Egypt ~ Follower Goal: 2377/2600 ~ !socials !beyonddenile",
-      "game": "Just Chatting",
-      "started_at": "2026-07-18T22:49:35Z"
-    },
-    {
       "username": "ArchitectureTV",
       "title": "HOUSE RENO home depot supplies 💜 Architecture IRL 💜",
       "game": "IRL",
       "started_at": "2026-07-18T20:30:08Z"
+    },
+    {
+      "username": "MelissaInDeNile",
+      "title": "Beyond De Nile Lecture Series ~ Necropoli of Ancient Egypt ~ Follower Goal: 2377/2600 ~ !socials !beyonddenile",
+      "game": "Just Chatting",
+      "started_at": "2026-07-18T22:49:35Z"
     },
     {
       "username": "Zachap",
@@ -30,12 +30,6 @@
       "title": "The Solder Of SERGE Continues - Modular Synth - Electronics",
       "game": "Science & Technology",
       "started_at": "2026-07-18T20:00:03Z"
-    },
-    {
-      "username": "DrAlexanderClarke",
-      "title": "Piracy after a Little Beaver time... your friendly naval historian bashed his leg in the attic again...",
-      "game": "Pirates of the Burning Sea",
-      "started_at": "2026-07-18T22:18:29Z"
     }
   ]
 }
