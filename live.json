@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-19T14:03:30.175Z",
+  "timestamp": "2026-07-19T14:34:13.164Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,10 +14,22 @@
       "started_at": "2026-07-19T11:38:08Z"
     },
     {
+      "username": "AstroCanuck",
+      "title": "Lazy Sunday LEGO: Community Appreciation !Giveaway Day - Natural History Museum !build | !PGV | !drop !tkf",
+      "game": "Lego & Brickbuilding",
+      "started_at": "2026-07-19T14:02:32Z"
+    },
+    {
       "username": "Zachap",
       "title": "context is good actually.",
       "game": "Politics",
       "started_at": "2026-07-19T10:02:19Z"
+    },
+    {
+      "username": "LumiRue",
+      "title": "The Downfall of Scientific Papers? | Japanese History! (Tale of Genji and More) | Chess at 12p ET w/ Sanivel",
+      "game": "Just Chatting",
+      "started_at": "2026-07-19T14:08:03Z"
     },
     {
       "username": "MelissaInDeNile",
@@ -30,12 +42,6 @@
       "title": "Ok so it's a battleship turret on legs, in Spain in the 1930s... this is going to get explosive",
       "game": "IRON NEST: Heavy Turret Simulator",
       "started_at": "2026-07-19T12:39:33Z"
-    },
-    {
-      "username": "AstroCanuck",
-      "title": "Lazy Sunday LEGO: Community Appreciation !Giveaway Day - Natural History Museum !build | !PGV | !drop !tkf",
-      "game": "Lego & Brickbuilding",
-      "started_at": "2026-07-19T14:02:32Z"
     }
   ]
 }
