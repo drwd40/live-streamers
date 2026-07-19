@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-19T01:40:44.218Z",
+  "timestamp": "2026-07-19T02:37:19.051Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -27,9 +27,15 @@
     },
     {
       "username": "Mr_Aejis",
-      "title": "Vtuber Health Class: Oral Health!",
-      "game": "Just Chatting",
+      "title": "Teacher Plays: 1st-time Persona playthrough!",
+      "game": "Persona 5 Royal",
       "started_at": "2026-07-19T01:08:01Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "\"Girl School.\" The Nigerian playwright who was hanged in the 1980's, and testosterone screening for the military.",
+      "game": "Science & Technology",
+      "started_at": "2026-07-19T01:59:26Z"
     }
   ]
 }
