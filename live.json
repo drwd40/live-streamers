@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-20T19:50:43.729Z",
+  "timestamp": "2026-07-20T20:21:44.004Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "Happy Monday! Need to get the blood pumping before SPACE NEWS @ 5PM EDT!",
       "game": "Battlefield 6",
       "started_at": "2026-07-20T17:30:23Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Creating endless-dungeon rooms (day 68½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-07-20T19:46:13Z"
     },
     {
       "username": "Zachap",
@@ -30,12 +36,6 @@
       "title": "International Moon Day",
       "game": "Science & Technology",
       "started_at": "2026-07-20T18:10:36Z"
-    },
-    {
-      "username": "AdamLearnsLive",
-      "title": "Creating endless-dungeon rooms (day 68½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-07-20T19:46:13Z"
     },
     {
       "username": "eToThe2iPi",
