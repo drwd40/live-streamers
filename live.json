@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-20T22:55:28.766Z",
+  "timestamp": "2026-07-20T23:19:35.724Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,12 +18,6 @@
       "title": "GRAHAM PLATNER'S REPLACEMENT HAS BEEN CHOSEN | NO LIB & LEARN TONIGHT",
       "game": "Just Chatting",
       "started_at": "2026-07-20T21:49:40Z"
-    },
-    {
-      "username": "AdamLearnsLive",
-      "title": "Creating endless-dungeon rooms (day 68½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-07-20T19:46:13Z"
     }
   ]
 }
