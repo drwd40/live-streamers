@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-07-21T18:00:12.209Z",
+  "timestamp": "2026-07-21T18:36:22.030Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
-      "game": "Animals, Aquariums, and Zoos",
+      "title": "Animal Care Chats | !alveus !institute !pixel !schedule !video",
+      "game": "Just Chatting",
       "started_at": "2026-07-21T13:01:52Z"
     },
     {
@@ -12,6 +12,12 @@
       "title": "SEASON 4 TIME! WATCH UNC FLICK! 7/21/26",
       "game": "Battlefield 6",
       "started_at": "2026-07-21T14:46:56Z"
+    },
+    {
+      "username": "ipaintbirbs",
+      "title": "duck stamp competition prep, gotta get on da grind",
+      "game": "Art",
+      "started_at": "2026-07-21T18:27:23Z"
     },
     {
       "username": "AdamLearnsLive",
@@ -30,6 +36,18 @@
       "title": "Designing a powered \"mult\" for my eurorack! #autocadad",
       "game": "Science & Technology",
       "started_at": "2026-07-21T16:40:11Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "1/4 Real Scale Kareer - Episode 7",
+      "game": "Kerbal Space Program",
+      "started_at": "2026-07-21T18:05:19Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-07-21T18:04:20Z"
     }
   ]
 }
