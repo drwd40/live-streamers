@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-07-21T19:02:17.010Z",
+  "timestamp": "2026-07-21T19:38:18.185Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Care Chats | !alveus !institute !pixel !schedule !video",
-      "game": "Just Chatting",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
+      "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-07-21T13:01:52Z"
     },
     {
@@ -36,12 +36,6 @@
       "title": "1/4 Real Scale Kareer - Episode 7",
       "game": "Kerbal Space Program",
       "started_at": "2026-07-21T18:05:19Z"
-    },
-    {
-      "username": "ActualEducation",
-      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
-      "game": "Just Chatting",
-      "started_at": "2026-07-21T18:04:20Z"
     }
   ]
 }
