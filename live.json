@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-21T21:56:42.073Z",
+  "timestamp": "2026-07-21T22:19:00.969Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,10 @@
       "started_at": "2026-07-21T14:46:56Z"
     },
     {
-      "username": "ipaintbirbs",
-      "title": "duck stamp competition prep, gotta get on da grind",
-      "game": "Art",
-      "started_at": "2026-07-21T18:27:23Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "🦕🦴 UTAH DINOSAUR DIG   Day 5 ⛏️ The excavation continues with the Utah Geological Survey -- let's find some more bones!",
-      "game": "IRL",
-      "started_at": "2026-07-21T19:48:20Z"
+      "username": "imreallyimportant",
+      "title": "PETE HEGSETH TESTIFIES IN THE SENATE | ARIZONA PRIMARIES TONIGHT",
+      "game": "Just Chatting",
+      "started_at": "2026-07-21T21:52:09Z"
     },
     {
       "username": "Zachap",
@@ -38,16 +32,22 @@
       "started_at": "2026-07-21T18:05:19Z"
     },
     {
+      "username": "shnaff",
+      "title": "Guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-07-21T22:10:54Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Vectors + Integrals: The Sums, the Concepts, and the Theorems",
+      "game": "Math",
+      "started_at": "2026-07-21T22:08:23Z"
+    },
+    {
       "username": "nSimplexPachinko",
       "title": "Trying to Solve for More Information! Starting Day 042; Night 18, Blue Prince - 20260721",
       "game": "Blue Prince",
       "started_at": "2026-07-21T21:19:19Z"
-    },
-    {
-      "username": "imreallyimportant",
-      "title": "PETE HEGSETH TESTIFIES IN THE SENATE | ARIZONA PRIMARIES TONIGHT",
-      "game": "Just Chatting",
-      "started_at": "2026-07-21T21:52:09Z"
     }
   ]
 }
