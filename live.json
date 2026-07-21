@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-21T00:51:00.585Z",
+  "timestamp": "2026-07-21T01:24:38.950Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,6 +14,12 @@
       "started_at": "2026-07-20T21:49:40Z"
     },
     {
+      "username": "SciAnts_Streams",
+      "title": "Microscopy Monday | Tiny worlds under the microscope | 5 year stream a versary on Friday! | Partner+ 197/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2026-07-21T01:00:35Z"
+    },
+    {
       "username": "ActualEducation",
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Just Chatting",
@@ -24,6 +30,12 @@
       "title": "Swimming and African Americans, Testosterone testing for the military, and history of pesticides.",
       "game": "Science & Technology",
       "started_at": "2026-07-21T00:32:09Z"
+    },
+    {
+      "username": "Moohoodles",
+      "title": "🪐 Astrobiology & Space News ✨",
+      "game": "Science & Technology",
+      "started_at": "2026-07-21T01:24:11Z"
     }
   ]
 }
