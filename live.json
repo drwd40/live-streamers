@@ -1,11 +1,17 @@
 {
-  "timestamp": "2026-07-21T13:51:22.636Z",
+  "timestamp": "2026-07-21T15:19:31.596Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-07-21T13:01:52Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "EJ'S STARLINK GROUP 17-39 LAUNCH COVERAGE!",
+      "game": "Science & Technology",
+      "started_at": "2026-07-21T14:46:56Z"
     },
     {
       "username": "csharpfritz",
@@ -18,6 +24,12 @@
       "title": "is everything ok?",
       "game": "Politics",
       "started_at": "2026-07-21T10:00:57Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Sucky Tasks Day (day 69)",
+      "game": "Software and Game Development",
+      "started_at": "2026-07-21T15:15:31Z"
     }
   ]
 }
