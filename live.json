@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-21T16:26:26.013Z",
+  "timestamp": "2026-07-21T16:57:36.133Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,12 +14,6 @@
       "started_at": "2026-07-21T14:46:56Z"
     },
     {
-      "username": "csharpfritz",
-      "title": "Career Updates and Coding",
-      "game": "Software and Game Development",
-      "started_at": "2026-07-21T13:07:47Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "Sucky Tasks Day (day 69)",
       "game": "Software and Game Development",
@@ -30,6 +24,12 @@
       "title": "is everything ok?",
       "game": "Politics",
       "started_at": "2026-07-21T10:00:57Z"
+    },
+    {
+      "username": "oh_bother",
+      "title": "Designing a powered \"mult\" for my eurorack! #autocadad",
+      "game": "Science & Technology",
+      "started_at": "2026-07-21T16:40:11Z"
     },
     {
       "username": "pencenter",
