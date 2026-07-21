@@ -1,17 +1,23 @@
 {
-  "timestamp": "2026-07-21T12:41:19.968Z",
+  "timestamp": "2026-07-21T13:10:15.173Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
-      "started_at": "2026-07-19T13:01:50Z"
+      "started_at": "2026-07-21T13:01:52Z"
     },
     {
       "username": "Zachap",
       "title": "is everything ok?",
       "game": "Politics",
       "started_at": "2026-07-21T10:00:57Z"
+    },
+    {
+      "username": "csharpfritz",
+      "title": "Career Updates and Coding",
+      "game": "Software and Game Development",
+      "started_at": "2026-07-21T13:07:47Z"
     }
   ]
 }
