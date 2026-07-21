@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-21T15:54:27.766Z",
+  "timestamp": "2026-07-21T16:26:26.013Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -9,8 +9,8 @@
     },
     {
       "username": "EJ_SA",
-      "title": "EJ'S STARLINK GROUP 17-39 LAUNCH COVERAGE!",
-      "game": "Science & Technology",
+      "title": "SEASON 4 TIME! WATCH UNC FLICK! 7/21/26",
+      "game": "Battlefield 6",
       "started_at": "2026-07-21T14:46:56Z"
     },
     {
@@ -30,6 +30,12 @@
       "title": "is everything ok?",
       "game": "Politics",
       "started_at": "2026-07-21T10:00:57Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "Abstract Algebra & Real Analysis TUESDAY [(off) !fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-07-21T15:57:17Z"
     }
   ]
 }
