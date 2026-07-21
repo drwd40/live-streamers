@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-21T04:34:47.488Z",
+  "timestamp": "2026-07-21T05:36:46.767Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "Therapist Plays KCD2: Part 5",
       "game": "Kingdom Come: Deliverance II",
       "started_at": "2026-07-21T04:33:03Z"
+    },
+    {
+      "username": "happyknightmares",
+      "title": "Co-working and stuff :D",
+      "game": "Co-working & Studying",
+      "started_at": "2026-07-21T05:24:14Z"
     }
   ]
 }
