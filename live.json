@@ -1,11 +1,17 @@
 {
-  "timestamp": "2026-07-22T09:11:32.795Z",
+  "timestamp": "2026-07-22T10:03:58.769Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-07-21T13:01:52Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "let's play a game, tell me your politics.",
+      "game": "Politics",
+      "started_at": "2026-07-22T10:02:40Z"
     }
   ]
 }
