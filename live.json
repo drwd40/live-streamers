@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-22T17:57:23.769Z",
+  "timestamp": "2026-07-22T18:28:35.754Z",
   "live": [
     {
       "username": "Maya",
@@ -36,12 +36,6 @@
       "title": "let's play a game, tell me your politics.",
       "game": "Politics",
       "started_at": "2026-07-22T10:02:40Z"
-    },
-    {
-      "username": "DiatomsATTACK",
-      "title": "Diatoms from glacial potholes with guests Mark and Wyatt.",
-      "game": "Science & Technology",
-      "started_at": "2026-07-22T15:08:58Z"
     }
   ]
 }
