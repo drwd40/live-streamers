@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-22T21:10:50.674Z",
+  "timestamp": "2026-07-22T21:37:05.607Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,22 +26,16 @@
       "started_at": "2026-07-22T20:01:59Z"
     },
     {
-      "username": "Zachap",
-      "title": "let's play a game, tell me your politics.",
-      "game": "Politics",
-      "started_at": "2026-07-22T10:02:40Z"
+      "username": "nSimplexPachinko",
+      "title": "Looking at the Precalculus Curriculum - Going to run a full class in August! - 20260722",
+      "game": "Math",
+      "started_at": "2026-07-22T21:07:21Z"
     },
     {
       "username": "happyknightmares",
       "title": "Montreal Biodome stream!!",
       "game": "IRL",
-      "started_at": "2026-07-22T20:52:47Z"
-    },
-    {
-      "username": "nSimplexPachinko",
-      "title": "Looking at the Precalculus Curriculum - Going to run a full class in August! - 20260722",
-      "game": "Math",
-      "started_at": "2026-07-22T21:07:21Z"
+      "started_at": "2026-07-22T21:20:28Z"
     }
   ]
 }
