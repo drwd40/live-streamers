@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-22T20:19:29.875Z",
+  "timestamp": "2026-07-22T20:43:41.612Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,6 +20,12 @@
       "started_at": "2026-07-22T19:55:21Z"
     },
     {
+      "username": "AdamLearnsLive",
+      "title": "Knights, fights, and delights (day 70½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-07-22T20:01:59Z"
+    },
+    {
       "username": "Zachap",
       "title": "let's play a game, tell me your politics.",
       "game": "Politics",
@@ -30,12 +36,6 @@
       "title": "🍀 Rise of Piracy dev! | !charity !rop !patreon !discord",
       "game": "Software and Game Development",
       "started_at": "2026-07-22T19:01:28Z"
-    },
-    {
-      "username": "AdamLearnsLive",
-      "title": "Knights, fights, and delights (day 70½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-07-22T20:01:59Z"
     },
     {
       "username": "ActualEducation",
