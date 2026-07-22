@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-22T12:44:02.592Z",
+  "timestamp": "2026-07-22T13:14:33.004Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "let's play a game, tell me your politics.",
       "game": "Politics",
       "started_at": "2026-07-22T10:02:40Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Chatting w/ Dr Adam Levy (ClimateAdam) about climate science!  #NASA #science #space #stem #scientist #climatechange #climatescience",
+      "game": "Science & Technology",
+      "started_at": "2026-07-22T12:50:17Z"
     }
   ]
 }
