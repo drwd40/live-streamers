@@ -1,11 +1,23 @@
 {
-  "timestamp": "2026-07-22T15:21:13.401Z",
+  "timestamp": "2026-07-22T15:55:02.394Z",
   "live": [
+    {
+      "username": "Maya",
+      "title": "STREAMER U CATCH UP‼️I SAW WHALES🐳",
+      "game": "Just Chatting",
+      "started_at": "2026-07-22T15:37:52Z"
+    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-07-21T13:01:52Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Making a FUN game for FUN people (day 70)",
+      "game": "Software and Game Development",
+      "started_at": "2026-07-22T15:14:43Z"
     },
     {
       "username": "Zachap",
@@ -21,15 +33,9 @@
     },
     {
       "username": "Nerduino",
-      "title": "Chatting w/ Dr Adam Levy (ClimateAdam) about climate science!  #NASA #science #space #stem #scientist #climatechange #climatescience",
+      "title": "Science and Space with a PhD Astronomer and former NASA guy!   #NASA #science #space #stem #scientist #climatechange #climatescience",
       "game": "Science & Technology",
       "started_at": "2026-07-22T12:50:17Z"
-    },
-    {
-      "username": "AdamLearnsLive",
-      "title": "Making a FUN game for FUN people (day 70)",
-      "game": "Software and Game Development",
-      "started_at": "2026-07-22T15:14:43Z"
     },
     {
       "username": "DiatomsATTACK",
