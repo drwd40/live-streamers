@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-22T22:27:53.053Z",
+  "timestamp": "2026-07-22T22:50:02.519Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,22 +26,16 @@
       "started_at": "2026-07-22T21:50:03Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Knights, fights, and delights (day 70½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-07-22T20:01:59Z"
+      "username": "happyknightmares",
+      "title": "Montreal Biodome stream!!",
+      "game": "IRL",
+      "started_at": "2026-07-22T21:47:27Z"
     },
     {
       "username": "nSimplexPachinko",
       "title": "Looking at the Precalculus Curriculum - Going to run a full class in August! - 20260722",
       "game": "Math",
       "started_at": "2026-07-22T21:07:21Z"
-    },
-    {
-      "username": "happyknightmares",
-      "title": "Montreal Biodome stream!!",
-      "game": "IRL",
-      "started_at": "2026-07-22T21:47:27Z"
     }
   ]
 }
