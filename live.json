@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-07-23T01:25:18.027Z",
+  "timestamp": "2026-07-23T02:15:12.297Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
-      "game": "Animals, Aquariums, and Zoos",
+      "title": "Chat Chats w/ Evan | !alveus !institute !pixel !schedule !video",
+      "game": "Just Chatting",
       "started_at": "2026-07-21T13:01:52Z"
     },
     {
@@ -12,12 +12,6 @@
       "title": "LATE NIGHT TACTICOOL BF6! 7/22/26",
       "game": "Battlefield 6",
       "started_at": "2026-07-22T16:05:05Z"
-    },
-    {
-      "username": "ipaintbirbs",
-      "title": "still sketching for the Duck Stamp! hehe i'm in danger",
-      "game": "Art",
-      "started_at": "2026-07-22T23:09:43Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -33,7 +27,7 @@
     },
     {
       "username": "Ask_a_Scientist_Gaming",
-      "title": "Dr. Olmo Zavala Romero- Applied Machine Learning, and DOOM.",
+      "title": "Dr. Olmo Zavala Romero- Applied Machine Learning, and Caveman Games.",
       "game": "Science & Technology",
       "started_at": "2026-07-22T23:57:24Z"
     },
@@ -42,6 +36,12 @@
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Just Chatting",
       "started_at": "2026-07-23T00:08:23Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Help for Brian on Instragram. Everything you wanted to know about Lamentation, and psychological effects of fasting.",
+      "game": "Science & Technology",
+      "started_at": "2026-07-23T01:31:10Z"
     }
   ]
 }
