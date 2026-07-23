@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-23T00:01:00.151Z",
+  "timestamp": "2026-07-23T00:51:19.396Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,15 +8,9 @@
       "started_at": "2026-07-21T13:01:52Z"
     },
     {
-      "username": "JapanesePrintmaking",
-      "title": "Making Japanese woodblock prints ... live while you watch ...",
-      "game": "Makers & Crafting",
-      "started_at": "2026-07-22T22:55:23Z"
-    },
-    {
       "username": "EJ_SA",
-      "title": "EJ's Space and Rocket Revue! 7/22/26",
-      "game": "Science & Technology",
+      "title": "LATE NIGHT TACTICOOL BF6! 7/22/26",
+      "game": "Battlefield 6",
       "started_at": "2026-07-22T16:05:05Z"
     },
     {
@@ -26,22 +20,34 @@
       "started_at": "2026-07-22T23:09:43Z"
     },
     {
-      "username": "imreallyimportant",
-      "title": "TRUMP ISSUES NEW THREAT TO BOMB IRAN BRIDGES & POWER PLANTS",
-      "game": "Just Chatting",
-      "started_at": "2026-07-22T21:50:03Z"
+      "username": "SciAnts_Streams",
+      "title": "Camp Chaos Day! | DIY experiments, microscopy, and more! | 5 year stream a versary on Friday! | Partner+ 207/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2026-07-23T00:36:05Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "Looking at the Precalculus Curriculum - Going to run a full class in August! - 20260722",
-      "game": "Math",
-      "started_at": "2026-07-22T21:07:21Z"
+      "username": "SharkG33k",
+      "title": "Chat's Choice Shark Dive! 🦈 4 days to Shark Week!",
+      "game": "Science & Technology",
+      "started_at": "2026-07-23T00:14:51Z"
     },
     {
       "username": "Ask_a_Scientist_Gaming",
       "title": "Dr. Olmo Zavala Romero- Applied Machine Learning, and DOOM.",
       "game": "Science & Technology",
       "started_at": "2026-07-22T23:57:24Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-07-23T00:08:23Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Looking at the Precalculus Curriculum - Going to run a full class in August! - 20260722",
+      "game": "Math",
+      "started_at": "2026-07-22T21:07:21Z"
     }
   ]
 }
