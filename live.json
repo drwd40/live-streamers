@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-23T18:15:18.601Z",
+  "timestamp": "2026-07-23T18:44:16.106Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,10 +26,22 @@
       "started_at": "2026-07-23T10:00:22Z"
     },
     {
+      "username": "eToThe2iPi",
+      "title": "Electrical Potential (An Electricity and Magnetism Study Group)",
+      "game": "Science & Technology",
+      "started_at": "2026-07-23T18:23:00Z"
+    },
+    {
       "username": "Rocketology",
       "title": "1/4 Real Scale Kareer - Episode 8 & Starship Launch Coverage",
       "game": "Kerbal Space Program",
       "started_at": "2026-07-23T17:59:18Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "Task Force Doctrine; How it evolved from WWI to WWII in the big three navys - IJN, RN & USN(Patreon)uestions Answered Live...",
+      "game": "Just Chatting",
+      "started_at": "2026-07-23T18:31:12Z"
     }
   ]
 }
