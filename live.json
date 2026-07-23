@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-23T16:43:44.483Z",
+  "timestamp": "2026-07-23T17:12:42.214Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-07-23T15:24:31Z"
     },
     {
-      "username": "Zachap",
-      "title": "a non-american that'll talk politics lol imagine.",
-      "game": "Politics",
-      "started_at": "2026-07-23T10:00:22Z"
-    },
-    {
       "username": "SciAnts_Streams",
       "title": "Resident Evil 6: C Virus Science & collab with @kimmydnc | 5 year stream a versary on Friday! | Partner+ 211/300 | !ppp !yt !pod",
       "game": "Resident Evil 6",
       "started_at": "2026-07-23T16:06:45Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "a non-american that'll talk politics lol imagine.",
+      "game": "Politics",
+      "started_at": "2026-07-23T10:00:22Z"
     }
   ]
 }
