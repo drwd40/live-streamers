@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-23T20:38:48.518Z",
+  "timestamp": "2026-07-23T21:04:01.497Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,6 +32,12 @@
       "started_at": "2026-07-23T19:12:33Z"
     },
     {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and doing more Moscow Puzzles",
+      "game": "Math",
+      "started_at": "2026-07-23T19:49:53Z"
+    },
+    {
       "username": "Rocketology",
       "title": "1/4 Real Scale Kareer - Episode 8 & Starship Launch Coverage",
       "game": "Kerbal Space Program",
@@ -44,34 +50,16 @@
       "started_at": "2026-07-23T19:01:13Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Electrical Potential (An Electricity and Magnetism Study Group)",
-      "game": "Science & Technology",
-      "started_at": "2026-07-23T18:23:00Z"
-    },
-    {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and doing more Moscow Puzzles",
-      "game": "Math",
-      "started_at": "2026-07-23T19:49:53Z"
+      "username": "DrAlexanderClarke",
+      "title": "Task Force Doctrine; How it evolved from WWI to WWII in the big three navys - IJN, RN & USN(Patreon)uestions Answered Live...",
+      "game": "Just Chatting",
+      "started_at": "2026-07-23T18:31:12Z"
     },
     {
       "username": "pencenter",
       "title": "Real Analysis Lesson #14 [(off) !fish🎣|!commands💻]",
       "game": "Math",
       "started_at": "2026-07-23T19:56:30Z"
-    },
-    {
-      "username": "ActualEducation",
-      "title": "Physics 1B",
-      "game": "Just Chatting",
-      "started_at": "2026-07-23T19:30:39Z"
-    },
-    {
-      "username": "DrAlexanderClarke",
-      "title": "Task Force Doctrine; How it evolved from WWI to WWII in the big three navys - IJN, RN & USN(Patreon)uestions Answered Live...",
-      "game": "Just Chatting",
-      "started_at": "2026-07-23T18:31:12Z"
     }
   ]
 }
