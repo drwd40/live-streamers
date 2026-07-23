@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-23T19:46:29.850Z",
+  "timestamp": "2026-07-23T20:15:03.291Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "NSF - STARSHIP STAKEOUT FLIGHT 13! (ATTEMPT II) 7/23/26",
       "game": "Science & Technology",
       "started_at": "2026-07-23T15:32:09Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "🦖🦴 UTAH DINOSAUR DIG ⛏️ Day 7  What will we find today? (Hopefully more of our new iguanodont dinosaur 🤞🏽) Near Moab, Utah, USA",
+      "game": "IRL",
+      "started_at": "2026-07-23T19:58:21Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -32,10 +38,10 @@
       "started_at": "2026-07-23T10:00:22Z"
     },
     {
-      "username": "Rocketology",
-      "title": "1/4 Real Scale Kareer - Episode 8 & Starship Launch Coverage",
-      "game": "Kerbal Space Program",
-      "started_at": "2026-07-23T17:59:18Z"
+      "username": "SydHeresy",
+      "title": "I Got That Good Solder That You Want - Let Me Be Your Pusher",
+      "game": "Just Chatting",
+      "started_at": "2026-07-23T19:01:13Z"
     },
     {
       "username": "eToThe2iPi",
@@ -44,16 +50,28 @@
       "started_at": "2026-07-23T18:23:00Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "I Got That Good Solder That You Want - Let Me Be Your Pusher",
-      "game": "Just Chatting",
-      "started_at": "2026-07-23T19:01:13Z"
+      "username": "Rocketology",
+      "title": "1/4 Real Scale Kareer - Episode 8 & Starship Launch Coverage",
+      "game": "Kerbal Space Program",
+      "started_at": "2026-07-23T17:59:18Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and doing more Moscow Puzzles",
+      "game": "Math",
+      "started_at": "2026-07-23T19:49:53Z"
     },
     {
       "username": "ActualEducation",
       "title": "Physics 1B",
       "game": "Just Chatting",
       "started_at": "2026-07-23T19:30:39Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "Real Analysis Lesson #14 [(off) !fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-07-23T19:56:30Z"
     },
     {
       "username": "DrAlexanderClarke",
