@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-23T14:00:36.614Z",
+  "timestamp": "2026-07-23T14:50:51.838Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-07-23T13:01:55Z"
     },
     {
-      "username": "Zachap",
-      "title": "a non-american that'll talk politics lol imagine.",
-      "game": "Politics",
-      "started_at": "2026-07-23T10:00:22Z"
-    },
-    {
       "username": "csharpfritz",
       "title": "News.. Astisanal Coding and more",
       "game": "Software and Game Development",
       "started_at": "2026-07-23T13:34:20Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "a non-american that'll talk politics lol imagine.",
+      "game": "Politics",
+      "started_at": "2026-07-23T10:00:22Z"
     },
     {
       "username": "Andilippi",
