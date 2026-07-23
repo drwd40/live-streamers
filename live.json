@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-22T23:36:54.064Z",
+  "timestamp": "2026-07-23T00:01:00.151Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "Looking at the Precalculus Curriculum - Going to run a full class in August! - 20260722",
       "game": "Math",
       "started_at": "2026-07-22T21:07:21Z"
+    },
+    {
+      "username": "Ask_a_Scientist_Gaming",
+      "title": "Dr. Olmo Zavala Romero- Applied Machine Learning, and DOOM.",
+      "game": "Science & Technology",
+      "started_at": "2026-07-22T23:57:24Z"
     }
   ]
 }
