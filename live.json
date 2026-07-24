@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-07-24T17:54:38.585Z",
+  "timestamp": "2026-07-24T18:25:35.266Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
-      "game": "Animals, Aquariums, and Zoos",
+      "title": "Show and Tell | !alveus !institute !pixel !schedule !video",
+      "game": "Just Chatting",
       "started_at": "2026-07-23T13:01:55Z"
     },
     {
@@ -14,16 +14,16 @@
       "started_at": "2026-07-24T16:02:41Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Game dev (what else? 👀) (day 72)",
-      "game": "Software and Game Development",
-      "started_at": "2026-07-24T15:08:08Z"
-    },
-    {
       "username": "SciAnts_Streams",
       "title": "🎉5 year stream-anniversary! 🎉 | Science, community games, and more! | Partner+ 215/300 | !ppp !yt !pod",
       "game": "Science & Technology",
       "started_at": "2026-07-24T16:03:01Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Game dev (what else? 👀) (day 72)",
+      "game": "Software and Game Development",
+      "started_at": "2026-07-24T15:08:08Z"
     },
     {
       "username": "Zachap",
