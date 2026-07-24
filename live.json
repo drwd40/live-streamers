@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-24T21:01:39.635Z",
+  "timestamp": "2026-07-24T21:29:32.178Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,16 @@
       "started_at": "2026-07-24T16:03:01Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Godot + C# game dev (day 72½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-07-24T19:26:33Z"
-    },
-    {
       "username": "Zachap",
       "title": "The economic system we have atm is \"idealistic\" on a philosophical level and not scientific on a material level.",
       "game": "Just Chatting",
       "started_at": "2026-07-24T10:02:38Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Godot + C# game dev (day 72½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-07-24T19:26:33Z"
     },
     {
       "username": "IrishJohnGames",
@@ -54,6 +54,12 @@
       "title": "I prefer my Namalsk shaken, not stirred",
       "game": "DayZ",
       "started_at": "2026-07-24T20:08:00Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Clearing the Graveyard Crypt, Act II; Night 012, Baldur's Gate 3 - 20260724",
+      "game": "Baldur's Gate 3",
+      "started_at": "2026-07-24T21:26:42Z"
     }
   ]
 }
