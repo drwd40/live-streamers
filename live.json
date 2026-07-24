@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-24T17:19:18.671Z",
+  "timestamp": "2026-07-24T17:54:38.585Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-07-24T16:02:41Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "🎉5 year stream-anniversary! 🎉 | Science, community games, and more! | Partner+ 215/300 | !ppp !yt !pod",
-      "game": "Science & Technology",
-      "started_at": "2026-07-24T16:03:01Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "Game dev (what else? 👀) (day 72)",
       "game": "Software and Game Development",
       "started_at": "2026-07-24T15:08:08Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "🎉5 year stream-anniversary! 🎉 | Science, community games, and more! | Partner+ 215/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2026-07-24T16:03:01Z"
     },
     {
       "username": "Zachap",
