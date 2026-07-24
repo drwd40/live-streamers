@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-24T15:38:25.269Z",
+  "timestamp": "2026-07-24T16:47:39.068Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,46 @@
       "started_at": "2026-07-23T13:01:55Z"
     },
     {
+      "username": "EJ_SA",
+      "title": "NSF - FLIGHT 13 STARSHIP STAKEOUT! (ATTEMPT III) 7/24/26",
+      "game": "Science & Technology",
+      "started_at": "2026-07-24T16:02:41Z"
+    },
+    {
       "username": "AdamLearnsLive",
       "title": "Game dev (what else? 👀) (day 72)",
       "game": "Software and Game Development",
       "started_at": "2026-07-24T15:08:08Z"
     },
     {
+      "username": "SciAnts_Streams",
+      "title": "🎉5 year stream-anniversary! 🎉 | Science, community games, and more! | Partner+ 215/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2026-07-24T16:03:01Z"
+    },
+    {
       "username": "Zachap",
       "title": "The economic system we have atm is \"idealistic\" on a philosophical level and not scientific on a material level.",
       "game": "Just Chatting",
       "started_at": "2026-07-24T10:02:38Z"
+    },
+    {
+      "username": "DiatomsATTACK",
+      "title": "SEM: Diatoms from glacial potholes of Minnesota and Wisconsin.",
+      "game": "Science & Technology",
+      "started_at": "2026-07-24T16:33:56Z"
+    },
+    {
+      "username": "oh_bother",
+      "title": "Fixing momo by giving this robot cowboy lawn mower some larger motor controllers!",
+      "game": "Science & Technology",
+      "started_at": "2026-07-24T16:34:53Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "Abstract Algebra Lesson #2 [(off) !fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-07-24T15:59:45Z"
     }
   ]
 }
