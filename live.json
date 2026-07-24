@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-24T20:03:02.407Z",
+  "timestamp": "2026-07-24T20:36:53.066Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,22 +14,22 @@
       "started_at": "2026-07-24T16:02:41Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "🎉5 year stream-anniversary! 🎉 | Science, community games, and more! | Partner+ 215/300 | !ppp !yt !pod",
-      "game": "Science & Technology",
-      "started_at": "2026-07-24T16:03:01Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "🦕🦴 UTAH DINOSAUR DIG  Day 8 ⛏️ THE BIG BONES ARE FINALLY EMERGING as we dig our new iguanodont dinosaur near Moab, Utah, USA",
       "game": "IRL",
       "started_at": "2026-07-24T19:50:09Z"
     },
     {
-      "username": "Zachap",
-      "title": "The economic system we have atm is \"idealistic\" on a philosophical level and not scientific on a material level.",
-      "game": "Just Chatting",
-      "started_at": "2026-07-24T10:02:38Z"
+      "username": "ipaintbirbs",
+      "title": "and so the true duck days begin",
+      "game": "Art",
+      "started_at": "2026-07-24T20:01:36Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "🎉5 year stream-anniversary! 🎉 | Science, community games, and more! | Partner+ 215/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2026-07-24T16:03:01Z"
     },
     {
       "username": "AdamLearnsLive",
@@ -38,16 +38,22 @@
       "started_at": "2026-07-24T19:26:33Z"
     },
     {
+      "username": "Zachap",
+      "title": "The economic system we have atm is \"idealistic\" on a philosophical level and not scientific on a material level.",
+      "game": "Just Chatting",
+      "started_at": "2026-07-24T10:02:38Z"
+    },
+    {
       "username": "IrishJohnGames",
       "title": "🍀 Rise of Piracy dev! | !charity !rop !patreon !discord",
       "game": "Software and Game Development",
       "started_at": "2026-07-24T19:01:52Z"
     },
     {
-      "username": "ipaintbirbs",
-      "title": "and so the true duck days begin",
-      "game": "Art",
-      "started_at": "2026-07-24T20:01:36Z"
+      "username": "DonFactorial",
+      "title": "I prefer my Namalsk shaken, not stirred",
+      "game": "DayZ",
+      "started_at": "2026-07-24T20:08:00Z"
     }
   ]
 }
