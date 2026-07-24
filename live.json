@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-23T23:46:30.374Z",
+  "timestamp": "2026-07-24T00:09:02.203Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-07-23T15:32:09Z"
     },
     {
-      "username": "Nerduino",
-      "title": "Space Science. Solar Telescope Install. PhD Astronomer!  #partnerpush #NASA #science #space #stem #scientist #climatechange #climatescience",
-      "game": "Science & Technology",
-      "started_at": "2026-07-23T21:50:34Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "OIL HITS $100 | TWO SOLID POLLS SHOW DEMS WITH A BIG ADVANTAGE GOING INTO MIDTERMS",
       "game": "Just Chatting",
       "started_at": "2026-07-23T21:50:00Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Space Science. Solar Telescope Install. PhD Astronomer!  #partnerpush #NASA #science #space #stem #scientist #climatechange #climatescience",
+      "game": "Science & Technology",
+      "started_at": "2026-07-23T21:50:34Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -60,6 +60,12 @@
       "title": "More lore production surrounding DEATH: The 4th Horseman; TitansGrave 014, TTRPG Planning - 20260723",
       "game": "Tabletop RPGs",
       "started_at": "2026-07-23T21:25:16Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-07-24T00:07:25Z"
     }
   ]
 }
