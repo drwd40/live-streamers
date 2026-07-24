@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-24T18:58:54.117Z",
+  "timestamp": "2026-07-24T19:33:43.080Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,18 @@
       "title": "SEM: Diatoms from glacial potholes of Minnesota and Wisconsin.",
       "game": "Science & Technology",
       "started_at": "2026-07-24T16:33:56Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀 Rise of Piracy dev! | !charity !rop !patreon !discord",
+      "game": "Software and Game Development",
+      "started_at": "2026-07-24T19:01:52Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Godot + C# game dev (day 72½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-07-24T19:26:33Z"
     }
   ]
 }
