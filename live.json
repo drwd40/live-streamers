@@ -1,29 +1,11 @@
 {
-  "timestamp": "2026-07-24T01:23:34.972Z",
+  "timestamp": "2026-07-24T02:12:18.757Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-07-23T13:01:55Z"
-    },
-    {
-      "username": "EJ_SA",
-      "title": "LATE NIGHT TACTICAL BF6! 7/23/26",
-      "game": "Battlefield 6",
-      "started_at": "2026-07-23T15:32:09Z"
-    },
-    {
-      "username": "imreallyimportant",
-      "title": "OIL HITS $100 | TWO SOLID POLLS SHOW DEMS WITH A BIG ADVANTAGE GOING INTO MIDTERMS",
-      "game": "Just Chatting",
-      "started_at": "2026-07-23T21:50:00Z"
-    },
-    {
-      "username": "Nerduino",
-      "title": "JPL Landing on actual asteropids! PhD Astronomer!  #partnerpush #NASA #science #space #stem #scientist #climatechange #climatescience",
-      "game": "Science & Technology",
-      "started_at": "2026-07-23T21:50:34Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -54,6 +36,12 @@
       "title": "Black Flag Resynced!🦈| We anchor for shark dives | !TFT",
       "game": "Assassin's Creed Black Flag Resynced",
       "started_at": "2026-07-24T00:12:12Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Mental health screening and treatment for adolescents in primary care. You don't eugenics, Scott Scharra. Catfish with transmissible cancer.",
+      "game": "Science & Technology",
+      "started_at": "2026-07-24T01:32:07Z"
     }
   ]
 }
