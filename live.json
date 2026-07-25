@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-24T23:53:14.337Z",
+  "timestamp": "2026-07-25T00:16:21.249Z",
   "live": [
     {
       "username": "Maya",
@@ -34,7 +34,7 @@
     {
       "username": "SciAnts_Streams",
       "title": "🎉5 year stream-anniversary! 🎉 | Science, community games, and more! | Partner+ 215/300 | !ppp !yt !pod",
-      "game": "Science & Technology",
+      "game": "Palworld",
       "started_at": "2026-07-24T16:03:01Z"
     },
     {
@@ -50,34 +50,22 @@
       "started_at": "2026-07-24T21:54:06Z"
     },
     {
-      "username": "Nerduino",
-      "title": "SpaceX Starship test flight 13 with a former NASA guy!  #partnerpush #NASA #science #space #stem #scientist #climatechange #climatescience",
-      "game": "Science & Technology",
-      "started_at": "2026-07-24T21:52:57Z"
-    },
-    {
-      "username": "shnaff",
-      "title": "Guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-07-24T22:01:06Z"
-    },
-    {
-      "username": "CosmoQuestX",
-      "title": "SpaceX Starship 13 launch attempt",
-      "game": "Science & Technology",
-      "started_at": "2026-07-24T22:17:07Z"
-    },
-    {
-      "username": "DonFactorial",
-      "title": "I prefer my Namalsk shaken, not stirred",
-      "game": "DayZ",
-      "started_at": "2026-07-24T20:08:00Z"
+      "username": "SharkG33k",
+      "title": "SHARKATHON Day 1 🦈| Fundraising for Twitch's first LIVE shark encounter! | !TFT",
+      "game": "Assassin's Creed Black Flag Resynced",
+      "started_at": "2026-07-25T00:06:17Z"
     },
     {
       "username": "nSimplexPachinko",
       "title": "Clearing the Graveyard Crypt, Act II; Night 012, Baldur's Gate 3 - 20260724",
       "game": "Baldur's Gate 3",
       "started_at": "2026-07-24T21:26:42Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "I prefer my Namalsk shaken, not stirred",
+      "game": "DayZ",
+      "started_at": "2026-07-24T20:08:00Z"
     }
   ]
 }
