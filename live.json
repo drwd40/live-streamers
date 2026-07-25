@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-25T11:36:06.583Z",
+  "timestamp": "2026-07-25T12:02:00.568Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "today or tomorrow?",
       "game": "Just Chatting",
       "started_at": "2026-07-25T10:06:01Z"
+    },
+    {
+      "username": "Andilippi",
+      "title": "Talk to me! - More Shenans & Gig prep for tonight",
+      "game": "Just Chatting",
+      "started_at": "2026-07-25T11:44:20Z"
     }
   ]
 }
