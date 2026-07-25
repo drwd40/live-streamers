@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-25T20:55:01.804Z",
+  "timestamp": "2026-07-25T21:15:09.305Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "today or tomorrow?",
       "game": "Just Chatting",
       "started_at": "2026-07-25T10:06:01Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "The Soldering - Electronics - DIY",
+      "game": "Science & Technology",
+      "started_at": "2026-07-25T21:00:00Z"
     },
     {
       "username": "DonFactorial",
