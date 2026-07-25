@@ -1,18 +1,6 @@
 {
-  "timestamp": "2026-07-25T00:16:21.249Z",
+  "timestamp": "2026-07-25T00:55:36.240Z",
   "live": [
-    {
-      "username": "Maya",
-      "title": "[KATS DROP] STREAM W ADAPT TODAY YAYYYYY !Fortnite UEFN #EpicPartner",
-      "game": "Fortnite",
-      "started_at": "2026-07-24T22:20:30Z"
-    },
-    {
-      "username": "EJ_SA",
-      "title": "EJ'S STARSHIP FLIGHT 13 LAUNCH COVERAGE! (ATTEMPT III) 7/24/26",
-      "game": "Science & Technology",
-      "started_at": "2026-07-24T16:02:41Z"
-    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
@@ -20,16 +8,10 @@
       "started_at": "2026-07-23T13:01:55Z"
     },
     {
-      "username": "JapanesePrintmaking",
-      "title": "Making Japanese woodblock prints ... live while you watch ...",
-      "game": "Makers & Crafting",
-      "started_at": "2026-07-24T22:59:53Z"
-    },
-    {
-      "username": "ipaintbirbs",
-      "title": "and so the true duck days begin",
-      "game": "Art",
-      "started_at": "2026-07-24T20:01:36Z"
+      "username": "EJ_SA",
+      "title": "EJ'S STARSHIP FLIGHT 13 LAUNCH COVERAGE! (ATTEMPT III) 7/24/26",
+      "game": "Science & Technology",
+      "started_at": "2026-07-24T16:02:41Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -45,14 +27,14 @@
     },
     {
       "username": "AstroCanuck",
-      "title": "LIVE SpaceX Starship Launch - Later: Space News & LEGO Natural History Museum !build | !PGV | !drop !tkf",
+      "title": "Week's End Catch-up: SpaceX Starship review & LEGO Natural History Museum !build | !PGV | !drop !tkf",
       "game": "Science & Technology",
       "started_at": "2026-07-24T21:54:06Z"
     },
     {
       "username": "SharkG33k",
       "title": "SHARKATHON Day 1 🦈| Fundraising for Twitch's first LIVE shark encounter! | !TFT",
-      "game": "Assassin's Creed Black Flag Resynced",
+      "game": "Science & Technology",
       "started_at": "2026-07-25T00:06:17Z"
     },
     {
@@ -60,12 +42,6 @@
       "title": "Clearing the Graveyard Crypt, Act II; Night 012, Baldur's Gate 3 - 20260724",
       "game": "Baldur's Gate 3",
       "started_at": "2026-07-24T21:26:42Z"
-    },
-    {
-      "username": "DonFactorial",
-      "title": "I prefer my Namalsk shaken, not stirred",
-      "game": "DayZ",
-      "started_at": "2026-07-24T20:08:00Z"
     }
   ]
 }
