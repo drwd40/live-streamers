@@ -1,6 +1,12 @@
 {
-  "timestamp": "2026-07-25T18:06:16.029Z",
+  "timestamp": "2026-07-25T18:29:00.179Z",
   "live": [
+    {
+      "username": "Maya",
+      "title": "🏀WNBA State Farm 3-Point Contest #StateFarmPartner",
+      "game": "Just Chatting",
+      "started_at": "2026-07-25T18:24:34Z"
+    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
@@ -18,12 +24,6 @@
       "title": "today or tomorrow?",
       "game": "Just Chatting",
       "started_at": "2026-07-25T10:06:01Z"
-    },
-    {
-      "username": "eToThe2iPi",
-      "title": "A Math/Ed Q&A: Bring Your Questions!",
-      "game": "Math",
-      "started_at": "2026-07-25T16:03:41Z"
     }
   ]
 }
