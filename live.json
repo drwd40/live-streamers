@@ -1,11 +1,17 @@
 {
-  "timestamp": "2026-07-25T12:02:00.568Z",
+  "timestamp": "2026-07-25T12:50:57.508Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-07-23T13:01:55Z"
+    },
+    {
+      "username": "TinyToxicTofu",
+      "title": "I'm in my mad scientist era! History of the Periodic Table, Building Star Trek Tricorder, Designing BOB the Self-Balancing Robot....",
+      "game": "Science & Technology",
+      "started_at": "2026-07-25T12:18:47Z"
     },
     {
       "username": "Zachap",
@@ -16,7 +22,7 @@
     {
       "username": "Andilippi",
       "title": "Talk to me! - More Shenans & Gig prep for tonight",
-      "game": "Just Chatting",
+      "game": "Music",
       "started_at": "2026-07-25T11:44:20Z"
     }
   ]
