@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-26T00:14:16.893Z",
+  "timestamp": "2026-07-26T00:59:05.387Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "The Soldering - Electronics - DIY",
       "game": "Science & Technology",
       "started_at": "2026-07-25T21:00:00Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "SHARKATHON Day 2 🦈| Fundraising for Twitch's first LIVE shark encounter! | !TFT",
+      "game": "Assassin's Creed Black Flag Resynced",
+      "started_at": "2026-07-26T00:38:07Z"
     }
   ]
 }
