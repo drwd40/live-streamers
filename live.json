@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-26T09:33:54.185Z",
+  "timestamp": "2026-07-26T10:14:45.011Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "The Soldering - Electronics - DIY",
       "game": "Science & Technology",
       "started_at": "2026-07-25T21:00:00Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "Propaganda is killing us BTW, fun fact. people know it but they do it anyway.",
+      "game": "Just Chatting",
+      "started_at": "2026-07-26T09:59:06Z"
     }
   ]
 }
