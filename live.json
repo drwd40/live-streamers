@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-26T07:07:57.499Z",
+  "timestamp": "2026-07-26T07:56:47.584Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,28 +8,16 @@
       "started_at": "2026-07-25T13:01:57Z"
     },
     {
-      "username": "DrMick",
-      "title": "Therapist Plays KCD2: Part 7",
-      "game": "Kingdom Come: Deliverance II",
-      "started_at": "2026-07-26T04:22:08Z"
-    },
-    {
-      "username": "SydHeresy",
-      "title": "The Soldering - Electronics - DIY",
-      "game": "Science & Technology",
-      "started_at": "2026-07-25T21:00:00Z"
-    },
-    {
       "username": "SharkG33k",
       "title": "SHARKATHON Day 2 🦈| Fundraising for Twitch's first LIVE shark encounter! | !TFT",
       "game": "Assassin's Creed Black Flag Resynced",
       "started_at": "2026-07-26T00:38:07Z"
     },
     {
-      "username": "walkingsticklibrary",
-      "title": "Washing the synagogue's dirty linen on stream. Catfish with transmissible cancer, and the dark side of gratitude.",
+      "username": "SydHeresy",
+      "title": "The Soldering - Electronics - DIY",
       "game": "Science & Technology",
-      "started_at": "2026-07-26T01:59:37Z"
+      "started_at": "2026-07-25T21:00:00Z"
     }
   ]
 }
