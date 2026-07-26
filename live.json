@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-26T22:31:22.450Z",
+  "timestamp": "2026-07-26T22:53:58.818Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,10 +32,22 @@
       "started_at": "2026-07-26T22:00:33Z"
     },
     {
+      "username": "MelissaInDeNile",
+      "title": "Beyond De Nile Guest Lecture with @historiancaro The Real World of Pirates!! ~ Follower Goal: 2414/2600 ~ !socials !beyonddenile",
+      "game": "Just Chatting",
+      "started_at": "2026-07-26T22:50:52Z"
+    },
+    {
       "username": "DrAlexanderClarke",
       "title": "Bruships 252: Naval History Questions Answered Live...",
       "game": "Just Chatting",
       "started_at": "2026-07-26T22:13:07Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Sunday Science Chat with a  PhD Astronomer! #partnerpush #NASA #science #space #stem #scientist #climatechange #climatescience",
+      "game": "Science & Technology",
+      "started_at": "2026-07-26T22:49:26Z"
     }
   ]
 }
