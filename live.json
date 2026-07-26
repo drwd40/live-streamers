@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-26T05:03:33.724Z",
+  "timestamp": "2026-07-26T06:10:01.900Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-07-26T04:22:08Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "The Soldering - Electronics - DIY",
-      "game": "Science & Technology",
-      "started_at": "2026-07-25T21:00:00Z"
-    },
-    {
       "username": "SharkG33k",
       "title": "SHARKATHON Day 2 🦈| Fundraising for Twitch's first LIVE shark encounter! | !TFT",
       "game": "Assassin's Creed Black Flag Resynced",
       "started_at": "2026-07-26T00:38:07Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "The Soldering - Electronics - DIY",
+      "game": "Science & Technology",
+      "started_at": "2026-07-25T21:00:00Z"
     },
     {
       "username": "walkingsticklibrary",
