@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-27T14:17:36.254Z",
+  "timestamp": "2026-07-27T15:19:23.840Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "try to learn something today :)",
       "game": "Just Chatting",
       "started_at": "2026-07-27T10:01:48Z"
+    },
+    {
+      "username": "Andilippi",
+      "title": "What is this mod!?",
+      "game": "Crash Bandicoot 2: Cortex Strikes Back",
+      "started_at": "2026-07-27T14:21:23Z"
     }
   ]
 }
