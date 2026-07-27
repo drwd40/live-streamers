@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-27T20:46:23.986Z",
+  "timestamp": "2026-07-27T21:14:49.297Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-07-27T13:01:59Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "Chat we have to cook. Lets make crane parts for KSP! (Part 1) 7/27/26",
-      "game": "Kerbal Space Program",
-      "started_at": "2026-07-27T16:06:05Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "🦖🦴 UTAH DINOSAUR DIG ⛏️ Day 10  Just loving the extreme heat, dust, and paucity of good bones near Moab, Utah, USA",
       "game": "IRL",
       "started_at": "2026-07-27T20:00:07Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "EJ's Space and Rocket Revue! 7/27/26",
+      "game": "Science & Technology",
+      "started_at": "2026-07-27T16:06:05Z"
     },
     {
       "username": "IrishJohnGames",
@@ -26,10 +26,10 @@
       "started_at": "2026-07-27T18:59:23Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "Physics 1B",
-      "game": "Just Chatting",
-      "started_at": "2026-07-27T19:29:26Z"
+      "username": "nSimplexPachinko",
+      "title": "Digging into Math Communication for Social Justice: Transparency is always better - 20260727",
+      "game": "Math",
+      "started_at": "2026-07-27T20:56:10Z"
     }
   ]
 }
