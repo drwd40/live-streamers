@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-28T22:11:20.297Z",
+  "timestamp": "2026-07-28T22:36:00.432Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,28 +26,28 @@
       "started_at": "2026-07-28T21:50:23Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Modular Synth Madness - Nonlinear Circuits - FrakRack - DIY - JAMZ",
-      "game": "Music",
-      "started_at": "2026-07-28T20:00:08Z"
-    },
-    {
       "username": "shnaff",
       "title": "Guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2026-07-28T22:01:11Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "Bringing Power to Dark Places; Starting Day 44; Blue Prince, Night 019 - 20260728",
-      "game": "Blue Prince",
-      "started_at": "2026-07-28T21:07:55Z"
+      "username": "SydHeresy",
+      "title": "Modular Synth Madness - Nonlinear Circuits - FrakRack - DIY - JAMZ",
+      "game": "Music",
+      "started_at": "2026-07-28T20:00:08Z"
     },
     {
       "username": "eToThe2iPi",
       "title": "Vector Calculus: Divergence + Curl + MOAR!",
       "game": "Math",
       "started_at": "2026-07-28T22:07:23Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Bringing Power to Dark Places; Starting Day 44; Blue Prince, Night 019 - 20260728",
+      "game": "Blue Prince",
+      "started_at": "2026-07-28T21:07:55Z"
     }
   ]
 }
