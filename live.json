@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-28T00:10:04.004Z",
+  "timestamp": "2026-07-28T00:49:42.918Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -9,8 +9,8 @@
     },
     {
       "username": "EJ_SA",
-      "title": "EJ's Space and Rocket Revue! 7/27/26",
-      "game": "Science & Technology",
+      "title": "MONDAY NIGHT BATTLEFIELD! 7/27/26",
+      "game": "Battlefield 6",
       "started_at": "2026-07-27T16:06:05Z"
     },
     {
@@ -20,16 +20,28 @@
       "started_at": "2026-07-27T21:50:00Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
-      "game": "Just Chatting",
-      "started_at": "2026-07-28T00:06:00Z"
+      "username": "SciAnts_Streams",
+      "title": "Microscopy Monday | Tiny worlds under the microscope + evolution of caffeine! | Partner+ 267/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2026-07-28T00:34:33Z"
     },
     {
       "username": "SharkG33k",
       "title": "SHARKATHON Day 3 🦈| Fundraising for Twitch's first LIVE shark encounter! | !TFT !subathon",
       "game": "Assassin's Creed Black Flag Resynced",
       "started_at": "2026-07-28T00:08:16Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-07-28T00:06:00Z"
+    },
+    {
+      "username": "happyknightmares",
+      "title": "IRL - Evening walk along the coolest street in the world, with Big_Duckie_Snow",
+      "game": "IRL",
+      "started_at": "2026-07-28T00:41:32Z"
     }
   ]
 }
