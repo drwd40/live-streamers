@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-28T19:23:44.359Z",
+  "timestamp": "2026-07-28T19:57:43.108Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,22 +8,28 @@
       "started_at": "2026-07-27T13:01:59Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "Making bridge crane parts for KSP! (Part 2) 7/28/26",
-      "game": "Kerbal Space Program",
-      "started_at": "2026-07-28T16:05:46Z"
-    },
-    {
       "username": "ipaintbirbs",
       "title": "duck stamp competition painting, working on da duck",
       "game": "Art",
       "started_at": "2026-07-28T16:05:52Z"
     },
     {
+      "username": "EJ_SA",
+      "title": "Making bridge crane parts for KSP! (Part 2) 7/28/26",
+      "game": "Kerbal Space Program",
+      "started_at": "2026-07-28T16:05:46Z"
+    },
+    {
       "username": "Zachap",
       "title": "democracy in the workplace can exist and does exist in certain orgs. why act like it's impossible?",
       "game": "Just Chatting",
       "started_at": "2026-07-28T10:23:25Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "🦕🦴 UTAH DINOSAUR DIG  Day 11 ⛏️ Continuing excavation of our new iguanodont species near Moab, Utah, USA ⚠️ Stream 2hrs EARLY tomorrow",
+      "game": "IRL",
+      "started_at": "2026-07-28T19:52:48Z"
     },
     {
       "username": "oh_bother",
@@ -42,6 +48,12 @@
       "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
       "game": "Just Chatting",
       "started_at": "2026-07-28T19:20:22Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "Physics 1B",
+      "game": "Just Chatting",
+      "started_at": "2026-07-28T19:30:13Z"
     }
   ]
 }
