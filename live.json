@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-28T22:36:00.432Z",
+  "timestamp": "2026-07-28T22:59:34.773Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,16 @@
       "started_at": "2026-07-28T22:01:11Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Modular Synth Madness - Nonlinear Circuits - FrakRack - DIY - JAMZ",
-      "game": "Music",
-      "started_at": "2026-07-28T20:00:08Z"
-    },
-    {
       "username": "eToThe2iPi",
       "title": "Vector Calculus: Divergence + Curl + MOAR!",
       "game": "Math",
       "started_at": "2026-07-28T22:07:23Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Modular Synth Madness - Nonlinear Circuits - FrakRack - DIY - JAMZ",
+      "game": "Music",
+      "started_at": "2026-07-28T20:00:08Z"
     },
     {
       "username": "nSimplexPachinko",
