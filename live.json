@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-07-29T20:36:03.350Z",
+  "timestamp": "2026-07-29T20:59:14.973Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-07-29T13:02:01Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "🦖🦴 UTAH DINOSAUR DIG ⛏️ Day 12  Plaster jacketing an iguanodont scapula and answering viewer questions ⛏️ near Moab, Utah, USA",
-      "game": "IRL",
-      "started_at": "2026-07-29T17:54:12Z"
     },
     {
       "username": "EJ_SA",
@@ -26,10 +20,10 @@
       "started_at": "2026-07-29T10:03:40Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "Physics 1B",
-      "game": "Just Chatting",
-      "started_at": "2026-07-29T19:29:59Z"
+      "username": "nSimplexPachinko",
+      "title": "Intro to Partial Differential Equations; Schaum's Outlines, 002 - 20260729",
+      "game": "Math",
+      "started_at": "2026-07-29T20:41:36Z"
     }
   ]
 }
