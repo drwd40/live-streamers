@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-29T20:59:14.973Z",
+  "timestamp": "2026-07-29T21:22:55.816Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -9,8 +9,8 @@
     },
     {
       "username": "EJ_SA",
-      "title": "Modifying cars to do things they have no business doing! BEAM.NG DRIVE! 7/29/26",
-      "game": "BeamNG.drive",
+      "title": "EJ's Space and Rocket Revue! 7/29/26",
+      "game": "Science & Technology",
       "started_at": "2026-07-29T16:09:46Z"
     },
     {
@@ -18,6 +18,12 @@
       "title": "you have 1 job, click a thing on discord :)",
       "game": "Just Chatting",
       "started_at": "2026-07-29T10:03:40Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and learning some Linear Algebra for some reason",
+      "game": "Math",
+      "started_at": "2026-07-29T21:13:32Z"
     },
     {
       "username": "nSimplexPachinko",
