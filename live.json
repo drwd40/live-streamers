@@ -1,17 +1,23 @@
 {
-  "timestamp": "2026-07-29T12:32:43.102Z",
+  "timestamp": "2026-07-29T13:11:48.592Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
-      "started_at": "2026-07-27T13:01:59Z"
+      "started_at": "2026-07-29T13:02:01Z"
     },
     {
       "username": "Zachap",
       "title": "you have 1 job, click a thing on discord :)",
       "game": "Just Chatting",
       "started_at": "2026-07-29T10:03:40Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Coffee with a scientist.  Space News.  #NASA #science #space scientist #climatechange #climatescience",
+      "game": "Science & Technology",
+      "started_at": "2026-07-29T12:49:17Z"
     }
   ]
 }
