@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-29T23:39:17.514Z",
+  "timestamp": "2026-07-30T00:03:39.492Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -42,6 +42,18 @@
       "title": "Intro to Partial Differential Equations; Schaum's Outlines, 002 - 20260729",
       "game": "Math",
       "started_at": "2026-07-29T20:41:36Z"
+    },
+    {
+      "username": "nogre0",
+      "title": "novelty & philosophy",
+      "game": "Just Chatting",
+      "started_at": "2026-07-30T00:00:10Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-07-30T00:02:41Z"
     }
   ]
 }
