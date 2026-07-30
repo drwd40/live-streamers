@@ -1,10 +1,16 @@
 {
-  "timestamp": "2026-07-30T16:44:15.475Z",
+  "timestamp": "2026-07-30T17:14:18.434Z",
   "live": [
     {
-      "username": "AlveusSanctuary",
-      "title": "Chat Chats w/ Dr. Julie | !alveus !institute !pixel !schedule !video",
+      "username": "Kitboga",
+      "title": "Hunting Scammers [Ep. 1542]",
       "game": "Just Chatting",
+      "started_at": "2026-07-30T16:48:13Z"
+    },
+    {
+      "username": "AlveusSanctuary",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
+      "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-07-29T13:02:01Z"
     },
     {
@@ -36,6 +42,12 @@
       "title": "Finishing a PCB design is just as hard as starting it. Eurorack modules and fusion360! #autocadad",
       "game": "Science & Technology",
       "started_at": "2026-07-30T16:39:54Z"
+    },
+    {
+      "username": "GeneralSte",
+      "title": "BIRTHDAY STREAM!! UNLOCK THE BALDURS GATE COSPLAY!!!  | !linktree !discord",
+      "game": "Quarantine Zone: The Last Check",
+      "started_at": "2026-07-30T17:00:40Z"
     }
   ]
 }
