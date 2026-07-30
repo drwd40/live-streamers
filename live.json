@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-30T22:39:21.068Z",
+  "timestamp": "2026-07-30T23:05:18.131Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,12 +32,6 @@
       "started_at": "2026-07-30T12:24:12Z"
     },
     {
-      "username": "GeoJim2006",
-      "title": "Back from the Beach - Back to the Rock!🔍🔬🪨 !discord !nova !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-07-30T20:02:56Z"
-    },
-    {
       "username": "shnaff",
       "title": "Guitar, piano, and singing in !stereo🎧",
       "game": "Music",
@@ -48,6 +42,24 @@
       "title": "More Of That Modular Synth Goodness - NLC - ASMR - DIY",
       "game": "Music",
       "started_at": "2026-07-30T20:01:08Z"
+    },
+    {
+      "username": "GeoJim2006",
+      "title": "Back from the Beach - Back to the Rock!🔍🔬🪨 !discord !nova !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-07-30T20:02:56Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Could we detect ancient civilizations on the Earth Part 3? Bees on mars?  #NASA #science #space scientist #climatechange #climatescience",
+      "game": "Science & Technology",
+      "started_at": "2026-07-30T22:49:20Z"
+    },
+    {
+      "username": "MelissaInDeNile",
+      "title": "Which island should we sail to next in Assassin's Creed: Black Flag Resynced?? ~ Follower Goal: 2414/2600 ~ !socials !beyonddenile",
+      "game": "Assassin's Creed Black Flag Resynced",
+      "started_at": "2026-07-30T22:49:43Z"
     }
   ]
 }
