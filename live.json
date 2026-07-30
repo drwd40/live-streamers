@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-30T00:03:39.492Z",
+  "timestamp": "2026-07-30T00:46:41.548Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,12 +14,6 @@
       "started_at": "2026-07-29T16:09:46Z"
     },
     {
-      "username": "JapanesePrintmaking",
-      "title": "Making Japanese woodblock prints ... live while you watch ...",
-      "game": "Makers & Crafting",
-      "started_at": "2026-07-29T22:59:51Z"
-    },
-    {
       "username": "ipaintbirbs",
       "title": "can i paint dat duck????",
       "game": "Art",
@@ -32,22 +26,22 @@
       "started_at": "2026-07-29T21:50:27Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and learning some Linear Algebra for some reason",
-      "game": "Math",
-      "started_at": "2026-07-29T21:13:32Z"
-    },
-    {
-      "username": "nSimplexPachinko",
-      "title": "Intro to Partial Differential Equations; Schaum's Outlines, 002 - 20260729",
-      "game": "Math",
-      "started_at": "2026-07-29T20:41:36Z"
+      "username": "SharkG33k",
+      "title": "Water Wednesday | Chat's Choice Shark Dive!🦈| !TFT",
+      "game": "Science & Technology",
+      "started_at": "2026-07-30T00:05:44Z"
     },
     {
       "username": "nogre0",
       "title": "novelty & philosophy",
       "game": "Just Chatting",
       "started_at": "2026-07-30T00:00:10Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and learning some Linear Algebra for some reason",
+      "game": "Math",
+      "started_at": "2026-07-29T21:13:32Z"
     },
     {
       "username": "ActualEducation",
