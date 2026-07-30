@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-30T19:23:32.737Z",
+  "timestamp": "2026-07-30T19:58:11.125Z",
   "live": [
     {
       "username": "Kitboga",
@@ -21,8 +21,8 @@
     },
     {
       "username": "DrawCuriosity",
-      "title": "🎉[12HR] Trying Pathogenic! - BIRTHDAY STREAM (I finally have Internet, let's goooo)✨🐏!tier2 !tier3 (for BTS) - New badges!!",
-      "game": "Pathogenic",
+      "title": "🎉[12HR] Hades First Playthrough! - BIRTHDAY STREAM (I finally have Internet, let's goooo)✨🐏!tier2 !tier3 (for BTS) - New badges!!",
+      "game": "Hades",
       "started_at": "2026-07-30T08:07:02Z"
     },
     {
@@ -44,6 +44,12 @@
       "started_at": "2026-07-30T16:39:54Z"
     },
     {
+      "username": "DrMick",
+      "title": "Mental Health Chat + Painting 40k",
+      "game": "Miniatures & Models",
+      "started_at": "2026-07-30T19:18:34Z"
+    },
+    {
       "username": "IrishJohnGames",
       "title": "🍀 5 Months in Early Access!! Jern Jam open & Major Update release! | !charity !rop !patreon !discord",
       "game": "Software and Game Development",
@@ -51,7 +57,7 @@
     },
     {
       "username": "GeneralSte",
-      "title": "BIRTHDAY STREAM!! UNLOCK THE BALDURS GATE COSPLAY!!!  | !linktree !discord",
+      "title": "BALDURS GATE COSPLAY!!! BIRTHDAY STREAM!!  | !linktree !discord",
       "game": "Baldur's Gate 3",
       "started_at": "2026-07-30T17:28:41Z"
     },
@@ -62,16 +68,34 @@
       "started_at": "2026-07-30T17:59:04Z"
     },
     {
-      "username": "DrMick",
-      "title": "Mental Health Chat + Painting 40k",
-      "game": "Miniatures & Models",
-      "started_at": "2026-07-30T19:18:34Z"
+      "username": "Paleontologizing",
+      "title": "🦕🦴 UTAH DINOSAUR DIG  Day 13 ⛏️ Fossil excavation and paleontology Q&A with the Utah Geological Survey  near Moab, Utah, USA",
+      "game": "IRL",
+      "started_at": "2026-07-30T19:54:56Z"
+    },
+    {
+      "username": "PotteryDojo",
+      "title": "Pottery: Making Bonsai Pots | Throwing | Batch # 20 | Batch Total: 0",
+      "game": "Art",
+      "started_at": "2026-07-30T19:36:06Z"
     },
     {
       "username": "DrAlexanderClarke",
       "title": "The Press Gang, myth and reality...",
       "game": "Just Chatting",
       "started_at": "2026-07-30T18:34:05Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "Real Analysis Lesson #16 [(off) !fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-07-30T19:54:29Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "Physics 1B",
+      "game": "Just Chatting",
+      "started_at": "2026-07-30T19:30:39Z"
     }
   ]
 }
