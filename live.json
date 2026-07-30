@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-30T12:43:38.308Z",
+  "timestamp": "2026-07-30T13:16:21.750Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "HOUSE RENO painting & ants day 3 💜 Architecture IRL 💜",
       "game": "IRL",
       "started_at": "2026-07-30T12:24:12Z"
+    },
+    {
+      "username": "csharpfritz",
+      "title": "Calendar App with .NET MAUI and Live Tiles",
+      "game": "Software and Game Development",
+      "started_at": "2026-07-30T13:00:28Z"
     }
   ]
 }
