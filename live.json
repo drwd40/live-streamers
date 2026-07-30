@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-30T18:18:38.931Z",
+  "timestamp": "2026-07-30T18:51:37.363Z",
   "live": [
     {
       "username": "Kitboga",
@@ -22,14 +22,8 @@
     {
       "username": "SciAnts_Streams",
       "title": "RE6 Finale with @kimmydnc! | In game science, blastin and more! AC Black Flag Later! | Partner+ 311/300 | !ppp !yt !pod !jj",
-      "game": "Resident Evil 6",
+      "game": "Assassin's Creed Black Flag Resynced",
       "started_at": "2026-07-30T16:00:29Z"
-    },
-    {
-      "username": "Zachap",
-      "title": "Why don't more socialists refer to Chile in the early 1970s more often as an example?",
-      "game": "Just Chatting",
-      "started_at": "2026-07-30T10:01:03Z"
     },
     {
       "username": "ArchitectureTV",
@@ -38,10 +32,22 @@
       "started_at": "2026-07-30T12:24:12Z"
     },
     {
+      "username": "Zachap",
+      "title": "Why don't more socialists refer to Chile in the early 1970s more often as an example?",
+      "game": "Just Chatting",
+      "started_at": "2026-07-30T10:01:03Z"
+    },
+    {
       "username": "oh_bother",
       "title": "Finishing a PCB design is just as hard as starting it. Eurorack modules and fusion360! #autocadad",
       "game": "Science & Technology",
       "started_at": "2026-07-30T16:39:54Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀 5 Months in Early Access!! Jern Jam open & Major Update release! | !charity !rop !patreon !discord",
+      "game": "Software and Game Development",
+      "started_at": "2026-07-30T18:13:32Z"
     },
     {
       "username": "GeneralSte",
@@ -56,10 +62,10 @@
       "started_at": "2026-07-30T17:59:04Z"
     },
     {
-      "username": "IrishJohnGames",
-      "title": "🍀 5 Months in Early Access!! Jern Jam open & Major Update release! | !charity !rop !patreon !discord",
-      "game": "Software and Game Development",
-      "started_at": "2026-07-30T18:13:32Z"
+      "username": "DrAlexanderClarke",
+      "title": "The Press Gang, myth and reality...",
+      "game": "Just Chatting",
+      "started_at": "2026-07-30T18:34:05Z"
     }
   ]
 }
