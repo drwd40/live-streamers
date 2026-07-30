@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-30T00:46:41.548Z",
+  "timestamp": "2026-07-30T01:17:57.876Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,6 +26,12 @@
       "started_at": "2026-07-29T21:50:27Z"
     },
     {
+      "username": "SciAnts_Streams",
+      "title": "Wacom Wednesday | Science art, white shark science, and science rabbit holes galore! | Partner+ 305/300 | !ppp !yt !pod",
+      "game": "Science & Technology",
+      "started_at": "2026-07-30T01:02:25Z"
+    },
+    {
       "username": "SharkG33k",
       "title": "Water Wednesday | Chat's Choice Shark Dive!🦈| !TFT",
       "game": "Science & Technology",
@@ -38,16 +44,16 @@
       "started_at": "2026-07-30T00:00:10Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and learning some Linear Algebra for some reason",
-      "game": "Math",
-      "started_at": "2026-07-29T21:13:32Z"
-    },
-    {
       "username": "ActualEducation",
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Just Chatting",
       "started_at": "2026-07-30T00:02:41Z"
+    },
+    {
+      "username": "Moohoodles",
+      "title": "🪐 Astrobiology & Space News ✨",
+      "game": "Science & Technology",
+      "started_at": "2026-07-30T01:16:04Z"
     }
   ]
 }
