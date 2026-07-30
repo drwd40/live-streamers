@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-30T17:48:59.525Z",
+  "timestamp": "2026-07-30T18:18:38.931Z",
   "live": [
     {
       "username": "Kitboga",
@@ -9,8 +9,8 @@
     },
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
-      "game": "Animals, Aquariums, and Zoos",
+      "title": "Live, Laugh, Lukas | !alveus !institute !pixel !schedule !video",
+      "game": "Just Chatting",
       "started_at": "2026-07-29T13:02:01Z"
     },
     {
@@ -48,6 +48,18 @@
       "title": "BIRTHDAY STREAM!! UNLOCK THE BALDURS GATE COSPLAY!!!  | !linktree !discord",
       "game": "Quarantine Zone: The Last Check",
       "started_at": "2026-07-30T17:28:41Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Electrical Potential -- Physics Study Group",
+      "game": "Science & Technology",
+      "started_at": "2026-07-30T17:59:04Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀 5 Months in Early Access!! Jern Jam open & Major Update release! | !charity !rop !patreon !discord",
+      "game": "Software and Game Development",
+      "started_at": "2026-07-30T18:13:32Z"
     }
   ]
 }
