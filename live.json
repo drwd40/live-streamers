@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-30T22:14:01.416Z",
+  "timestamp": "2026-07-30T22:39:21.068Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,18 +32,6 @@
       "started_at": "2026-07-30T12:24:12Z"
     },
     {
-      "username": "DrMick",
-      "title": "Mental Health Chat + Painting 40k",
-      "game": "Miniatures & Models",
-      "started_at": "2026-07-30T19:18:34Z"
-    },
-    {
-      "username": "SydHeresy",
-      "title": "More Of That Modular Synth Goodness - NLC - ASMR - DIY",
-      "game": "Music",
-      "started_at": "2026-07-30T20:01:08Z"
-    },
-    {
       "username": "GeoJim2006",
       "title": "Back from the Beach - Back to the Rock!🔍🔬🪨 !discord !nova !tkf",
       "game": "Science & Technology",
@@ -54,6 +42,12 @@
       "title": "Guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2026-07-30T22:01:17Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "More Of That Modular Synth Goodness - NLC - ASMR - DIY",
+      "game": "Music",
+      "started_at": "2026-07-30T20:01:08Z"
     }
   ]
 }
