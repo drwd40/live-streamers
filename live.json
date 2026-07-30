@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-30T12:03:06.985Z",
+  "timestamp": "2026-07-30T12:43:38.308Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -9,8 +9,8 @@
     },
     {
       "username": "DrawCuriosity",
-      "title": "🎉[12HR] BIRTHDAY STREAM (I finally have Internet, let's goooo)✨🐏!tier2 !tier3 (for BTS) - New badges!!",
-      "game": "Special Events",
+      "title": "🎉[12HR] Trying Pathogenic! - BIRTHDAY STREAM (I finally have Internet, let's goooo)✨🐏!tier2 !tier3 (for BTS) - New badges!!",
+      "game": "Pathogenic",
       "started_at": "2026-07-30T08:07:02Z"
     },
     {
@@ -18,6 +18,12 @@
       "title": "Why don't more socialists refer to Chile in the early 1970s more often as an example?",
       "game": "Just Chatting",
       "started_at": "2026-07-30T10:01:03Z"
+    },
+    {
+      "username": "ArchitectureTV",
+      "title": "HOUSE RENO painting & ants day 3 💜 Architecture IRL 💜",
+      "game": "IRL",
+      "started_at": "2026-07-30T12:24:12Z"
     }
   ]
 }
