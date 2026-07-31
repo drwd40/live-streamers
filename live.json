@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-31T16:51:18.166Z",
+  "timestamp": "2026-07-31T17:23:52.108Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "painting one thousand spots on the side of my duck",
       "game": "Art",
       "started_at": "2026-07-31T16:07:03Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "EJ's Space and Rocket Revue! 7/31/26",
+      "game": "Science & Technology",
+      "started_at": "2026-07-31T17:10:18Z"
     },
     {
       "username": "DrawCuriosity",
