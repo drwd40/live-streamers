@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-31T20:39:37.619Z",
+  "timestamp": "2026-07-31T21:04:53.155Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-07-31T17:10:18Z"
     },
     {
-      "username": "ipaintbirbs",
-      "title": "painting one thousand spots on the side of my duck",
-      "game": "Art",
-      "started_at": "2026-07-31T16:07:03Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "🦖🦴 UTAH DINOSAUR DIG ⛏️ Day 14  Trying to find more bones as our last week begins 🏜️ near Moab, Utah, USA",
       "game": "IRL",
       "started_at": "2026-07-31T19:55:33Z"
+    },
+    {
+      "username": "ipaintbirbs",
+      "title": "painting one thousand spots on the side of my duck",
+      "game": "Art",
+      "started_at": "2026-07-31T16:07:03Z"
     },
     {
       "username": "DrawCuriosity",
