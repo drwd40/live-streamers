@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-30T23:52:39.714Z",
+  "timestamp": "2026-07-31T00:16:05.688Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,6 +38,12 @@
       "started_at": "2026-07-30T22:01:17Z"
     },
     {
+      "username": "AstroCanuck",
+      "title": "Astro's Po'Pourri: Christmas in !July - !sticker - (SU2C Prep and Space & LEGO News) | !PGV | !drop !tkf",
+      "game": "Lego & Brickbuilding",
+      "started_at": "2026-07-31T00:02:15Z"
+    },
+    {
       "username": "GeoJim2006",
       "title": "Back from the Beach - Back to the Rock!🔍🔬🪨 !discord !nova !tkf",
       "game": "Science & Technology",
@@ -51,9 +57,21 @@
     },
     {
       "username": "MelissaInDeNile",
-      "title": "Which island should we sail to next in Assassin's Creed: Black Flag Resynced?? ~ Follower Goal: 2414/2600 ~ !socials !beyonddenile",
-      "game": "Assassin's Creed Black Flag Resynced",
+      "title": "Black Flag isn't working so how about a Game Demo Day? ~ Follower Goal: 2414/2600 ~ !socials !beyonddenile",
+      "game": "Just Chatting",
       "started_at": "2026-07-30T22:49:43Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Black Flag Resynced! | I brake for shark dives🦈| !TFT",
+      "game": "Science & Technology",
+      "started_at": "2026-07-31T00:04:21Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-07-31T00:00:23Z"
     }
   ]
 }
