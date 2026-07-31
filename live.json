@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-31T16:12:27.966Z",
+  "timestamp": "2026-07-31T16:51:18.166Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,10 +8,10 @@
       "started_at": "2026-07-31T13:02:04Z"
     },
     {
-      "username": "Zachap",
-      "title": "i posted a youtube video lol, also, what happens with AI if solarflare?",
-      "game": "Just Chatting",
-      "started_at": "2026-07-31T10:00:14Z"
+      "username": "ipaintbirbs",
+      "title": "painting one thousand spots on the side of my duck",
+      "game": "Art",
+      "started_at": "2026-07-31T16:07:03Z"
     },
     {
       "username": "DrawCuriosity",
@@ -20,10 +20,16 @@
       "started_at": "2026-07-31T15:51:39Z"
     },
     {
-      "username": "ipaintbirbs",
-      "title": "painting one thousand spots on the side of my duck",
-      "game": "Art",
-      "started_at": "2026-07-31T16:07:03Z"
+      "username": "Zachap",
+      "title": "i posted a youtube video lol, also, what happens with AI if solarflare?",
+      "game": "Just Chatting",
+      "started_at": "2026-07-31T10:00:14Z"
+    },
+    {
+      "username": "oh_bother",
+      "title": "Eurorack module builds. Let's start building stuff and find out I have to order a bunch of parts.",
+      "game": "Science & Technology",
+      "started_at": "2026-07-31T16:14:52Z"
     }
   ]
 }
