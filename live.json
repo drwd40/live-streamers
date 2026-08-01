@@ -1,11 +1,17 @@
 {
-  "timestamp": "2026-08-01T19:26:39.650Z",
+  "timestamp": "2026-08-01T19:53:55.448Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-07-31T13:02:04Z"
+    },
+    {
+      "username": "Maya",
+      "title": "🏆 STREAMER GAMES ALL-STARS DAY 1",
+      "game": "Streamer Games",
+      "started_at": "2026-08-01T19:49:09Z"
     },
     {
       "username": "ArchitectureTV",
@@ -26,16 +32,16 @@
       "started_at": "2026-08-01T18:01:11Z"
     },
     {
-      "username": "Rocketology",
-      "title": "!drops !freefly Been a Minute Since I last Played...",
-      "game": "Star Citizen",
-      "started_at": "2026-08-01T18:13:50Z"
-    },
-    {
       "username": "DonFactorial",
       "title": "Answering your math questions and learning Linear Algebra",
       "game": "Math",
       "started_at": "2026-08-01T18:57:45Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "!drops !freefly Been a Minute Since I last Played...",
+      "game": "Star Citizen",
+      "started_at": "2026-08-01T18:13:50Z"
     }
   ]
 }
