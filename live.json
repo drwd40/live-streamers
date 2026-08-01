@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-01T20:15:21.406Z",
+  "timestamp": "2026-08-01T20:34:23.239Z",
   "live": [
     {
       "username": "Maya",
@@ -38,16 +38,16 @@
       "started_at": "2026-08-01T18:01:11Z"
     },
     {
-      "username": "Rocketology",
-      "title": "!drops !freefly Been a Minute Since I last Played...",
-      "game": "Star Citizen",
-      "started_at": "2026-08-01T18:13:50Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Can Chat Build A Better Patch? - Modular Synth - Nonlinear Circuits - Eurorack",
       "game": "Music",
       "started_at": "2026-08-01T20:00:42Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "!drops !freefly Been a Minute Since I last Played...",
+      "game": "Star Citizen",
+      "started_at": "2026-08-01T18:13:50Z"
     },
     {
       "username": "DonFactorial",
