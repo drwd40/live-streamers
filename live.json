@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-01T21:38:36.261Z",
+  "timestamp": "2026-08-01T22:02:05.033Z",
   "live": [
     {
       "username": "Maya",
@@ -26,28 +26,16 @@
       "started_at": "2026-08-01T15:43:37Z"
     },
     {
-      "username": "Zachap",
-      "title": "people aren't that bad if class conscious",
-      "game": "Just Chatting",
-      "started_at": "2026-08-01T10:01:34Z"
-    },
-    {
-      "username": "SydHeresy",
-      "title": "Can Chat Build A Better Patch? - Modular Synth - Nonlinear Circuits - Eurorack",
-      "game": "Music",
-      "started_at": "2026-08-01T20:00:42Z"
-    },
-    {
       "username": "DonFactorial",
       "title": "Answering your math questions and learning Linear Algebra",
       "game": "Math",
       "started_at": "2026-08-01T18:57:45Z"
     },
     {
-      "username": "Rocketology",
-      "title": "!drops !freefly Been a Minute Since I last Played...",
-      "game": "Star Citizen",
-      "started_at": "2026-08-01T18:13:50Z"
+      "username": "SydHeresy",
+      "title": "Can Chat Build A Better Patch? - Modular Synth - Nonlinear Circuits - Eurorack",
+      "game": "Music",
+      "started_at": "2026-08-01T20:00:42Z"
     }
   ]
 }
