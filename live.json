@@ -1,6 +1,12 @@
 {
-  "timestamp": "2026-08-01T19:53:55.448Z",
+  "timestamp": "2026-08-01T20:15:21.406Z",
   "live": [
+    {
+      "username": "Maya",
+      "title": "🏆 STREAMER GAMES ALL-STARS DAY 1",
+      "game": "Streamer Games",
+      "started_at": "2026-08-01T19:49:09Z"
+    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
@@ -8,10 +14,10 @@
       "started_at": "2026-07-31T13:02:04Z"
     },
     {
-      "username": "Maya",
-      "title": "🏆 STREAMER GAMES ALL-STARS DAY 1",
-      "game": "Streamer Games",
-      "started_at": "2026-08-01T19:49:09Z"
+      "username": "Paleontologizing",
+      "title": "🦕🦴 UTAH DINOSAUR DIG  Day 15 ⛏️  Excavating more of our new iguanodont dinosaur from the earliest Cretaceous Period near Moab, Utah, USA",
+      "game": "IRL",
+      "started_at": "2026-08-01T19:55:55Z"
     },
     {
       "username": "ArchitectureTV",
@@ -32,16 +38,22 @@
       "started_at": "2026-08-01T18:01:11Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and learning Linear Algebra",
-      "game": "Math",
-      "started_at": "2026-08-01T18:57:45Z"
-    },
-    {
       "username": "Rocketology",
       "title": "!drops !freefly Been a Minute Since I last Played...",
       "game": "Star Citizen",
       "started_at": "2026-08-01T18:13:50Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Can Chat Build A Better Patch? - Modular Synth - Nonlinear Circuits - Eurorack",
+      "game": "Music",
+      "started_at": "2026-08-01T20:00:42Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and learning Linear Algebra",
+      "game": "Math",
+      "started_at": "2026-08-01T18:57:45Z"
     }
   ]
 }
