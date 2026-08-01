@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-01T18:56:55.865Z",
+  "timestamp": "2026-08-01T19:26:39.650Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "!drops !freefly Been a Minute Since I last Played...",
       "game": "Star Citizen",
       "started_at": "2026-08-01T18:13:50Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and learning Linear Algebra",
+      "game": "Math",
+      "started_at": "2026-08-01T18:57:45Z"
     }
   ]
 }
