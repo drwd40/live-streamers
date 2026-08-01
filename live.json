@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-01T22:02:05.033Z",
+  "timestamp": "2026-08-01T22:25:11.551Z",
   "live": [
     {
       "username": "Maya",
@@ -26,16 +26,16 @@
       "started_at": "2026-08-01T15:43:37Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and learning Linear Algebra",
-      "game": "Math",
-      "started_at": "2026-08-01T18:57:45Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Can Chat Build A Better Patch? - Modular Synth - Nonlinear Circuits - Eurorack",
       "game": "Music",
       "started_at": "2026-08-01T20:00:42Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and learning Linear Algebra",
+      "game": "Math",
+      "started_at": "2026-08-01T18:57:45Z"
     }
   ]
 }
