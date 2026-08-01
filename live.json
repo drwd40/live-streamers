@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-01T18:10:21.701Z",
+  "timestamp": "2026-08-01T18:33:05.023Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "🍀 Birthday workin! Some special redeems. | !charity !rop !patreon !discord",
       "game": "Software and Game Development",
       "started_at": "2026-08-01T18:01:11Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "!drops !freefly Been a Minute Since I last Played...",
+      "game": "Star Citizen",
+      "started_at": "2026-08-01T18:13:50Z"
     }
   ]
 }
