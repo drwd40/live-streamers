@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-02T12:06:48.330Z",
+  "timestamp": "2026-08-02T12:32:29.442Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "make society critically think again.",
       "game": "Just Chatting",
       "started_at": "2026-08-02T10:01:06Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "A Bookshop, a Historian... will the books be read or sold?",
+      "game": "Bookshop Simulator",
+      "started_at": "2026-08-02T12:07:31Z"
     }
   ]
 }
