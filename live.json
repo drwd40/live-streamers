@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-02T22:33:51.813Z",
+  "timestamp": "2026-08-02T22:56:23.677Z",
   "live": [
     {
       "username": "Maya",
@@ -32,12 +32,6 @@
       "started_at": "2026-08-02T18:18:36Z"
     },
     {
-      "username": "DrawCuriosity",
-      "title": "🎉 [LONG STRIM!] PARTNER OFFICIAL CELEBRATION!!✨🐏!tier2 !tier3",
-      "game": "Pathogenic",
-      "started_at": "2026-08-02T13:28:14Z"
-    },
-    {
       "username": "Rocketology",
       "title": "Fresh Start - Which One?",
       "game": "X4: Foundations",
@@ -50,10 +44,22 @@
       "started_at": "2026-08-02T22:02:05Z"
     },
     {
+      "username": "Nerduino",
+      "title": "Live backyard astronomy #NASA #science #space scientist #climatechange #climatescience",
+      "game": "Science & Technology",
+      "started_at": "2026-08-02T22:48:23Z"
+    },
+    {
       "username": "DrAlexanderClarke",
       "title": "Bruships 253: Science Fiction & Naval History Questions Answered Live...",
       "game": "Just Chatting",
       "started_at": "2026-08-02T18:33:55Z"
+    },
+    {
+      "username": "MelissaInDeNile",
+      "title": "Drifting Down De Nile and chatting about Pharaoh Names! ~ Follower Goal: 2420/2600 ~ !socials !beyonddenile",
+      "game": "Just Chatting",
+      "started_at": "2026-08-02T22:51:23Z"
     }
   ]
 }
