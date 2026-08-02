@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-02T00:14:57.676Z",
+  "timestamp": "2026-08-02T00:58:07.684Z",
   "live": [
     {
       "username": "Maya",
@@ -24,6 +24,12 @@
       "title": "Can Chat Build A Better Patch? - Modular Synth - Nonlinear Circuits - Eurorack",
       "game": "Music",
       "started_at": "2026-08-01T20:00:42Z"
+    },
+    {
+      "username": "Mr_Aejis",
+      "title": "Vtuber Health Class: Sleep Health!",
+      "game": "Just Chatting",
+      "started_at": "2026-08-02T00:26:38Z"
     }
   ]
 }
