@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-02T15:07:08.946Z",
+  "timestamp": "2026-08-02T15:33:42.578Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-08-02T13:28:14Z"
     },
     {
-      "username": "DrAlexanderClarke",
-      "title": "A Bookshop, a Historian... will the books be read or sold?",
-      "game": "Bookshop Simulator",
-      "started_at": "2026-08-02T12:07:31Z"
-    },
-    {
       "username": "sciencestreams",
       "title": "Avacado reversal | Can monkey's have pets? | Absinthe | Science News - Microscope Time 🔬",
       "game": "Just Chatting",
       "started_at": "2026-08-02T14:23:02Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "A Bookshop, a Historian... will the books be read or sold?",
+      "game": "Bookshop Simulator",
+      "started_at": "2026-08-02T12:07:31Z"
     }
   ]
 }
