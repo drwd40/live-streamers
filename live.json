@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-02T17:30:59.591Z",
+  "timestamp": "2026-08-02T17:53:54.257Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "the calm before the philosophy",
       "game": "Just Chatting",
       "started_at": "2026-08-02T17:00:18Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "Fresh Start - Which One?",
+      "game": "X4: Foundations",
+      "started_at": "2026-08-02T17:52:41Z"
     }
   ]
 }
