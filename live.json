@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-02T01:38:38.924Z",
+  "timestamp": "2026-08-02T02:34:25.774Z",
   "live": [
     {
       "username": "Maya",
@@ -12,6 +12,12 @@
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-07-31T13:02:04Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "WEEKEND TACTICOOL BATTLEFIELD! 8/1/26",
+      "game": "Battlefield 6",
+      "started_at": "2026-08-02T02:19:43Z"
     },
     {
       "username": "ArchitectureTV",
@@ -27,9 +33,15 @@
     },
     {
       "username": "Mr_Aejis",
-      "title": "Vtuber Health Class: Sleep Health!",
-      "game": "Just Chatting",
+      "title": "1st time Persona playthrough!",
+      "game": "Persona 5",
       "started_at": "2026-08-02T00:26:38Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Mike Collins, Colorado River Water Wars, and Ironclad Beetles.",
+      "game": "Science & Technology",
+      "started_at": "2026-08-02T02:06:07Z"
     }
   ]
 }
