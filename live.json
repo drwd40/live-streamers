@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-03T00:06:27.409Z",
+  "timestamp": "2026-08-03T00:53:50.007Z",
   "live": [
     {
       "username": "Maya",
@@ -14,28 +14,10 @@
       "started_at": "2026-08-02T04:51:29Z"
     },
     {
-      "username": "JapanesePrintmaking",
-      "title": "Making Japanese woodblock prints ... live while you watch ...",
-      "game": "Makers & Crafting",
-      "started_at": "2026-08-02T23:00:00Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "🦖🦴 UTAH DINOSAUR DIG ⛏️ Day 16   The excavation of our new iguanodont dinosaur continues near Moab, Utah, USA",
-      "game": "IRL",
-      "started_at": "2026-08-02T19:52:00Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "SUNDAY POLITICS SHOWS",
       "game": "Just Chatting",
       "started_at": "2026-08-02T21:49:54Z"
-    },
-    {
-      "username": "ArchitectureTV",
-      "title": "HOUSE RENO painting, 90s home, Day 500💜 Architecture IRL 💜",
-      "game": "IRL",
-      "started_at": "2026-08-02T18:18:36Z"
     },
     {
       "username": "Nerduino",
@@ -44,16 +26,10 @@
       "started_at": "2026-08-02T22:48:23Z"
     },
     {
-      "username": "shnaff",
-      "title": "Guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-08-02T22:02:05Z"
-    },
-    {
-      "username": "Rocketology",
-      "title": "Fresh Start - Which One?",
-      "game": "X4: Foundations",
-      "started_at": "2026-08-02T17:52:41Z"
+      "username": "ArchitectureTV",
+      "title": "HOUSE RENO painting, 90s home, Day 500💜 Architecture IRL 💜",
+      "game": "IRL",
+      "started_at": "2026-08-02T18:18:36Z"
     },
     {
       "username": "MelissaInDeNile",
