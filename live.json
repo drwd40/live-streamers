@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-02T23:42:16.142Z",
+  "timestamp": "2026-08-03T00:06:27.409Z",
   "live": [
     {
       "username": "Maya",
@@ -38,16 +38,16 @@
       "started_at": "2026-08-02T18:18:36Z"
     },
     {
-      "username": "shnaff",
-      "title": "Guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-08-02T22:02:05Z"
-    },
-    {
       "username": "Nerduino",
       "title": "Live backyard astronomy #NASA #science #space scientist #climatechange #climatescience",
       "game": "Science & Technology",
       "started_at": "2026-08-02T22:48:23Z"
+    },
+    {
+      "username": "shnaff",
+      "title": "Guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-08-02T22:02:05Z"
     },
     {
       "username": "Rocketology",
