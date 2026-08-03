@@ -1,12 +1,6 @@
 {
-  "timestamp": "2026-08-03T04:49:45.415Z",
+  "timestamp": "2026-08-03T05:58:28.463Z",
   "live": [
-    {
-      "username": "Maya",
-      "title": "🏆 STREAMER GAMES ALL-STARS DAY 2",
-      "game": "Streamer Games",
-      "started_at": "2026-08-02T20:29:56Z"
-    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
@@ -14,16 +8,16 @@
       "started_at": "2026-08-02T04:51:29Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "🏴‍☠️SciAnts of the Caribbean🏴‍☠️ | Caribbean ecology, piracy and more | Partner+ 24/300 | !ppp !yt !pod !jj",
-      "game": "Assassin's Creed Black Flag Resynced",
-      "started_at": "2026-08-03T01:00:04Z"
-    },
-    {
       "username": "DrMick",
       "title": "Therapist Plays KCD2: Part 11",
       "game": "Kingdom Come: Deliverance II",
       "started_at": "2026-08-03T04:34:30Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "🏴‍☠️SciAnts of the Caribbean🏴‍☠️ | Caribbean ecology, piracy and more | Partner+ 24/300 | !ppp !yt !pod !jj",
+      "game": "Assassin's Creed Black Flag Resynced",
+      "started_at": "2026-08-03T01:00:04Z"
     },
     {
       "username": "walkingsticklibrary",
