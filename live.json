@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-03T22:40:20.989Z",
+  "timestamp": "2026-08-03T23:05:26.683Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-08-03T21:49:50Z"
     },
     {
-      "username": "Zachap",
-      "title": "can we be pro-science instead of pro-capitalist?",
-      "game": "Just Chatting",
-      "started_at": "2026-08-03T10:01:15Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "Wearing many hats in the coming weeks of game dev (day 73½)",
       "game": "Software and Game Development",
       "started_at": "2026-08-03T20:04:09Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "can we be pro-science instead of pro-capitalist?",
+      "game": "Just Chatting",
+      "started_at": "2026-08-03T10:01:15Z"
     },
     {
       "username": "ArchitectureTV",
