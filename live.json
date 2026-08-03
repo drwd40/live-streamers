@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-03T21:01:10.956Z",
+  "timestamp": "2026-08-03T21:29:41.773Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,22 +20,28 @@
       "started_at": "2026-08-03T20:04:09Z"
     },
     {
-      "username": "Zachap",
-      "title": "can we be pro-science instead of pro-capitalist?",
-      "game": "Just Chatting",
-      "started_at": "2026-08-03T10:01:15Z"
-    },
-    {
       "username": "ArchitectureTV",
       "title": "HOUSE RENO painting, 90s home, Day 500💜 Architecture IRL 💜",
       "game": "IRL",
       "started_at": "2026-08-03T20:53:26Z"
     },
     {
+      "username": "Zachap",
+      "title": "can we be pro-science instead of pro-capitalist?",
+      "game": "Just Chatting",
+      "started_at": "2026-08-03T10:01:15Z"
+    },
+    {
       "username": "IrishJohnGames",
       "title": "🍀 5 Months in Early Access - Rise of Piracy Dev. | !charity !rop !patreon !discord",
       "game": "Software and Game Development",
       "started_at": "2026-08-03T20:22:00Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Intro to Trigonometry with @kittiesplease ; Trigonometry 00 - 20260803",
+      "game": "Math",
+      "started_at": "2026-08-03T21:01:52Z"
     }
   ]
 }
