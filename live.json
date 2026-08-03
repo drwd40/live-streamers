@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-03T01:28:50.291Z",
+  "timestamp": "2026-08-03T02:20:22.882Z",
   "live": [
     {
       "username": "Maya",
@@ -14,18 +14,6 @@
       "started_at": "2026-08-02T04:51:29Z"
     },
     {
-      "username": "imreallyimportant",
-      "title": "SUNDAY POLITICS SHOWS",
-      "game": "Just Chatting",
-      "started_at": "2026-08-02T21:49:54Z"
-    },
-    {
-      "username": "ArchitectureTV",
-      "title": "HOUSE RENO painting, 90s home, Day 500💜 Architecture IRL 💜",
-      "game": "IRL",
-      "started_at": "2026-08-02T18:18:36Z"
-    },
-    {
       "username": "SciAnts_Streams",
       "title": "🏴‍☠️SciAnts of the Caribbean🏴‍☠️ | Caribbean ecology, piracy and more | Partner+ 24/300 | !ppp !yt !pod !jj",
       "game": "Assassin's Creed Black Flag Resynced",
@@ -36,6 +24,12 @@
       "title": "Drifting Down De Nile and chatting about Pharaoh Names! ~ Follower Goal: 2420/2600 ~ !socials !beyonddenile",
       "game": "Just Chatting",
       "started_at": "2026-08-02T22:51:23Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Ironclad beetles. How far can we go or should we go with brain organoids, and mini topics: Teaching correspondence and cleaning a Speedo.",
+      "game": "Science & Technology",
+      "started_at": "2026-08-03T01:31:17Z"
     }
   ]
 }
