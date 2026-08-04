@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-04T12:35:36.379Z",
+  "timestamp": "2026-08-04T13:14:50.149Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "struggletown",
       "game": "Just Chatting",
       "started_at": "2026-08-04T10:00:41Z"
+    },
+    {
+      "username": "csharpfritz",
+      "title": "Building an RSS Feed Reader with Live Tiles",
+      "game": "Software and Game Development",
+      "started_at": "2026-08-04T13:06:21Z"
     }
   ]
 }
