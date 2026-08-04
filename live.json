@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-04T23:17:27.263Z",
+  "timestamp": "2026-08-04T23:40:48.784Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,28 +26,22 @@
       "started_at": "2026-08-04T22:03:33Z"
     },
     {
-      "username": "Rocketology",
-      "title": "The Young Gun Start - Day 2",
-      "game": "X4: Foundations",
-      "started_at": "2026-08-04T18:05:00Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Back To Repairs And Soldering - Electronics - DIY",
       "game": "Science & Technology",
       "started_at": "2026-08-04T21:00:12Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and learning Linear Algebra",
-      "game": "Math",
-      "started_at": "2026-08-04T21:38:39Z"
-    },
-    {
       "username": "GeoJim2006",
       "title": "Geology Field Camp Revisited - 20 Years Later⛰️⛏️🪨 !discord !nova !tkf",
       "game": "Science & Technology",
       "started_at": "2026-08-04T20:00:21Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and learning Linear Algebra",
+      "game": "Math",
+      "started_at": "2026-08-04T21:38:39Z"
     },
     {
       "username": "MelissaInDeNile",
