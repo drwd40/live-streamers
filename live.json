@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-04T15:43:40.670Z",
+  "timestamp": "2026-08-04T16:26:38.633Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,28 @@
       "started_at": "2026-08-04T04:51:32Z"
     },
     {
-      "username": "Zachap",
-      "title": "struggletown",
-      "game": "Just Chatting",
-      "started_at": "2026-08-04T10:00:41Z"
+      "username": "ipaintbirbs",
+      "title": "duck stamp competition: the quiet painting day",
+      "game": "Art",
+      "started_at": "2026-08-04T16:12:36Z"
     },
     {
       "username": "AdamLearnsLive",
       "title": "Addressing playtest feedback (day 74)",
       "game": "Software and Game Development",
       "started_at": "2026-08-04T15:31:52Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "struggletown",
+      "game": "Just Chatting",
+      "started_at": "2026-08-04T10:00:41Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "Abstract Algebra & Real Analysis Tuesday [(off) !fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-08-04T15:57:08Z"
     }
   ]
 }
