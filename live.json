@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-08-04T19:28:33.697Z",
+  "timestamp": "2026-08-04T20:05:34.595Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "PO Box Opening | !alveus !institute !pixel !schedule !video",
-      "game": "Just Chatting",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
+      "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-08-04T04:51:32Z"
     },
     {
@@ -12,6 +12,12 @@
       "title": "duck stamp competition: the quiet painting day",
       "game": "Art",
       "started_at": "2026-08-04T16:12:36Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "🦖🦴 UTAH DINOSAUR DIG ⛏️ Day 18   Finding more bones than we can handle (with just two days left!) near Moab, Utah, USA",
+      "game": "IRL",
+      "started_at": "2026-08-04T19:53:07Z"
     },
     {
       "username": "Zachap",
@@ -30,6 +36,24 @@
       "title": "Tuesday August 4th @2:30pm EDT: Spilling the Tea: Update on all things Tea, Twitch, and Substack",
       "game": "Science & Technology",
       "started_at": "2026-08-04T18:28:24Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "Abstract Algebra & Real Analysis Tuesday [(off) !fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-08-04T19:56:49Z"
+    },
+    {
+      "username": "xTalkProgrammer",
+      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
+      "game": "Just Chatting",
+      "started_at": "2026-08-04T19:29:29Z"
+    },
+    {
+      "username": "GeoJim2006",
+      "title": "Geology Field Camp Revisited - 20 Years Later⛰️⛏️🪨 !discord !nova !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-08-04T20:00:21Z"
     }
   ]
 }
