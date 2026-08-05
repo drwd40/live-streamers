@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-05T06:17:24.260Z",
+  "timestamp": "2026-08-05T07:16:02.423Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,28 +20,16 @@
       "started_at": "2026-08-05T00:50:14Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Back To Repairs And Soldering - Electronics - DIY",
-      "game": "Science & Technology",
-      "started_at": "2026-08-04T21:00:12Z"
-    },
-    {
-      "username": "CosmoQuestX",
-      "title": "Playing with seestar as falcon crashes the Moon",
-      "game": "Science & Technology",
-      "started_at": "2026-08-05T03:17:41Z"
-    },
-    {
       "username": "DrMick",
       "title": "Solo Compiler Runs",
       "game": "Marathon",
       "started_at": "2026-08-05T05:31:32Z"
     },
     {
-      "username": "walkingsticklibrary",
-      "title": "Can you beat Mia? Microplastics and the nervous system, and how the Inca built their walls.",
+      "username": "SydHeresy",
+      "title": "Back To Repairs And Soldering - Electronics - DIY",
       "game": "Science & Technology",
-      "started_at": "2026-08-05T01:32:24Z"
+      "started_at": "2026-08-04T21:00:12Z"
     }
   ]
 }
