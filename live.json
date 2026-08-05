@@ -1,12 +1,6 @@
 {
-  "timestamp": "2026-08-05T19:32:36.790Z",
+  "timestamp": "2026-08-05T20:08:49.711Z",
   "live": [
-    {
-      "username": "Kitboga",
-      "title": "Hunting Scammers [Ep. 1543]",
-      "game": "Just Chatting",
-      "started_at": "2026-08-05T16:40:50Z"
-    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
@@ -26,16 +20,34 @@
       "started_at": "2026-08-05T16:09:27Z"
     },
     {
+      "username": "Paleontologizing",
+      "title": "🦕🦴 UTAH DINOSAUR DIG  Day 19 ⛏️   Final Day of excavating our new iguanodont species this year 🏜️ near Moab, Utah, USA",
+      "game": "IRL",
+      "started_at": "2026-08-05T19:50:03Z"
+    },
+    {
       "username": "Zachap",
       "title": "why would anyone be on the side of the exploiters?",
       "game": "Just Chatting",
       "started_at": "2026-08-05T10:03:21Z"
     },
     {
+      "username": "AdamLearnsLive",
+      "title": "More game design (day 75½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-08-05T19:41:20Z"
+    },
+    {
       "username": "IrishJohnGames",
       "title": "🍀 5 Months in Early Access - Rise of Piracy Dev. | !charity !rop !patreon !discord",
       "game": "Software and Game Development",
       "started_at": "2026-08-05T18:59:46Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "REPO but chat can kill me [Crowd Control]",
+      "game": "R.E.P.O.",
+      "started_at": "2026-08-05T19:59:08Z"
     }
   ]
 }
