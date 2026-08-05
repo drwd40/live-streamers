@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-05T01:19:04.211Z",
+  "timestamp": "2026-08-05T02:05:10.534Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -44,16 +44,22 @@
       "started_at": "2026-08-04T22:50:24Z"
     },
     {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-08-05T00:59:50Z"
+    },
+    {
       "username": "nSimplexPachinko",
       "title": "Time to Read More, Starting Day 47; Night 020, Blue Prince - 20260804",
       "game": "Blue Prince",
       "started_at": "2026-08-04T21:02:23Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
-      "game": "Just Chatting",
-      "started_at": "2026-08-05T00:59:50Z"
+      "username": "walkingsticklibrary",
+      "title": "Can you beat Mia? Microplastics and the nervous system, and how the Inca built their walls.",
+      "game": "Science & Technology",
+      "started_at": "2026-08-05T01:32:24Z"
     }
   ]
 }
