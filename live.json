@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-05T18:22:58.331Z",
+  "timestamp": "2026-08-05T18:57:47.733Z",
   "live": [
     {
       "username": "Kitboga",
@@ -26,22 +26,10 @@
       "started_at": "2026-08-05T16:09:27Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "GAME DESIGN (and some development, probably) (day 75)",
-      "game": "Software and Game Development",
-      "started_at": "2026-08-05T15:31:34Z"
-    },
-    {
       "username": "Zachap",
       "title": "why would anyone be on the side of the exploiters?",
       "game": "Just Chatting",
       "started_at": "2026-08-05T10:03:21Z"
-    },
-    {
-      "username": "DrawCuriosity",
-      "title": "✈️ LAST STREAM BEFORE TRAVELING TO EUROPE! - Testing new tech and gadgets!✨🐏!tier2 !tier3",
-      "game": "Just Chatting",
-      "started_at": "2026-08-05T15:53:25Z"
     }
   ]
 }
