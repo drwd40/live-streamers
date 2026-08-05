@@ -1,11 +1,17 @@
 {
-  "timestamp": "2026-08-05T16:43:53.717Z",
+  "timestamp": "2026-08-05T17:14:20.538Z",
   "live": [
     {
       "username": "Maya",
       "title": "NEW AMBASSADOR ANNOUNCEMENT!!!!‼️‼️‼️ @alveussanctuary",
       "game": "Just Chatting",
       "started_at": "2026-08-05T16:00:33Z"
+    },
+    {
+      "username": "Kitboga",
+      "title": "Hunting Scammers [Ep. 1543]",
+      "game": "Just Chatting",
+      "started_at": "2026-08-05T16:40:50Z"
     },
     {
       "username": "AlveusSanctuary",
@@ -26,10 +32,10 @@
       "started_at": "2026-08-05T16:09:27Z"
     },
     {
-      "username": "Kitboga",
-      "title": "Hunting Scammers [Ep. 1543]",
-      "game": "Just Chatting",
-      "started_at": "2026-08-05T16:40:50Z"
+      "username": "AdamLearnsLive",
+      "title": "GAME DESIGN (and some development, probably) (day 75)",
+      "game": "Software and Game Development",
+      "started_at": "2026-08-05T15:31:34Z"
     },
     {
       "username": "Zachap",
@@ -42,12 +48,6 @@
       "title": "✈️ LAST STREAM BEFORE TRAVELING TO EUROPE! - Testing new tech and gadgets!✨🐏!tier2 !tier3",
       "game": "Just Chatting",
       "started_at": "2026-08-05T15:53:25Z"
-    },
-    {
-      "username": "AdamLearnsLive",
-      "title": "GAME DESIGN (and some development, probably) (day 75)",
-      "game": "Software and Game Development",
-      "started_at": "2026-08-05T15:31:34Z"
     }
   ]
 }
