@@ -1,23 +1,59 @@
 {
-  "timestamp": "2026-08-06T15:25:22.758Z",
+  "timestamp": "2026-08-06T22:11:20.734Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Sit and Stay w/ Sruti Pt. 3 – Alveus Staff Takeover | !alveus !institute !pixel !schedule !video",
-      "game": "Just Chatting",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
+      "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-08-06T04:51:34Z"
     },
     {
-      "username": "Zachap",
-      "title": "\"we got a reader\"",
-      "game": "Just Chatting",
-      "started_at": "2026-08-06T10:01:36Z"
+      "username": "EJ_SA",
+      "title": "EJ's Space and Rocket Revue! 8/6/26",
+      "game": "Science & Technology",
+      "started_at": "2026-08-06T16:34:25Z"
     },
     {
-      "username": "Andilippi",
-      "title": "A.I.R Speedrun! - Have I Got News For You!!! - Testing New Updates etc",
-      "game": "Sonic The Hedgehog",
-      "started_at": "2026-08-06T10:46:17Z"
+      "username": "SciAnts_Streams",
+      "title": "Casually Grounded 2 | Exploring tiny worlds with @tergus86 @darkmuppeteer | Partner+ 53/300 | !ppp !yt !pod !jj",
+      "game": "Science & Technology",
+      "started_at": "2026-08-06T16:06:12Z"
+    },
+    {
+      "username": "imreallyimportant",
+      "title": "ABDUL EL-SAYED NEEDS TO DROP HASAN PIKER",
+      "game": "Just Chatting",
+      "started_at": "2026-08-06T21:57:01Z"
+    },
+    {
+      "username": "DrMick",
+      "title": "Mental Health Chat + Building/Painting/more",
+      "game": "Miniatures & Models",
+      "started_at": "2026-08-06T19:37:06Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "The Young Gun Start - Day 3",
+      "game": "X4: Foundations",
+      "started_at": "2026-08-06T18:59:44Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Even More Repairs And Soldering - Electronics - DIY - Synthesizers",
+      "game": "Science & Technology",
+      "started_at": "2026-08-06T19:01:17Z"
+    },
+    {
+      "username": "shnaff",
+      "title": "Guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-08-06T22:03:36Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Drilling for a Tomb, Found the Pattern! Day 50; Night 021 - 20260806",
+      "game": "Blue Prince",
+      "started_at": "2026-08-06T21:47:12Z"
     }
   ]
 }
