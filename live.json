@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-06T13:06:20.910Z",
+  "timestamp": "2026-08-06T13:46:48.296Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-08-06T04:51:34Z"
     },
     {
-      "username": "Zachap",
-      "title": "\"we got a reader\"",
-      "game": "Just Chatting",
-      "started_at": "2026-08-06T10:01:36Z"
-    },
-    {
       "username": "csharpfritz",
       "title": "GitHub and Live Tiles",
       "game": "Software and Game Development",
       "started_at": "2026-08-06T12:53:29Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "\"we got a reader\"",
+      "game": "Just Chatting",
+      "started_at": "2026-08-06T10:01:36Z"
     },
     {
       "username": "Andilippi",
