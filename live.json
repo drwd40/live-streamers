@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-06T07:18:36.151Z",
+  "timestamp": "2026-08-06T08:07:28.452Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -10,14 +10,8 @@
     {
       "username": "Moohoodles",
       "title": "🪐 Astrobiology & Space News ✨",
-      "game": "Just Chatting",
-      "started_at": "2026-08-06T01:04:38Z"
-    },
-    {
-      "username": "walkingsticklibrary",
-      "title": "How the Inca built their walls? Physiological size limitation in mammals, and making tie-dye in Photoshop.",
       "game": "Science & Technology",
-      "started_at": "2026-08-06T01:51:37Z"
+      "started_at": "2026-08-06T01:04:38Z"
     }
   ]
 }
