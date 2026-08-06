@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-08-06T01:14:58.301Z",
+  "timestamp": "2026-08-06T01:59:39.301Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
-      "game": "Animals, Aquariums, and Zoos",
+      "title": "Chat Chats w/ Evan | !alveus !institute !pixel !schedule !video",
+      "game": "Just Chatting",
       "started_at": "2026-08-04T04:51:32Z"
     },
     {
@@ -45,9 +45,15 @@
     },
     {
       "username": "Ask_a_Scientist_Gaming",
-      "title": "Dr. Wei Yang, Protein Dynamics, and Contra.",
+      "title": "Dr. Wei Yang, Protein Dynamics, and Tetris.",
       "game": "Science & Technology",
       "started_at": "2026-08-06T00:00:45Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "How the Inca built their walls? Physiological size limitation in mammals, and making tie-dye in Photoshop.",
+      "game": "Science & Technology",
+      "started_at": "2026-08-06T01:51:37Z"
     }
   ]
 }
