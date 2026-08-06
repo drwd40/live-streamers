@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-05T23:37:21.077Z",
+  "timestamp": "2026-08-06T00:01:11.806Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,10 +32,16 @@
       "started_at": "2026-08-05T22:05:58Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "Chain Rule for Partial Derivatives; Cracking the GRE Math Subject Test, Night 048 - 20260805",
-      "game": "Math",
-      "started_at": "2026-08-05T21:47:45Z"
+      "username": "nogre0",
+      "title": "new paper forthcoming on panpsychism (sorry materialists!)",
+      "game": "Just Chatting",
+      "started_at": "2026-08-06T00:00:07Z"
+    },
+    {
+      "username": "Ask_a_Scientist_Gaming",
+      "title": "Wed, Aug 5th, 8-11 pm EDT: Dr. Wei Yang, biochemistry, molecular/statistical mechanics, protein structure, and Contra.",
+      "game": "Science & Technology",
+      "started_at": "2026-08-06T00:00:45Z"
     }
   ]
 }
