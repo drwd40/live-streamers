@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-06T00:01:11.806Z",
+  "timestamp": "2026-08-06T00:44:30.034Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -9,15 +9,9 @@
     },
     {
       "username": "EJ_SA",
-      "title": "EJ's Space and Rocket Revue! 8/5/26",
-      "game": "Science & Technology",
+      "title": "LATE NIGHT TACTICAL BF6! 8/5/26",
+      "game": "Battlefield 6",
       "started_at": "2026-08-05T16:07:16Z"
-    },
-    {
-      "username": "JapanesePrintmaking",
-      "title": "Making Japanese woodblock prints ... live while you watch ...",
-      "game": "Makers & Crafting",
-      "started_at": "2026-08-05T22:57:53Z"
     },
     {
       "username": "imreallyimportant",
@@ -38,8 +32,14 @@
       "started_at": "2026-08-06T00:00:07Z"
     },
     {
+      "username": "SharkG33k",
+      "title": "Water Wednesday! You Choose the Dive Video!| !TFT",
+      "game": "Science & Technology",
+      "started_at": "2026-08-06T00:18:06Z"
+    },
+    {
       "username": "Ask_a_Scientist_Gaming",
-      "title": "Wed, Aug 5th, 8-11 pm EDT: Dr. Wei Yang, biochemistry, molecular/statistical mechanics, protein structure, and Contra.",
+      "title": "Dr. Wei Yang, Protein Dynamics, and Contra.",
       "game": "Science & Technology",
       "started_at": "2026-08-06T00:00:45Z"
     }
