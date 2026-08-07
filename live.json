@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-07T22:03:39.757Z",
+  "timestamp": "2026-08-07T22:18:18.870Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,6 +14,12 @@
       "started_at": "2026-08-07T17:08:24Z"
     },
     {
+      "username": "imreallyimportant",
+      "title": "HALEY STEVENS DOES FIRST INTERVIEWS SINCE TUESDAY'S LOSS",
+      "game": "Just Chatting",
+      "started_at": "2026-08-07T22:02:53Z"
+    },
+    {
       "username": "Zachap",
       "title": "🧠📚  The Well-Educated Are Marxists. 📚🧠",
       "game": "Just Chatting",
@@ -26,6 +32,12 @@
       "started_at": "2026-08-07T19:40:33Z"
     },
     {
+      "username": "shnaff",
+      "title": "Guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-08-07T22:02:30Z"
+    },
+    {
       "username": "eToThe2iPi",
       "title": "Sixteen: Episode 26.05",
       "game": "Trivia",
@@ -36,18 +48,6 @@
       "title": "Namalsk, farming the You Are Dead screen",
       "game": "DayZ",
       "started_at": "2026-08-07T20:25:11Z"
-    },
-    {
-      "username": "shnaff",
-      "title": "Guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-08-07T22:02:30Z"
-    },
-    {
-      "username": "imreallyimportant",
-      "title": "HALEY STEVENS DOES FIRST INTERVIEWS SINCE TUESDAY'S LOSS",
-      "game": "Just Chatting",
-      "started_at": "2026-08-07T22:02:53Z"
     }
   ]
 }
