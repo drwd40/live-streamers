@@ -1,11 +1,23 @@
 {
-  "timestamp": "2026-08-07T15:56:29.704Z",
+  "timestamp": "2026-08-07T16:17:18.464Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Chandler Power Hour | !alveus !institute !pixel !schedule !video",
       "game": "Just Chatting",
       "started_at": "2026-08-06T04:51:34Z"
+    },
+    {
+      "username": "ipaintbirbs",
+      "title": "duck stamp competish: can i finish my painting TODAY???",
+      "game": "Art",
+      "started_at": "2026-08-07T16:12:19Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Adding controller glyphs 🎮 (day 77)",
+      "game": "Software and Game Development",
+      "started_at": "2026-08-07T15:43:25Z"
     },
     {
       "username": "Zachap",
@@ -18,12 +30,6 @@
       "title": "Gorra guh fast m8!",
       "game": "Sonic The Hedgehog",
       "started_at": "2026-08-07T14:02:30Z"
-    },
-    {
-      "username": "AdamLearnsLive",
-      "title": "Adding controller glyphs 🎮 (day 77)",
-      "game": "Software and Game Development",
-      "started_at": "2026-08-07T15:43:25Z"
     }
   ]
 }
