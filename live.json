@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-07T15:33:57.232Z",
+  "timestamp": "2026-08-07T15:56:29.704Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,12 @@
       "title": "Gorra guh fast m8!",
       "game": "Sonic The Hedgehog",
       "started_at": "2026-08-07T14:02:30Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Adding controller glyphs 🎮 (day 77)",
+      "game": "Software and Game Development",
+      "started_at": "2026-08-07T15:43:25Z"
     }
   ]
 }
