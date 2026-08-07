@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-07T19:28:20.047Z",
+  "timestamp": "2026-08-07T19:49:06.049Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-08-06T04:51:34Z"
     },
     {
-      "username": "ipaintbirbs",
-      "title": "duck stamp competish: can i finish my painting TODAY???",
-      "game": "Art",
-      "started_at": "2026-08-07T16:12:19Z"
-    },
-    {
       "username": "EJ_SA",
       "title": "Making Cranes in KSP to build rockets!  (Now with 100% more KAS!) (Part 4)",
       "game": "Kerbal Space Program",
       "started_at": "2026-08-07T17:08:24Z"
+    },
+    {
+      "username": "ipaintbirbs",
+      "title": "duck stamp competish: can i finish my painting TODAY???",
+      "game": "Art",
+      "started_at": "2026-08-07T16:12:19Z"
     },
     {
       "username": "Zachap",
@@ -36,6 +36,12 @@
       "title": "🍀 5 Months in Early Access - Rise of Piracy Dev. | !charity !rop !patreon !discord",
       "game": "Software and Game Development",
       "started_at": "2026-08-07T19:00:17Z"
+    },
+    {
+      "username": "GeoJim2006",
+      "title": "Friday Field Camp Memories - 20 Years Later⛰️⛏️🪨 !discord !nova !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-08-07T19:40:33Z"
     }
   ]
 }
