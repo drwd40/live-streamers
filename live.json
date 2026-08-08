@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-08T17:53:00.997Z",
+  "timestamp": "2026-08-08T18:02:51.624Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "Math/Ed Q&A: Bring Questions!",
       "game": "Math",
       "started_at": "2026-08-08T16:57:47Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "Fresh Start - Modded",
+      "game": "Starfield",
+      "started_at": "2026-08-08T18:01:24Z"
     }
   ]
 }
