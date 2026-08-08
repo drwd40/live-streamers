@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-08T01:21:25.352Z",
+  "timestamp": "2026-08-08T02:06:40.648Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,12 +20,6 @@
       "started_at": "2026-08-07T22:02:53Z"
     },
     {
-      "username": "AstroCanuck",
-      "title": "Astro's Po'Pourri: StandUpBuilders' Fundraiser for StandUpToCancer !donate @su2c - also, we're back. | !team !teamprize | !PGV !drop",
-      "game": "Science & Technology",
-      "started_at": "2026-08-08T00:00:17Z"
-    },
-    {
       "username": "Moohoodles",
       "title": "🪐 Partnerversary Stream! ✨ Astrobiology & Space News then games!",
       "game": "Science & Technology",
@@ -36,6 +30,12 @@
       "title": "SciAnts News | New species, bee math, moth smells, anti venoms, newts and more! | Partner+ 61/300 | !ppp !yt !pod !jj",
       "game": "Science & Technology",
       "started_at": "2026-08-08T01:03:25Z"
+    },
+    {
+      "username": "AstroCanuck",
+      "title": "Astro's Po'Pourri: StandUpBuilders' Fundraiser for StandUpToCancer !donate @su2c - also, we're back. | !team !teamprize | !PGV !drop",
+      "game": "Science & Technology",
+      "started_at": "2026-08-08T00:00:17Z"
     }
   ]
 }
