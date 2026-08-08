@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-08T00:02:25.398Z",
+  "timestamp": "2026-08-08T00:28:08.059Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,6 +26,12 @@
       "started_at": "2026-08-07T22:02:53Z"
     },
     {
+      "username": "AstroCanuck",
+      "title": "Astro's Po'Pourri: StandUpBuilders' Fundraiser for StandUpToCancer !donate @su2c - also, we're back. | !team !teamprize | !PGV !drop",
+      "game": "Science & Technology",
+      "started_at": "2026-08-08T00:00:17Z"
+    },
+    {
       "username": "shnaff",
       "title": "Guitar, piano, and singing in !stereo🎧",
       "game": "Music",
@@ -36,18 +42,6 @@
       "title": "🧠📚  The Well-Educated Are Marxists. 📚🧠",
       "game": "Politics",
       "started_at": "2026-08-07T10:01:46Z"
-    },
-    {
-      "username": "GeoJim2006",
-      "title": "Friday Field Camp Memories - 20 Years Later⛰️⛏️🪨 !discord !nova !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-08-07T19:40:33Z"
-    },
-    {
-      "username": "AstroCanuck",
-      "title": "Astro's Po'Pourri: StandUpBuilders' Fundraiser for StandUpToCancer !donate @su2c - also, we're back. | !team !teamprize | !PGV !drop",
-      "game": "Science & Technology",
-      "started_at": "2026-08-08T00:00:17Z"
     }
   ]
 }
