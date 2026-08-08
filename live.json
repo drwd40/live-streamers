@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-07T23:49:50.918Z",
+  "timestamp": "2026-08-08T00:02:25.398Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -34,7 +34,7 @@
     {
       "username": "Zachap",
       "title": "🧠📚  The Well-Educated Are Marxists. 📚🧠",
-      "game": "Just Chatting",
+      "game": "Politics",
       "started_at": "2026-08-07T10:01:46Z"
     },
     {
@@ -42,6 +42,12 @@
       "title": "Friday Field Camp Memories - 20 Years Later⛰️⛏️🪨 !discord !nova !tkf",
       "game": "Science & Technology",
       "started_at": "2026-08-07T19:40:33Z"
+    },
+    {
+      "username": "AstroCanuck",
+      "title": "Astro's Po'Pourri: StandUpBuilders' Fundraiser for StandUpToCancer !donate @su2c - also, we're back. | !team !teamprize | !PGV !drop",
+      "game": "Science & Technology",
+      "started_at": "2026-08-08T00:00:17Z"
     }
   ]
 }
