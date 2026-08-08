@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-08T22:11:38.577Z",
+  "timestamp": "2026-08-08T22:23:59.860Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-08-08T04:51:37Z"
     },
     {
-      "username": "Zachap",
-      "title": "🧠📚  The Well-Educated Are Marxists. 📚🧠",
-      "game": "Politics",
-      "started_at": "2026-08-08T10:02:38Z"
-    },
-    {
       "username": "AstroCanuck",
       "title": "[CHARITY] LEGO, Lifting and Spicy Nuggets !donate @su2c | !team !teamprize | !drop",
       "game": "Lego & Brickbuilding",
       "started_at": "2026-08-08T22:01:37Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "🧠📚  The Well-Educated Are Marxists. 📚🧠",
+      "game": "Politics",
+      "started_at": "2026-08-08T10:02:38Z"
     },
     {
       "username": "SydHeresy",
@@ -30,12 +30,6 @@
       "title": "Answering your math questions and learning Linear Algebra",
       "game": "Math",
       "started_at": "2026-08-08T18:59:36Z"
-    },
-    {
-      "username": "Rocketology",
-      "title": "Fresh Start - Modded",
-      "game": "Starfield",
-      "started_at": "2026-08-08T18:01:24Z"
     }
   ]
 }
