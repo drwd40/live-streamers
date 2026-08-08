@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-08T18:48:27.891Z",
+  "timestamp": "2026-08-08T19:05:35.733Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-08-08T10:02:38Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Math/Ed Q&A: Bring Questions!",
-      "game": "Math",
-      "started_at": "2026-08-08T16:57:47Z"
-    },
-    {
       "username": "Rocketology",
       "title": "Fresh Start - Modded",
       "game": "Starfield",
       "started_at": "2026-08-08T18:01:24Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and learning Linear Algebra",
+      "game": "Math",
+      "started_at": "2026-08-08T18:59:36Z"
     }
   ]
 }
