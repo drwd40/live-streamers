@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-08T14:06:13.466Z",
+  "timestamp": "2026-08-08T14:18:54.896Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "Blast from the past in a whole new light!",
       "game": "Pokémon Red/Blue",
       "started_at": "2026-08-08T11:59:09Z"
+    },
+    {
+      "username": "AcademyOfUselessIdeas",
+      "title": "Check on how many problems Slim can't solve!",
+      "game": "Math",
+      "started_at": "2026-08-08T14:06:09Z"
     }
   ]
 }
