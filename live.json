@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-08T00:28:08.059Z",
+  "timestamp": "2026-08-08T00:50:02.230Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,15 +8,9 @@
       "started_at": "2026-08-06T04:51:34Z"
     },
     {
-      "username": "JapanesePrintmaking",
-      "title": "Making Japanese woodblock prints ... live while you watch ...",
-      "game": "Makers & Crafting",
-      "started_at": "2026-08-07T23:00:16Z"
-    },
-    {
       "username": "EJ_SA",
-      "title": "NSF - Can Starboat be saved? - The Flame Trench 8/7/26",
-      "game": "Science & Technology",
+      "title": "FRIDAY NIGHT FLICKFEST! 8/7/26",
+      "game": "Battlefield 6",
       "started_at": "2026-08-07T17:08:24Z"
     },
     {
@@ -36,12 +30,6 @@
       "title": "Guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2026-08-07T22:02:30Z"
-    },
-    {
-      "username": "Zachap",
-      "title": "🧠📚  The Well-Educated Are Marxists. 📚🧠",
-      "game": "Politics",
-      "started_at": "2026-08-07T10:01:46Z"
     }
   ]
 }
