@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-08T23:26:08.799Z",
+  "timestamp": "2026-08-08T23:40:21.352Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-08-08T22:50:23Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "I Didn't Choose The Solder Lyfe - The Solder Lyfe Chose Me",
-      "game": "Science & Technology",
-      "started_at": "2026-08-08T19:50:08Z"
-    },
-    {
       "username": "DonFactorial",
       "title": "Answering your math questions and learning Linear Algebra",
       "game": "Math",
       "started_at": "2026-08-08T18:59:36Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "I Didn't Choose The Solder Lyfe - The Solder Lyfe Chose Me",
+      "game": "Science & Technology",
+      "started_at": "2026-08-08T19:50:08Z"
     }
   ]
 }
