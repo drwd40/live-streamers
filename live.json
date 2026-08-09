@@ -1,23 +1,11 @@
 {
-  "timestamp": "2026-08-09T08:09:19.822Z",
+  "timestamp": "2026-08-09T08:24:39.259Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-08-08T04:51:37Z"
-    },
-    {
-      "username": "csharpfritz",
-      "title": "Coding ALL NIGHT LONG - Building DayFrame",
-      "game": "Software and Game Development",
-      "started_at": "2026-08-09T01:01:03Z"
-    },
-    {
-      "username": "SydHeresy",
-      "title": "I Didn't Choose The Solder Lyfe - The Solder Lyfe Chose Me",
-      "game": "Science & Technology",
-      "started_at": "2026-08-08T19:50:08Z"
     }
   ]
 }
