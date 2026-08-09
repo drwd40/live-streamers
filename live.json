@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-09T13:58:59.878Z",
+  "timestamp": "2026-08-09T14:15:54.699Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,10 +20,28 @@
       "started_at": "2026-08-09T10:00:48Z"
     },
     {
+      "username": "AstroCanuck",
+      "title": "[CHARITY] Lazy Sunday LEGO, Lifting and Spicy Nuggets !donate @su2c | !team !teamprize | !drop",
+      "game": "Lego & Brickbuilding",
+      "started_at": "2026-08-09T14:04:40Z"
+    },
+    {
+      "username": "LumiRue",
+      "title": "Plant Naming | Japanese News | Stardew Valley | 12pm: Book Club with KarroKick!",
+      "game": "Just Chatting",
+      "started_at": "2026-08-09T14:08:28Z"
+    },
+    {
       "username": "DrAlexanderClarke",
       "title": "History Books... will I read them or sell them?",
       "game": "Bookshop Simulator",
       "started_at": "2026-08-09T12:29:37Z"
+    },
+    {
+      "username": "sciencestreams",
+      "title": "Tiny Robot Plastic Removal | Toxic Mars Dust | Leaking Waste | Stick Insects don't \"do it\" | Science News - Microscope Time 🔬",
+      "game": "Just Chatting",
+      "started_at": "2026-08-09T14:01:18Z"
     }
   ]
 }
