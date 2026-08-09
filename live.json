@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-09T12:18:26.598Z",
+  "timestamp": "2026-08-09T12:34:48.944Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "🧠📚  The Well-Educated Are Marxists. 📚🧠",
       "game": "Just Chatting",
       "started_at": "2026-08-09T10:00:48Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "History Books... will I read them or sell them?",
+      "game": "Bookshop Simulator",
+      "started_at": "2026-08-09T12:29:37Z"
     }
   ]
 }
