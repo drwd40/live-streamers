@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-09T00:54:50.083Z",
+  "timestamp": "2026-08-09T01:28:41.588Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,22 @@
       "started_at": "2026-08-08T10:02:38Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "I Didn't Choose The Solder Lyfe - The Solder Lyfe Chose Me",
-      "game": "Science & Technology",
-      "started_at": "2026-08-08T19:50:08Z"
-    },
-    {
       "username": "MelissaInDeNile",
       "title": "Let's talk about the SEA PEOPLES ~ Beyond De Nile Lecture ~ Follower Goal: 2425/2600 ~ !socials !beyonddenile",
       "game": "Just Chatting",
       "started_at": "2026-08-08T22:50:23Z"
+    },
+    {
+      "username": "csharpfritz",
+      "title": "Coding ALL NIGHT LONG - Building DayFrame",
+      "game": "Software and Game Development",
+      "started_at": "2026-08-09T01:01:03Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "I Didn't Choose The Solder Lyfe - The Solder Lyfe Chose Me",
+      "game": "Science & Technology",
+      "started_at": "2026-08-08T19:50:08Z"
     },
     {
       "username": "Mr_Aejis",
