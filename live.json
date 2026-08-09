@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-09T01:28:41.588Z",
+  "timestamp": "2026-08-09T02:18:00.298Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,12 +12,6 @@
       "title": "[CHARITY] LEGO, Lifting and Spicy Nuggets !donate @su2c | !team !teamprize | !drop",
       "game": "Lego & Brickbuilding",
       "started_at": "2026-08-08T22:01:37Z"
-    },
-    {
-      "username": "Zachap",
-      "title": "🧠📚  The Well-Educated Are Marxists. 📚🧠",
-      "game": "Just Chatting",
-      "started_at": "2026-08-08T10:02:38Z"
     },
     {
       "username": "MelissaInDeNile",
@@ -42,6 +36,12 @@
       "title": "1st time Persona playthrough!",
       "game": "Persona 5",
       "started_at": "2026-08-09T00:33:11Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Year without a summer. Crashing the computer with Photoshop tie-dye, and mathematics with slide rules or the abacus.",
+      "game": "Science & Technology",
+      "started_at": "2026-08-09T02:02:57Z"
     }
   ]
 }
