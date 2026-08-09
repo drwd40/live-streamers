@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-09T00:02:29.526Z",
+  "timestamp": "2026-08-09T00:31:27.714Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-08-08T10:02:38Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "I Didn't Choose The Solder Lyfe - The Solder Lyfe Chose Me",
-      "game": "Science & Technology",
-      "started_at": "2026-08-08T19:50:08Z"
-    },
-    {
       "username": "MelissaInDeNile",
       "title": "Let's talk about the SEA PEOPLES ~ Beyond De Nile Lecture ~ Follower Goal: 2425/2600 ~ !socials !beyonddenile",
       "game": "Just Chatting",
       "started_at": "2026-08-08T22:50:23Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "I Didn't Choose The Solder Lyfe - The Solder Lyfe Chose Me",
+      "game": "Science & Technology",
+      "started_at": "2026-08-08T19:50:08Z"
     }
   ]
 }
