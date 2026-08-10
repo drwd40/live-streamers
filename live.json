@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-10T19:57:40.902Z",
+  "timestamp": "2026-08-10T20:15:00.585Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-08-09T12:52:16Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "The SLC-6 Shuttle Complex is BACK! 8/10/26",
-      "game": "Kerbal Space Program",
-      "started_at": "2026-08-10T16:40:32Z"
-    },
-    {
       "username": "ipaintbirbs",
       "title": "dawn of the final day: Duck Stamp Competition finish line, TODAY",
       "game": "Art",
       "started_at": "2026-08-10T16:37:46Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "EJ's Space Educational Videos!! 8/10/26",
+      "game": "Science & Technology",
+      "started_at": "2026-08-10T16:40:32Z"
     },
     {
       "username": "Paleontologizing",
@@ -28,8 +28,14 @@
     {
       "username": "Zachap",
       "title": "🧠📚  anti-left is anti-workers 📚🧠",
-      "game": "Politics",
+      "game": "Just Chatting",
       "started_at": "2026-08-10T10:01:10Z"
+    },
+    {
+      "username": "Andilippi",
+      "title": "Let's Get It ON! - 500 Bits... 🤠",
+      "game": "Sonic The Hedgehog",
+      "started_at": "2026-08-10T19:29:20Z"
     },
     {
       "username": "eToThe2iPi",
@@ -38,10 +44,10 @@
       "started_at": "2026-08-10T18:02:49Z"
     },
     {
-      "username": "Andilippi",
-      "title": "Let's Get It ON! - 500 Bits... 🤠",
-      "game": "Just Chatting",
-      "started_at": "2026-08-10T19:29:20Z"
+      "username": "AdamLearnsLive",
+      "title": "Casual game-dev afternoon (day 78½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-08-10T20:13:10Z"
     }
   ]
 }
