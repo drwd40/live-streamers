@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-10T19:14:08.075Z",
+  "timestamp": "2026-08-10T19:37:04.495Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "Quiz Show Software: Sixteen // Full-Stack Development (Node.JS/JS/HTML/Phaser)",
       "game": "Software and Game Development",
       "started_at": "2026-08-10T18:02:49Z"
+    },
+    {
+      "username": "Andilippi",
+      "title": "Let's Get It ON! - 500 Bits... 🤠",
+      "game": "Just Chatting",
+      "started_at": "2026-08-10T19:29:20Z"
     }
   ]
 }
