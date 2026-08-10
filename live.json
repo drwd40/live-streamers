@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-10T15:19:41.778Z",
+  "timestamp": "2026-08-10T15:41:04.770Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "🧠📚  anti-left is anti-workers 📚🧠",
       "game": "Politics",
       "started_at": "2026-08-10T10:01:10Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "The TODO terminator 💀 (day 78)",
+      "game": "Software and Game Development",
+      "started_at": "2026-08-10T15:34:49Z"
     }
   ]
 }
