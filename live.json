@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-10T16:45:23.379Z",
+  "timestamp": "2026-08-10T17:06:58.723Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,28 +8,28 @@
       "started_at": "2026-08-09T12:52:16Z"
     },
     {
-      "username": "ipaintbirbs",
-      "title": "dawn of the final day: Duck Stamp Competition finish line, TODAY",
-      "game": "Art",
-      "started_at": "2026-08-10T16:37:46Z"
-    },
-    {
       "username": "EJ_SA",
       "title": "The SLC-6 Shuttle Complex is BACK! 8/10/26",
       "game": "Kerbal Space Program",
       "started_at": "2026-08-10T16:40:32Z"
     },
     {
-      "username": "Zachap",
-      "title": "🧠📚  anti-left is anti-workers 📚🧠",
-      "game": "Politics",
-      "started_at": "2026-08-10T10:01:10Z"
+      "username": "ipaintbirbs",
+      "title": "dawn of the final day: Duck Stamp Competition finish line, TODAY",
+      "game": "Art",
+      "started_at": "2026-08-10T16:37:46Z"
     },
     {
       "username": "AdamLearnsLive",
       "title": "The TODO terminator 💀 (day 78)",
       "game": "Software and Game Development",
       "started_at": "2026-08-10T15:34:49Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "🧠📚  anti-left is anti-workers 📚🧠",
+      "game": "Politics",
+      "started_at": "2026-08-10T10:01:10Z"
     }
   ]
 }
