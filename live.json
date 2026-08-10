@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-08-10T01:30:30.713Z",
+  "timestamp": "2026-08-10T02:20:30.922Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-08-09T12:52:16Z"
-    },
-    {
-      "username": "imreallyimportant",
-      "title": "SUNDAY POLITICS SHOWS",
-      "game": "Just Chatting",
-      "started_at": "2026-08-09T21:49:42Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -24,6 +18,12 @@
       "title": "Sunday Night Science Chat.  Solar Eclipse Preview.  #NASA #science #space scientist #climatechange #climatescience",
       "game": "Science & Technology",
       "started_at": "2026-08-10T00:50:14Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Mathematics with a slide rule or abacus. Let's go on a cruise! Getting young people to the polls (in the USA).",
+      "game": "Science & Technology",
+      "started_at": "2026-08-10T01:33:28Z"
     }
   ]
 }
