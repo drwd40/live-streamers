@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-11T02:59:39.471Z",
+  "timestamp": "2026-08-11T03:36:47.711Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "Microscopy Monday | Tiny worlds under the microscope + AI Viruses, and more! | Partner+ 82/300 | !ppp !yt !pod !jj",
       "game": "Science & Technology",
       "started_at": "2026-08-11T01:02:10Z"
+    },
+    {
+      "username": "DrMick",
+      "title": "Championship: Buzzilla vs. Angry Knights",
+      "game": "Sports",
+      "started_at": "2026-08-11T03:30:11Z"
     }
   ]
 }
