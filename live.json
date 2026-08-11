@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-11T15:48:04.625Z",
+  "timestamp": "2026-08-11T16:10:07.576Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-08-11T12:52:18Z"
     },
     {
-      "username": "Andilippi",
-      "title": "Bonus stream day!!! - !menu - 500 Bits... 🤠",
-      "game": "Pokémon Red/Blue",
-      "started_at": "2026-08-11T11:43:08Z"
-    },
-    {
       "username": "Zachap",
       "title": "🧠📚  education shouldn't stop 📚🧠",
       "game": "Just Chatting",
       "started_at": "2026-08-11T10:01:11Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "MATH TUESDAYS [(off) !fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-08-11T15:57:39Z"
     }
   ]
 }
