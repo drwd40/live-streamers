@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-12T19:14:23.302Z",
+  "timestamp": "2026-08-12T19:40:32.746Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "Short Early Stream - Revisiting Geology Field Camp using Google Earth ⛰️⛏️🪨 !discord !nova !tkf",
       "game": "Science & Technology",
       "started_at": "2026-08-12T16:48:00Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Designing broken games for a larger, broken game (day 79½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-08-12T19:37:43Z"
     }
   ]
 }
