@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-12T20:36:54.516Z",
+  "timestamp": "2026-08-12T20:57:28.209Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,12 +26,6 @@
       "started_at": "2026-08-12T15:33:55Z"
     },
     {
-      "username": "Zachap",
-      "title": "🧠📚 hello 📚🧠",
-      "game": "Just Chatting",
-      "started_at": "2026-08-12T10:03:23Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "Designing broken games for a larger, broken game (day 79½)",
       "game": "Software and Game Development",
@@ -42,12 +36,6 @@
       "title": "🍀 Update #50 Released! - Rise of Piracy Dev. | !charity !rop !patreon !discord",
       "game": "Software and Game Development",
       "started_at": "2026-08-12T19:46:00Z"
-    },
-    {
-      "username": "GeoJim2006",
-      "title": "Short Early Stream - Revisiting Geology Field Camp using Google Earth ⛰️⛏️🪨 !discord !nova !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-08-12T16:48:00Z"
     }
   ]
 }
