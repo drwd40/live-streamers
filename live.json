@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-12T21:54:42.333Z",
+  "timestamp": "2026-08-12T22:12:01.643Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,6 +20,12 @@
       "started_at": "2026-08-12T20:04:38Z"
     },
     {
+      "username": "imreallyimportant",
+      "title": "CROWLEY DEFEATS HONG IN HUGE UPSET",
+      "game": "Just Chatting",
+      "started_at": "2026-08-12T21:54:50Z"
+    },
+    {
       "username": "AstroCanuck",
       "title": "Perseid Meteor Shower Watch Party & Stand Up To Cancer fundraiser - !donate @su2c | !team !teamprize | !drop",
       "game": "Science & Technology",
@@ -30,6 +36,12 @@
       "title": "🍀 Update #50 Released! - Rise of Piracy Dev. | !charity !rop !patreon !discord",
       "game": "Software and Game Development",
       "started_at": "2026-08-12T19:46:00Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Planning Secondary Math I: Building a Syllabus, a 180-Day Plan, etc.",
+      "game": "Just Chatting",
+      "started_at": "2026-08-12T22:05:54Z"
     }
   ]
 }
