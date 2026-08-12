@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-08-12T17:20:12.936Z",
+  "timestamp": "2026-08-12T17:43:04.115Z",
   "live": [
-    {
-      "username": "Maya",
-      "title": "good morning it’s yap time☀️☕️",
-      "game": "Just Chatting",
-      "started_at": "2026-08-12T15:31:08Z"
-    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-08-11T12:52:18Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "Shuttle Integration Conops! The SLC-6 Build! (Part 10) 8/12/26",
+      "game": "Kerbal Space Program",
+      "started_at": "2026-08-12T17:25:58Z"
     },
     {
       "username": "AstroCanuck",
@@ -42,6 +42,12 @@
       "title": "Short Early Stream - Revisiting Geology Field Camp using Google Earth ⛰️⛏️🪨 !discord !nova !tkf",
       "game": "Science & Technology",
       "started_at": "2026-08-12T16:48:00Z"
+    },
+    {
+      "username": "SETIInstitute",
+      "title": "The Great Eclipse Celebration:  Science Meets Music During Totality | #SETILive",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2026-08-12T17:30:11Z"
     }
   ]
 }
