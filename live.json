@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-11T23:56:02.509Z",
+  "timestamp": "2026-08-12T00:17:43.496Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,6 +26,12 @@
       "started_at": "2026-08-11T21:49:51Z"
     },
     {
+      "username": "AstroCanuck",
+      "title": "[CHARITY] Astro's Po'Pourri: Lifting, LEGO and Spicy Nuggets !donate @su2c | !team !teamprize | !drop",
+      "game": "Lego & Brickbuilding",
+      "started_at": "2026-08-12T00:02:11Z"
+    },
+    {
       "username": "SydHeresy",
       "title": "Solder Is A Highway And I Wanna Ride It All Night Long - Electronics - Synthesizers",
       "game": "Science & Technology",
@@ -36,6 +42,12 @@
       "title": "Finishing up the DLC for Assassins Creed III (finally)!!! ~ Follower Goal: 2432/2600 ~ !socials !beyonddenile",
       "game": "Assassin's Creed III",
       "started_at": "2026-08-11T22:50:08Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-08-12T00:00:05Z"
     }
   ]
 }
