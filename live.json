@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-12T16:57:13.688Z",
+  "timestamp": "2026-08-12T17:20:12.936Z",
   "live": [
     {
       "username": "Maya",
@@ -20,6 +20,12 @@
       "started_at": "2026-08-12T15:33:55Z"
     },
     {
+      "username": "Nerduino",
+      "title": "Solar Eclipse Watch Party With An Astronomer! #NASA #science #space scientist  #climatechange #climatescience #partnerpush",
+      "game": "Science & Technology",
+      "started_at": "2026-08-12T12:51:16Z"
+    },
+    {
       "username": "Zachap",
       "title": "🧠📚 hello 📚🧠",
       "game": "Just Chatting",
@@ -30,12 +36,6 @@
       "title": "So much to do! 😳 (day 79)",
       "game": "Software and Game Development",
       "started_at": "2026-08-12T15:30:09Z"
-    },
-    {
-      "username": "Nerduino",
-      "title": "Solar Eclipse Watch Party With An Astronomer! #NASA #science #space scientist  #climatechange #climatescience #partnerpush",
-      "game": "Science & Technology",
-      "started_at": "2026-08-12T12:51:16Z"
     },
     {
       "username": "GeoJim2006",
