@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-13T15:45:15.835Z",
+  "timestamp": "2026-08-13T16:07:38.533Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-08-13T12:52:20Z"
     },
     {
-      "username": "Zachap",
-      "title": "🧠📚 political philosophy is a thing, type !miro for examples  📚🧠",
-      "game": "Just Chatting",
-      "started_at": "2026-08-13T10:01:51Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "Organizing my game-dev life (day 80)",
       "game": "Software and Game Development",
       "started_at": "2026-08-13T15:31:54Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "🧠📚 political philosophy is a thing, type !miro for examples  📚🧠",
+      "game": "Just Chatting",
+      "started_at": "2026-08-13T10:01:51Z"
     }
   ]
 }
