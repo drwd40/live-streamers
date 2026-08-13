@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-13T16:50:12.781Z",
+  "timestamp": "2026-08-13T17:13:08.053Z",
   "live": [
     {
       "username": "Kitboga",
@@ -26,16 +26,16 @@
       "started_at": "2026-08-13T10:01:51Z"
     },
     {
-      "username": "VolcanoDoc",
-      "title": "after lavas come the sediments | Intro to Earth Science Series | !phd !socials !pubs !merch",
-      "game": "Science & Technology",
-      "started_at": "2026-08-13T16:17:08Z"
-    },
-    {
       "username": "oh_bother",
       "title": "Building a custom designed powered MULT, eurorack stuff!",
       "game": "Science & Technology",
       "started_at": "2026-08-13T16:29:27Z"
+    },
+    {
+      "username": "VolcanoDoc",
+      "title": "after lavas come the sediments | Intro to Earth Science Series | !phd !socials !pubs !merch",
+      "game": "Science & Technology",
+      "started_at": "2026-08-13T16:17:08Z"
     }
   ]
 }
