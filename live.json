@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-13T20:47:26.115Z",
+  "timestamp": "2026-08-13T21:06:52.804Z",
   "live": [
     {
       "username": "Kitboga",
@@ -44,28 +44,28 @@
       "started_at": "2026-08-13T19:22:50Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Solder Closer Tiny Dancer (Tony Danza) - Electronics - Repairs - Builds",
-      "game": "Science & Technology",
-      "started_at": "2026-08-13T19:00:27Z"
-    },
-    {
       "username": "GeneralSte",
       "title": "An Irish Sorcerer --- does SorcerSte? GET IT?!   | !linktree !discord",
       "game": "Baldur's Gate 3",
       "started_at": "2026-08-13T18:47:41Z"
     },
     {
-      "username": "DrAlexanderClarke",
-      "title": "What happens if instead of Gallipoli, Fisher gets Churchill to go for the Baltic? (Patreon)",
-      "game": "Just Chatting",
-      "started_at": "2026-08-13T18:46:28Z"
+      "username": "SydHeresy",
+      "title": "Solder Closer Tiny Dancer (Tony Danza) - Electronics - Repairs - Builds",
+      "game": "Science & Technology",
+      "started_at": "2026-08-13T19:00:27Z"
     },
     {
       "username": "DonFactorial",
       "title": "Answering your math questions and learning Linear Algebra",
       "game": "Math",
       "started_at": "2026-08-13T20:17:48Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "What happens if instead of Gallipoli, Fisher gets Churchill to go for the Baltic? (Patreon)",
+      "game": "Just Chatting",
+      "started_at": "2026-08-13T18:46:28Z"
     }
   ]
 }
