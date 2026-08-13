@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-13T01:09:09.812Z",
+  "timestamp": "2026-08-13T01:50:00.500Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,10 +14,16 @@
       "started_at": "2026-08-12T21:54:50Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "🦖 Let's talk about these fossil auctions 💰🦕🤮 plus paleontology Q&A and more (w/ paleontologist Danny Anduza)",
+      "username": "SciAnts_Streams",
+      "title": "Science of... Bubsy?! | Bob cats, cat claw evolution, energy needs in the cell and more! | Partner+ 100/300 | !ppp !yt !pod !jj",
       "game": "Science & Technology",
-      "started_at": "2026-08-12T20:04:38Z"
+      "started_at": "2026-08-13T01:01:12Z"
+    },
+    {
+      "username": "Moohoodles",
+      "title": "Perseid Peak! 🪐 Astrobiology & Space News ✨ Short tired stream. Turn off genAI setting",
+      "game": "Science & Technology",
+      "started_at": "2026-08-13T01:17:19Z"
     },
     {
       "username": "AstroCanuck",
@@ -26,16 +32,16 @@
       "started_at": "2026-08-12T15:33:55Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "Science of... Bubsy?! | Bob cats, cat claw evolution, energy needs in the cell and more! | Partner+ 100/300 | !ppp !yt !pod !jj",
-      "game": "Science & Technology",
-      "started_at": "2026-08-13T01:01:12Z"
-    },
-    {
       "username": "SharkG33k",
       "title": "AI, Florida Springs, Aquifers and YOU! | !TFT",
       "game": "Science & Technology",
       "started_at": "2026-08-13T00:12:08Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Depopulation and deaths of despair, bunkers for billionaires, and shadow libraries.",
+      "game": "Science & Technology",
+      "started_at": "2026-08-13T01:30:10Z"
     }
   ]
 }
