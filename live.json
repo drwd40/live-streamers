@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-08-13T06:41:16.424Z",
+  "timestamp": "2026-08-13T07:09:57.110Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-08-11T12:52:18Z"
-    },
-    {
-      "username": "Moohoodles",
-      "title": "Perseid Peak! 🪐 Astrobiology & Space News ✨ Short tired stream. Turn off genAI setting",
-      "game": "Science & Technology",
-      "started_at": "2026-08-13T01:17:19Z"
     },
     {
       "username": "AstroCanuck",
@@ -24,18 +18,6 @@
       "title": "Therapist Plays KCD2: Part 12",
       "game": "Kingdom Come: Deliverance II",
       "started_at": "2026-08-13T04:38:25Z"
-    },
-    {
-      "username": "CosmoQuestX",
-      "title": "In search of Perseids and Craters",
-      "game": "Science & Technology",
-      "started_at": "2026-08-13T03:05:33Z"
-    },
-    {
-      "username": "walkingsticklibrary",
-      "title": "Depopulation and deaths of despair, bunkers for billionaires, and shadow libraries.",
-      "game": "Science & Technology",
-      "started_at": "2026-08-13T01:30:10Z"
     }
   ]
 }
