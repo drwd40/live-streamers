@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-13T17:58:49.805Z",
+  "timestamp": "2026-08-13T18:24:02.432Z",
   "live": [
     {
       "username": "Kitboga",
@@ -9,8 +9,8 @@
     },
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
-      "game": "Animals, Aquariums, and Zoos",
+      "title": "Projects w/ FAID | !alveus !institute !pixel !schedule !video",
+      "game": "Just Chatting",
       "started_at": "2026-08-13T12:52:20Z"
     },
     {
@@ -36,6 +36,12 @@
       "title": "after lavas come the sediments | Intro to Earth Science Series | !phd !socials !pubs !merch",
       "game": "Science & Technology",
       "started_at": "2026-08-13T16:17:08Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Zach vs. E&M: Taking Test #1",
+      "game": "Science & Technology",
+      "started_at": "2026-08-13T18:03:54Z"
     }
   ]
 }
