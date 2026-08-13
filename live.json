@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-13T19:35:49.335Z",
+  "timestamp": "2026-08-13T19:57:20.100Z",
   "live": [
     {
       "username": "Kitboga",
@@ -14,28 +14,28 @@
       "started_at": "2026-08-13T12:52:20Z"
     },
     {
-      "username": "oh_bother",
-      "title": "Building a custom designed powered MULT, eurorack stuff!",
-      "game": "Science & Technology",
-      "started_at": "2026-08-13T16:29:27Z"
-    },
-    {
       "username": "Zachap",
       "title": "🧠📚 political philosophy is a thing, type !miro for examples  📚🧠",
       "game": "Just Chatting",
       "started_at": "2026-08-13T10:01:51Z"
     },
     {
-      "username": "VolcanoDoc",
-      "title": "those gneiss metamorphic rocks | Intro to Earth Science Series | !phd !socials !pubs !merch",
+      "username": "oh_bother",
+      "title": "Building a custom designed powered MULT, eurorack stuff!",
       "game": "Science & Technology",
-      "started_at": "2026-08-13T16:17:08Z"
+      "started_at": "2026-08-13T16:29:27Z"
     },
     {
       "username": "DrMick",
       "title": "Solo Compiler",
       "game": "Marathon",
       "started_at": "2026-08-13T19:22:50Z"
+    },
+    {
+      "username": "VolcanoDoc",
+      "title": "those gneiss metamorphic rocks | Intro to Earth Science Series | !phd !socials !pubs !merch",
+      "game": "Science & Technology",
+      "started_at": "2026-08-13T16:17:08Z"
     },
     {
       "username": "SydHeresy",
@@ -50,16 +50,16 @@
       "started_at": "2026-08-13T18:03:54Z"
     },
     {
-      "username": "DrAlexanderClarke",
-      "title": "What happens if instead of Gallipoli, Fisher gets Churchill to go for the Baltic? (Patreon)",
-      "game": "Just Chatting",
-      "started_at": "2026-08-13T18:46:28Z"
-    },
-    {
       "username": "GeneralSte",
       "title": "An Irish Sorcerer --- does SorcerSte? GET IT?!   | !linktree !discord",
       "game": "Baldur's Gate 3",
       "started_at": "2026-08-13T18:47:41Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "What happens if instead of Gallipoli, Fisher gets Churchill to go for the Baltic? (Patreon)",
+      "game": "Just Chatting",
+      "started_at": "2026-08-13T18:46:28Z"
     }
   ]
 }
