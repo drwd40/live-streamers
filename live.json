@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-13T23:53:36.683Z",
+  "timestamp": "2026-08-14T00:09:16.759Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,6 +20,12 @@
       "started_at": "2026-08-13T22:05:14Z"
     },
     {
+      "username": "AstroCanuck",
+      "title": "[CHARITY] Stand Up To Cancer fundraiser - !donate @su2c | !team !teamprize | !drop",
+      "game": "Lego & Brickbuilding",
+      "started_at": "2026-08-13T23:46:10Z"
+    },
+    {
       "username": "Zachap",
       "title": "🧠📚 political philosophy is a thing, type !miro for examples  📚🧠",
       "game": "Just Chatting",
@@ -32,16 +38,16 @@
       "started_at": "2026-08-13T19:00:27Z"
     },
     {
-      "username": "AstroCanuck",
-      "title": "[CHARITY] Stand Up To Cancer fundraiser - !donate @su2c | !team !teamprize | !drop",
-      "game": "Lego & Brickbuilding",
-      "started_at": "2026-08-13T23:46:10Z"
-    },
-    {
       "username": "DonFactorial",
       "title": "Answering your math questions and learning Linear Algebra",
       "game": "Math",
       "started_at": "2026-08-13T20:17:48Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-08-14T00:00:43Z"
     }
   ]
 }
