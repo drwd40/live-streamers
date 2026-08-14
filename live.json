@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-14T01:04:52.909Z",
+  "timestamp": "2026-08-14T01:43:48.981Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,6 +26,12 @@
       "started_at": "2026-08-13T23:46:10Z"
     },
     {
+      "username": "SciAnts_Streams",
+      "title": "Duskfade Release Day! | Science of clocks, circadian rhythm, time hopping and more! | Partner+ 110/300 | !ppp !yt !pod !jj",
+      "game": "Science & Technology",
+      "started_at": "2026-08-14T00:59:45Z"
+    },
+    {
       "username": "Zachap",
       "title": "🧠📚 political philosophy is a thing, type !miro for examples  📚🧠",
       "game": "Just Chatting",
@@ -36,12 +42,6 @@
       "title": "Solder Closer Tiny Dancer (Tony Danza) - Electronics - Repairs - Builds",
       "game": "Science & Technology",
       "started_at": "2026-08-13T19:00:27Z"
-    },
-    {
-      "username": "SciAnts_Streams",
-      "title": "Duskfade Release Day! | Science of clocks, circadian rhythm, time hopping and more! | Partner+ 110/300 | !ppp !yt !pod !jj",
-      "game": "Science & Technology",
-      "started_at": "2026-08-14T00:59:45Z"
     },
     {
       "username": "Nerduino",
@@ -60,6 +60,12 @@
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Just Chatting",
       "started_at": "2026-08-14T00:00:43Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "There's a phage in my cheese! Shadow libraries, and where do those fruit flies come from?",
+      "game": "Science & Technology",
+      "started_at": "2026-08-14T01:32:23Z"
     }
   ]
 }
