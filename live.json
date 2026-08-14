@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-14T16:48:32.551Z",
+  "timestamp": "2026-08-14T17:11:02.813Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,6 +14,12 @@
       "started_at": "2026-08-14T15:27:43Z"
     },
     {
+      "username": "ipaintbirbs",
+      "title": "without duck, who am i???",
+      "game": "Art",
+      "started_at": "2026-08-14T17:00:46Z"
+    },
+    {
       "username": "Zachap",
       "title": "🧠📚 doing my best i guess  📚🧠",
       "game": "Just Chatting",
@@ -24,12 +30,6 @@
       "title": "Building a custom designed powered MULT (euro rack synth). Part2!",
       "game": "Science & Technology",
       "started_at": "2026-08-14T16:18:08Z"
-    },
-    {
-      "username": "pencenter",
-      "title": "MATH FRIDAY [(off) !fish🎣|!commands💻]",
-      "game": "Math",
-      "started_at": "2026-08-14T15:59:39Z"
     }
   ]
 }
