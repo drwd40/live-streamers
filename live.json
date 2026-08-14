@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-14T06:37:31.936Z",
+  "timestamp": "2026-08-14T07:04:21.508Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -16,14 +16,8 @@
     {
       "username": "happyknightmares",
       "title": "Going down The Oregon Trail for the first time! 🖥️🕹️👾",
-      "game": "Just Chatting",
+      "game": "The Oregon Trail",
       "started_at": "2026-08-14T05:49:10Z"
-    },
-    {
-      "username": "walkingsticklibrary",
-      "title": "There's a phage in my cheese! Shadow libraries, and where do those fruit flies come from?",
-      "game": "Science & Technology",
-      "started_at": "2026-08-14T01:32:23Z"
     }
   ]
 }
