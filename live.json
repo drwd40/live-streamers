@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-08-14T17:55:12.125Z",
+  "timestamp": "2026-08-14T18:14:59.548Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
-      "game": "Animals, Aquariums, and Zoos",
+      "title": "Show and Tell | !alveus !institute !pixel !schedule !video",
+      "game": "Just Chatting",
       "started_at": "2026-08-13T12:52:20Z"
     },
     {
@@ -26,10 +26,22 @@
       "started_at": "2026-08-14T10:05:05Z"
     },
     {
+      "username": "AstroCanuck",
+      "title": "[CHARITY] Stand Up To Cancer fundraiser with @matt_the_mo_bro - !friday !donate @su2c | !team !teamprize | !drop",
+      "game": "Lego & Brickbuilding",
+      "started_at": "2026-08-14T17:55:24Z"
+    },
+    {
       "username": "oh_bother",
       "title": "Building a custom designed powered MULT (euro rack synth). Part2!",
       "game": "Science & Technology",
       "started_at": "2026-08-14T16:18:08Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀 Update #50 Released! - Rise of Piracy Dev. | !charity !rop !patreon !discord",
+      "game": "Software and Game Development",
+      "started_at": "2026-08-14T18:13:42Z"
     }
   ]
 }
