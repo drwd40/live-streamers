@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-14T19:56:25.110Z",
+  "timestamp": "2026-08-14T20:09:58.197Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,10 +38,22 @@
       "started_at": "2026-08-14T16:18:08Z"
     },
     {
+      "username": "AdamLearnsLive",
+      "title": "Game design and a retrospective of the last fortnight (day 81½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-08-14T20:02:59Z"
+    },
+    {
       "username": "pencenter",
       "title": "MATH FRIDAY [(off) !fish🎣|!commands💻]",
       "game": "Math",
       "started_at": "2026-08-14T19:55:20Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Namalsk. Going for the vinyl but probably being coast locked",
+      "game": "DayZ",
+      "started_at": "2026-08-14T20:08:17Z"
     }
   ]
 }
