@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-14T19:39:24.182Z",
+  "timestamp": "2026-08-14T19:56:25.110Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "Building a custom designed powered MULT (euro rack synth). Part2!",
       "game": "Science & Technology",
       "started_at": "2026-08-14T16:18:08Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "MATH FRIDAY [(off) !fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-08-14T19:55:20Z"
     }
   ]
 }
