@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-14T04:15:40.958Z",
+  "timestamp": "2026-08-14T04:56:20.223Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-08-14T00:50:20Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Solder Closer Tiny Dancer (Tony Danza) - Electronics - Repairs - Builds",
-      "game": "Science & Technology",
-      "started_at": "2026-08-13T19:00:27Z"
-    },
-    {
       "username": "SharkG33k",
       "title": "Assassin's Creed Black Flag: Resynced Achievement Hunting! | !TFT",
       "game": "Assassin's Creed Black Flag Resynced",
       "started_at": "2026-08-14T00:10:55Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Solder Closer Tiny Dancer (Tony Danza) - Electronics - Repairs - Builds",
+      "game": "Science & Technology",
+      "started_at": "2026-08-13T19:00:27Z"
     },
     {
       "username": "walkingsticklibrary",
