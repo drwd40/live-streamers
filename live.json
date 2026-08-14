@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-08-14T18:57:11.740Z",
+  "timestamp": "2026-08-14T19:20:41.360Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Show and Tell | !alveus !institute !pixel !schedule !video",
+      "title": "Projects w/ Connor | !alveus !institute !pixel !schedule !video",
       "game": "Just Chatting",
       "started_at": "2026-08-13T12:52:20Z"
     },
@@ -20,16 +20,16 @@
       "started_at": "2026-08-14T17:55:24Z"
     },
     {
-      "username": "Zachap",
-      "title": "🧠📚 doing my best i guess  📚🧠",
-      "game": "Just Chatting",
-      "started_at": "2026-08-14T10:05:05Z"
-    },
-    {
       "username": "IrishJohnGames",
       "title": "🍀 Update #50 Released! - Rise of Piracy Dev. | !charity !rop !patreon !discord",
       "game": "Software and Game Development",
       "started_at": "2026-08-14T18:13:42Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "🧠📚 doing my best i guess  📚🧠",
+      "game": "Just Chatting",
+      "started_at": "2026-08-14T10:05:05Z"
     },
     {
       "username": "oh_bother",
