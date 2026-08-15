@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-15T04:30:04.008Z",
+  "timestamp": "2026-08-15T04:44:39.148Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,12 @@
       "title": "SciAnts News | New species, dolphin tools, bees, plants, moths, anti-venoms and more! | Partner+ 120/300 | !ppp !yt !pod !jj",
       "game": "Science & Technology",
       "started_at": "2026-08-15T01:05:52Z"
+    },
+    {
+      "username": "DrMick",
+      "title": "Therapist Plays KCD2: Part 13",
+      "game": "Kingdom Come: Deliverance II",
+      "started_at": "2026-08-15T04:32:56Z"
     }
   ]
 }
