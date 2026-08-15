@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-15T20:07:02.561Z",
+  "timestamp": "2026-08-15T20:16:59.173Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-08-15T10:02:45Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Soldering, Rock You Like A Hurricane",
-      "game": "Science & Technology",
-      "started_at": "2026-08-15T19:30:11Z"
-    },
-    {
       "username": "DonFactorial",
       "title": "Answering your math questions and learning Linear Algebra",
       "game": "Math",
       "started_at": "2026-08-15T18:55:09Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Soldering, Rock You Like A Hurricane",
+      "game": "Science & Technology",
+      "started_at": "2026-08-15T19:30:11Z"
     }
   ]
 }
