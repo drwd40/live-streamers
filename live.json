@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-15T19:25:24.656Z",
+  "timestamp": "2026-08-15T19:35:26.569Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "Answering your math questions and learning Linear Algebra",
       "game": "Math",
       "started_at": "2026-08-15T18:55:09Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Soldering, Rock You Like A Hurricane",
+      "game": "Science & Technology",
+      "started_at": "2026-08-15T19:30:11Z"
     }
   ]
 }
