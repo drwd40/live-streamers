@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-15T17:39:29.818Z",
+  "timestamp": "2026-08-15T17:48:42.542Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-08-15T16:36:15Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Math/Ed Chat -- 2026.08.15",
-      "game": "Math",
-      "started_at": "2026-08-15T16:40:07Z"
-    },
-    {
       "username": "Andilippi",
       "title": "Gotta go fast! - New sub alert! - !menu - 500 Bits... 🤠",
       "game": "Sonic The Hedgehog",
       "started_at": "2026-08-15T15:52:36Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Math/Ed Chat -- 2026.08.15",
+      "game": "Math",
+      "started_at": "2026-08-15T16:40:07Z"
     },
     {
       "username": "GeneralSte",
