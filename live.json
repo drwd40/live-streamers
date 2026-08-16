@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-16T15:08:14.603Z",
+  "timestamp": "2026-08-16T15:18:35.465Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,12 +36,6 @@
       "title": "Clickety-click. - New sub alert! - !menu - 500 Bits... 🤠",
       "game": "Sonic The Hedgehog",
       "started_at": "2026-08-16T11:48:32Z"
-    },
-    {
-      "username": "DrAlexanderClarke",
-      "title": "A Historian trying not to Bankrupt a Book Store... and another interesting Game or Two",
-      "game": "BookStore Simulator",
-      "started_at": "2026-08-16T11:58:36Z"
     }
   ]
 }
