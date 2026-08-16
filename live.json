@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-16T19:01:08.225Z",
+  "timestamp": "2026-08-16T19:10:21.553Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,6 +32,12 @@
       "started_at": "2026-08-16T14:06:45Z"
     },
     {
+      "username": "DasValdez",
+      "title": "Can NASA Jump Start a Moon Base? - Intrepid Museum Astro Live",
+      "game": "Science & Technology",
+      "started_at": "2026-08-16T18:56:35Z"
+    },
+    {
       "username": "GeneralSte",
       "title": "I WILL NOT BE DEFEATED!  | !linktree !discord",
       "game": "Baldur's Gate 3",
@@ -42,12 +48,6 @@
       "title": "Bruships 255: Modern Navy & Naval History Questions Answered Live...",
       "game": "Just Chatting",
       "started_at": "2026-08-16T18:34:32Z"
-    },
-    {
-      "username": "DasValdez",
-      "title": "Can NASA Jump Start a Moon Base? - Intrepid Museum Astro Live",
-      "game": "Science & Technology",
-      "started_at": "2026-08-16T18:56:35Z"
     }
   ]
 }
