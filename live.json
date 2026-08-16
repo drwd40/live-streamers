@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-16T20:01:51.730Z",
+  "timestamp": "2026-08-16T20:10:13.289Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,16 @@
       "started_at": "2026-08-16T18:56:35Z"
     },
     {
-      "username": "DrAlexanderClarke",
-      "title": "Bruships 255: Modern Navy & Naval History Questions Answered Live...",
-      "game": "Just Chatting",
-      "started_at": "2026-08-16T18:34:32Z"
-    },
-    {
       "username": "VolcanoDoc",
       "title": "back from 🌋 fieldwork - let's watch footage | 🌋 Science Sunday | !phd !socials !pubs !merch",
       "game": "Science & Technology",
       "started_at": "2026-08-16T19:21:00Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "Bruships 255: Modern Navy & Naval History Questions Answered Live...",
+      "game": "Just Chatting",
+      "started_at": "2026-08-16T18:34:32Z"
     }
   ]
 }
