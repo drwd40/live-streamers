@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-17T21:44:51.429Z",
+  "timestamp": "2026-08-17T21:54:26.945Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-08-17T19:58:07Z"
     },
     {
+      "username": "EJ_SA",
+      "title": "EJ's Space and Rocket Revue! 8/17/26",
+      "game": "Science & Technology",
+      "started_at": "2026-08-17T21:43:16Z"
+    },
+    {
       "username": "AdamLearnsLive",
       "title": "Early stages of a new Metroidvania sub-game (day 82½)",
       "game": "Software and Game Development",
       "started_at": "2026-08-17T20:14:38Z"
-    },
-    {
-      "username": "IrishJohnGames",
-      "title": "🍀 500 Reviews on Rise of Piracy! | !rop !patreon !discord",
-      "game": "Software and Game Development",
-      "started_at": "2026-08-17T19:27:42Z"
     },
     {
       "username": "Zachap",
@@ -32,10 +32,16 @@
       "started_at": "2026-08-17T10:02:39Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "EJ's Space and Rocket Revue! 8/17/26",
-      "game": "Science & Technology",
-      "started_at": "2026-08-17T21:43:16Z"
+      "username": "imreallyimportant",
+      "title": "JON OSSOFF TRIGGERS TRUMP ADMIN WITH SHOT AT HIS \"MISTRESS\" | LIB & LEARN @ 7 PM EST",
+      "game": "Just Chatting",
+      "started_at": "2026-08-17T21:50:11Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Post-Vacation Mathematics for Social Justice News - 20260817",
+      "game": "Math",
+      "started_at": "2026-08-17T21:47:26Z"
     }
   ]
 }
