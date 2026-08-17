@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-17T20:10:25.175Z",
+  "timestamp": "2026-08-17T20:21:51.883Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "🍀 500 Reviews on Rise of Piracy! | !rop !patreon !discord",
       "game": "Software and Game Development",
       "started_at": "2026-08-17T19:27:42Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Early stages of a new Metroidvania sub-game (day 82½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-08-17T20:14:38Z"
     }
   ]
 }
