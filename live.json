@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-17T05:01:08.230Z",
+  "timestamp": "2026-08-17T05:18:17.128Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,10 +8,10 @@
       "started_at": "2026-08-15T12:52:22Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "🏴‍☠️SciAnts of the Caribbean🏴‍☠️ | Caribbean ecology, piracy and more | Partner+ 141/300 | !ppp !yt !pod !jj",
-      "game": "Assassin's Creed Black Flag Resynced",
-      "started_at": "2026-08-17T01:00:51Z"
+      "username": "DrMick",
+      "title": "Therapist Plays KCD2: Part 15",
+      "game": "Kingdom Come: Deliverance II",
+      "started_at": "2026-08-17T04:31:54Z"
     },
     {
       "username": "Nerduino",
@@ -20,16 +20,22 @@
       "started_at": "2026-08-17T00:50:13Z"
     },
     {
-      "username": "DrMick",
-      "title": "Therapist Plays KCD2: Part 15",
-      "game": "Kingdom Come: Deliverance II",
-      "started_at": "2026-08-17T04:31:54Z"
+      "username": "SciAnts_Streams",
+      "title": "🏴‍☠️SciAnts of the Caribbean🏴‍☠️ | Caribbean ecology, piracy and more | Partner+ 141/300 | !ppp !yt !pod !jj",
+      "game": "Assassin's Creed Black Flag Resynced",
+      "started_at": "2026-08-17T01:00:51Z"
     },
     {
       "username": "happyknightmares",
       "title": "More adventures on The Oregon Trail! 🖥️🕹️👾",
       "game": "The Oregon Trail",
       "started_at": "2026-08-17T04:51:41Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Reading aloud vs. silently: history, performance, brain. What makes black swallowtails special, and raw asparagus salad.",
+      "game": "Science & Technology",
+      "started_at": "2026-08-17T05:06:28Z"
     }
   ]
 }
