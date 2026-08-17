@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-17T00:42:00.729Z",
+  "timestamp": "2026-08-17T01:09:08.771Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,28 +14,34 @@
       "started_at": "2026-08-16T21:49:45Z"
     },
     {
-      "username": "ArchitectureTV",
-      "title": "90s kitchen, unpacking, organizing, ants? Interior Design 💜 Architecture IRL 💜",
-      "game": "IRL",
-      "started_at": "2026-08-16T16:26:05Z"
-    },
-    {
       "username": "shnaff",
       "title": "Chill instrumental guitar and piano in !stereo🎧",
       "game": "Music",
       "started_at": "2026-08-16T22:08:30Z"
     },
     {
-      "username": "MelissaInDeNile",
-      "title": "Back to the 7 Seas in Assassins Creed Black Flag Resynced!! ~ Follower Goal: 2431/2600 ~ !socials !beyonddenile",
+      "username": "Nerduino",
+      "title": "Sunday Nighty Science - Space news/updates/Cubesat Simulator!  #NASA #science #space scientist  #climatechange #climatescience #partnerpush",
+      "game": "Science & Technology",
+      "started_at": "2026-08-17T00:50:13Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "🏴‍☠️SciAnts of the Caribbean🏴‍☠️ | Caribbean ecology, piracy and more | Partner+ 141/300 | !ppp !yt !pod !jj",
       "game": "Assassin's Creed Black Flag Resynced",
-      "started_at": "2026-08-16T22:51:00Z"
+      "started_at": "2026-08-17T01:00:51Z"
     },
     {
       "username": "ActualEducation",
       "title": "Summer of Math Exposition Review-a-Thon!",
       "game": "Just Chatting",
       "started_at": "2026-08-16T23:58:03Z"
+    },
+    {
+      "username": "MelissaInDeNile",
+      "title": "Back to the 7 Seas in Assassins Creed Black Flag Resynced!! ~ Follower Goal: 2431/2600 ~ !socials !beyonddenile",
+      "game": "Assassin's Creed Black Flag Resynced",
+      "started_at": "2026-08-16T22:51:00Z"
     }
   ]
 }
