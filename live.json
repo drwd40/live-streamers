@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-17T06:35:56.515Z",
+  "timestamp": "2026-08-17T06:59:09.960Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,28 +8,22 @@
       "started_at": "2026-08-15T12:52:22Z"
     },
     {
-      "username": "Nerduino",
-      "title": "Scientific ballooning on Twitch? #NASA #science #space scientist  #climatechange #climatescience #partnerpush",
-      "game": "Science & Technology",
-      "started_at": "2026-08-17T00:50:13Z"
-    },
-    {
       "username": "DrMick",
       "title": "Therapist Plays KCD2: Part 15",
       "game": "Kingdom Come: Deliverance II",
       "started_at": "2026-08-17T04:31:54Z"
     },
     {
+      "username": "Nerduino",
+      "title": "Scientific ballooning on Twitch? #NASA #science #space scientist  #climatechange #climatescience #partnerpush",
+      "game": "Science & Technology",
+      "started_at": "2026-08-17T00:50:13Z"
+    },
+    {
       "username": "happyknightmares",
       "title": "More adventures on The Oregon Trail! 🖥️🕹️👾",
       "game": "The Oregon Trail",
       "started_at": "2026-08-17T04:51:41Z"
-    },
-    {
-      "username": "walkingsticklibrary",
-      "title": "Reading aloud vs. silently: history, performance, brain. What makes black swallowtails special, and raw asparagus salad.",
-      "game": "Science & Technology",
-      "started_at": "2026-08-17T05:06:28Z"
     }
   ]
 }
