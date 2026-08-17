@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-17T16:01:11.504Z",
+  "timestamp": "2026-08-17T16:10:32.311Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-08-17T12:52:25Z"
     },
     {
-      "username": "Zachap",
-      "title": "🧠📚 liberals fail  📚🧠",
-      "game": "Just Chatting",
-      "started_at": "2026-08-17T10:02:39Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "New sub-game! I'll bring the Metroid, you bring the Vania (day 82)",
       "game": "Software and Game Development",
       "started_at": "2026-08-17T15:12:20Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "🧠📚 liberals fail  📚🧠",
+      "game": "Just Chatting",
+      "started_at": "2026-08-17T10:02:39Z"
     }
   ]
 }
