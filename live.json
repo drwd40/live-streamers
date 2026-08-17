@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-17T20:00:42.743Z",
+  "timestamp": "2026-08-17T20:10:25.175Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,9 +8,15 @@
       "started_at": "2026-08-17T12:52:25Z"
     },
     {
+      "username": "Paleontologizing",
+      "title": "Let's chat about dinosaur science & popular media 🦖❔💬 Q&A w/ paleontologist Danny Anduza ⚠ No stream tomorrow (Tuesday) ⚠",
+      "game": "Science & Technology",
+      "started_at": "2026-08-17T19:58:07Z"
+    },
+    {
       "username": "Zachap",
       "title": "🧠📚 liberals fail  📚🧠",
-      "game": "Politics",
+      "game": "Just Chatting",
       "started_at": "2026-08-17T10:02:39Z"
     },
     {
@@ -18,12 +24,6 @@
       "title": "🍀 500 Reviews on Rise of Piracy! | !rop !patreon !discord",
       "game": "Software and Game Development",
       "started_at": "2026-08-17T19:27:42Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "Let's chat about dinosaur science & popular media 🦖❔💬 Q&A w/ paleontologist Danny Anduza ⚠ No stream tomorrow (Tuesday) ⚠",
-      "game": "Science & Technology",
-      "started_at": "2026-08-17T19:58:07Z"
     }
   ]
 }
