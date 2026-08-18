@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-18T00:22:37.780Z",
+  "timestamp": "2026-08-18T00:41:42.373Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,6 +26,12 @@
       "started_at": "2026-08-17T10:02:39Z"
     },
     {
+      "username": "SciAnts_Streams",
+      "title": "Microscopy Monday | Tiny worlds under the microscope + deep dive on olfaction | Partner+ 148/300 | !ppp !yt !pod !jj",
+      "game": "Science & Technology",
+      "started_at": "2026-08-18T00:35:49Z"
+    },
+    {
       "username": "ActualEducation",
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Just Chatting",
@@ -36,6 +42,12 @@
       "title": "Post-Vacation Mathematics for Social Justice News - 20260817",
       "game": "Math",
       "started_at": "2026-08-17T21:47:26Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Microsoft Mondays. The Class Birthday Spread Sheet form the Infernal Regions.",
+      "game": "Science & Technology",
+      "started_at": "2026-08-18T00:29:13Z"
     }
   ]
 }
