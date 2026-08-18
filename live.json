@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-18T23:43:08.451Z",
+  "timestamp": "2026-08-18T23:52:16.055Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,16 +38,22 @@
       "started_at": "2026-08-18T22:50:22Z"
     },
     {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-08-18T23:37:02Z"
+    },
+    {
       "username": "nSimplexPachinko",
       "title": "Taking a Sledge to the Reservoir... Day 51; Night 022 - 20260818",
       "game": "Blue Prince",
       "started_at": "2026-08-18T20:59:58Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
-      "game": "Just Chatting",
-      "started_at": "2026-08-18T23:37:02Z"
+      "username": "AstroCanuck",
+      "title": "Astro's Po'Pourri: LEGO Space Pinball & Space News | !pgv !drop",
+      "game": "Lego & Brickbuilding",
+      "started_at": "2026-08-18T23:51:59Z"
     }
   ]
 }
