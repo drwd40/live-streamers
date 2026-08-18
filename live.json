@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-18T21:53:21.320Z",
+  "timestamp": "2026-08-18T22:00:42.665Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-08-17T12:52:25Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Bohemian Soldering - Electronics - Repairs - Analog Synthesizers",
-      "game": "Just Chatting",
-      "started_at": "2026-08-18T19:00:35Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "ELECTION NIGHT: FLORIDA, ALASKA & MORE",
       "game": "Just Chatting",
       "started_at": "2026-08-18T21:49:42Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Bohemian Soldering - Electronics - Repairs - Analog Synthesizers",
+      "game": "Just Chatting",
+      "started_at": "2026-08-18T19:00:35Z"
     },
     {
       "username": "DonFactorial",
