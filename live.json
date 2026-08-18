@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-18T15:42:45.981Z",
+  "timestamp": "2026-08-18T15:55:35.865Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-08-17T12:52:25Z"
     },
     {
-      "username": "Zachap",
-      "title": "🧠📚 liberals fail  📚🧠",
-      "game": "Just Chatting",
-      "started_at": "2026-08-18T10:01:02Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "Sidekick is losing their mind (!today) (day 83)",
       "game": "Software and Game Development",
       "started_at": "2026-08-18T15:26:59Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "🧠📚 liberals fail  📚🧠",
+      "game": "Just Chatting",
+      "started_at": "2026-08-18T10:01:02Z"
     }
   ]
 }
