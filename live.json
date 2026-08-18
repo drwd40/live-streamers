@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-18T22:09:08.727Z",
+  "timestamp": "2026-08-18T22:19:52.569Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-08-18T19:00:35Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Reviewing math videos! Summer of Math Exposition Review-a-Thon Year 2, organized by @enstucky !whatshappening",
-      "game": "Math",
-      "started_at": "2026-08-18T21:22:17Z"
-    },
-    {
       "username": "shnaff",
       "title": "Chill guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2026-08-18T22:03:43Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Reviewing math videos! Summer of Math Exposition Review-a-Thon Year 2, organized by @enstucky !whatshappening",
+      "game": "Math",
+      "started_at": "2026-08-18T21:22:17Z"
     },
     {
       "username": "nSimplexPachinko",
