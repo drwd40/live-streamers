@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-18T02:39:17.494Z",
+  "timestamp": "2026-08-18T03:02:55.567Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,22 +8,16 @@
       "started_at": "2026-08-17T12:52:25Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "Microscopy Monday | Tiny worlds under the microscope + deep dive on olfaction | Partner+ 148/300 | !ppp !yt !pod !jj",
-      "game": "Science & Technology",
-      "started_at": "2026-08-18T00:35:49Z"
-    },
-    {
       "username": "Moohoodles",
       "title": "🪐 Astrobiology & Space News ✨",
       "game": "Science & Technology",
       "started_at": "2026-08-18T01:17:15Z"
     },
     {
-      "username": "Zachap",
-      "title": "🧠📚 liberals fail  📚🧠",
-      "game": "Just Chatting",
-      "started_at": "2026-08-17T10:02:39Z"
+      "username": "SciAnts_Streams",
+      "title": "Microscopy Monday | Tiny worlds under the microscope + deep dive on olfaction | Partner+ 148/300 | !ppp !yt !pod !jj",
+      "game": "Science & Technology",
+      "started_at": "2026-08-18T00:35:49Z"
     }
   ]
 }
