@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-18T06:03:17.413Z",
+  "timestamp": "2026-08-18T06:15:49.753Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,12 +14,6 @@
       "started_at": "2026-08-18T01:17:15Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "Microscopy Monday | Tiny worlds under the microscope + deep dive on olfaction | Partner+ 148/300 | !ppp !yt !pod !jj",
-      "game": "Science & Technology",
-      "started_at": "2026-08-18T00:35:49Z"
-    },
-    {
       "username": "DrMick",
       "title": "Solo Compiler Final Attempts",
       "game": "Marathon",
@@ -28,7 +22,7 @@
     {
       "username": "happyknightmares",
       "title": "More adventures on The Oregon Trail! 🖥️🕹️👾",
-      "game": "Zero Gravity",
+      "game": "PUZZ'L",
       "started_at": "2026-08-18T03:03:52Z"
     }
   ]
