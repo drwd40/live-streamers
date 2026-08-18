@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-18T02:14:31.393Z",
+  "timestamp": "2026-08-18T02:39:17.494Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,28 +8,22 @@
       "started_at": "2026-08-17T12:52:25Z"
     },
     {
-      "username": "Moohoodles",
-      "title": "🪐 Astrobiology & Space News ✨",
-      "game": "Science & Technology",
-      "started_at": "2026-08-18T01:17:15Z"
-    },
-    {
       "username": "SciAnts_Streams",
       "title": "Microscopy Monday | Tiny worlds under the microscope + deep dive on olfaction | Partner+ 148/300 | !ppp !yt !pod !jj",
       "game": "Science & Technology",
       "started_at": "2026-08-18T00:35:49Z"
     },
     {
+      "username": "Moohoodles",
+      "title": "🪐 Astrobiology & Space News ✨",
+      "game": "Science & Technology",
+      "started_at": "2026-08-18T01:17:15Z"
+    },
+    {
       "username": "Zachap",
       "title": "🧠📚 liberals fail  📚🧠",
       "game": "Just Chatting",
       "started_at": "2026-08-17T10:02:39Z"
-    },
-    {
-      "username": "walkingsticklibrary",
-      "title": "Microsoft Mondays. The Class Birthday Spread Sheet form the Infernal Regions.",
-      "game": "Science & Technology",
-      "started_at": "2026-08-18T00:29:13Z"
     }
   ]
 }
