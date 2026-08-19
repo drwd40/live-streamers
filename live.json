@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-19T19:10:35.100Z",
+  "timestamp": "2026-08-19T19:22:02.936Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,12 @@
       "title": "🧠📚 education mines 📚🧠",
       "game": "Just Chatting",
       "started_at": "2026-08-19T10:03:13Z"
+    },
+    {
+      "username": "AcademyOfUselessIdeas",
+      "title": "Doing some algebra before checking math videos!",
+      "game": "Math",
+      "started_at": "2026-08-19T19:10:37Z"
     }
   ]
 }
