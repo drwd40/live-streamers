@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-19T20:59:50.760Z",
+  "timestamp": "2026-08-19T21:10:27.814Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,28 @@
       "started_at": "2026-08-19T20:03:19Z"
     },
     {
+      "username": "AdamLearnsLive",
+      "title": "Developing a game (day 84½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-08-19T20:27:05Z"
+    },
+    {
       "username": "Zachap",
       "title": "🧠📚 education mines 📚🧠",
       "game": "Just Chatting",
       "started_at": "2026-08-19T10:03:13Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Developing a game (day 84½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-08-19T20:27:05Z"
+      "username": "EJ_SA",
+      "title": "EJ's Space and Rocket Revue! 8/19/26",
+      "game": "Science & Technology",
+      "started_at": "2026-08-19T21:07:58Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "Summer of Mathematics Exposition - REVIEWING ENTRIES W @alephmuvt @oakleypankratz [!fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-08-19T21:01:13Z"
     }
   ]
 }
