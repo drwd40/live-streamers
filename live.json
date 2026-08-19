@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-19T05:56:44.160Z",
+  "timestamp": "2026-08-19T06:09:24.246Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,22 +14,16 @@
       "started_at": "2026-08-19T01:01:38Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Bohemian Soldering - Electronics - Repairs - Analog Synthesizers",
+      "username": "happyknightmares",
+      "title": "Doing synesthesia research! Listening to music and gathering data 🌈🎶🧠 (May ignore chat for periods, but I'll catch up to you after!)",
       "game": "Science & Technology",
-      "started_at": "2026-08-18T19:00:35Z"
+      "started_at": "2026-08-19T05:04:17Z"
     },
     {
       "username": "walkingsticklibrary",
       "title": "Some math video evaluation and a culinary turn.",
       "game": "Science & Technology",
       "started_at": "2026-08-19T01:32:55Z"
-    },
-    {
-      "username": "happyknightmares",
-      "title": "Doing synesthesia research! Listening to music and gathering data 🌈🎶🧠 (May ignore chat for periods, but I'll catch up to you after!)",
-      "game": "Science & Technology",
-      "started_at": "2026-08-19T05:04:17Z"
     }
   ]
 }
