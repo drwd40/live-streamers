@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-19T21:21:54.881Z",
+  "timestamp": "2026-08-19T21:35:07.267Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-08-19T12:52:27Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "🦕❔💬✔ DINOSAUR SCIENCE Q&A 🦖❔💬✔ Bring your best dinosaur questions (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-08-19T20:03:19Z"
-    },
-    {
       "username": "EJ_SA",
       "title": "EJ's Space and Rocket Revue! 8/19/26",
       "game": "Science & Technology",
       "started_at": "2026-08-19T21:07:58Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "🦕❔💬✔ DINOSAUR SCIENCE Q&A 🦖❔💬✔ Bring your best dinosaur questions (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-08-19T20:03:19Z"
     },
     {
       "username": "Zachap",
@@ -32,16 +32,16 @@
       "started_at": "2026-08-19T20:27:05Z"
     },
     {
-      "username": "pencenter",
-      "title": "Summer of Mathematics Exposition - REVIEWING ENTRIES W @alephmuvt @oakleypankratz [!fish🎣|!commands💻]",
-      "game": "Math",
-      "started_at": "2026-08-19T21:01:13Z"
-    },
-    {
       "username": "DrawCuriosity",
       "title": "✈️ Trying acrylic markers and maybe even WATERCOLOURS! ✨🐏!tier2 !tier3",
       "game": "Art",
       "started_at": "2026-08-19T21:20:30Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "Summer of Mathematics Exposition - REVIEWING ENTRIES W @alephmuvt @oakleypankratz [!fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-08-19T21:01:13Z"
     },
     {
       "username": "nSimplexPachinko",
