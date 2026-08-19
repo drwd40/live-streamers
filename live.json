@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-19T20:02:08.478Z",
+  "timestamp": "2026-08-19T20:11:22.388Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "🧠📚 education mines 📚🧠",
       "game": "Just Chatting",
       "started_at": "2026-08-19T10:03:13Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "🦕❔💬✔ DINOSAUR SCIENCE Q&A 🦖❔💬✔ Bring your best dinosaur questions (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-08-19T20:03:19Z"
     }
   ]
 }
