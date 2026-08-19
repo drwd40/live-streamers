@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-19T23:50:41.070Z",
+  "timestamp": "2026-08-19T23:58:51.383Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -42,6 +42,12 @@
       "title": "Directional Derivatives and the Gradient! Cracking the GRE Math Subject Test, Night 049 - 20260819",
       "game": "Math",
       "started_at": "2026-08-19T21:21:29Z"
+    },
+    {
+      "username": "AcademyOfUselessIdeas",
+      "title": "Review a thon for SoME.",
+      "game": "Math",
+      "started_at": "2026-08-19T23:56:33Z"
     }
   ]
 }
