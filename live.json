@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-19T01:06:04.021Z",
+  "timestamp": "2026-08-19T01:43:38.244Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,6 +20,18 @@
       "started_at": "2026-08-18T23:51:59Z"
     },
     {
+      "username": "SciAnts_Streams",
+      "title": "Tinker Tuesday | Animal interactions, model builds, and rabbit holes galore! | Partner+ 160/300 | !ppp !yt !pod !jj",
+      "game": "Science & Technology",
+      "started_at": "2026-08-19T01:01:38Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Tuesday Science and Tech chat.  #NASA #science #space scientist  #climatechange #climatescience #partnerpush",
+      "game": "Science & Technology",
+      "started_at": "2026-08-19T00:50:47Z"
+    },
+    {
       "username": "shnaff",
       "title": "Chill guitar, piano, and singing in !stereo🎧",
       "game": "Music",
@@ -32,40 +44,22 @@
       "started_at": "2026-08-18T19:00:35Z"
     },
     {
-      "username": "Nerduino",
-      "title": "Tuesday Science and Tech chat.  #NASA #science #space scientist  #climatechange #climatescience #partnerpush",
+      "username": "walkingsticklibrary",
+      "title": "Some math video evaluation and a culinary turn.",
       "game": "Science & Technology",
-      "started_at": "2026-08-19T00:50:47Z"
+      "started_at": "2026-08-19T01:32:55Z"
     },
     {
       "username": "MelissaInDeNile",
       "title": "Game Demo Night! Let's test out some upcoming Museum/Egypt/Cartography Games! ~ Follower Goal: 2435/2600 ~ !socials !beyonddenile",
-      "game": "Curation",
+      "game": "Just Chatting",
       "started_at": "2026-08-18T22:50:22Z"
-    },
-    {
-      "username": "DonFactorial",
-      "title": "Reviewing math videos! Summer of Math Exposition Review-a-Thon Year 2, organized by @enstucky !whatshappening",
-      "game": "Math",
-      "started_at": "2026-08-18T21:22:17Z"
-    },
-    {
-      "username": "SciAnts_Streams",
-      "title": "Tinker Tuesday | Animal interactions, model builds, and rabbit holes galore! | Partner+ 160/300 | !ppp !yt !pod !jj",
-      "game": "Science & Technology",
-      "started_at": "2026-08-19T01:01:38Z"
     },
     {
       "username": "Mr_Aejis",
       "title": "1st time Persona playthrough!",
       "game": "Persona 5",
       "started_at": "2026-08-18T23:52:34Z"
-    },
-    {
-      "username": "ActualEducation",
-      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
-      "game": "Just Chatting",
-      "started_at": "2026-08-18T23:37:02Z"
     }
   ]
 }
