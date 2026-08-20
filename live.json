@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-20T07:08:37.867Z",
+  "timestamp": "2026-08-20T07:26:54.191Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -9,15 +9,9 @@
     },
     {
       "username": "DrMick",
-      "title": "Late Night Airbrushing & Deckbuilding",
-      "game": "Miniatures & Models",
+      "title": "Late Night Deckbuilding",
+      "game": "Pokémon Trading Card Game",
       "started_at": "2026-08-20T06:29:33Z"
-    },
-    {
-      "username": "walkingsticklibrary",
-      "title": "Black swallowtails and science, the origin of millipedes, and the ideology of positive thinking and hypocrisy of Eddie Conner.",
-      "game": "Science & Technology",
-      "started_at": "2026-08-20T01:34:46Z"
     }
   ]
 }
