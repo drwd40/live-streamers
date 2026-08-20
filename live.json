@@ -1,11 +1,17 @@
 {
-  "timestamp": "2026-08-20T21:59:25.063Z",
+  "timestamp": "2026-08-20T22:09:25.424Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-08-19T12:52:27Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "What happens if WWII took place as scheduled... after 1942? (Patreon)",
+      "game": "Just Chatting",
+      "started_at": "2026-08-20T18:31:35Z"
     },
     {
       "username": "Paleontologizing",
@@ -20,6 +26,12 @@
       "started_at": "2026-08-20T17:06:37Z"
     },
     {
+      "username": "imreallyimportant",
+      "title": "TALKING TO C-SPAN'S COMMUNICATIONS DIRECTOR @ 7 PM EST",
+      "game": "Just Chatting",
+      "started_at": "2026-08-20T21:51:26Z"
+    },
+    {
       "username": "Zachap",
       "title": "🧠📚 state fetishization de-proletarianizes people 📚🧠",
       "game": "Just Chatting",
@@ -32,40 +44,22 @@
       "started_at": "2026-08-20T18:53:54Z"
     },
     {
-      "username": "imreallyimportant",
-      "title": "TALKING TO C-SPAN'S COMMUNICATIONS DIRECTOR @ 7 PM EST",
-      "game": "Just Chatting",
-      "started_at": "2026-08-20T21:51:26Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Smoke On The Solder - Electronics - Synthesizers",
       "game": "Science & Technology",
       "started_at": "2026-08-20T19:00:54Z"
     },
     {
+      "username": "shnaff",
+      "title": "Chill guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-08-20T22:00:36Z"
+    },
+    {
       "username": "DonFactorial",
       "title": "Solving a second Electricity and Magnetism Midterm with @femvoxfan math after",
       "game": "Math",
       "started_at": "2026-08-20T19:59:53Z"
-    },
-    {
-      "username": "DrAlexanderClarke",
-      "title": "What happens if WWII took place as scheduled... after 1942? (Patreon)",
-      "game": "Just Chatting",
-      "started_at": "2026-08-20T18:31:35Z"
-    },
-    {
-      "username": "nSimplexPachinko",
-      "title": "3b1B's Summer of Math Exposition Review-a-Thon - 20260820 - Raiding phobosDREAM at 2200 UTC",
-      "game": "Math",
-      "started_at": "2026-08-20T19:47:44Z"
-    },
-    {
-      "username": "SETIInstitute",
-      "title": "Why Do Some Solar Eruptions Fail? | SETI Live",
-      "game": "Talk Shows & Podcasts",
-      "started_at": "2026-08-20T21:30:46Z"
     }
   ]
 }
