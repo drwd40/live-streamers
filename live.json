@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-20T19:19:08.413Z",
+  "timestamp": "2026-08-20T19:33:47.254Z",
   "live": [
     {
       "username": "Kitboga",
@@ -32,16 +32,16 @@
       "started_at": "2026-08-20T18:53:54Z"
     },
     {
-      "username": "DrAlexanderClarke",
-      "title": "What happens if WWII took place as scheduled... after 1942? (Patreon)",
-      "game": "Just Chatting",
-      "started_at": "2026-08-20T18:31:35Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Smoke On The Solder - Electronics - Synthesizers",
       "game": "Just Chatting",
       "started_at": "2026-08-20T19:00:54Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "What happens if WWII took place as scheduled... after 1942? (Patreon)",
+      "game": "Just Chatting",
+      "started_at": "2026-08-20T18:31:35Z"
     }
   ]
 }
