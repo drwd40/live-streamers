@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-20T22:09:25.424Z",
+  "timestamp": "2026-08-20T22:20:48.303Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-08-20T20:09:13Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "Duskfade Clock Genetics | Science of clocks, circadian rhythm, time hopping and more!  | Partner+ 193/300 | !ppp !yt !pod !jj",
-      "game": "Science & Technology",
-      "started_at": "2026-08-20T17:06:37Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "TALKING TO C-SPAN'S COMMUNICATIONS DIRECTOR @ 7 PM EST",
       "game": "Just Chatting",
       "started_at": "2026-08-20T21:51:26Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "Duskfade Clock Genetics | Science of clocks, circadian rhythm, time hopping and more!  | Partner+ 193/300 | !ppp !yt !pod !jj",
+      "game": "Science & Technology",
+      "started_at": "2026-08-20T17:06:37Z"
     },
     {
       "username": "Zachap",
@@ -44,16 +44,16 @@
       "started_at": "2026-08-20T18:53:54Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Smoke On The Solder - Electronics - Synthesizers",
-      "game": "Science & Technology",
-      "started_at": "2026-08-20T19:00:54Z"
-    },
-    {
       "username": "shnaff",
       "title": "Chill guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2026-08-20T22:00:36Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Smoke On The Solder - Electronics - Synthesizers",
+      "game": "Science & Technology",
+      "started_at": "2026-08-20T19:00:54Z"
     },
     {
       "username": "DonFactorial",
