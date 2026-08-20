@@ -1,12 +1,6 @@
 {
-  "timestamp": "2026-08-20T20:09:02.223Z",
+  "timestamp": "2026-08-20T20:20:39.176Z",
   "live": [
-    {
-      "username": "Kitboga",
-      "title": "Scamming Scammers [Ep. 1546]",
-      "game": "Just Chatting",
-      "started_at": "2026-08-20T16:36:14Z"
-    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
@@ -18,6 +12,12 @@
       "title": "Duskfade Clock Genetics | Science of clocks, circadian rhythm, time hopping and more!  | Partner+ 193/300 | !ppp !yt !pod !jj",
       "game": "Science & Technology",
       "started_at": "2026-08-20T17:06:37Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "🦖➡🐦 BIRDS ARE DINOSAURS 🐓 Thursday BIRDSday is back (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-08-20T20:09:13Z"
     },
     {
       "username": "Zachap",
@@ -38,16 +38,16 @@
       "started_at": "2026-08-20T19:00:54Z"
     },
     {
-      "username": "DrAlexanderClarke",
-      "title": "What happens if WWII took place as scheduled... after 1942? (Patreon)",
-      "game": "Just Chatting",
-      "started_at": "2026-08-20T18:31:35Z"
-    },
-    {
       "username": "nSimplexPachinko",
       "title": "3b1B's Summer of Math Exposition Review-a-Thon - 20260820 - Raiding phobosDREAM at 2200 UTC",
       "game": "Math",
       "started_at": "2026-08-20T19:47:44Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "What happens if WWII took place as scheduled... after 1942? (Patreon)",
+      "game": "Just Chatting",
+      "started_at": "2026-08-20T18:31:35Z"
     },
     {
       "username": "DonFactorial",
