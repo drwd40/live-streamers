@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-20T19:47:29.752Z",
+  "timestamp": "2026-08-20T19:58:16.460Z",
   "live": [
     {
       "username": "Kitboga",
@@ -42,6 +42,12 @@
       "title": "What happens if WWII took place as scheduled... after 1942? (Patreon)",
       "game": "Just Chatting",
       "started_at": "2026-08-20T18:31:35Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "3b1B's Summer of Math Exposition Review-a-Thon - 20260820 - Raiding phobosDREAM at 2200 UTC",
+      "game": "Math",
+      "started_at": "2026-08-20T19:47:44Z"
     }
   ]
 }
