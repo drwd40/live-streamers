@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-20T21:00:22.903Z",
+  "timestamp": "2026-08-20T21:11:57.603Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -44,16 +44,16 @@
       "started_at": "2026-08-20T19:59:53Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "3b1B's Summer of Math Exposition Review-a-Thon - 20260820 - Raiding phobosDREAM at 2200 UTC",
-      "game": "Math",
-      "started_at": "2026-08-20T19:47:44Z"
-    },
-    {
       "username": "DrAlexanderClarke",
       "title": "What happens if WWII took place as scheduled... after 1942? (Patreon)",
       "game": "Just Chatting",
       "started_at": "2026-08-20T18:31:35Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "3b1B's Summer of Math Exposition Review-a-Thon - 20260820 - Raiding phobosDREAM at 2200 UTC",
+      "game": "Math",
+      "started_at": "2026-08-20T19:47:44Z"
     }
   ]
 }
