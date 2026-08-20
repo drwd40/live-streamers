@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-20T20:20:39.176Z",
+  "timestamp": "2026-08-20T20:35:37.761Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-08-19T12:52:27Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "Duskfade Clock Genetics | Science of clocks, circadian rhythm, time hopping and more!  | Partner+ 193/300 | !ppp !yt !pod !jj",
-      "game": "Science & Technology",
-      "started_at": "2026-08-20T17:06:37Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "🦖➡🐦 BIRDS ARE DINOSAURS 🐓 Thursday BIRDSday is back (w/ paleontologist Danny Anduza)",
       "game": "Science & Technology",
       "started_at": "2026-08-20T20:09:13Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "Duskfade Clock Genetics | Science of clocks, circadian rhythm, time hopping and more!  | Partner+ 193/300 | !ppp !yt !pod !jj",
+      "game": "Science & Technology",
+      "started_at": "2026-08-20T17:06:37Z"
     },
     {
       "username": "Zachap",
@@ -44,16 +44,16 @@
       "started_at": "2026-08-20T19:47:44Z"
     },
     {
-      "username": "DrAlexanderClarke",
-      "title": "What happens if WWII took place as scheduled... after 1942? (Patreon)",
-      "game": "Just Chatting",
-      "started_at": "2026-08-20T18:31:35Z"
-    },
-    {
       "username": "DonFactorial",
       "title": "Solving a second Electricity and Magnetism Midterm with @femvoxfan math after",
       "game": "Math",
       "started_at": "2026-08-20T19:59:53Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "What happens if WWII took place as scheduled... after 1942? (Patreon)",
+      "game": "Just Chatting",
+      "started_at": "2026-08-20T18:31:35Z"
     }
   ]
 }
