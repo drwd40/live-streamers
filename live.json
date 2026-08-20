@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-20T22:48:22.485Z",
+  "timestamp": "2026-08-20T22:59:03.736Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-08-19T12:52:27Z"
     },
     {
-      "username": "DrAlexanderClarke",
-      "title": "What happens if WWII took place as scheduled... after 1942? (Patreon)",
-      "game": "Just Chatting",
-      "started_at": "2026-08-20T18:31:35Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "🦖➡🐦 BIRDS ARE DINOSAURS 🐓 Thursday BIRDSday is back (w/ paleontologist Danny Anduza)",
       "game": "Science & Technology",
       "started_at": "2026-08-20T20:09:13Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "What happens if WWII took place as scheduled... after 1942? (Patreon)",
+      "game": "Just Chatting",
+      "started_at": "2026-08-20T18:31:35Z"
     },
     {
       "username": "imreallyimportant",
@@ -30,12 +30,6 @@
       "title": "Duskfade Clock Genetics | Science of clocks, circadian rhythm, time hopping and more!  | Partner+ 193/300 | !ppp !yt !pod !jj",
       "game": "Duskfade",
       "started_at": "2026-08-20T17:06:37Z"
-    },
-    {
-      "username": "Zachap",
-      "title": "🧠📚 state fetishization de-proletarianizes people 📚🧠",
-      "game": "Just Chatting",
-      "started_at": "2026-08-20T10:01:06Z"
     },
     {
       "username": "shnaff",
@@ -51,7 +45,7 @@
     },
     {
       "username": "DonFactorial",
-      "title": "Solving a second Electricity and Magnetism Midterm with @femvoxfan math after",
+      "title": "Answering your math questions and doing something probably maybe",
       "game": "Math",
       "started_at": "2026-08-20T19:59:53Z"
     }
