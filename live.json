@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-20T17:39:05.616Z",
+  "timestamp": "2026-08-20T17:51:38.860Z",
   "live": [
     {
       "username": "Kitboga",
@@ -20,16 +20,16 @@
       "started_at": "2026-08-20T10:01:06Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Music day (something atmospheric?) (day 85)",
-      "game": "Software and Game Development",
-      "started_at": "2026-08-20T15:29:46Z"
-    },
-    {
       "username": "SciAnts_Streams",
       "title": "Duskfade Clock Genetics | Science of clocks, circadian rhythm, time hopping and more!  | Partner+ 193/300 | !ppp !yt !pod !jj",
       "game": "Science & Technology",
       "started_at": "2026-08-20T17:06:37Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Music day (something atmospheric?) (day 85)",
+      "game": "Software and Game Development",
+      "started_at": "2026-08-20T15:29:46Z"
     }
   ]
 }
