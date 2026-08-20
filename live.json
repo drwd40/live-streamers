@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-20T13:31:21.780Z",
+  "timestamp": "2026-08-20T13:51:26.011Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-08-19T12:52:27Z"
     },
     {
-      "username": "Zachap",
-      "title": "🧠📚 state fetishization de-proletarianizes people 📚🧠",
-      "game": "Just Chatting",
-      "started_at": "2026-08-20T10:01:06Z"
-    },
-    {
       "username": "csharpfritz",
       "title": "C# project planning and packaging",
       "game": "Software and Game Development",
       "started_at": "2026-08-20T13:01:45Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "🧠📚 state fetishization de-proletarianizes people 📚🧠",
+      "game": "Just Chatting",
+      "started_at": "2026-08-20T10:01:06Z"
     },
     {
       "username": "Andilippi",
