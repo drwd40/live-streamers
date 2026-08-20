@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-20T21:24:14.444Z",
+  "timestamp": "2026-08-20T21:37:51.933Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -54,6 +54,12 @@
       "title": "3b1B's Summer of Math Exposition Review-a-Thon - 20260820 - Raiding phobosDREAM at 2200 UTC",
       "game": "Math",
       "started_at": "2026-08-20T19:47:44Z"
+    },
+    {
+      "username": "SETIInstitute",
+      "title": "Why Do Some Solar Eruptions Fail? | SETI Live",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2026-08-20T21:30:46Z"
     }
   ]
 }
