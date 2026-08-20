@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-20T19:58:16.460Z",
+  "timestamp": "2026-08-20T20:09:02.223Z",
   "live": [
     {
       "username": "Kitboga",
@@ -48,6 +48,12 @@
       "title": "3b1B's Summer of Math Exposition Review-a-Thon - 20260820 - Raiding phobosDREAM at 2200 UTC",
       "game": "Math",
       "started_at": "2026-08-20T19:47:44Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Solving a second Electricity and Magnetism Midterm with @femvoxfan math after",
+      "game": "Math",
+      "started_at": "2026-08-20T19:59:53Z"
     }
   ]
 }
