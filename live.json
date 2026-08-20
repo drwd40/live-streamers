@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-20T13:11:24.619Z",
+  "timestamp": "2026-08-20T13:31:21.780Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-08-20T10:01:06Z"
     },
     {
-      "username": "Andilippi",
-      "title": "Go FAST! A.I.R Speedrum • StoneAlone prep - New sub alert! - !menu - 500 Bits... 🤠",
-      "game": "Sonic The Hedgehog",
-      "started_at": "2026-08-20T11:09:25Z"
-    },
-    {
       "username": "csharpfritz",
       "title": "C# project planning and packaging",
       "game": "Software and Game Development",
       "started_at": "2026-08-20T13:01:45Z"
+    },
+    {
+      "username": "Andilippi",
+      "title": "Go FAST! A.I.R Speedrum • StoneAlone prep - New sub alert! - !menu - 500 Bits... 🤠",
+      "game": "Sonic The Hedgehog",
+      "started_at": "2026-08-20T11:09:25Z"
     }
   ]
 }
