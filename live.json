@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-20T01:06:52.255Z",
+  "timestamp": "2026-08-20T01:44:15.231Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,8 +20,14 @@
       "started_at": "2026-08-20T01:02:05Z"
     },
     {
+      "username": "Moohoodles",
+      "title": "🪐 Astrobiology & Space News ✨ Headachey so may be short strim",
+      "game": "Science & Technology",
+      "started_at": "2026-08-20T01:18:59Z"
+    },
+    {
       "username": "Ask_a_Scientist_Gaming",
-      "title": "Dr. Lisa Chadwick- Genetics, the NIH, and Super Paper Mario",
+      "title": "Dr. Lisa Chadwick- Genetics, the NIH, and Super Mario 3D World",
       "game": "Science & Technology",
       "started_at": "2026-08-20T00:00:02Z"
     },
@@ -30,6 +36,12 @@
       "title": "Review a thon for SoME.",
       "game": "Math",
       "started_at": "2026-08-19T23:56:33Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Black swallowtails and science, the origin of millipedes, and the ideology of positive thinking and hypocrisy of Eddie Conner.",
+      "game": "Science & Technology",
+      "started_at": "2026-08-20T01:34:46Z"
     }
   ]
 }
