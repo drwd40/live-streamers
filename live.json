@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-21T15:17:46.817Z",
+  "timestamp": "2026-08-21T15:32:29.590Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,12 @@
       "title": "World design (day 86)",
       "game": "Software and Game Development",
       "started_at": "2026-08-21T15:13:13Z"
+    },
+    {
+      "username": "oh_bother",
+      "title": "Audio filters and oscilloscopes, tuning Eurorack modules.",
+      "game": "Science & Technology",
+      "started_at": "2026-08-21T15:30:22Z"
     }
   ]
 }
