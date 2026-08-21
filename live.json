@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-21T20:02:27.552Z",
+  "timestamp": "2026-08-21T20:11:42.457Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "Audio filters and oscilloscopes, tuning Eurorack modules.",
       "game": "Science & Technology",
       "started_at": "2026-08-21T15:30:22Z"
+    },
+    {
+      "username": "AcademyOfUselessIdeas",
+      "title": "Back to doing Algebra with better Slim!",
+      "game": "Math",
+      "started_at": "2026-08-21T20:02:46Z"
     }
   ]
 }
