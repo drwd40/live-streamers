@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-21T17:59:12.444Z",
+  "timestamp": "2026-08-21T18:11:57.847Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,18 @@
       "title": "Audio filters and oscilloscopes, tuning Eurorack modules.",
       "game": "Science & Technology",
       "started_at": "2026-08-21T15:30:22Z"
+    },
+    {
+      "username": "ipaintbirbs",
+      "title": "painting a birb mascot for meeee",
+      "game": "Art",
+      "started_at": "2026-08-21T18:09:38Z"
+    },
+    {
+      "username": "SomeCodingGuy",
+      "title": "Gravity Matters chat, behind the scenes :kappa:",
+      "game": "Software and Game Development",
+      "started_at": "2026-08-21T17:59:44Z"
     }
   ]
 }
