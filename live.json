@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-21T00:02:32.553Z",
+  "timestamp": "2026-08-21T00:23:48.477Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -42,6 +42,12 @@
       "title": "Smoke On The Solder - Electronics - Synthesizers",
       "game": "Science & Technology",
       "started_at": "2026-08-20T19:00:54Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-08-21T00:02:31Z"
     }
   ]
 }
