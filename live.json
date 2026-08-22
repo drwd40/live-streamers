@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-22T00:40:37.233Z",
+  "timestamp": "2026-08-22T01:07:09.876Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,12 @@
       "title": "Astro's Po'Pourri: Space News & LEGO Space Pinball & | !pgv !drop",
       "game": "Science & Technology",
       "started_at": "2026-08-22T00:02:43Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "SciAnts News | New species, hair growth, organoids, cats, antivenoms and more! | Partner+ 211/300 | !ppp !yt !pod !jj",
+      "game": "Science & Technology",
+      "started_at": "2026-08-22T01:00:28Z"
     }
   ]
 }
