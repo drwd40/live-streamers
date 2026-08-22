@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-22T18:57:50.792Z",
+  "timestamp": "2026-08-22T19:08:20.746Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,10 +20,10 @@
       "started_at": "2026-08-22T16:32:59Z"
     },
     {
-      "username": "AcademyOfUselessIdeas",
-      "title": "Better Slim raps some 2 Live Crew classics!",
+      "username": "DonFactorial",
+      "title": "Answering your math questions and working on a physics simulation and probably something else too",
       "game": "Math",
-      "started_at": "2026-08-22T17:04:59Z"
+      "started_at": "2026-08-22T19:02:43Z"
     }
   ]
 }
