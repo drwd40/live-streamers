@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-22T16:58:05.027Z",
+  "timestamp": "2026-08-22T17:06:47.217Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "Soldering modules, eurorack style!",
       "game": "Science & Technology",
       "started_at": "2026-08-22T16:32:59Z"
+    },
+    {
+      "username": "AcademyOfUselessIdeas",
+      "title": "Better Slim raps some 2 Live Crew classics!",
+      "game": "Math",
+      "started_at": "2026-08-22T17:04:59Z"
     }
   ]
 }
