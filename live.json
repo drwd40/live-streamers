@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-22T19:49:25.446Z",
+  "timestamp": "2026-08-22T19:56:52.680Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-08-22T16:32:59Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and working on a physics simulation and probably something else too",
-      "game": "Math",
-      "started_at": "2026-08-22T19:02:43Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Baba O'Soldering - Electronics - Synthesizers - Vibez",
       "game": "Just Chatting",
       "started_at": "2026-08-22T19:31:18Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and working on a physics simulation and probably something else too",
+      "game": "Math",
+      "started_at": "2026-08-22T19:02:43Z"
     }
   ]
 }
