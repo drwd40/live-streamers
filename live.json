@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-22T22:21:25.201Z",
+  "timestamp": "2026-08-22T22:33:48.513Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-08-22T19:31:18Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and working on a physics simulation and probably something else too",
-      "game": "Math",
-      "started_at": "2026-08-22T19:02:43Z"
-    },
-    {
       "username": "GeneralSte",
       "title": "I WILL NOT BE DEFEATED!  | !linktree !discord",
       "game": "Baldur's Gate 3",
       "started_at": "2026-08-22T20:01:35Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and working on a physics simulation and probably something else too",
+      "game": "Math",
+      "started_at": "2026-08-22T19:02:43Z"
     },
     {
       "username": "DrAlexanderClarke",
