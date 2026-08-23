@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-23T18:26:56.782Z",
+  "timestamp": "2026-08-23T18:42:56.031Z",
   "live": [
     {
       "username": "Maya",
@@ -12,12 +12,6 @@
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-08-23T13:06:38Z"
-    },
-    {
-      "username": "TinyToxicTofu",
-      "title": "Building My Very Own Elephant Trunk + Playing Factorio 🔭 !physics !ccc !cnc",
-      "game": "Factorio",
-      "started_at": "2026-08-23T13:09:50Z"
     },
     {
       "username": "AstroCanuck",
@@ -42,6 +36,12 @@
       "title": "Japanese Practice with LottaGlots at 11a ET! | Stardew Vibes After<3",
       "game": "Stardew Valley",
       "started_at": "2026-08-23T14:11:04Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "Bruships 256: Naval History Questions Answered Live",
+      "game": "Just Chatting",
+      "started_at": "2026-08-23T18:30:02Z"
     }
   ]
 }
