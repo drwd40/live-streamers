@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-23T17:00:30.240Z",
+  "timestamp": "2026-08-23T17:09:13.671Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-08-23T10:03:22Z"
     },
     {
-      "username": "LumiRue",
-      "title": "Japanese Practice with LottaGlots at 11a ET! | Stardew Vibes After<3",
-      "game": "Stardew Valley",
-      "started_at": "2026-08-23T14:11:04Z"
-    },
-    {
       "username": "VolcanoDoc",
       "title": "real life crystal girlie expert level unlocked | 🌋 Science Sunday | !giveaway !phd !socials !pubs !merch",
       "game": "Just Chatting",
       "started_at": "2026-08-23T15:10:47Z"
+    },
+    {
+      "username": "LumiRue",
+      "title": "Japanese Practice with LottaGlots at 11a ET! | Stardew Vibes After<3",
+      "game": "Stardew Valley",
+      "started_at": "2026-08-23T14:11:04Z"
     }
   ]
 }
