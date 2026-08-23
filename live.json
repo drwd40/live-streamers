@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-23T19:47:19.147Z",
+  "timestamp": "2026-08-23T19:54:56.799Z",
   "live": [
     {
       "username": "Maya",
@@ -26,6 +26,12 @@
       "started_at": "2026-08-23T10:03:22Z"
     },
     {
+      "username": "ArchitectureTV",
+      "title": "Unpacking, organizing, Interior Design 💜 Architecture IRL 💜",
+      "game": "IRL",
+      "started_at": "2026-08-23T19:43:12Z"
+    },
+    {
       "username": "LumiRue",
       "title": "Japanese Practice with LottaGlots at 11a ET! | Stardew Vibes After<3",
       "game": "Stardew Valley",
@@ -36,12 +42,6 @@
       "title": "Bruships 256: Naval History Questions Answered Live",
       "game": "Just Chatting",
       "started_at": "2026-08-23T18:30:02Z"
-    },
-    {
-      "username": "ArchitectureTV",
-      "title": "Unpacking, organizing, Interior Design 💜 Architecture IRL 💜",
-      "game": "IRL",
-      "started_at": "2026-08-23T19:43:12Z"
     }
   ]
 }
