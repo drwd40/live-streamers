@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-23T13:16:15.131Z",
+  "timestamp": "2026-08-23T13:30:24.049Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-08-23T13:06:38Z"
     },
     {
-      "username": "Zachap",
-      "title": "🧠📚 we need a revolution in people getting the latest philosophy  📚🧠",
-      "game": "Just Chatting",
-      "started_at": "2026-08-23T10:03:22Z"
-    },
-    {
       "username": "TinyToxicTofu",
       "title": "Building My Very Own Elephant Trunk + Playing Factorio 🔭 !physics !ccc !cnc",
       "game": "Science & Technology",
       "started_at": "2026-08-23T13:09:50Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "🧠📚 we need a revolution in people getting the latest philosophy  📚🧠",
+      "game": "Just Chatting",
+      "started_at": "2026-08-23T10:03:22Z"
     },
     {
       "username": "Andilippi",
