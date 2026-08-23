@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-23T14:03:36.413Z",
+  "timestamp": "2026-08-23T14:13:08.966Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,22 @@
       "started_at": "2026-08-23T11:55:16Z"
     },
     {
+      "username": "AstroCanuck",
+      "title": "Lazy Sunday LEGO: LEGO Space Pinball & SUBtember Info | !pgv !drop",
+      "game": "Lego & Brickbuilding",
+      "started_at": "2026-08-23T14:00:59Z"
+    },
+    {
       "username": "DrAlexanderClarke",
       "title": "Sunday Relax, a Bookshop in Japan, an a Historian answering questions...",
       "game": "Bookshop Simulator",
       "started_at": "2026-08-23T12:00:49Z"
     },
     {
-      "username": "AstroCanuck",
-      "title": "Lazy Sunday LEGO: LEGO Space Pinball & SUBtember Info | !pgv !drop",
-      "game": "Lego & Brickbuilding",
-      "started_at": "2026-08-23T14:00:59Z"
+      "username": "LumiRue",
+      "title": "Japanese Practice with LottaGlots at 11a ET! | Stardew Vibes After<3",
+      "game": "Just Chatting",
+      "started_at": "2026-08-23T14:11:04Z"
     }
   ]
 }
