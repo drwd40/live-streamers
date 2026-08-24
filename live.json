@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-24T20:17:05.956Z",
+  "timestamp": "2026-08-24T20:31:09.549Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,22 +8,28 @@
       "started_at": "2026-08-23T13:06:38Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Launching the Steam page! 🎉🎉🎉🎉 WIIIIIISHLIIIIIIST IT! (day 87)",
-      "game": "Software and Game Development",
-      "started_at": "2026-08-24T15:28:32Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "🦕💬❔✔ DINOSAUR SCIENCE CHAT ❔🦖💬✔  (w/ paleontologist Danny Anduza)",
       "game": "Science & Technology",
       "started_at": "2026-08-24T20:07:22Z"
     },
     {
+      "username": "AdamLearnsLive",
+      "title": "Launching the Steam page! 🎉🎉🎉🎉 WIIIIIISHLIIIIIIST IT! (day 87)",
+      "game": "Software and Game Development",
+      "started_at": "2026-08-24T15:28:32Z"
+    },
+    {
       "username": "Zachap",
       "title": "🧠📚 slop+  📚🧠",
       "game": "Just Chatting",
       "started_at": "2026-08-24T10:02:51Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Intro to Trig: What are angles? Night 01; Collab w/ @kittiesplease - 20260824",
+      "game": "Math",
+      "started_at": "2026-08-24T20:27:38Z"
     }
   ]
 }
