@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-25T13:53:06.334Z",
+  "timestamp": "2026-08-25T14:11:31.287Z",
   "live": [
     {
       "username": "Maya",
@@ -14,16 +14,16 @@
       "started_at": "2026-08-25T13:06:40Z"
     },
     {
-      "username": "Zachap",
-      "title": "🧠📚 slop+  📚🧠",
-      "game": "Just Chatting",
-      "started_at": "2026-08-25T10:01:14Z"
-    },
-    {
       "username": "csharpfritz",
       "title": "DayFrame does it ALL!",
       "game": "Software and Game Development",
       "started_at": "2026-08-25T13:10:41Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "🧠📚 slop+  📚🧠",
+      "game": "Just Chatting",
+      "started_at": "2026-08-25T10:01:14Z"
     }
   ]
 }
