@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-25T01:58:27.898Z",
+  "timestamp": "2026-08-25T02:29:41.393Z",
   "live": [
     {
       "username": "Maya",
@@ -32,28 +32,16 @@
       "started_at": "2026-08-25T01:18:34Z"
     },
     {
-      "username": "csharpfritz",
-      "title": "Evening Coding with MAUI and C#",
-      "game": "Software and Game Development",
-      "started_at": "2026-08-24T23:59:36Z"
-    },
-    {
-      "username": "ActualEducation",
-      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
-      "game": "Just Chatting",
-      "started_at": "2026-08-25T00:03:01Z"
-    },
-    {
       "username": "happyknightmares",
       "title": "Reviewing math vids for The Summer of Math Exposition (SoME)!",
       "game": "Math",
       "started_at": "2026-08-25T00:00:15Z"
     },
     {
-      "username": "walkingsticklibrary",
-      "title": "Microsoft Monday! Do-over for Switch function and the beginnings of visualizations.",
-      "game": "Science & Technology",
-      "started_at": "2026-08-25T00:33:06Z"
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-08-25T00:03:01Z"
     }
   ]
 }
