@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-25T00:30:30.559Z",
+  "timestamp": "2026-08-25T00:52:55.858Z",
   "live": [
     {
       "username": "Maya",
@@ -42,6 +42,12 @@
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Just Chatting",
       "started_at": "2026-08-25T00:03:01Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Microsoft Monday! Do-over for Switch function and the beginnings of visualizations.",
+      "game": "Science & Technology",
+      "started_at": "2026-08-25T00:33:06Z"
     }
   ]
 }
