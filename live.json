@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-25T00:14:51.817Z",
+  "timestamp": "2026-08-25T00:30:30.559Z",
   "live": [
     {
       "username": "Maya",
@@ -32,16 +32,16 @@
       "started_at": "2026-08-24T20:27:38Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
-      "game": "Just Chatting",
-      "started_at": "2026-08-25T00:03:01Z"
-    },
-    {
       "username": "happyknightmares",
       "title": "Reviewing math vids for The Summer of Math Exposition (SoME)!",
       "game": "Math",
       "started_at": "2026-08-25T00:00:15Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-08-25T00:03:01Z"
     }
   ]
 }
