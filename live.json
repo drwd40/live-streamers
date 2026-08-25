@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-25T23:28:52.429Z",
+  "timestamp": "2026-08-25T23:40:16.125Z",
   "live": [
     {
       "username": "Maya",
@@ -54,6 +54,12 @@
       "title": "Sanctum Sanctorum Search? Wait, wrong franchise. Day 53; Night 023 - 20260825",
       "game": "Blue Prince",
       "started_at": "2026-08-25T21:05:26Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-08-25T23:36:33Z"
     }
   ]
 }
