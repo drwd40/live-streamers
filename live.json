@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-25T13:10:39.368Z",
+  "timestamp": "2026-08-25T13:31:58.563Z",
   "live": [
     {
       "username": "Maya",
@@ -18,6 +18,12 @@
       "title": "🧠📚 slop+  📚🧠",
       "game": "Just Chatting",
       "started_at": "2026-08-25T10:01:14Z"
+    },
+    {
+      "username": "csharpfritz",
+      "title": "DayFrame does it ALL!",
+      "game": "Software and Game Development",
+      "started_at": "2026-08-25T13:10:41Z"
     }
   ]
 }
