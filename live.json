@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-24T23:57:29.870Z",
+  "timestamp": "2026-08-25T00:14:51.817Z",
   "live": [
     {
       "username": "Maya",
@@ -16,14 +16,32 @@
     {
       "username": "Paleontologizing",
       "title": "🦕💬❔✔ DINOSAUR SCIENCE CHAT ❔🦖💬✔  (w/ paleontologist Danny Anduza)",
-      "game": "Just Chatting",
+      "game": "Science & Technology",
       "started_at": "2026-08-24T20:07:22Z"
+    },
+    {
+      "username": "csharpfritz",
+      "title": "Evening Coding with MAUI and C#",
+      "game": "Software and Game Development",
+      "started_at": "2026-08-24T23:59:36Z"
     },
     {
       "username": "nSimplexPachinko",
       "title": "Intro to Trig: What are angles? Night 01; Collab w/ @kittiesplease - 20260824",
       "game": "Math",
       "started_at": "2026-08-24T20:27:38Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-08-25T00:03:01Z"
+    },
+    {
+      "username": "happyknightmares",
+      "title": "Reviewing math vids for The Summer of Math Exposition (SoME)!",
+      "game": "Math",
+      "started_at": "2026-08-25T00:00:15Z"
     }
   ]
 }
