@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-25T15:44:40.983Z",
+  "timestamp": "2026-08-25T16:02:53.886Z",
   "live": [
     {
       "username": "Maya",
@@ -24,6 +24,12 @@
       "title": "Adding enemies and maybe a cut-scene (day 88)",
       "game": "Software and Game Development",
       "started_at": "2026-08-25T15:27:07Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "MATH TUESDAY [(off)!fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-08-25T15:57:54Z"
     }
   ]
 }
