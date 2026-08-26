@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-26T15:46:22.167Z",
+  "timestamp": "2026-08-26T16:14:30.282Z",
   "live": [
     {
       "username": "Maya",
@@ -14,16 +14,22 @@
       "started_at": "2026-08-25T13:06:40Z"
     },
     {
-      "username": "Zachap",
-      "title": "🧠📚 slop+  📚🧠",
-      "game": "Just Chatting",
-      "started_at": "2026-08-26T10:00:24Z"
+      "username": "EJ_SA",
+      "title": "Getting the ET to the Pad! SLC-6 (Part 11) 8/26/26",
+      "game": "Kerbal Space Program",
+      "started_at": "2026-08-26T16:00:52Z"
     },
     {
       "username": "AdamLearnsLive",
       "title": "Shooting into space 🚀 (day 89)",
       "game": "Software and Game Development",
       "started_at": "2026-08-26T15:23:46Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "🧠📚 slop+  📚🧠",
+      "game": "Just Chatting",
+      "started_at": "2026-08-26T10:00:24Z"
     }
   ]
 }
