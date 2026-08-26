@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-26T14:55:23.469Z",
+  "timestamp": "2026-08-26T15:46:22.167Z",
   "live": [
     {
       "username": "Maya",
@@ -18,6 +18,12 @@
       "title": "🧠📚 slop+  📚🧠",
       "game": "Just Chatting",
       "started_at": "2026-08-26T10:00:24Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Shooting into space 🚀 (day 89)",
+      "game": "Software and Game Development",
+      "started_at": "2026-08-26T15:23:46Z"
     }
   ]
 }
