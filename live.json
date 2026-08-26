@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-26T16:14:30.282Z",
+  "timestamp": "2026-08-26T16:37:09.775Z",
   "live": [
     {
       "username": "Maya",
@@ -30,6 +30,12 @@
       "title": "🧠📚 slop+  📚🧠",
       "game": "Just Chatting",
       "started_at": "2026-08-26T10:00:24Z"
+    },
+    {
+      "username": "DrawCuriosity",
+      "title": "✈️ TWITCHCON PANEL ANNOUNCEMENT + Painting monsters and landscapes together! ✨🐏!tier2 !tier3",
+      "game": "Art",
+      "started_at": "2026-08-26T16:14:35Z"
     }
   ]
 }
