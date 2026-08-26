@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-26T19:16:28.068Z",
+  "timestamp": "2026-08-26T19:58:00.143Z",
   "live": [
     {
       "username": "Maya",
@@ -15,8 +15,8 @@
     },
     {
       "username": "AlveusSanctuary",
-      "title": "Into the Wild w/ Kayla | !alveus !institute !pixel !schedule !video",
-      "game": "Just Chatting",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
+      "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-08-25T13:06:40Z"
     },
     {
@@ -26,22 +26,16 @@
       "started_at": "2026-08-26T16:00:52Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Shooting into space 🚀 (day 89)",
-      "game": "Software and Game Development",
-      "started_at": "2026-08-26T15:23:46Z"
-    },
-    {
-      "username": "DrawCuriosity",
-      "title": "✈️ TWITCHCON PANEL ANNOUNCEMENT + Painting monsters and landscapes together! ✨🐏!tier2 !tier3",
-      "game": "Art",
-      "started_at": "2026-08-26T16:14:35Z"
-    },
-    {
       "username": "Zachap",
       "title": "🧠📚 slop+  📚🧠",
       "game": "Just Chatting",
       "started_at": "2026-08-26T10:00:24Z"
+    },
+    {
+      "username": "AcademyOfUselessIdeas",
+      "title": "In homage to Dolly Parton and Tim Curry, let's do Math",
+      "game": "Math",
+      "started_at": "2026-08-26T19:33:46Z"
     }
   ]
 }
