@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-26T22:48:23.653Z",
+  "timestamp": "2026-08-27T00:01:11.182Z",
   "live": [
     {
       "username": "Maya",
@@ -14,6 +14,12 @@
       "started_at": "2026-08-25T13:06:40Z"
     },
     {
+      "username": "JapanesePrintmaking",
+      "title": "Making Japanese woodblock prints ... live while you watch ...",
+      "game": "Makers & Crafting",
+      "started_at": "2026-08-26T22:55:08Z"
+    },
+    {
       "username": "EJ_SA",
       "title": "EJ's Space and Rocket Revue! 8/26/26",
       "game": "Science & Technology",
@@ -22,7 +28,7 @@
     {
       "username": "Paleontologizing",
       "title": "🦖 It's... it's a DINOSAUR STREAM 🦕Diabloceratops skull final assembly 🏗  Last stream until Tuesday? ⚠ (w/ paleontologist Danny Anduza)",
-      "game": "Just Chatting",
+      "game": "Science & Technology",
       "started_at": "2026-08-26T20:00:10Z"
     },
     {
@@ -30,18 +36,6 @@
       "title": "DARLINE GRAHAM WINS PRIMARY RUNOFF | REACTION TO HAKEEM JEFFRIES/JARED KUSHNER MEETING",
       "game": "Just Chatting",
       "started_at": "2026-08-26T21:49:50Z"
-    },
-    {
-      "username": "AdamLearnsLive",
-      "title": "Luna is in space. Coincidence?! (day 89½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-08-26T20:38:26Z"
-    },
-    {
-      "username": "Zachap",
-      "title": "🧠📚 slop+  📚🧠",
-      "game": "Just Chatting",
-      "started_at": "2026-08-26T10:00:24Z"
     },
     {
       "username": "DrMick",
@@ -54,12 +48,6 @@
       "title": "Namalsk fails",
       "game": "DayZ",
       "started_at": "2026-08-26T20:07:46Z"
-    },
-    {
-      "username": "nSimplexPachinko",
-      "title": "Coming to the end of SoME? But I just started! SoME 02 - 20260826",
-      "game": "Math",
-      "started_at": "2026-08-26T20:51:00Z"
     }
   ]
 }
