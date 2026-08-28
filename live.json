@@ -1,6 +1,12 @@
 {
-  "timestamp": "2026-08-28T14:34:38.745Z",
+  "timestamp": "2026-08-28T18:47:52.627Z",
   "live": [
+    {
+      "username": "AlveusSanctuary",
+      "title": "Show and Tell | !alveus !institute !pixel !schedule !video",
+      "game": "Just Chatting",
+      "started_at": "2026-08-27T13:06:42Z"
+    },
     {
       "username": "Maya",
       "title": "🏔️ ALASKA MARATHON RERUN🐻 NOT GEO 2 w/ @Adapt 🏔️",
@@ -8,10 +14,22 @@
       "started_at": "2026-08-28T12:13:24Z"
     },
     {
-      "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
-      "game": "Animals, Aquariums, and Zoos",
-      "started_at": "2026-08-27T13:06:42Z"
+      "username": "EJ_SA",
+      "title": "Block II SRB and Launch Mount Parts! SLC-6 (Part 12.5) 8/28/26",
+      "game": "Kerbal Space Program",
+      "started_at": "2026-08-28T16:57:51Z"
+    },
+    {
+      "username": "ipaintbirbs",
+      "title": "stop motion animation paintings!!!",
+      "game": "Art",
+      "started_at": "2026-08-28T16:06:45Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Just getting stuff done for my game (day 91)",
+      "game": "Software and Game Development",
+      "started_at": "2026-08-28T15:27:01Z"
     },
     {
       "username": "Zachap",
@@ -20,10 +38,16 @@
       "started_at": "2026-08-28T10:01:55Z"
     },
     {
-      "username": "Andilippi",
-      "title": "Speedrun! - 7 Days until Stone-Alone Birthdaython! - Sub Commands ARE BACK! - !menu - 500 Bits... 🤠",
-      "game": "Retro",
-      "started_at": "2026-08-28T13:19:06Z"
+      "username": "oh_bother",
+      "title": "Finishing soldering some eurorack modules for my modular synthesizzler.",
+      "game": "Science & Technology",
+      "started_at": "2026-08-28T16:38:55Z"
+    },
+    {
+      "username": "CosmoQuestX",
+      "title": "After Hours: Accelerating Lunar Science with Help from Volunteers",
+      "game": "Science & Technology",
+      "started_at": "2026-08-28T17:54:55Z"
     }
   ]
 }
