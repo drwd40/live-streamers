@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-08-28T18:47:52.627Z",
+  "timestamp": "2026-08-28T21:48:47.423Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Show and Tell | !alveus !institute !pixel !schedule !video",
-      "game": "Just Chatting",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
+      "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-08-27T13:06:42Z"
     },
     {
@@ -15,21 +15,21 @@
     },
     {
       "username": "EJ_SA",
-      "title": "Block II SRB and Launch Mount Parts! SLC-6 (Part 12.5) 8/28/26",
-      "game": "Kerbal Space Program",
-      "started_at": "2026-08-28T16:57:51Z"
-    },
-    {
-      "username": "ipaintbirbs",
-      "title": "stop motion animation paintings!!!",
-      "game": "Art",
-      "started_at": "2026-08-28T16:06:45Z"
+      "title": "NSF - You want Starship with your crawfish? - The Flame Trench! 8/28/26",
+      "game": "Science & Technology",
+      "started_at": "2026-08-28T20:42:21Z"
     },
     {
       "username": "AdamLearnsLive",
-      "title": "Just getting stuff done for my game (day 91)",
+      "title": "I think people are gonna love this game (day 91½)",
       "game": "Software and Game Development",
-      "started_at": "2026-08-28T15:27:01Z"
+      "started_at": "2026-08-28T20:16:19Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀 500 Reviews on Rise of Piracy! | !rop !patreon !discord",
+      "game": "Software and Game Development",
+      "started_at": "2026-08-28T18:59:43Z"
     },
     {
       "username": "Zachap",
@@ -38,16 +38,16 @@
       "started_at": "2026-08-28T10:01:55Z"
     },
     {
-      "username": "oh_bother",
-      "title": "Finishing soldering some eurorack modules for my modular synthesizzler.",
+      "username": "GeoJim2006",
+      "title": "Back From Hiatus - New Fall Semester - More Field Camp 2006 Memories ⛰️⛏️🪨 !discord !nova !tkf",
       "game": "Science & Technology",
-      "started_at": "2026-08-28T16:38:55Z"
+      "started_at": "2026-08-28T21:06:16Z"
     },
     {
-      "username": "CosmoQuestX",
-      "title": "After Hours: Accelerating Lunar Science with Help from Volunteers",
-      "game": "Science & Technology",
-      "started_at": "2026-08-28T17:54:55Z"
+      "username": "SETIInstitute",
+      "title": "Is This the First Exomoon? When Planets and Moons Defy Definition | #SETILive",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2026-08-28T21:30:17Z"
     }
   ]
 }
