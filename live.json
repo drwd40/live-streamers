@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-29T16:55:22.234Z",
+  "timestamp": "2026-08-29T17:02:30.277Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "Time to try DayFrame",
       "game": "Software and Game Development",
       "started_at": "2026-08-29T16:52:59Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Summer of Math Exposition Review-a-thon Finale! !whatshappening !howdidigethere!whoareyou",
+      "game": "Math",
+      "started_at": "2026-08-29T16:58:50Z"
     }
   ]
 }
