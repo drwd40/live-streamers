@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-29T20:25:37.517Z",
+  "timestamp": "2026-08-29T20:31:31.808Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "Summer of Math Exposition Review-a-thon Finale! !whatshappening !howdidigethere!whoareyou",
       "game": "Math",
       "started_at": "2026-08-29T16:58:50Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Meanwhile Jamtown The Jams Play - Modular Synth Jams",
+      "game": "Music",
+      "started_at": "2026-08-29T20:30:38Z"
     }
   ]
 }
