@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-29T22:37:38.795Z",
+  "timestamp": "2026-08-29T22:43:13.253Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,12 @@
       "title": "SoME More Math! 3blue1Brown's Math Communication Review Finale",
       "game": "Math",
       "started_at": "2026-08-29T20:44:53Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "Saturday Night Piracy...",
+      "game": "Pirates of the Burning Sea",
+      "started_at": "2026-08-29T22:37:41Z"
     }
   ]
 }
