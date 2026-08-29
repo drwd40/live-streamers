@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-29T16:49:52.769Z",
+  "timestamp": "2026-08-29T16:55:22.234Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,12 @@
       "title": "🧠📚 I've shown up like every day for the past 5 years to host educational streams yet still not partner btw 📚🧠 !stats 📚🧠 no partner tho",
       "game": "Just Chatting",
       "started_at": "2026-08-29T10:02:05Z"
+    },
+    {
+      "username": "csharpfritz",
+      "title": "Time to try DayFrame",
+      "game": "Software and Game Development",
+      "started_at": "2026-08-29T16:52:59Z"
     }
   ]
 }
