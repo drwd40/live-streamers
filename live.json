@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-08-29T00:56:04.408Z",
+  "timestamp": "2026-08-29T01:08:52.350Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-08-27T13:06:42Z"
-    },
-    {
-      "username": "Maya",
-      "title": "🏔️ ALASKA MARATHON RERUN🐻 NOT GEO 2 w/ @Adapt 🏔️",
-      "game": "Just Chatting",
-      "started_at": "2026-08-28T12:13:24Z"
     },
     {
       "username": "imreallyimportant",
@@ -24,6 +18,12 @@
       "title": "Astronomy & LEGO - Get your AstroCanuck Minifigure for !SUBtember | !upgrade !mobile | !pgv !drop",
       "game": "Science & Technology",
       "started_at": "2026-08-28T23:53:23Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "SciAnts News | New species, medication in insects, cats, hair growth, RNA and more! | Partner+ 299/300 | !ppp !yt !pod !jj",
+      "game": "Just Chatting",
+      "started_at": "2026-08-29T01:01:47Z"
     }
   ]
 }
