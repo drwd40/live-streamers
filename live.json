@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-29T20:49:53.792Z",
+  "timestamp": "2026-08-29T20:55:31.514Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-08-29T13:06:45Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Meanwhile Jamtown The Jams Play - Modular Synth Jams",
-      "game": "Music",
-      "started_at": "2026-08-29T20:30:38Z"
-    },
-    {
       "username": "DonFactorial",
       "title": "Summer of Math Exposition Review-a-thon Finale! !whatshappening !howdidigethere!whoareyou",
       "game": "Math",
       "started_at": "2026-08-29T16:58:50Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Meanwhile Jamtown The Jams Play - Modular Synth Jams",
+      "game": "Music",
+      "started_at": "2026-08-29T20:30:38Z"
     },
     {
       "username": "nSimplexPachinko",
