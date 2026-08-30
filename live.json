@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-30T01:56:39.167Z",
+  "timestamp": "2026-08-30T02:12:48.059Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "1st time Persona playthrough!",
       "game": "Persona 5",
       "started_at": "2026-08-30T00:44:47Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Resilience and trauma. Chauvinism, past traumas and mental health. Animal breeding on social media. When NOT to use Excel.",
+      "game": "Science & Technology",
+      "started_at": "2026-08-30T02:01:05Z"
     }
   ]
 }
