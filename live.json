@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-30T14:38:40.259Z",
+  "timestamp": "2026-08-30T14:44:17.130Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,12 +36,6 @@
       "title": "Sunday, we'll start with sanctury, wander through a parisian bookshop and end in sea power...",
       "game": "Bookshop Simulator",
       "started_at": "2026-08-30T12:14:26Z"
-    },
-    {
-      "username": "sciencestreams",
-      "title": "Searching for fossils in Thacher Park, NY",
-      "game": "IRL",
-      "started_at": "2026-08-30T14:20:31Z"
     }
   ]
 }
