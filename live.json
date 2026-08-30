@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-30T14:02:26.374Z",
+  "timestamp": "2026-08-30T14:17:26.240Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "Sunday, we'll start with sanctury, wander through a parisian bookshop and end in sea power...",
       "game": "Sanctuary: Shattered Sun",
       "started_at": "2026-08-30T12:14:26Z"
+    },
+    {
+      "username": "LumiRue",
+      "title": "Cozy Stardew: Welcome in!",
+      "game": "Stardew Valley",
+      "started_at": "2026-08-30T14:11:20Z"
     }
   ]
 }
