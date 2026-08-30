@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-30T22:04:30.286Z",
+  "timestamp": "2026-08-30T22:18:09.415Z",
   "live": [
     {
       "username": "Maya",
@@ -14,28 +14,28 @@
       "started_at": "2026-08-29T13:06:45Z"
     },
     {
-      "username": "Zachap",
-      "title": "🧠📚 anti-intellectuals are blind to their own anti-intellectualism📚🧠",
-      "game": "Just Chatting",
-      "started_at": "2026-08-30T10:02:39Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "SUNDAY POLITICS SHOWS",
       "game": "Just Chatting",
       "started_at": "2026-08-30T21:55:27Z"
     },
     {
+      "username": "Zachap",
+      "title": "🧠📚 anti-intellectuals are blind to their own anti-intellectualism📚🧠",
+      "game": "Just Chatting",
+      "started_at": "2026-08-30T10:02:39Z"
+    },
+    {
+      "username": "shnaff",
+      "title": "Chill guitar and piano in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-08-30T22:02:08Z"
+    },
+    {
       "username": "DrAlexanderClarke",
       "title": "Bruships 257: Alternate History & Naval History Questions Answered Live...",
       "game": "Just Chatting",
       "started_at": "2026-08-30T18:29:54Z"
-    },
-    {
-      "username": "shnaff",
-      "title": "Chill guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-08-30T22:02:08Z"
     }
   ]
 }
