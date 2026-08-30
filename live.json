@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-30T09:22:50.089Z",
+  "timestamp": "2026-08-30T09:29:34.295Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "Last Stream of Summer! Crash Course Mechanics, Physics, Factorio and Maybe Plague Tale Resonance? 🐀 !ccc !bambi !physics",
       "game": "Science & Technology",
       "started_at": "2026-08-30T09:13:34Z"
+    },
+    {
+      "username": "AstroCanuck",
+      "title": "LIVE Rocket Launch -  NASA Roman Space Telescope w/ @nerduino - Get your AstroCanuck Minifigure !SUBtember | !upgrade !mobile | !pgv !drop",
+      "game": "Science & Technology",
+      "started_at": "2026-08-30T09:22:41Z"
     }
   ]
 }
