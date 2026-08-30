@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-30T10:24:55.496Z",
+  "timestamp": "2026-08-30T10:30:39.056Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-08-30T09:13:34Z"
     },
     {
-      "username": "AstroCanuck",
-      "title": "LIVE Rocket Launch -  NASA Roman Space Telescope w/ @nerduino - Get your AstroCanuck Minifigure !SUBtember | !upgrade !mobile | !pgv !drop",
-      "game": "Science & Technology",
-      "started_at": "2026-08-30T09:22:41Z"
-    },
-    {
       "username": "EJ_SA",
       "title": "EJ'S FALCON HEAVY ROMAN SPACE TELESCOPE LAUNCH COVERAGE! 8/30/26",
       "game": "Science & Technology",
       "started_at": "2026-08-30T10:20:53Z"
+    },
+    {
+      "username": "AstroCanuck",
+      "title": "LIVE Rocket Launch -  NASA Roman Space Telescope w/ @nerduino - Get your AstroCanuck Minifigure !SUBtember | !upgrade !mobile | !pgv !drop",
+      "game": "Science & Technology",
+      "started_at": "2026-08-30T09:22:41Z"
     },
     {
       "username": "Zachap",
@@ -33,9 +33,15 @@
     },
     {
       "username": "Nerduino",
-      "title": "Nancy Grace Roman Space Telescope Launch Watch Party    #NASA #science #space scientist  #climatechange #climatescience #partnerpush",
+      "title": "Nancy Grace Roman Space Telescope Launch Watch Party  with @astrocanuck #NASA #science #space scientist",
       "game": "Science & Technology",
       "started_at": "2026-08-30T10:20:07Z"
+    },
+    {
+      "username": "Andilippi",
+      "title": "Run, run, run! 6 Days until Stone-Alone Birthdaython! - !menu - 500 Bits... 🤠",
+      "game": "Retro",
+      "started_at": "2026-08-30T10:28:50Z"
     }
   ]
 }
