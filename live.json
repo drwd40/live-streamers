@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-30T16:46:43.963Z",
+  "timestamp": "2026-08-30T16:52:17.891Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "Sorcery - you mean - SorcerME | !linktree !discord",
       "game": "Baldur's Gate 3",
       "started_at": "2026-08-30T16:00:05Z"
+    },
+    {
+      "username": "VolcanoDoc",
+      "title": "the science of volcano behavior | 🌋 Science Sunday | !phd !socials !pubs !merch",
+      "game": "Science & Technology",
+      "started_at": "2026-08-30T16:51:41Z"
     }
   ]
 }
