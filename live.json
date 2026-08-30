@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-30T14:17:26.240Z",
+  "timestamp": "2026-08-30T14:25:06.515Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,22 @@
       "started_at": "2026-08-30T10:02:39Z"
     },
     {
-      "username": "DrAlexanderClarke",
-      "title": "Sunday, we'll start with sanctury, wander through a parisian bookshop and end in sea power...",
-      "game": "Sanctuary: Shattered Sun",
-      "started_at": "2026-08-30T12:14:26Z"
-    },
-    {
       "username": "LumiRue",
       "title": "Cozy Stardew: Welcome in!",
       "game": "Stardew Valley",
       "started_at": "2026-08-30T14:11:20Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "Sunday, we'll start with sanctury, wander through a parisian bookshop and end in sea power...",
+      "game": "Bookshop Simulator",
+      "started_at": "2026-08-30T12:14:26Z"
+    },
+    {
+      "username": "sciencestreams",
+      "title": "Searching for fossils in Thacher Park, NY",
+      "game": "IRL",
+      "started_at": "2026-08-30T14:20:31Z"
     }
   ]
 }
