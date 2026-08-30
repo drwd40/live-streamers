@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-30T16:57:50.989Z",
+  "timestamp": "2026-08-30T17:10:51.445Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -27,21 +27,21 @@
     },
     {
       "username": "LumiRue",
-      "title": "How to recognize AI Writing | Cozy Stardew: Welcome in!",
-      "game": "Just Chatting",
+      "title": "Cozy Stardew: Welcome in!",
+      "game": "Stardew Valley",
       "started_at": "2026-08-30T14:11:20Z"
-    },
-    {
-      "username": "GeneralSte",
-      "title": "Sorcery - you mean - SorcerME | !linktree !discord",
-      "game": "Baldur's Gate 3",
-      "started_at": "2026-08-30T16:00:05Z"
     },
     {
       "username": "VolcanoDoc",
       "title": "the science of volcano behavior | 🌋 Science Sunday | !phd !socials !pubs !merch",
       "game": "Science & Technology",
       "started_at": "2026-08-30T16:51:41Z"
+    },
+    {
+      "username": "GeneralSte",
+      "title": "Sorcery - you mean - SorcerME | !linktree !discord",
+      "game": "Baldur's Gate 3",
+      "started_at": "2026-08-30T16:00:05Z"
     }
   ]
 }
