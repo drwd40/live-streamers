@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-30T11:15:53.437Z",
+  "timestamp": "2026-08-30T11:23:02.845Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,22 +26,10 @@
       "started_at": "2026-08-30T09:22:41Z"
     },
     {
-      "username": "Zachap",
-      "title": "🧠📚 anti-intellectuals are blind to their own anti-intellectualism📚🧠",
-      "game": "Just Chatting",
-      "started_at": "2026-08-30T10:02:39Z"
-    },
-    {
-      "username": "Nerduino",
-      "title": "Nancy Grace Roman Space Telescope Launch Watch Party  with @astrocanuck #NASA #science #space scientist",
+      "username": "Moohoodles",
+      "title": "🚀 Roman Telescope Launch!! 🪐 Live @ KSC! ✨",
       "game": "Science & Technology",
-      "started_at": "2026-08-30T10:20:07Z"
-    },
-    {
-      "username": "DrWD40",
-      "title": "Live Coverage: SpaceX Falcon Heavy Roman Space Telescope Launch w/ Double RTLS! | Space Coast, FL",
-      "game": "Science & Technology",
-      "started_at": "2026-08-30T10:46:32Z"
+      "started_at": "2026-08-30T11:14:17Z"
     },
     {
       "username": "Andilippi",
@@ -50,10 +38,22 @@
       "started_at": "2026-08-30T10:28:50Z"
     },
     {
-      "username": "Moohoodles",
-      "title": "🚀 Roman Telescope Launch!! 🪐 Live @ KSC! ✨",
+      "username": "Zachap",
+      "title": "🧠📚 anti-intellectuals are blind to their own anti-intellectualism📚🧠",
+      "game": "Just Chatting",
+      "started_at": "2026-08-30T10:02:39Z"
+    },
+    {
+      "username": "DrWD40",
+      "title": "Live Coverage: SpaceX Falcon Heavy Roman Space Telescope Launch w/ Double RTLS! | Space Coast, FL",
       "game": "Science & Technology",
-      "started_at": "2026-08-30T11:14:17Z"
+      "started_at": "2026-08-30T10:46:32Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Nancy Grace Roman Space Telescope Launch Watch Party  with @astrocanuck #NASA #science #space scientist",
+      "game": "Science & Technology",
+      "started_at": "2026-08-30T10:20:07Z"
     }
   ]
 }
