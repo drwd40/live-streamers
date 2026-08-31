@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-31T22:03:05.697Z",
+  "timestamp": "2026-08-31T22:19:13.135Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "Are game designers just prompt engineers now? 🤔 (day 92½)",
       "game": "Software and Game Development",
       "started_at": "2026-08-31T20:01:21Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "The Trigonometric Functions! Trigonometry, Night 02; Collab w/ @kittiesplease - 20260831",
+      "game": "Math",
+      "started_at": "2026-08-31T22:10:57Z"
     }
   ]
 }
