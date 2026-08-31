@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-31T15:14:45.982Z",
+  "timestamp": "2026-08-31T15:27:06.436Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "🧠📚 this economic structure isn't made for you. 📚🧠",
       "game": "Just Chatting",
       "started_at": "2026-08-31T10:04:56Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Trying a new AI workflow (!today) (day 92)",
+      "game": "Software and Game Development",
+      "started_at": "2026-08-31T15:22:43Z"
     }
   ]
 }
