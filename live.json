@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-31T19:55:58.770Z",
+  "timestamp": "2026-08-31T20:05:56.989Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "🍀 500 Reviews on Rise of Piracy! | !rop !patreon !discord",
       "game": "Software and Game Development",
       "started_at": "2026-08-31T19:00:27Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Are game designers just prompt engineers now? 🤔 (day 92½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-08-31T20:01:21Z"
     }
   ]
 }
