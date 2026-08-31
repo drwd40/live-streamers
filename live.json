@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-30T23:54:30.107Z",
+  "timestamp": "2026-08-31T00:00:06.552Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-08-30T21:55:27Z"
     },
     {
-      "username": "shnaff",
-      "title": "Chill guitar and piano in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-08-30T22:02:08Z"
-    },
-    {
       "username": "Zachap",
       "title": "🧠📚 anti-intellectuals are blind to their own anti-intellectualism📚🧠",
       "game": "Just Chatting",
       "started_at": "2026-08-30T10:02:39Z"
+    },
+    {
+      "username": "shnaff",
+      "title": "Chill guitar and piano in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-08-30T22:02:08Z"
     }
   ]
 }
