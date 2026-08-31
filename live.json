@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-31T21:55:28.251Z",
+  "timestamp": "2026-08-31T22:03:05.697Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-08-31T16:04:48Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Are game designers just prompt engineers now? 🤔 (day 92½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-08-31T20:01:21Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "LAST DAY OF AUGUST POLL | LIB & LEARN @ 7 PM EDT",
       "game": "Just Chatting",
       "started_at": "2026-08-31T21:49:37Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Are game designers just prompt engineers now? 🤔 (day 92½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-08-31T20:01:21Z"
     }
   ]
 }
