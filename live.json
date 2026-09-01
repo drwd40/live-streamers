@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-01T19:39:14.652Z",
+  "timestamp": "2026-09-01T19:44:59.096Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-09-01T16:23:27Z"
     },
     {
-      "username": "Zachap",
-      "title": "🧠📚 far-left 📚🧠",
-      "game": "Just Chatting",
-      "started_at": "2026-09-01T10:02:49Z"
-    },
-    {
       "username": "oh_bother",
       "title": "Working on filters, making a little interface circuit.",
       "game": "Science & Technology",
       "started_at": "2026-09-01T16:39:44Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "🧠📚 far-left 📚🧠",
+      "game": "Just Chatting",
+      "started_at": "2026-09-01T10:02:49Z"
     },
     {
       "username": "vul100",
