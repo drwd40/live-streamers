@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-01T15:02:50.479Z",
+  "timestamp": "2026-09-01T15:31:50.220Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "🧠📚 far-left 📚🧠",
       "game": "Just Chatting",
       "started_at": "2026-09-01T10:02:49Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Sucky Tasks Day (day 93)",
+      "game": "Software and Game Development",
+      "started_at": "2026-09-01T15:30:56Z"
     }
   ]
 }
