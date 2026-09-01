@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-01T15:52:37.111Z",
+  "timestamp": "2026-09-01T16:18:42.074Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,28 @@
       "started_at": "2026-08-31T13:31:17Z"
     },
     {
-      "username": "Zachap",
-      "title": "🧠📚 far-left 📚🧠",
-      "game": "Just Chatting",
-      "started_at": "2026-09-01T10:02:49Z"
+      "username": "EJ_SA",
+      "title": "SRB ground transport vehicles! SLC-6 (Part 14) 9/1/26",
+      "game": "Kerbal Space Program",
+      "started_at": "2026-09-01T16:10:33Z"
     },
     {
       "username": "AdamLearnsLive",
       "title": "Sucky Tasks Day (day 93)",
       "game": "Software and Game Development",
       "started_at": "2026-09-01T15:30:56Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "🧠📚 far-left 📚🧠",
+      "game": "Just Chatting",
+      "started_at": "2026-09-01T10:02:49Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "Watch 20mins for 3 days to earn PICHU BADGE [(off) !fish🎣|!commands💻]",
+      "game": "Just Chatting",
+      "started_at": "2026-09-01T15:58:44Z"
     }
   ]
 }
