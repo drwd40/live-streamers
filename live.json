@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-01T20:07:13.769Z",
+  "timestamp": "2026-09-01T20:21:54.532Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,22 @@
       "started_at": "2026-08-31T13:31:17Z"
     },
     {
+      "username": "ipaintbirbs",
+      "title": "triumphant return to the lesbian medieval chickadee painting",
+      "game": "Art",
+      "started_at": "2026-09-01T16:23:27Z"
+    },
+    {
       "username": "EJ_SA",
       "title": "SRB ground transport vehicles! SLC-6 (Part 14) 9/1/26",
       "game": "Kerbal Space Program",
       "started_at": "2026-09-01T16:10:33Z"
     },
     {
-      "username": "ipaintbirbs",
-      "title": "triumphant return to the lesbian medieval chickadee painting",
-      "game": "Art",
-      "started_at": "2026-09-01T16:23:27Z"
+      "username": "Paleontologizing",
+      "title": "🦖 DINOSAUR Q&A and natural history discussion  🛣  Back from Utah 📆 Extra stream Friday to make up for leatherback fieldwork Sept 9-12",
+      "game": "Science & Technology",
+      "started_at": "2026-09-01T20:00:33Z"
     },
     {
       "username": "oh_bother",
@@ -32,10 +38,10 @@
       "started_at": "2026-09-01T10:02:49Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "🦖 DINOSAUR Q&A and natural history discussion  🛣  Back from Utah 📆 Extra stream Friday to make up for leatherback fieldwork Sept 9-12",
+      "username": "GeoJim2006",
+      "title": "Back-to-Basics: Identifying Common Rock-Forming Minerals ⛰️⛏️🪨 !discord !nova !tkf",
       "game": "Science & Technology",
-      "started_at": "2026-09-01T20:00:33Z"
+      "started_at": "2026-09-01T19:51:02Z"
     },
     {
       "username": "vul100",
@@ -44,22 +50,16 @@
       "started_at": "2026-09-01T18:27:59Z"
     },
     {
-      "username": "GeoJim2006",
-      "title": "Back-to-Basics: Identifying Common Rock-Forming Minerals ⛰️⛏️🪨 !discord !nova !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-09-01T19:51:02Z"
+      "username": "pencenter",
+      "title": "Watch 20mins for 3 days to earn PICHU BADGE [(off) !fish🎣|!commands💻]",
+      "game": "Just Chatting",
+      "started_at": "2026-09-01T19:58:30Z"
     },
     {
       "username": "xTalkProgrammer",
       "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
       "game": "Just Chatting",
       "started_at": "2026-09-01T18:59:35Z"
-    },
-    {
-      "username": "pencenter",
-      "title": "Watch 20mins for 3 days to earn PICHU BADGE [(off) !fish🎣|!commands💻]",
-      "game": "Just Chatting",
-      "started_at": "2026-09-01T19:58:30Z"
     }
   ]
 }
