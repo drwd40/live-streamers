@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-01T19:56:12.457Z",
+  "timestamp": "2026-09-01T20:07:13.769Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,6 +32,12 @@
       "started_at": "2026-09-01T10:02:49Z"
     },
     {
+      "username": "Paleontologizing",
+      "title": "🦖 DINOSAUR Q&A and natural history discussion  🛣  Back from Utah 📆 Extra stream Friday to make up for leatherback fieldwork Sept 9-12",
+      "game": "Science & Technology",
+      "started_at": "2026-09-01T20:00:33Z"
+    },
+    {
       "username": "vul100",
       "title": "Tuesday September 1st @2:30pm EDT:  About handedness—left & right",
       "game": "Science & Technology",
@@ -48,6 +54,12 @@
       "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
       "game": "Just Chatting",
       "started_at": "2026-09-01T18:59:35Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "Watch 20mins for 3 days to earn PICHU BADGE [(off) !fish🎣|!commands💻]",
+      "game": "Just Chatting",
+      "started_at": "2026-09-01T19:58:30Z"
     }
   ]
 }
