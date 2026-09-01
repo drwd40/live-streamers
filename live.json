@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-31T23:58:19.058Z",
+  "timestamp": "2026-09-01T00:56:26.630Z",
   "live": [
     {
       "username": "Maya",
@@ -24,6 +24,12 @@
       "title": "The Trigonometric Functions! Trigonometry, Night 02; Collab w/ @kittiesplease - 20260831",
       "game": "Math",
       "started_at": "2026-08-31T22:10:57Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Round in Circles with Excel and extra spiffy visualization.",
+      "game": "Science & Technology",
+      "started_at": "2026-09-01T00:31:48Z"
     }
   ]
 }
