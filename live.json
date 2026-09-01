@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-01T02:03:06.070Z",
+  "timestamp": "2026-09-01T02:31:14.105Z",
   "live": [
     {
       "username": "Maya",
@@ -30,12 +30,6 @@
       "title": "Astro's Po'Pourri: Chill Monday - Get your AstroCanuck Minifigure !SUBtember | !upgrade !mobile | !pgv !drop",
       "game": "Science & Technology",
       "started_at": "2026-08-31T23:24:19Z"
-    },
-    {
-      "username": "walkingsticklibrary",
-      "title": "Round in Circles with Excel and extra spiffy visualization.",
-      "game": "Science & Technology",
-      "started_at": "2026-09-01T00:31:48Z"
     }
   ]
 }
