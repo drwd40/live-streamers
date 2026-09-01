@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-09-01T18:57:03.684Z",
+  "timestamp": "2026-09-01T19:09:17.958Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Care Chats | !alveus !institute !pixel !schedule !video",
-      "game": "Just Chatting",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
+      "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-08-31T13:31:17Z"
     },
     {
@@ -36,6 +36,12 @@
       "title": "Tuesday September 1st @2:30pm EDT:  About handedness—left & right",
       "game": "Science & Technology",
       "started_at": "2026-09-01T18:27:59Z"
+    },
+    {
+      "username": "xTalkProgrammer",
+      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
+      "game": "Just Chatting",
+      "started_at": "2026-09-01T18:59:35Z"
     }
   ]
 }
