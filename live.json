@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-02T18:56:03.220Z",
+  "timestamp": "2026-09-02T19:05:22.499Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "🧠📚 twitch pol was just drama and debates before i was streaming... 📚🧠",
       "game": "Just Chatting",
       "started_at": "2026-09-02T10:03:46Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀 Rise of Piracy Live Development! | !rop !patreon !discord",
+      "game": "Software and Game Development",
+      "started_at": "2026-09-02T18:59:42Z"
     }
   ]
 }
