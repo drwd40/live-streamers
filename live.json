@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-02T13:45:18.273Z",
+  "timestamp": "2026-09-02T13:51:03.366Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-09-02T13:31:20Z"
     },
     {
-      "username": "Zachap",
-      "title": "🧠📚 twitch pol was just drama and debates before i was streaming... 📚🧠",
-      "game": "Just Chatting",
-      "started_at": "2026-09-02T10:03:46Z"
-    },
-    {
       "username": "Nerduino",
       "title": "Coffee with Nerduino - Space and Science Chat   #NASA #science #space scientist",
       "game": "Science & Technology",
       "started_at": "2026-09-02T12:53:41Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "🧠📚 twitch pol was just drama and debates before i was streaming... 📚🧠",
+      "game": "Just Chatting",
+      "started_at": "2026-09-02T10:03:46Z"
     }
   ]
 }
