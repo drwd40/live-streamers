@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-02T22:35:45.511Z",
+  "timestamp": "2026-09-02T22:41:25.491Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-09-02T20:01:19Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and studying Linear Algebra",
-      "game": "Math",
-      "started_at": "2026-09-02T20:07:48Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "MASSACHUSETTS PRIMARIES RESULTS | HUTCH THREATENED BY LEFTIST TWITCH STREAMER",
       "game": "Just Chatting",
       "started_at": "2026-09-02T22:32:59Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and studying Linear Algebra",
+      "game": "Math",
+      "started_at": "2026-09-02T20:07:48Z"
     },
     {
       "username": "nSimplexPachinko",
