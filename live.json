@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-02T01:12:37.682Z",
+  "timestamp": "2026-09-02T01:34:13.703Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,28 +8,10 @@
       "started_at": "2026-08-31T13:31:17Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "🦖 DINOSAUR Q&A and natural history discussion  🛣  Back from Utah 📆 Extra stream Friday to make up for leatherback fieldwork Sept 9-12",
-      "game": "Science & Technology",
-      "started_at": "2026-09-01T20:00:33Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "ELECTION NIGHT: MASSACHUSETTS PRIMARIES",
       "game": "Just Chatting",
       "started_at": "2026-09-01T21:49:55Z"
-    },
-    {
-      "username": "AstroCanuck",
-      "title": "!SUBtember Officially Begins - Get your AstroCanuck Minifigure - Batman LEGO Month | !upgrade !mobile !swole | !pgv !drop",
-      "game": "Lego & Brickbuilding",
-      "started_at": "2026-09-02T00:02:28Z"
-    },
-    {
-      "username": "Zachap",
-      "title": "🧠📚 far-left 📚🧠",
-      "game": "Just Chatting",
-      "started_at": "2026-09-01T10:02:49Z"
     },
     {
       "username": "Nerduino",
@@ -38,10 +20,22 @@
       "started_at": "2026-09-02T00:51:59Z"
     },
     {
+      "username": "AstroCanuck",
+      "title": "!SUBtember Officially Begins - Get your AstroCanuck Minifigure - Batman LEGO Month | !upgrade !mobile !swole | !pgv !drop",
+      "game": "Lego & Brickbuilding",
+      "started_at": "2026-09-02T00:02:28Z"
+    },
+    {
       "username": "SciAnts_Streams",
       "title": "Tinker Tuesday | HiC Chromatin tech, gene mapping, diabetes and more! | Partner+ 22/300 | !ppp !yt !pod !jj",
       "game": "Science & Technology",
       "started_at": "2026-09-02T00:59:48Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "🧠📚 far-left 📚🧠",
+      "game": "Just Chatting",
+      "started_at": "2026-09-01T10:02:49Z"
     },
     {
       "username": "MelissaInDeNile",
@@ -60,6 +54,12 @@
       "title": "More Sanctum Keys? One can hope... Starting Day 056, Night 024 - 20260901",
       "game": "Blue Prince",
       "started_at": "2026-09-01T21:36:10Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "K-12 Tuesday with Chartreux cats, dead sculptors tell tales, and the effects of the Stonewall Riot.",
+      "game": "Science & Technology",
+      "started_at": "2026-09-02T01:32:59Z"
     }
   ]
 }
