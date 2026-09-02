@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-02T19:55:15.655Z",
+  "timestamp": "2026-09-02T20:02:50.248Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,10 +14,10 @@
       "started_at": "2026-09-02T16:24:32Z"
     },
     {
-      "username": "DrawCuriosity",
-      "title": "✈️ Trying out LOOMIS vs BLOCKING portrait methods ✨🐏!tier2 !tier3",
-      "game": "Art",
-      "started_at": "2026-09-02T16:50:05Z"
+      "username": "IrishJohnGames",
+      "title": "🍀 Rise of Piracy Live Development! | !rop !patreon !discord",
+      "game": "Software and Game Development",
+      "started_at": "2026-09-02T19:58:27Z"
     },
     {
       "username": "Zachap",
@@ -26,10 +26,22 @@
       "started_at": "2026-09-02T10:03:46Z"
     },
     {
-      "username": "IrishJohnGames",
-      "title": "🍀 Rise of Piracy Live Development! | !rop !patreon !discord",
+      "username": "DrawCuriosity",
+      "title": "✈️ Trying out LOOMIS vs BLOCKING portrait methods ✨🐏!tier2 !tier3",
+      "game": "Art",
+      "started_at": "2026-09-02T16:50:05Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "FOSSIL SCIENCE DISCUSSION, natural history chitchat, and the curse of dinosaur auctions (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-09-02T20:01:19Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "It's a game-design kind of afternoon (day 94½)",
       "game": "Software and Game Development",
-      "started_at": "2026-09-02T18:59:42Z"
+      "started_at": "2026-09-02T20:02:14Z"
     }
   ]
 }
