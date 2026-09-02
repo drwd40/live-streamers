@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-02T12:52:23.100Z",
+  "timestamp": "2026-09-02T12:57:58.833Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "🧠📚 twitch pol was just drama and debates before i was streaming... 📚🧠",
       "game": "Just Chatting",
       "started_at": "2026-09-02T10:03:46Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Coffee with Nerduino - Space and Science Chat   #NASA #science #space scientist",
+      "game": "Science & Technology",
+      "started_at": "2026-09-02T12:53:41Z"
     }
   ]
 }
