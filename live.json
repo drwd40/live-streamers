@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-02T19:49:43.607Z",
+  "timestamp": "2026-09-02T19:55:15.655Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,6 +14,12 @@
       "started_at": "2026-09-02T16:24:32Z"
     },
     {
+      "username": "DrawCuriosity",
+      "title": "✈️ Trying out LOOMIS vs BLOCKING portrait methods ✨🐏!tier2 !tier3",
+      "game": "Art",
+      "started_at": "2026-09-02T16:50:05Z"
+    },
+    {
       "username": "Zachap",
       "title": "🧠📚 twitch pol was just drama and debates before i was streaming... 📚🧠",
       "game": "Just Chatting",
@@ -24,12 +30,6 @@
       "title": "🍀 Rise of Piracy Live Development! | !rop !patreon !discord",
       "game": "Software and Game Development",
       "started_at": "2026-09-02T18:59:42Z"
-    },
-    {
-      "username": "DrawCuriosity",
-      "title": "✈️ Trying out LOOMIS vs BLOCKING portrait methods ✨🐏!tier2 !tier3",
-      "game": "Art",
-      "started_at": "2026-09-02T16:50:05Z"
     }
   ]
 }
