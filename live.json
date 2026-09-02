@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-02T15:22:23.882Z",
+  "timestamp": "2026-09-02T15:33:40.951Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-09-02T13:31:20Z"
     },
     {
-      "username": "Zachap",
-      "title": "🧠📚 twitch pol was just drama and debates before i was streaming... 📚🧠",
-      "game": "Just Chatting",
-      "started_at": "2026-09-02T10:03:46Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "Minigolf ⛳️ (day 94)",
       "game": "Software and Game Development",
       "started_at": "2026-09-02T15:13:19Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "🧠📚 twitch pol was just drama and debates before i was streaming... 📚🧠",
+      "game": "Just Chatting",
+      "started_at": "2026-09-02T10:03:46Z"
     }
   ]
 }
