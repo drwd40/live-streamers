@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-02T20:02:50.248Z",
+  "timestamp": "2026-09-02T20:21:12.173Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,24 +14,6 @@
       "started_at": "2026-09-02T16:24:32Z"
     },
     {
-      "username": "IrishJohnGames",
-      "title": "🍀 Rise of Piracy Live Development! | !rop !patreon !discord",
-      "game": "Software and Game Development",
-      "started_at": "2026-09-02T19:58:27Z"
-    },
-    {
-      "username": "Zachap",
-      "title": "🧠📚 twitch pol was just drama and debates before i was streaming... 📚🧠",
-      "game": "Just Chatting",
-      "started_at": "2026-09-02T10:03:46Z"
-    },
-    {
-      "username": "DrawCuriosity",
-      "title": "✈️ Trying out LOOMIS vs BLOCKING portrait methods ✨🐏!tier2 !tier3",
-      "game": "Art",
-      "started_at": "2026-09-02T16:50:05Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "FOSSIL SCIENCE DISCUSSION, natural history chitchat, and the curse of dinosaur auctions (w/ paleontologist Danny Anduza)",
       "game": "Science & Technology",
@@ -42,6 +24,36 @@
       "title": "It's a game-design kind of afternoon (day 94½)",
       "game": "Software and Game Development",
       "started_at": "2026-09-02T20:02:14Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "🧠📚 twitch pol was just drama and debates before i was streaming... 📚🧠",
+      "game": "Just Chatting",
+      "started_at": "2026-09-02T10:03:46Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀 Rise of Piracy Live Development! | !rop !patreon !discord",
+      "game": "Software and Game Development",
+      "started_at": "2026-09-02T19:58:27Z"
+    },
+    {
+      "username": "DrawCuriosity",
+      "title": "✈️ Trying out LOOMIS vs BLOCKING portrait methods ✨🐏!tier2 !tier3",
+      "game": "Art",
+      "started_at": "2026-09-02T16:50:05Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and studying Linear Algebra",
+      "game": "Math",
+      "started_at": "2026-09-02T20:07:48Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Graphing Trigonometric Functions; Trigonometry, Night 03; Collab w/ @kittiesplease - 20260902",
+      "game": "Math",
+      "started_at": "2026-09-02T20:10:46Z"
     }
   ]
 }
