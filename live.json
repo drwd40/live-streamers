@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-02T16:07:31.700Z",
+  "timestamp": "2026-09-02T16:25:50.341Z",
   "live": [
     {
       "username": "Maya",
@@ -24,6 +24,12 @@
       "title": "🧠📚 twitch pol was just drama and debates before i was streaming... 📚🧠",
       "game": "Just Chatting",
       "started_at": "2026-09-02T10:03:46Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "Shuttle Orbiter Integration! SLC-6 (Part 15) 9/2/26",
+      "game": "Kerbal Space Program",
+      "started_at": "2026-09-02T16:24:32Z"
     }
   ]
 }
