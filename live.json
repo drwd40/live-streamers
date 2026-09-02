@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-02T23:38:17.059Z",
+  "timestamp": "2026-09-02T23:44:04.042Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-09-02T13:31:20Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "EJ's Space and Rocket Revue! 9/2/26",
-      "game": "Science & Technology",
-      "started_at": "2026-09-02T16:24:32Z"
-    },
-    {
       "username": "JapanesePrintmaking",
       "title": "Making Japanese woodblock prints ... live while you watch ...",
       "game": "Makers & Crafting",
       "started_at": "2026-09-02T23:00:01Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "EJ's Space and Rocket Revue! 9/2/26",
+      "game": "Science & Technology",
+      "started_at": "2026-09-02T16:24:32Z"
     },
     {
       "username": "Paleontologizing",
