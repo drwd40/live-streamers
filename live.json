@@ -1,11 +1,17 @@
 {
-  "timestamp": "2026-09-03T16:21:52.874Z",
+  "timestamp": "2026-09-03T16:31:45.002Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-09-02T13:31:20Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "Launchpad didn't work... Picking up the pieces... SLC-6 (Part 16) 9/3/26",
+      "game": "Kerbal Space Program",
+      "started_at": "2026-09-03T16:19:28Z"
     },
     {
       "username": "Zachap",
@@ -26,10 +32,10 @@
       "started_at": "2026-09-03T12:47:22Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "Launchpad didn't work... Picking up the pieces... SLC-6 (Part 16) 9/3/26",
-      "game": "Kerbal Space Program",
-      "started_at": "2026-09-03T16:19:28Z"
+      "username": "GeneralSte",
+      "title": "Sorcery - you mean - SorcerME | !linktree !discord",
+      "game": "Baldur's Gate 3",
+      "started_at": "2026-09-03T16:30:15Z"
     }
   ]
 }
