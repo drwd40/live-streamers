@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-03T00:58:14.876Z",
+  "timestamp": "2026-09-03T01:31:23.239Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-09-02T16:24:32Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "FOSSIL SCIENCE DISCUSSION, natural history chitchat, and the curse of dinosaur auctions (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-09-02T20:01:19Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "MASSACHUSETTS PRIMARIES RESULTS | HUTCH THREATENED BY LEFTIST TWITCH STREAMER",
       "game": "Just Chatting",
       "started_at": "2026-09-02T22:32:59Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "Wacom Wednesday | HiC Chromatin tech, gene mapping, diabetes and more! | ⚔️Onimusha waiting room ⚔️| Partner+ 30/300 | !ppp !yt !pod !jj",
+      "game": "Science & Technology",
+      "started_at": "2026-09-03T01:01:26Z"
     },
     {
       "username": "SharkG33k",
@@ -36,6 +36,12 @@
       "title": "ninja star party",
       "game": "Science & Technology",
       "started_at": "2026-09-03T00:53:06Z"
+    },
+    {
+      "username": "Moohoodles",
+      "title": "🪐Astrobiology & Space News ✨ I'm home! Roman vid & other stuff tonight",
+      "game": "Science & Technology",
+      "started_at": "2026-09-03T01:30:31Z"
     }
   ]
 }
