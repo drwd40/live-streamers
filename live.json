@@ -1,12 +1,6 @@
 {
-  "timestamp": "2026-09-03T20:55:29.601Z",
+  "timestamp": "2026-09-03T21:03:15.024Z",
   "live": [
-    {
-      "username": "Kitboga",
-      "title": "Scammers vs Unskippable Ads [Ep. 1549]",
-      "game": "Just Chatting",
-      "started_at": "2026-09-03T19:12:48Z"
-    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
@@ -32,16 +26,16 @@
       "started_at": "2026-09-03T18:36:54Z"
     },
     {
-      "username": "Zachap",
-      "title": "🧠📚 Everything should be Open Source. 📚🧠",
-      "game": "Politics",
-      "started_at": "2026-09-03T14:14:29Z"
-    },
-    {
       "username": "DrMick",
       "title": "I'm back! Mental Health Chat + Painting",
       "game": "Miniatures & Models",
       "started_at": "2026-09-03T19:05:27Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "🧠📚 Everything should be Open Source. 📚🧠",
+      "game": "Politics",
+      "started_at": "2026-09-03T14:14:29Z"
     },
     {
       "username": "IrishJohnGames",
@@ -60,12 +54,6 @@
       "title": "Solving an Electricity & Magnetism final with @femvoxfan Math Q&A after",
       "game": "Math",
       "started_at": "2026-09-03T19:57:56Z"
-    },
-    {
-      "username": "pencenter",
-      "title": "Watch 20mins for 3 days to earn PICHU BADGE [(off) !fish🎣|!commands💻]",
-      "game": "Just Chatting",
-      "started_at": "2026-09-03T19:57:47Z"
     }
   ]
 }
