@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-03T19:50:03.066Z",
+  "timestamp": "2026-09-03T19:55:37.051Z",
   "live": [
     {
       "username": "Kitboga",
@@ -26,16 +26,16 @@
       "started_at": "2026-09-03T18:36:54Z"
     },
     {
-      "username": "Zachap",
-      "title": "🧠📚 Everything should be Open Source. 📚🧠",
-      "game": "Politics",
-      "started_at": "2026-09-03T14:14:29Z"
-    },
-    {
       "username": "DrMick",
       "title": "I'm back! Mental Health Chat + Painting",
       "game": "Miniatures & Models",
       "started_at": "2026-09-03T19:05:27Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "🧠📚 Everything should be Open Source. 📚🧠",
+      "game": "Politics",
+      "started_at": "2026-09-03T14:14:29Z"
     },
     {
       "username": "oh_bother",
