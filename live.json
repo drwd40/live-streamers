@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-03T20:19:50.153Z",
+  "timestamp": "2026-09-03T20:28:52.607Z",
   "live": [
     {
       "username": "Kitboga",
@@ -44,16 +44,16 @@
       "started_at": "2026-09-03T20:05:38Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Solving an Electricity & Magnetism final with @femvoxfan Math Q&A after",
-      "game": "Math",
-      "started_at": "2026-09-03T19:57:56Z"
-    },
-    {
       "username": "DrAlexanderClarke",
       "title": "Churchill's Good ideas: the actually good, the bad, and the ridiculous",
       "game": "Just Chatting",
       "started_at": "2026-09-03T18:45:49Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Solving an Electricity & Magnetism final with @femvoxfan Math Q&A after",
+      "game": "Math",
+      "started_at": "2026-09-03T19:57:56Z"
     },
     {
       "username": "pencenter",
