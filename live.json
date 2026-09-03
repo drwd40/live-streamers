@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-03T21:51:02.528Z",
+  "timestamp": "2026-09-03T21:56:48.295Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,12 +32,6 @@
       "started_at": "2026-09-03T14:14:29Z"
     },
     {
-      "username": "DrMick",
-      "title": "I'm back! Mental Health Chat + Painting",
-      "game": "Miniatures & Models",
-      "started_at": "2026-09-03T19:05:27Z"
-    },
-    {
       "username": "IrishJohnGames",
       "title": "🍀 Rogue Blight released today, lets check it out! By @CodeRadGames! | !rop !patreon !discord",
       "game": "Rogue Blight",
@@ -50,16 +44,22 @@
       "started_at": "2026-09-03T19:57:56Z"
     },
     {
+      "username": "SETIInstitute",
+      "title": "What Happened to Neptune’s Moons? | #SETILive",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2026-09-03T21:30:37Z"
+    },
+    {
       "username": "DrAlexanderClarke",
       "title": "Churchill's Good ideas: the actually good, the bad, and the ridiculous",
       "game": "Just Chatting",
       "started_at": "2026-09-03T18:45:49Z"
     },
     {
-      "username": "SETIInstitute",
-      "title": "What Happened to Neptune’s Moons? | #SETILive",
-      "game": "Talk Shows & Podcasts",
-      "started_at": "2026-09-03T21:30:37Z"
+      "username": "imreallyimportant",
+      "title": "60 DAYS UNTIL THE MIDTERMS | EL-SAYED ON STEPHEN A. SMITH SHOW | VANCE BRIEFS PRESS",
+      "game": "Just Chatting",
+      "started_at": "2026-09-03T21:55:07Z"
     }
   ]
 }
