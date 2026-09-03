@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-03T21:39:47.494Z",
+  "timestamp": "2026-09-03T21:45:25.685Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-09-03T18:36:54Z"
     },
     {
-      "username": "Zachap",
-      "title": "🧠📚 Everything should be Open Source. 📚🧠",
-      "game": "Politics",
-      "started_at": "2026-09-03T14:14:29Z"
-    },
-    {
       "username": "DrMick",
       "title": "I'm back! Mental Health Chat + Painting",
       "game": "Miniatures & Models",
       "started_at": "2026-09-03T19:05:27Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "🧠📚 Everything should be Open Source. 📚🧠",
+      "game": "Politics",
+      "started_at": "2026-09-03T14:14:29Z"
     },
     {
       "username": "IrishJohnGames",
@@ -44,16 +44,16 @@
       "started_at": "2026-09-03T20:05:38Z"
     },
     {
-      "username": "DrAlexanderClarke",
-      "title": "Churchill's Good ideas: the actually good, the bad, and the ridiculous",
-      "game": "Just Chatting",
-      "started_at": "2026-09-03T18:45:49Z"
-    },
-    {
       "username": "DonFactorial",
       "title": "Solving an Electricity & Magnetism final with @femvoxfan Math Q&A after",
       "game": "Math",
       "started_at": "2026-09-03T19:57:56Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "Churchill's Good ideas: the actually good, the bad, and the ridiculous",
+      "game": "Just Chatting",
+      "started_at": "2026-09-03T18:45:49Z"
     },
     {
       "username": "SETIInstitute",
