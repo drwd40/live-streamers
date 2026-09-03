@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-03T01:31:23.239Z",
+  "timestamp": "2026-09-03T01:53:56.175Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-09-02T13:31:20Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "EJ's Space and Rocket Revue! 9/2/26",
-      "game": "Science & Technology",
-      "started_at": "2026-09-02T16:24:32Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "MASSACHUSETTS PRIMARIES RESULTS | HUTCH THREATENED BY LEFTIST TWITCH STREAMER",
       "game": "Just Chatting",
       "started_at": "2026-09-02T22:32:59Z"
+    },
+    {
+      "username": "Moohoodles",
+      "title": "🪐Astrobiology & Space News ✨ I'm home! Roman vid & other stuff tonight",
+      "game": "Science & Technology",
+      "started_at": "2026-09-03T01:30:31Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -38,10 +38,16 @@
       "started_at": "2026-09-03T00:53:06Z"
     },
     {
-      "username": "Moohoodles",
-      "title": "🪐Astrobiology & Space News ✨ I'm home! Roman vid & other stuff tonight",
+      "username": "Ask_a_Scientist_Gaming",
+      "title": "Just testing multi-stream. Next real stream on 9/9, 8 pm est.",
       "game": "Science & Technology",
-      "started_at": "2026-09-03T01:30:31Z"
+      "started_at": "2026-09-03T01:37:40Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Vaccine Mafia/Vaccine Economics, Who is Helmut Sterz, Greening playgrounds, and how to choose a type face.",
+      "game": "Science & Technology",
+      "started_at": "2026-09-03T01:31:34Z"
     }
   ]
 }
