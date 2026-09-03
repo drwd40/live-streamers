@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-03T18:45:52.966Z",
+  "timestamp": "2026-09-03T18:52:13.496Z",
   "live": [
     {
       "username": "Kitboga",
@@ -42,6 +42,12 @@
       "title": "Sorcery - you mean - SorcerME | !linktree !discord",
       "game": "Baldur's Gate 3",
       "started_at": "2026-09-03T16:30:15Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "Churchill's Good ideas: the actually good, the bad, and the ridiculous",
+      "game": "Just Chatting",
+      "started_at": "2026-09-03T18:45:49Z"
     }
   ]
 }
