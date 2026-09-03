@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-03T20:03:48.550Z",
+  "timestamp": "2026-09-03T20:19:50.153Z",
   "live": [
     {
       "username": "Kitboga",
@@ -26,22 +26,28 @@
       "started_at": "2026-09-03T18:36:54Z"
     },
     {
-      "username": "DrMick",
-      "title": "I'm back! Mental Health Chat + Painting",
-      "game": "Miniatures & Models",
-      "started_at": "2026-09-03T19:05:27Z"
-    },
-    {
       "username": "Zachap",
       "title": "🧠📚 Everything should be Open Source. 📚🧠",
       "game": "Politics",
       "started_at": "2026-09-03T14:14:29Z"
     },
     {
-      "username": "oh_bother",
-      "title": "I can't stop working on eurorack filters, send for help.",
-      "game": "Science & Technology",
-      "started_at": "2026-09-03T16:33:57Z"
+      "username": "DrMick",
+      "title": "I'm back! Mental Health Chat + Painting",
+      "game": "Miniatures & Models",
+      "started_at": "2026-09-03T19:05:27Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀 Rogue Blight released today, lets check it out! By @CodeRadGames! | !rop !patreon !discord",
+      "game": "Rogue Blight",
+      "started_at": "2026-09-03T20:05:38Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Solving an Electricity & Magnetism final with @femvoxfan Math Q&A after",
+      "game": "Math",
+      "started_at": "2026-09-03T19:57:56Z"
     },
     {
       "username": "DrAlexanderClarke",
@@ -54,12 +60,6 @@
       "title": "Watch 20mins for 3 days to earn PICHU BADGE [(off) !fish🎣|!commands💻]",
       "game": "Just Chatting",
       "started_at": "2026-09-03T19:57:47Z"
-    },
-    {
-      "username": "DonFactorial",
-      "title": "Solving an Electricity & Magnetism final with @femvoxfan Math Q&A after",
-      "game": "Math",
-      "started_at": "2026-09-03T19:57:56Z"
     }
   ]
 }
