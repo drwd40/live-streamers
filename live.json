@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-04T22:02:43.791Z",
+  "timestamp": "2026-09-04T22:18:21.608Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,6 +32,12 @@
       "started_at": "2026-09-04T10:00:26Z"
     },
     {
+      "username": "shnaff",
+      "title": "Chill guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-09-04T22:01:49Z"
+    },
+    {
       "username": "jacksfacts",
       "title": "Can a Evolutionary biologist beat Horsey game???",
       "game": "Horsey Game",
@@ -42,12 +48,6 @@
       "title": "Exploring the National Registry of Exonerations; Math Communication for Social Justice - 20260904 - TW: Violent Crime",
       "game": "Math",
       "started_at": "2026-09-04T20:49:22Z"
-    },
-    {
-      "username": "shnaff",
-      "title": "Chill guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-09-04T22:01:49Z"
     }
   ]
 }
