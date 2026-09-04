@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-04T17:39:25.662Z",
+  "timestamp": "2026-09-04T17:45:10.118Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "INTERACTIVE! - STONE ALONE BIRTHDAY-THON! - !incentives",
       "game": "Board Games",
       "started_at": "2026-09-04T10:36:04Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀 Rise of Piracy game dev | !rop !patreon !discord",
+      "game": "Software and Game Development",
+      "started_at": "2026-09-04T17:39:22Z"
     }
   ]
 }
