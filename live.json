@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-04T21:38:42.024Z",
+  "timestamp": "2026-09-04T21:44:15.701Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-09-04T10:00:26Z"
     },
     {
-      "username": "GeneralSte",
-      "title": "Sorcery - you mean - SorcerME | !linktree !discord",
-      "game": "Baldur's Gate 3",
-      "started_at": "2026-09-04T19:14:33Z"
-    },
-    {
       "username": "nSimplexPachinko",
       "title": "Exploring the National Registry of Exonerations; Math Communication for Social Justice - 20260904 - TW: Violent Crime",
       "game": "Math",
       "started_at": "2026-09-04T20:49:22Z"
+    },
+    {
+      "username": "jacksfacts",
+      "title": "Can a Evolutionary biologist beat Horsey game???",
+      "game": "Horsey Game",
+      "started_at": "2026-09-04T21:43:20Z"
     }
   ]
 }
