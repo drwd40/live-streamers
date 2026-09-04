@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-04T20:28:53.233Z",
+  "timestamp": "2026-09-04T20:37:39.036Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-09-04T16:01:08Z"
     },
     {
-      "username": "Zachap",
-      "title": "🧠📚 Neoliberalism is a bad guy. 📚🧠",
-      "game": "Politics",
-      "started_at": "2026-09-04T10:00:26Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "🦖 Can we save the Academy of Natural Sciences Philadelphia?  LET'S TRY! 🦖 The vital importance of museums + paleontology Q&A",
       "game": "Science & Technology",
       "started_at": "2026-09-04T20:26:46Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "🧠📚 Neoliberalism is a bad guy. 📚🧠",
+      "game": "Politics",
+      "started_at": "2026-09-04T10:00:26Z"
     },
     {
       "username": "GeneralSte",
