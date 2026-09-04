@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-04T18:34:05.076Z",
+  "timestamp": "2026-09-04T18:42:17.560Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-09-04T13:31:22Z"
     },
     {
-      "username": "ipaintbirbs",
-      "title": "giving more swords to more birds!",
-      "game": "Art",
-      "started_at": "2026-09-04T16:01:08Z"
-    },
-    {
       "username": "EJ_SA",
       "title": "Shuttle Launch Pad Integration Test #2. The SLC-6 Project (Part 17) 9/4/26",
       "game": "Kerbal Space Program",
       "started_at": "2026-09-04T16:41:15Z"
+    },
+    {
+      "username": "ipaintbirbs",
+      "title": "giving more swords to more birds!",
+      "game": "Art",
+      "started_at": "2026-09-04T16:01:08Z"
     },
     {
       "username": "Zachap",
