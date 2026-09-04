@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-04T20:49:15.472Z",
+  "timestamp": "2026-09-04T20:54:50.797Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,12 +12,6 @@
       "title": "NSF - THE FLAME TRENCH! 9/4/26",
       "game": "Science & Technology",
       "started_at": "2026-09-04T16:41:15Z"
-    },
-    {
-      "username": "ipaintbirbs",
-      "title": "giving more swords to more birds!",
-      "game": "Art",
-      "started_at": "2026-09-04T16:01:08Z"
     },
     {
       "username": "Paleontologizing",
@@ -36,6 +30,12 @@
       "title": "Sorcery - you mean - SorcerME | !linktree !discord",
       "game": "Baldur's Gate 3",
       "started_at": "2026-09-04T19:14:33Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Exploring the National Registry of Exonerations; Math Communication for Social Justice - 20260904",
+      "game": "Math",
+      "started_at": "2026-09-04T20:49:22Z"
     }
   ]
 }
