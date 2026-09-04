@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-04T00:00:12.432Z",
+  "timestamp": "2026-09-04T00:41:03.506Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,12 +14,6 @@
       "started_at": "2026-09-03T17:12:01Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "⚔️Onimusha 5 waiting room ⚔️| 20 years for new game in my favorite series | Partner+ 33/300 | !ppp !yt !pod !jj",
-      "game": "Retro",
-      "started_at": "2026-09-03T18:36:54Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "PALEONTOLOGY Q&A 🦕❔💬✔ Fossil News, Paleontologists sue Trump admin over land grab + Thursday BIRDSday (w/ paleontologist Danny Anduza)",
       "game": "Science & Technology",
@@ -30,6 +24,12 @@
       "title": "TALKING TO MRMOUTON ABOUT MIKE, PODCAST & MORE",
       "game": "Just Chatting",
       "started_at": "2026-09-03T21:55:07Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "⚔️Onimusha 5 waiting room ⚔️| 20 years for new game in my favorite series | Partner+ 33/300 | !ppp !yt !pod !jj",
+      "game": "Retro",
+      "started_at": "2026-09-03T18:36:54Z"
     },
     {
       "username": "shnaff",
@@ -54,6 +54,12 @@
       "title": "Answering your math questions",
       "game": "Math",
       "started_at": "2026-09-03T19:57:56Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Breathedge 2! | Fundraising for NZ Shark Trip! | New Badges! | !TFT",
+      "game": "Breathedge 2",
+      "started_at": "2026-09-04T00:00:41Z"
     },
     {
       "username": "nSimplexPachinko",
