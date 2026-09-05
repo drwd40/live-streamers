@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-05T20:13:38.589Z",
+  "timestamp": "2026-09-05T20:23:41.262Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "Answering your math questions and studying Linear Algebra",
       "game": "Math",
       "started_at": "2026-09-05T19:04:46Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Stream Before Knobcon - Soldering & Partying",
+      "game": "Just Chatting",
+      "started_at": "2026-09-05T20:15:17Z"
     }
   ]
 }
