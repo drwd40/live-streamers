@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-05T00:00:14.773Z",
+  "timestamp": "2026-09-05T00:51:21.630Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,22 +26,16 @@
       "started_at": "2026-09-04T21:49:48Z"
     },
     {
+      "username": "AstroCanuck",
+      "title": "Space News & !SUBtember - Get your AstroCanuck Minifigure - Batman LEGO Month | !upgrade !mobile !swole | !pgv !drop",
+      "game": "Science & Technology",
+      "started_at": "2026-09-05T00:02:06Z"
+    },
+    {
       "username": "Zachap",
       "title": "🧠📚 Neoliberalism is a bad guy. 📚🧠",
       "game": "Politics",
       "started_at": "2026-09-04T10:00:26Z"
-    },
-    {
-      "username": "shnaff",
-      "title": "Chill guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-09-04T22:01:49Z"
-    },
-    {
-      "username": "nSimplexPachinko",
-      "title": "Exploring the National Registry of Exonerations; Math Communication for Social Justice - 20260904 - TW: Violent Crime",
-      "game": "Math",
-      "started_at": "2026-09-04T20:49:22Z"
     }
   ]
 }
