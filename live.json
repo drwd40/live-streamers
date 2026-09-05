@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-05T20:55:10.031Z",
+  "timestamp": "2026-09-05T21:01:21.963Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "Stream Before Knobcon - Soldering & Partying",
       "game": "Just Chatting",
       "started_at": "2026-09-05T20:15:17Z"
+    },
+    {
+      "username": "LumiRue",
+      "title": "Cheeky Switch 2 Test Stream POKOPIA FIRST TIME TOMORROW :D",
+      "game": "Graveyard Keeper",
+      "started_at": "2026-09-05T20:55:35Z"
     }
   ]
 }
