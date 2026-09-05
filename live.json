@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-05T21:15:07.711Z",
+  "timestamp": "2026-09-05T21:22:11.931Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-09-05T20:55:35Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Stream Before Knobcon - Soldering & Partying",
-      "game": "Just Chatting",
-      "started_at": "2026-09-05T20:15:17Z"
-    },
-    {
       "username": "DonFactorial",
       "title": "Answering your math questions and studying Linear Algebra",
       "game": "Math",
       "started_at": "2026-09-05T19:04:46Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Stream Before Knobcon - Soldering & Partying",
+      "game": "Just Chatting",
+      "started_at": "2026-09-05T20:15:17Z"
     }
   ]
 }
