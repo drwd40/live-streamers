@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-05T19:16:01.038Z",
+  "timestamp": "2026-09-05T19:22:13.971Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-09-04T13:31:22Z"
     },
     {
-      "username": "Zachap",
-      "title": "🧠📚 \"tankie\" is liberal. 📚🧠",
-      "game": "Politics",
-      "started_at": "2026-09-05T10:02:00Z"
-    },
-    {
       "username": "oh_bother",
       "title": "Teardown: Taking apart a couple old 4g cellphone micro-stations? Looking for good parts.",
       "game": "Science & Technology",
       "started_at": "2026-09-05T16:22:18Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "🧠📚 \"tankie\" is liberal. 📚🧠",
+      "game": "Politics",
+      "started_at": "2026-09-05T10:02:00Z"
     },
     {
       "username": "DonFactorial",
