@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-05T00:51:21.630Z",
+  "timestamp": "2026-09-05T01:09:25.608Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,12 +12,6 @@
       "title": "GTA SHENANIGANS ON FIVEM WITH VIEWERS! 9/4/26",
       "game": "Grand Theft Auto V",
       "started_at": "2026-09-04T16:41:15Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "🦖 Can we save the Academy of Natural Sciences Philadelphia?  LET'S TRY! 🦖 The vital importance of museums + paleontology Q&A",
-      "game": "Science & Technology",
-      "started_at": "2026-09-04T20:26:46Z"
     },
     {
       "username": "imreallyimportant",
@@ -36,6 +30,12 @@
       "title": "🧠📚 Neoliberalism is a bad guy. 📚🧠",
       "game": "Politics",
       "started_at": "2026-09-04T10:00:26Z"
+    },
+    {
+      "username": "Moohoodles",
+      "title": "🪐Astrobiology & Space News ✨ Short sick stream, Firefly stuff next time",
+      "game": "Science & Technology",
+      "started_at": "2026-09-05T01:08:27Z"
     }
   ]
 }
