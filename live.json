@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-06T02:45:46.883Z",
+  "timestamp": "2026-09-06T02:51:22.099Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-09-05T22:02:40Z"
     },
     {
+      "username": "CosmoQuestX",
+      "title": "(Pre-Show) Seestar Star Party with Starfront Observatories",
+      "game": "Science & Technology",
+      "started_at": "2026-09-06T02:46:58Z"
+    },
+    {
       "username": "SydHeresy",
       "title": "Stream Before Knobcon - Soldering & Partying",
       "game": "Science & Technology",
       "started_at": "2026-09-05T20:15:17Z"
-    },
-    {
-      "username": "CosmoQuestX",
-      "title": "(Pre-Show) Seestar Star Party with Starfront Observatories",
-      "game": "Science & Technology",
-      "started_at": "2026-09-06T01:01:47Z"
     },
     {
       "username": "walkingsticklibrary",
