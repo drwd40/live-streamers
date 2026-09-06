@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-06T22:30:47.995Z",
+  "timestamp": "2026-09-06T22:38:09.682Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,22 @@
       "started_at": "2026-09-06T21:52:33Z"
     },
     {
-      "username": "VolcanoDoc",
-      "title": "let's talk water on our planet | Intro to Earth Science Series | !phd !socials !pubs !merch",
-      "game": "Science & Technology",
-      "started_at": "2026-09-06T18:57:39Z"
+      "username": "imreallyimportant",
+      "title": "SUNDAY POLITICS SHOWS",
+      "game": "Just Chatting",
+      "started_at": "2026-09-06T22:30:00Z"
     },
     {
       "username": "DrawCuriosity",
       "title": "✈️ have you ever talked epidemiology on Twitch? Maybe art / pathogenic later! ✨🐏!tier2 !tier3",
       "game": "Science & Technology",
       "started_at": "2026-09-06T21:52:46Z"
+    },
+    {
+      "username": "VolcanoDoc",
+      "title": "let's talk water on our planet | Intro to Earth Science Series | !phd !socials !pubs !merch",
+      "game": "Science & Technology",
+      "started_at": "2026-09-06T18:57:39Z"
     },
     {
       "username": "shnaff",
@@ -42,12 +48,6 @@
       "title": "Bruships 258: Naval History Questions Answered Live",
       "game": "Just Chatting",
       "started_at": "2026-09-06T18:51:25Z"
-    },
-    {
-      "username": "imreallyimportant",
-      "title": "SUNDAY POLITICS SHOWS",
-      "game": "Just Chatting",
-      "started_at": "2026-09-06T22:30:00Z"
     }
   ]
 }
