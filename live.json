@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-06T23:37:43.378Z",
+  "timestamp": "2026-09-06T23:43:16.941Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,22 +26,16 @@
       "started_at": "2026-09-06T21:52:33Z"
     },
     {
-      "username": "DrawCuriosity",
-      "title": "✈️ have you ever talked epidemiology on Twitch? Maybe art / pathogenic later! ✨🐏!tier2 !tier3",
-      "game": "Science & Technology",
-      "started_at": "2026-09-06T21:52:46Z"
-    },
-    {
       "username": "Zachap",
       "title": "🧠📚 socialism = socialized = for/by people, not for/by some external abstracted force 📚🧠",
       "game": "Just Chatting",
       "started_at": "2026-09-06T10:00:30Z"
     },
     {
-      "username": "VolcanoDoc",
-      "title": "let's talk water on our planet | Intro to Earth Science Series | !phd !socials !pubs !merch",
+      "username": "DrawCuriosity",
+      "title": "✈️ have you ever talked epidemiology on Twitch? Maybe art / pathogenic later! ✨🐏!tier2 !tier3",
       "game": "Science & Technology",
-      "started_at": "2026-09-06T18:57:39Z"
+      "started_at": "2026-09-06T21:52:46Z"
     },
     {
       "username": "shnaff",
@@ -50,10 +44,10 @@
       "started_at": "2026-09-06T22:01:54Z"
     },
     {
-      "username": "DrAlexanderClarke",
-      "title": "Bruships 258: Naval History Questions Answered Live",
-      "game": "Just Chatting",
-      "started_at": "2026-09-06T18:51:25Z"
+      "username": "VolcanoDoc",
+      "title": "let's talk water on our planet | Intro to Earth Science Series | !phd !socials !pubs !merch",
+      "game": "Science & Technology",
+      "started_at": "2026-09-06T18:57:39Z"
     }
   ]
 }
