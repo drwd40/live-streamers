@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-06T17:25:03.606Z",
+  "timestamp": "2026-09-06T17:30:50.780Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-09-06T14:00:22Z"
     },
     {
-      "username": "GeneralSte",
-      "title": "New Updates, Same Disaster | !linktree !discord",
-      "game": "Manor Lords",
-      "started_at": "2026-09-06T16:24:30Z"
-    },
-    {
       "username": "ArchitectureTV",
       "title": "Burlington, Waterfront, Village Square 💜 Architecture IRL 💜",
       "game": "IRL",
       "started_at": "2026-09-06T17:23:19Z"
+    },
+    {
+      "username": "GeneralSte",
+      "title": "New Updates, Same Disaster | !linktree !discord",
+      "game": "Manor Lords",
+      "started_at": "2026-09-06T16:24:30Z"
     }
   ]
 }
