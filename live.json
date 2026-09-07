@@ -1,6 +1,12 @@
 {
-  "timestamp": "2026-09-07T15:29:54.142Z",
+  "timestamp": "2026-09-07T15:38:33.217Z",
   "live": [
+    {
+      "username": "Maya",
+      "title": "mornin catch up⭐️pop culture quiz later⭐️",
+      "game": "Just Chatting",
+      "started_at": "2026-09-07T15:32:05Z"
+    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
@@ -8,16 +14,16 @@
       "started_at": "2026-09-06T13:31:25Z"
     },
     {
-      "username": "Zachap",
-      "title": "🧠📚 disagree? educate. 📚🧠 communist communism socialist socialism left leftist",
-      "game": "Just Chatting",
-      "started_at": "2026-09-07T10:02:25Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "Trying Astra all day (day 96)",
       "game": "Software and Game Development",
       "started_at": "2026-09-07T15:22:39Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "🧠📚 disagree? educate. 📚🧠 communist communism socialist socialism left leftist",
+      "game": "Just Chatting",
+      "started_at": "2026-09-07T10:02:25Z"
     }
   ]
 }
