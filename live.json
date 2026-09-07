@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-07T20:19:48.359Z",
+  "timestamp": "2026-09-07T20:28:42.730Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-09-06T13:31:25Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Trying Astra all day (day 96½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-09-07T19:22:42Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "NATURAL HISTORY CHAT 🦕🦴🌎 Leatherback fieldwork cancelled due to climate anomalies 😞 Interview w/ Scott Benson on Wed 🌊 !schedule",
       "game": "Science & Technology",
       "started_at": "2026-09-07T20:06:56Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Trying Astra all day (day 96½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-09-07T19:22:42Z"
     },
     {
       "username": "VolcanoDoc",
@@ -48,6 +48,12 @@
       "title": "Solving Analysis questions with @leolectures on Youtube! + Bonus desecrating fancy coffee after",
       "game": "Food & Drink",
       "started_at": "2026-09-07T18:57:42Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Trigonometric Functions; Trigonometry, Night 04; Collab w/ @kittiesplease - 20260907",
+      "game": "Math",
+      "started_at": "2026-09-07T20:22:53Z"
     }
   ]
 }
