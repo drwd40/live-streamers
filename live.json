@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-07T21:25:20.144Z",
+  "timestamp": "2026-09-07T21:31:00.759Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-09-07T19:22:42Z"
     },
     {
-      "username": "Zachap",
-      "title": "🧠📚 disagree? educate. 📚🧠 communist communism socialist socialism left leftist",
-      "game": "Just Chatting",
-      "started_at": "2026-09-07T10:02:25Z"
-    },
-    {
       "username": "VolcanoDoc",
       "title": "all other tropical storms must bow before El Niño | Intro to Earth Science Series | !phd !socials !pubs !merch",
       "game": "Science & Technology",
       "started_at": "2026-09-07T17:26:42Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "🧠📚 disagree? educate. 📚🧠 communist communism socialist socialism left leftist",
+      "game": "Just Chatting",
+      "started_at": "2026-09-07T10:02:25Z"
     },
     {
       "username": "IrishJohnGames",
@@ -42,6 +42,12 @@
       "title": "Trigonometric Functions; Trigonometry, Night 04; Collab w/ @kittiesplease - 20260907",
       "game": "Math",
       "started_at": "2026-09-07T20:22:53Z"
+    },
+    {
+      "username": "ArchitectureTV",
+      "title": "Burlington, Waterfront, Village Square 💜 Architecture IRL 💜",
+      "game": "IRL",
+      "started_at": "2026-09-07T21:29:48Z"
     }
   ]
 }
