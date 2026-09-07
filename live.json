@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-07T19:23:19.161Z",
+  "timestamp": "2026-09-07T19:28:54.072Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,6 +26,12 @@
       "started_at": "2026-09-07T19:00:55Z"
     },
     {
+      "username": "AdamLearnsLive",
+      "title": "Trying Astra all day (day 96½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-09-07T19:22:42Z"
+    },
+    {
       "username": "eToThe2iPi",
       "title": "We're back! Tech/Math Chat: Amortization Schedules and Some Sixteen Development",
       "game": "Software and Game Development",
@@ -36,12 +42,6 @@
       "title": "Solving Analysis questions with @leolectures on Youtube! + Bonus desecrating fancy coffee after",
       "game": "Math",
       "started_at": "2026-09-07T18:57:42Z"
-    },
-    {
-      "username": "AdamLearnsLive",
-      "title": "Trying Astra all day (day 96½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-09-07T19:22:42Z"
     }
   ]
 }
