@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-07T20:02:41.121Z",
+  "timestamp": "2026-09-07T20:19:48.359Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "Trying Astra all day (day 96½)",
       "game": "Software and Game Development",
       "started_at": "2026-09-07T19:22:42Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "NATURAL HISTORY CHAT 🦕🦴🌎 Leatherback fieldwork cancelled due to climate anomalies 😞 Interview w/ Scott Benson on Wed 🌊 !schedule",
+      "game": "Science & Technology",
+      "started_at": "2026-09-07T20:06:56Z"
     },
     {
       "username": "VolcanoDoc",
@@ -40,7 +46,7 @@
     {
       "username": "DonFactorial",
       "title": "Solving Analysis questions with @leolectures on Youtube! + Bonus desecrating fancy coffee after",
-      "game": "Math",
+      "game": "Food & Drink",
       "started_at": "2026-09-07T18:57:42Z"
     }
   ]
