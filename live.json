@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-07T15:21:32.001Z",
+  "timestamp": "2026-09-07T15:29:54.142Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "🧠📚 disagree? educate. 📚🧠 communist communism socialist socialism left leftist",
       "game": "Just Chatting",
       "started_at": "2026-09-07T10:02:25Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Trying Astra all day (day 96)",
+      "game": "Software and Game Development",
+      "started_at": "2026-09-07T15:22:39Z"
     }
   ]
 }
