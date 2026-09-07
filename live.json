@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-07T19:15:45.873Z",
+  "timestamp": "2026-09-07T19:23:19.161Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "Solving Analysis questions with @leolectures on Youtube! + Bonus desecrating fancy coffee after",
       "game": "Math",
       "started_at": "2026-09-07T18:57:42Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Trying Astra all day (day 96½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-09-07T19:22:42Z"
     }
   ]
 }
