@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-07T18:00:00.806Z",
+  "timestamp": "2026-09-07T18:22:59.436Z",
   "live": [
     {
       "username": "Maya",
@@ -9,8 +9,8 @@
     },
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
-      "game": "Animals, Aquariums, and Zoos",
+      "title": "Animal Care Chats | !alveus !institute !pixel !schedule !video",
+      "game": "Just Chatting",
       "started_at": "2026-09-06T13:31:25Z"
     },
     {
@@ -36,6 +36,12 @@
       "title": "LIVE Astronomy Cast 800-801: The beginning and end of everything",
       "game": "Science & Technology",
       "started_at": "2026-09-07T17:46:23Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "We're back! Tech/Math Chat: Amortization Schedules and Some Sixteen Development",
+      "game": "Software and Game Development",
+      "started_at": "2026-09-07T18:07:30Z"
     }
   ]
 }
