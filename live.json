@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-07T17:20:57.649Z",
+  "timestamp": "2026-09-07T17:28:31.103Z",
   "live": [
     {
       "username": "Maya",
@@ -30,6 +30,12 @@
       "title": "LIVE Astronomy Cast 800-801: The beginning and end of everything",
       "game": "Science & Technology",
       "started_at": "2026-09-07T16:57:18Z"
+    },
+    {
+      "username": "VolcanoDoc",
+      "title": "all other tropical storms must bow before El Niño | Intro to Earth Science Series | !phd !socials !pubs !merch",
+      "game": "Science & Technology",
+      "started_at": "2026-09-07T17:26:42Z"
     }
   ]
 }
