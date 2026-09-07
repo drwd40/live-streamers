@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-07T04:24:08.413Z",
+  "timestamp": "2026-09-07T04:36:45.844Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "When private equity buys up apartments, conserving vernal pools and faery shrimp, and whatever became of the Bakken?",
       "game": "Science & Technology",
       "started_at": "2026-09-07T01:32:43Z"
+    },
+    {
+      "username": "DrMick",
+      "title": "Therapist Plays KCD2: Part 19",
+      "game": "Kingdom Come: Deliverance II",
+      "started_at": "2026-09-07T04:35:15Z"
     }
   ]
 }
