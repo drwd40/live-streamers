@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-08T21:55:35.794Z",
+  "timestamp": "2026-09-08T22:04:46.188Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-09-08T13:31:27Z"
     },
     {
-      "username": "ipaintbirbs",
-      "title": "finishing the tapestry painting, or else!!!!",
-      "game": "Art",
-      "started_at": "2026-09-08T19:31:58Z"
-    },
-    {
       "username": "EJ_SA",
       "title": "EJ's Space and Rocket Revue! 9/8/26",
       "game": "Science & Technology",
       "started_at": "2026-09-08T16:07:15Z"
+    },
+    {
+      "username": "ipaintbirbs",
+      "title": "finishing the tapestry painting, or else!!!!",
+      "game": "Art",
+      "started_at": "2026-09-08T19:31:58Z"
     },
     {
       "username": "Paleontologizing",
@@ -32,16 +32,16 @@
       "started_at": "2026-09-08T10:03:20Z"
     },
     {
-      "username": "Rocketology",
-      "title": "Checking Out Nolvus VI - Awakening",
-      "game": "The Elder Scrolls V: Skyrim - Anniversary Edition",
-      "started_at": "2026-09-08T19:19:44Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "ELECTION NIGHT: NEW HAMPSHIRE PRIMARIES",
       "game": "Just Chatting",
       "started_at": "2026-09-08T21:54:54Z"
+    },
+    {
+      "username": "shnaff",
+      "title": "Chill guitar, piano, and singing in !stereo🎧!SUBtember",
+      "game": "Music",
+      "started_at": "2026-09-08T22:03:34Z"
     }
   ]
 }
