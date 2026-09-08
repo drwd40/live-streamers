@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-08T04:36:04.163Z",
+  "timestamp": "2026-09-08T04:45:03.131Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "🪐Astrobiology & Space News ✨ Star Trek stream tomorrow! Maybe short one tonight",
       "game": "Science & Technology",
       "started_at": "2026-09-08T01:16:55Z"
+    },
+    {
+      "username": "DrMick",
+      "title": "Mental Health Chat + Pokemon Red/ Deckbuilding Later?",
+      "game": "Pokémon Trading Card Game",
+      "started_at": "2026-09-08T04:40:28Z"
     }
   ]
 }
