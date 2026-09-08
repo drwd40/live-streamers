@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-08T19:21:18.933Z",
+  "timestamp": "2026-09-08T19:28:14.413Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,16 +38,16 @@
       "started_at": "2026-09-08T18:30:46Z"
     },
     {
-      "username": "xTalkProgrammer",
-      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
-      "game": "Just Chatting",
-      "started_at": "2026-09-08T18:54:44Z"
-    },
-    {
       "username": "Rocketology",
       "title": "Checking Out Nolvus VI - Awakening",
       "game": "The Elder Scrolls V: Skyrim - Anniversary Edition",
       "started_at": "2026-09-08T19:19:44Z"
+    },
+    {
+      "username": "xTalkProgrammer",
+      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
+      "game": "Just Chatting",
+      "started_at": "2026-09-08T18:54:44Z"
     }
   ]
 }
