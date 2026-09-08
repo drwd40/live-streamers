@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-08T17:18:00.193Z",
+  "timestamp": "2026-09-08T17:27:29.681Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "help me put together my DIY synthesizer, I don't know what I'm doing (eurorack)",
       "game": "Science & Technology",
       "started_at": "2026-09-08T16:36:51Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "🦖SciAnts IRL 🦴| Hunting Miocene-era fossils Day 1| Partner+ 33/300 | !ppp !yt !pod !jj",
+      "game": "IRL",
+      "started_at": "2026-09-08T17:22:26Z"
     }
   ]
 }
