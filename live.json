@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-09T12:56:06.782Z",
+  "timestamp": "2026-09-09T13:05:53.681Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,12 @@
       "title": "I have been so ill guys... Let's work out what to do - !incentives",
       "game": "Just Chatting",
       "started_at": "2026-09-09T12:42:19Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Coffee with Nerduino - science chat.   #NASA #science #space #scientist",
+      "game": "Science & Technology",
+      "started_at": "2026-09-09T13:00:45Z"
     }
   ]
 }
