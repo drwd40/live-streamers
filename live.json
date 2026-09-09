@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-09T07:48:04.150Z",
+  "timestamp": "2026-09-09T07:53:51.533Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,12 +12,6 @@
       "title": "Deckbuilding/Testing",
       "game": "Pokémon Trading Card Game",
       "started_at": "2026-09-09T04:31:22Z"
-    },
-    {
-      "username": "walkingsticklibrary",
-      "title": "K-12 Tuesday All About Armadillos, Better Succah Decorations, and How to Thrift.",
-      "game": "Science & Technology",
-      "started_at": "2026-09-09T06:11:23Z"
     }
   ]
 }
