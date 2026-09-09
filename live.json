@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-09T13:57:49.070Z",
+  "timestamp": "2026-09-09T14:14:29.510Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-09-08T13:31:27Z"
     },
     {
-      "username": "Zachap",
-      "title": "🧠📚 rich doesn't mean smart EVER. 📚🧠",
-      "game": "Just Chatting",
-      "started_at": "2026-09-09T10:03:14Z"
-    },
-    {
       "username": "Nerduino",
       "title": "Coffee with Nerduino - science chat.   #NASA #science #space #scientist",
       "game": "Science & Technology",
       "started_at": "2026-09-09T13:00:45Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "🧠📚 rich doesn't mean smart EVER. 📚🧠",
+      "game": "Just Chatting",
+      "started_at": "2026-09-09T10:03:14Z"
     },
     {
       "username": "Andilippi",
