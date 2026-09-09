@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-09T19:28:32.022Z",
+  "timestamp": "2026-09-09T19:36:38.794Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,12 @@
       "title": "🧠📚 rich doesn't mean smart EVER. 📚🧠",
       "game": "Just Chatting",
       "started_at": "2026-09-09T10:03:14Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀 Rise of Piracy game dev - Jern Jam starts next week! !jj | !rop !patreon !discord",
+      "game": "Software and Game Development",
+      "started_at": "2026-09-09T19:31:33Z"
     }
   ]
 }
