@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-09T19:59:10.251Z",
+  "timestamp": "2026-09-09T20:18:37.941Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,22 @@
       "started_at": "2026-09-09T16:04:47Z"
     },
     {
-      "username": "Zachap",
-      "title": "🧠📚 rich doesn't mean smart EVER. 📚🧠",
-      "game": "Just Chatting",
-      "started_at": "2026-09-09T10:03:14Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "🛥🌊 LEATHERBACK SEA TURTLE EXPERT Scott Benson's 2nd interview 🛥🌊 plus natural history discussion and fossil science Q&A",
       "game": "Science & Technology",
       "started_at": "2026-09-09T19:50:14Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Some design, some development 👌 (day 98½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-09-09T19:55:28Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "🧠📚 rich doesn't mean smart EVER. 📚🧠",
+      "game": "Just Chatting",
+      "started_at": "2026-09-09T10:03:14Z"
     },
     {
       "username": "IrishJohnGames",
@@ -32,10 +38,10 @@
       "started_at": "2026-09-09T19:31:33Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Some design, some development 👌 (day 98½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-09-09T19:55:28Z"
+      "username": "nSimplexPachinko",
+      "title": "Inverse Trigonometric Functions; Trigonometry 05; Collab w/ @kittiesplease",
+      "game": "Math",
+      "started_at": "2026-09-09T20:04:56Z"
     }
   ]
 }
