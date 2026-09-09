@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-09T21:50:06.670Z",
+  "timestamp": "2026-09-09T21:55:38.091Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,10 +38,22 @@
       "started_at": "2026-09-09T19:31:33Z"
     },
     {
+      "username": "imreallyimportant",
+      "title": "NEW HAMPSHIRE PRIMARY RESULTS | REPUBLICAN MIDTERM CONVENTION | TALKING TO JOLAH @ 8 PM EDT",
+      "game": "Just Chatting",
+      "started_at": "2026-09-09T21:50:02Z"
+    },
+    {
       "username": "nSimplexPachinko",
       "title": "Inverse Trigonometric Functions; Trigonometry 05; Collab w/ @kittiesplease",
       "game": "Math",
       "started_at": "2026-09-09T20:04:56Z"
+    },
+    {
+      "username": "AcademyOfUselessIdeas",
+      "title": "Regular Slim, Better Slim, and Cooler Slim talk about algebra.",
+      "game": "Math",
+      "started_at": "2026-09-09T21:51:54Z"
     }
   ]
 }
