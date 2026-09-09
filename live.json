@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-09T02:26:51.636Z",
+  "timestamp": "2026-09-09T02:40:33.988Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-09-08T13:31:27Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "LATE NIGHT BATTLEFIELD! 9/8/26",
-      "game": "Battlefield 6",
-      "started_at": "2026-09-08T16:07:15Z"
-    },
-    {
       "username": "Moohoodles",
       "title": "🖖 Star Trek 60th Anniversary ✨ w/ Sarah from @planetarysociety 🪐 !noalerts !sarah",
       "game": "Science & Technology",
       "started_at": "2026-09-08T23:59:48Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "LATE NIGHT BATTLEFIELD! 9/8/26",
+      "game": "Battlefield 6",
+      "started_at": "2026-09-08T16:07:15Z"
     },
     {
       "username": "SharkG33k",
