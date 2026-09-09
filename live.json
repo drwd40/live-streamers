@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-09T01:07:55.958Z",
+  "timestamp": "2026-09-09T01:32:23.369Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -9,15 +9,9 @@
     },
     {
       "username": "EJ_SA",
-      "title": "EJ's Space and Rocket Revue! 9/8/26",
-      "game": "Science & Technology",
+      "title": "LATE NIGHT BATTLEFIELD! 9/8/26",
+      "game": "Battlefield 6",
       "started_at": "2026-09-08T16:07:15Z"
-    },
-    {
-      "username": "imreallyimportant",
-      "title": "ELECTION NIGHT: NEW HAMPSHIRE PRIMARIES",
-      "game": "Just Chatting",
-      "started_at": "2026-09-08T21:54:54Z"
     },
     {
       "username": "Moohoodles",
@@ -26,16 +20,16 @@
       "started_at": "2026-09-08T23:59:48Z"
     },
     {
+      "username": "imreallyimportant",
+      "title": "ELECTION NIGHT: NEW HAMPSHIRE PRIMARIES",
+      "game": "Just Chatting",
+      "started_at": "2026-09-08T21:54:54Z"
+    },
+    {
       "username": "SharkG33k",
       "title": "🦈 NEW Tiger Shark Footage! | Fundraising for Great White Shark Trip! | New Badges! | !TFT",
       "game": "Science & Technology",
       "started_at": "2026-09-09T00:04:11Z"
-    },
-    {
-      "username": "shnaff",
-      "title": "Chill guitar, piano, and singing in !stereo🎧!SUBtember",
-      "game": "Music",
-      "started_at": "2026-09-08T22:03:34Z"
     },
     {
       "username": "Nerduino",
@@ -50,10 +44,10 @@
       "started_at": "2026-09-08T22:52:32Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "Looking for a Magnifying Glass and a Mailroom; Starting Day 58, Night 025 - 20260908",
-      "game": "Blue Prince",
-      "started_at": "2026-09-08T22:10:58Z"
+      "username": "walkingsticklibrary",
+      "title": "K-12 Tuesday All About Armadillos, Better Succah Decorations, and How to Thrift.",
+      "game": "Science & Technology",
+      "started_at": "2026-09-09T01:31:00Z"
     }
   ]
 }
