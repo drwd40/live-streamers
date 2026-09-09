@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-09T05:30:24.460Z",
+  "timestamp": "2026-09-09T05:39:55.342Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-09-09T04:31:22Z"
     },
     {
-      "username": "walkingsticklibrary",
-      "title": "K-12 Tuesday All About Armadillos, Better Succah Decorations, and How to Thrift.",
-      "game": "Science & Technology",
-      "started_at": "2026-09-09T01:31:00Z"
-    },
-    {
       "username": "happyknightmares",
       "title": "First school night stream! Reading and co-working",
       "game": "Food & Drink",
       "started_at": "2026-09-09T03:36:19Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "K-12 Tuesday All About Armadillos, Better Succah Decorations, and How to Thrift.",
+      "game": "Science & Technology",
+      "started_at": "2026-09-09T01:31:00Z"
     }
   ]
 }
