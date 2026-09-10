@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-10T15:09:14.001Z",
+  "timestamp": "2026-09-10T15:22:44.758Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "🧠📚 slop++ 📚🧠",
       "game": "Just Chatting",
       "started_at": "2026-09-10T10:03:13Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "EJ'S SPACEX SF-153 LAUNCH COVERAGE! 9/10/26",
+      "game": "Science & Technology",
+      "started_at": "2026-09-10T15:21:04Z"
     }
   ]
 }
