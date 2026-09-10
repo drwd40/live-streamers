@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-10T05:25:41.754Z",
+  "timestamp": "2026-09-10T05:33:28.203Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "Back in the Bakken. 1-2-3 Amy Sever, and when the Last Ship sails.",
       "game": "Science & Technology",
       "started_at": "2026-09-10T01:30:41Z"
+    },
+    {
+      "username": "happyknightmares",
+      "title": "Second school night stream! Reading, co-working, 3DS!!",
+      "game": "Food & Drink",
+      "started_at": "2026-09-10T05:28:50Z"
     }
   ]
 }
