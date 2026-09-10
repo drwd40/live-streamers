@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-10T18:55:50.457Z",
+  "timestamp": "2026-09-10T19:03:43.078Z",
   "live": [
     {
       "username": "Kitboga",
@@ -32,16 +32,16 @@
       "started_at": "2026-09-10T10:03:13Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Math/CS Chat + Electricity & Magnetism + Whatever Else We're Gonna Chat About",
-      "game": "Science & Technology",
-      "started_at": "2026-09-10T18:21:09Z"
-    },
-    {
       "username": "DrMick",
       "title": "Mental Health Chat + Painting 40k",
       "game": "Miniatures & Models",
       "started_at": "2026-09-10T18:52:53Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Math/CS Chat + Electricity & Magnetism + Whatever Else We're Gonna Chat About",
+      "game": "Science & Technology",
+      "started_at": "2026-09-10T18:21:09Z"
     }
   ]
 }
