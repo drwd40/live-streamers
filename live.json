@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-10T19:53:43.691Z",
+  "timestamp": "2026-09-10T19:59:54.955Z",
   "live": [
     {
       "username": "Kitboga",
@@ -20,16 +20,16 @@
       "started_at": "2026-09-10T15:21:04Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "⚔️Onimusha 5⚔️| 20 years for new game in my favorite series | Partner+ 89/300 | !ppp !yt !pod !jj",
-      "game": "Onimusha: Way of the Sword",
-      "started_at": "2026-09-10T16:05:38Z"
-    },
-    {
       "username": "Zachap",
       "title": "🧠📚 slop++ 📚🧠",
       "game": "Politics",
       "started_at": "2026-09-10T10:03:13Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "⚔️Onimusha 5⚔️| 20 years for new game in my favorite series | Partner+ 89/300 | !ppp !yt !pod !jj",
+      "game": "Onimusha: Way of the Sword",
+      "started_at": "2026-09-10T16:05:38Z"
     },
     {
       "username": "DrMick",
@@ -42,6 +42,12 @@
       "title": "Math/CS Chat + Electricity & Magnetism + Whatever Else We're Gonna Chat About",
       "game": "Science & Technology",
       "started_at": "2026-09-10T18:21:09Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "Watch 20mins for 3 days to earn PICHU BADGE [(off) !fish🎣|!commands💻]",
+      "game": "Just Chatting",
+      "started_at": "2026-09-10T19:57:44Z"
     }
   ]
 }
