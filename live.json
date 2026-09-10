@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-10T22:45:23.628Z",
+  "timestamp": "2026-09-10T22:50:58.112Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -44,16 +44,16 @@
       "started_at": "2026-09-10T22:02:01Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and studying Linear Algebra",
-      "game": "Math",
-      "started_at": "2026-09-10T20:02:56Z"
-    },
-    {
       "username": "NotesAndVolts",
       "title": "LIVE Synths! GSG - SYNTHON 909 2026",
       "game": "Music",
       "started_at": "2026-09-10T22:37:52Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and studying Linear Algebra",
+      "game": "Math",
+      "started_at": "2026-09-10T20:02:56Z"
     },
     {
       "username": "nSimplexPachinko",
