@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-10T20:16:56.475Z",
+  "timestamp": "2026-09-10T20:26:02.156Z",
   "live": [
     {
       "username": "Kitboga",
@@ -20,6 +20,12 @@
       "started_at": "2026-09-10T15:21:04Z"
     },
     {
+      "username": "Paleontologizing",
+      "title": "DINOSAUR SCIENCE Q&A 🦕❔💬✔ and paleontology news + Thursday BIRDSday (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-09-10T20:08:47Z"
+    },
+    {
       "username": "Zachap",
       "title": "🧠📚 slop++ 📚🧠",
       "game": "Politics",
@@ -32,22 +38,10 @@
       "started_at": "2026-09-10T16:05:38Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "DINOSAUR SCIENCE Q&A 🦕❔💬✔ and paleontology news + Thursday BIRDSday (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-09-10T20:08:47Z"
-    },
-    {
       "username": "DrMick",
       "title": "Mental Health Chat + Painting 40k",
       "game": "Miniatures & Models",
       "started_at": "2026-09-10T18:52:53Z"
-    },
-    {
-      "username": "eToThe2iPi",
-      "title": "Math/CS Chat + Electricity & Magnetism + Whatever Else We're Gonna Chat About",
-      "game": "Science & Technology",
-      "started_at": "2026-09-10T18:21:09Z"
     },
     {
       "username": "DonFactorial",
