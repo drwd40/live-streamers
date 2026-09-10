@@ -1,23 +1,11 @@
 {
-  "timestamp": "2026-09-09T23:57:52.985Z",
+  "timestamp": "2026-09-10T00:39:29.621Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-09-08T13:31:27Z"
-    },
-    {
-      "username": "JapanesePrintmaking",
-      "title": "Making Japanese woodblock prints ... live while you watch ...",
-      "game": "Makers & Crafting",
-      "started_at": "2026-09-09T23:00:04Z"
-    },
-    {
-      "username": "EJ_SA",
-      "title": "EJ's Space and Rocket Revue! 9/9/26",
-      "game": "Science & Technology",
-      "started_at": "2026-09-09T16:04:47Z"
     },
     {
       "username": "Paleontologizing",
@@ -38,16 +26,28 @@
       "started_at": "2026-09-09T10:03:14Z"
     },
     {
+      "username": "SharkG33k",
+      "title": "Interview with shark scientist Melissa Cristina Márquez! | **ALERTS DISABLED**",
+      "game": "Science & Technology",
+      "started_at": "2026-09-10T00:02:12Z"
+    },
+    {
       "username": "nSimplexPachinko",
       "title": "Inverse Trigonometric Functions; Trigonometry 05; Collab w/ @kittiesplease",
       "game": "Math",
       "started_at": "2026-09-09T20:04:56Z"
     },
     {
-      "username": "AcademyOfUselessIdeas",
-      "title": "Regular Slim, Better Slim, and Cooler Slim talk about algebra.",
-      "game": "Math",
-      "started_at": "2026-09-09T21:51:54Z"
+      "username": "Ask_a_Scientist_Gaming",
+      "title": "Dr. Dawn Carr- gerontology, health and aging, and Tetris.",
+      "game": "Science & Technology",
+      "started_at": "2026-09-09T23:58:47Z"
+    },
+    {
+      "username": "nogre0",
+      "title": "back to normality",
+      "game": "Just Chatting",
+      "started_at": "2026-09-10T00:00:11Z"
     }
   ]
 }
