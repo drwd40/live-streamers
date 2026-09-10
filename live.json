@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-10T21:31:53.965Z",
+  "timestamp": "2026-09-10T21:39:44.594Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -42,6 +42,12 @@
       "title": "Answering your math questions and studying Linear Algebra",
       "game": "Math",
       "started_at": "2026-09-10T20:02:56Z"
+    },
+    {
+      "username": "SETIInstitute",
+      "title": "Can Planets Form Around Supermassive Black Holes? | #SETILive",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2026-09-10T21:32:49Z"
     }
   ]
 }
