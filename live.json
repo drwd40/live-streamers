@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-10T18:50:13.161Z",
+  "timestamp": "2026-09-10T18:55:50.457Z",
   "live": [
     {
       "username": "Kitboga",
@@ -20,12 +20,6 @@
       "started_at": "2026-09-10T15:21:04Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Wow, it's been 99 days of streaming this game (day 99)",
-      "game": "Software and Game Development",
-      "started_at": "2026-09-10T15:25:12Z"
-    },
-    {
       "username": "SciAnts_Streams",
       "title": "⚔️Onimusha 5⚔️| 20 years for new game in my favorite series | Partner+ 89/300 | !ppp !yt !pod !jj",
       "game": "Onimusha: Way of the Sword",
@@ -42,6 +36,12 @@
       "title": "Math/CS Chat + Electricity & Magnetism + Whatever Else We're Gonna Chat About",
       "game": "Science & Technology",
       "started_at": "2026-09-10T18:21:09Z"
+    },
+    {
+      "username": "DrMick",
+      "title": "Mental Health Chat + Painting 40k",
+      "game": "Miniatures & Models",
+      "started_at": "2026-09-10T18:52:53Z"
     }
   ]
 }
