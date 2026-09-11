@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-11T00:14:14.799Z",
+  "timestamp": "2026-09-11T00:58:33.239Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,10 +38,10 @@
       "started_at": "2026-09-10T10:03:13Z"
     },
     {
-      "username": "shnaff",
-      "title": "Chill guitar, piano, and singing in !stereo🎧!SUBtember",
-      "game": "Music",
-      "started_at": "2026-09-10T22:02:01Z"
+      "username": "Nerduino",
+      "title": "Thursday Soace and Science chat with a former NASA guy.    #NASA #science #space #scientist",
+      "game": "Science & Technology",
+      "started_at": "2026-09-11T00:43:34Z"
     },
     {
       "username": "DonFactorial",
@@ -50,22 +50,16 @@
       "started_at": "2026-09-10T20:02:56Z"
     },
     {
-      "username": "MelissaInDeNile",
-      "title": "Back to 1 of the 7 seas! Let's do some sailing in Assassins Creed: Black Flag Resynced!! ~ Follower Goal: 2453/2600 ~ !socials !beyonddenile",
-      "game": "Assassin's Creed Black Flag Resynced",
-      "started_at": "2026-09-10T22:51:28Z"
-    },
-    {
-      "username": "nSimplexPachinko",
-      "title": "Chapter 9: Shooting the Moon; TitansGrave 016, TTRPG Planning - 20260910",
-      "game": "Tabletop RPGs",
-      "started_at": "2026-09-10T21:40:25Z"
-    },
-    {
       "username": "SharkG33k",
       "title": "NEW 360 wreck dive footage with lemon sharks and goliath groupers! | !GWS",
       "game": "Science & Technology",
       "started_at": "2026-09-11T00:10:36Z"
+    },
+    {
+      "username": "MelissaInDeNile",
+      "title": "Back to 1 of the 7 seas! Let's do some sailing in Assassins Creed: Black Flag Resynced!! ~ Follower Goal: 2453/2600 ~ !socials !beyonddenile",
+      "game": "Assassin's Creed Black Flag Resynced",
+      "started_at": "2026-09-10T22:51:28Z"
     }
   ]
 }
