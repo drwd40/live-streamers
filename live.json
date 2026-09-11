@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-11T19:01:47.251Z",
+  "timestamp": "2026-09-11T19:15:52.951Z",
   "live": [
     {
       "username": "Maya",
@@ -9,15 +9,9 @@
     },
     {
       "username": "AlveusSanctuary",
-      "title": "Show and Tell | !alveus !institute !pixel !schedule !video",
-      "game": "Just Chatting",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
+      "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-09-10T13:31:29Z"
-    },
-    {
-      "username": "EJ_SA",
-      "title": "I fly the helicopter.....and more. WARDOGS! 9/11/26",
-      "game": "WARDOGS",
-      "started_at": "2026-09-11T16:09:11Z"
     },
     {
       "username": "ipaintbirbs",
@@ -26,16 +20,16 @@
       "started_at": "2026-09-11T16:21:39Z"
     },
     {
+      "username": "EJ_SA",
+      "title": "I fly the helicopter.....and more. WARDOGS! 9/11/26",
+      "game": "WARDOGS",
+      "started_at": "2026-09-11T16:09:11Z"
+    },
+    {
       "username": "Zachap",
       "title": "🧠📚 post 9/11 wars caused 4.5+ million deaths  📚🧠",
       "game": "Just Chatting",
       "started_at": "2026-09-11T10:04:01Z"
-    },
-    {
-      "username": "CosmoQuestX",
-      "title": "After Hours with Guest Emma Chapman",
-      "game": "Science & Technology",
-      "started_at": "2026-09-11T18:03:31Z"
     }
   ]
 }
