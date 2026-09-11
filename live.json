@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-09-11T17:55:25.768Z",
+  "timestamp": "2026-09-11T18:03:52.514Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
-      "game": "Animals, Aquariums, and Zoos",
+      "title": "Show and Tell | !alveus !institute !pixel !schedule !video",
+      "game": "Just Chatting",
       "started_at": "2026-09-10T13:31:29Z"
     },
     {
@@ -42,6 +42,12 @@
       "title": "🍀 Rise of Piracy game dev - Jern Jam starts next week! !jj | !rop !patreon !discord",
       "game": "Software and Game Development",
       "started_at": "2026-09-11T17:33:08Z"
+    },
+    {
+      "username": "CosmoQuestX",
+      "title": "After Hours with Guest Emma Chapman",
+      "game": "Science & Technology",
+      "started_at": "2026-09-11T18:03:31Z"
     }
   ]
 }
