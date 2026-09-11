@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-11T01:25:42.411Z",
+  "timestamp": "2026-09-11T01:39:46.093Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,28 +14,22 @@
       "started_at": "2026-09-10T15:21:04Z"
     },
     {
-      "username": "imreallyimportant",
-      "title": "TRUMP PROMISES EVERY ADULT AMERICAN $5K IF REPUBLICANS WIN MIDTERMS | FETTERMAN AT RNC",
-      "game": "Just Chatting",
-      "started_at": "2026-09-10T21:59:56Z"
-    },
-    {
       "username": "SciAnts_Streams",
       "title": "⚔️Onimusha 5⚔️| 20 years for new game in my favorite series | Partner+ 89/300 | !ppp !yt !pod !jj",
       "game": "Onimusha: Way of the Sword",
       "started_at": "2026-09-10T16:05:38Z"
     },
     {
-      "username": "Zachap",
-      "title": "🧠📚 slop++ 📚🧠",
-      "game": "Politics",
-      "started_at": "2026-09-10T10:03:13Z"
-    },
-    {
       "username": "Nerduino",
       "title": "Thursday Soace and Science chat with a former NASA guy.    #NASA #science #space #scientist",
       "game": "Science & Technology",
       "started_at": "2026-09-11T00:43:34Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "🧠📚 slop++ 📚🧠",
+      "game": "Politics",
+      "started_at": "2026-09-10T10:03:13Z"
     },
     {
       "username": "SharkG33k",
@@ -54,6 +48,12 @@
       "title": "Answering your math questions and studying Linear Algebra",
       "game": "Math",
       "started_at": "2026-09-10T20:02:56Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Two more from Amy Sever. When the Last Ship sails, and the bronze couple on the bench.",
+      "game": "Science & Technology",
+      "started_at": "2026-09-11T01:32:20Z"
     }
   ]
 }
