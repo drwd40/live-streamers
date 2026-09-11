@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-11T23:45:20.163Z",
+  "timestamp": "2026-09-11T23:50:55.522Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -48,6 +48,12 @@
       "title": "AI Does Fermat, More Exoneration Registry; Math Communication & Social Justice - 20260911",
       "game": "Math",
       "started_at": "2026-09-11T22:27:36Z"
+    },
+    {
+      "username": "AstroCanuck",
+      "title": "Live Astrophotography & LEGO News - !SUBtember - Get your AstroCanuck Minifigure | !upgrade !mobile !swole | !pgv !drop",
+      "game": "Science & Technology",
+      "started_at": "2026-09-11T23:49:17Z"
     }
   ]
 }
