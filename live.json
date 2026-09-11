@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-11T23:09:13.885Z",
+  "timestamp": "2026-09-11T23:19:21.556Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,28 +26,28 @@
       "started_at": "2026-09-11T10:04:01Z"
     },
     {
-      "username": "GeoJim2006",
-      "title": "I'm Back! More Identifying Common Rock-Forming Minerals ⛰️⛏️🪨 !discord !nova !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-09-11T19:35:08Z"
-    },
-    {
       "username": "shnaff",
       "title": "Chill guitar, piano, and singing in !stereo🎧!SUBtember",
       "game": "Music",
       "started_at": "2026-09-11T22:03:36Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "AI Does Fermat, More Exoneration Registry; Math Communication & Social Justice - 20260911",
-      "game": "Math",
-      "started_at": "2026-09-11T22:27:36Z"
+      "username": "GeoJim2006",
+      "title": "I'm Back! More Identifying Common Rock-Forming Minerals ⛰️⛏️🪨 !discord !nova !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-09-11T19:35:08Z"
     },
     {
       "username": "SharkG33k",
       "title": "Interview with shark photographer George Probst! | !GWS",
       "game": "Talk Shows & Podcasts",
       "started_at": "2026-09-11T23:08:02Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "AI Does Fermat, More Exoneration Registry; Math Communication & Social Justice - 20260911",
+      "game": "Math",
+      "started_at": "2026-09-11T22:27:36Z"
     }
   ]
 }
