@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-11T22:27:10.502Z",
+  "timestamp": "2026-09-11T22:34:25.705Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "Sixteen: Episode 26.07",
       "game": "Trivia",
       "started_at": "2026-09-11T21:48:02Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "AI Does Fermat, More Exoneration Registry; Math Communication & Social Justice - 20260911",
+      "game": "Math",
+      "started_at": "2026-09-11T22:27:36Z"
     }
   ]
 }
