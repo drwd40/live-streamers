@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-11T01:52:30.650Z",
+  "timestamp": "2026-09-11T01:58:10.527Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-09-10T16:05:38Z"
     },
     {
-      "username": "Zachap",
-      "title": "🧠📚 slop++ 📚🧠",
-      "game": "Politics",
-      "started_at": "2026-09-10T10:03:13Z"
-    },
-    {
       "username": "Nerduino",
       "title": "Thursday Space and Science chat with a former NASA guy.    #NASA #science #space #scientist",
       "game": "Science & Technology",
       "started_at": "2026-09-11T00:43:34Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "🧠📚 slop++ 📚🧠",
+      "game": "Politics",
+      "started_at": "2026-09-10T10:03:13Z"
     },
     {
       "username": "SharkG33k",
