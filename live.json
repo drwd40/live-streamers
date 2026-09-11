@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-11T00:58:33.239Z",
+  "timestamp": "2026-09-11T01:25:42.411Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,12 +12,6 @@
       "title": "WARDOGS: First Impressions! LFG! 9/10/26",
       "game": "WARDOGS",
       "started_at": "2026-09-10T15:21:04Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "DINOSAUR SCIENCE Q&A 🦕❔💬✔ and paleontology news + Thursday BIRDSday (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-09-10T20:08:47Z"
     },
     {
       "username": "imreallyimportant",
@@ -44,12 +38,6 @@
       "started_at": "2026-09-11T00:43:34Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and studying Linear Algebra",
-      "game": "Math",
-      "started_at": "2026-09-10T20:02:56Z"
-    },
-    {
       "username": "SharkG33k",
       "title": "NEW 360 wreck dive footage with lemon sharks and goliath groupers! | !GWS",
       "game": "Science & Technology",
@@ -60,6 +48,12 @@
       "title": "Back to 1 of the 7 seas! Let's do some sailing in Assassins Creed: Black Flag Resynced!! ~ Follower Goal: 2453/2600 ~ !socials !beyonddenile",
       "game": "Assassin's Creed Black Flag Resynced",
       "started_at": "2026-09-10T22:51:28Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and studying Linear Algebra",
+      "game": "Math",
+      "started_at": "2026-09-10T20:02:56Z"
     }
   ]
 }
