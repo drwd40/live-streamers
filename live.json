@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-12T01:34:33.362Z",
+  "timestamp": "2026-09-12T01:48:41.536Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,22 +8,16 @@
       "started_at": "2026-09-10T13:31:29Z"
     },
     {
-      "username": "imreallyimportant",
-      "title": "DIGITAL GROUND GAME FUNDRAISER @ 6:15 PM EDT | IRAN WAR ESCALATES",
-      "game": "Just Chatting",
-      "started_at": "2026-09-11T23:34:36Z"
-    },
-    {
       "username": "EJ_SA",
       "title": "FRIDAY NIGHT WARDOOOOGS! GET IN HERE! 9/11/26",
       "game": "WARDOGS",
       "started_at": "2026-09-12T01:23:43Z"
     },
     {
-      "username": "AstroCanuck",
-      "title": "Live Astrophotography & LEGO News - !SUBtember - Get your AstroCanuck Minifigure | !upgrade !mobile !swole | !pgv !drop",
-      "game": "Science & Technology",
-      "started_at": "2026-09-11T23:49:17Z"
+      "username": "imreallyimportant",
+      "title": "DIGITAL GROUND GAME FUNDRAISER @ 6:15 PM EDT | IRAN WAR ESCALATES",
+      "game": "Just Chatting",
+      "started_at": "2026-09-11T23:34:36Z"
     },
     {
       "username": "Moohoodles",
@@ -32,16 +26,16 @@
       "started_at": "2026-09-12T01:15:00Z"
     },
     {
+      "username": "AstroCanuck",
+      "title": "Live Astrophotography & LEGO News - !SUBtember - Get your AstroCanuck Minifigure | !upgrade !mobile !swole | !pgv !drop",
+      "game": "Science & Technology",
+      "started_at": "2026-09-11T23:49:17Z"
+    },
+    {
       "username": "SciAnts_Streams",
       "title": "⚔️Onimusha 5⚔️| 20 years for new game in my favorite series | Partner+ 105/300 | !ppp !yt !pod !jj",
       "game": "Onimusha: Way of the Sword",
       "started_at": "2026-09-12T01:01:08Z"
-    },
-    {
-      "username": "SharkG33k",
-      "title": "Interview with shark photographer George Probst! | !GWS",
-      "game": "Talk Shows & Podcasts",
-      "started_at": "2026-09-11T23:08:02Z"
     }
   ]
 }
