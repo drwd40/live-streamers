@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-12T01:24:56.853Z",
+  "timestamp": "2026-09-12T01:34:33.362Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "DIGITAL GROUND GAME FUNDRAISER @ 6:15 PM EDT | IRAN WAR ESCALATES",
       "game": "Just Chatting",
       "started_at": "2026-09-11T23:34:36Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "FRIDAY NIGHT WARDOOOOGS! GET IN HERE! 9/11/26",
+      "game": "WARDOGS",
+      "started_at": "2026-09-12T01:23:43Z"
     },
     {
       "username": "AstroCanuck",
@@ -36,12 +42,6 @@
       "title": "Interview with shark photographer George Probst! | !GWS",
       "game": "Talk Shows & Podcasts",
       "started_at": "2026-09-11T23:08:02Z"
-    },
-    {
-      "username": "EJ_SA",
-      "title": "FRIDAY NIGHT WARDOOOOGS! GET IN HERE! 9/11/26",
-      "game": "WARDOGS",
-      "started_at": "2026-09-12T01:23:43Z"
     }
   ]
 }
