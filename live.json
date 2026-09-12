@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-12T22:53:04.295Z",
+  "timestamp": "2026-09-12T22:58:37.808Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-09-12T13:31:31Z"
     },
     {
-      "username": "ArchitectureTV",
-      "title": "PARIS Old Town buildings 💜 Architecture IRL 💜",
-      "game": "IRL",
-      "started_at": "2026-09-12T21:19:32Z"
-    },
-    {
       "username": "AstroCanuck",
       "title": "Weekend Catch-up: !powered up BITS on now, Space & LEGO News - !SUBtember - T3 Minifigure | !upgrade !mobile !swole | !pgv !drop",
       "game": "Science & Technology",
       "started_at": "2026-09-12T22:04:52Z"
+    },
+    {
+      "username": "ArchitectureTV",
+      "title": "PARIS Old Town buildings 💜 Architecture IRL 💜",
+      "game": "IRL",
+      "started_at": "2026-09-12T21:19:32Z"
     },
     {
       "username": "Zachap",
@@ -36,6 +36,12 @@
       "title": "Air Defence At Sea: From Air Ships in 1906, to drones in 2026 and everything in between...",
       "game": "Just Chatting",
       "started_at": "2026-09-12T19:04:20Z"
+    },
+    {
+      "username": "MelissaInDeNile",
+      "title": "Let's Drift Down De Nile and chat about Ancient Egyptian Jewelry!! ~ Follower Goal: 2452/2600 ~ !socials !beyonddenile",
+      "game": "Just Chatting",
+      "started_at": "2026-09-12T22:54:13Z"
     }
   ]
 }
