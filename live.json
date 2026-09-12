@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-12T16:19:45.454Z",
+  "timestamp": "2026-09-12T16:28:28.803Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-09-12T10:05:34Z"
     },
     {
-      "username": "GeneralSte",
-      "title": "Underdark.. Under Control | !linktree !discord",
-      "game": "Baldur's Gate 3",
-      "started_at": "2026-09-12T15:50:21Z"
-    },
-    {
       "username": "eToThe2iPi",
       "title": "Math Open Q&A + Chat",
       "game": "Math",
       "started_at": "2026-09-12T15:58:44Z"
+    },
+    {
+      "username": "GeneralSte",
+      "title": "Underdark.. Under Control | !linktree !discord",
+      "game": "Baldur's Gate 3",
+      "started_at": "2026-09-12T15:50:21Z"
     }
   ]
 }
