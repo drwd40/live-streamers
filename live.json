@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-13T19:49:27.223Z",
+  "timestamp": "2026-09-13T19:55:05.493Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "Bruships 259: Science Fiction & Naval History Questions Answered Live...",
       "game": "Just Chatting",
       "started_at": "2026-09-13T18:39:31Z"
+    },
+    {
+      "username": "ArchitectureTV",
+      "title": "Roach Extermination, prep & cleaning",
+      "game": "IRL",
+      "started_at": "2026-09-13T19:52:54Z"
     }
   ]
 }
