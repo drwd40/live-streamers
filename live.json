@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-14T18:27:46.752Z",
+  "timestamp": "2026-09-14T18:40:39.442Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-09-14T13:31:34Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "AI game dev (day 101)",
-      "game": "Software and Game Development",
-      "started_at": "2026-09-14T15:13:53Z"
-    },
-    {
       "username": "EJ_SA",
       "title": "Rebuilding a Holley 4180C! Working out in the Shop! 9/17/26",
       "game": "Science & Technology",
       "started_at": "2026-09-14T18:20:33Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "AI game dev (day 101)",
+      "game": "Software and Game Development",
+      "started_at": "2026-09-14T15:13:53Z"
     },
     {
       "username": "DrawCuriosity",
@@ -30,12 +30,6 @@
       "title": "🧠📚 ask away 📚🧠 let us know 🧠📚 hope all is well 📚🧠",
       "game": "Just Chatting",
       "started_at": "2026-09-14T10:04:18Z"
-    },
-    {
-      "username": "CosmoQuestX",
-      "title": "SURPRISE: EVSN Season 5 ep 1, new format!",
-      "game": "Science & Technology",
-      "started_at": "2026-09-14T17:42:01Z"
     }
   ]
 }
