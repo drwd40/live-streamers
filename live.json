@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-14T23:44:38.530Z",
+  "timestamp": "2026-09-14T23:50:16.461Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,16 @@
       "started_at": "2026-09-14T10:04:18Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "Trigonometric Identities: Trigonometry 06; Collab w/ @kittiesplease - 20260914",
-      "game": "Math",
-      "started_at": "2026-09-14T20:08:54Z"
-    },
-    {
       "username": "ActualEducation",
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Just Chatting",
       "started_at": "2026-09-14T23:04:52Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Trigonometric Identities: Trigonometry 06; Collab w/ @kittiesplease - 20260914",
+      "game": "Math",
+      "started_at": "2026-09-14T20:08:54Z"
     }
   ]
 }
