@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-14T20:05:16.651Z",
+  "timestamp": "2026-09-14T20:20:45.651Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,10 @@
       "started_at": "2026-09-14T18:20:33Z"
     },
     {
-      "username": "Zachap",
-      "title": "🧠📚 ask away 📚🧠 let us know 🧠📚 hope all is well 📚🧠",
-      "game": "Just Chatting",
-      "started_at": "2026-09-14T10:04:18Z"
-    },
-    {
-      "username": "DrawCuriosity",
-      "title": "✈️ welcome to my childhood home! - Bonus Bits fun! ✨🐏!tier2 !tier3",
-      "game": "Just Chatting",
-      "started_at": "2026-09-14T17:34:38Z"
+      "username": "Paleontologizing",
+      "title": "🦖💬 LET'S TALK DINOSAURS and other fossil critters 🦕💬 Paleontology Q&A and much more  (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-09-14T19:58:44Z"
     },
     {
       "username": "AdamLearnsLive",
@@ -32,16 +26,28 @@
       "started_at": "2026-09-14T19:49:45Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "🦖💬 LET'S TALK DINOSAURS and other fossil critters 🦕💬 Paleontology Q&A and much more  (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-09-14T19:58:44Z"
+      "username": "DrawCuriosity",
+      "title": "✈️ welcome to my childhood home! - Bonus Bits fun! ✨🐏!tier2 !tier3",
+      "game": "Just Chatting",
+      "started_at": "2026-09-14T17:34:38Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "🧠📚 ask away 📚🧠 let us know 🧠📚 hope all is well 📚🧠",
+      "game": "Just Chatting",
+      "started_at": "2026-09-14T10:04:18Z"
     },
     {
       "username": "Andilippi",
       "title": "Getting the cutie @timoted to lvl 60 before FOREVER! • Subathon on hold!",
       "game": "World of Warcraft",
       "started_at": "2026-09-14T19:49:22Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Trigonometric Identities: Trigonometry 06; Collab w/ @kittiesplease - 20260914",
+      "game": "Math",
+      "started_at": "2026-09-14T20:08:54Z"
     }
   ]
 }
