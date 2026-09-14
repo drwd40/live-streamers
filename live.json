@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-14T22:29:23.130Z",
+  "timestamp": "2026-09-14T22:38:34.986Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,12 +20,6 @@
       "started_at": "2026-09-14T19:58:44Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Developing the space-shooter sub-game of !SiaBT (day 101½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-09-14T19:49:45Z"
-    },
-    {
       "username": "Zachap",
       "title": "🧠📚 ask away 📚🧠 let us know 🧠📚 hope all is well 📚🧠",
       "game": "Just Chatting",
@@ -36,6 +30,12 @@
       "title": "Trigonometric Identities: Trigonometry 06; Collab w/ @kittiesplease - 20260914",
       "game": "Math",
       "started_at": "2026-09-14T20:08:54Z"
+    },
+    {
+      "username": "SETIInstitute",
+      "title": "What Can Whales Teach Us About Alien Communication? | #SETILive",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2026-09-14T22:33:51Z"
     }
   ]
 }
