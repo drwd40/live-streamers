@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-14T10:30:54.199Z",
+  "timestamp": "2026-09-14T10:40:29.229Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "🧠📚 ask away 📚🧠 let us know 🧠📚 hope all is well 📚🧠",
       "game": "Just Chatting",
       "started_at": "2026-09-14T10:04:18Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀 New Rise of Piracy Dev Log! - Jern Jam starts TUESDAY!! !jj | !rop !patreon !discord",
+      "game": "Software and Game Development",
+      "started_at": "2026-09-14T10:35:02Z"
     }
   ]
 }
