@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-14T19:55:56.240Z",
+  "timestamp": "2026-09-14T20:05:16.651Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,22 +14,28 @@
       "started_at": "2026-09-14T18:20:33Z"
     },
     {
-      "username": "DrawCuriosity",
-      "title": "✈️ welcome to my childhood home! - Bonus Bits fun! ✨🐏!tier2 !tier3",
-      "game": "Just Chatting",
-      "started_at": "2026-09-14T17:34:38Z"
-    },
-    {
       "username": "Zachap",
       "title": "🧠📚 ask away 📚🧠 let us know 🧠📚 hope all is well 📚🧠",
       "game": "Just Chatting",
       "started_at": "2026-09-14T10:04:18Z"
     },
     {
+      "username": "DrawCuriosity",
+      "title": "✈️ welcome to my childhood home! - Bonus Bits fun! ✨🐏!tier2 !tier3",
+      "game": "Just Chatting",
+      "started_at": "2026-09-14T17:34:38Z"
+    },
+    {
       "username": "AdamLearnsLive",
       "title": "Developing the space-shooter sub-game of !SiaBT (day 101½)",
       "game": "Software and Game Development",
       "started_at": "2026-09-14T19:49:45Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "🦖💬 LET'S TALK DINOSAURS and other fossil critters 🦕💬 Paleontology Q&A and much more  (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-09-14T19:58:44Z"
     },
     {
       "username": "Andilippi",
