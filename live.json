@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-14T23:50:16.461Z",
+  "timestamp": "2026-09-14T23:55:52.415Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,28 +20,28 @@
       "started_at": "2026-09-14T19:58:44Z"
     },
     {
-      "username": "AstroCanuck",
-      "title": "Astro's Po'Pourri: Astronomy Chat & Batman Month - !powered up BITS - !SUBtember T3 Minifigure | !upgrade !mobile !swole | !pgv !drop",
-      "game": "Science & Technology",
-      "started_at": "2026-09-14T23:28:35Z"
-    },
-    {
       "username": "Zachap",
       "title": "🧠📚 ask away 📚🧠 let us know 🧠📚 hope all is well 📚🧠",
       "game": "Just Chatting",
       "started_at": "2026-09-14T10:04:18Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
-      "game": "Just Chatting",
-      "started_at": "2026-09-14T23:04:52Z"
+      "username": "AstroCanuck",
+      "title": "Astro's Po'Pourri: Astronomy Chat & Batman Month - !powered up BITS - !SUBtember T3 Minifigure | !upgrade !mobile !swole | !pgv !drop",
+      "game": "Science & Technology",
+      "started_at": "2026-09-14T23:28:35Z"
     },
     {
       "username": "nSimplexPachinko",
       "title": "Trigonometric Identities: Trigonometry 06; Collab w/ @kittiesplease - 20260914",
       "game": "Math",
       "started_at": "2026-09-14T20:08:54Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-09-14T23:04:52Z"
     }
   ]
 }
