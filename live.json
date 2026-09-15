@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-15T00:15:20.605Z",
+  "timestamp": "2026-09-15T01:02:22.116Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -9,15 +9,15 @@
     },
     {
       "username": "EJ_SA",
-      "title": "EJ's Space and Rocket Revue! 9/14/26",
-      "game": "Science & Technology",
+      "title": "GLOCKMAXXING! Going into the HZ with only a glock and seeing what happens! 9/14/26",
+      "game": "WARDOGS",
       "started_at": "2026-09-14T18:20:33Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "🦖💬 LET'S TALK DINOSAURS and other fossil critters 🦕💬 Paleontology Q&A and much more  (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-09-14T19:58:44Z"
+      "username": "imreallyimportant",
+      "title": "POST-LIB & LEARN CHAT",
+      "game": "Just Chatting",
+      "started_at": "2026-09-15T00:49:53Z"
     },
     {
       "username": "AstroCanuck",
@@ -42,6 +42,12 @@
       "title": "Trigonometric Identities: Trigonometry 06; Collab w/ @kittiesplease - 20260914",
       "game": "Math",
       "started_at": "2026-09-14T20:08:54Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Mircosoft Monday -- The hexagon in t he circle and making waves. Trig and geometry meet Excel.",
+      "game": "Science & Technology",
+      "started_at": "2026-09-15T00:30:24Z"
     }
   ]
 }
