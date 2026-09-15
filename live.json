@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-15T19:05:08.163Z",
+  "timestamp": "2026-09-15T19:18:15.073Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,12 +20,6 @@
       "started_at": "2026-09-15T16:07:25Z"
     },
     {
-      "username": "Zachap",
-      "title": "🧠📚 trump works for think-tanks 📚🧠",
-      "game": "Just Chatting",
-      "started_at": "2026-09-15T10:03:03Z"
-    },
-    {
       "username": "oh_bother",
       "title": "Building and testing stuff for my modular synthesizer!",
       "game": "Science & Technology",
@@ -36,6 +30,12 @@
       "title": "✈️ Painting my childhood dragons! - Make me read embarassing diary entries using Bonus Bits! ✨🐏!tier2 !tier3",
       "game": "Art",
       "started_at": "2026-09-15T17:27:07Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "🧠📚 trump works for think-tanks 📚🧠",
+      "game": "Just Chatting",
+      "started_at": "2026-09-15T10:03:03Z"
     },
     {
       "username": "vul100",
