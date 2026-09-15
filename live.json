@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-15T23:16:43.056Z",
+  "timestamp": "2026-09-15T23:25:38.051Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-09-15T21:59:54Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Birthday Stream & Back From KNOBCON",
-      "game": "Just Chatting",
-      "started_at": "2026-09-15T22:29:49Z"
-    },
-    {
       "username": "Zachap",
       "title": "🧠📚 trump works for think-tanks 📚🧠",
       "game": "Just Chatting",
       "started_at": "2026-09-15T10:03:03Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Birthday Stream & Back From KNOBCON",
+      "game": "Just Chatting",
+      "started_at": "2026-09-15T22:29:49Z"
     },
     {
       "username": "GeoJim2006",
@@ -50,16 +50,16 @@
       "started_at": "2026-09-15T22:51:37Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "Math Homework Help | Middle + High School - Actual Education Office Hours",
-      "game": "Just Chatting",
-      "started_at": "2026-09-15T23:00:57Z"
-    },
-    {
       "username": "nSimplexPachinko",
       "title": "Maybe Update the Stamp Collection THIS time? Starting Day 060, Night 26 - 20260915",
       "game": "Blue Prince",
       "started_at": "2026-09-15T20:45:18Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "Math Homework Help | Middle + High School - Actual Education Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-09-15T23:00:57Z"
     }
   ]
 }
