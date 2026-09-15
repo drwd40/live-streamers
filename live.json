@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-15T03:22:36.148Z",
+  "timestamp": "2026-09-15T03:35:56.948Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,28 +8,22 @@
       "started_at": "2026-09-14T13:31:34Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "GLOCKMAXXING! Going into the HZ with only a glock and seeing what happens! 9/14/26",
-      "game": "WARDOGS",
-      "started_at": "2026-09-14T18:20:33Z"
-    },
-    {
       "username": "Moohoodles",
       "title": "🪐 !drops ✨ Cosmos update & astrobiology nerdin. !subtember (Bonus bits this week on power-ups!)",
       "game": "No Man's Sky",
       "started_at": "2026-09-15T01:09:53Z"
     },
     {
+      "username": "EJ_SA",
+      "title": "GLOCKMAXXING! Going into the HZ with only a glock and seeing what happens! 9/14/26",
+      "game": "WARDOGS",
+      "started_at": "2026-09-14T18:20:33Z"
+    },
+    {
       "username": "SciAnts_Streams",
       "title": "Microscopy Monday | Tiny worlds under the microscope with amber, fossils, and more! | Partner+ 120/300 | !ppp !yt !pod !jj !fredhutch",
       "game": "Science & Technology",
       "started_at": "2026-09-15T01:06:21Z"
-    },
-    {
-      "username": "AstroCanuck",
-      "title": "Live Astrophotography & Batman Month - !powered up BITS - !SUBtember T3 Minifigure | !upgrade !mobile !swole | !pgv !drop",
-      "game": "Science & Technology",
-      "started_at": "2026-09-14T23:28:35Z"
     }
   ]
 }
