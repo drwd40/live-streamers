@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-15T19:47:07.594Z",
+  "timestamp": "2026-09-15T19:52:45.837Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-09-15T16:07:25Z"
     },
     {
-      "username": "oh_bother",
-      "title": "Building and testing stuff for my modular synthesizer!",
-      "game": "Science & Technology",
-      "started_at": "2026-09-15T16:18:37Z"
-    },
-    {
       "username": "Zachap",
       "title": "🧠📚 trump works for think-tanks 📚🧠",
       "game": "Just Chatting",
       "started_at": "2026-09-15T10:03:03Z"
+    },
+    {
+      "username": "oh_bother",
+      "title": "Building and testing stuff for my modular synthesizer!",
+      "game": "Science & Technology",
+      "started_at": "2026-09-15T16:18:37Z"
     },
     {
       "username": "DrawCuriosity",
