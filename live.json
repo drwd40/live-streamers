@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-15T02:00:42.536Z",
+  "timestamp": "2026-09-15T02:28:56.635Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-09-14T18:20:33Z"
     },
     {
+      "username": "Moohoodles",
+      "title": "🪐Space & Astrobiology news!  ✨ Mainly NMS tonight :) !subtember",
+      "game": "Science & Technology",
+      "started_at": "2026-09-15T01:09:53Z"
+    },
+    {
       "username": "imreallyimportant",
       "title": "POST-LIB & LEARN CHAT",
       "game": "Just Chatting",
       "started_at": "2026-09-15T00:49:53Z"
-    },
-    {
-      "username": "Moohoodles",
-      "title": "Rocket Launch!! 🪐Space & Astrobiology news!  ✨ Mainly NMS tonight :) !subtember",
-      "game": "Science & Technology",
-      "started_at": "2026-09-15T01:09:53Z"
     },
     {
       "username": "AstroCanuck",
@@ -36,18 +36,6 @@
       "title": "Microscopy Monday | Tiny worlds under the microscope with amber, fossils, and more! | Partner+ 120/300 | !ppp !yt !pod !jj !fredhutch",
       "game": "Science & Technology",
       "started_at": "2026-09-15T01:06:21Z"
-    },
-    {
-      "username": "Zachap",
-      "title": "🧠📚 ask away 📚🧠 let us know 🧠📚 hope all is well 📚🧠",
-      "game": "Just Chatting",
-      "started_at": "2026-09-14T10:04:18Z"
-    },
-    {
-      "username": "walkingsticklibrary",
-      "title": "Mircosoft Monday -- The hexagon in t he circle and making waves. Trig and geometry meet Excel.",
-      "game": "Science & Technology",
-      "started_at": "2026-09-15T00:30:24Z"
     }
   ]
 }
