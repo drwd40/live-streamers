@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-15T15:18:42.505Z",
+  "timestamp": "2026-09-15T15:28:24.933Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "🧠📚 trump works for think-tanks 📚🧠",
       "game": "Just Chatting",
       "started_at": "2026-09-15T10:03:03Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Sucky Tasks Day is back! Polish and manual work (day 102)",
+      "game": "Software and Game Development",
+      "started_at": "2026-09-15T15:23:06Z"
     }
   ]
 }
