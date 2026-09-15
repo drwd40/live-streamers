@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-15T02:28:56.635Z",
+  "timestamp": "2026-09-15T02:44:47.622Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,22 +20,16 @@
       "started_at": "2026-09-15T01:09:53Z"
     },
     {
-      "username": "imreallyimportant",
-      "title": "POST-LIB & LEARN CHAT",
-      "game": "Just Chatting",
-      "started_at": "2026-09-15T00:49:53Z"
+      "username": "SciAnts_Streams",
+      "title": "Microscopy Monday | Tiny worlds under the microscope with amber, fossils, and more! | Partner+ 120/300 | !ppp !yt !pod !jj !fredhutch",
+      "game": "Science & Technology",
+      "started_at": "2026-09-15T01:06:21Z"
     },
     {
       "username": "AstroCanuck",
       "title": "Live Astrophotography & Batman Month - !powered up BITS - !SUBtember T3 Minifigure | !upgrade !mobile !swole | !pgv !drop",
       "game": "Science & Technology",
       "started_at": "2026-09-14T23:28:35Z"
-    },
-    {
-      "username": "SciAnts_Streams",
-      "title": "Microscopy Monday | Tiny worlds under the microscope with amber, fossils, and more! | Partner+ 120/300 | !ppp !yt !pod !jj !fredhutch",
-      "game": "Science & Technology",
-      "started_at": "2026-09-15T01:06:21Z"
     }
   ]
 }
