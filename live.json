@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-16T14:27:54.876Z",
+  "timestamp": "2026-09-16T14:38:41.900Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,12 @@
       "title": "🧠📚 fav thinkers? 📚🧠",
       "game": "Just Chatting",
       "started_at": "2026-09-16T10:03:05Z"
+    },
+    {
+      "username": "happyknightmares",
+      "title": "Earliest stream ever? At cat café. 🐈 ☕️ Reading, co-working, gotta prepare a presentation!! (May ignore chat!)",
+      "game": "Co-working & Studying",
+      "started_at": "2026-09-16T14:33:20Z"
     }
   ]
 }
