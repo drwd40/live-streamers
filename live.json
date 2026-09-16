@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-09-16T20:57:57.340Z",
+  "timestamp": "2026-09-16T21:13:53.745Z",
   "live": [
-    {
-      "username": "SciAnts_Streams",
-      "title": "[Charity Event] Fred Hutch Day of Giving | Raising money for cancer research | Partner+ 151/300 | !ppp !yt !pod !jj !fredhutch",
-      "game": "Science & Technology",
-      "started_at": "2026-09-16T19:07:48Z"
-    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-09-16T13:31:36Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "[Charity Event] Fred Hutch Day of Giving | Raising money for cancer research | Partner+ 151/300 | !ppp !yt !pod !jj !fredhutch",
+      "game": "Science & Technology",
+      "started_at": "2026-09-16T19:07:48Z"
     },
     {
       "username": "EJ_SA",
@@ -32,16 +32,16 @@
       "started_at": "2026-09-16T19:45:39Z"
     },
     {
-      "username": "DrawCuriosity",
-      "title": "✈️ Designing a bug minigame! - Make me read embarassing diary entries using Bonus Bits! ✨🐏!tier2 !tier3",
-      "game": "Software and Game Development",
-      "started_at": "2026-09-16T18:04:03Z"
-    },
-    {
       "username": "Zachap",
       "title": "🧠📚 fav thinkers? 📚🧠",
       "game": "Just Chatting",
       "started_at": "2026-09-16T10:03:05Z"
+    },
+    {
+      "username": "DrawCuriosity",
+      "title": "✈️ Designing a bug minigame! - Make me read embarassing diary entries using Bonus Bits! ✨🐏!tier2 !tier3",
+      "game": "Software and Game Development",
+      "started_at": "2026-09-16T18:04:03Z"
     },
     {
       "username": "nSimplexPachinko",
