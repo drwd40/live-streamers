@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-16T20:06:11.035Z",
+  "timestamp": "2026-09-16T20:22:43.667Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,22 +20,22 @@
       "started_at": "2026-09-16T16:07:42Z"
     },
     {
-      "username": "IrishJohnGames",
-      "title": "🍀 Jern Jam Has Started!! !jj | !rop !patreon !discord",
-      "game": "Software and Game Development",
-      "started_at": "2026-09-16T17:47:27Z"
-    },
-    {
-      "username": "Zachap",
-      "title": "🧠📚 fav thinkers? 📚🧠",
-      "game": "Just Chatting",
-      "started_at": "2026-09-16T10:03:05Z"
+      "username": "Paleontologizing",
+      "title": "🦖📰🆕 PALEONTOLOGY NEWS 🎡 Let's spin the Wheel of Fossil News ⚠ No stream tomorrow, FeatherFriday instead (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-09-16T20:08:32Z"
     },
     {
       "username": "AdamLearnsLive",
       "title": "Story development (day 103½)",
       "game": "Software and Game Development",
       "started_at": "2026-09-16T19:45:39Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "🧠📚 fav thinkers? 📚🧠",
+      "game": "Just Chatting",
+      "started_at": "2026-09-16T10:03:05Z"
     },
     {
       "username": "DrawCuriosity",
@@ -48,6 +48,12 @@
       "title": "Linear Algebra & Abstract Algebra kinda day [!fish🎣|!commands💻]",
       "game": "Math",
       "started_at": "2026-09-16T17:51:04Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Trigonometric Function Graphing: Trigonometry 07; Collab w/ KittiesPlease - 20260916",
+      "game": "Math",
+      "started_at": "2026-09-16T20:07:31Z"
     }
   ]
 }
