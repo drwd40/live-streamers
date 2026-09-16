@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-16T00:14:28.030Z",
+  "timestamp": "2026-09-16T01:00:46.038Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -9,8 +9,8 @@
     },
     {
       "username": "EJ_SA",
-      "title": "EJ's Space and Rocket Revue! 9/15/26",
-      "game": "Science & Technology",
+      "title": "Tacticool Wardogs with viewers! EJSA After Hours! 9/15/26",
+      "game": "WARDOGS",
       "started_at": "2026-09-15T16:07:25Z"
     },
     {
@@ -32,16 +32,16 @@
       "started_at": "2026-09-15T23:36:49Z"
     },
     {
-      "username": "Zachap",
-      "title": "🧠📚 trump works for think-tanks 📚🧠",
-      "game": "Just Chatting",
-      "started_at": "2026-09-15T10:03:03Z"
-    },
-    {
       "username": "MelissaInDeNile",
       "title": "Let's collect all the Ambrosia fruit to finish Mythwrecked: Ambrosia Island!! ~ Follower Goal: 2451/2600 ~ !socials !beyonddenile",
       "game": "Mythwrecked: Ambrosia Island",
       "started_at": "2026-09-15T22:51:37Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "🧠📚 trump works for think-tanks 📚🧠",
+      "game": "Just Chatting",
+      "started_at": "2026-09-15T10:03:03Z"
     },
     {
       "username": "SydHeresy",
@@ -50,16 +50,28 @@
       "started_at": "2026-09-15T22:29:49Z"
     },
     {
+      "username": "SharkG33k",
+      "title": "Toothday! Shark News! | !GWS",
+      "game": "Science & Technology",
+      "started_at": "2026-09-16T00:09:40Z"
+    },
+    {
       "username": "ActualEducation",
       "title": "Math Homework Help | Middle + High School - Actual Education Office Hours",
       "game": "Just Chatting",
       "started_at": "2026-09-15T23:00:57Z"
     },
     {
-      "username": "SharkG33k",
-      "title": "Toothday! Shark News! | !GWS",
+      "username": "Mr_Aejis",
+      "title": "Teacher Plays: Persona 5 Royal!",
+      "game": "Persona 5 Royal",
+      "started_at": "2026-09-16T00:32:34Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Falcon 9 Launch, Roman Telescope chat with a former NASA guy.    #NASA #science #space #scientist",
       "game": "Science & Technology",
-      "started_at": "2026-09-16T00:09:40Z"
+      "started_at": "2026-09-16T00:51:23Z"
     }
   ]
 }
