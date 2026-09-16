@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-16T14:13:56.556Z",
+  "timestamp": "2026-09-16T14:27:54.876Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-09-16T13:31:36Z"
     },
     {
-      "username": "Zachap",
-      "title": "🧠📚 fav thinkers? 📚🧠",
-      "game": "Just Chatting",
-      "started_at": "2026-09-16T10:03:05Z"
-    },
-    {
       "username": "Nerduino",
       "title": "Coffee with Nerduino - space and science chat with a PhD astronomer! #NASA #science #space #scientist",
       "game": "Science & Technology",
       "started_at": "2026-09-16T12:51:57Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "🧠📚 fav thinkers? 📚🧠",
+      "game": "Just Chatting",
+      "started_at": "2026-09-16T10:03:05Z"
     }
   ]
 }
