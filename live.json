@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-16T01:00:46.038Z",
+  "timestamp": "2026-09-16T01:29:57.682Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-09-15T16:07:25Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "🦕📰🆕 NEW DINOSAUR DISCOVERIES and other fresh publications in fossil science, plus paleontology Q&A (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-09-15T20:17:49Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "KASH PATEL DEFENDS HIRING \"VICTIMS\" OF ANIMAL ABUSE (??) | SC RULES ON MAIL-IN VOTING",
       "game": "Just Chatting",
       "started_at": "2026-09-15T21:59:54Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "🦕📰🆕 NEW DINOSAUR DISCOVERIES and other fresh publications in fossil science, plus paleontology Q&A (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-09-15T20:17:49Z"
     },
     {
       "username": "AstroCanuck",
@@ -32,10 +32,22 @@
       "started_at": "2026-09-15T23:36:49Z"
     },
     {
+      "username": "SciAnts_Streams",
+      "title": "⚔️Onimusha 5⚔️ Finale TONIGHT | 20 years for new game in my favorite series | Partner+ 134/300 | !ppp !yt !pod !jj !fredhutch",
+      "game": "Onimusha: Way of the Sword",
+      "started_at": "2026-09-16T01:00:45Z"
+    },
+    {
       "username": "MelissaInDeNile",
       "title": "Let's collect all the Ambrosia fruit to finish Mythwrecked: Ambrosia Island!! ~ Follower Goal: 2451/2600 ~ !socials !beyonddenile",
       "game": "Mythwrecked: Ambrosia Island",
       "started_at": "2026-09-15T22:51:37Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Falcon 9 Launch, Roman Telescope chat with a former NASA guy.    #NASA #science #space #scientist",
+      "game": "Science & Technology",
+      "started_at": "2026-09-16T00:51:23Z"
     },
     {
       "username": "Zachap",
@@ -46,7 +58,7 @@
     {
       "username": "SydHeresy",
       "title": "Birthday Stream & Back From KNOBCON",
-      "game": "Just Chatting",
+      "game": "Science & Technology",
       "started_at": "2026-09-15T22:29:49Z"
     },
     {
@@ -56,22 +68,10 @@
       "started_at": "2026-09-16T00:09:40Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "Math Homework Help | Middle + High School - Actual Education Office Hours",
-      "game": "Just Chatting",
-      "started_at": "2026-09-15T23:00:57Z"
-    },
-    {
       "username": "Mr_Aejis",
       "title": "Teacher Plays: Persona 5 Royal!",
       "game": "Persona 5 Royal",
       "started_at": "2026-09-16T00:32:34Z"
-    },
-    {
-      "username": "Nerduino",
-      "title": "Falcon 9 Launch, Roman Telescope chat with a former NASA guy.    #NASA #science #space #scientist",
-      "game": "Science & Technology",
-      "started_at": "2026-09-16T00:51:23Z"
     }
   ]
 }
