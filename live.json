@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-16T17:50:50.004Z",
+  "timestamp": "2026-09-16T17:56:31.778Z",
   "live": [
     {
       "username": "Maya",
@@ -36,6 +36,12 @@
       "title": "🍀 Jern Jam Has Started!! !jj | !rop !patreon !discord",
       "game": "Software and Game Development",
       "started_at": "2026-09-16T17:47:27Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "Linear Algebra & Abstract Algebra kinda day [!fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-09-16T17:51:04Z"
     }
   ]
 }
