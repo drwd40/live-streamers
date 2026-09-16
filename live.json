@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-15T23:55:54.670Z",
+  "timestamp": "2026-09-16T00:14:28.030Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,12 +32,6 @@
       "started_at": "2026-09-15T23:36:49Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Birthday Stream & Back From KNOBCON",
-      "game": "Just Chatting",
-      "started_at": "2026-09-15T22:29:49Z"
-    },
-    {
       "username": "Zachap",
       "title": "🧠📚 trump works for think-tanks 📚🧠",
       "game": "Just Chatting",
@@ -50,10 +44,22 @@
       "started_at": "2026-09-15T22:51:37Z"
     },
     {
+      "username": "SydHeresy",
+      "title": "Birthday Stream & Back From KNOBCON",
+      "game": "Just Chatting",
+      "started_at": "2026-09-15T22:29:49Z"
+    },
+    {
       "username": "ActualEducation",
       "title": "Math Homework Help | Middle + High School - Actual Education Office Hours",
       "game": "Just Chatting",
       "started_at": "2026-09-15T23:00:57Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Toothday! Shark News! | !GWS",
+      "game": "Science & Technology",
+      "started_at": "2026-09-16T00:09:40Z"
     }
   ]
 }
