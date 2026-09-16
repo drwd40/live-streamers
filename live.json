@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-16T12:58:02.021Z",
+  "timestamp": "2026-09-16T13:14:49.421Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-09-16T10:03:05Z"
     },
     {
-      "username": "leioslabs",
-      "title": "Test stream new set up",
-      "game": "Science & Technology",
-      "started_at": "2026-09-16T12:27:34Z"
-    },
-    {
       "username": "Nerduino",
       "title": "Coffee with Nerduino - space and science chat with a PhD astronomer! #NASA #science #space #scientist",
       "game": "Science & Technology",
       "started_at": "2026-09-16T12:51:57Z"
+    },
+    {
+      "username": "leioslabs",
+      "title": "Test stream new set up",
+      "game": "Science & Technology",
+      "started_at": "2026-09-16T12:27:34Z"
     }
   ]
 }
