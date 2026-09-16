@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-09-16T20:31:42.150Z",
+  "timestamp": "2026-09-16T20:41:11.963Z",
   "live": [
-    {
-      "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
-      "game": "Animals, Aquariums, and Zoos",
-      "started_at": "2026-09-16T13:31:36Z"
-    },
     {
       "username": "SciAnts_Streams",
       "title": "[Charity Event] Fred Hutch Day of Giving | Raising money for cancer research | Partner+ 151/300 | !ppp !yt !pod !jj !fredhutch",
       "game": "Science & Technology",
       "started_at": "2026-09-16T19:07:48Z"
+    },
+    {
+      "username": "AlveusSanctuary",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
+      "game": "Animals, Aquariums, and Zoos",
+      "started_at": "2026-09-16T13:31:36Z"
     },
     {
       "username": "EJ_SA",
