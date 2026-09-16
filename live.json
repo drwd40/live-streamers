@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-16T21:45:21.612Z",
+  "timestamp": "2026-09-16T21:50:57.977Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-09-16T13:31:36Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "[Charity Event] Fred Hutch Day of Giving | Raising money for cancer research | Partner+ 151/300 | !ppp !yt !pod !jj !fredhutch",
-      "game": "Science & Technology",
-      "started_at": "2026-09-16T19:07:48Z"
-    },
-    {
       "username": "EJ_SA",
       "title": "EJ's Space and Rocket Revue! 9/16/26",
       "game": "Science & Technology",
       "started_at": "2026-09-16T16:07:42Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "[Charity Event] Fred Hutch Day of Giving | Raising money for cancer research | Partner+ 151/300 | !ppp !yt !pod !jj !fredhutch",
+      "game": "Science & Technology",
+      "started_at": "2026-09-16T19:07:48Z"
     },
     {
       "username": "Paleontologizing",
@@ -48,6 +48,12 @@
       "title": "Trigonometric Function Graphing: Trigonometry 07; Collab w/ KittiesPlease - 20260916",
       "game": "Math",
       "started_at": "2026-09-16T20:07:31Z"
+    },
+    {
+      "username": "imreallyimportant",
+      "title": "FED RAISES RATES | DELUSIONAL HASAN CRITICIZES EL-SAYED FOR DISAVOWING HIS ANTISEMITIC REMARKS",
+      "game": "Just Chatting",
+      "started_at": "2026-09-16T21:49:58Z"
     }
   ]
 }
