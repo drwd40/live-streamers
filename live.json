@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-16T19:50:15.992Z",
+  "timestamp": "2026-09-16T19:55:54.920Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-09-16T17:47:27Z"
     },
     {
-      "username": "Zachap",
-      "title": "🧠📚 fav thinkers? 📚🧠",
-      "game": "Just Chatting",
-      "started_at": "2026-09-16T10:03:05Z"
-    },
-    {
       "username": "DrawCuriosity",
       "title": "✈️ Designing a bug minigame! - Make me read embarassing diary entries using Bonus Bits! ✨🐏!tier2 !tier3",
       "game": "Software and Game Development",
       "started_at": "2026-09-16T18:04:03Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "🧠📚 fav thinkers? 📚🧠",
+      "game": "Just Chatting",
+      "started_at": "2026-09-16T10:03:05Z"
     },
     {
       "username": "AdamLearnsLive",
