@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-16T17:44:41.077Z",
+  "timestamp": "2026-09-16T17:50:50.004Z",
   "live": [
     {
       "username": "Maya",
@@ -30,6 +30,12 @@
       "title": "🧠📚 fav thinkers? 📚🧠",
       "game": "Just Chatting",
       "started_at": "2026-09-16T10:03:05Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀 Jern Jam Has Started!! !jj | !rop !patreon !discord",
+      "game": "Software and Game Development",
+      "started_at": "2026-09-16T17:47:27Z"
     }
   ]
 }
