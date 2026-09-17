@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-17T22:19:21.748Z",
+  "timestamp": "2026-09-17T22:27:03.968Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,22 @@
       "started_at": "2026-09-17T21:36:35Z"
     },
     {
+      "username": "SydHeresy",
+      "title": "Electronic Soldering Extravaganza!!! - DIY - How To - Chill",
+      "game": "Science & Technology",
+      "started_at": "2026-09-17T18:40:19Z"
+    },
+    {
       "username": "VolcanoDoc",
       "title": "icky raw data compilation | Science Behind the Scenes | !phd !socials !pubs !merch",
       "game": "Science & Technology",
       "started_at": "2026-09-17T21:33:19Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Electronic Soldering Extravaganza!!! - DIY - How To - Chill",
-      "game": "Science & Technology",
-      "started_at": "2026-09-17T18:40:19Z"
+      "username": "imreallyimportant",
+      "title": "HASAN SAYS AMERICA IS WORSE THAN AL-QAEDA | REPUBLICAN CONGRESSWOMAN SAYS TRUMP BETRAYED HISPANICS IN NEW AD",
+      "game": "Just Chatting",
+      "started_at": "2026-09-17T22:19:52Z"
     },
     {
       "username": "shnaff",
@@ -60,6 +66,12 @@
       "title": "Continuing Building The Manor, Chapter 09; TitansGrave 17, TTRPG Planning - 20260917 - Maybe some Valheim later?",
       "game": "Tabletop RPGs",
       "started_at": "2026-09-17T21:03:32Z"
+    },
+    {
+      "username": "DasValdez",
+      "title": "Shuttle Enterprise 50th Anniversary - Intrepid Museum Astro Live",
+      "game": "Science & Technology",
+      "started_at": "2026-09-17T22:26:09Z"
     }
   ]
 }
