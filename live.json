@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-17T23:50:27.411Z",
+  "timestamp": "2026-09-17T23:56:12.420Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -44,16 +44,16 @@
       "started_at": "2026-09-17T22:02:37Z"
     },
     {
-      "username": "DasValdez",
-      "title": "Shuttle Enterprise 50th Anniversary - Intrepid Museum Astro Live",
-      "game": "Science & Technology",
-      "started_at": "2026-09-17T22:26:09Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Electronic Soldering Extravaganza!!! - DIY - How To - Chill",
       "game": "Science & Technology",
       "started_at": "2026-09-17T18:40:19Z"
+    },
+    {
+      "username": "DasValdez",
+      "title": "Shuttle Enterprise 50th Anniversary - Intrepid Museum Astro Live",
+      "game": "Science & Technology",
+      "started_at": "2026-09-17T22:26:09Z"
     },
     {
       "username": "MelissaInDeNile",
@@ -70,7 +70,7 @@
     {
       "username": "nSimplexPachinko",
       "title": "Continuing Building The Manor, Chapter 09; TitansGrave 17, TTRPG Planning - 20260917 - Maybe some Valheim later?",
-      "game": "Tabletop RPGs",
+      "game": "Valheim",
       "started_at": "2026-09-17T21:03:32Z"
     }
   ]
