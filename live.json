@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-17T21:55:50.005Z",
+  "timestamp": "2026-09-17T22:04:53.091Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -42,6 +42,12 @@
       "title": "Answering your math questions and studying Probability",
       "game": "Math",
       "started_at": "2026-09-17T19:55:52Z"
+    },
+    {
+      "username": "shnaff",
+      "title": "Chill guitar, piano, and singing in !stereo🎧!SUBtember",
+      "game": "Music",
+      "started_at": "2026-09-17T22:02:37Z"
     },
     {
       "username": "nSimplexPachinko",
