@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-17T16:56:08.154Z",
+  "timestamp": "2026-09-17T17:05:25.652Z",
   "live": [
     {
       "username": "Kitboga",
@@ -20,16 +20,22 @@
       "started_at": "2026-09-17T10:02:18Z"
     },
     {
+      "username": "SciAnts_Streams",
+      "title": "[Charity Event] Fred Hutch Cancer Research Center | 🔪Wolverine + Regenerative Medicine | Partner+ 160/300 | !ppp !yt !pod !jj !fredhutch",
+      "game": "Marvel's Wolverine",
+      "started_at": "2026-09-17T16:47:11Z"
+    },
+    {
       "username": "AdamLearnsLive",
       "title": "Music Day! It's time to COMPOSE (day 104)",
       "game": "Software and Game Development",
       "started_at": "2026-09-17T15:14:50Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "[Charity Event] Fred Hutch Cancer Research Center | 🔪Wolverine + Regenerative Medicine | Partner+ 160/300 | !ppp !yt !pod !jj !fredhutch",
-      "game": "Marvel's Wolverine",
-      "started_at": "2026-09-17T16:47:11Z"
+      "username": "Maya",
+      "title": "@JYNXZI MEETING ANIMALS @ALVEUSSANCTUARY 🦜",
+      "game": "Just Chatting",
+      "started_at": "2026-09-17T17:03:27Z"
     }
   ]
 }
