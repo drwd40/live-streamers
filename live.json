@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-17T19:51:08.105Z",
+  "timestamp": "2026-09-17T19:56:54.572Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -42,6 +42,12 @@
       "title": "Five Doomsday Weapons of the Sci-fi universes, and the theories of Deterrence... why do they fail?",
       "game": "Just Chatting",
       "started_at": "2026-09-17T18:33:16Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and studying Probability",
+      "game": "Math",
+      "started_at": "2026-09-17T19:55:52Z"
     }
   ]
 }
