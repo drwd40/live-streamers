@@ -1,6 +1,12 @@
 {
-  "timestamp": "2026-09-17T17:05:25.652Z",
+  "timestamp": "2026-09-17T17:18:12.428Z",
   "live": [
+    {
+      "username": "Maya",
+      "title": "@JYNXZI MEETING ANIMALS @ALVEUSSANCTUARY 🦜",
+      "game": "Just Chatting",
+      "started_at": "2026-09-17T17:03:27Z"
+    },
     {
       "username": "Kitboga",
       "title": "Scammers vs 20 Factor Auth / Infinite Captchas \\ Unskippable Ads [Ep. 1551]",
@@ -14,28 +20,22 @@
       "started_at": "2026-09-16T13:31:36Z"
     },
     {
-      "username": "Zachap",
-      "title": "🧠📚 EVENTS | PEOPLE | PLACES 📚🧠",
-      "game": "Just Chatting",
-      "started_at": "2026-09-17T10:02:18Z"
-    },
-    {
       "username": "SciAnts_Streams",
       "title": "[Charity Event] Fred Hutch Cancer Research Center | 🔪Wolverine + Regenerative Medicine | Partner+ 160/300 | !ppp !yt !pod !jj !fredhutch",
       "game": "Marvel's Wolverine",
       "started_at": "2026-09-17T16:47:11Z"
     },
     {
+      "username": "Zachap",
+      "title": "🧠📚 EVENTS | PEOPLE | PLACES 📚🧠",
+      "game": "Just Chatting",
+      "started_at": "2026-09-17T10:02:18Z"
+    },
+    {
       "username": "AdamLearnsLive",
       "title": "Music Day! It's time to COMPOSE (day 104)",
       "game": "Software and Game Development",
       "started_at": "2026-09-17T15:14:50Z"
-    },
-    {
-      "username": "Maya",
-      "title": "@JYNXZI MEETING ANIMALS @ALVEUSSANCTUARY 🦜",
-      "game": "Just Chatting",
-      "started_at": "2026-09-17T17:03:27Z"
     }
   ]
 }
