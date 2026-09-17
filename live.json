@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-17T21:50:06.704Z",
+  "timestamp": "2026-09-17T21:55:50.005Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-09-17T21:36:35Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Electronic Soldering Extravaganza!!! - DIY - How To - Chill",
-      "game": "Science & Technology",
-      "started_at": "2026-09-17T18:40:19Z"
-    },
-    {
       "username": "VolcanoDoc",
       "title": "icky raw data compilation | Science Behind the Scenes | !phd !socials !pubs !merch",
       "game": "Science & Technology",
       "started_at": "2026-09-17T21:33:19Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Electronic Soldering Extravaganza!!! - DIY - How To - Chill",
+      "game": "Science & Technology",
+      "started_at": "2026-09-17T18:40:19Z"
     },
     {
       "username": "DonFactorial",
