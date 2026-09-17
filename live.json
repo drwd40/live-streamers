@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-17T21:38:21.457Z",
+  "timestamp": "2026-09-17T21:43:55.828Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,6 +20,12 @@
       "started_at": "2026-09-17T10:02:18Z"
     },
     {
+      "username": "DrMick",
+      "title": "Mental Health Chat + Theorycrafting/Deckbuilding",
+      "game": "Pokémon Trading Card Game",
+      "started_at": "2026-09-17T21:36:35Z"
+    },
+    {
       "username": "SydHeresy",
       "title": "Electronic Soldering Extravaganza!!! - DIY - How To - Chill",
       "game": "Science & Technology",
@@ -30,12 +36,6 @@
       "title": "Answering your math questions and studying Probability",
       "game": "Math",
       "started_at": "2026-09-17T19:55:52Z"
-    },
-    {
-      "username": "DrMick",
-      "title": "Mental Health Chat + Theorycrafting/Deckbuilding",
-      "game": "Pokémon Trading Card Game",
-      "started_at": "2026-09-17T21:36:35Z"
     },
     {
       "username": "VolcanoDoc",
