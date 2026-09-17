@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-17T16:43:44.977Z",
+  "timestamp": "2026-09-17T16:50:25.317Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "Music Day! It's time to COMPOSE (day 104)",
       "game": "Software and Game Development",
       "started_at": "2026-09-17T15:14:50Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "[Charity Event] Fred Hutch Cancer Research Center | 🔪Wolverine + Regenerative Medicine | Partner+ 160/300 | !ppp !yt !pod !jj !fredhutch",
+      "game": "Marvel's Wolverine",
+      "started_at": "2026-09-17T16:47:11Z"
     }
   ]
 }
