@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-17T14:59:40.429Z",
+  "timestamp": "2026-09-17T15:19:05.260Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,12 @@
       "title": "New obs plugin update out now! • Subathon on hold!",
       "game": "Just Chatting",
       "started_at": "2026-09-17T12:56:08Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Music Day! It's time to COMPOSE (day 104)",
+      "game": "Software and Game Development",
+      "started_at": "2026-09-17T15:14:50Z"
     }
   ]
 }
