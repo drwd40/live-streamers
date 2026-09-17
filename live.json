@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-17T21:31:01.736Z",
+  "timestamp": "2026-09-17T21:38:21.457Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,18 @@
       "title": "Answering your math questions and studying Probability",
       "game": "Math",
       "started_at": "2026-09-17T19:55:52Z"
+    },
+    {
+      "username": "DrMick",
+      "title": "Mental Health Chat + Theorycrafting/Deckbuilding",
+      "game": "Pokémon Trading Card Game",
+      "started_at": "2026-09-17T21:36:35Z"
+    },
+    {
+      "username": "VolcanoDoc",
+      "title": "icky raw data compilation | Science Behind the Scenes | !phd !socials !pubs !merch",
+      "game": "Science & Technology",
+      "started_at": "2026-09-17T21:33:19Z"
     },
     {
       "username": "nSimplexPachinko",
