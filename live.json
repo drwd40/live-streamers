@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-17T10:19:42.544Z",
+  "timestamp": "2026-09-17T10:30:42.445Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "🧠📚 EVENTS | PEOPLE | PLACES 📚🧠",
       "game": "Just Chatting",
       "started_at": "2026-09-17T10:02:18Z"
+    },
+    {
+      "username": "leioslabs",
+      "title": "Finishing the paper today",
+      "game": "Science & Technology",
+      "started_at": "2026-09-17T10:25:05Z"
     }
   ]
 }
