@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-17T22:56:50.106Z",
+  "timestamp": "2026-09-17T23:07:40.744Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,16 @@
       "started_at": "2026-09-17T10:02:18Z"
     },
     {
-      "username": "shnaff",
-      "title": "Chill guitar, piano, and singing in !stereo🎧!SUBtember",
-      "game": "Music",
-      "started_at": "2026-09-17T22:02:37Z"
-    },
-    {
       "username": "VolcanoDoc",
       "title": "icky raw data compilation | Science Behind the Scenes | !phd !socials !pubs !merch",
       "game": "Science & Technology",
       "started_at": "2026-09-17T21:33:19Z"
+    },
+    {
+      "username": "shnaff",
+      "title": "Chill guitar, piano, and singing in !stereo🎧!SUBtember",
+      "game": "Music",
+      "started_at": "2026-09-17T22:02:37Z"
     },
     {
       "username": "DrMick",
@@ -50,16 +50,16 @@
       "started_at": "2026-09-17T21:36:35Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Electronic Soldering Extravaganza!!! - DIY - How To - Chill",
-      "game": "Science & Technology",
-      "started_at": "2026-09-17T18:40:19Z"
-    },
-    {
       "username": "DasValdez",
       "title": "Shuttle Enterprise 50th Anniversary - Intrepid Museum Astro Live",
       "game": "Science & Technology",
       "started_at": "2026-09-17T22:26:09Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Electronic Soldering Extravaganza!!! - DIY - How To - Chill",
+      "game": "Science & Technology",
+      "started_at": "2026-09-17T18:40:19Z"
     },
     {
       "username": "DonFactorial",
