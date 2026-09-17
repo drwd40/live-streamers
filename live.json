@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-17T18:23:41.509Z",
+  "timestamp": "2026-09-17T18:36:30.933Z",
   "live": [
     {
       "username": "Maya",
@@ -42,6 +42,12 @@
       "title": "Learning some Electricity & Magnetism + Math/Physics/Education Chat on the Side",
       "game": "Science & Technology",
       "started_at": "2026-09-17T18:05:27Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "Five Doomsday Weapons of the Sci-fi universes, and the theories of Deterrence... why do they fail?",
+      "game": "Just Chatting",
+      "started_at": "2026-09-17T18:33:16Z"
     }
   ]
 }
