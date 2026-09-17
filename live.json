@@ -1,11 +1,17 @@
 {
-  "timestamp": "2026-09-17T22:04:53.091Z",
+  "timestamp": "2026-09-17T22:19:21.748Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-09-16T13:31:36Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "Ej's Space and Rocket Revue! 9/17/26",
+      "game": "Science & Technology",
+      "started_at": "2026-09-17T22:05:56Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -38,16 +44,16 @@
       "started_at": "2026-09-17T18:40:19Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and studying Probability",
-      "game": "Math",
-      "started_at": "2026-09-17T19:55:52Z"
-    },
-    {
       "username": "shnaff",
       "title": "Chill guitar, piano, and singing in !stereo🎧!SUBtember",
       "game": "Music",
       "started_at": "2026-09-17T22:02:37Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and studying Probability",
+      "game": "Math",
+      "started_at": "2026-09-17T19:55:52Z"
     },
     {
       "username": "nSimplexPachinko",
