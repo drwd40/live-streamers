@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-17T19:56:54.572Z",
+  "timestamp": "2026-09-17T20:10:39.183Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,22 +32,16 @@
       "started_at": "2026-09-17T18:40:19Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Learning some Electricity & Magnetism + Math/Physics/Education Chat on the Side",
-      "game": "Science & Technology",
-      "started_at": "2026-09-17T18:05:27Z"
+      "username": "DonFactorial",
+      "title": "Answering your math questions and studying Probability",
+      "game": "Math",
+      "started_at": "2026-09-17T19:55:52Z"
     },
     {
       "username": "DrAlexanderClarke",
       "title": "Five Doomsday Weapons of the Sci-fi universes, and the theories of Deterrence... why do they fail?",
       "game": "Just Chatting",
       "started_at": "2026-09-17T18:33:16Z"
-    },
-    {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and studying Probability",
-      "game": "Math",
-      "started_at": "2026-09-17T19:55:52Z"
     }
   ]
 }
