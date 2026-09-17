@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-17T01:09:40.731Z",
+  "timestamp": "2026-09-17T01:33:21.001Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,22 +14,16 @@
       "started_at": "2026-09-16T16:07:42Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "[Charity Event] Fred Hutch Day of Giving | Raising money for cancer research | Partner+ 151/300 | !ppp !yt !pod !jj !fredhutch",
-      "game": "Onimusha: Way of the Sword",
-      "started_at": "2026-09-16T19:07:48Z"
-    },
-    {
       "username": "Moohoodles",
       "title": "!bonusbits 🪐 Space & Astrobiology news! ✨ NMS expedition soon! !subtember",
       "game": "Science & Technology",
       "started_at": "2026-09-17T01:02:33Z"
     },
     {
-      "username": "nogre0",
-      "title": "the game of philosophy",
-      "game": "Just Chatting",
-      "started_at": "2026-09-17T00:00:06Z"
+      "username": "SciAnts_Streams",
+      "title": "[Charity Event] Fred Hutch Day of Giving | Raising money for cancer research | Partner+ 151/300 | !ppp !yt !pod !jj !fredhutch",
+      "game": "Onimusha: Way of the Sword",
+      "started_at": "2026-09-16T19:07:48Z"
     },
     {
       "username": "SharkG33k",
@@ -38,10 +32,16 @@
       "started_at": "2026-09-17T00:16:48Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "Physics/Chem Homework Help | Middle + High School - Actual Education Office Hours",
+      "username": "nogre0",
+      "title": "the game of philosophy",
       "game": "Just Chatting",
-      "started_at": "2026-09-16T22:59:58Z"
+      "started_at": "2026-09-17T00:00:06Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Why is writing important, the great bond sell off and what it means for lay people, and who was Troy Anthony Davis?",
+      "game": "Science & Technology",
+      "started_at": "2026-09-17T01:30:05Z"
     }
   ]
 }
