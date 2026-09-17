@@ -1,11 +1,17 @@
 {
-  "timestamp": "2026-09-17T16:25:25.807Z",
+  "timestamp": "2026-09-17T16:34:54.005Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-09-16T13:31:36Z"
+    },
+    {
+      "username": "Kitboga",
+      "title": "Scammers vs 20 Factor Auth / Infinite Captchas \\ Unskippable Ads [Ep. 1551]",
+      "game": "Just Chatting",
+      "started_at": "2026-09-17T16:26:25Z"
     },
     {
       "username": "Zachap",
@@ -18,12 +24,6 @@
       "title": "Music Day! It's time to COMPOSE (day 104)",
       "game": "Software and Game Development",
       "started_at": "2026-09-17T15:14:50Z"
-    },
-    {
-      "username": "Andilippi",
-      "title": "New obs plugin update out now! • Subathon on hold!",
-      "game": "Just Chatting",
-      "started_at": "2026-09-17T12:56:08Z"
     }
   ]
 }
