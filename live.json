@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-18T03:54:25.799Z",
+  "timestamp": "2026-09-18T04:00:01.223Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-09-17T16:47:11Z"
     },
     {
-      "username": "AstroCanuck",
-      "title": "Astro's Po'Pourri: Final day for !powered up BITS - !subtember T3 Minifigure | !upgrade !mobile !swole",
-      "game": "Lego & Brickbuilding",
-      "started_at": "2026-09-18T00:00:28Z"
-    },
-    {
       "username": "Nerduino",
       "title": "Live Moon Shots! Astronomy and science chat with a PhD astronomer! #NASA #science #space #scientist",
       "game": "Science & Technology",
       "started_at": "2026-09-18T00:50:16Z"
+    },
+    {
+      "username": "AstroCanuck",
+      "title": "Astro's Po'Pourri: Final day for !powered up BITS - !subtember T3 Minifigure | !upgrade !mobile !swole",
+      "game": "Lego & Brickbuilding",
+      "started_at": "2026-09-18T00:00:28Z"
     },
     {
       "username": "SydHeresy",
