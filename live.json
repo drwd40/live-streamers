@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-18T23:32:34.006Z",
+  "timestamp": "2026-09-18T23:39:18.101Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -56,16 +56,16 @@
       "started_at": "2026-09-18T18:26:48Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "Conflict Research and Satellite-Derived Data; Mathematics for Social Justice - 20260918 - TW: State Violence, Descriptions of Violence",
-      "game": "Math",
-      "started_at": "2026-09-18T21:15:23Z"
-    },
-    {
       "username": "happyknightmares",
       "title": "Porch sunset co-working stream!! 🌇✍️",
       "game": "Co-working & Studying",
       "started_at": "2026-09-18T23:20:55Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Conflict Research and Satellite-Derived Data; Mathematics for Social Justice - 20260918 - TW: State Violence, Descriptions of Violence",
+      "game": "Math",
+      "started_at": "2026-09-18T21:15:23Z"
     }
   ]
 }
