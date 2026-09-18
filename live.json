@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-18T20:02:43.583Z",
+  "timestamp": "2026-09-18T20:20:05.594Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,6 +26,12 @@
       "started_at": "2026-09-18T19:29:44Z"
     },
     {
+      "username": "Paleontologizing",
+      "title": "🌡🦖 Was T. rex 'warm-blooded'?  🦖🌡 Let's look at the new study, + fossil science Q&A and FeatherFriday (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-09-18T20:13:19Z"
+    },
+    {
       "username": "Zachap",
       "title": "WOKE COMMIE EDUCATIONAL FOREVER",
       "game": "World of Warcraft",
@@ -38,16 +44,16 @@
       "started_at": "2026-09-18T19:47:12Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "YOLO on Sahinkaya: one life only",
-      "game": "DayZ",
-      "started_at": "2026-09-18T18:26:48Z"
-    },
-    {
       "username": "GeoJim2006",
       "title": "Mineral Recap & Igneous Rock Interpretation & Classification ⛰️⛏️🪨 !discord !nova !tkf",
       "game": "Science & Technology",
       "started_at": "2026-09-18T19:42:47Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "YOLO on Sahinkaya: one life only",
+      "game": "DayZ",
+      "started_at": "2026-09-18T18:26:48Z"
     }
   ]
 }
