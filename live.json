@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-18T00:18:41.907Z",
+  "timestamp": "2026-09-18T01:02:35.739Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -9,8 +9,8 @@
     },
     {
       "username": "EJ_SA",
-      "title": "Ej's Space and Rocket Revue! 9/17/26",
-      "game": "Science & Technology",
+      "title": "Late night Wardoggin! 9/17/26",
+      "game": "WARDOGS",
       "started_at": "2026-09-17T22:05:56Z"
     },
     {
@@ -32,6 +32,12 @@
       "started_at": "2026-09-18T00:00:28Z"
     },
     {
+      "username": "shnaff",
+      "title": "Chill guitar, piano, and singing in !stereo🎧!SUBtember",
+      "game": "Music",
+      "started_at": "2026-09-17T22:02:37Z"
+    },
+    {
       "username": "Zachap",
       "title": "WOKE COMMIE TROLL WARLOCK WOW FOREVER BETA",
       "game": "World of Warcraft",
@@ -44,16 +50,22 @@
       "started_at": "2026-09-17T21:33:19Z"
     },
     {
-      "username": "shnaff",
-      "title": "Chill guitar, piano, and singing in !stereo🎧!SUBtember",
-      "game": "Music",
-      "started_at": "2026-09-17T22:02:37Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Electronic Soldering Extravaganza!!! - DIY - How To - Chill",
       "game": "Science & Technology",
       "started_at": "2026-09-17T18:40:19Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Wars in  Space?  Apparently.   Astronomy and science chat with a PhD astronomer! #NASA #science #space #scientist",
+      "game": "Science & Technology",
+      "started_at": "2026-09-18T00:50:16Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Chat's Choice 360 Scuba Dive! | !GWS",
+      "game": "Science & Technology",
+      "started_at": "2026-09-18T00:07:51Z"
     },
     {
       "username": "MelissaInDeNile",
@@ -72,12 +84,6 @@
       "title": "Continuing Building The Manor, Chapter 09; TitansGrave 17, TTRPG Planning - 20260917 - Maybe some Valheim later?",
       "game": "Valheim",
       "started_at": "2026-09-17T21:03:32Z"
-    },
-    {
-      "username": "SharkG33k",
-      "title": "Chat's Choice 360 Scuba Dive! | !GWS",
-      "game": "Science & Technology",
-      "started_at": "2026-09-18T00:07:51Z"
     }
   ]
 }
