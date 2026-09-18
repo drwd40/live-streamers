@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-18T21:03:29.788Z",
+  "timestamp": "2026-09-18T21:18:01.817Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,16 @@
       "started_at": "2026-09-18T19:29:44Z"
     },
     {
-      "username": "Zachap",
-      "title": "WOKE COMMIE EDUCATIONAL FOREVER",
-      "game": "World of Warcraft",
-      "started_at": "2026-09-18T10:03:12Z"
-    },
-    {
       "username": "Stephen_Wolfram",
       "title": "Personal Update & AMA [September 18, 2026]",
       "game": "Science & Technology",
       "started_at": "2026-09-18T19:47:12Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "WOKE COMMIE EDUCATIONAL FOREVER",
+      "game": "World of Warcraft",
+      "started_at": "2026-09-18T10:03:12Z"
     },
     {
       "username": "GeoJim2006",
@@ -51,9 +51,15 @@
     },
     {
       "username": "DonFactorial",
-      "title": "YOLO on Sahinkaya: one life only",
+      "title": "Back to Namalsk",
       "game": "DayZ",
       "started_at": "2026-09-18T18:26:48Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Conflict Research and Satellite-Derived Data; Mathematics for Social Justice - 20260918",
+      "game": "Math",
+      "started_at": "2026-09-18T21:15:23Z"
     }
   ]
 }
