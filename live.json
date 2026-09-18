@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-18T17:10:39.429Z",
+  "timestamp": "2026-09-18T17:19:38.358Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,22 +14,28 @@
       "started_at": "2026-09-18T16:20:35Z"
     },
     {
+      "username": "EJ_SA",
+      "title": "CAR RESTORATION! Taking apart the drivers side of the car to fix it. (Part 56) 9/18/26",
+      "game": "Science & Technology",
+      "started_at": "2026-09-18T17:10:45Z"
+    },
+    {
       "username": "AdamLearnsLive",
       "title": "AI game dev (day 105)",
       "game": "Software and Game Development",
       "started_at": "2026-09-18T15:13:02Z"
     },
     {
-      "username": "Zachap",
-      "title": "WOKE COMMIE EDUCATIONAL FOREVER",
-      "game": "World of Warcraft",
-      "started_at": "2026-09-18T10:03:12Z"
-    },
-    {
       "username": "oh_bother",
       "title": "Fixing my headphone amp after someone (me) broke it.",
       "game": "Science & Technology",
       "started_at": "2026-09-18T16:14:47Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "WOKE COMMIE EDUCATIONAL FOREVER",
+      "game": "World of Warcraft",
+      "started_at": "2026-09-18T10:03:12Z"
     }
   ]
 }
