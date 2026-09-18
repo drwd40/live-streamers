@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-18T01:30:01.124Z",
+  "timestamp": "2026-09-18T01:49:46.495Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,18 +32,6 @@
       "started_at": "2026-09-18T00:00:28Z"
     },
     {
-      "username": "Zachap",
-      "title": "WOKE COMMIE TROLL WARLOCK WOW FOREVER BETA",
-      "game": "World of Warcraft",
-      "started_at": "2026-09-17T10:02:18Z"
-    },
-    {
-      "username": "shnaff",
-      "title": "Chill guitar, piano, and singing in !stereo🎧!SUBtember",
-      "game": "Music",
-      "started_at": "2026-09-17T22:02:37Z"
-    },
-    {
       "username": "Nerduino",
       "title": "Wars in  Space?  Apparently.   Astronomy and science chat with a PhD astronomer! #NASA #science #space #scientist",
       "game": "Science & Technology",
@@ -56,6 +44,12 @@
       "started_at": "2026-09-17T18:40:19Z"
     },
     {
+      "username": "Zachap",
+      "title": "WOKE COMMIE TROLL WARLOCK WOW FOREVER BETA",
+      "game": "World of Warcraft",
+      "started_at": "2026-09-17T10:02:18Z"
+    },
+    {
       "username": "SharkG33k",
       "title": "Chat's Choice 360 Scuba Dive! | !GWS",
       "game": "Science & Technology",
@@ -66,6 +60,12 @@
       "title": "Sailing to Charles Town in Assassins Creed Black Flag Resynced!! ~ Follower Goal: 2451/2600 ~ !socials !beyonddenile",
       "game": "Assassin's Creed Black Flag Resynced",
       "started_at": "2026-09-17T22:49:53Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Troy Anthony Davis and the Book of Life. Spiritism in Southeast Asia, and beginners' guides to the High Holy Days service.",
+      "game": "Science & Technology",
+      "started_at": "2026-09-18T01:30:52Z"
     }
   ]
 }
