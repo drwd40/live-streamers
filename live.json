@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-17T23:56:12.420Z",
+  "timestamp": "2026-09-18T00:18:41.907Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,6 +26,12 @@
       "started_at": "2026-09-17T16:47:11Z"
     },
     {
+      "username": "AstroCanuck",
+      "title": "Astro's Po'Pourri: Final day for !powered up BITS - !subtember T3 Minifigure | !upgrade !mobile !swole",
+      "game": "Lego & Brickbuilding",
+      "started_at": "2026-09-18T00:00:28Z"
+    },
+    {
       "username": "Zachap",
       "title": "WOKE COMMIE TROLL WARLOCK WOW FOREVER BETA",
       "game": "World of Warcraft",
@@ -50,12 +56,6 @@
       "started_at": "2026-09-17T18:40:19Z"
     },
     {
-      "username": "DasValdez",
-      "title": "Shuttle Enterprise 50th Anniversary - Intrepid Museum Astro Live",
-      "game": "Science & Technology",
-      "started_at": "2026-09-17T22:26:09Z"
-    },
-    {
       "username": "MelissaInDeNile",
       "title": "Sailing to Charles Town in Assassins Creed Black Flag Resynced!! ~ Follower Goal: 2451/2600 ~ !socials !beyonddenile",
       "game": "Assassin's Creed Black Flag Resynced",
@@ -72,6 +72,12 @@
       "title": "Continuing Building The Manor, Chapter 09; TitansGrave 17, TTRPG Planning - 20260917 - Maybe some Valheim later?",
       "game": "Valheim",
       "started_at": "2026-09-17T21:03:32Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Chat's Choice 360 Scuba Dive! | !GWS",
+      "game": "Science & Technology",
+      "started_at": "2026-09-18T00:07:51Z"
     }
   ]
 }
