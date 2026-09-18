@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-18T20:20:05.594Z",
+  "timestamp": "2026-09-18T20:29:27.672Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,28 +20,28 @@
       "started_at": "2026-09-18T17:10:45Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "The only thing truly infinite is my TODO list (day 105½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-09-18T19:29:44Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "🌡🦖 Was T. rex 'warm-blooded'?  🦖🌡 Let's look at the new study, + fossil science Q&A and FeatherFriday (w/ paleontologist Danny Anduza)",
       "game": "Science & Technology",
       "started_at": "2026-09-18T20:13:19Z"
     },
     {
-      "username": "Zachap",
-      "title": "WOKE COMMIE EDUCATIONAL FOREVER",
-      "game": "World of Warcraft",
-      "started_at": "2026-09-18T10:03:12Z"
+      "username": "AdamLearnsLive",
+      "title": "The only thing truly infinite is my TODO list (day 105½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-09-18T19:29:44Z"
     },
     {
       "username": "Stephen_Wolfram",
       "title": "Personal Update & AMA [September 18, 2026]",
       "game": "Science & Technology",
       "started_at": "2026-09-18T19:47:12Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "WOKE COMMIE EDUCATIONAL FOREVER",
+      "game": "World of Warcraft",
+      "started_at": "2026-09-18T10:03:12Z"
     },
     {
       "username": "GeoJim2006",
