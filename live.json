@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-09-18T04:00:01.223Z",
+  "timestamp": "2026-09-18T04:22:39.438Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-09-16T13:31:36Z"
-    },
-    {
-      "username": "imreallyimportant",
-      "title": "HASAN SAYS AMERICA IS WORSE THAN AL-QAEDA | REPUBLICAN CONGRESSWOMAN SAYS TRUMP BETRAYED HISPANICS IN NEW AD",
-      "game": "Just Chatting",
-      "started_at": "2026-09-17T22:19:52Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -42,6 +36,12 @@
       "title": "Troy Anthony Davis and the Book of Life. Spiritism in Southeast Asia, and beginners' guides to the High Holy Days service.",
       "game": "Science & Technology",
       "started_at": "2026-09-18T01:30:52Z"
+    },
+    {
+      "username": "happyknightmares",
+      "title": "Playing a stream simulator!! 😆 (Presentation success!!)",
+      "game": "Games + Demos",
+      "started_at": "2026-09-18T04:14:35Z"
     }
   ]
 }
