@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-18T01:02:35.739Z",
+  "timestamp": "2026-09-18T01:30:01.124Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,34 +32,28 @@
       "started_at": "2026-09-18T00:00:28Z"
     },
     {
-      "username": "shnaff",
-      "title": "Chill guitar, piano, and singing in !stereo🎧!SUBtember",
-      "game": "Music",
-      "started_at": "2026-09-17T22:02:37Z"
-    },
-    {
       "username": "Zachap",
       "title": "WOKE COMMIE TROLL WARLOCK WOW FOREVER BETA",
       "game": "World of Warcraft",
       "started_at": "2026-09-17T10:02:18Z"
     },
     {
-      "username": "VolcanoDoc",
-      "title": "icky raw data compilation | Science Behind the Scenes | !phd !socials !pubs !merch",
-      "game": "Science & Technology",
-      "started_at": "2026-09-17T21:33:19Z"
-    },
-    {
-      "username": "SydHeresy",
-      "title": "Electronic Soldering Extravaganza!!! - DIY - How To - Chill",
-      "game": "Science & Technology",
-      "started_at": "2026-09-17T18:40:19Z"
+      "username": "shnaff",
+      "title": "Chill guitar, piano, and singing in !stereo🎧!SUBtember",
+      "game": "Music",
+      "started_at": "2026-09-17T22:02:37Z"
     },
     {
       "username": "Nerduino",
       "title": "Wars in  Space?  Apparently.   Astronomy and science chat with a PhD astronomer! #NASA #science #space #scientist",
       "game": "Science & Technology",
       "started_at": "2026-09-18T00:50:16Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Electronic Soldering Extravaganza!!! - DIY - How To - Chill",
+      "game": "Science & Technology",
+      "started_at": "2026-09-17T18:40:19Z"
     },
     {
       "username": "SharkG33k",
@@ -72,18 +66,6 @@
       "title": "Sailing to Charles Town in Assassins Creed Black Flag Resynced!! ~ Follower Goal: 2451/2600 ~ !socials !beyonddenile",
       "game": "Assassin's Creed Black Flag Resynced",
       "started_at": "2026-09-17T22:49:53Z"
-    },
-    {
-      "username": "ActualEducation",
-      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
-      "game": "Just Chatting",
-      "started_at": "2026-09-17T23:11:42Z"
-    },
-    {
-      "username": "nSimplexPachinko",
-      "title": "Continuing Building The Manor, Chapter 09; TitansGrave 17, TTRPG Planning - 20260917 - Maybe some Valheim later?",
-      "game": "Valheim",
-      "started_at": "2026-09-17T21:03:32Z"
     }
   ]
 }
