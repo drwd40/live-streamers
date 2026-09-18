@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-18T05:10:25.126Z",
+  "timestamp": "2026-09-18T05:23:18.125Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,28 +14,22 @@
       "started_at": "2026-09-17T16:47:11Z"
     },
     {
-      "username": "AstroCanuck",
-      "title": "Astro's Po'Pourri: Final day for !powered up BITS - !subtember T3 Minifigure | !upgrade !mobile !swole",
-      "game": "Lego & Brickbuilding",
-      "started_at": "2026-09-18T00:00:28Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Electronic Soldering Extravaganza!!! - DIY - How To - Chill",
       "game": "Science & Technology",
       "started_at": "2026-09-17T18:40:19Z"
     },
     {
-      "username": "happyknightmares",
-      "title": "Playing a stream simulator!! 😆 (Presentation success!!)",
-      "game": "Co-working & Studying",
-      "started_at": "2026-09-18T04:14:35Z"
-    },
-    {
       "username": "walkingsticklibrary",
       "title": "Troy Anthony Davis and the Book of Life. Spiritism in Southeast Asia, and beginners' guides to the High Holy Days service.",
       "game": "Science & Technology",
       "started_at": "2026-09-18T01:30:52Z"
+    },
+    {
+      "username": "happyknightmares",
+      "title": "Playing a stream simulator!! 😆 (Presentation success!!)",
+      "game": "Co-working & Studying",
+      "started_at": "2026-09-18T04:14:35Z"
     }
   ]
 }
