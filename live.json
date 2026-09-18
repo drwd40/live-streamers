@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-18T19:43:40.306Z",
+  "timestamp": "2026-09-18T19:49:40.075Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "The only thing truly infinite is my TODO list (day 105½)",
       "game": "Software and Game Development",
       "started_at": "2026-09-18T19:29:44Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Personal Update & AMA [September 18, 2026]",
+      "game": "Science & Technology",
+      "started_at": "2026-09-18T19:47:12Z"
     },
     {
       "username": "DonFactorial",
