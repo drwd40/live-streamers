@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-18T21:50:39.558Z",
+  "timestamp": "2026-09-18T21:56:21.369Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,6 +32,12 @@
       "started_at": "2026-09-18T10:03:12Z"
     },
     {
+      "username": "imreallyimportant",
+      "title": "YOUR 4TH TIME WATCHING THE HASAN INTERVIEW | TRUMP \"BANS\" CNN, MSNOW & POLITICO",
+      "game": "Just Chatting",
+      "started_at": "2026-09-18T21:49:59Z"
+    },
+    {
       "username": "GeoJim2006",
       "title": "Mineral Recap & Igneous Rock Interpretation & Classification ⛰️⛏️🪨 !discord !nova !tkf",
       "game": "Science & Technology",
@@ -48,12 +54,6 @@
       "title": "Conflict Research and Satellite-Derived Data; Mathematics for Social Justice - 20260918",
       "game": "Math",
       "started_at": "2026-09-18T21:15:23Z"
-    },
-    {
-      "username": "imreallyimportant",
-      "title": "YOUR 4TH TIME WATCHING THE HASAN INTERVIEW | TRUMP \"BANS\" CNN, MSNOW & POLITICO",
-      "game": "Just Chatting",
-      "started_at": "2026-09-18T21:49:59Z"
     }
   ]
 }
