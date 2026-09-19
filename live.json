@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-19T21:36:19.652Z",
+  "timestamp": "2026-09-19T21:42:08.619Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,10 +20,22 @@
       "started_at": "2026-09-19T10:03:23Z"
     },
     {
+      "username": "DrawCuriosity",
+      "title": "✈️ WINGING IT: HOW BUGS FLY - Science Lecture with @MelissainDeNile✨🐏!tier2 !tier3",
+      "game": "Science & Technology",
+      "started_at": "2026-09-19T21:39:22Z"
+    },
+    {
       "username": "DonFactorial",
       "title": "Answering your questions and studying Probability",
       "game": "Math",
       "started_at": "2026-09-19T18:29:50Z"
+    },
+    {
+      "username": "MelissaInDeNile",
+      "title": "LAST Beyond De Nile Guest Lecture of Season 4 with @drawcuriosity !! ~ Follower Goal: 2451/2600 ~ !socials !beyonddenile",
+      "game": "Just Chatting",
+      "started_at": "2026-09-19T21:39:13Z"
     }
   ]
 }
