@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-19T01:05:27.609Z",
+  "timestamp": "2026-09-19T01:29:16.533Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,6 +26,12 @@
       "started_at": "2026-09-19T00:02:53Z"
     },
     {
+      "username": "SciAnts_Streams",
+      "title": "[Charity Event] Fred Hutch Cancer Research Center | Science News of the Week | Partner+ 178/300 | !ppp !yt !pod !jj !fredhutch",
+      "game": "Science & Technology",
+      "started_at": "2026-09-19T01:03:11Z"
+    },
+    {
       "username": "Zachap",
       "title": "WOKE COMMIE EDUCATIONAL FOREVER",
       "game": "World of Warcraft",
@@ -36,12 +42,6 @@
       "title": "Porch sunset co-working stream!! 🌇✍️",
       "game": "Co-working & Studying",
       "started_at": "2026-09-18T23:20:55Z"
-    },
-    {
-      "username": "SciAnts_Streams",
-      "title": "[Charity Event] Fred Hutch Cancer Research Center | Science News of the Week | Partner+ 160/300 | !ppp !yt !pod !jj !fredhutch",
-      "game": "Science & Technology",
-      "started_at": "2026-09-19T01:03:11Z"
     }
   ]
 }
