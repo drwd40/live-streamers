@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-19T18:21:52.360Z",
+  "timestamp": "2026-09-19T18:32:17.999Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,22 +8,28 @@
       "started_at": "2026-09-18T13:31:38Z"
     },
     {
-      "username": "Zachap",
-      "title": "Working-Class > State/Capital",
-      "game": "Just Chatting",
-      "started_at": "2026-09-19T10:03:23Z"
-    },
-    {
       "username": "oh_bother",
       "title": "random eurorack stuff, soldering.",
       "game": "Science & Technology",
       "started_at": "2026-09-19T16:38:38Z"
     },
     {
+      "username": "Zachap",
+      "title": "Working-Class > State/Capital",
+      "game": "Just Chatting",
+      "started_at": "2026-09-19T10:03:23Z"
+    },
+    {
       "username": "eToThe2iPi",
       "title": "Math/Ed Chatting Time -- Questions Welcome",
       "game": "Math",
       "started_at": "2026-09-19T15:58:51Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your questions and studying Probability",
+      "game": "Math",
+      "started_at": "2026-09-19T18:29:50Z"
     }
   ]
 }
