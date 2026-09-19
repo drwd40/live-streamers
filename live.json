@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-19T22:30:23.939Z",
+  "timestamp": "2026-09-19T22:38:17.473Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,12 +32,6 @@
       "started_at": "2026-09-19T22:17:57Z"
     },
     {
-      "username": "Mr_Aejis",
-      "title": "Mental Health First Aid: The @TWLOHA September Raid Train Charity Event",
-      "game": "Just Chatting",
-      "started_at": "2026-09-19T21:53:29Z"
-    },
-    {
       "username": "MelissaInDeNile",
       "title": "LAST Beyond De Nile Guest Lecture of Season 4 with @drawcuriosity !! ~ Follower Goal: 2451/2600 ~ !socials !beyonddenile",
       "game": "Just Chatting",
@@ -48,6 +42,12 @@
       "title": "Answering your questions and studying Probability",
       "game": "Math",
       "started_at": "2026-09-19T18:29:50Z"
+    },
+    {
+      "username": "Mr_Aejis",
+      "title": "Mental Health First Aid: The @TWLOHA September Raid Train Charity Event",
+      "game": "Just Chatting",
+      "started_at": "2026-09-19T21:53:29Z"
     }
   ]
 }
