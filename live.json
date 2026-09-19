@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-19T16:38:04.339Z",
+  "timestamp": "2026-09-19T16:43:50.648Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "Math/Ed Chatting Time -- Questions Welcome",
       "game": "Math",
       "started_at": "2026-09-19T15:58:51Z"
+    },
+    {
+      "username": "oh_bother",
+      "title": "random eurorack stuff, soldering.",
+      "game": "Science & Technology",
+      "started_at": "2026-09-19T16:38:38Z"
     }
   ]
 }
