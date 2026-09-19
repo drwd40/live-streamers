@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-19T00:27:57.574Z",
+  "timestamp": "2026-09-19T01:05:27.609Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,22 +8,10 @@
       "started_at": "2026-09-18T13:31:38Z"
     },
     {
-      "username": "JapanesePrintmaking",
-      "title": "Making Japanese woodblock prints ... live while you watch ...",
-      "game": "Makers & Crafting",
-      "started_at": "2026-09-18T22:59:49Z"
-    },
-    {
       "username": "EJ_SA",
       "title": "I DO HELICOPTER STUFF! FRIDAY NIGHT WARDOGGIN'! 9/18/26",
       "game": "WARDOGS",
       "started_at": "2026-09-18T17:10:45Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "🌡🦖 Was T. rex 'warm-blooded'?  🦖🌡 Let's look at the new study, + fossil science Q&A and FeatherFriday (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-09-18T20:13:19Z"
     },
     {
       "username": "imreallyimportant",
@@ -48,6 +36,12 @@
       "title": "Porch sunset co-working stream!! 🌇✍️",
       "game": "Co-working & Studying",
       "started_at": "2026-09-18T23:20:55Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "[Charity Event] Fred Hutch Cancer Research Center | Science News of the Week | Partner+ 160/300 | !ppp !yt !pod !jj !fredhutch",
+      "game": "Science & Technology",
+      "started_at": "2026-09-19T01:03:11Z"
     }
   ]
 }
