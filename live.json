@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-19T20:41:27.132Z",
+  "timestamp": "2026-09-19T20:47:29.433Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-09-18T13:31:38Z"
     },
     {
-      "username": "Zachap",
-      "title": "Working-Class > State/Capital",
-      "game": "Just Chatting",
-      "started_at": "2026-09-19T10:03:23Z"
-    },
-    {
       "username": "ArchitectureTV",
       "title": "Stratford Festival historic town, architecture and coffee",
       "game": "IRL",
       "started_at": "2026-09-19T20:19:26Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "Working-Class > State/Capital",
+      "game": "Just Chatting",
+      "started_at": "2026-09-19T10:03:23Z"
     },
     {
       "username": "DonFactorial",
