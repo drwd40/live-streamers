@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-20T22:06:54.403Z",
+  "timestamp": "2026-09-20T22:19:47.099Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,16 @@
       "started_at": "2026-09-20T18:39:52Z"
     },
     {
-      "username": "DrAlexanderClarke",
-      "title": "Bruships 260: Naval History Questions Answered Live",
-      "game": "Just Chatting",
-      "started_at": "2026-09-20T18:43:10Z"
-    },
-    {
       "username": "shnaff",
       "title": "Chill guitar and piano in !stereo🎧!SUBtember",
       "game": "Music",
       "started_at": "2026-09-20T22:01:34Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "Bruships 260: Naval History Questions Answered Live",
+      "game": "Just Chatting",
+      "started_at": "2026-09-20T18:43:10Z"
     }
   ]
 }
