@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-20T15:44:01.622Z",
+  "timestamp": "2026-09-20T15:50:12.511Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -42,6 +42,12 @@
       "title": "Pikachu on the ISS | You have 2 brains | Tendon Health | Science news!",
       "game": "Just Chatting",
       "started_at": "2026-09-20T15:06:32Z"
+    },
+    {
+      "username": "nogre0",
+      "title": "winning philosophy",
+      "game": "Just Chatting",
+      "started_at": "2026-09-20T15:46:05Z"
     }
   ]
 }
