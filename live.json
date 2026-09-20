@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-20T15:55:52.257Z",
+  "timestamp": "2026-09-20T16:05:19.995Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,16 +38,16 @@
       "started_at": "2026-09-20T10:02:51Z"
     },
     {
-      "username": "sciencestreams",
-      "title": "Pikachu on the ISS | You have 2 brains | Tendon Health | Science news!",
-      "game": "Just Chatting",
-      "started_at": "2026-09-20T15:06:32Z"
-    },
-    {
       "username": "nogre0",
       "title": "winning philosophy",
       "game": "Just Chatting",
       "started_at": "2026-09-20T15:46:05Z"
+    },
+    {
+      "username": "sciencestreams",
+      "title": "Pikachu on the ISS | You have 2 brains | Tendon Health | Science news!",
+      "game": "Just Chatting",
+      "started_at": "2026-09-20T15:06:32Z"
     }
   ]
 }
