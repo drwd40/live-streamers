@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-20T18:47:51.665Z",
+  "timestamp": "2026-09-20T18:53:26.813Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,22 +8,16 @@
       "started_at": "2026-09-20T13:31:41Z"
     },
     {
-      "username": "AstroCanuck",
-      "title": "Lazy Sunday LEGO: Gotham City Art continues. !giveaway day today - !subtember T3 Minifigure | !upgrade !mobile !swole",
-      "game": "Lego & Brickbuilding",
-      "started_at": "2026-09-20T14:00:40Z"
-    },
-    {
       "username": "ArchitectureTV",
       "title": "Woodstock historic town, friendly city, architecture and coffee",
       "game": "IRL",
       "started_at": "2026-09-20T15:08:33Z"
     },
     {
-      "username": "LumiRue",
-      "title": "AI Dooming: What are the Fears? (starting vid at lunch) | Last Stream Before Japan! | Pokopia<3 Cozy vibes for a taste of quiet life",
-      "game": "Pokémon Pokopia",
-      "started_at": "2026-09-20T14:10:54Z"
+      "username": "AstroCanuck",
+      "title": "Lazy Sunday LEGO: Gotham City Art continues. !giveaway day today - !subtember T3 Minifigure | !upgrade !mobile !swole",
+      "game": "Lego & Brickbuilding",
+      "started_at": "2026-09-20T14:00:40Z"
     },
     {
       "username": "Zachap",
@@ -32,16 +26,16 @@
       "started_at": "2026-09-20T10:02:51Z"
     },
     {
-      "username": "Rocketology",
-      "title": "Looking at Enshrouded - Survival Fantasy RPG",
-      "game": "Enshrouded",
-      "started_at": "2026-09-20T18:39:52Z"
-    },
-    {
       "username": "DrAlexanderClarke",
       "title": "Bruships 260: Naval History Questions Answered Live",
       "game": "Just Chatting",
       "started_at": "2026-09-20T18:43:10Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "Looking at Enshrouded - Survival Fantasy RPG",
+      "game": "Enshrouded",
+      "started_at": "2026-09-20T18:39:52Z"
     }
   ]
 }
