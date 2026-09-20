@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-20T19:50:21.449Z",
+  "timestamp": "2026-09-20T19:56:11.773Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,6 +26,12 @@
       "started_at": "2026-09-20T10:02:51Z"
     },
     {
+      "username": "VolcanoDoc",
+      "title": "A History of the World, Part 3 | Intro to Earth Science Series | !phd !socials !pubs !merch",
+      "game": "Science & Technology",
+      "started_at": "2026-09-20T19:37:59Z"
+    },
+    {
       "username": "Rocketology",
       "title": "Looking at Enshrouded - Survival Fantasy RPG",
       "game": "Enshrouded",
@@ -36,12 +42,6 @@
       "title": "Bruships 260: Naval History Questions Answered Live",
       "game": "Just Chatting",
       "started_at": "2026-09-20T18:43:10Z"
-    },
-    {
-      "username": "VolcanoDoc",
-      "title": "A History of the World, Part 3 | Intro to Earth Science Series | !phd !socials !pubs !merch",
-      "game": "Science & Technology",
-      "started_at": "2026-09-20T19:37:59Z"
     }
   ]
 }
