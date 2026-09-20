@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-20T19:33:14.880Z",
+  "timestamp": "2026-09-20T19:39:10.332Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "Bruships 260: Naval History Questions Answered Live",
       "game": "Just Chatting",
       "started_at": "2026-09-20T18:43:10Z"
+    },
+    {
+      "username": "VolcanoDoc",
+      "title": "A History of the World, Part 3 | Intro to Earth Science Series | !phd !socials !pubs !merch",
+      "game": "Science & Technology",
+      "started_at": "2026-09-20T19:37:59Z"
     }
   ]
 }
