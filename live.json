@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-20T11:19:51.609Z",
+  "timestamp": "2026-09-20T11:27:27.829Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "politics",
       "game": "Just Chatting",
       "started_at": "2026-09-20T10:02:51Z"
+    },
+    {
+      "username": "TinyToxicTofu",
+      "title": "Building and Designing Teaching Tools for Physics and Engineering Before Playing RE Requiem 🐀 !phd !cnc",
+      "game": "Science & Technology",
+      "started_at": "2026-09-20T11:20:24Z"
     }
   ]
 }
