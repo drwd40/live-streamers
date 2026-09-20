@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-20T15:24:39.822Z",
+  "timestamp": "2026-09-20T15:30:13.225Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-09-20T14:10:54Z"
     },
     {
-      "username": "Zachap",
-      "title": "politics",
-      "game": "Just Chatting",
-      "started_at": "2026-09-20T10:02:51Z"
-    },
-    {
       "username": "ArchitectureTV",
       "title": "Woodstock historic town, friendly city, architecture and coffee",
       "game": "IRL",
       "started_at": "2026-09-20T15:08:33Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "politics",
+      "game": "Just Chatting",
+      "started_at": "2026-09-20T10:02:51Z"
     },
     {
       "username": "sciencestreams",
