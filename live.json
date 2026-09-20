@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-20T11:27:27.829Z",
+  "timestamp": "2026-09-20T11:34:57.450Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-09-18T13:31:38Z"
     },
     {
-      "username": "Zachap",
-      "title": "politics",
-      "game": "Just Chatting",
-      "started_at": "2026-09-20T10:02:51Z"
-    },
-    {
       "username": "TinyToxicTofu",
       "title": "Building and Designing Teaching Tools for Physics and Engineering Before Playing RE Requiem 🐀 !phd !cnc",
       "game": "Science & Technology",
       "started_at": "2026-09-20T11:20:24Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "politics",
+      "game": "Just Chatting",
+      "started_at": "2026-09-20T10:02:51Z"
     }
   ]
 }
