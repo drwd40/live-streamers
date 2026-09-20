@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-20T01:02:38.183Z",
+  "timestamp": "2026-09-20T01:33:34.054Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,6 +26,12 @@
       "started_at": "2026-09-19T21:39:22Z"
     },
     {
+      "username": "SciAnts_Streams",
+      "title": "[Charity Event] Fred Hutch Cancer Research Center | 🔪Wolverine + Regenerative Medicine 🔪 | Partner+ 186/300 | !ppp !yt !pod !jj !fredhutch",
+      "game": "Marvel's Wolverine",
+      "started_at": "2026-09-20T00:59:52Z"
+    },
+    {
       "username": "Zachap",
       "title": "Working-Class > State/Capital",
       "game": "Just Chatting",
@@ -42,12 +48,6 @@
       "title": "International Observe the Moon Night: Telescope and Citizen Science",
       "game": "Science & Technology",
       "started_at": "2026-09-20T00:31:20Z"
-    },
-    {
-      "username": "SciAnts_Streams",
-      "title": "[Charity Event] Fred Hutch Cancer Research Center | 🔪Wolverine + Regenerative Medicine 🔪 | Partner+ 186/300 | !ppp !yt !pod !jj !fredhutch",
-      "game": "Marvel's Wolverine",
-      "started_at": "2026-09-20T00:59:52Z"
     }
   ]
 }
