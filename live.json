@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-21T18:11:10.944Z",
+  "timestamp": "2026-09-21T18:29:18.745Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "Math/Ed Chatting Time -- Questions Welcome",
       "game": "Math",
       "started_at": "2026-09-21T18:03:56Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "Day 2!",
+      "game": "Enshrouded",
+      "started_at": "2026-09-21T18:25:23Z"
     }
   ]
 }
