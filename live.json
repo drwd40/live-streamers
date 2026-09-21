@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-21T19:56:30.420Z",
+  "timestamp": "2026-09-21T20:07:59.845Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,9 +26,15 @@
       "started_at": "2026-09-21T19:05:12Z"
     },
     {
+      "username": "AdamLearnsLive",
+      "title": "Doing game design just for a breather (day 106½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-09-21T19:52:28Z"
+    },
+    {
       "username": "eToThe2iPi",
-      "title": "Math/Ed Chatting Time -- Questions Welcome",
-      "game": "Math",
+      "title": "Software Dev + Math/CS/Ed Chatting Time: Working on Quiz Show Software (Sixteen)",
+      "game": "Software and Game Development",
       "started_at": "2026-09-21T18:03:56Z"
     },
     {
@@ -38,10 +44,10 @@
       "started_at": "2026-09-21T18:25:23Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Doing game design just for a breather (day 106½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-09-21T19:52:28Z"
+      "username": "Paleontologizing",
+      "title": "🦕 DINOSAUR SCIENCE Q&A 🦖 Fossil News 📰 Field streams next week! ⛏ World Rhino Day tomorrow 🦏 (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-09-21T20:03:43Z"
     }
   ]
 }
