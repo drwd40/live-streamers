@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-21T20:07:59.845Z",
+  "timestamp": "2026-09-21T20:22:35.450Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,22 +14,28 @@
       "started_at": "2026-09-21T17:59:46Z"
     },
     {
+      "username": "Paleontologizing",
+      "title": "🦕 DINOSAUR SCIENCE Q&A 🦖 Fossil News 📰 Field streams next week! ⛏ World Rhino Day tomorrow 🦏 (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-09-21T20:03:43Z"
+    },
+    {
       "username": "Zachap",
       "title": "cares too much probably...",
       "game": "Just Chatting",
       "started_at": "2026-09-21T10:03:44Z"
     },
     {
-      "username": "IrishJohnGames",
-      "title": "🍀 Jern Jam Has Started!! !jj | !rop !patreon !discord",
-      "game": "Software and Game Development",
-      "started_at": "2026-09-21T19:05:12Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "Doing game design just for a breather (day 106½)",
       "game": "Software and Game Development",
       "started_at": "2026-09-21T19:52:28Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀 Jern Jam Has Started!! !jj | !rop !patreon !discord",
+      "game": "Software and Game Development",
+      "started_at": "2026-09-21T19:05:12Z"
     },
     {
       "username": "eToThe2iPi",
@@ -42,12 +48,6 @@
       "title": "Day 2!",
       "game": "Enshrouded",
       "started_at": "2026-09-21T18:25:23Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "🦕 DINOSAUR SCIENCE Q&A 🦖 Fossil News 📰 Field streams next week! ⛏ World Rhino Day tomorrow 🦏 (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-09-21T20:03:43Z"
     }
   ]
 }
