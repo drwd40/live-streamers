@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-21T22:44:42.294Z",
+  "timestamp": "2026-09-21T22:50:37.797Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-09-20T13:31:41Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "EJ's Space and Rocket Revue! 9/21/26",
-      "game": "Science & Technology",
-      "started_at": "2026-09-21T17:59:46Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "🦕 DINOSAUR SCIENCE Q&A 🦖 Fossil News 📰 Field streams next week! ⛏ World Rhino Day tomorrow 🦏 (w/ paleontologist Danny Anduza)",
       "game": "Science & Technology",
       "started_at": "2026-09-21T20:03:43Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "EJ's Space and Rocket Revue! 9/21/26",
+      "game": "Science & Technology",
+      "started_at": "2026-09-21T17:59:46Z"
     },
     {
       "username": "imreallyimportant",
