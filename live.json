@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-21T18:29:18.745Z",
+  "timestamp": "2026-09-21T18:45:23.312Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,28 +14,22 @@
       "started_at": "2026-09-21T17:59:46Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Making a golf game where you play as the wall (day 106)",
-      "game": "Software and Game Development",
-      "started_at": "2026-09-21T15:14:36Z"
-    },
-    {
       "username": "Zachap",
       "title": "cares too much probably...",
       "game": "Just Chatting",
       "started_at": "2026-09-21T10:03:44Z"
     },
     {
-      "username": "CosmoQuestX",
-      "title": "Astronomy Cast Live",
-      "game": "Science & Technology",
-      "started_at": "2026-09-21T17:59:21Z"
-    },
-    {
       "username": "eToThe2iPi",
       "title": "Math/Ed Chatting Time -- Questions Welcome",
       "game": "Math",
       "started_at": "2026-09-21T18:03:56Z"
+    },
+    {
+      "username": "CosmoQuestX",
+      "title": "Astronomy Cast Live",
+      "game": "Science & Technology",
+      "started_at": "2026-09-21T17:59:21Z"
     },
     {
       "username": "Rocketology",
