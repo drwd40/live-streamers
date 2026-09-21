@@ -1,11 +1,17 @@
 {
-  "timestamp": "2026-09-21T17:56:43.564Z",
+  "timestamp": "2026-09-21T18:11:10.944Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-09-20T13:31:41Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "CAR RESTORATION! Taking apart the car to fix the driver's side! The Crew Cab Coronet (Part 56) 9/21/26",
+      "game": "Just Chatting",
+      "started_at": "2026-09-21T17:59:46Z"
     },
     {
       "username": "AdamLearnsLive",
@@ -18,6 +24,18 @@
       "title": "cares too much probably...",
       "game": "Just Chatting",
       "started_at": "2026-09-21T10:03:44Z"
+    },
+    {
+      "username": "CosmoQuestX",
+      "title": "Astronomy Cast Live",
+      "game": "Science & Technology",
+      "started_at": "2026-09-21T17:59:21Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Math/Ed Chatting Time -- Questions Welcome",
+      "game": "Math",
+      "started_at": "2026-09-21T18:03:56Z"
     }
   ]
 }
