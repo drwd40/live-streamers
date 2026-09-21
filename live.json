@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-21T21:50:22.854Z",
+  "timestamp": "2026-09-21T21:55:53.662Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,16 +38,16 @@
       "started_at": "2026-09-21T19:05:12Z"
     },
     {
-      "username": "Rocketology",
-      "title": "Day 2!",
-      "game": "Enshrouded",
-      "started_at": "2026-09-21T18:25:23Z"
-    },
-    {
       "username": "nSimplexPachinko",
       "title": "Trigonometry Review, Unit 1; Trigonometry 08; Collab w/ @kittiesplease - 20260921",
       "game": "Math",
       "started_at": "2026-09-21T20:23:32Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "Day 2!",
+      "game": "Enshrouded",
+      "started_at": "2026-09-21T18:25:23Z"
     }
   ]
 }
