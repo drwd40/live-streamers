@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-21T10:58:44.895Z",
+  "timestamp": "2026-09-21T11:18:06.484Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "cares too much probably...",
       "game": "Just Chatting",
       "started_at": "2026-09-21T10:03:44Z"
+    },
+    {
+      "username": "leioslabs",
+      "title": "Research stream. LEGGO!",
+      "game": "Science & Technology",
+      "started_at": "2026-09-21T11:17:14Z"
     }
   ]
 }
