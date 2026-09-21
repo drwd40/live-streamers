@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-21T00:04:30.402Z",
+  "timestamp": "2026-09-21T01:00:09.770Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,22 +14,22 @@
       "started_at": "2026-09-20T22:01:34Z"
     },
     {
-      "username": "JapanesePrintmaking",
-      "title": "Making Japanese woodblock prints ... live while you watch ...",
-      "game": "Makers & Crafting",
-      "started_at": "2026-09-20T22:59:54Z"
-    },
-    {
-      "username": "VolcanoDoc",
-      "title": "A History of the World, Part 3 | Intro to Earth Science Series | !phd !socials !pubs !merch",
-      "game": "Science & Technology",
-      "started_at": "2026-09-20T19:37:59Z"
+      "username": "DrMick",
+      "title": "Therapist Plays KCD2: Part 28",
+      "game": "Kingdom Come: Deliverance II",
+      "started_at": "2026-09-21T00:22:14Z"
     },
     {
       "username": "Zachap",
       "title": "stop rad libs from normalizing fascist economic \"analysis\" aaaaaanyminutenow",
       "game": "Just Chatting",
       "started_at": "2026-09-20T10:02:51Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Sunday Safety Science and No Man's Sky! Astronomy and science chat with a PhD astronomer! #NASA #science #space #scientist",
+      "game": "Science & Technology",
+      "started_at": "2026-09-21T00:50:57Z"
     }
   ]
 }
