@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-22T01:56:35.979Z",
+  "timestamp": "2026-09-22T02:12:49.345Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,22 +14,16 @@
       "started_at": "2026-09-21T17:59:46Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "[Charity Event] Fred Hutch Cancer Research Center | Microscopy Monday ft Thomas Merritt | Partner+ 224/300 | !ppp !yt !pod !jj !fredhutch",
-      "game": "Science & Technology",
-      "started_at": "2026-09-22T00:30:32Z"
-    },
-    {
       "username": "Moohoodles",
       "title": "🪐 Astrobiology & Space news! ✨ !subtember (Games later, WoW Forever or NMS?!)",
       "game": "Science & Technology",
       "started_at": "2026-09-22T01:25:18Z"
     },
     {
-      "username": "csharpfritz",
-      "title": "Glasses, DayFrame and More!",
-      "game": "Software and Game Development",
-      "started_at": "2026-09-21T23:59:58Z"
+      "username": "SciAnts_Streams",
+      "title": "[Charity Event] Fred Hutch Cancer Research Center | Microscopy Monday ft Thomas Merritt | Partner+ 224/300 | !ppp !yt !pod !jj !fredhutch",
+      "game": "Science & Technology",
+      "started_at": "2026-09-22T00:30:32Z"
     }
   ]
 }
