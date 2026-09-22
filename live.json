@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-22T01:29:32.720Z",
+  "timestamp": "2026-09-22T01:48:22.863Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,28 +14,22 @@
       "started_at": "2026-09-21T17:59:46Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "🦕 DINOSAUR SCIENCE Q&A 🦖 Fossil News 📰 Field streams next week! ⛏ World Rhino Day tomorrow 🦏 (w/ paleontologist Danny Anduza)",
-      "game": "Just Chatting",
-      "started_at": "2026-09-21T20:03:43Z"
-    },
-    {
       "username": "SciAnts_Streams",
       "title": "[Charity Event] Fred Hutch Cancer Research Center | Microscopy Monday ft Thomas Merritt | Partner+ 224/300 | !ppp !yt !pod !jj !fredhutch",
       "game": "Science & Technology",
       "started_at": "2026-09-22T00:30:32Z"
     },
     {
-      "username": "csharpfritz",
-      "title": "Glasses, DayFrame and More!",
-      "game": "Software and Game Development",
-      "started_at": "2026-09-21T23:59:58Z"
-    },
-    {
       "username": "Moohoodles",
       "title": "🪐 Astrobiology & Space news! ✨ !subtember (Games later, WoW Forever or NMS?!)",
       "game": "Science & Technology",
       "started_at": "2026-09-22T01:25:18Z"
+    },
+    {
+      "username": "csharpfritz",
+      "title": "Glasses, DayFrame and More!",
+      "game": "Software and Game Development",
+      "started_at": "2026-09-21T23:59:58Z"
     }
   ]
 }
