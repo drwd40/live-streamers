@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-22T19:56:11.956Z",
+  "timestamp": "2026-09-22T20:06:28.717Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,16 @@
       "started_at": "2026-09-22T18:28:04Z"
     },
     {
-      "username": "xTalkProgrammer",
-      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
-      "game": "Just Chatting",
-      "started_at": "2026-09-22T18:51:31Z"
-    },
-    {
       "username": "GeoJim2006",
       "title": "Igneous Rock Classification & Interpretation 🌋⛏️🪨 !discord !nova !tkf",
       "game": "Science & Technology",
       "started_at": "2026-09-22T19:50:29Z"
+    },
+    {
+      "username": "xTalkProgrammer",
+      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
+      "game": "Just Chatting",
+      "started_at": "2026-09-22T18:51:31Z"
     }
   ]
 }
