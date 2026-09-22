@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-21T23:55:45.622Z",
+  "timestamp": "2026-09-22T00:13:30.256Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -9,8 +9,8 @@
     },
     {
       "username": "EJ_SA",
-      "title": "EJ's Space and Rocket Revue! 9/21/26",
-      "game": "Science & Technology",
+      "title": "Monday Night Wardoggin'! Flying Helos and More! 9/21/26",
+      "game": "WARDOGS",
       "started_at": "2026-09-21T17:59:46Z"
     },
     {
@@ -30,6 +30,12 @@
       "title": "cares too much probably...",
       "game": "Just Chatting",
       "started_at": "2026-09-21T10:03:44Z"
+    },
+    {
+      "username": "csharpfritz",
+      "title": "Glasses, DayFrame and More!",
+      "game": "Software and Game Development",
+      "started_at": "2026-09-21T23:59:58Z"
     },
     {
       "username": "nSimplexPachinko",
