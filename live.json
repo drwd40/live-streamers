@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-22T18:52:58.385Z",
+  "timestamp": "2026-09-22T18:58:28.595Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-09-22T10:02:11Z"
     },
     {
-      "username": "oh_bother",
-      "title": "Revisiting the testing module testing module test, now with a new thingy!",
-      "game": "Science & Technology",
-      "started_at": "2026-09-22T16:32:29Z"
-    },
-    {
       "username": "DrawCuriosity",
       "title": "✈️ Maybe we get a little artsy today (1000 bits = 1 embarassing diary entry) ✨🐏!tier2 !tier3",
       "game": "Art",
       "started_at": "2026-09-22T18:00:22Z"
+    },
+    {
+      "username": "oh_bother",
+      "title": "Revisiting the testing module testing module test, now with a new thingy!",
+      "game": "Science & Technology",
+      "started_at": "2026-09-22T16:32:29Z"
     },
     {
       "username": "vul100",
