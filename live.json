@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-22T12:00:37.007Z",
+  "timestamp": "2026-09-22T12:29:13.958Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "labor movement > whatever else",
       "game": "Just Chatting",
       "started_at": "2026-09-22T10:02:11Z"
+    },
+    {
+      "username": "leioslabs",
+      "title": "Research stream. LEGGO!",
+      "game": "Science & Technology",
+      "started_at": "2026-09-22T12:18:58Z"
     }
   ]
 }
