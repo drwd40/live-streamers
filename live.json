@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-22T15:31:33.942Z",
+  "timestamp": "2026-09-22T15:40:35.961Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-09-22T13:31:43Z"
     },
     {
-      "username": "Zachap",
-      "title": "labor movement > whatever else",
-      "game": "Just Chatting",
-      "started_at": "2026-09-22T10:02:11Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "Sucky Tasks Day (day 107)",
       "game": "Software and Game Development",
       "started_at": "2026-09-22T15:02:45Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "labor movement > whatever else",
+      "game": "Just Chatting",
+      "started_at": "2026-09-22T10:02:11Z"
     }
   ]
 }
