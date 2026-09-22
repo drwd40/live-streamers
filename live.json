@@ -1,11 +1,17 @@
 {
-  "timestamp": "2026-09-22T16:53:47.447Z",
+  "timestamp": "2026-09-22T16:59:17.809Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-09-22T13:31:43Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "Troubleshooting integration failure modes! SLC-6 (Part 20) 9/22/26",
+      "game": "Kerbal Space Program",
+      "started_at": "2026-09-22T16:49:00Z"
     },
     {
       "username": "AdamLearnsLive",
@@ -18,12 +24,6 @@
       "title": "labor movement > whatever else",
       "game": "Just Chatting",
       "started_at": "2026-09-22T10:02:11Z"
-    },
-    {
-      "username": "EJ_SA",
-      "title": "Troubleshooting integration failure modes! SLC-6 (Part 20) 9/22/26",
-      "game": "Kerbal Space Program",
-      "started_at": "2026-09-22T16:49:00Z"
     },
     {
       "username": "oh_bother",
