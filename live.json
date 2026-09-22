@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-22T18:18:04.658Z",
+  "timestamp": "2026-09-22T18:35:27.256Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "Revisiting the testing module testing module test, now with a new thingy!",
       "game": "Science & Technology",
       "started_at": "2026-09-22T16:32:29Z"
+    },
+    {
+      "username": "vul100",
+      "title": "Tuesday September 22nd @2:30pm EDT:  Jack Binns Early Years —his words and mine.",
+      "game": "Science & Technology",
+      "started_at": "2026-09-22T18:28:04Z"
     }
   ]
 }
