@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-22T18:46:11.813Z",
+  "timestamp": "2026-09-22T18:52:58.385Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,22 +20,28 @@
       "started_at": "2026-09-22T10:02:11Z"
     },
     {
-      "username": "DrawCuriosity",
-      "title": "✈️ Maybe we get a little artsy today (1000 bits = 1 embarassing diary entry) ✨🐏!tier2 !tier3",
-      "game": "Art",
-      "started_at": "2026-09-22T18:00:22Z"
-    },
-    {
       "username": "oh_bother",
       "title": "Revisiting the testing module testing module test, now with a new thingy!",
       "game": "Science & Technology",
       "started_at": "2026-09-22T16:32:29Z"
     },
     {
+      "username": "DrawCuriosity",
+      "title": "✈️ Maybe we get a little artsy today (1000 bits = 1 embarassing diary entry) ✨🐏!tier2 !tier3",
+      "game": "Art",
+      "started_at": "2026-09-22T18:00:22Z"
+    },
+    {
       "username": "vul100",
       "title": "Tuesday September 22nd @2:30pm EDT:  Jack Binns Early Years —his words and mine.",
       "game": "Science & Technology",
       "started_at": "2026-09-22T18:28:04Z"
+    },
+    {
+      "username": "xTalkProgrammer",
+      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
+      "game": "Just Chatting",
+      "started_at": "2026-09-22T18:51:31Z"
     }
   ]
 }
