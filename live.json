@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-22T03:36:31.669Z",
+  "timestamp": "2026-09-22T03:47:26.986Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-09-20T13:31:41Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "Monday Night Wardoggin'! Flying Helos and More! 9/21/26",
-      "game": "WARDOGS",
-      "started_at": "2026-09-21T17:59:46Z"
-    },
-    {
       "username": "Moohoodles",
       "title": "🪐 Astrobiology & Space news! ✨ !subtember (Games later, WoW Forever or NMS?!)",
       "game": "Science & Technology",
       "started_at": "2026-09-22T01:25:18Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "Monday Night Wardoggin'! Flying Helos and More! 9/21/26",
+      "game": "WARDOGS",
+      "started_at": "2026-09-21T17:59:46Z"
     },
     {
       "username": "SciAnts_Streams",
