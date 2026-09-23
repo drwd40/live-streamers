@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-23T01:13:40.662Z",
+  "timestamp": "2026-09-23T01:35:29.113Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,34 +14,10 @@
       "started_at": "2026-09-22T16:49:00Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "🌎🦏 WORLD RHINO DAY 🦏🌏 Discussing the prehistoric past, imperiled present and hopeful(?) future of rhinos (w/ paleontologist Danny Anduza",
-      "game": "Science & Technology",
-      "started_at": "2026-09-22T20:12:55Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "TRUMP THREATENS TO \"ANNIHILATE\" IRAN | KAMALA & EL-SAYED HOST EVENT TOGETHER",
       "game": "Just Chatting",
       "started_at": "2026-09-22T21:59:51Z"
-    },
-    {
-      "username": "AstroCanuck",
-      "title": "Live Astrophotography: Backyard Telescope with Galaxies and Nebulae - !subtember T3 Minifigure | !upgrade !mobile !swole",
-      "game": "Science & Technology",
-      "started_at": "2026-09-23T00:02:20Z"
-    },
-    {
-      "username": "Zachap",
-      "title": "labor movement > whatever else",
-      "game": "Just Chatting",
-      "started_at": "2026-09-22T10:02:11Z"
-    },
-    {
-      "username": "SciAnts_Streams",
-      "title": "[Charity Event] Fred Hutch Cancer Research Center | Control 2 Launch Day! [✅DROPS✅] | Partner+ 224/300 | !ppp !yt !pod !jj !fredhutch",
-      "game": "CONTROL Resonant",
-      "started_at": "2026-09-23T01:00:14Z"
     },
     {
       "username": "SharkG33k",
@@ -50,10 +26,28 @@
       "started_at": "2026-09-23T00:00:25Z"
     },
     {
+      "username": "SciAnts_Streams",
+      "title": "[Charity Event] Fred Hutch Cancer Research Center | Control 2 Launch Day! [✅DROPS✅] | Partner+ 224/300 | !ppp !yt !pod !jj !fredhutch",
+      "game": "CONTROL Resonant",
+      "started_at": "2026-09-23T01:00:14Z"
+    },
+    {
+      "username": "AstroCanuck",
+      "title": "Live Astrophotography: Backyard Telescope with Galaxies and Nebulae - !subtember T3 Minifigure | !upgrade !mobile !swole",
+      "game": "Science & Technology",
+      "started_at": "2026-09-23T00:02:20Z"
+    },
+    {
       "username": "Nerduino",
       "title": "Space News.  Radio signals detected from exoplanet!  Chat with a PhD astronomer! #NASA #science #space #scientist",
       "game": "Science & Technology",
       "started_at": "2026-09-23T00:49:52Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "labor movement > whatever else",
+      "game": "Just Chatting",
+      "started_at": "2026-09-22T10:02:11Z"
     },
     {
       "username": "Mr_Aejis",
@@ -62,16 +56,16 @@
       "started_at": "2026-09-23T00:31:34Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "Math Homework Help | Middle + High School",
-      "game": "Just Chatting",
-      "started_at": "2026-09-22T23:15:34Z"
-    },
-    {
       "username": "nSimplexPachinko",
       "title": "New Game dropped: RIVAGE ! First Playthrough - 20260922",
       "game": "Rivage",
       "started_at": "2026-09-22T20:57:40Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "K-12 Tuesday. Frederick Winslow Taylor. Palytoxins in medicine, and what the price of diesel is going to do to food.",
+      "game": "Science & Technology",
+      "started_at": "2026-09-23T01:30:12Z"
     }
   ]
 }
