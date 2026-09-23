@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-23T19:42:10.569Z",
+  "timestamp": "2026-09-23T19:48:27.287Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -15,7 +15,7 @@
     },
     {
       "username": "DrawCuriosity",
-      "title": "✈️ Exciting Science News (Fat Bear Week 2/6)+ art/programming later! (1000 bits = 1 embarassing diary entry) ✨🐏!tier2 !tier3",
+      "title": "✈️ Exciting Science News (3 ADHD SUBTYPES!)+ art/programming later! (1000 bits = 1 embarassing diary entry) ✨🐏!tier2 !tier3",
       "game": "Science & Technology",
       "started_at": "2026-09-23T16:47:44Z"
     },
@@ -26,16 +26,16 @@
       "started_at": "2026-09-23T10:03:20Z"
     },
     {
-      "username": "pencenter",
-      "title": "Linear Algebra & Midterm Creation [!fish🎣|!commands💻]",
-      "game": "Math",
-      "started_at": "2026-09-23T17:55:51Z"
-    },
-    {
       "username": "Stephen_Wolfram",
       "title": "History of Science and Technology Q&A (September 23, 2026)",
       "game": "Science & Technology",
       "started_at": "2026-09-23T19:38:23Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "Linear Algebra & Midterm Creation [!fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-09-23T17:55:51Z"
     },
     {
       "username": "DonFactorial",
