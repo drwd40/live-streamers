@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-23T20:45:21.033Z",
+  "timestamp": "2026-09-23T20:50:58.787Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-09-23T20:02:13Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "History of Science and Technology Q&A (September 23, 2026)",
-      "game": "Science & Technology",
-      "started_at": "2026-09-23T19:38:23Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "Work beckons (day 108½)",
       "game": "Software and Game Development",
       "started_at": "2026-09-23T19:52:45Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "History of Science and Technology Q&A (September 23, 2026)",
+      "game": "Science & Technology",
+      "started_at": "2026-09-23T19:38:23Z"
     },
     {
       "username": "DrawCuriosity",
