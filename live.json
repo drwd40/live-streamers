@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-23T19:48:27.287Z",
+  "timestamp": "2026-09-23T19:54:04.422Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-09-23T16:02:35Z"
     },
     {
-      "username": "DrawCuriosity",
-      "title": "✈️ Exciting Science News (3 ADHD SUBTYPES!)+ art/programming later! (1000 bits = 1 embarassing diary entry) ✨🐏!tier2 !tier3",
-      "game": "Science & Technology",
-      "started_at": "2026-09-23T16:47:44Z"
-    },
-    {
       "username": "Zachap",
       "title": "everyday educational stream",
       "game": "Just Chatting",
       "started_at": "2026-09-23T10:03:20Z"
+    },
+    {
+      "username": "DrawCuriosity",
+      "title": "✈️ Exciting Science News (3 ADHD SUBTYPES!)+ art/programming later! (1000 bits = 1 embarassing diary entry) ✨🐏!tier2 !tier3",
+      "game": "Science & Technology",
+      "started_at": "2026-09-23T16:47:44Z"
     },
     {
       "username": "Stephen_Wolfram",
@@ -42,6 +42,12 @@
       "title": "It's not about the size of the ghost...",
       "game": "Little Ghost",
       "started_at": "2026-09-23T19:24:20Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Work beckons (day 108½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-09-23T19:52:45Z"
     }
   ]
 }
