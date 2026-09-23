@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-23T00:08:52.714Z",
+  "timestamp": "2026-09-23T00:54:57.139Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -9,8 +9,8 @@
     },
     {
       "username": "EJ_SA",
-      "title": "EJ's Space and Rocket Revue! 9/22/26",
-      "game": "Science & Technology",
+      "title": "TACTICOOL WARAWDOGGIN! EJSA After Hours! 9/22/26",
+      "game": "WARDOGS",
       "started_at": "2026-09-22T16:49:00Z"
     },
     {
@@ -26,28 +26,16 @@
       "started_at": "2026-09-22T21:59:51Z"
     },
     {
-      "username": "shnaff",
-      "title": "Chill guitar, piano, and singing in !stereo🎧!SUBtember",
-      "game": "Music",
-      "started_at": "2026-09-22T22:01:29Z"
-    },
-    {
-      "username": "Zachap",
-      "title": "labor movement > whatever else",
-      "game": "Just Chatting",
-      "started_at": "2026-09-22T10:02:11Z"
-    },
-    {
       "username": "AstroCanuck",
       "title": "Live Astrophotography: Backyard Telescope with Galaxies and Nebulae - !subtember T3 Minifigure | !upgrade !mobile !swole",
       "game": "Science & Technology",
       "started_at": "2026-09-23T00:02:20Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "New Game dropped: RIVAGE ! First Playthrough - 20260922",
-      "game": "Rivage",
-      "started_at": "2026-09-22T20:57:40Z"
+      "username": "Zachap",
+      "title": "labor movement > whatever else",
+      "game": "Just Chatting",
+      "started_at": "2026-09-22T10:02:11Z"
     },
     {
       "username": "SharkG33k",
@@ -60,6 +48,24 @@
       "title": "Math Homework Help | Middle + High School",
       "game": "Just Chatting",
       "started_at": "2026-09-22T23:15:34Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "New Game dropped: RIVAGE ! First Playthrough - 20260922",
+      "game": "Rivage",
+      "started_at": "2026-09-22T20:57:40Z"
+    },
+    {
+      "username": "Mr_Aejis",
+      "title": "[VTeachU] Teacher Reacts: Persona 5 - First-time playthrough",
+      "game": "Persona 5 Royal",
+      "started_at": "2026-09-23T00:31:34Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Space News.  Radio signals detected from exoplanet!  Chat with a PhD astronomer! #NASA #science #space #scientist",
+      "game": "Science & Technology",
+      "started_at": "2026-09-23T00:49:52Z"
     }
   ]
 }
