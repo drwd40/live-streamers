@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-23T20:20:11.377Z",
+  "timestamp": "2026-09-23T20:30:28.741Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,6 +20,12 @@
       "started_at": "2026-09-23T20:02:13Z"
     },
     {
+      "username": "AdamLearnsLive",
+      "title": "Work beckons (day 108½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-09-23T19:52:45Z"
+    },
+    {
       "username": "DrawCuriosity",
       "title": "✈️ Exciting Science News (3 ADHD SUBTYPES!)+ art/programming later! (1000 bits = 1 embarassing diary entry) ✨🐏!tier2 !tier3",
       "game": "Science & Technology",
@@ -30,12 +36,6 @@
       "title": "everyday educational stream",
       "game": "Just Chatting",
       "started_at": "2026-09-23T10:03:20Z"
-    },
-    {
-      "username": "AdamLearnsLive",
-      "title": "Work beckons (day 108½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-09-23T19:52:45Z"
     },
     {
       "username": "Stephen_Wolfram",
