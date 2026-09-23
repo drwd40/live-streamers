@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-23T12:58:35.491Z",
+  "timestamp": "2026-09-23T13:18:18.306Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -16,8 +16,14 @@
     {
       "username": "Nerduino",
       "title": "Coffee With Nerduino - Space and Science Chat with a PhD astronomer! #NASA #science #space #scientist",
-      "game": "No Man's Sky",
+      "game": "Science & Technology",
       "started_at": "2026-09-23T12:54:43Z"
+    },
+    {
+      "username": "leioslabs",
+      "title": "Research stream. LEGGO!",
+      "game": "Science & Technology",
+      "started_at": "2026-09-23T13:03:48Z"
     }
   ]
 }
