@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-23T21:43:26.472Z",
+  "timestamp": "2026-09-23T21:49:34.239Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,16 +38,16 @@
       "started_at": "2026-09-23T10:03:20Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "It's not about the size of the ghost...",
-      "game": "Little Ghost",
-      "started_at": "2026-09-23T19:24:20Z"
-    },
-    {
       "username": "nSimplexPachinko",
       "title": "Min/Max Problems with Constraints; Cracking the GRE Math Subject Test, Night 050 - 20260923",
       "game": "Math",
       "started_at": "2026-09-23T21:12:30Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "It's not about the size of the ghost...",
+      "game": "Little Ghost",
+      "started_at": "2026-09-23T19:24:20Z"
     }
   ]
 }
