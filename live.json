@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-23T00:54:57.139Z",
+  "timestamp": "2026-09-23T01:13:40.662Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,10 +38,28 @@
       "started_at": "2026-09-22T10:02:11Z"
     },
     {
+      "username": "SciAnts_Streams",
+      "title": "[Charity Event] Fred Hutch Cancer Research Center | Control 2 Launch Day! [✅DROPS✅] | Partner+ 224/300 | !ppp !yt !pod !jj !fredhutch",
+      "game": "CONTROL Resonant",
+      "started_at": "2026-09-23T01:00:14Z"
+    },
+    {
       "username": "SharkG33k",
       "title": "[18+] Interview with Shark Week Cinematographer Andy Casagrande!  | 25% Off Subs! | Redeems Disabled | !GWS",
       "game": "Science & Technology",
       "started_at": "2026-09-23T00:00:25Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Space News.  Radio signals detected from exoplanet!  Chat with a PhD astronomer! #NASA #science #space #scientist",
+      "game": "Science & Technology",
+      "started_at": "2026-09-23T00:49:52Z"
+    },
+    {
+      "username": "Mr_Aejis",
+      "title": "[VTeachU] Teacher Reacts: Persona 5 - First-time playthrough",
+      "game": "Persona 5 Royal",
+      "started_at": "2026-09-23T00:31:34Z"
     },
     {
       "username": "ActualEducation",
@@ -54,18 +72,6 @@
       "title": "New Game dropped: RIVAGE ! First Playthrough - 20260922",
       "game": "Rivage",
       "started_at": "2026-09-22T20:57:40Z"
-    },
-    {
-      "username": "Mr_Aejis",
-      "title": "[VTeachU] Teacher Reacts: Persona 5 - First-time playthrough",
-      "game": "Persona 5 Royal",
-      "started_at": "2026-09-23T00:31:34Z"
-    },
-    {
-      "username": "Nerduino",
-      "title": "Space News.  Radio signals detected from exoplanet!  Chat with a PhD astronomer! #NASA #science #space #scientist",
-      "game": "Science & Technology",
-      "started_at": "2026-09-23T00:49:52Z"
     }
   ]
 }
