@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-23T16:44:54.924Z",
+  "timestamp": "2026-09-23T16:51:27.087Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "everyday educational stream",
       "game": "Just Chatting",
       "started_at": "2026-09-23T10:03:20Z"
+    },
+    {
+      "username": "DrawCuriosity",
+      "title": "✈️ Exciting Science News + art/programming/gaming later! (1000 bits = 1 embarassing diary entry) ✨🐏!tier2 !tier3",
+      "game": "Science & Technology",
+      "started_at": "2026-09-23T16:47:44Z"
     }
   ]
 }
