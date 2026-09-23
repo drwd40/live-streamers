@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-23T20:30:28.741Z",
+  "timestamp": "2026-09-23T20:39:43.106Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,6 +20,12 @@
       "started_at": "2026-09-23T20:02:13Z"
     },
     {
+      "username": "Stephen_Wolfram",
+      "title": "History of Science and Technology Q&A (September 23, 2026)",
+      "game": "Science & Technology",
+      "started_at": "2026-09-23T19:38:23Z"
+    },
+    {
       "username": "AdamLearnsLive",
       "title": "Work beckons (day 108½)",
       "game": "Software and Game Development",
@@ -36,18 +42,6 @@
       "title": "everyday educational stream",
       "game": "Just Chatting",
       "started_at": "2026-09-23T10:03:20Z"
-    },
-    {
-      "username": "Stephen_Wolfram",
-      "title": "History of Science and Technology Q&A (September 23, 2026)",
-      "game": "Science & Technology",
-      "started_at": "2026-09-23T19:38:23Z"
-    },
-    {
-      "username": "pencenter",
-      "title": "Linear Algebra & Midterm Creation [!fish🎣|!commands💻]",
-      "game": "Math",
-      "started_at": "2026-09-23T17:55:51Z"
     },
     {
       "username": "DonFactorial",
