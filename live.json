@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-23T14:17:12.833Z",
+  "timestamp": "2026-09-23T14:31:40.527Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-09-22T13:31:43Z"
     },
     {
-      "username": "Nerduino",
-      "title": "Coffee With Nerduino - Space and Science Chat with a PhD astronomer! #NASA #science #space #scientist",
-      "game": "Science & Technology",
-      "started_at": "2026-09-23T12:54:43Z"
-    },
-    {
       "username": "Zachap",
       "title": "everyday educational stream",
       "game": "Just Chatting",
       "started_at": "2026-09-23T10:03:20Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Coffee With Nerduino - Space and Science Chat with a PhD astronomer! #NASA #science #space #scientist",
+      "game": "Science & Technology",
+      "started_at": "2026-09-23T12:54:43Z"
     },
     {
       "username": "leioslabs",
