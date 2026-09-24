@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-24T20:32:33.244Z",
+  "timestamp": "2026-09-24T20:42:34.206Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-09-24T16:27:41Z"
     },
     {
-      "username": "Zachap",
-      "title": "universal basic hempcrete statues",
-      "game": "Just Chatting",
-      "started_at": "2026-09-24T10:02:05Z"
-    },
-    {
       "username": "DrMick",
       "title": "Mental Health Chat + Painting 40k",
       "game": "Miniatures & Models",
       "started_at": "2026-09-24T19:27:37Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "universal basic hempcrete statues",
+      "game": "Just Chatting",
+      "started_at": "2026-09-24T10:02:05Z"
     },
     {
       "username": "oh_bother",
@@ -54,6 +54,12 @@
       "title": "Electricity, Magnetism, and Math/Ed/CS Chatting Time, or Something Like That",
       "game": "Science & Technology",
       "started_at": "2026-09-24T20:17:01Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Discussing what's next: Combined Precalculus 01; Collab w/ @kittiesplease - 20260924",
+      "game": "Math",
+      "started_at": "2026-09-24T20:32:55Z"
     }
   ]
 }
