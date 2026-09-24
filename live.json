@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-24T23:32:22.661Z",
+  "timestamp": "2026-09-24T23:39:53.725Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -44,16 +44,16 @@
       "started_at": "2026-09-24T22:55:06Z"
     },
     {
-      "username": "professor_ashley",
-      "title": "Gameplay analysis",
-      "game": "lily's world XD",
-      "started_at": "2026-09-24T21:02:50Z"
-    },
-    {
       "username": "DonFactorial",
       "title": "Answering your math questions and studying probability",
       "game": "Math",
       "started_at": "2026-09-24T19:52:42Z"
+    },
+    {
+      "username": "professor_ashley",
+      "title": "Gameplay analysis",
+      "game": "lily's world XD",
+      "started_at": "2026-09-24T21:02:50Z"
     },
     {
       "username": "MelissaInDeNile",
