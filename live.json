@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-24T19:41:57.747Z",
+  "timestamp": "2026-09-24T19:48:29.943Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-09-24T10:02:05Z"
     },
     {
-      "username": "oh_bother",
-      "title": "Fixing the princess mic then making funny noises till my compressor explodes.",
-      "game": "Science & Technology",
-      "started_at": "2026-09-24T16:36:14Z"
-    },
-    {
       "username": "DrMick",
       "title": "Mental Health Chat + Painting 40k",
       "game": "Miniatures & Models",
       "started_at": "2026-09-24T19:27:37Z"
+    },
+    {
+      "username": "oh_bother",
+      "title": "Fixing the princess mic then making funny noises till my compressor explodes.",
+      "game": "Science & Technology",
+      "started_at": "2026-09-24T16:36:14Z"
     }
   ]
 }
