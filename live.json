@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-24T17:39:24.202Z",
+  "timestamp": "2026-09-24T17:44:41.798Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,12 +12,6 @@
       "title": "DUCK STAMP JUDGING DAY!!!!! are we in or out!?!!",
       "game": "Art",
       "started_at": "2026-09-24T14:35:34Z"
-    },
-    {
-      "username": "AdamLearnsLive",
-      "title": "Making ear worms 🪱 (lol) (day 109)",
-      "game": "Software and Game Development",
-      "started_at": "2026-09-24T15:20:17Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -36,6 +30,12 @@
       "title": "Fixing the princess mic then making funny noises till my compressor explodes.",
       "game": "Science & Technology",
       "started_at": "2026-09-24T16:36:14Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Making ear worms 🪱 (lol) (day 109)",
+      "game": "Software and Game Development",
+      "started_at": "2026-09-24T15:20:17Z"
     }
   ]
 }
