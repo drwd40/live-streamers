@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-24T01:53:43.556Z",
+  "timestamp": "2026-09-24T02:01:18.293Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,16 @@
       "started_at": "2026-09-24T01:03:00Z"
     },
     {
-      "username": "Ask_a_Scientist_Gaming",
-      "title": "Dr. Mike Ormsbee–Sport Sciences/Nutrition and Tetris.",
-      "game": "Science & Technology",
-      "started_at": "2026-09-23T23:57:12Z"
-    },
-    {
       "username": "SharkG33k",
       "title": "Wreck dive with tiger sharks in 360° | !GWS",
       "game": "Science & Technology",
       "started_at": "2026-09-24T00:20:13Z"
+    },
+    {
+      "username": "Ask_a_Scientist_Gaming",
+      "title": "Dr. Mike Ormsbee–Sport Sciences/Nutrition and Tetris.",
+      "game": "Science & Technology",
+      "started_at": "2026-09-23T23:57:12Z"
     },
     {
       "username": "nogre0",
