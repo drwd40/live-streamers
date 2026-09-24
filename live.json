@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-24T19:59:44.475Z",
+  "timestamp": "2026-09-24T20:21:06.141Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "DUCK STAMP JUDGING DAY WE MADE IT TO ROUND TWOOOOOO!!!!",
       "game": "Art",
       "started_at": "2026-09-24T14:35:34Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "🥳🎂 BIRTHDAY STREAM 🎂🎈 Celebrating Danny's B-day and preparing for Utah fieldwork streams next week ⛏ (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-09-24T19:58:22Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -44,10 +50,10 @@
       "started_at": "2026-09-24T19:52:42Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "🥳🎂 BIRTHDAY STREAM 🎂🎈 Celebrating Danny's B-day and preparing for Utah fieldwork streams next week ⛏ (w/ paleontologist Danny Anduza)",
+      "username": "eToThe2iPi",
+      "title": "Electricity, Magnetism, and Math/Ed/CS Chatting Time, or Something Like That",
       "game": "Science & Technology",
-      "started_at": "2026-09-24T19:58:22Z"
+      "started_at": "2026-09-24T20:17:01Z"
     }
   ]
 }
