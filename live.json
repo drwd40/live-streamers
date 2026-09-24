@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-09-23T23:59:55.991Z",
+  "timestamp": "2026-09-24T00:52:10.387Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-09-22T13:31:43Z"
-    },
-    {
-      "username": "JapanesePrintmaking",
-      "title": "Making Japanese woodblock prints ... live while you watch ...",
-      "game": "Makers & Crafting",
-      "started_at": "2026-09-23T22:59:56Z"
     },
     {
       "username": "EJ_SA",
@@ -32,28 +26,22 @@
       "started_at": "2026-09-23T20:02:13Z"
     },
     {
-      "username": "Zachap",
-      "title": "everyday educational stream",
-      "game": "Just Chatting",
-      "started_at": "2026-09-23T10:03:20Z"
-    },
-    {
-      "username": "nSimplexPachinko",
-      "title": "Min/Max Problems with Constraints; Cracking the GRE Math Subject Test, Night 050 - 20260923",
-      "game": "Math",
-      "started_at": "2026-09-23T21:12:30Z"
-    },
-    {
-      "username": "ActualEducation",
-      "title": "Physics & Chemistry Homework Help | Middle + High School",
-      "game": "Just Chatting",
-      "started_at": "2026-09-23T23:00:35Z"
-    },
-    {
       "username": "Ask_a_Scientist_Gaming",
       "title": "Dr. Mike Ormsbee–Sport Sciences/Nutrition and Duck Hunt.",
       "game": "Science & Technology",
       "started_at": "2026-09-23T23:57:12Z"
+    },
+    {
+      "username": "nogre0",
+      "title": "what is the sound of clapping?",
+      "game": "Just Chatting",
+      "started_at": "2026-09-24T00:00:03Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Wreck dive with tiger sharks in 360° | !GWS",
+      "game": "Science & Technology",
+      "started_at": "2026-09-24T00:20:13Z"
     }
   ]
 }
