@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-24T20:54:48.822Z",
+  "timestamp": "2026-09-24T21:00:56.139Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,16 @@
       "started_at": "2026-09-24T19:27:37Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and studying probability",
-      "game": "Math",
-      "started_at": "2026-09-24T19:52:42Z"
-    },
-    {
       "username": "eToThe2iPi",
       "title": "Electricity, Magnetism, and Math/Ed/CS Chatting Time, or Something Like That",
       "game": "Science & Technology",
       "started_at": "2026-09-24T20:17:01Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and studying probability",
+      "game": "Math",
+      "started_at": "2026-09-24T19:52:42Z"
     },
     {
       "username": "nSimplexPachinko",
