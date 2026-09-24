@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-24T21:27:40.515Z",
+  "timestamp": "2026-09-24T21:35:32.694Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -54,6 +54,12 @@
       "title": "Discussing what's next: Combined Precalculus 01; Collab w/ @kittiesplease - 20260924",
       "game": "Math",
       "started_at": "2026-09-24T20:32:55Z"
+    },
+    {
+      "username": "SETIInstitute",
+      "title": "A Rocky World With an Atmosphere | SETI Live",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2026-09-24T21:32:17Z"
     }
   ]
 }
