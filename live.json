@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-24T00:52:10.387Z",
+  "timestamp": "2026-09-24T01:13:06.262Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -9,8 +9,8 @@
     },
     {
       "username": "EJ_SA",
-      "title": "EJ's Space and Rocket Revue! 9/23/26",
-      "game": "Science & Technology",
+      "title": "WEDNESDAY WARDOGGIN'! EJSA After Hours! 9/23/26",
+      "game": "WARDOGS",
       "started_at": "2026-09-23T16:02:35Z"
     },
     {
@@ -20,10 +20,10 @@
       "started_at": "2026-09-23T23:03:49Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "💥 NEW DINOSAUR 🆕🦖 Welcome Kayrasaurus 🎂 BIRTHDAY STREAM TOMORROW ⛏ Utah fieldwork streams next week (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-09-23T20:02:13Z"
+      "username": "SciAnts_Streams",
+      "title": "[Charity Event Finale] Fred Hutch Cancer Research Center | Control 2 Launch Day! [✅DROPS✅] | Partner+ 242/300 | !ppp !yt !pod !jj !fredhutch",
+      "game": "CONTROL Resonant",
+      "started_at": "2026-09-24T01:03:00Z"
     },
     {
       "username": "Ask_a_Scientist_Gaming",
@@ -32,16 +32,16 @@
       "started_at": "2026-09-23T23:57:12Z"
     },
     {
-      "username": "nogre0",
-      "title": "what is the sound of clapping?",
-      "game": "Just Chatting",
-      "started_at": "2026-09-24T00:00:03Z"
-    },
-    {
       "username": "SharkG33k",
       "title": "Wreck dive with tiger sharks in 360° | !GWS",
       "game": "Science & Technology",
       "started_at": "2026-09-24T00:20:13Z"
+    },
+    {
+      "username": "nogre0",
+      "title": "what is the sound of clapping?",
+      "game": "Just Chatting",
+      "started_at": "2026-09-24T00:00:03Z"
     }
   ]
 }
