@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-24T21:52:34.109Z",
+  "timestamp": "2026-09-24T21:58:09.030Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -44,16 +44,16 @@
       "started_at": "2026-09-24T21:02:50Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "Discussing what's next: Combined Precalculus 01; Collab w/ @kittiesplease - 20260924",
-      "game": "Math",
-      "started_at": "2026-09-24T20:32:55Z"
-    },
-    {
       "username": "SETIInstitute",
       "title": "A Rocky World With an Atmosphere | SETI Live",
       "game": "Talk Shows & Podcasts",
       "started_at": "2026-09-24T21:32:17Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Discussing what's next: Combined Precalculus 01; Collab w/ @kittiesplease - 20260924",
+      "game": "Math",
+      "started_at": "2026-09-24T20:32:55Z"
     }
   ]
 }
