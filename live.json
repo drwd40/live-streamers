@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-24T01:13:06.262Z",
+  "timestamp": "2026-09-24T01:35:27.185Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,6 +20,12 @@
       "started_at": "2026-09-23T23:03:49Z"
     },
     {
+      "username": "Moohoodles",
+      "title": "🪐 Astrobiology & Space news ✨  !subtember",
+      "game": "Science & Technology",
+      "started_at": "2026-09-24T01:14:14Z"
+    },
+    {
       "username": "SciAnts_Streams",
       "title": "[Charity Event Finale] Fred Hutch Cancer Research Center | Control 2 Launch Day! [✅DROPS✅] | Partner+ 242/300 | !ppp !yt !pod !jj !fredhutch",
       "game": "CONTROL Resonant",
@@ -27,7 +33,7 @@
     },
     {
       "username": "Ask_a_Scientist_Gaming",
-      "title": "Dr. Mike Ormsbee–Sport Sciences/Nutrition and Duck Hunt.",
+      "title": "Dr. Mike Ormsbee–Sport Sciences/Nutrition and Tetris.",
       "game": "Science & Technology",
       "started_at": "2026-09-23T23:57:12Z"
     },
@@ -42,6 +48,12 @@
       "title": "what is the sound of clapping?",
       "game": "Just Chatting",
       "started_at": "2026-09-24T00:00:03Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "How smart is my turtle? Miro needs better shapes. The environmental effects of making silk.",
+      "game": "Science & Technology",
+      "started_at": "2026-09-24T01:29:45Z"
     }
   ]
 }
