@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-24T23:16:41.330Z",
+  "timestamp": "2026-09-24T23:25:58.610Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -44,12 +44,6 @@
       "started_at": "2026-09-24T22:51:12Z"
     },
     {
-      "username": "professor_ashley",
-      "title": "Gameplay analysis",
-      "game": "lily's world XD",
-      "started_at": "2026-09-24T21:02:50Z"
-    },
-    {
       "username": "SharkG33k",
       "title": "Interview with shark conservationist and filmmaker Jim Abernethy! | !GWS",
       "game": "Science & Technology",
@@ -60,6 +54,12 @@
       "title": "Answering your math questions and studying probability",
       "game": "Math",
       "started_at": "2026-09-24T19:52:42Z"
+    },
+    {
+      "username": "professor_ashley",
+      "title": "Gameplay analysis",
+      "game": "lily's world XD",
+      "started_at": "2026-09-24T21:02:50Z"
     },
     {
       "username": "nSimplexPachinko",
