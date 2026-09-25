@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-25T16:06:36.248Z",
+  "timestamp": "2026-09-25T16:26:04.599Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,12 @@
       "title": "universal basic educational stream",
       "game": "Just Chatting",
       "started_at": "2026-09-25T10:02:15Z"
+    },
+    {
+      "username": "oh_bother",
+      "title": "Building a line input module for my DIY eurorack setup!",
+      "game": "Science & Technology",
+      "started_at": "2026-09-25T16:19:56Z"
     }
   ]
 }
