@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-26T16:59:22.776Z",
+  "timestamp": "2026-09-26T17:15:36.234Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,12 @@
       "title": "Math/Ed Open Q&A: Bring Your Questions -- Coding Challenge Later!",
       "game": "Math",
       "started_at": "2026-09-26T15:08:26Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Programming competition vs @etothe2ipi and @phobosdream Math after",
+      "game": "Math",
+      "started_at": "2026-09-26T17:02:13Z"
     }
   ]
 }
