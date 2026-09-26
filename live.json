@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-26T21:19:49.367Z",
+  "timestamp": "2026-09-26T21:28:49.564Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-09-26T19:02:10Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and studying Probability (maybe)",
-      "game": "Math",
-      "started_at": "2026-09-26T17:02:13Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Simple Saturday Soldering - Electronics - Troubleshooting - Synthesizer",
       "game": "Science & Technology",
       "started_at": "2026-09-26T19:45:03Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and studying Probability (maybe)",
+      "game": "Math",
+      "started_at": "2026-09-26T17:02:13Z"
     }
   ]
 }
