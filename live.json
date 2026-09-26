@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-26T10:39:52.672Z",
+  "timestamp": "2026-09-26T10:45:25.863Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "universal basic property",
       "game": "Just Chatting",
       "started_at": "2026-09-26T10:01:22Z"
+    },
+    {
+      "username": "TinyToxicTofu",
+      "title": "Tricorder Project, Entropy Demonstration Project, Magnetic Spring Sensor Project and Resident Evil Requiem!🐀 !phd !cnc",
+      "game": "Science & Technology",
+      "started_at": "2026-09-26T10:40:52Z"
     }
   ]
 }
