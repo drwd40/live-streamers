@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-27T19:40:44.149Z",
+  "timestamp": "2026-09-27T19:46:30.529Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "Bruships 261: Modern Navy & Naval History Questions Answered Live...",
       "game": "Just Chatting",
       "started_at": "2026-09-27T18:34:31Z"
+    },
+    {
+      "username": "ArchitectureTV",
+      "title": "Brutalist University Campus Architecture",
+      "game": "IRL",
+      "started_at": "2026-09-27T19:45:13Z"
     }
   ]
 }
