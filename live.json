@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-27T19:46:30.529Z",
+  "timestamp": "2026-09-27T19:52:05.200Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-09-27T16:14:58Z"
     },
     {
-      "username": "DrAlexanderClarke",
-      "title": "Bruships 261: Modern Navy & Naval History Questions Answered Live...",
-      "game": "Just Chatting",
-      "started_at": "2026-09-27T18:34:31Z"
-    },
-    {
       "username": "ArchitectureTV",
       "title": "Brutalist University Campus Architecture",
       "game": "IRL",
       "started_at": "2026-09-27T19:45:13Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "Bruships 261: Modern Navy & Naval History Questions Answered Live...",
+      "game": "Just Chatting",
+      "started_at": "2026-09-27T18:34:31Z"
     }
   ]
 }
