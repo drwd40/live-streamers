@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-27T03:56:14.472Z",
+  "timestamp": "2026-09-27T04:08:33.518Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-09-27T01:02:28Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Simple Saturday Soldering - Electronics - Troubleshooting - Synthesizer",
-      "game": "Science & Technology",
-      "started_at": "2026-09-26T19:45:03Z"
-    },
-    {
       "username": "SharkG33k",
       "title": "SHARKATHON! | Celebrating 2K Followers! | !subathon",
       "game": "Science & Technology",
       "started_at": "2026-09-27T00:48:22Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Simple Saturday Soldering - Electronics - Troubleshooting - Synthesizer",
+      "game": "Science & Technology",
+      "started_at": "2026-09-26T19:45:03Z"
     }
   ]
 }
