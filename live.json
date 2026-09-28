@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-28T16:17:24.438Z",
+  "timestamp": "2026-09-28T16:35:05.114Z",
   "live": [
     {
       "username": "Maya",
@@ -8,16 +8,16 @@
       "started_at": "2026-09-28T15:33:55Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "EJ'S STARSHIP FLIGHT 14 MISSION COVERAGE! 9/28/26",
-      "game": "Science & Technology",
-      "started_at": "2026-09-28T10:06:50Z"
-    },
-    {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-09-28T13:31:49Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "EJ'S STARSHIP FLIGHT 14 MISSION COVERAGE! 9/28/26",
+      "game": "Science & Technology",
+      "started_at": "2026-09-28T10:06:50Z"
     },
     {
       "username": "AdamLearnsLive",
