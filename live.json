@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-28T11:55:53.055Z",
+  "timestamp": "2026-09-28T12:09:30.564Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,6 +14,12 @@
       "started_at": "2026-09-28T10:06:50Z"
     },
     {
+      "username": "Nerduino",
+      "title": "Starship Flight 14 Launch Watch Party  Bonus Gift Subs!!!  PhD astronomer! #NASA #science #space #scientist",
+      "game": "Science & Technology",
+      "started_at": "2026-09-28T11:54:35Z"
+    },
+    {
       "username": "AstroCanuck",
       "title": "Live SpaceX Starship Orbital Test Flight - Bonus Subs & !Badge, !Continental Countdown - !subtember T3 Minifigure | !upgrade !mobile !swole",
       "game": "Science & Technology",
@@ -24,12 +30,6 @@
       "title": "ask about it",
       "game": "Just Chatting",
       "started_at": "2026-09-28T10:03:36Z"
-    },
-    {
-      "username": "Nerduino",
-      "title": "Starship Flight 14 Launch Watch Party  Bonus Gift Subs!!!  PhD astronomer! #NASA #science #space #scientist",
-      "game": "Science & Technology",
-      "started_at": "2026-09-28T11:54:35Z"
     }
   ]
 }
