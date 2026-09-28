@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-28T22:57:26.796Z",
+  "timestamp": "2026-09-28T23:12:25.783Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,12 +20,6 @@
       "started_at": "2026-09-28T10:03:36Z"
     },
     {
-      "username": "DrawCuriosity",
-      "title": "✈️ 5 gift subs = 1 poem (give me 3 words) // 10 gift subs - poem with smol sketch (1000 bits = 1 embarrassing diary entry) ✨🐏!tier2 !tier3",
-      "game": "Writing & Reading",
-      "started_at": "2026-09-28T20:29:27Z"
-    },
-    {
       "username": "nSimplexPachinko",
       "title": "Working on finding zeroes and verifying with Synthetic Division; Combined Precalculus 02; Collab w/ @kittiesplease",
       "game": "Math",
@@ -36,6 +30,12 @@
       "title": "Hardcore... Let's get @timoted to 60! ZF tonight! @alecksanda @alphabytemusic • Subathon on hold!",
       "game": "World of Warcraft",
       "started_at": "2026-09-28T18:02:37Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-09-28T22:59:30Z"
     }
   ]
 }
