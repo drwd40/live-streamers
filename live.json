@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-28T10:59:21.975Z",
+  "timestamp": "2026-09-28T11:19:16.323Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,12 @@
       "title": "ask about it",
       "game": "Just Chatting",
       "started_at": "2026-09-28T10:03:36Z"
+    },
+    {
+      "username": "AstroCanuck",
+      "title": "Live SpaceX Starship Orbital Test Flight - Bonus Subs & !Badge, !Continental Countdown - !subtember T3 Minifigure | !upgrade !mobile !swole",
+      "game": "Science & Technology",
+      "started_at": "2026-09-28T11:00:46Z"
     }
   ]
 }
