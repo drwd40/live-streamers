@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-28T15:12:01.513Z",
+  "timestamp": "2026-09-28T15:28:08.776Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -36,6 +36,12 @@
       "title": "🍀 Only a few days of Jern Jam left!! !jj | !rop !patreon !discord",
       "game": "Software and Game Development",
       "started_at": "2026-09-28T14:39:19Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Minigolf with lots of colors (day 110)",
+      "game": "Software and Game Development",
+      "started_at": "2026-09-28T15:22:48Z"
     }
   ]
 }
