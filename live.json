@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-09-28T22:09:06.321Z",
+  "timestamp": "2026-09-28T22:23:00.773Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-09-28T13:31:49Z"
-    },
-    {
-      "username": "EJ_SA",
-      "title": "EJ's Space and Rocket Revue! 9/28/26",
-      "game": "Science & Technology",
-      "started_at": "2026-09-28T19:01:29Z"
     },
     {
       "username": "AdamLearnsLive",
@@ -38,16 +32,16 @@
       "started_at": "2026-09-28T20:29:27Z"
     },
     {
-      "username": "Andilippi",
-      "title": "Hardcore... Let's get @timoted to 60! ZF tonight! @alecksanda @alphabytemusic • Subathon on hold!",
-      "game": "World of Warcraft",
-      "started_at": "2026-09-28T18:02:37Z"
-    },
-    {
       "username": "nSimplexPachinko",
       "title": "Working on finding zeroes and verifying with Synthetic Division; Combined Precalculus 02; Collab w/ @kittiesplease",
       "game": "Math",
       "started_at": "2026-09-28T20:39:12Z"
+    },
+    {
+      "username": "Andilippi",
+      "title": "Hardcore... Let's get @timoted to 60! ZF tonight! @alecksanda @alphabytemusic • Subathon on hold!",
+      "game": "World of Warcraft",
+      "started_at": "2026-09-28T18:02:37Z"
     }
   ]
 }
