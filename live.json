@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-28T16:35:05.114Z",
+  "timestamp": "2026-09-28T16:46:41.923Z",
   "live": [
     {
       "username": "Maya",
@@ -20,16 +20,16 @@
       "started_at": "2026-09-28T10:06:50Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Minigolf with lots of colors (day 110)",
-      "game": "Software and Game Development",
-      "started_at": "2026-09-28T15:22:48Z"
-    },
-    {
       "username": "Zachap",
       "title": "ask about it",
       "game": "Just Chatting",
       "started_at": "2026-09-28T10:03:36Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Minigolf with lots of colors (day 110)",
+      "game": "Software and Game Development",
+      "started_at": "2026-09-28T15:22:48Z"
     }
   ]
 }
