@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-29T22:52:33.536Z",
+  "timestamp": "2026-09-29T22:58:40.653Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-09-29T21:49:58Z"
     },
     {
-      "username": "Zachap",
-      "title": "g'day",
-      "game": "Just Chatting",
-      "started_at": "2026-09-29T10:02:47Z"
-    },
-    {
       "username": "shnaff",
       "title": "Chill guitar, piano, and singing in !stereo🎧!SUBtember",
       "game": "Music",
       "started_at": "2026-09-29T22:03:32Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "g'day",
+      "game": "Just Chatting",
+      "started_at": "2026-09-29T10:02:47Z"
     },
     {
       "username": "SydHeresy",
