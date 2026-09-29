@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-29T21:58:41.188Z",
+  "timestamp": "2026-09-29T22:18:44.504Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -44,16 +44,22 @@
       "started_at": "2026-09-29T18:51:01Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "Trying the Garage's Probe Puzzle again; Loops 14-? ; Rivage 03 - 20260929",
-      "game": "Rivage",
-      "started_at": "2026-09-29T21:27:22Z"
-    },
-    {
       "username": "MelissaInDeNile",
       "title": "HAPPY 6 YEAR ANNIVERSARY of Melissa in De Nile Part 2!! LAST LECTURE OF SEASON 4!! ~ Follower Goal: 2455/2600 ~ !socials !beyonddenile",
       "game": "Just Chatting",
       "started_at": "2026-09-29T21:50:26Z"
+    },
+    {
+      "username": "shnaff",
+      "title": "Chill guitar, piano, and singing in !stereo🎧!SUBtember",
+      "game": "Music",
+      "started_at": "2026-09-29T22:03:32Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Trying the Garage's Probe Puzzle again; Loops 14-? ; Rivage 03 - 20260929",
+      "game": "Rivage",
+      "started_at": "2026-09-29T21:27:22Z"
     }
   ]
 }
