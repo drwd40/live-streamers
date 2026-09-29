@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-29T19:56:56.614Z",
+  "timestamp": "2026-09-29T20:11:47.189Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,22 +20,16 @@
       "started_at": "2026-09-29T17:07:24Z"
     },
     {
-      "username": "oh_bother",
-      "title": "Glue! Trying out a cheap glue dispenser to help me build SMD.",
-      "game": "Science & Technology",
-      "started_at": "2026-09-29T16:37:59Z"
-    },
-    {
       "username": "Zachap",
       "title": "g'day",
       "game": "Just Chatting",
       "started_at": "2026-09-29T10:02:47Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Papa Was A Soldering Stone - Electronics - Synthesizers - Chill",
-      "game": "Just Chatting",
-      "started_at": "2026-09-29T19:01:11Z"
+      "username": "oh_bother",
+      "title": "Glue! Trying out a cheap glue dispenser to help me build SMD.",
+      "game": "Science & Technology",
+      "started_at": "2026-09-29T16:37:59Z"
     },
     {
       "username": "DonFactorial",
@@ -44,10 +38,22 @@
       "started_at": "2026-09-29T18:51:01Z"
     },
     {
+      "username": "SydHeresy",
+      "title": "Papa Was A Soldering Stone - Electronics - Synthesizers - Chill",
+      "game": "Just Chatting",
+      "started_at": "2026-09-29T19:01:11Z"
+    },
+    {
       "username": "vul100",
       "title": "Tuesday September 29th @2:30pm EDT:  Jack Binns above the Arctic Circle.",
       "game": "Science & Technology",
       "started_at": "2026-09-29T18:31:22Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "UTAH DINOSAUR DIG ⛏️🦕 Day 1 🦴🪏 Excavating the world's largest armored dinosaur bonebed w/ USU Eastern's Prehistoric Museum",
+      "game": "IRL",
+      "started_at": "2026-09-29T20:07:22Z"
     },
     {
       "username": "xTalkProgrammer",
