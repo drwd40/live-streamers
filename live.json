@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-29T23:41:44.777Z",
+  "timestamp": "2026-09-29T23:47:43.579Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,28 +8,22 @@
       "started_at": "2026-09-28T13:31:49Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "TUESDAY WARDOGGIN WITH VIEWERS! 9/29/26",
-      "game": "WARDOGS",
-      "started_at": "2026-09-29T17:07:24Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "JACK SMITH EMBARRASSES GOP SENATORS | TROY JACKSON POSTING CRINGE | CLEVELAND CANVASSING",
       "game": "Just Chatting",
       "started_at": "2026-09-29T21:49:58Z"
     },
     {
+      "username": "EJ_SA",
+      "title": "TUESDAY WARDOGGIN WITH VIEWERS! 9/29/26",
+      "game": "WARDOGS",
+      "started_at": "2026-09-29T17:07:24Z"
+    },
+    {
       "username": "MelissaInDeNile",
       "title": "HAPPY 6 YEAR ANNIVERSARY of Melissa in De Nile Part 2!! LAST LECTURE OF SEASON 4!! ~ Follower Goal: 2455/2600 ~ !socials !beyonddenile",
       "game": "Just Chatting",
       "started_at": "2026-09-29T21:50:26Z"
-    },
-    {
-      "username": "shnaff",
-      "title": "Chill guitar, piano, and singing in !stereo🎧!SUBtember",
-      "game": "Music",
-      "started_at": "2026-09-29T22:03:32Z"
     },
     {
       "username": "AstroCanuck",
@@ -50,16 +44,22 @@
       "started_at": "2026-09-29T19:01:11Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "Math Homework Help | Middle + High School - Office Hours",
-      "game": "Just Chatting",
-      "started_at": "2026-09-29T23:03:27Z"
+      "username": "shnaff",
+      "title": "Chill guitar, piano, and singing in !stereo🎧!SUBtember",
+      "game": "Music",
+      "started_at": "2026-09-29T22:03:32Z"
     },
     {
       "username": "nSimplexPachinko",
       "title": "Trying the Garage's Probe Puzzle again; Loops 14-? ; Rivage 03 - 20260929",
       "game": "Rivage",
       "started_at": "2026-09-29T21:27:22Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "Math Homework Help | Middle + High School - Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-09-29T23:03:27Z"
     }
   ]
 }
