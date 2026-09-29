@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-29T23:34:28.294Z",
+  "timestamp": "2026-09-29T23:41:44.777Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,6 +32,12 @@
       "started_at": "2026-09-29T22:03:32Z"
     },
     {
+      "username": "AstroCanuck",
+      "title": "Astro's Po'Pourri: LEGO Batman - Bonus Subs & !Badge, !Continental Countdown - !subtember T3 Minifigure | !upgrade !mobile !swole",
+      "game": "Lego & Brickbuilding",
+      "started_at": "2026-09-29T23:03:52Z"
+    },
+    {
       "username": "Zachap",
       "title": "g'day",
       "game": "Just Chatting",
@@ -42,12 +48,6 @@
       "title": "Papa Was A Soldering Stone - Electronics - Synthesizers - Chill",
       "game": "Science & Technology",
       "started_at": "2026-09-29T19:01:11Z"
-    },
-    {
-      "username": "AstroCanuck",
-      "title": "Astro's Po'Pourri: LEGO Batman - Bonus Subs & !Badge, !Continental Countdown - !subtember T3 Minifigure | !upgrade !mobile !swole",
-      "game": "Lego & Brickbuilding",
-      "started_at": "2026-09-29T23:03:52Z"
     },
     {
       "username": "ActualEducation",
