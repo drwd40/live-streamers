@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-09-29T18:57:57.890Z",
+  "timestamp": "2026-09-29T19:12:52.865Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Care Chats | !alveus !institute !pixel !schedule !video",
-      "game": "Just Chatting",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
+      "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-09-28T13:31:49Z"
     },
     {
@@ -32,16 +32,22 @@
       "started_at": "2026-09-29T10:02:47Z"
     },
     {
-      "username": "vul100",
-      "title": "Tuesday September 29th @2:30pm EDT:  Jack Binns above the Arctic Circle.",
-      "game": "Science & Technology",
-      "started_at": "2026-09-29T18:31:22Z"
-    },
-    {
       "username": "DonFactorial",
       "title": "Answering your math questions and studying Probability",
       "game": "Math",
       "started_at": "2026-09-29T18:51:01Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Papa Was A Soldering Stone - Electronics - Synthesizers - Chill",
+      "game": "Just Chatting",
+      "started_at": "2026-09-29T19:01:11Z"
+    },
+    {
+      "username": "vul100",
+      "title": "Tuesday September 29th @2:30pm EDT:  Jack Binns above the Arctic Circle.",
+      "game": "Science & Technology",
+      "started_at": "2026-09-29T18:31:22Z"
     }
   ]
 }
