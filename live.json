@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-29T19:12:52.865Z",
+  "timestamp": "2026-09-29T19:26:12.172Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,16 @@
       "started_at": "2026-09-29T10:02:47Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and studying Probability",
-      "game": "Math",
-      "started_at": "2026-09-29T18:51:01Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Papa Was A Soldering Stone - Electronics - Synthesizers - Chill",
       "game": "Just Chatting",
       "started_at": "2026-09-29T19:01:11Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and studying Probability",
+      "game": "Math",
+      "started_at": "2026-09-29T18:51:01Z"
     },
     {
       "username": "vul100",
