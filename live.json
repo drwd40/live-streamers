@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-29T22:58:40.653Z",
+  "timestamp": "2026-09-29T23:15:04.140Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,10 +26,10 @@
       "started_at": "2026-09-29T21:49:58Z"
     },
     {
-      "username": "shnaff",
-      "title": "Chill guitar, piano, and singing in !stereo🎧!SUBtember",
-      "game": "Music",
-      "started_at": "2026-09-29T22:03:32Z"
+      "username": "SydHeresy",
+      "title": "Papa Was A Soldering Stone - Electronics - Synthesizers - Chill",
+      "game": "Science & Technology",
+      "started_at": "2026-09-29T19:01:11Z"
     },
     {
       "username": "Zachap",
@@ -38,10 +38,16 @@
       "started_at": "2026-09-29T10:02:47Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Papa Was A Soldering Stone - Electronics - Synthesizers - Chill",
-      "game": "Science & Technology",
-      "started_at": "2026-09-29T19:01:11Z"
+      "username": "shnaff",
+      "title": "Chill guitar, piano, and singing in !stereo🎧!SUBtember",
+      "game": "Music",
+      "started_at": "2026-09-29T22:03:32Z"
+    },
+    {
+      "username": "AstroCanuck",
+      "title": "Astro's Po'Pourri: LEGO Batman - Bonus Subs & !Badge, !Continental Countdown - !subtember T3 Minifigure | !upgrade !mobile !swole",
+      "game": "Lego & Brickbuilding",
+      "started_at": "2026-09-29T23:03:52Z"
     },
     {
       "username": "MelissaInDeNile",
@@ -50,16 +56,16 @@
       "started_at": "2026-09-29T21:50:26Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and studying Probability",
-      "game": "Math",
-      "started_at": "2026-09-29T18:51:01Z"
-    },
-    {
       "username": "nSimplexPachinko",
       "title": "Trying the Garage's Probe Puzzle again; Loops 14-? ; Rivage 03 - 20260929",
       "game": "Rivage",
       "started_at": "2026-09-29T21:27:22Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "Math Homework Help | Middle + High School - Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-09-29T23:03:27Z"
     }
   ]
 }
