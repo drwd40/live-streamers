@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-29T18:50:26.835Z",
+  "timestamp": "2026-09-29T18:57:57.890Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-09-28T13:31:49Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "WE GOT THE SHUTTLE BACK! NOW WHAT? SLC-6 (PART 22) 9/29/26",
-      "game": "Kerbal Space Program",
-      "started_at": "2026-09-29T17:07:24Z"
-    },
-    {
       "username": "ipaintbirbs",
       "title": "Duck Stamp recap and a bird in a powersuit!!!!",
       "game": "Art",
       "started_at": "2026-09-29T16:05:31Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "WE GOT THE SHUTTLE BACK! NOW WHAT? SLC-6 (PART 22) 9/29/26",
+      "game": "Kerbal Space Program",
+      "started_at": "2026-09-29T17:07:24Z"
     },
     {
       "username": "oh_bother",
@@ -36,6 +36,12 @@
       "title": "Tuesday September 29th @2:30pm EDT:  Jack Binns above the Arctic Circle.",
       "game": "Science & Technology",
       "started_at": "2026-09-29T18:31:22Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and studying Probability",
+      "game": "Math",
+      "started_at": "2026-09-29T18:51:01Z"
     }
   ]
 }
