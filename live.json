@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-29T18:17:09.277Z",
+  "timestamp": "2026-09-29T18:38:01.814Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "g'day",
       "game": "Just Chatting",
       "started_at": "2026-09-29T10:02:47Z"
+    },
+    {
+      "username": "vul100",
+      "title": "Tuesday September 29th @2:30pm EDT:  Jack Binns above the Arctic Circle.",
+      "game": "Science & Technology",
+      "started_at": "2026-09-29T18:31:22Z"
     }
   ]
 }
