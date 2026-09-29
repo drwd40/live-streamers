@@ -1,11 +1,17 @@
 {
-  "timestamp": "2026-09-29T15:58:56.982Z",
+  "timestamp": "2026-09-29T16:23:16.151Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Chandler Power Hour | !alveus !institute !pixel !schedule !video",
-      "game": "Just Chatting",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
+      "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-09-28T13:31:49Z"
+    },
+    {
+      "username": "ipaintbirbs",
+      "title": "Duck Stamp recap and a bird in a powersuit!!!!",
+      "game": "Art",
+      "started_at": "2026-09-29T16:05:31Z"
     },
     {
       "username": "Zachap",
@@ -18,12 +24,6 @@
       "title": "Let's ALL do sucky tasks! 💪 (day 111)",
       "game": "Software and Game Development",
       "started_at": "2026-09-29T15:40:59Z"
-    },
-    {
-      "username": "Andilippi",
-      "title": "Chop chop, bizee bizee • Subathon on hold!",
-      "game": "Just Chatting",
-      "started_at": "2026-09-29T12:45:05Z"
     }
   ]
 }
