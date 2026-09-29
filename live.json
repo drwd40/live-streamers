@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-29T13:23:44.055Z",
+  "timestamp": "2026-09-29T13:37:55.330Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-09-29T10:02:47Z"
     },
     {
-      "username": "leioslabs",
-      "title": "Research stream. LEGGO!",
-      "game": "Science & Technology",
-      "started_at": "2026-09-29T12:07:31Z"
-    },
-    {
       "username": "Andilippi",
       "title": "Chop chop, bizee bizee • Subathon on hold!",
       "game": "Just Chatting",
       "started_at": "2026-09-29T12:45:05Z"
+    },
+    {
+      "username": "leioslabs",
+      "title": "Research stream. LEGGO!",
+      "game": "Science & Technology",
+      "started_at": "2026-09-29T12:07:31Z"
     }
   ]
 }
