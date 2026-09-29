@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-29T20:55:46.381Z",
+  "timestamp": "2026-09-29T21:04:25.520Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,22 +32,16 @@
       "started_at": "2026-09-29T10:02:47Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Papa Was A Soldering Stone - Electronics - Synthesizers - Chill",
-      "game": "Science & Technology",
-      "started_at": "2026-09-29T19:01:11Z"
-    },
-    {
       "username": "DonFactorial",
       "title": "Answering your math questions and studying Probability",
       "game": "Math",
       "started_at": "2026-09-29T18:51:01Z"
     },
     {
-      "username": "xTalkProgrammer",
-      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
-      "game": "Just Chatting",
-      "started_at": "2026-09-29T19:40:15Z"
+      "username": "SydHeresy",
+      "title": "Papa Was A Soldering Stone - Electronics - Synthesizers - Chill",
+      "game": "Science & Technology",
+      "started_at": "2026-09-29T19:01:11Z"
     }
   ]
 }
