@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-29T23:26:27.362Z",
+  "timestamp": "2026-09-29T23:34:28.294Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,12 +32,6 @@
       "started_at": "2026-09-29T22:03:32Z"
     },
     {
-      "username": "AstroCanuck",
-      "title": "Astro's Po'Pourri: LEGO Batman - Bonus Subs & !Badge, !Continental Countdown - !subtember T3 Minifigure | !upgrade !mobile !swole",
-      "game": "Lego & Brickbuilding",
-      "started_at": "2026-09-29T23:03:52Z"
-    },
-    {
       "username": "Zachap",
       "title": "g'day",
       "game": "Just Chatting",
@@ -50,16 +44,22 @@
       "started_at": "2026-09-29T19:01:11Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "Trying the Garage's Probe Puzzle again; Loops 14-? ; Rivage 03 - 20260929",
-      "game": "Rivage",
-      "started_at": "2026-09-29T21:27:22Z"
+      "username": "AstroCanuck",
+      "title": "Astro's Po'Pourri: LEGO Batman - Bonus Subs & !Badge, !Continental Countdown - !subtember T3 Minifigure | !upgrade !mobile !swole",
+      "game": "Lego & Brickbuilding",
+      "started_at": "2026-09-29T23:03:52Z"
     },
     {
       "username": "ActualEducation",
       "title": "Math Homework Help | Middle + High School - Office Hours",
       "game": "Just Chatting",
       "started_at": "2026-09-29T23:03:27Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Trying the Garage's Probe Puzzle again; Loops 14-? ; Rivage 03 - 20260929",
+      "game": "Rivage",
+      "started_at": "2026-09-29T21:27:22Z"
     }
   ]
 }
