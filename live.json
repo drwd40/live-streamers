@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-29T21:21:11.922Z",
+  "timestamp": "2026-09-29T21:31:25.882Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -42,6 +42,12 @@
       "title": "Answering your math questions and studying Probability",
       "game": "Math",
       "started_at": "2026-09-29T18:51:01Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Trying the Garage's Probe Puzzle again; Loops 11-? ; Rivage 03 - 20260929",
+      "game": "Rivage",
+      "started_at": "2026-09-29T21:27:22Z"
     }
   ]
 }
