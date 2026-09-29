@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-29T16:37:23.548Z",
+  "timestamp": "2026-09-29T16:49:14.454Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "g'day",
       "game": "Just Chatting",
       "started_at": "2026-09-29T10:02:47Z"
+    },
+    {
+      "username": "oh_bother",
+      "title": "Glue! Trying out a cheap glue dispenser to help me build SMD.",
+      "game": "Science & Technology",
+      "started_at": "2026-09-29T16:37:59Z"
     }
   ]
 }
