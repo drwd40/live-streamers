@@ -1,6 +1,12 @@
 {
-  "timestamp": "2026-09-30T00:58:10.250Z",
+  "timestamp": "2026-09-30T01:34:35.890Z",
   "live": [
+    {
+      "username": "Maya",
+      "title": "book me for ur funeral",
+      "game": "Just Chatting",
+      "started_at": "2026-09-30T01:21:32Z"
+    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
@@ -20,10 +26,22 @@
       "started_at": "2026-09-29T23:03:52Z"
     },
     {
+      "username": "SciAnts_Streams",
+      "title": "Tinker Tuesday [✅DROPS✅] | Genetic Tinkering in Witcher 3 Remaster! | 5 subs = bonus subs! | Partner+ 332/300 | !ppp !yt !pod !jj",
+      "game": "The Witcher 3: Wild Hunt Remastered",
+      "started_at": "2026-09-30T01:00:23Z"
+    },
+    {
       "username": "MelissaInDeNile",
       "title": "HAPPY 6 YEAR ANNIVERSARY of Melissa in De Nile Part 2!! LAST LECTURE OF SEASON 4!! ~ Follower Goal: 2455/2600 ~ !socials !beyonddenile",
       "game": "Just Chatting",
       "started_at": "2026-09-29T21:50:26Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "g'day",
+      "game": "Just Chatting",
+      "started_at": "2026-09-29T10:02:47Z"
     },
     {
       "username": "SydHeresy",
@@ -32,10 +50,10 @@
       "started_at": "2026-09-29T19:01:11Z"
     },
     {
-      "username": "Zachap",
-      "title": "g'day",
-      "game": "Just Chatting",
-      "started_at": "2026-09-29T10:02:47Z"
+      "username": "Nerduino",
+      "title": "Space News.  Astronomy!  Bonus Gift Subs!!!  PhD astronomer! #NASA #science #space #scientist",
+      "game": "Science & Technology",
+      "started_at": "2026-09-30T00:52:03Z"
     },
     {
       "username": "SharkG33k",
@@ -50,10 +68,10 @@
       "started_at": "2026-09-29T21:27:22Z"
     },
     {
-      "username": "Nerduino",
-      "title": "Space News.  Astronomy!  Bonus Gift Subs!!!  PhD astronomer! #NASA #science #space #scientist",
+      "username": "walkingsticklibrary",
+      "title": "K-12 Tuesday: Indigo snakes as pets. Who is Will Marshall? Great Salt Lake is drying up!",
       "game": "Science & Technology",
-      "started_at": "2026-09-30T00:52:03Z"
+      "started_at": "2026-09-30T01:31:19Z"
     }
   ]
 }
