@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-30T19:47:18.484Z",
+  "timestamp": "2026-09-30T19:52:52.620Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,16 @@
       "started_at": "2026-09-30T19:36:51Z"
     },
     {
-      "username": "DrAlexanderClarke",
-      "title": "William Adams - the English Samurai from the 17th Century... whose memorial I stumbled into!",
-      "game": "Just Chatting",
-      "started_at": "2026-09-30T19:01:09Z"
-    },
-    {
       "username": "Stephen_Wolfram",
       "title": "What’s the Future for Pure Math Research in the Age of AI?",
       "game": "Science & Technology",
       "started_at": "2026-09-30T19:44:23Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "William Adams - the English Samurai from the 17th Century... whose memorial I stumbled into!",
+      "game": "Just Chatting",
+      "started_at": "2026-09-30T19:01:09Z"
     }
   ]
 }
