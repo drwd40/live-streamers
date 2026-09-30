@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-09-30T18:57:10.525Z",
+  "timestamp": "2026-09-30T19:10:57.482Z",
   "live": [
-    {
-      "username": "AlveusSanctuary",
-      "title": "Walking through our future wolf enclosures w/ @Maya @Kayla_Alveus @theconnorobrien | !alveus !institute !pixel !schedule !video",
-      "game": "Just Chatting",
-      "started_at": "2026-09-30T13:31:52Z"
-    },
     {
       "username": "Kitboga",
       "title": "Scammers vs 20 Factor Auth / Infinite Captchas \\ Unskippable Ads [Ep. 1552]",
       "game": "Just Chatting",
       "started_at": "2026-09-30T16:08:54Z"
+    },
+    {
+      "username": "AlveusSanctuary",
+      "title": "Walking through our future wolf enclosures w/ @Maya @Kayla_Alveus @theconnorobrien | !alveus !institute !pixel !schedule !video",
+      "game": "Just Chatting",
+      "started_at": "2026-09-30T13:31:52Z"
     },
     {
       "username": "EJ_SA",
@@ -33,9 +33,15 @@
     },
     {
       "username": "DrawCuriosity",
-      "title": "✈️ [sponsor later!!] 5 gift subs = 1 poem // 10 gift subs - poem with sketch // 20 gift subs = custom art-tober art prompt ✨🐏!tier2 !tier3",
-      "game": "Art",
+      "title": "✈️ BUG DOCTOR TRIES DELTA FORCE EXTRACTION SHOOTER FOR THE FIRST TIME!  ✨🐏!tier2 !tier3",
+      "game": "Delta Force",
       "started_at": "2026-09-30T14:48:29Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "William Adams - the English Samurai from the 17th Century... whose memorial I stumbled into!",
+      "game": "Just Chatting",
+      "started_at": "2026-09-30T19:01:09Z"
     }
   ]
 }
