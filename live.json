@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-30T05:53:55.694Z",
+  "timestamp": "2026-09-30T05:59:23.863Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-09-30T01:00:23Z"
     },
     {
-      "username": "walkingsticklibrary",
-      "title": "K-12 Tuesday: Indigo snakes as pets. Who is Will Marshall? Great Salt Lake is drying up!",
-      "game": "Science & Technology",
-      "started_at": "2026-09-30T01:31:19Z"
-    },
-    {
       "username": "DrMick",
       "title": "Heels vs Kamikazees",
       "game": "Sports",
       "started_at": "2026-09-30T05:49:07Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "K-12 Tuesday: Indigo snakes as pets. Who is Will Marshall? Great Salt Lake is drying up!",
+      "game": "Science & Technology",
+      "started_at": "2026-09-30T01:31:19Z"
     }
   ]
 }
