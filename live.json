@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-30T11:55:36.456Z",
+  "timestamp": "2026-09-30T12:07:06.215Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "life is wild",
       "game": "Just Chatting",
       "started_at": "2026-09-30T10:03:11Z"
+    },
+    {
+      "username": "leioslabs",
+      "title": "Research stream. LEGGO!",
+      "game": "Science & Technology",
+      "started_at": "2026-09-30T12:01:43Z"
     }
   ]
 }
