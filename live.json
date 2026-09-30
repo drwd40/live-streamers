@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-30T15:21:34.087Z",
+  "timestamp": "2026-09-30T15:35:25.741Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-09-30T10:03:11Z"
     },
     {
-      "username": "Nerduino",
-      "title": "Coffee with Nerduino.  Science Chat.  Bonus Gift Subs!!!  PhD astronomer! #NASA #science #space #scientist",
-      "game": "Science & Technology",
-      "started_at": "2026-09-30T12:56:39Z"
-    },
-    {
       "username": "DrawCuriosity",
       "title": "✈️ [sponsor later!!] 5 gift subs = 1 poem // 10 gift subs - poem with sketch // 20 gift subs = custom art-tober art prompt ✨🐏!tier2 !tier3",
       "game": "Art",
       "started_at": "2026-09-30T14:48:29Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Music composition... ON A WEDNESDAY?! (day 112)",
+      "game": "Software and Game Development",
+      "started_at": "2026-09-30T15:25:15Z"
     }
   ]
 }
