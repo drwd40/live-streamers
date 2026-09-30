@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-30T20:43:29.779Z",
+  "timestamp": "2026-09-30T20:50:12.825Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-09-30T19:53:36Z"
     },
     {
-      "username": "DrawCuriosity",
-      "title": "✈️ 5 gift subs = 1 poem // 10 gift subs - poem with sketch // 20 gift subs = custom art-tober art prompt ✨🐏!tier2 !tier3",
-      "game": "Art",
-      "started_at": "2026-09-30T14:48:29Z"
-    },
-    {
       "username": "Stephen_Wolfram",
       "title": "What’s the Future for Pure Math Research in the Age of AI?",
       "game": "Science & Technology",
       "started_at": "2026-09-30T19:44:23Z"
+    },
+    {
+      "username": "DrawCuriosity",
+      "title": "✈️ 5 gift subs = 1 poem // 10 gift subs - poem with sketch // 20 gift subs = custom art-tober art prompt ✨🐏!tier2 !tier3",
+      "game": "Art",
+      "started_at": "2026-09-30T14:48:29Z"
     },
     {
       "username": "AdamLearnsLive",
@@ -32,16 +32,16 @@
       "started_at": "2026-09-30T19:36:51Z"
     },
     {
-      "username": "DrAlexanderClarke",
-      "title": "William Adams - the English Samurai from the 17th Century... whose memorial I stumbled into!",
-      "game": "Just Chatting",
-      "started_at": "2026-09-30T19:01:09Z"
-    },
-    {
       "username": "nSimplexPachinko",
       "title": "Factoring Polynomials; Combined Precalculus 03; Collab w/ @kittiesplease - 20260930",
       "game": "Math",
       "started_at": "2026-09-30T20:41:45Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "William Adams - the English Samurai from the 17th Century... whose memorial I stumbled into!",
+      "game": "Just Chatting",
+      "started_at": "2026-09-30T19:01:09Z"
     }
   ]
 }
