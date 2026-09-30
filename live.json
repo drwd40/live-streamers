@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-30T13:00:17.991Z",
+  "timestamp": "2026-09-30T13:23:28.765Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-09-30T10:03:11Z"
     },
     {
-      "username": "leioslabs",
-      "title": "Research stream. LEGGO!",
-      "game": "Science & Technology",
-      "started_at": "2026-09-30T12:01:43Z"
-    },
-    {
       "username": "Nerduino",
       "title": "Coffee with Nerduino.  Science Chat.  Bonus Gift Subs!!!  PhD astronomer! #NASA #science #space #scientist",
       "game": "Science & Technology",
       "started_at": "2026-09-30T12:56:39Z"
+    },
+    {
+      "username": "leioslabs",
+      "title": "Research stream. LEGGO!",
+      "game": "Science & Technology",
+      "started_at": "2026-09-30T12:01:43Z"
     }
   ]
 }
