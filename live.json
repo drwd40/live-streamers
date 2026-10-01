@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-01T18:46:30.634Z",
+  "timestamp": "2026-10-01T18:55:28.639Z",
   "live": [
     {
       "username": "Kitboga",
@@ -38,16 +38,22 @@
       "started_at": "2026-10-01T16:26:35Z"
     },
     {
+      "username": "eToThe2iPi",
+      "title": "Electricity & Magnetism! Math/Ed Q&A! Other Chatting!",
+      "game": "Math",
+      "started_at": "2026-10-01T18:01:25Z"
+    },
+    {
       "username": "Rocketology",
       "title": "2 Weeks to 1.0",
       "game": "Enshrouded",
       "started_at": "2026-10-01T17:13:44Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Electricity & Magnetism! Math/Ed Q&A! Other Chatting!",
-      "game": "Math",
-      "started_at": "2026-10-01T18:01:25Z"
+      "username": "happyknightmares",
+      "title": "Come watch a ninja turtle apply for funding!! 🥷🐢📝💰👩‍🎓",
+      "game": "Co-working & Studying",
+      "started_at": "2026-10-01T18:48:26Z"
     }
   ]
 }
