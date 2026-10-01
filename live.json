@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-01T02:39:57.013Z",
+  "timestamp": "2026-10-01T02:58:16.122Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,16 @@
       "started_at": "2026-10-01T01:00:15Z"
     },
     {
-      "username": "nogre0",
-      "title": "cowardice and arguing trivialities",
-      "game": "Just Chatting",
-      "started_at": "2026-10-01T00:00:06Z"
-    },
-    {
       "username": "SharkG33k",
       "title": "Lemon Shark 360 Dive! | Last day of SUBtember! | !GWS | !TFT",
       "game": "Science & Technology",
       "started_at": "2026-10-01T00:04:06Z"
+    },
+    {
+      "username": "nogre0",
+      "title": "cowardice and arguing trivialities",
+      "game": "Just Chatting",
+      "started_at": "2026-10-01T00:00:06Z"
     },
     {
       "username": "walkingsticklibrary",
