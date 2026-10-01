@@ -1,12 +1,6 @@
 {
-  "timestamp": "2026-10-01T20:15:02.001Z",
+  "timestamp": "2026-10-01T20:32:31.774Z",
   "live": [
-    {
-      "username": "Kitboga",
-      "title": "Scammers vs 20 Factor Auth / Infinite Captchas \\ Unskippable Ads [Ep. 1553]",
-      "game": "Just Chatting",
-      "started_at": "2026-10-01T16:49:50Z"
-    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
@@ -20,16 +14,16 @@
       "started_at": "2026-10-01T13:08:14Z"
     },
     {
-      "username": "Zachap",
-      "title": "ask about socialism or whatever :)",
-      "game": "Just Chatting",
-      "started_at": "2026-10-01T10:03:49Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "UTAH DINOSAUR DIG ⛏️🦕 Day 3 🦴🪏 Digging up more ankylosaur bones and armor at Lorrie's Site w/ the Prehistoric Museum of Price, Utah",
       "game": "IRL",
       "started_at": "2026-10-01T20:09:40Z"
+    },
+    {
+      "username": "DrMick",
+      "title": "Mental Health Chat + Painting a Helldrake | !fundraiser",
+      "game": "Miniatures & Models",
+      "started_at": "2026-10-01T20:14:24Z"
     },
     {
       "username": "Rocketology",
@@ -42,12 +36,6 @@
       "title": "Come watch a ninja turtle apply for funding!! 🥷🐢📝💰👩‍🎓",
       "game": "Co-working & Studying",
       "started_at": "2026-10-01T18:48:26Z"
-    },
-    {
-      "username": "DrMick",
-      "title": "Mental Health Chat + Painting a Helldrake | !fundraiser",
-      "game": "Miniatures & Models",
-      "started_at": "2026-10-01T20:14:24Z"
     }
   ]
 }
