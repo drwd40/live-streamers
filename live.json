@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-01T16:51:34.786Z",
+  "timestamp": "2026-10-01T16:57:42.161Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -9,21 +9,21 @@
     },
     {
       "username": "EJ_SA",
-      "title": "EJ's Crew-13 Launch Coverage! 10/1/26",
+      "title": "EJ's Space and Falcon 9 Day Revue! 10/1/26",
       "game": "Science & Technology",
       "started_at": "2026-10-01T13:08:14Z"
-    },
-    {
-      "username": "AdamLearnsLive",
-      "title": "Music on hard mode (i.e. genres I suck at) (day 113)",
-      "game": "Software and Game Development",
-      "started_at": "2026-10-01T15:03:08Z"
     },
     {
       "username": "Kitboga",
       "title": "Scammers vs 20 Factor Auth / Infinite Captchas \\ Unskippable Ads [Ep. 1553]",
       "game": "Just Chatting",
       "started_at": "2026-10-01T16:49:50Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Music on hard mode (i.e. genres I suck at) (day 113)",
+      "game": "Software and Game Development",
+      "started_at": "2026-10-01T15:03:08Z"
     },
     {
       "username": "DrawCuriosity",
