@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-01T23:16:36.980Z",
+  "timestamp": "2026-10-01T23:27:30.475Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -50,16 +50,16 @@
       "started_at": "2026-10-01T18:48:26Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "Manors! Filling out more Nodes in The Manor; TitansGrave 018, TTRPG Planning - 20261001",
-      "game": "Tabletop RPGs",
-      "started_at": "2026-10-01T21:20:08Z"
-    },
-    {
       "username": "ActualEducation",
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Just Chatting",
       "started_at": "2026-10-01T23:15:11Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Manors! Filling out more Nodes in The Manor; TitansGrave 018, TTRPG Planning - 20261001",
+      "game": "Tabletop RPGs",
+      "started_at": "2026-10-01T21:20:08Z"
     }
   ]
 }
