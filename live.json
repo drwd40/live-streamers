@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-01T00:54:53.062Z",
+  "timestamp": "2026-10-01T01:29:06.667Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,10 +14,22 @@
       "started_at": "2026-09-30T22:01:44Z"
     },
     {
+      "username": "Moohoodles",
+      "title": "Bonus subs!🪐 Astrobiology & Space news ✨  !subtember Games later?!",
+      "game": "Science & Technology",
+      "started_at": "2026-10-01T01:04:27Z"
+    },
+    {
       "username": "AstroCanuck",
       "title": "Astro's Po'Pourri: Last Day of Bonus Subs & !Badge, !Continental Countdown - !subtember T3 Minifigure | !upgrade !mobile !swole",
       "game": "Lego & Brickbuilding",
       "started_at": "2026-09-30T23:00:14Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "Witcher Wednesday [✅DROPS✅] | Biological science in Witcher 3 | FINAL DAY 5 subs = bonus subs! | Partner+ 349/300 | !ppp !yt !pod !jj",
+      "game": "The Witcher 3: Wild Hunt Remastered",
+      "started_at": "2026-10-01T01:00:15Z"
     },
     {
       "username": "nogre0",
@@ -30,12 +42,6 @@
       "title": "Lemon Shark 360 Dive! | Last day of SUBtember! | !GWS | !TFT",
       "game": "Science & Technology",
       "started_at": "2026-10-01T00:04:06Z"
-    },
-    {
-      "username": "ActualEducation",
-      "title": "Office Hours - Physics & Chemistry Homework Help | Middle + High School",
-      "game": "Just Chatting",
-      "started_at": "2026-09-30T23:01:27Z"
     }
   ]
 }
