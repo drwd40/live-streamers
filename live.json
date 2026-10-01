@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-01T22:58:53.233Z",
+  "timestamp": "2026-10-01T23:16:36.980Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,28 +26,16 @@
       "started_at": "2026-10-01T21:49:59Z"
     },
     {
-      "username": "VolcanoDoc",
-      "title": "Severe Weather Science | Intro Earth Science Series | !phd !socials !pubs !merch",
-      "game": "Science & Technology",
-      "started_at": "2026-10-01T21:30:55Z"
-    },
-    {
       "username": "shnaff",
       "title": "Chill guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2026-10-01T22:02:38Z"
     },
     {
-      "username": "Rocketology",
-      "title": "2 Weeks to 1.0",
-      "game": "Enshrouded",
-      "started_at": "2026-10-01T17:13:44Z"
-    },
-    {
-      "username": "happyknightmares",
-      "title": "Come watch a ninja turtle apply for funding!! 🥷🐢📝💰👩‍🎓",
-      "game": "Co-working & Studying",
-      "started_at": "2026-10-01T18:48:26Z"
+      "username": "VolcanoDoc",
+      "title": "Severe Weather Science | Intro Earth Science Series | !phd !socials !pubs !merch",
+      "game": "Science & Technology",
+      "started_at": "2026-10-01T21:30:55Z"
     },
     {
       "username": "MelissaInDeNile",
@@ -56,10 +44,22 @@
       "started_at": "2026-10-01T22:50:32Z"
     },
     {
+      "username": "happyknightmares",
+      "title": "Come watch a ninja turtle apply for funding!! 🥷🐢📝💰👩‍🎓",
+      "game": "Co-working & Studying",
+      "started_at": "2026-10-01T18:48:26Z"
+    },
+    {
       "username": "nSimplexPachinko",
       "title": "Manors! Filling out more Nodes in The Manor; TitansGrave 018, TTRPG Planning - 20261001",
       "game": "Tabletop RPGs",
       "started_at": "2026-10-01T21:20:08Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-10-01T23:15:11Z"
     }
   ]
 }
