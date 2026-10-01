@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-10-01T01:29:06.667Z",
+  "timestamp": "2026-10-01T02:05:00.602Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
-      "game": "Animals, Aquariums, and Zoos",
+      "title": "Chat Chats w/ Evan | !alveus !institute !pixel !schedule !video",
+      "game": "Just Chatting",
       "started_at": "2026-09-30T13:31:52Z"
     },
     {
@@ -32,16 +32,22 @@
       "started_at": "2026-10-01T01:00:15Z"
     },
     {
+      "username": "SharkG33k",
+      "title": "Lemon Shark 360 Dive! | Last day of SUBtember! | !GWS | !TFT",
+      "game": "Science & Technology",
+      "started_at": "2026-10-01T00:04:06Z"
+    },
+    {
       "username": "nogre0",
       "title": "cowardice and arguing trivialities",
       "game": "Just Chatting",
       "started_at": "2026-10-01T00:00:06Z"
     },
     {
-      "username": "SharkG33k",
-      "title": "Lemon Shark 360 Dive! | Last day of SUBtember! | !GWS | !TFT",
+      "username": "walkingsticklibrary",
+      "title": "Metamaterials that bend light. The old orphanage on South Columbia, and Paulinella in the Times.",
       "game": "Science & Technology",
-      "started_at": "2026-10-01T00:04:06Z"
+      "started_at": "2026-10-01T01:31:47Z"
     }
   ]
 }
