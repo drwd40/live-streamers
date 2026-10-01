@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-01T18:28:22.863Z",
+  "timestamp": "2026-10-01T18:46:30.634Z",
   "live": [
     {
       "username": "Kitboga",
@@ -27,7 +27,7 @@
     },
     {
       "username": "IrishJohnGames",
-      "title": "🍀 JernJam Special Announcement! !jj | !rop !patreon !discord",
+      "title": "🍀 JernJam Special Pronouncement! !jj | !rop !patreon !discord",
       "game": "Software and Game Development",
       "started_at": "2026-10-01T17:00:26Z"
     },
@@ -48,12 +48,6 @@
       "title": "Electricity & Magnetism! Math/Ed Q&A! Other Chatting!",
       "game": "Math",
       "started_at": "2026-10-01T18:01:25Z"
-    },
-    {
-      "username": "SETIInstitute",
-      "title": "How to Tell if a Star Ate Its Planets | #SETILive",
-      "game": "Talk Shows & Podcasts",
-      "started_at": "2026-10-01T18:00:54Z"
     }
   ]
 }
