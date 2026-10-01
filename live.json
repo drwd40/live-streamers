@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-01T14:59:08.443Z",
+  "timestamp": "2026-10-01T15:20:44.376Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,12 +12,6 @@
       "title": "EJ's Crew-13 Launch Coverage! 10/1/26",
       "game": "Science & Technology",
       "started_at": "2026-10-01T13:08:14Z"
-    },
-    {
-      "username": "csharpfritz",
-      "title": "Artisinal Coding for fun an profit",
-      "game": "Software and Game Development",
-      "started_at": "2026-10-01T13:21:13Z"
     },
     {
       "username": "Zachap",
@@ -36,6 +30,12 @@
       "title": "Pop! Goes my heart! • Fireworks tomorrow?",
       "game": "Just Chatting",
       "started_at": "2026-10-01T13:26:36Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Music on hard mode (i.e. genres I suck at) (day 113)",
+      "game": "Software and Game Development",
+      "started_at": "2026-10-01T15:03:08Z"
     }
   ]
 }
