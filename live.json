@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-02T18:41:02.508Z",
+  "timestamp": "2026-10-02T18:52:15.144Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-10-02T10:03:07Z"
     },
     {
+      "username": "SharkG33k",
+      "title": "The shark metal music stream no one asked for | !GWS | !TFT",
+      "game": "Music",
+      "started_at": "2026-10-02T18:35:18Z"
+    },
+    {
       "username": "Rocketology",
       "title": "13 Days to 1.0",
       "game": "Enshrouded",
       "started_at": "2026-10-02T18:02:29Z"
-    },
-    {
-      "username": "SharkG33k",
-      "title": "Spicy Shark Interview with the Shark Docs! | !GWS | !TFT",
-      "game": "Science & Technology",
-      "started_at": "2026-10-02T18:35:18Z"
     }
   ]
 }
