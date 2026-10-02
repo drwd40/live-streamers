@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-02T23:42:49.429Z",
+  "timestamp": "2026-10-02T23:49:04.749Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "Chill guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2026-10-02T22:02:01Z"
+    },
+    {
+      "username": "DrMick",
+      "title": "Therapist Plays KCD2: Part 31 | !fundraiser",
+      "game": "Kingdom Come: Deliverance II",
+      "started_at": "2026-10-02T23:47:27Z"
     }
   ]
 }
