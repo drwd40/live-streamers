@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-01T23:56:06.745Z",
+  "timestamp": "2026-10-02T00:19:39.608Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,22 @@
       "started_at": "2026-10-01T22:02:38Z"
     },
     {
+      "username": "AstroCanuck",
+      "title": "6 Year Twitch Anniversary! LEGO Gotham Art Set - !Continental Countdown - !subtember extension T3 Minifigure | !upgrade !mobile !swole",
+      "game": "Science & Technology",
+      "started_at": "2026-10-02T00:04:29Z"
+    },
+    {
       "username": "MelissaInDeNile",
       "title": "Sailing the Caribbean with Pirates in Assassins Creed: Black Flag!!  ~ Follower Goal: 2455/2600 ~ !socials !beyonddenile",
       "game": "Assassin's Creed Black Flag Resynced",
       "started_at": "2026-10-01T22:50:32Z"
     },
     {
-      "username": "happyknightmares",
-      "title": "Come watch a ninja turtle apply for funding!! 🥷🐢📝💰👩‍🎓",
-      "game": "Co-working & Studying",
-      "started_at": "2026-10-01T18:48:26Z"
+      "username": "SharkG33k",
+      "title": "Spicy Shark Interview with the Shark Docs! | !GWS | !TFT",
+      "game": "Science & Technology",
+      "started_at": "2026-10-02T00:07:50Z"
     },
     {
       "username": "ActualEducation",
@@ -50,10 +56,10 @@
       "started_at": "2026-10-01T23:15:11Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "Manors! Filling out more Nodes in The Manor; TitansGrave 018, TTRPG Planning - 20261001",
-      "game": "Tabletop RPGs",
-      "started_at": "2026-10-01T21:20:08Z"
+      "username": "happyknightmares",
+      "title": "Come watch a ninja turtle apply for funding!! 🥷🐢📝💰👩‍🎓",
+      "game": "Co-working & Studying",
+      "started_at": "2026-10-01T18:48:26Z"
     }
   ]
 }
