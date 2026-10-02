@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-02T18:58:58.398Z",
+  "timestamp": "2026-10-02T19:16:27.826Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "13 Days to 1.0",
       "game": "Enshrouded",
       "started_at": "2026-10-02T18:02:29Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Chopping it up on Chernarus",
+      "game": "DayZ",
+      "started_at": "2026-10-02T19:11:05Z"
     }
   ]
 }
