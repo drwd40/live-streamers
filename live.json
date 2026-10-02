@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-02T17:47:59.034Z",
+  "timestamp": "2026-10-02T17:53:31.231Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "go woke or else...",
       "game": "Just Chatting",
       "started_at": "2026-10-02T10:03:07Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "I like trains and I'm playing this game for the first time... am I screwed? Transport Fever 3 (Part 1) 10/2/26",
+      "game": "Transport Fever 3",
+      "started_at": "2026-10-02T17:52:11Z"
     }
   ]
 }
