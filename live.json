@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-02T02:00:18.279Z",
+  "timestamp": "2026-10-02T02:29:56.523Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-10-01T21:49:59Z"
     },
     {
-      "username": "VolcanoDoc",
-      "title": "Severe Weather Science | Intro Earth Science Series | !phd !socials !pubs !merch",
-      "game": "Science & Technology",
-      "started_at": "2026-10-01T21:30:55Z"
-    },
-    {
       "username": "SciAnts_Streams",
       "title": "Let's design a Witcher [✅DROPS✅] | Biological science in Witcher 3 | sub = witcher badge | Partner+ 17/300 | !ppp !yt !pod !jj",
       "game": "The Witcher 3: Wild Hunt Remastered",
       "started_at": "2026-10-02T01:02:12Z"
+    },
+    {
+      "username": "VolcanoDoc",
+      "title": "Severe Weather Science | Intro Earth Science Series | !phd !socials !pubs !merch",
+      "game": "Science & Technology",
+      "started_at": "2026-10-01T21:30:55Z"
     },
     {
       "username": "AstroCanuck",
@@ -39,7 +39,7 @@
     },
     {
       "username": "Nerduino",
-      "title": "Crew 13 ISS Arrival.  Falcon 9 Launch.  Space Debris Report with a PhD astronomer! #NASA #science #space #scientist",
+      "title": "Falcon Heavy  Launch.  Space Debris Report with a PhD astronomer! #NASA #science #space #scientist",
       "game": "Science & Technology",
       "started_at": "2026-10-02T00:50:15Z"
     },
