@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-02T19:39:40.475Z",
+  "timestamp": "2026-10-02T19:46:58.516Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,22 @@
       "started_at": "2026-10-02T18:35:18Z"
     },
     {
+      "username": "DonFactorial",
+      "title": "Chopping it up on Chernarus",
+      "game": "DayZ",
+      "started_at": "2026-10-02T19:11:05Z"
+    },
+    {
       "username": "Rocketology",
       "title": "13 Days to 1.0",
       "game": "Enshrouded",
       "started_at": "2026-10-02T18:02:29Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Chopping it up on Chernarus",
-      "game": "DayZ",
-      "started_at": "2026-10-02T19:11:05Z"
+      "username": "GeoJim2006",
+      "title": "Free Friday Geologizing - All Things Sedimentary 🏔️🪨⛱️ !discord !nova !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-10-02T19:41:37Z"
     }
   ]
 }
