@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-02T18:25:53.643Z",
+  "timestamp": "2026-10-02T18:41:02.508Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,22 +14,28 @@
       "started_at": "2026-10-02T17:52:11Z"
     },
     {
-      "username": "Zachap",
-      "title": "go woke or else...",
-      "game": "Just Chatting",
-      "started_at": "2026-10-02T10:03:07Z"
-    },
-    {
       "username": "ipaintbirbs",
       "title": "last day to vote for me for da streamer awards while i paint a bird",
       "game": "Art",
       "started_at": "2026-10-02T18:19:49Z"
     },
     {
+      "username": "Zachap",
+      "title": "go woke or else...",
+      "game": "Just Chatting",
+      "started_at": "2026-10-02T10:03:07Z"
+    },
+    {
       "username": "Rocketology",
       "title": "13 Days to 1.0",
       "game": "Enshrouded",
       "started_at": "2026-10-02T18:02:29Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Spicy Shark Interview with the Shark Docs! | !GWS | !TFT",
+      "game": "Science & Technology",
+      "started_at": "2026-10-02T18:35:18Z"
     }
   ]
 }
