@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-02T20:42:49.301Z",
+  "timestamp": "2026-10-02T20:51:04.601Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,22 +14,16 @@
       "started_at": "2026-10-02T17:52:11Z"
     },
     {
-      "username": "ipaintbirbs",
-      "title": "last day to vote for me for da streamer awards while i paint a bird",
-      "game": "Art",
-      "started_at": "2026-10-02T18:19:49Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "UTAH DINOSAUR DIG 🪏🦖 Day 4 🦴⛏️ Ankylosaur bones and armor EVERYWHERE in the quarry w/ Utah State University Eastern's Prehistoric Museum",
       "game": "IRL",
       "started_at": "2026-10-02T19:52:44Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Future of Science and Technology Q&A (October 2, 2026)",
-      "game": "Science & Technology",
-      "started_at": "2026-10-02T19:49:28Z"
+      "username": "ipaintbirbs",
+      "title": "last day to vote for me for da streamer awards while i paint a bird",
+      "game": "Art",
+      "started_at": "2026-10-02T18:19:49Z"
     },
     {
       "username": "Zachap",
@@ -38,16 +32,16 @@
       "started_at": "2026-10-02T10:03:07Z"
     },
     {
+      "username": "Stephen_Wolfram",
+      "title": "Future of Science and Technology Q&A (October 2, 2026)",
+      "game": "Science & Technology",
+      "started_at": "2026-10-02T19:49:28Z"
+    },
+    {
       "username": "GeoJim2006",
       "title": "Free Friday Geologizing - All Things Sedimentary 🏔️🪨⛱️ !discord !nova !tkf",
       "game": "Science & Technology",
       "started_at": "2026-10-02T19:41:37Z"
-    },
-    {
-      "username": "Rocketology",
-      "title": "13 Days to 1.0",
-      "game": "Enshrouded",
-      "started_at": "2026-10-02T18:02:29Z"
     },
     {
       "username": "SharkG33k",
@@ -56,10 +50,22 @@
       "started_at": "2026-10-02T18:35:18Z"
     },
     {
+      "username": "Rocketology",
+      "title": "13 Days to 1.0",
+      "game": "Enshrouded",
+      "started_at": "2026-10-02T18:02:29Z"
+    },
+    {
       "username": "DonFactorial",
       "title": "Chopping it up on Chernarus",
       "game": "DayZ",
       "started_at": "2026-10-02T19:11:05Z"
+    },
+    {
+      "username": "jacksfacts",
+      "title": "Can a Evolutionary biologist beat Horsey game???",
+      "game": "Horsey Game",
+      "started_at": "2026-10-02T20:49:52Z"
     }
   ]
 }
