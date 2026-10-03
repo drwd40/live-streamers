@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-03T20:09:23.874Z",
+  "timestamp": "2026-10-03T21:12:26.969Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,34 +8,34 @@
       "started_at": "2026-10-02T14:35:06Z"
     },
     {
-      "username": "Zachap",
-      "title": "left-wing is anti-liberalism (anti-idealism), anti-private-property (anti-alienation)",
-      "game": "Just Chatting",
-      "started_at": "2026-10-03T10:00:48Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "UTAH DINOSAUR DIG 🪏🦕 Day 5 🦴🪏 Excavating more armored dinosaurs w/ the Prehistoric Museum of Utah State University Eastern",
       "game": "IRL",
       "started_at": "2026-10-03T19:56:49Z"
     },
     {
-      "username": "oh_bother",
-      "title": "Soldering up some improvised circuits, modular synth stuff!",
+      "username": "SciAnts_Streams",
+      "title": "⚔️ LOTR Science ⚔️| Shadow of Mordor + science ; thank you #ASPRY for the key! | Partner+ 32/300 | !ppp !yt !pod !jj",
+      "game": "Middle-earth: Shadow of Mordor",
+      "started_at": "2026-10-03T20:39:03Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "left-wing is anti-liberalism (anti-idealism), anti-private-property (anti-alienation)",
+      "game": "Just Chatting",
+      "started_at": "2026-10-03T10:00:48Z"
+    },
+    {
+      "username": "CosmoQuestX",
+      "title": "Astronomy Cast LIVE",
       "game": "Science & Technology",
-      "started_at": "2026-10-03T16:36:53Z"
+      "started_at": "2026-10-03T20:54:33Z"
     },
     {
       "username": "DonFactorial",
       "title": "Answering your questions and studying Probability",
       "game": "Math",
       "started_at": "2026-10-03T18:53:52Z"
-    },
-    {
-      "username": "CosmoQuestX",
-      "title": "Astronomy Cast LIVE",
-      "game": "Science & Technology",
-      "started_at": "2026-10-03T20:02:23Z"
     }
   ]
 }
