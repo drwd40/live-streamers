@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-03T01:56:22.527Z",
+  "timestamp": "2026-10-03T02:11:12.290Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,6 +20,12 @@
       "started_at": "2026-10-02T22:10:42Z"
     },
     {
+      "username": "Moohoodles",
+      "title": "🪐 Astrobiology & Space news ✨  Games later?!",
+      "game": "Science & Technology",
+      "started_at": "2026-10-03T01:49:16Z"
+    },
+    {
       "username": "AstroCanuck",
       "title": "Astro's Po'Pourri: Space news & Batman LEGO set - !Continental Countdown - !subtember extension T3 Minifigure | !upgrade !mobile !swole",
       "game": "Science & Technology",
@@ -36,12 +42,6 @@
       "title": "SciAnts News | New species, special bacteria, parasitism, circadian rhythm and more! | Partner+ 28/300 | !ppp !yt !pod !jj",
       "game": "Science & Technology",
       "started_at": "2026-10-03T01:00:51Z"
-    },
-    {
-      "username": "Moohoodles",
-      "title": "🪐 Astrobiology & Space news ✨  Games later?!",
-      "game": "Science & Technology",
-      "started_at": "2026-10-03T01:49:16Z"
     }
   ]
 }
