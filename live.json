@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-03T04:23:57.788Z",
+  "timestamp": "2026-10-03T04:39:33.147Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-10-02T14:35:06Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "FRIDAY NIGHT GTA SHENANIGANS! 10/2/26",
-      "game": "Grand Theft Auto V",
-      "started_at": "2026-10-02T17:52:11Z"
-    },
-    {
       "username": "Moohoodles",
       "title": "🪐 Astrobiology & Space news ✨  Games later?!",
       "game": "Science & Technology",
       "started_at": "2026-10-03T01:49:16Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "FRIDAY NIGHT GTA SHENANIGANS! 10/2/26",
+      "game": "Grand Theft Auto V",
+      "started_at": "2026-10-02T17:52:11Z"
     },
     {
       "username": "SciAnts_Streams",
