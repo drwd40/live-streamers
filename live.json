@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-04T17:12:51.425Z",
+  "timestamp": "2026-10-04T18:10:19.894Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-10-04T10:02:17Z"
     },
     {
-      "username": "nogre0",
-      "title": "existence and confidence",
-      "game": "Just Chatting",
-      "started_at": "2026-10-04T15:35:20Z"
-    },
-    {
       "username": "VolcanoDoc",
       "title": "🌋 research has CHOMPI'd my brain |🌋 Science Sunday | !phd !socials !pubs !merch",
       "game": "Science & Technology",
       "started_at": "2026-10-04T17:10:12Z"
+    },
+    {
+      "username": "nogre0",
+      "title": "existence and confidence",
+      "game": "Just Chatting",
+      "started_at": "2026-10-04T15:35:20Z"
     }
   ]
 }
