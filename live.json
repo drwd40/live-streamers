@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-04T20:19:54.437Z",
+  "timestamp": "2026-10-04T21:08:40.949Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,12 +14,6 @@
       "started_at": "2026-10-04T19:55:59Z"
     },
     {
-      "username": "AstroCanuck",
-      "title": "Lazy Sunday LEGO: Gothumb City Art Set (finale?) - !Continental Countdown - !subtember extension T3 Minifigure | !upgrade !mobile !swole",
-      "game": "Lego & Brickbuilding",
-      "started_at": "2026-10-04T13:57:04Z"
-    },
-    {
       "username": "Zachap",
       "title": "revolutions towards justice are always woke.",
       "game": "Just Chatting",
@@ -32,16 +26,16 @@
       "started_at": "2026-10-04T17:10:12Z"
     },
     {
-      "username": "DrAlexanderClarke",
-      "title": "Bruships 262: Naval History Questions Answered Live",
-      "game": "Just Chatting",
-      "started_at": "2026-10-04T18:40:33Z"
-    },
-    {
       "username": "Andilippi",
       "title": "Open Mic - Live from Rosie O'Learys, Chesterfield",
       "game": "Music",
       "started_at": "2026-10-04T19:10:13Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "Bruships 262: Naval History Questions Answered Live",
+      "game": "Just Chatting",
+      "started_at": "2026-10-04T18:40:33Z"
     }
   ]
 }
