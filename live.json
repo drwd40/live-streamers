@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-10-04T18:10:19.894Z",
+  "timestamp": "2026-10-04T19:20:21.712Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-10-04T14:48:25Z"
-    },
-    {
-      "username": "TinyToxicTofu",
-      "title": "Magnetic Spring Sensor Project, Studying Otto Cycle, Humidity Sensor and Resident Evil Requiem!🐀 !phd !cnc",
-      "game": "RESIDENT EVIL: requiem",
-      "started_at": "2026-10-04T12:52:03Z"
     },
     {
       "username": "AstroCanuck",
@@ -32,10 +26,16 @@
       "started_at": "2026-10-04T17:10:12Z"
     },
     {
-      "username": "nogre0",
-      "title": "existence and confidence",
+      "username": "DrAlexanderClarke",
+      "title": "Bruships 262: Naval History Questions Answered Live",
       "game": "Just Chatting",
-      "started_at": "2026-10-04T15:35:20Z"
+      "started_at": "2026-10-04T18:40:33Z"
+    },
+    {
+      "username": "Andilippi",
+      "title": "Open Mic - Live from Rosie O'Learys, Chesterfield",
+      "game": "Music",
+      "started_at": "2026-10-04T19:10:13Z"
     }
   ]
 }
