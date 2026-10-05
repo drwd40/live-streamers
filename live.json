@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-10-05T18:03:53.288Z",
+  "timestamp": "2026-10-05T18:29:50.513Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
-      "game": "Animals, Aquariums, and Zoos",
+      "title": "Animal Care Chats | !alveus !institute !pixel !schedule !video",
+      "game": "Just Chatting",
       "started_at": "2026-10-04T14:48:25Z"
     },
     {
@@ -24,6 +24,12 @@
       "title": "woke means educated.",
       "game": "Just Chatting",
       "started_at": "2026-10-05T10:02:11Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 992: Design Review of Mathematical Computation",
+      "game": "Science & Technology",
+      "started_at": "2026-10-05T18:08:11Z"
     }
   ]
 }
