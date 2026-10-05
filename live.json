@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-05T18:49:34.070Z",
+  "timestamp": "2026-10-05T18:59:31.302Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,12 +14,6 @@
       "started_at": "2026-10-05T16:09:11Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Man vs. TODO 💪 (day 115)",
-      "game": "Software and Game Development",
-      "started_at": "2026-10-05T15:27:49Z"
-    },
-    {
       "username": "Zachap",
       "title": "woke means educated.",
       "game": "Just Chatting",
@@ -30,12 +24,6 @@
       "title": "✈️ Spoopy Late Night stream  Blindly Blundering around Sevilla ✨🐏!tier2 !tier3",
       "game": "IRL",
       "started_at": "2026-10-05T18:37:30Z"
-    },
-    {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 992: Design Review of Mathematical Computation",
-      "game": "Science & Technology",
-      "started_at": "2026-10-05T18:08:11Z"
     }
   ]
 }
