@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-05T19:47:57.268Z",
+  "timestamp": "2026-10-05T20:08:52.699Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,18 @@
       "title": "✈️ Spoopy Late Night stream  Blindly Blundering around Sevilla ✨🐏!tier2 !tier3",
       "game": "IRL",
       "started_at": "2026-10-05T18:37:30Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Man vs. TODO 💪 (day 115½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-10-05T19:58:00Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Software Development on *Sixteen*: HTML/CSS/JS/Full Stack (ft. Phaser/Node.JS)",
+      "game": "Software and Game Development",
+      "started_at": "2026-10-05T20:06:13Z"
     }
   ]
 }
