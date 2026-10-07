@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-10-07T16:50:03.858Z",
+  "timestamp": "2026-10-07T17:05:59.546Z",
   "live": [
     {
       "username": "Maya",
       "title": "special collab with !planetzoo2 #ad #planetzoo2",
-      "game": "Just Chatting",
+      "game": "Planet Zoo 2",
       "started_at": "2026-10-07T15:32:51Z"
     },
     {
@@ -24,6 +24,12 @@
       "title": "definitions of words are important for communication",
       "game": "Just Chatting",
       "started_at": "2026-10-07T10:04:24Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀 Playing JernJam Entries! !jj | !rop !patreon !discord",
+      "game": "Software and Game Development",
+      "started_at": "2026-10-07T17:01:00Z"
     }
   ]
 }
