@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-07T22:09:25.837Z",
+  "timestamp": "2026-10-07T22:22:30.864Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-10-07T20:09:59Z"
     },
     {
-      "username": "IrishJohnGames",
-      "title": "🍀 Playing JernJam Entries! !jj | !rop !patreon !discord",
-      "game": "Software and Game Development",
-      "started_at": "2026-10-07T17:01:00Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "LIVE @ 8 PM EDT: IOWA SENATE DEBATE",
       "game": "Just Chatting",
       "started_at": "2026-10-07T21:50:06Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀 Playing JernJam Entries! !jj | !rop !patreon !discord",
+      "game": "Software and Game Development",
+      "started_at": "2026-10-07T17:01:00Z"
     },
     {
       "username": "AdamLearnsLive",
