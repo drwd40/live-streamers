@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-07T23:11:02.514Z",
+  "timestamp": "2026-10-07T23:23:16.948Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-10-07T18:13:41Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "Utah Dinosaur Dig Recap 🦕🦴⛏ Back home for fossil science Q&A for one day before traveling again (w/ paleontologist Danny Anduza) !schedule",
-      "game": "Science & Technology",
-      "started_at": "2026-10-07T20:09:59Z"
-    },
-    {
       "username": "JapanesePrintmaking",
       "title": "Making Japanese woodblock prints ... live while you watch ...",
       "game": "Makers & Crafting",
       "started_at": "2026-10-07T23:00:09Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "Utah Dinosaur Dig Recap 🦕🦴⛏ Back home for fossil science Q&A for one day before traveling again (w/ paleontologist Danny Anduza) !schedule",
+      "game": "Science & Technology",
+      "started_at": "2026-10-07T20:09:59Z"
     },
     {
       "username": "imreallyimportant",
@@ -40,7 +40,7 @@
     {
       "username": "ActualEducation",
       "title": "Physics & Chemistry Homework Help | Middle + High School",
-      "game": "Just Chatting",
+      "game": "Science & Technology",
       "started_at": "2026-10-07T23:00:19Z"
     }
   ]
