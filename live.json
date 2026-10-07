@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-07T21:31:56.513Z",
+  "timestamp": "2026-10-07T21:43:17.216Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,16 @@
       "started_at": "2026-10-07T20:04:09Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "More Long Division & Others; Combined Precalculus 05; Collab w/ @kittiesplease - 20261007",
-      "game": "Math",
-      "started_at": "2026-10-07T20:27:23Z"
-    },
-    {
       "username": "pencenter",
       "title": "Linear Algebra Practice & Lesson Creation [!fish🎣|!commands💻]",
       "game": "Math",
       "started_at": "2026-10-07T19:05:58Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "More Long Division & Others; Combined Precalculus 05; Collab w/ @kittiesplease - 20261007",
+      "game": "Math",
+      "started_at": "2026-10-07T20:27:23Z"
     }
   ]
 }
