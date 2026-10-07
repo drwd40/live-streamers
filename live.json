@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-07T15:03:43.088Z",
+  "timestamp": "2026-10-07T15:32:53.466Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,22 +8,16 @@
       "started_at": "2026-10-06T14:01:38Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "EJ's Crew 12 Undocking and Ship 40 Arrival Revue! 10/7/26",
-      "game": "Science & Technology",
-      "started_at": "2026-10-07T12:05:27Z"
-    },
-    {
-      "username": "Nerduino",
-      "title": "Coffee with Nerduino - science chat.  Former NASA guy!! #NASA #science #space #scientist",
-      "game": "Science & Technology",
-      "started_at": "2026-10-07T12:57:11Z"
-    },
-    {
       "username": "Zachap",
       "title": "definitions of words are important for communication",
       "game": "Just Chatting",
       "started_at": "2026-10-07T10:04:24Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Applying GRIT and using 🪨 emojis (day 117)",
+      "game": "Software and Game Development",
+      "started_at": "2026-10-07T15:27:41Z"
     }
   ]
 }
