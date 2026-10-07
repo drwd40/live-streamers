@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-06T23:55:09.868Z",
+  "timestamp": "2026-10-07T00:05:59.746Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -27,15 +27,15 @@
     },
     {
       "username": "Zachap",
-      "title": "!miro welcome to ask questions",
+      "title": "!miro welcome to ask questions, also, what are you passionate about?",
       "game": "Just Chatting",
       "started_at": "2026-10-06T10:02:25Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "Math Homework Help | Middle + High School",
-      "game": "Just Chatting",
-      "started_at": "2026-10-06T23:01:17Z"
+      "username": "AstroCanuck",
+      "title": "Astro's Po'Pourri: Gothumb City Art Set (finale?) - !Continental Countdown - !subtember extension T3 Minifigure | !upgrade !mobile !swole",
+      "game": "Science & Technology",
+      "started_at": "2026-10-07T00:00:55Z"
     },
     {
       "username": "DonFactorial",
@@ -44,10 +44,22 @@
       "started_at": "2026-10-06T20:00:50Z"
     },
     {
+      "username": "ActualEducation",
+      "title": "Math Homework Help | Middle + High School",
+      "game": "Just Chatting",
+      "started_at": "2026-10-06T23:01:17Z"
+    },
+    {
       "username": "nSimplexPachinko",
       "title": "More Long Division; Combined Precalculus 04; Collab w/ @kittiesplease - 20261006",
       "game": "Math",
       "started_at": "2026-10-06T20:48:39Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Interview with Yannis Papastamatiou🦈! | !GWS",
+      "game": "Science & Technology",
+      "started_at": "2026-10-07T00:04:01Z"
     }
   ]
 }
