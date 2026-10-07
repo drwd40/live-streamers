@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-07T18:59:39.976Z",
+  "timestamp": "2026-10-07T19:18:31.015Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,22 +20,22 @@
       "started_at": "2026-10-07T17:01:00Z"
     },
     {
+      "username": "DrawCuriosity",
+      "title": "✈️ Semi-IRL art stream! Painting from my friend's house ✨🐏!tier2 !tier3",
+      "game": "IRL",
+      "started_at": "2026-10-07T18:58:44Z"
+    },
+    {
       "username": "Zachap",
       "title": "definitions of words are important for communication",
       "game": "Just Chatting",
       "started_at": "2026-10-07T10:04:24Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 993: Design Review of Connectivity",
-      "game": "Science & Technology",
-      "started_at": "2026-10-07T18:22:26Z"
-    },
-    {
-      "username": "DrawCuriosity",
-      "title": "✈️ Semi-IRL art stream! Painting from my friend's house ✨🐏!tier2 !tier3",
-      "game": "IRL",
-      "started_at": "2026-10-07T18:58:44Z"
+      "username": "pencenter",
+      "title": "Linear Algebra Practice & Lesson Creation [!fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-10-07T19:05:58Z"
     }
   ]
 }
