@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-07T21:56:49.802Z",
+  "timestamp": "2026-10-07T22:09:25.837Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,22 +26,16 @@
       "started_at": "2026-10-07T17:01:00Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "\"Chill productivity\" (day 117½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-10-07T20:04:09Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "LIVE @ 8 PM EDT: IOWA SENATE DEBATE",
       "game": "Just Chatting",
       "started_at": "2026-10-07T21:50:06Z"
     },
     {
-      "username": "pencenter",
-      "title": "Linear Algebra Practice & Lesson Creation [!fish🎣|!commands💻]",
-      "game": "Math",
-      "started_at": "2026-10-07T19:05:58Z"
+      "username": "AdamLearnsLive",
+      "title": "\"Chill productivity\" (day 117½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-10-07T20:04:09Z"
     },
     {
       "username": "nSimplexPachinko",
