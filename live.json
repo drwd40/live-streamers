@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-07T21:51:09.126Z",
+  "timestamp": "2026-10-07T21:56:49.802Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,6 +32,12 @@
       "started_at": "2026-10-07T20:04:09Z"
     },
     {
+      "username": "imreallyimportant",
+      "title": "LIVE @ 8 PM EDT: IOWA SENATE DEBATE",
+      "game": "Just Chatting",
+      "started_at": "2026-10-07T21:50:06Z"
+    },
+    {
       "username": "pencenter",
       "title": "Linear Algebra Practice & Lesson Creation [!fish🎣|!commands💻]",
       "game": "Math",
@@ -42,12 +48,6 @@
       "title": "More Long Division & Others; Combined Precalculus 05; Collab w/ @kittiesplease - 20261007",
       "game": "Math",
       "started_at": "2026-10-07T20:27:23Z"
-    },
-    {
-      "username": "imreallyimportant",
-      "title": "LIVE @ 8 PM EDT: IOWA SENATE DEBATE",
-      "game": "Just Chatting",
-      "started_at": "2026-10-07T21:50:06Z"
     }
   ]
 }
