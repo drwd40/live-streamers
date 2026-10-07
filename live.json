@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-07T18:50:32.131Z",
+  "timestamp": "2026-10-07T18:59:39.976Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "Live CEOing Ep 993: Design Review of Connectivity",
       "game": "Science & Technology",
       "started_at": "2026-10-07T18:22:26Z"
+    },
+    {
+      "username": "DrawCuriosity",
+      "title": "✈️ Semi-IRL art stream! Painting from my friend's house ✨🐏!tier2 !tier3",
+      "game": "IRL",
+      "started_at": "2026-10-07T18:58:44Z"
     }
   ]
 }
