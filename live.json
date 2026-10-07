@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-10-07T01:02:37.829Z",
+  "timestamp": "2026-10-07T01:41:29.498Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-10-06T14:01:38Z"
-    },
-    {
-      "username": "EJ_SA",
-      "title": "I GOT A FEVER AND THE ONLY PERSCRIPTION IS MORE CHOO CHOO! TF3 (Part 3) 10/6/26",
-      "game": "Transport Fever 3",
-      "started_at": "2026-10-06T16:25:50Z"
     },
     {
       "username": "imreallyimportant",
@@ -26,16 +20,10 @@
       "started_at": "2026-10-07T00:00:55Z"
     },
     {
-      "username": "shnaff",
-      "title": "Chill guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-10-06T22:03:01Z"
-    },
-    {
-      "username": "Zachap",
-      "title": "!miro welcome to ask questions, also, what are you passionate about?",
-      "game": "Just Chatting",
-      "started_at": "2026-10-06T10:02:25Z"
+      "username": "SciAnts_Streams",
+      "title": "🦗Gears of War E-Day👾 | In game science and new adventures | #GearsofWarEDay #keymailer | Partner+ 66/300 | !ppp !yt !pod !jj",
+      "game": "Gears of War: E-Day",
+      "started_at": "2026-10-07T01:02:32Z"
     },
     {
       "username": "Nerduino",
@@ -44,22 +32,28 @@
       "started_at": "2026-10-07T00:50:43Z"
     },
     {
+      "username": "Zachap",
+      "title": "!miro welcome to ask questions, also, what are you passionate about?",
+      "game": "Just Chatting",
+      "started_at": "2026-10-06T10:02:25Z"
+    },
+    {
       "username": "SharkG33k",
       "title": "Interview with Yannis Papastamatiou🦈! | !GWS",
       "game": "Science & Technology",
       "started_at": "2026-10-07T00:04:01Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "Math Homework Help | Middle + High School",
-      "game": "Just Chatting",
-      "started_at": "2026-10-06T23:01:17Z"
-    },
-    {
       "username": "Mr_Aejis",
       "title": "A Teacher Plays: Persona 5!",
       "game": "Persona 5 Royal",
       "started_at": "2026-10-07T00:31:06Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "K-12 Tuesday: Who is Keisha Lance Bottoms? Can you raise coral in captivity, and what is in tattoo ink?",
+      "game": "Science & Technology",
+      "started_at": "2026-10-07T01:31:37Z"
     }
   ]
 }
