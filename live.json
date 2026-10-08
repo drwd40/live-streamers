@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-08T21:23:42.380Z",
+  "timestamp": "2026-10-08T21:34:48.409Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -48,6 +48,12 @@
       "title": "The Prophet's Approach; TitansGrave 019, TTRPG Planning - 20261008",
       "game": "Tabletop RPGs",
       "started_at": "2026-10-08T21:07:52Z"
+    },
+    {
+      "username": "SETIInstitute",
+      "title": "A New Crater on the Moon:  What a Fresh Impact Reveals About the Lunar Surface | #SETILive",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2026-10-08T21:30:24Z"
     }
   ]
 }
