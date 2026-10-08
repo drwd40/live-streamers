@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-08T18:41:50.804Z",
+  "timestamp": "2026-10-08T18:56:14.594Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-10-08T16:32:37Z"
     },
     {
-      "username": "IrishJohnGames",
-      "title": "🍀 Partner-versary & Playing JernJam Entries! !jj | !rop !patreon !discord",
-      "game": "Software and Game Development",
-      "started_at": "2026-10-08T17:34:41Z"
-    },
-    {
       "username": "Zachap",
       "title": "watch this if you like learning and stuff :)",
       "game": "Just Chatting",
       "started_at": "2026-10-08T10:03:16Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀 Partner-versary & Playing JernJam Entries! !jj | !rop !patreon !discord",
+      "game": "Software and Game Development",
+      "started_at": "2026-10-08T17:34:41Z"
     },
     {
       "username": "eToThe2iPi",
@@ -42,6 +42,12 @@
       "title": "[DROPS] Bad player on Badlands (spoilers)",
       "game": "DayZ",
       "started_at": "2026-10-08T16:44:23Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 995: Design Review of Geo and Astro",
+      "game": "Science & Technology",
+      "started_at": "2026-10-08T18:50:48Z"
     }
   ]
 }
