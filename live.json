@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-08T19:58:43.307Z",
+  "timestamp": "2026-10-08T20:21:02.202Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-10-08T19:02:02Z"
     },
     {
-      "username": "IrishJohnGames",
-      "title": "🍀 Partner-versary & Playing JernJam Entries! !jj | !rop !patreon !discord",
-      "game": "Software and Game Development",
-      "started_at": "2026-10-08T17:34:41Z"
-    },
-    {
       "username": "SciAnts_Streams",
       "title": "Let's design a Witcher [✅DROPS✅] | Biological science in Witcher 3 | Partner+ 79/300 | !ppp !yt !pod !jj",
       "game": "The Witcher 3: Wild Hunt Remastered",
       "started_at": "2026-10-08T16:32:37Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀 Partner-versary & Playing JernJam Entries! !jj | !rop !patreon !discord",
+      "game": "Software and Game Development",
+      "started_at": "2026-10-08T17:34:41Z"
     },
     {
       "username": "Zachap",
@@ -30,12 +30,6 @@
       "title": "Mental Health Chat + Painting 40k",
       "game": "Miniatures & Models",
       "started_at": "2026-10-08T19:32:07Z"
-    },
-    {
-      "username": "eToThe2iPi",
-      "title": "Math/Ed + Chat (With Maybe Some E&M on the Side)!",
-      "game": "Math",
-      "started_at": "2026-10-08T18:14:47Z"
     },
     {
       "username": "DonFactorial",
