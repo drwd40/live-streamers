@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-08T17:23:10.756Z",
+  "timestamp": "2026-10-08T17:33:49.226Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,16 @@
       "started_at": "2026-10-08T10:03:16Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "[DROPS] Bad player on Badlands (spoilers)",
-      "game": "DayZ",
-      "started_at": "2026-10-08T16:44:23Z"
-    },
-    {
       "username": "Stephen_Wolfram",
       "title": "Live CEOing Ep 994: Design Review of PDE Functionality",
       "game": "Science & Technology",
       "started_at": "2026-10-08T17:14:55Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "[DROPS] Bad player on Badlands (spoilers)",
+      "game": "DayZ",
+      "started_at": "2026-10-08T16:44:23Z"
     }
   ]
 }
