@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-08T23:29:12.767Z",
+  "timestamp": "2026-10-08T23:41:48.516Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,28 +26,16 @@
       "started_at": "2026-10-08T16:32:37Z"
     },
     {
-      "username": "shnaff",
-      "title": "Chill guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-10-08T22:02:24Z"
-    },
-    {
       "username": "Zachap",
       "title": "watch this if you like learning and stuff :)",
       "game": "Just Chatting",
       "started_at": "2026-10-08T10:03:16Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
-      "game": "Science & Technology",
-      "started_at": "2026-10-08T23:01:29Z"
-    },
-    {
-      "username": "DonFactorial",
-      "title": "[DROPS] Bad player on Badlands (spoilers)",
-      "game": "DayZ",
-      "started_at": "2026-10-08T19:10:59Z"
+      "username": "shnaff",
+      "title": "Chill guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-10-08T22:02:24Z"
     },
     {
       "username": "MelissaInDeNile",
@@ -56,10 +44,16 @@
       "started_at": "2026-10-08T23:20:45Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "The Prophet's Approach; TitansGrave 019, TTRPG Planning - 20261008",
-      "game": "Tabletop RPGs",
-      "started_at": "2026-10-08T21:07:52Z"
+      "username": "DonFactorial",
+      "title": "[DROPS] Bad player on Badlands (spoilers)",
+      "game": "DayZ",
+      "started_at": "2026-10-08T19:10:59Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Science & Technology",
+      "started_at": "2026-10-08T23:01:29Z"
     }
   ]
 }
