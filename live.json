@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-09T19:53:49.193Z",
+  "timestamp": "2026-10-09T19:59:29.652Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-10-09T16:50:07Z"
     },
     {
-      "username": "Rocketology",
-      "title": "4.10.2 is Live and Earners Keepers Event",
-      "game": "Star Citizen",
-      "started_at": "2026-10-09T19:02:01Z"
-    },
-    {
       "username": "Stephen_Wolfram",
       "title": "Science & Technology Q&A for Kids (and others) [Part 169]",
       "game": "Science & Technology",
       "started_at": "2026-10-09T19:48:20Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "4.10.2 is Live and Earners Keepers Event",
+      "game": "Star Citizen",
+      "started_at": "2026-10-09T19:02:01Z"
     }
   ]
 }
