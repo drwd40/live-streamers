@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-09T16:48:57.093Z",
+  "timestamp": "2026-10-09T16:58:02.364Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,28 @@
       "started_at": "2026-10-09T14:37:16Z"
     },
     {
+      "username": "AdamLearnsLive",
+      "title": "Game dev across many areas (day 119)",
+      "game": "Software and Game Development",
+      "started_at": "2026-10-09T15:24:50Z"
+    },
+    {
       "username": "Zachap",
       "title": "attention to labor > attention to politicians",
       "game": "Just Chatting",
       "started_at": "2026-10-09T10:02:55Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Game dev across many areas (day 119)",
-      "game": "Software and Game Development",
-      "started_at": "2026-10-09T15:24:50Z"
+      "username": "EJ_SA",
+      "title": "Early hours Conflict Canines! TFT @ 6PM EDT! 10/9/26",
+      "game": "WARDOGS",
+      "started_at": "2026-10-09T16:52:54Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Interview with Tom \"the Blowfish\" Hird!  | !GWS",
+      "game": "Science & Technology",
+      "started_at": "2026-10-09T16:50:07Z"
     }
   ]
 }
