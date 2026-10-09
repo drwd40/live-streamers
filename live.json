@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-09T01:12:56.169Z",
+  "timestamp": "2026-10-09T01:48:57.475Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,10 +26,10 @@
       "started_at": "2026-10-08T16:32:37Z"
     },
     {
-      "username": "Zachap",
-      "title": "watch this if you like learning and stuff :)",
-      "game": "Just Chatting",
-      "started_at": "2026-10-08T10:03:16Z"
+      "username": "Nerduino",
+      "title": "Tons of great astronomy news!  Science chat.  Former NASA guy!! #NASA #science #space #scientist",
+      "game": "Science & Technology",
+      "started_at": "2026-10-09T00:50:09Z"
     },
     {
       "username": "DrawCuriosity",
@@ -38,14 +38,14 @@
       "started_at": "2026-10-09T00:32:56Z"
     },
     {
-      "username": "Nerduino",
-      "title": "Tons of great astronomy news!  Science chat.  Former NASA guy!! #NASA #science #space #scientist",
-      "game": "Science & Technology",
-      "started_at": "2026-10-09T00:50:09Z"
+      "username": "Zachap",
+      "title": "watch this if you like learning and stuff :)",
+      "game": "Just Chatting",
+      "started_at": "2026-10-08T10:03:16Z"
     },
     {
       "username": "SharkG33k",
-      "title": "Cozy game with conservation undertones! (it has sharks allegedly!) | !GWS",
+      "title": "[DROPS] Cozy game with conservation undertones! (it has sharks allegedly!) | !GWS",
       "game": "Palia",
       "started_at": "2026-10-09T00:04:00Z"
     },
@@ -66,6 +66,12 @@
       "title": "[DROPS] Bad player on Badlands (spoilers)",
       "game": "DayZ",
       "started_at": "2026-10-08T19:10:59Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Drone detection. History of refined sugar, and Eli Weber's Life Wave technology.",
+      "game": "Science & Technology",
+      "started_at": "2026-10-09T01:29:16Z"
     }
   ]
 }
