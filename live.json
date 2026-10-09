@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-09T18:59:36.323Z",
+  "timestamp": "2026-10-09T19:16:10.601Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,18 +20,6 @@
       "started_at": "2026-10-09T16:52:54Z"
     },
     {
-      "username": "IrishJohnGames",
-      "title": "🍀 Partner-versary & Playing JernJam Entries! !jj | !rop !patreon !discord",
-      "game": "Software and Game Development",
-      "started_at": "2026-10-09T17:00:21Z"
-    },
-    {
-      "username": "AdamLearnsLive",
-      "title": "Game dev across many areas (day 119)",
-      "game": "Software and Game Development",
-      "started_at": "2026-10-09T15:24:50Z"
-    },
-    {
       "username": "Zachap",
       "title": "anarchism communism anarchist communist ancom anarcho-communism",
       "game": "Just Chatting",
@@ -42,6 +30,12 @@
       "title": "[DROPS] Diving back into Palia! | !GWS",
       "game": "Palia",
       "started_at": "2026-10-09T16:50:07Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "4.10.2 is Live and Earners Keepers Event",
+      "game": "Star Citizen",
+      "started_at": "2026-10-09T19:02:01Z"
     }
   ]
 }
