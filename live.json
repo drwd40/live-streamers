@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-09T02:39:56.696Z",
+  "timestamp": "2026-10-09T02:57:41.739Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-10-08T16:32:37Z"
     },
     {
-      "username": "Nerduino",
-      "title": "Tons of great astronomy news!  Science chat.  Former NASA guy!! #NASA #science #space #scientist",
-      "game": "Science & Technology",
-      "started_at": "2026-10-09T00:50:09Z"
-    },
-    {
       "username": "SharkG33k",
       "title": "[DROPS] Cozy game with conservation undertones! (it has sharks allegedly!) | !GWS",
       "game": "Palia",
       "started_at": "2026-10-09T00:04:00Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Tons of great astronomy news!  Science chat.  Former NASA guy!! #NASA #science #space #scientist",
+      "game": "Science & Technology",
+      "started_at": "2026-10-09T00:50:09Z"
     },
     {
       "username": "MelissaInDeNile",
