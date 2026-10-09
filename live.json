@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-09T00:18:23.030Z",
+  "timestamp": "2026-10-09T01:12:56.169Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -9,13 +9,13 @@
     },
     {
       "username": "EJ_SA",
-      "title": "EJ's Space and Rocket Revue! 10/8/26",
-      "game": "Science & Technology",
+      "title": "THURSDAY CONFLICT CANINES! 10/8/26",
+      "game": "WARDOGS",
       "started_at": "2026-10-08T21:09:07Z"
     },
     {
       "username": "imreallyimportant",
-      "title": "LIVE: MICHIGAN SENATE DEBATE",
+      "title": "GEORGIA SENATE DEBATE",
       "game": "Just Chatting",
       "started_at": "2026-10-08T21:50:09Z"
     },
@@ -26,16 +26,28 @@
       "started_at": "2026-10-08T16:32:37Z"
     },
     {
-      "username": "shnaff",
-      "title": "Chill guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-10-08T22:02:24Z"
-    },
-    {
       "username": "Zachap",
       "title": "watch this if you like learning and stuff :)",
       "game": "Just Chatting",
       "started_at": "2026-10-08T10:03:16Z"
+    },
+    {
+      "username": "DrawCuriosity",
+      "title": "✈️ Painting a fly on the wall - Semi-IRL art stream! Painting from my friend's house ✨🐏!tier2 !tier3",
+      "game": "Art",
+      "started_at": "2026-10-09T00:32:56Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Tons of great astronomy news!  Science chat.  Former NASA guy!! #NASA #science #space #scientist",
+      "game": "Science & Technology",
+      "started_at": "2026-10-09T00:50:09Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Cozy game with conservation undertones! (it has sharks allegedly!) | !GWS",
+      "game": "Palia",
+      "started_at": "2026-10-09T00:04:00Z"
     },
     {
       "username": "MelissaInDeNile",
@@ -48,12 +60,6 @@
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Science & Technology",
       "started_at": "2026-10-08T23:01:29Z"
-    },
-    {
-      "username": "SharkG33k",
-      "title": "Cozy game with conservation undertones! (it has sharks allegedly!) | !GWS",
-      "game": "Palia",
-      "started_at": "2026-10-09T00:04:00Z"
     },
     {
       "username": "DonFactorial",
