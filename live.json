@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-09T23:19:27.602Z",
+  "timestamp": "2026-10-09T23:30:55.243Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-10-08T19:02:02Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "NSF - THE FLAME TRENCH! 10/9/26",
-      "game": "Science & Technology",
-      "started_at": "2026-10-09T16:52:54Z"
-    },
-    {
       "username": "JapanesePrintmaking",
       "title": "Making Japanese woodblock prints ... live while you watch ...",
       "game": "Makers & Crafting",
       "started_at": "2026-10-09T22:59:53Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "NSF - THE FLAME TRENCH! 10/9/26",
+      "game": "Science & Technology",
+      "started_at": "2026-10-09T16:52:54Z"
     },
     {
       "username": "imreallyimportant",
@@ -30,12 +30,6 @@
       "title": "anarchism communism anarchist communist ancom anarcho-communism",
       "game": "Just Chatting",
       "started_at": "2026-10-09T10:02:55Z"
-    },
-    {
-      "username": "SharkG33k",
-      "title": "[DROPS] Diving back into Palia! | !GWS",
-      "game": "Palia",
-      "started_at": "2026-10-09T16:50:07Z"
     }
   ]
 }
