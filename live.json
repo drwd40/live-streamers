@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-09T20:33:48.084Z",
+  "timestamp": "2026-10-09T20:46:16.486Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "Science & Technology Q&A for Kids (and others) [Part 169]",
       "game": "Science & Technology",
       "started_at": "2026-10-09T19:48:20Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Busy afternoon of game-dev WORK (day 118½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-10-09T20:33:48Z"
     },
     {
       "username": "SharkG33k",
