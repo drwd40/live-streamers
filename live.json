@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-09T21:42:43.816Z",
+  "timestamp": "2026-10-09T21:50:53.367Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -42,6 +42,12 @@
       "title": "Data Center Tax Break; More from The National Registry for Exonerations; Mathematics for Social Justice - 20261009",
       "game": "Math",
       "started_at": "2026-10-09T20:52:05Z"
+    },
+    {
+      "username": "jacksfacts",
+      "title": "More Horse, more fun, six flags and genetics",
+      "game": "Horsey Game",
+      "started_at": "2026-10-09T21:49:38Z"
     }
   ]
 }
