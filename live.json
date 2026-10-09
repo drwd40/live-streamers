@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-09T23:00:36.196Z",
+  "timestamp": "2026-10-09T23:19:27.602Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "NSF - THE FLAME TRENCH! 10/9/26",
       "game": "Science & Technology",
       "started_at": "2026-10-09T16:52:54Z"
+    },
+    {
+      "username": "JapanesePrintmaking",
+      "title": "Making Japanese woodblock prints ... live while you watch ...",
+      "game": "Makers & Crafting",
+      "started_at": "2026-10-09T22:59:53Z"
     },
     {
       "username": "imreallyimportant",
@@ -30,24 +36,6 @@
       "title": "[DROPS] Diving back into Palia! | !GWS",
       "game": "Palia",
       "started_at": "2026-10-09T16:50:07Z"
-    },
-    {
-      "username": "jacksfacts",
-      "title": "More Horse, more fun, six flags and genetics",
-      "game": "Horsey Game",
-      "started_at": "2026-10-09T21:49:38Z"
-    },
-    {
-      "username": "nSimplexPachinko",
-      "title": "Data Center Tax Break; More from The National Registry for Exonerations; Mathematics for Social Justice - 20261009",
-      "game": "Math",
-      "started_at": "2026-10-09T20:52:05Z"
-    },
-    {
-      "username": "JapanesePrintmaking",
-      "title": "Making Japanese woodblock prints ... live while you watch ...",
-      "game": "Makers & Crafting",
-      "started_at": "2026-10-09T22:59:53Z"
     }
   ]
 }
