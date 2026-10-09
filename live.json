@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-09T19:59:29.652Z",
+  "timestamp": "2026-10-09T20:20:18.766Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-10-09T10:02:55Z"
     },
     {
-      "username": "SharkG33k",
-      "title": "[DROPS] Diving back into Palia! | !GWS",
-      "game": "Palia",
-      "started_at": "2026-10-09T16:50:07Z"
-    },
-    {
       "username": "Stephen_Wolfram",
       "title": "Science & Technology Q&A for Kids (and others) [Part 169]",
       "game": "Science & Technology",
       "started_at": "2026-10-09T19:48:20Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "[DROPS] Diving back into Palia! | !GWS",
+      "game": "Palia",
+      "started_at": "2026-10-09T16:50:07Z"
     },
     {
       "username": "Rocketology",
