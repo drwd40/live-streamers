@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-09T20:46:16.486Z",
+  "timestamp": "2026-10-09T20:54:36.161Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-10-09T10:02:55Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Science & Technology Q&A for Kids (and others) [Part 169]",
-      "game": "Science & Technology",
-      "started_at": "2026-10-09T19:48:20Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "Busy afternoon of game-dev WORK (day 118½)",
       "game": "Software and Game Development",
       "started_at": "2026-10-09T20:33:48Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Science & Technology Q&A for Kids (and others) [Part 169]",
+      "game": "Science & Technology",
+      "started_at": "2026-10-09T19:48:20Z"
     },
     {
       "username": "SharkG33k",
@@ -42,6 +42,12 @@
       "title": "4.10.2 is Live and Earners Keepers Event",
       "game": "Star Citizen",
       "started_at": "2026-10-09T19:02:01Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Data Center Tax Break; More from The National Registry for Exonerations; Mathematics for Social Justice - 20261009",
+      "game": "Math",
+      "started_at": "2026-10-09T20:52:05Z"
     }
   ]
 }
