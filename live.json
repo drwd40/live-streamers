@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-09T21:50:53.367Z",
+  "timestamp": "2026-10-09T21:56:51.492Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-10-09T16:52:54Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Busy afternoon of game-dev WORK (day 118½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-10-09T20:33:48Z"
-    },
-    {
       "username": "Zachap",
       "title": "anarchism communism anarchist communist ancom anarcho-communism",
       "game": "Just Chatting",
       "started_at": "2026-10-09T10:02:55Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Busy afternoon of game-dev WORK (day 118½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-10-09T20:33:48Z"
     },
     {
       "username": "SharkG33k",
@@ -38,16 +38,22 @@
       "started_at": "2026-10-09T19:02:01Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "Data Center Tax Break; More from The National Registry for Exonerations; Mathematics for Social Justice - 20261009",
-      "game": "Math",
-      "started_at": "2026-10-09T20:52:05Z"
-    },
-    {
       "username": "jacksfacts",
       "title": "More Horse, more fun, six flags and genetics",
       "game": "Horsey Game",
       "started_at": "2026-10-09T21:49:38Z"
+    },
+    {
+      "username": "imreallyimportant",
+      "title": "REACTION TO SENATE DEBATES | COOK POLITICAL REPORT MOVES 18 HOUSE SEATS TO THE LEFT",
+      "game": "Just Chatting",
+      "started_at": "2026-10-09T21:51:35Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Data Center Tax Break; More from The National Registry for Exonerations; Mathematics for Social Justice - 20261009",
+      "game": "Math",
+      "started_at": "2026-10-09T20:52:05Z"
     }
   ]
 }
