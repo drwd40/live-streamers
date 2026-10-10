@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-10T22:50:08.011Z",
+  "timestamp": "2026-10-10T22:55:41.141Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,12 +20,6 @@
       "started_at": "2026-10-10T10:03:03Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Answering your math questions, Special Relativity primer, maybe even probability studying",
-      "game": "Math",
-      "started_at": "2026-10-10T18:56:11Z"
-    },
-    {
       "username": "Rocketology",
       "title": "4.10.2 is Live and Earners Keepers Event Grinding",
       "game": "Star Citizen",
@@ -36,6 +30,12 @@
       "title": "Saturday Night Piracy",
       "game": "Pirates of the Burning Sea",
       "started_at": "2026-10-10T22:11:56Z"
+    },
+    {
+      "username": "MelissaInDeNile",
+      "title": "Let's talk about Ancient Egyptian Animals in this Drifting Down De Nile Discussion!! ~ Follower Goal: 2484/2600 ~ !socials !beyonddenile",
+      "game": "Just Chatting",
+      "started_at": "2026-10-10T22:51:15Z"
     }
   ]
 }
