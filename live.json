@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-10T16:02:12.521Z",
+  "timestamp": "2026-10-10T16:22:05.198Z",
   "live": [
     {
       "username": "TinyToxicTofu",
@@ -24,6 +24,12 @@
       "title": "ask about anarchism communism anarchist communist ancom anarcho-communism",
       "game": "Just Chatting",
       "started_at": "2026-10-10T10:03:03Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Math/Ed Q&A Time!",
+      "game": "Math",
+      "started_at": "2026-10-10T16:12:13Z"
     }
   ]
 }
