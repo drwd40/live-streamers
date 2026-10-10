@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-10T19:33:12.016Z",
+  "timestamp": "2026-10-10T19:42:00.046Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,10 +20,10 @@
       "started_at": "2026-10-10T18:08:51Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Answering your math questions, Special Relativity primer, possibly analysis with Leo, maybe even probability studying",
-      "game": "Math",
-      "started_at": "2026-10-10T18:56:11Z"
+      "username": "DiatomsATTACK",
+      "title": "SEM: Looking at pollen from flowers and also bee pollen from Walmart, with guests @PacificPlankton, Valya, Sylvia, Claudia, Jupiter!",
+      "game": "Science & Technology",
+      "started_at": "2026-10-10T19:16:12Z"
     },
     {
       "username": "Rocketology",
@@ -32,10 +32,10 @@
       "started_at": "2026-10-10T18:31:43Z"
     },
     {
-      "username": "DiatomsATTACK",
-      "title": "SEM: Looking at pollen from flowers and also bee pollen from Walmart, with guests @PacificPlankton, Valya, Sylvia, Claudia, Jupiter!",
-      "game": "Science & Technology",
-      "started_at": "2026-10-10T19:16:12Z"
+      "username": "DonFactorial",
+      "title": "Answering your math questions, Special Relativity primer, possibly analysis with Leo, maybe even probability studying",
+      "game": "Math",
+      "started_at": "2026-10-10T18:56:11Z"
     }
   ]
 }
