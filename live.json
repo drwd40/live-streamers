@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-10T18:27:41.810Z",
+  "timestamp": "2026-10-10T18:43:26.836Z",
   "live": [
     {
       "username": "TinyToxicTofu",
@@ -30,6 +30,12 @@
       "title": "Math/Ed Q&A Time!",
       "game": "Math",
       "started_at": "2026-10-10T16:12:13Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "4.10.2 is Live and Earners Keepers Event Grinding",
+      "game": "Star Citizen",
+      "started_at": "2026-10-10T18:31:43Z"
     }
   ]
 }
