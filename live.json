@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-10T21:08:16.510Z",
+  "timestamp": "2026-10-10T21:21:44.015Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,10 @@
       "started_at": "2026-10-10T10:03:03Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Answering your math questions, Special Relativity primer, maybe even probability studying",
-      "game": "Math",
-      "started_at": "2026-10-10T18:56:11Z"
-    },
-    {
-      "username": "DiatomsATTACK",
-      "title": "SEM: Looking at pollen from flowers and also bee pollen from Walmart, with guests @PacificPlankton, Valya, Sylvia, Claudia, Jupiter!",
-      "game": "Science & Technology",
-      "started_at": "2026-10-10T19:16:12Z"
+      "username": "DrMick",
+      "title": "Therapist Plays KCD2: Part 34 | !links",
+      "game": "Kingdom Come: Deliverance II",
+      "started_at": "2026-10-10T21:00:17Z"
     },
     {
       "username": "Rocketology",
@@ -32,10 +26,10 @@
       "started_at": "2026-10-10T18:31:43Z"
     },
     {
-      "username": "DrMick",
-      "title": "Therapist Plays KCD2: Part 34 | !links",
-      "game": "Kingdom Come: Deliverance II",
-      "started_at": "2026-10-10T21:00:17Z"
+      "username": "DonFactorial",
+      "title": "Answering your math questions, Special Relativity primer, maybe even probability studying",
+      "game": "Math",
+      "started_at": "2026-10-10T18:56:11Z"
     }
   ]
 }
