@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-10T19:48:18.009Z",
+  "timestamp": "2026-10-10T19:53:51.787Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-10-10T19:16:12Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Answering your math questions, Special Relativity primer, possibly analysis with Leo, maybe even probability studying",
-      "game": "Math",
-      "started_at": "2026-10-10T18:56:11Z"
-    },
-    {
       "username": "Rocketology",
       "title": "4.10.2 is Live and Earners Keepers Event Grinding",
       "game": "Star Citizen",
       "started_at": "2026-10-10T18:31:43Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions, Special Relativity primer, possibly analysis with Leo, maybe even probability studying",
+      "game": "Math",
+      "started_at": "2026-10-10T18:56:11Z"
     }
   ]
 }
