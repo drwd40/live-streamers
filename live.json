@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-10T20:56:38.788Z",
+  "timestamp": "2026-10-10T21:08:16.510Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,12 +12,6 @@
       "title": "ask about anarchism communism anarchist communist ancom anarcho-communism",
       "game": "Just Chatting",
       "started_at": "2026-10-10T10:03:03Z"
-    },
-    {
-      "username": "DrawCuriosity",
-      "title": "✈️ Painting a fly on the wall - Semi-IRL art stream! Painting from my friend's house ✨🐏!tier2 !tier3",
-      "game": "Art",
-      "started_at": "2026-10-10T18:08:51Z"
     },
     {
       "username": "DonFactorial",
@@ -36,6 +30,12 @@
       "title": "4.10.2 is Live and Earners Keepers Event Grinding",
       "game": "Star Citizen",
       "started_at": "2026-10-10T18:31:43Z"
+    },
+    {
+      "username": "DrMick",
+      "title": "Therapist Plays KCD2: Part 34 | !links",
+      "game": "Kingdom Come: Deliverance II",
+      "started_at": "2026-10-10T21:00:17Z"
     }
   ]
 }
