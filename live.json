@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-11T12:06:25.030Z",
+  "timestamp": "2026-10-11T12:33:26.240Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "Philosophy/Theory and more...",
       "game": "Just Chatting",
       "started_at": "2026-10-11T10:03:12Z"
+    },
+    {
+      "username": "LumiRue",
+      "title": "Cheeky Little Japan Stream",
+      "game": "Just Chatting",
+      "started_at": "2026-10-11T12:28:32Z"
     }
   ]
 }
