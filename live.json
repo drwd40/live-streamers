@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-11T17:35:41.374Z",
+  "timestamp": "2026-10-11T17:44:25.686Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "philosophy philosophy philosophy philosophy philosophy philosophy",
       "game": "Just Chatting",
       "started_at": "2026-10-11T15:39:48Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "4.10.2 Event Grinding",
+      "game": "Star Citizen",
+      "started_at": "2026-10-11T17:38:20Z"
     }
   ]
 }
