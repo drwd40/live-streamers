@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-10-11T18:30:57.245Z",
+  "timestamp": "2026-10-11T18:48:04.816Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-10-10T13:39:57Z"
-    },
-    {
-      "username": "TinyToxicTofu",
-      "title": "⚡ Do You Know What Heroes of the Storm Is? ⚡!phd",
-      "game": "Heroes of the Storm",
-      "started_at": "2026-10-11T12:44:37Z"
     },
     {
       "username": "AstroCanuck",
@@ -26,12 +20,6 @@
       "started_at": "2026-10-11T10:03:12Z"
     },
     {
-      "username": "nogre0",
-      "title": "philosophy philosophy philosophy philosophy philosophy philosophy",
-      "game": "Just Chatting",
-      "started_at": "2026-10-11T15:39:48Z"
-    },
-    {
       "username": "DiatomsATTACK",
       "title": "SEM: Looking at diatoms, with guests @PacificPlankton, Sylvia, Jupiter!",
       "game": "Science & Technology",
@@ -42,6 +30,12 @@
       "title": "4.10.2 Event Grinding",
       "game": "Star Citizen",
       "started_at": "2026-10-11T17:38:20Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "Bruships 263: Alternate History & Naval History Questions Answered Live...",
+      "game": "Just Chatting",
+      "started_at": "2026-10-11T18:31:42Z"
     }
   ]
 }
