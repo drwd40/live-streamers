@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-10-12T01:28:32.582Z",
+  "timestamp": "2026-10-12T02:10:26.669Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-10-10T13:39:57Z"
-    },
-    {
-      "username": "Nerduino",
-      "title": "It's time to Save The Vaquita!  Marine Mammals and Climate Change.  PhD Scientist.  #savethevaquita #climatechange #NASA #science #scientist",
-      "game": "Special Events",
-      "started_at": "2026-10-11T23:50:06Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -24,6 +18,18 @@
       "title": "Philosophy/Theory and more...",
       "game": "Just Chatting",
       "started_at": "2026-10-11T10:03:12Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "It's time to Save The Vaquita!  Marine Mammals and Climate Change.  PhD Scientist.  #savethevaquita #climatechange #NASA #science #scientist",
+      "game": "Special Events",
+      "started_at": "2026-10-11T23:50:06Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "LifeWave Debunks, AI (Technology) and a Population Contraction, and The Cradle Will Rock.",
+      "game": "Science & Technology",
+      "started_at": "2026-10-12T01:33:07Z"
     }
   ]
 }
