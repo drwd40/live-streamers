@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-12T18:57:54.021Z",
+  "timestamp": "2026-10-12T19:12:24.185Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "Math/Ed Q&A Time!",
       "game": "Math",
       "started_at": "2026-10-12T18:03:55Z"
+    },
+    {
+      "username": "Andilippi",
+      "title": "Hardcore with the boys @timoted @alphabytemusic",
+      "game": "World of Warcraft",
+      "started_at": "2026-10-12T19:04:10Z"
     }
   ]
 }
