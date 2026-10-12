@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-12T20:49:19.130Z",
+  "timestamp": "2026-10-12T20:57:39.708Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,10 +14,10 @@
       "started_at": "2026-10-12T17:19:18Z"
     },
     {
-      "username": "DrawCuriosity",
-      "title": "✈️ Finishing my fly painting ✨🐏!tier2 !tier3",
-      "game": "Art",
-      "started_at": "2026-10-12T17:33:26Z"
+      "username": "AdamLearnsLive",
+      "title": "Getting ready for the live-streamed Wednesday playtest (day 120½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-10-12T20:06:56Z"
     },
     {
       "username": "Zachap",
@@ -26,22 +26,22 @@
       "started_at": "2026-10-12T10:02:10Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Getting ready for the live-streamed Wednesday playtest (day 120½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-10-12T20:06:56Z"
-    },
-    {
-      "username": "eToThe2iPi",
-      "title": "Math/Ed Q&A Time!",
-      "game": "Math",
-      "started_at": "2026-10-12T18:03:55Z"
+      "username": "DrawCuriosity",
+      "title": "✈️ Finishing my fly painting ✨🐏!tier2 !tier3",
+      "game": "Art",
+      "started_at": "2026-10-12T17:33:26Z"
     },
     {
       "username": "Andilippi",
       "title": "Hardcore with the boys @timoted @alphabytemusic",
       "game": "World of Warcraft",
       "started_at": "2026-10-12T19:04:10Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Power Outage? More like Cower Nawt-age! Combined Precalculus 06; Collab w/ @kittiesplease - 20261012",
+      "game": "Math",
+      "started_at": "2026-10-12T20:50:02Z"
     }
   ]
 }
