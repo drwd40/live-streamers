@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-13T21:19:42.892Z",
+  "timestamp": "2026-10-13T21:28:48.051Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-10-12T13:40:00Z"
     },
     {
-      "username": "ipaintbirbs",
-      "title": "i.... sculpt birbs???",
-      "game": "Art",
-      "started_at": "2026-10-13T16:30:31Z"
-    },
-    {
       "username": "EJ_SA",
       "title": "Orbiter Lifting Frame! The SLC-6 Project (Part 24) 10/13/26",
       "game": "Kerbal Space Program",
       "started_at": "2026-10-13T16:25:51Z"
+    },
+    {
+      "username": "ipaintbirbs",
+      "title": "i.... sculpt birbs???",
+      "game": "Art",
+      "started_at": "2026-10-13T16:30:31Z"
     },
     {
       "username": "Paleontologizing",
@@ -46,20 +46,20 @@
     {
       "username": "SydHeresy",
       "title": "Back To The Stream! - Soldering - Electronics - Shenanigans",
-      "game": "Just Chatting",
+      "game": "Science & Technology",
       "started_at": "2026-10-13T19:45:43Z"
-    },
-    {
-      "username": "GeneralSte",
-      "title": "New Game / Veteran Zoo Builder | !linktree !discord",
-      "game": "Planet Zoo 2",
-      "started_at": "2026-10-13T19:14:09Z"
     },
     {
       "username": "Rocketology",
       "title": "Recco Battaglia - Does This Work Yet?",
       "game": "Star Citizen",
       "started_at": "2026-10-13T18:02:31Z"
+    },
+    {
+      "username": "GeneralSte",
+      "title": "New Game / Veteran Zoo Builder | !linktree !discord",
+      "game": "Planet Zoo 2",
+      "started_at": "2026-10-13T19:14:09Z"
     },
     {
       "username": "nSimplexPachinko",
