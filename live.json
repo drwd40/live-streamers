@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-13T00:22:47.731Z",
+  "timestamp": "2026-10-13T01:15:55.373Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,22 +8,40 @@
       "started_at": "2026-10-12T13:40:00Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "EJ's Space and Rocket Revue! 10/12/26",
-      "game": "Science & Technology",
-      "started_at": "2026-10-12T17:19:18Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "ILHAN OMAR'S HOME RAIDED BY FEDS | TALARICO RESPONDS TO MENTAL HOSPITAL CLAIMS",
       "game": "Just Chatting",
       "started_at": "2026-10-12T21:50:24Z"
     },
     {
+      "username": "Moohoodles",
+      "title": "🪐 Astrobiology & Space news ✨ 25k hype! NMS expedition mainly",
+      "game": "Science & Technology",
+      "started_at": "2026-10-13T01:01:13Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "[Charity Event] Save the Vaquita! | The latest in vaquita science news | Partner+ 112/300 | !ppp !yt !pod !jj !vaquita",
+      "game": "Science & Technology",
+      "started_at": "2026-10-13T01:01:36Z"
+    },
+    {
       "username": "Zachap",
       "title": "WE HAVE ENOUGH FOR EVERYONE. SO WHY IS EVERYTHING SO COOKED? | Politics, Philosophy & Brainrot",
       "game": "Just Chatting",
       "started_at": "2026-10-12T10:02:10Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Back for a bit more Badlands",
+      "game": "DayZ",
+      "started_at": "2026-10-13T01:09:56Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Microsoft Monday -- Graphic Charting Odds and Ends.",
+      "game": "Science & Technology",
+      "started_at": "2026-10-13T00:33:04Z"
     }
   ]
 }
