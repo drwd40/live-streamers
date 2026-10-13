@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-13T20:31:49.736Z",
+  "timestamp": "2026-10-13T20:43:46.616Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -50,16 +50,16 @@
       "started_at": "2026-10-13T19:58:14Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 998: Design Review of Mathematical Computation continued",
-      "game": "Science & Technology",
-      "started_at": "2026-10-13T20:02:56Z"
-    },
-    {
       "username": "Rocketology",
       "title": "Recco Battaglia - Does This Work Yet?",
       "game": "Star Citizen",
       "started_at": "2026-10-13T18:02:31Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 998: Design Review of Mathematical Computation continued",
+      "game": "Science & Technology",
+      "started_at": "2026-10-13T20:02:56Z"
     },
     {
       "username": "GeneralSte",
