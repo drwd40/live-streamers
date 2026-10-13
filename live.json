@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-13T23:40:58.592Z",
+  "timestamp": "2026-10-13T23:46:53.768Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -44,6 +44,12 @@
       "started_at": "2026-10-13T22:50:17Z"
     },
     {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math | Middle + High School Homework Help",
+      "game": "Science & Technology",
+      "started_at": "2026-10-13T23:02:02Z"
+    },
+    {
       "username": "DonFactorial",
       "title": "Solving a Partial Differential Equations final with MathWithMing on Youtube!",
       "game": "Math",
@@ -54,12 +60,6 @@
       "title": "CW: Body Horror... grossness... Playing CARRION, Night 02, maybe Elite Warring after - 20261013",
       "game": "CARRION",
       "started_at": "2026-10-13T21:01:41Z"
-    },
-    {
-      "username": "ActualEducation",
-      "title": "FREE Tutoring in Math | Middle + High School Homework Help",
-      "game": "Science & Technology",
-      "started_at": "2026-10-13T23:02:02Z"
     }
   ]
 }
