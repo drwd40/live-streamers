@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-13T19:52:22.631Z",
+  "timestamp": "2026-10-13T19:58:02.750Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,6 +38,12 @@
       "started_at": "2026-10-13T17:00:19Z"
     },
     {
+      "username": "SydHeresy",
+      "title": "Back To The Stream! - Soldering - Electronics - Shenanigans",
+      "game": "Just Chatting",
+      "started_at": "2026-10-13T19:45:43Z"
+    },
+    {
       "username": "Rocketology",
       "title": "Recco Battaglia - Does This Work Yet?",
       "game": "Star Citizen",
@@ -48,12 +54,6 @@
       "title": "New Game / Veteran Zoo Builder | !linktree !discord",
       "game": "Planet Zoo 2",
       "started_at": "2026-10-13T19:14:09Z"
-    },
-    {
-      "username": "SydHeresy",
-      "title": "Back To The Stream! - Soldering - Electronics - Shenanigans",
-      "game": "Just Chatting",
-      "started_at": "2026-10-13T19:45:43Z"
     },
     {
       "username": "xTalkProgrammer",
