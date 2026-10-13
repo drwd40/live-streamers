@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-13T21:08:39.682Z",
+  "timestamp": "2026-10-13T21:19:42.892Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,22 +26,16 @@
       "started_at": "2026-10-13T19:00:18Z"
     },
     {
-      "username": "oh_bother",
-      "title": "Improvising circuits on a mistake PCB. Modular synthesizer style! PT2",
-      "game": "Science & Technology",
-      "started_at": "2026-10-13T17:00:19Z"
-    },
-    {
       "username": "Zachap",
       "title": "THE WORLD IS A GROUP PROJECT AND THE RICHEST PEOPLE DID NOTHING | Politics, Philosophy & Chaos",
       "game": "Just Chatting",
       "started_at": "2026-10-13T10:02:02Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Back To The Stream! - Soldering - Electronics - Shenanigans",
-      "game": "Just Chatting",
-      "started_at": "2026-10-13T19:45:43Z"
+      "username": "oh_bother",
+      "title": "Improvising circuits on a mistake PCB. Modular synthesizer style! PT2",
+      "game": "Science & Technology",
+      "started_at": "2026-10-13T17:00:19Z"
     },
     {
       "username": "DiatomsATTACK",
@@ -50,16 +44,10 @@
       "started_at": "2026-10-13T19:58:14Z"
     },
     {
-      "username": "Rocketology",
-      "title": "Recco Battaglia - Does This Work Yet?",
-      "game": "Star Citizen",
-      "started_at": "2026-10-13T18:02:31Z"
-    },
-    {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 998: Design Review of Mathematical Computation continued",
-      "game": "Science & Technology",
-      "started_at": "2026-10-13T20:02:56Z"
+      "username": "SydHeresy",
+      "title": "Back To The Stream! - Soldering - Electronics - Shenanigans",
+      "game": "Just Chatting",
+      "started_at": "2026-10-13T19:45:43Z"
     },
     {
       "username": "GeneralSte",
@@ -68,10 +56,10 @@
       "started_at": "2026-10-13T19:14:09Z"
     },
     {
-      "username": "xTalkProgrammer",
-      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
-      "game": "Just Chatting",
-      "started_at": "2026-10-13T18:51:00Z"
+      "username": "Rocketology",
+      "title": "Recco Battaglia - Does This Work Yet?",
+      "game": "Star Citizen",
+      "started_at": "2026-10-13T18:02:31Z"
     },
     {
       "username": "nSimplexPachinko",
