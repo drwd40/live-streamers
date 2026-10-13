@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-13T23:33:46.563Z",
+  "timestamp": "2026-10-13T23:40:58.592Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -44,28 +44,22 @@
       "started_at": "2026-10-13T22:50:17Z"
     },
     {
-      "username": "Rocketology",
-      "title": "Recco Battaglia - Does This Work Yet?",
-      "game": "Star Citizen",
-      "started_at": "2026-10-13T18:02:31Z"
-    },
-    {
       "username": "DonFactorial",
       "title": "Solving a Partial Differential Equations final with MathWithMing on Youtube!",
       "game": "Math",
       "started_at": "2026-10-13T21:36:08Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "FREE Tutoring in Math | Middle + High School Homework Help",
-      "game": "Science & Technology",
-      "started_at": "2026-10-13T23:02:02Z"
-    },
-    {
       "username": "nSimplexPachinko",
       "title": "CW: Body Horror... grossness... Playing CARRION, Night 02, maybe Elite Warring after - 20261013",
       "game": "CARRION",
       "started_at": "2026-10-13T21:01:41Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math | Middle + High School Homework Help",
+      "game": "Science & Technology",
+      "started_at": "2026-10-13T23:02:02Z"
     }
   ]
 }
