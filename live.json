@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-13T17:17:22.212Z",
+  "timestamp": "2026-10-13T17:31:13.232Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,22 @@
       "started_at": "2026-10-13T10:02:02Z"
     },
     {
+      "username": "oh_bother",
+      "title": "Improvising circuits on a mistake PCB. Modular synthesizer style! PT2",
+      "game": "Science & Technology",
+      "started_at": "2026-10-13T17:00:19Z"
+    },
+    {
       "username": "IrishJohnGames",
       "title": "🍀 Back to RoP until Jern Jam Front Page Event! !jj | !rop !patreon !discord",
       "game": "Software and Game Development",
       "started_at": "2026-10-13T17:02:07Z"
     },
     {
-      "username": "oh_bother",
-      "title": "Improvising circuits on a mistake PCB. Modular synthesizer style! PT2",
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 996: Design Review of System Modeling & Design",
       "game": "Science & Technology",
-      "started_at": "2026-10-13T17:00:19Z"
+      "started_at": "2026-10-13T17:17:59Z"
     }
   ]
 }
