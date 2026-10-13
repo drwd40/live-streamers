@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-13T18:27:23.412Z",
+  "timestamp": "2026-10-13T18:45:17.229Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -44,16 +44,16 @@
       "started_at": "2026-10-13T17:02:07Z"
     },
     {
-      "username": "Rocketology",
-      "title": "Recco Battaglia - Does This Work Yet?",
-      "game": "Star Citizen",
-      "started_at": "2026-10-13T18:02:31Z"
-    },
-    {
       "username": "Stephen_Wolfram",
       "title": "Live CEOing Ep 997: Design Review of Machine Learning",
       "game": "Science & Technology",
       "started_at": "2026-10-13T18:24:38Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "Recco Battaglia - Does This Work Yet?",
+      "game": "Star Citizen",
+      "started_at": "2026-10-13T18:02:31Z"
     }
   ]
 }
