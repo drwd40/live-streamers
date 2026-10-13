@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-13T21:28:48.051Z",
+  "timestamp": "2026-10-13T21:38:43.563Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,12 +32,6 @@
       "started_at": "2026-10-13T10:02:02Z"
     },
     {
-      "username": "oh_bother",
-      "title": "Improvising circuits on a mistake PCB. Modular synthesizer style! PT2",
-      "game": "Science & Technology",
-      "started_at": "2026-10-13T17:00:19Z"
-    },
-    {
       "username": "DiatomsATTACK",
       "title": "SEM: Looking at  stuff with @PacificPlankton",
       "game": "Science & Technology",
@@ -66,6 +60,12 @@
       "title": "CW: Body Horror... grossness... Playing CARRION, Night 02, maybe Elite Warring after - 20261013",
       "game": "CARRION",
       "started_at": "2026-10-13T21:01:41Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Solving a Partial Differential Equations final with MathWithMing on Youtube!",
+      "game": "Math",
+      "started_at": "2026-10-13T21:36:08Z"
     }
   ]
 }
