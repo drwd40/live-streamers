@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-13T21:38:43.563Z",
+  "timestamp": "2026-10-13T21:44:34.571Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-10-13T16:25:51Z"
     },
     {
-      "username": "ipaintbirbs",
-      "title": "i.... sculpt birbs???",
-      "game": "Art",
-      "started_at": "2026-10-13T16:30:31Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "🐬 LET'S SAVE THE VAQUITA PORPOISE! 🐬 Discussing the origins, biology, and future of the world's most endangered marine mammal 🐬 !Vdonate",
       "game": "Science & Technology",
       "started_at": "2026-10-13T19:00:18Z"
+    },
+    {
+      "username": "ipaintbirbs",
+      "title": "i.... sculpt birbs???",
+      "game": "Art",
+      "started_at": "2026-10-13T16:30:31Z"
     },
     {
       "username": "Zachap",
@@ -32,16 +32,16 @@
       "started_at": "2026-10-13T10:02:02Z"
     },
     {
-      "username": "DiatomsATTACK",
-      "title": "SEM: Looking at  stuff with @PacificPlankton",
-      "game": "Science & Technology",
-      "started_at": "2026-10-13T19:58:14Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Back To The Stream! - Soldering - Electronics - Shenanigans",
       "game": "Science & Technology",
       "started_at": "2026-10-13T19:45:43Z"
+    },
+    {
+      "username": "DiatomsATTACK",
+      "title": "SEM: Looking at  stuff with @PacificPlankton",
+      "game": "Science & Technology",
+      "started_at": "2026-10-13T19:58:14Z"
     },
     {
       "username": "Rocketology",
@@ -56,16 +56,16 @@
       "started_at": "2026-10-13T19:14:09Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "CW: Body Horror... grossness... Playing CARRION, Night 02, maybe Elite Warring after - 20261013",
-      "game": "CARRION",
-      "started_at": "2026-10-13T21:01:41Z"
-    },
-    {
       "username": "DonFactorial",
       "title": "Solving a Partial Differential Equations final with MathWithMing on Youtube!",
       "game": "Math",
       "started_at": "2026-10-13T21:36:08Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "CW: Body Horror... grossness... Playing CARRION, Night 02, maybe Elite Warring after - 20261013",
+      "game": "CARRION",
+      "started_at": "2026-10-13T21:01:41Z"
     }
   ]
 }
