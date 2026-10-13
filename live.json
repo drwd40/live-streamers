@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-13T01:53:12.721Z",
+  "timestamp": "2026-10-13T02:13:55.602Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-10-12T21:50:24Z"
     },
     {
-      "username": "Moohoodles",
-      "title": "🪐 Astrobiology & Space news ✨ 25k hype! NMS expedition mainly",
-      "game": "Science & Technology",
-      "started_at": "2026-10-13T01:01:13Z"
-    },
-    {
       "username": "SciAnts_Streams",
       "title": "[Charity Event] Save the Vaquita! | The latest in vaquita science news | Partner+ 112/300 | !ppp !yt !pod !jj !vaquita",
       "game": "Science & Technology",
       "started_at": "2026-10-13T01:01:36Z"
+    },
+    {
+      "username": "Moohoodles",
+      "title": "🪐 Astrobiology & Space news ✨ 25k hype! NMS expedition mainly",
+      "game": "Science & Technology",
+      "started_at": "2026-10-13T01:01:13Z"
     },
     {
       "username": "Zachap",
@@ -33,15 +33,9 @@
     },
     {
       "username": "DonFactorial",
-      "title": "Back for a bit more Badlands",
+      "title": "Boldly back for a bit more busy Badlands *spoilers*",
       "game": "DayZ",
       "started_at": "2026-10-13T01:09:56Z"
-    },
-    {
-      "username": "walkingsticklibrary",
-      "title": "Microsoft Monday -- Graphic Charting Odds and Ends.",
-      "game": "Science & Technology",
-      "started_at": "2026-10-13T00:33:04Z"
     }
   ]
 }
