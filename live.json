@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-13T21:50:41.058Z",
+  "timestamp": "2026-10-13T21:56:12.713Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,6 +38,12 @@
       "started_at": "2026-10-13T19:45:43Z"
     },
     {
+      "username": "imreallyimportant",
+      "title": "NEW WHITE HOUSE PRESS SECRETARY MAKES HER (AWFUL) DEBUT | KIMBERLY GUILFOYLE FORCED TO RESIGN",
+      "game": "Just Chatting",
+      "started_at": "2026-10-13T21:49:54Z"
+    },
+    {
       "username": "DiatomsATTACK",
       "title": "SEM: Looking at  stuff with @PacificPlankton",
       "game": "Science & Technology",
@@ -66,12 +72,6 @@
       "title": "CW: Body Horror... grossness... Playing CARRION, Night 02, maybe Elite Warring after - 20261013",
       "game": "CARRION",
       "started_at": "2026-10-13T21:01:41Z"
-    },
-    {
-      "username": "imreallyimportant",
-      "title": "NEW WHITE HOUSE PRESS SECRETARY MAKES HER (AWFUL) DEBUT | KIMBERLY GUILFOYLE FORCED TO RESIGN",
-      "game": "Just Chatting",
-      "started_at": "2026-10-13T21:49:54Z"
     }
   ]
 }
