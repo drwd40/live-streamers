@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-14T18:45:43.484Z",
+  "timestamp": "2026-10-14T18:54:37.507Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "Live CEOing Ep 999: Design Review of Geometry",
       "game": "Science & Technology",
       "started_at": "2026-10-14T18:18:10Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "moar linear algebra planning [!fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-10-14T18:48:25Z"
     }
   ]
 }
