@@ -1,12 +1,6 @@
 {
-  "timestamp": "2026-10-14T17:18:26.215Z",
+  "timestamp": "2026-10-14T17:30:44.741Z",
   "live": [
-    {
-      "username": "Maya",
-      "title": "NEW AMBASSADORS ANNOUNCEMENT!!!!‼️‼️‼️  @alveussanctuary",
-      "game": "Just Chatting",
-      "started_at": "2026-10-14T15:38:37Z"
-    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
@@ -24,6 +18,12 @@
       "title": "think of a viral twitch stream title",
       "game": "Just Chatting",
       "started_at": "2026-10-14T10:03:32Z"
+    },
+    {
+      "username": "DrawCuriosity",
+      "title": "🐬 SAVE LA VAQUITA: Evolutionary Biology, Conservation, Science and more! ✨🐏!tier2 !tier3",
+      "game": "Science & Technology",
+      "started_at": "2026-10-14T17:29:00Z"
     }
   ]
 }
