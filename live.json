@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-14T01:29:13.137Z",
+  "timestamp": "2026-10-14T01:47:58.569Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-10-14T00:22:03Z"
     },
     {
-      "username": "AstroCanuck",
-      "title": "Astro's Po'Pourri: LEGO Mayor Manor & Space News - !Continental Countdown - !subtember extension T3 Minifigure | !drop !tkf",
-      "game": "Lego & Brickbuilding",
-      "started_at": "2026-10-14T00:00:31Z"
-    },
-    {
       "username": "SciAnts_Streams",
       "title": "DROPS🦓 Biologist building a conservation park in Planet Zoo 2! 🦒 | Partner+ 123/300 | !ppp !yt !pod !jj !vaquita",
       "game": "Planet Zoo 2",
       "started_at": "2026-10-14T01:03:27Z"
+    },
+    {
+      "username": "AstroCanuck",
+      "title": "Astro's Po'Pourri: LEGO Mayor Manor & Space News - !Continental Countdown - !subtember extension T3 Minifigure | !drop !tkf",
+      "game": "Lego & Brickbuilding",
+      "started_at": "2026-10-14T00:00:31Z"
     },
     {
       "username": "Zachap",
@@ -62,10 +62,10 @@
       "started_at": "2026-10-13T22:50:17Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "Hunting EDF with the BOOP Brigade - 20261013",
-      "game": "Elite: Dangerous",
-      "started_at": "2026-10-13T21:01:41Z"
+      "username": "walkingsticklibrary",
+      "title": "K-12 Tuesday: The ethics of keeping elephants in zoos, Vivian Leigh's mental health struggles, and how do you eat pigeon peas plus surprises",
+      "game": "Science & Technology",
+      "started_at": "2026-10-14T01:31:30Z"
     }
   ]
 }
