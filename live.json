@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-14T23:27:35.499Z",
+  "timestamp": "2026-10-14T23:35:03.813Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-10-14T13:20:12Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "EJ's Space and Rocket Revue! 10/14/26",
-      "game": "Science & Technology",
-      "started_at": "2026-10-14T16:27:43Z"
-    },
-    {
       "username": "JapanesePrintmaking",
       "title": "Making Japanese woodblock prints ... live while you watch ...",
       "game": "Makers & Crafting",
       "started_at": "2026-10-14T22:59:56Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "EJ's Space and Rocket Revue! 10/14/26",
+      "game": "Science & Technology",
+      "started_at": "2026-10-14T16:27:43Z"
     },
     {
       "username": "Paleontologizing",
@@ -50,16 +50,16 @@
       "started_at": "2026-10-14T20:12:54Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "Rational Functions and Properties; Combined Precalculus 07; Collab w/ @kittiesplease - 20261014",
-      "game": "Math",
-      "started_at": "2026-10-14T20:15:04Z"
-    },
-    {
       "username": "ActualEducation",
       "title": "Physics & Chemistry Homework Help | Middle + High School",
       "game": "Science & Technology",
       "started_at": "2026-10-14T23:04:03Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Rational Functions and Properties; Combined Precalculus 07; Collab w/ @kittiesplease - 20261014",
+      "game": "Math",
+      "started_at": "2026-10-14T20:15:04Z"
     }
   ]
 }
