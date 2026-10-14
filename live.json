@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-14T22:28:59.379Z",
+  "timestamp": "2026-10-14T22:38:27.279Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,22 +32,16 @@
       "started_at": "2026-10-14T17:29:00Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Processing playtest notes (and addressing some via development) (day 122½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-10-14T19:09:23Z"
-    },
-    {
-      "username": "DrMick",
-      "title": "Mental Health Chat + Painting 40k",
-      "game": "Miniatures & Models",
-      "started_at": "2026-10-14T19:38:06Z"
-    },
-    {
       "username": "Zachap",
       "title": "think of a viral twitch stream title",
       "game": "Politics",
       "started_at": "2026-10-14T10:03:32Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Processing playtest notes (and addressing some via development) (day 122½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-10-14T19:09:23Z"
     },
     {
       "username": "Rocketology",
