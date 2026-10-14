@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-14T19:45:12.292Z",
+  "timestamp": "2026-10-14T19:51:28.343Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,16 @@
       "started_at": "2026-10-14T19:09:23Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 1000: Design Review of Machine Learning continued",
-      "game": "Science & Technology",
-      "started_at": "2026-10-14T19:15:51Z"
-    },
-    {
       "username": "DrMick",
       "title": "Mental Health Chat + Painting 40k",
       "game": "Miniatures & Models",
       "started_at": "2026-10-14T19:38:06Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 1000: Design Review of Machine Learning continued",
+      "game": "Science & Technology",
+      "started_at": "2026-10-14T19:15:51Z"
     },
     {
       "username": "DiatomsATTACK",
