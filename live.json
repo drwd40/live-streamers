@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-14T21:50:16.416Z",
+  "timestamp": "2026-10-14T21:55:53.527Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,16 @@
       "started_at": "2026-10-14T19:09:23Z"
     },
     {
-      "username": "Zachap",
-      "title": "think of a viral twitch stream title",
-      "game": "Politics",
-      "started_at": "2026-10-14T10:03:32Z"
-    },
-    {
       "username": "DrMick",
       "title": "Mental Health Chat + Painting 40k",
       "game": "Miniatures & Models",
       "started_at": "2026-10-14T19:38:06Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "think of a viral twitch stream title",
+      "game": "Politics",
+      "started_at": "2026-10-14T10:03:32Z"
     },
     {
       "username": "DiatomsATTACK",
@@ -50,10 +50,10 @@
       "started_at": "2026-10-14T19:40:05Z"
     },
     {
-      "username": "Rocketology",
-      "title": "Grinding that Rep and the New Constellation mkV Centaurus !drops",
-      "game": "Star Citizen",
-      "started_at": "2026-10-14T20:12:54Z"
+      "username": "imreallyimportant",
+      "title": "INFLATION HIGHER THAN EXPECTED (3.7%) | TALARICO TOWN HALL (MAYBE WE'LL WATCH?)",
+      "game": "Just Chatting",
+      "started_at": "2026-10-14T21:49:54Z"
     },
     {
       "username": "Stephen_Wolfram",
@@ -62,16 +62,16 @@
       "started_at": "2026-10-14T21:33:31Z"
     },
     {
+      "username": "Rocketology",
+      "title": "Grinding that Rep and the New Constellation mkV Centaurus !drops",
+      "game": "Star Citizen",
+      "started_at": "2026-10-14T20:12:54Z"
+    },
+    {
       "username": "nSimplexPachinko",
       "title": "Rational Functions and Properties; Combined Precalculus 07; Collab w/ @kittiesplease - 20261014",
       "game": "Math",
       "started_at": "2026-10-14T20:15:04Z"
-    },
-    {
-      "username": "imreallyimportant",
-      "title": "INFLATION HIGHER THAN EXPECTED (3.7%) | TALARICO TOWN HALL (MAYBE WE'LL WATCH?)",
-      "game": "Just Chatting",
-      "started_at": "2026-10-14T21:49:54Z"
     }
   ]
 }
