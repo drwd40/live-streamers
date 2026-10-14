@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-14T20:11:16.157Z",
+  "timestamp": "2026-10-14T20:24:05.385Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,6 +26,12 @@
       "started_at": "2026-10-14T19:09:23Z"
     },
     {
+      "username": "Paleontologizing",
+      "title": "🌲🦕 NATIONAL FOSSIL DAY 🦴⛏🏞 Celebrating the National Park Service's preservation of our fossil heritage (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-10-14T20:16:52Z"
+    },
+    {
       "username": "Zachap",
       "title": "think of a viral twitch stream title",
       "game": "Politics",
@@ -38,22 +44,28 @@
       "started_at": "2026-10-14T19:38:06Z"
     },
     {
-      "username": "DiatomsATTACK",
-      "title": "SEM: Looking at bug parts, glitter, plants, and diatomites in a Scanning Electron Microscope with @PacificPlankton",
-      "game": "Science & Technology",
-      "started_at": "2026-10-14T19:40:05Z"
-    },
-    {
       "username": "Stephen_Wolfram",
       "title": "Live CEOing Ep 1000: Design Review of Machine Learning continued",
       "game": "Science & Technology",
       "started_at": "2026-10-14T19:15:51Z"
     },
     {
-      "username": "pencenter",
-      "title": "moar linear algebra planning [!fish🎣|!commands💻]",
+      "username": "DiatomsATTACK",
+      "title": "SEM: Looking at bug parts, glitter, plants, and diatomites in a Scanning Electron Microscope with @PacificPlankton",
+      "game": "Science & Technology",
+      "started_at": "2026-10-14T19:40:05Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Rational Functions and Properties; Combined Precalculus 07; Collab w/ @kittiesplease - 20261014",
       "game": "Math",
-      "started_at": "2026-10-14T18:48:25Z"
+      "started_at": "2026-10-14T20:15:04Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "Grinding that Rep and the New Constellation mkV Centaurus !drops",
+      "game": "Star Citizen",
+      "started_at": "2026-10-14T20:12:54Z"
     }
   ]
 }
