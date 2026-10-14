@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-14T23:51:58.308Z",
+  "timestamp": "2026-10-14T23:57:29.865Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -50,16 +50,16 @@
       "started_at": "2026-10-14T20:12:54Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "Rational Functions and Properties; Combined Precalculus 07; Collab w/ @kittiesplease - 20261014",
-      "game": "Math",
-      "started_at": "2026-10-14T20:15:04Z"
-    },
-    {
       "username": "ActualEducation",
       "title": "Physics & Chemistry Homework Help | Middle + High School",
       "game": "Co-working & Studying",
       "started_at": "2026-10-14T23:04:03Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Rational Functions and Properties; Combined Precalculus 07; Collab w/ @kittiesplease - 20261014",
+      "game": "Math",
+      "started_at": "2026-10-14T20:15:04Z"
     }
   ]
 }
