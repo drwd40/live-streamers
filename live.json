@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-14T18:06:05.256Z",
+  "timestamp": "2026-10-14T18:28:07.760Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,22 @@
       "started_at": "2026-10-14T16:27:43Z"
     },
     {
+      "username": "DrawCuriosity",
+      "title": "🐬 SAVE LA VAQUITA: Evolutionary Biology, Conservation, Science and more! ✨🐏!tier2 !tier3",
+      "game": "Science & Technology",
+      "started_at": "2026-10-14T17:29:00Z"
+    },
+    {
       "username": "Zachap",
       "title": "think of a viral twitch stream title",
       "game": "Just Chatting",
       "started_at": "2026-10-14T10:03:32Z"
     },
     {
-      "username": "DrawCuriosity",
-      "title": "🐬 SAVE LA VAQUITA: Evolutionary Biology, Conservation, Science and more! ✨🐏!tier2 !tier3",
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 999: Design Review of Geometry",
       "game": "Science & Technology",
-      "started_at": "2026-10-14T17:29:00Z"
+      "started_at": "2026-10-14T18:18:10Z"
     }
   ]
 }
