@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-14T16:35:49.397Z",
+  "timestamp": "2026-10-14T16:47:49.058Z",
   "live": [
     {
       "username": "Maya",
@@ -14,28 +14,22 @@
       "started_at": "2026-10-14T13:20:12Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Playtesting day! 🎉 Let's see if RenegadePige has fun 👀 (day 122)",
-      "game": "Software and Game Development",
-      "started_at": "2026-10-14T14:43:23Z"
-    },
-    {
       "username": "EJ_SA",
       "title": "Orbiter Lifting Frame upgrades and Orbiter Recovery! SLC-6 (Part 25) 10/14/26",
       "game": "Kerbal Space Program",
       "started_at": "2026-10-14T16:27:43Z"
     },
     {
+      "username": "AdamLearnsLive",
+      "title": "Playtesting day! 🎉 Let's see if RenegadePige has fun 👀 (day 122)",
+      "game": "Software and Game Development",
+      "started_at": "2026-10-14T14:43:23Z"
+    },
+    {
       "username": "Zachap",
       "title": "think of a viral twitch stream title",
       "game": "Just Chatting",
       "started_at": "2026-10-14T10:03:32Z"
-    },
-    {
-      "username": "DiatomsATTACK",
-      "title": "SEM: Looking at micro-meteorites and diatomites in a Scanning Electron Microscope with @PacificPlankton",
-      "game": "Science & Technology",
-      "started_at": "2026-10-14T15:34:33Z"
     }
   ]
 }
