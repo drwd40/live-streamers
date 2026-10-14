@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-14T04:12:30.161Z",
+  "timestamp": "2026-10-14T04:31:04.718Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "K-12 Tuesday: The ethics of keeping elephants in zoos, Vivian Leigh's mental health struggles, and how do you eat pigeon peas plus surprises",
       "game": "Science & Technology",
       "started_at": "2026-10-14T01:31:30Z"
+    },
+    {
+      "username": "DrMick",
+      "title": "Heels vs Party crashers",
+      "game": "Sports",
+      "started_at": "2026-10-14T04:30:39Z"
     }
   ]
 }
