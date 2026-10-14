@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-14T14:42:58.656Z",
+  "timestamp": "2026-10-14T14:50:35.917Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -15,9 +15,15 @@
     },
     {
       "username": "Nerduino",
-      "title": "Coffee with Nerduino!  PhD Scientist.  #savethevaquita #climatechange #NASA #science #scientist",
-      "game": "Just Chatting",
+      "title": "Coffee with Nerduino!  More Vaquita chat!  PhD Scientist.  #savethevaquita #climatechange #NASA #science #scientist",
+      "game": "Science & Technology",
       "started_at": "2026-10-14T13:22:51Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Playtesting day! 🎉 Let's see if RenegadePige has fun 👀 (day 122)",
+      "game": "Software and Game Development",
+      "started_at": "2026-10-14T14:43:23Z"
     }
   ]
 }
