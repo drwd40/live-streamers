@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-14T19:00:11.570Z",
+  "timestamp": "2026-10-14T19:16:56.341Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,22 @@
       "started_at": "2026-10-14T10:03:32Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 999: Design Review of Geometry",
-      "game": "Science & Technology",
-      "started_at": "2026-10-14T18:18:10Z"
+      "username": "AdamLearnsLive",
+      "title": "Processing playtest notes (and addressing some via development) (day 122½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-10-14T19:09:23Z"
     },
     {
       "username": "pencenter",
       "title": "moar linear algebra planning [!fish🎣|!commands💻]",
       "game": "Math",
       "started_at": "2026-10-14T18:48:25Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 1000: Design Review of Machine Learning continued",
+      "game": "Science & Technology",
+      "started_at": "2026-10-14T19:15:51Z"
     }
   ]
 }
