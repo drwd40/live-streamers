@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-14T20:24:05.385Z",
+  "timestamp": "2026-10-14T20:32:19.884Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-10-14T17:29:00Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Processing playtest notes (and addressing some via development) (day 122½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-10-14T19:09:23Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "🌲🦕 NATIONAL FOSSIL DAY 🦴⛏🏞 Celebrating the National Park Service's preservation of our fossil heritage (w/ paleontologist Danny Anduza)",
       "game": "Science & Technology",
       "started_at": "2026-10-14T20:16:52Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Processing playtest notes (and addressing some via development) (day 122½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-10-14T19:09:23Z"
     },
     {
       "username": "Zachap",
