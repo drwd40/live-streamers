@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-14T20:32:19.884Z",
+  "timestamp": "2026-10-14T20:42:22.739Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-10-14T16:27:43Z"
     },
     {
-      "username": "DrawCuriosity",
-      "title": "🐬 SAVE LA VAQUITA: Evolutionary Biology, Conservation, Science and more! ✨🐏!tier2 !tier3",
-      "game": "Science & Technology",
-      "started_at": "2026-10-14T17:29:00Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "🌲🦕 NATIONAL FOSSIL DAY 🦴⛏🏞 Celebrating the National Park Service's preservation of our fossil heritage (w/ paleontologist Danny Anduza)",
       "game": "Science & Technology",
       "started_at": "2026-10-14T20:16:52Z"
+    },
+    {
+      "username": "DrawCuriosity",
+      "title": "🐬 SAVE LA VAQUITA: Evolutionary Biology, Conservation, Science and more! ✨🐏!tier2 !tier3",
+      "game": "Science & Technology",
+      "started_at": "2026-10-14T17:29:00Z"
     },
     {
       "username": "AdamLearnsLive",
@@ -44,16 +44,16 @@
       "started_at": "2026-10-14T19:38:06Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 1000: Design Review of Machine Learning continued",
-      "game": "Science & Technology",
-      "started_at": "2026-10-14T19:15:51Z"
-    },
-    {
       "username": "DiatomsATTACK",
       "title": "SEM: Looking at bug parts, glitter, plants, and diatomites in a Scanning Electron Microscope with @PacificPlankton",
       "game": "Science & Technology",
       "started_at": "2026-10-14T19:40:05Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 1001: Design Review of Sound & Vision",
+      "game": "Science & Technology",
+      "started_at": "2026-10-14T20:40:47Z"
     },
     {
       "username": "nSimplexPachinko",
