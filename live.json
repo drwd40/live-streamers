@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-14T15:24:52.391Z",
+  "timestamp": "2026-10-14T15:36:06.979Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "Coffee with Nerduino!  More Vaquita chat!  PhD Scientist.  #savethevaquita #climatechange #NASA #science #scientist",
       "game": "Science & Technology",
       "started_at": "2026-10-14T13:22:51Z"
+    },
+    {
+      "username": "DiatomsATTACK",
+      "title": "SEM: Looking at micro-meteorites and diatomites in a Scanning Electron Microscope with @PacificPlankton",
+      "game": "Science & Technology",
+      "started_at": "2026-10-14T15:34:33Z"
     }
   ]
 }
