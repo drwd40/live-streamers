@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-15T22:59:45.113Z",
+  "timestamp": "2026-10-15T23:14:25.063Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,16 +38,16 @@
       "started_at": "2026-10-15T10:17:01Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Electronics - Synthesizers - Repairs - Chillin'",
-      "game": "Science & Technology",
-      "started_at": "2026-10-15T18:55:30Z"
-    },
-    {
       "username": "shnaff",
       "title": "Chill guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2026-10-15T22:00:40Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Electronics - Synthesizers - Repairs - Chillin'",
+      "game": "Science & Technology",
+      "started_at": "2026-10-15T18:55:30Z"
     },
     {
       "username": "Rocketology",
@@ -60,6 +60,12 @@
       "title": "Patch day Namalsk",
       "game": "DayZ",
       "started_at": "2026-10-15T20:12:14Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Co-working & Studying",
+      "started_at": "2026-10-15T23:01:12Z"
     }
   ]
 }
