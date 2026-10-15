@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-15T22:26:30.177Z",
+  "timestamp": "2026-10-15T22:35:23.809Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -44,28 +44,22 @@
       "started_at": "2026-10-15T10:17:01Z"
     },
     {
-      "username": "shnaff",
-      "title": "Chill guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-10-15T22:00:40Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Electronics - Synthesizers - Repairs - Chillin'",
       "game": "Science & Technology",
       "started_at": "2026-10-15T18:55:30Z"
     },
     {
+      "username": "shnaff",
+      "title": "Chill guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-10-15T22:00:40Z"
+    },
+    {
       "username": "Rocketology",
       "title": "1.0 Release! From the Beginning Flameborn!",
       "game": "Enshrouded",
       "started_at": "2026-10-15T17:52:05Z"
-    },
-    {
-      "username": "DiatomsATTACK",
-      "title": "SEM: Looking at diatomites and diatom samples in a Scanning Electron Microscope with @PacificPlankton",
-      "game": "Science & Technology",
-      "started_at": "2026-10-15T21:01:32Z"
     },
     {
       "username": "DonFactorial",
