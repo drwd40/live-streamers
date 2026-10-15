@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-15T20:50:19.514Z",
+  "timestamp": "2026-10-15T20:56:03.887Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-10-15T16:23:05Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "Castlevania: Belmont's Curse Release Day! [SUB = BADGE]| Vampire Slaying science | Partner+ 137/300 | !ppp !yt !pod !jj !vaquita",
-      "game": "Castlevania: Belmont's Curse",
-      "started_at": "2026-10-15T15:36:39Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "LEATHERBACK TURTLE DAY 🌊 Bringing attention to the most endangered sea turtle population on the planet 🌊 (w/ paleontologist Danny Anduza)",
       "game": "Science & Technology",
       "started_at": "2026-10-15T20:19:07Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "Castlevania: Belmont's Curse Release Day! [SUB = BADGE]| Vampire Slaying science | Partner+ 137/300 | !ppp !yt !pod !jj !vaquita",
+      "game": "Castlevania: Belmont's Curse",
+      "started_at": "2026-10-15T15:36:39Z"
     },
     {
       "username": "DrMick",
@@ -50,16 +50,16 @@
       "started_at": "2026-10-15T18:55:30Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 1005: Design Review of Geometry continued",
-      "game": "Science & Technology",
-      "started_at": "2026-10-15T20:10:32Z"
-    },
-    {
       "username": "Rocketology",
       "title": "1.0 Release! From the Beginning Flameborn!",
       "game": "Enshrouded",
       "started_at": "2026-10-15T17:52:05Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 1005: Design Review of Geometry continued",
+      "game": "Science & Technology",
+      "started_at": "2026-10-15T20:10:32Z"
     },
     {
       "username": "DonFactorial",
