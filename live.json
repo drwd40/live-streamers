@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-15T17:22:18.519Z",
+  "timestamp": "2026-10-15T17:31:22.405Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-10-15T15:36:39Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Starting to stabilize (day 123)",
-      "game": "Software and Game Development",
-      "started_at": "2026-10-15T14:45:10Z"
-    },
-    {
       "username": "EJ_SA",
       "title": "SEASON 2 SKIRMISH SHIN TZUS! 10/15/26",
       "game": "WARDOGS",
       "started_at": "2026-10-15T16:23:05Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Starting to stabilize (day 123)",
+      "game": "Software and Game Development",
+      "started_at": "2026-10-15T14:45:10Z"
     },
     {
       "username": "Zachap",
@@ -42,6 +42,12 @@
       "title": "🍀 Back to RoP until Jern Jam Front Page Event! !jj | !rop !patreon !discord",
       "game": "Software and Game Development",
       "started_at": "2026-10-15T17:00:06Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 1003: Design Review of PDE Functionality continued",
+      "game": "Science & Technology",
+      "started_at": "2026-10-15T17:24:27Z"
     }
   ]
 }
