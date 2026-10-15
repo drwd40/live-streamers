@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-15T17:53:10.117Z",
+  "timestamp": "2026-10-15T17:59:04.679Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -54,6 +54,12 @@
       "title": "1.0 Release! From the Beginning Flameborn!",
       "game": "Enshrouded",
       "started_at": "2026-10-15T17:52:05Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "\"Mountains to Climb\" (i.e., Zach Rants about Math/Ed/CS) + Answering Questions/Programming (?)",
+      "game": "Math",
+      "started_at": "2026-10-15T17:57:22Z"
     }
   ]
 }
