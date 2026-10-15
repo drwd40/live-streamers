@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-15T01:28:11.970Z",
+  "timestamp": "2026-10-15T01:47:37.424Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,12 +12,6 @@
       "title": "WEDNESDAY NIGHT HAVOC HUSKIES! 10/14/26",
       "game": "WARDOGS",
       "started_at": "2026-10-14T16:27:43Z"
-    },
-    {
-      "username": "imreallyimportant",
-      "title": "INFLATION HIGHER THAN EXPECTED (3.7%) | TALARICO TOWN HALL (MAYBE WE'LL WATCH?)",
-      "game": "Just Chatting",
-      "started_at": "2026-10-14T21:49:54Z"
     },
     {
       "username": "Paleontologizing",
@@ -44,16 +38,22 @@
       "started_at": "2026-10-14T10:03:32Z"
     },
     {
+      "username": "nogre0",
+      "title": "philosophy philosophy philosophy philosophy philosophy philosophy",
+      "game": "Just Chatting",
+      "started_at": "2026-10-15T00:00:07Z"
+    },
+    {
       "username": "SharkG33k",
       "title": "Playing Vaquita Games! | !vaquita",
       "game": "Special Events",
       "started_at": "2026-10-15T00:01:43Z"
     },
     {
-      "username": "nogre0",
-      "title": "philosophy philosophy philosophy philosophy philosophy philosophy",
-      "game": "Just Chatting",
-      "started_at": "2026-10-15T00:00:07Z"
+      "username": "walkingsticklibrary",
+      "title": "Chasing white nose syndrome from NPR. Should I teach Excel dashboards? The Narcissists fight back!",
+      "game": "Science & Technology",
+      "started_at": "2026-10-15T01:30:45Z"
     }
   ]
 }
