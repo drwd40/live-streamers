@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-15T00:33:08.932Z",
+  "timestamp": "2026-10-15T01:05:45.152Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,28 +8,22 @@
       "started_at": "2026-10-14T13:20:12Z"
     },
     {
-      "username": "JapanesePrintmaking",
-      "title": "Making Japanese woodblock prints ... live while you watch ...",
-      "game": "Makers & Crafting",
-      "started_at": "2026-10-14T22:59:56Z"
-    },
-    {
       "username": "EJ_SA",
       "title": "WEDNESDAY NIGHT HAVOC HUSKIES! 10/14/26",
       "game": "WARDOGS",
       "started_at": "2026-10-14T16:27:43Z"
     },
     {
-      "username": "imreallyimportant",
-      "title": "INFLATION HIGHER THAN EXPECTED (3.7%) | TALARICO TOWN HALL (MAYBE WE'LL WATCH?)",
-      "game": "Just Chatting",
-      "started_at": "2026-10-14T21:49:54Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "🌲🦕 NATIONAL FOSSIL DAY 🦴⛏🏞 Celebrating the National Park Service's preservation of our fossil heritage (w/ paleontologist Danny Anduza)",
       "game": "Science & Technology",
       "started_at": "2026-10-14T20:16:52Z"
+    },
+    {
+      "username": "imreallyimportant",
+      "title": "INFLATION HIGHER THAN EXPECTED (3.7%) | TALARICO TOWN HALL (MAYBE WE'LL WATCH?)",
+      "game": "Just Chatting",
+      "started_at": "2026-10-14T21:49:54Z"
     },
     {
       "username": "Zachap",
@@ -48,18 +42,6 @@
       "title": "philosophy philosophy philosophy philosophy philosophy philosophy",
       "game": "Just Chatting",
       "started_at": "2026-10-15T00:00:07Z"
-    },
-    {
-      "username": "ActualEducation",
-      "title": "Physics & Chemistry Homework Help | Middle + High School",
-      "game": "Co-working & Studying",
-      "started_at": "2026-10-14T23:04:03Z"
-    },
-    {
-      "username": "nSimplexPachinko",
-      "title": "Rational Functions and Properties; Combined Precalculus 07; Collab w/ @kittiesplease - 20261014",
-      "game": "Math",
-      "started_at": "2026-10-14T20:15:04Z"
     }
   ]
 }
