@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-15T22:13:26.629Z",
+  "timestamp": "2026-10-15T22:26:30.177Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-10-15T20:19:07Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "Castlevania: Belmont's Curse Release Day! [SUB = BADGE]| Vampire Slaying science | Partner+ 137/300 | !ppp !yt !pod !jj !vaquita",
-      "game": "Castlevania: Belmont's Curse",
-      "started_at": "2026-10-15T15:36:39Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "EL-SAYED & AOC TOWN HALL",
       "game": "Just Chatting",
       "started_at": "2026-10-15T21:51:56Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "Castlevania: Belmont's Curse Release Day! [SUB = BADGE]| Vampire Slaying science | Partner+ 137/300 | !ppp !yt !pod !jj !vaquita",
+      "game": "Castlevania: Belmont's Curse",
+      "started_at": "2026-10-15T15:36:39Z"
     },
     {
       "username": "DrMick",
@@ -42,6 +42,12 @@
       "title": "and again",
       "game": "Politics",
       "started_at": "2026-10-15T10:17:01Z"
+    },
+    {
+      "username": "shnaff",
+      "title": "Chill guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-10-15T22:00:40Z"
     },
     {
       "username": "SydHeresy",
@@ -60,12 +66,6 @@
       "title": "SEM: Looking at diatomites and diatom samples in a Scanning Electron Microscope with @PacificPlankton",
       "game": "Science & Technology",
       "started_at": "2026-10-15T21:01:32Z"
-    },
-    {
-      "username": "shnaff",
-      "title": "Chill guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-10-15T22:00:40Z"
     },
     {
       "username": "DonFactorial",
