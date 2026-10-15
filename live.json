@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-10-15T01:47:37.424Z",
+  "timestamp": "2026-10-15T01:58:00.672Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
-      "game": "Animals, Aquariums, and Zoos",
+      "title": "Chat Chats w/ Evan | !alveus !institute !pixel !schedule !video",
+      "game": "Just Chatting",
       "started_at": "2026-10-14T13:20:12Z"
     },
     {
@@ -12,12 +12,6 @@
       "title": "WEDNESDAY NIGHT HAVOC HUSKIES! 10/14/26",
       "game": "WARDOGS",
       "started_at": "2026-10-14T16:27:43Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "🌲🦕 NATIONAL FOSSIL DAY 🦴⛏🏞 Celebrating the National Park Service's preservation of our fossil heritage (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-10-14T20:16:52Z"
     },
     {
       "username": "Moohoodles",
@@ -38,16 +32,16 @@
       "started_at": "2026-10-14T10:03:32Z"
     },
     {
-      "username": "nogre0",
-      "title": "philosophy philosophy philosophy philosophy philosophy philosophy",
-      "game": "Just Chatting",
-      "started_at": "2026-10-15T00:00:07Z"
-    },
-    {
       "username": "SharkG33k",
       "title": "Playing Vaquita Games! | !vaquita",
       "game": "Special Events",
       "started_at": "2026-10-15T00:01:43Z"
+    },
+    {
+      "username": "nogre0",
+      "title": "philosophy philosophy philosophy philosophy philosophy philosophy",
+      "game": "Just Chatting",
+      "started_at": "2026-10-15T00:00:07Z"
     },
     {
       "username": "walkingsticklibrary",
