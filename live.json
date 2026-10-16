@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-16T02:50:21.504Z",
+  "timestamp": "2026-10-16T02:56:57.044Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-10-16T00:50:32Z"
     },
     {
-      "username": "Zachap",
-      "title": "and again",
-      "game": "Politics",
-      "started_at": "2026-10-15T10:17:01Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Electronics - Synthesizers - Repairs - Chillin'",
       "game": "Science & Technology",
       "started_at": "2026-10-15T18:55:30Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "and again",
+      "game": "Just Chatting",
+      "started_at": "2026-10-15T10:17:01Z"
     },
     {
       "username": "Mr_Aejis",
