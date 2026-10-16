@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-16T17:07:20.999Z",
+  "timestamp": "2026-10-16T17:19:11.043Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,12 +12,6 @@
       "title": "when you watch birds, do they watch back?",
       "game": "Art",
       "started_at": "2026-10-16T15:21:06Z"
-    },
-    {
-      "username": "EJ_SA",
-      "title": "Let's recover the shuttle off the runway and then some! The SLC-6 Project (Part 26)",
-      "game": "Kerbal Space Program",
-      "started_at": "2026-10-16T16:31:52Z"
     },
     {
       "username": "Zachap",
@@ -42,6 +36,12 @@
       "title": "Following up on some stuff, misc day!",
       "game": "Science & Technology",
       "started_at": "2026-10-16T16:37:33Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 1006: Design Review of Sound & Vision continued",
+      "game": "Science & Technology",
+      "started_at": "2026-10-16T17:15:51Z"
     }
   ]
 }
