@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-16T01:09:58.949Z",
+  "timestamp": "2026-10-16T01:29:20.403Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,16 +38,16 @@
       "started_at": "2026-10-15T10:17:01Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Electronics - Synthesizers - Repairs - Chillin'",
-      "game": "Science & Technology",
-      "started_at": "2026-10-15T18:55:30Z"
-    },
-    {
       "username": "Nerduino",
       "title": "Thursday night science chat!  Oldest shipwreck ever?   PhD Scientist.  #savethevaquita #climatechange #NASA #science #scientist",
       "game": "Science & Technology",
       "started_at": "2026-10-16T00:50:32Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Electronics - Synthesizers - Repairs - Chillin'",
+      "game": "Science & Technology",
+      "started_at": "2026-10-15T18:55:30Z"
     },
     {
       "username": "ActualEducation",
