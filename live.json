@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-16T19:29:33.027Z",
+  "timestamp": "2026-10-16T19:38:58.346Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-10-16T16:37:33Z"
     },
     {
-      "username": "Rocketology",
-      "title": "1.0 Release! From the Beginning - Day 2!",
-      "game": "Enshrouded",
-      "started_at": "2026-10-16T18:05:01Z"
-    },
-    {
       "username": "DiatomsATTACK",
       "title": "SEM: Looking at lash bears and diatoms in a Scanning Electron Microscope with @PacificPlankton",
       "game": "Science & Technology",
       "started_at": "2026-10-16T18:46:57Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "1.0 Release! From the Beginning - Day 2!",
+      "game": "Enshrouded",
+      "started_at": "2026-10-16T18:05:01Z"
     }
   ]
 }
