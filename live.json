@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-16T00:10:17.246Z",
+  "timestamp": "2026-10-16T00:52:27.351Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -9,21 +9,21 @@
     },
     {
       "username": "EJ_SA",
-      "title": "SEASON 2 SKIRMISH SHIN TZUS! 10/15/26",
-      "game": "WARDOGS",
-      "started_at": "2026-10-15T16:23:05Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "LEATHERBACK TURTLE DAY 🌊 Bringing attention to the most endangered sea turtle population on the planet 🌊 (w/ paleontologist Danny Anduza)",
+      "title": "EJ's Space and Tesla Roadster Revue! 10/15/26",
       "game": "Science & Technology",
-      "started_at": "2026-10-15T20:19:07Z"
+      "started_at": "2026-10-15T16:23:05Z"
     },
     {
       "username": "imreallyimportant",
       "title": "EL-SAYED & AOC TOWN HALL",
       "game": "Just Chatting",
       "started_at": "2026-10-15T21:51:56Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "LEATHERBACK TURTLE DAY 🌊 Bringing attention to the most endangered sea turtle population on the planet 🌊 (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-10-15T20:19:07Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -38,34 +38,28 @@
       "started_at": "2026-10-15T10:17:01Z"
     },
     {
-      "username": "shnaff",
-      "title": "Chill guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-10-15T22:00:40Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Electronics - Synthesizers - Repairs - Chillin'",
       "game": "Science & Technology",
       "started_at": "2026-10-15T18:55:30Z"
     },
     {
-      "username": "Rocketology",
-      "title": "1.0 Release! From the Beginning Flameborn!",
-      "game": "Enshrouded",
-      "started_at": "2026-10-15T17:52:05Z"
-    },
-    {
-      "username": "DonFactorial",
-      "title": "Patch day Namalsk",
-      "game": "DayZ",
-      "started_at": "2026-10-15T20:12:14Z"
+      "username": "Mr_Aejis",
+      "title": "Teacher Plays: Persona 5! 1st-time playthrough",
+      "game": "Persona 5 Royal",
+      "started_at": "2026-10-16T00:33:48Z"
     },
     {
       "username": "ActualEducation",
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Co-working & Studying",
       "started_at": "2026-10-15T23:01:12Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Thursday night science chat!  Oldest shipwreck ever?   PhD Scientist.  #savethevaquita #climatechange #NASA #science #scientist",
+      "game": "Science & Technology",
+      "started_at": "2026-10-16T00:50:32Z"
     }
   ]
 }
