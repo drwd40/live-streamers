@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-16T18:43:06.221Z",
+  "timestamp": "2026-10-16T18:51:58.202Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "1.0 Release! From the Beginning - Day 2!",
       "game": "Enshrouded",
       "started_at": "2026-10-16T18:05:01Z"
+    },
+    {
+      "username": "DiatomsATTACK",
+      "title": "SEM: Looking at lash bears and diatoms in a Scanning Electron Microscope with @PacificPlankton",
+      "game": "Science & Technology",
+      "started_at": "2026-10-16T18:46:57Z"
     }
   ]
 }
