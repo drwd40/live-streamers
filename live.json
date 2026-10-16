@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-16T22:46:32.820Z",
+  "timestamp": "2026-10-16T22:52:16.568Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,22 +26,10 @@
       "started_at": "2026-10-16T20:06:56Z"
     },
     {
-      "username": "Rocketology",
-      "title": "1.0 Release! From the Beginning - Day 2!",
-      "game": "Enshrouded",
-      "started_at": "2026-10-16T18:05:01Z"
-    },
-    {
       "username": "jacksfacts",
       "title": "What a way to celebrate my birthday than to figure out some genetics in Horsy game!",
       "game": "Horsey Game",
       "started_at": "2026-10-16T20:42:06Z"
-    },
-    {
-      "username": "nSimplexPachinko",
-      "title": "Prison Policy Initiative & National Registry of Exonerations; Math for Social Justice - 20261016",
-      "game": "Math",
-      "started_at": "2026-10-16T21:14:31Z"
     }
   ]
 }
