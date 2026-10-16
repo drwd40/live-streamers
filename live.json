@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-16T20:42:57.173Z",
+  "timestamp": "2026-10-16T20:50:11.573Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,12 +26,6 @@
       "started_at": "2026-10-16T16:37:33Z"
     },
     {
-      "username": "Rocketology",
-      "title": "1.0 Release! From the Beginning - Day 2!",
-      "game": "Enshrouded",
-      "started_at": "2026-10-16T18:05:01Z"
-    },
-    {
       "username": "DiatomsATTACK",
       "title": "SEM: Looking at lash bears and diatoms in a Scanning Electron Microscope with @PacificPlankton",
       "game": "Science & Technology",
@@ -42,6 +36,12 @@
       "title": "Metamorphics - For Better or Worse, These Rocks Have Changed! 🪨🔬 !discord !nova !tkf",
       "game": "Science & Technology",
       "started_at": "2026-10-16T20:06:56Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "1.0 Release! From the Beginning - Day 2!",
+      "game": "Enshrouded",
+      "started_at": "2026-10-16T18:05:01Z"
     },
     {
       "username": "jacksfacts",
