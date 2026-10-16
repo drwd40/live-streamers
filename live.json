@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-16T16:30:49.066Z",
+  "timestamp": "2026-10-16T16:42:18.408Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -17,7 +17,7 @@
       "username": "EJ_SA",
       "title": "Let's recover the shuttle off the runway and then some! The SLC-6 Project (Part 26)",
       "game": "Kerbal Space Program",
-      "started_at": "2026-10-16T16:24:04Z"
+      "started_at": "2026-10-16T16:31:52Z"
     },
     {
       "username": "csharpfritz",
@@ -36,6 +36,12 @@
       "title": "Live marine preserve kayaking with @baronofbile | !vaquita",
       "game": "IRL",
       "started_at": "2026-10-16T13:52:35Z"
+    },
+    {
+      "username": "oh_bother",
+      "title": "Following up on some stuff, misc day!",
+      "game": "Science & Technology",
+      "started_at": "2026-10-16T16:37:33Z"
     }
   ]
 }
