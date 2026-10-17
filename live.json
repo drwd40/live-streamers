@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-17T18:49:05.989Z",
+  "timestamp": "2026-10-17T18:54:49.430Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,22 +14,16 @@
       "started_at": "2026-10-17T10:03:10Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Bring Your Questions: Math/Ed Q&A",
+      "username": "DonFactorial",
+      "title": "Answering your math questions and studying probability",
       "game": "Math",
-      "started_at": "2026-10-17T16:00:58Z"
+      "started_at": "2026-10-17T18:47:26Z"
     },
     {
       "username": "Rocketology",
       "title": "1.0 Release! From the Beginning - Day 3!",
       "game": "Enshrouded",
       "started_at": "2026-10-17T17:43:18Z"
-    },
-    {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and studying probability",
-      "game": "Math",
-      "started_at": "2026-10-17T18:47:26Z"
     }
   ]
 }
