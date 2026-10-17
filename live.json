@@ -1,11 +1,17 @@
 {
-  "timestamp": "2026-10-17T00:48:22.277Z",
+  "timestamp": "2026-10-17T01:09:34.487Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-10-16T21:06:45Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "SciAnts News | New species, fly aggression, bee swarms, coral, and more! | Partner+ 159/300 | !ppp !yt !pod !jj !vaquita",
+      "game": "Science & Technology",
+      "started_at": "2026-10-17T01:01:40Z"
     }
   ]
 }
