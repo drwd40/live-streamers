@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-10-18T18:54:09.032Z",
+  "timestamp": "2026-10-18T18:59:42.190Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-10-18T04:33:19Z"
-    },
-    {
-      "username": "TinyToxicTofu",
-      "title": "⚡ Sorting Electronics, Building Humidity Sensor and Playing RE9 ⚡!phd !physics !ccc",
-      "game": "RESIDENT EVIL: requiem",
-      "started_at": "2026-10-18T13:49:04Z"
     },
     {
       "username": "AstroCanuck",
@@ -32,22 +26,28 @@
       "started_at": "2026-10-18T10:03:32Z"
     },
     {
-      "username": "DiatomsATTACK",
-      "title": "SEM: Looking at insects, spiderweb, and beard hair in a Scanning Electron Microscope with @PacificPlankton",
-      "game": "Science & Technology",
-      "started_at": "2026-10-18T18:27:03Z"
-    },
-    {
       "username": "CosmoQuestX",
       "title": "Astronomy Cast LIVE",
       "game": "Science & Technology",
       "started_at": "2026-10-18T18:41:21Z"
     },
     {
+      "username": "DiatomsATTACK",
+      "title": "SEM: Looking at insects, spiderweb, and beard hair in a Scanning Electron Microscope with @PacificPlankton",
+      "game": "Science & Technology",
+      "started_at": "2026-10-18T18:27:03Z"
+    },
+    {
       "username": "DrAlexanderClarke",
       "title": "Bruships 264: Naval History Questions Answered Live",
       "game": "Just Chatting",
       "started_at": "2026-10-18T18:33:53Z"
+    },
+    {
+      "username": "DasValdez",
+      "title": "Unraveling the Universe: The Nancy Grace Roman Space Telescope - Intrepid Museum Astro Live",
+      "game": "Science & Technology",
+      "started_at": "2026-10-18T18:59:35Z"
     }
   ]
 }
