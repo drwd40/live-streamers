@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-18T15:50:00.541Z",
+  "timestamp": "2026-10-18T15:56:00.826Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,6 +26,12 @@
       "started_at": "2026-10-18T15:20:31Z"
     },
     {
+      "username": "DrawCuriosity",
+      "title": "🎨 IRL PLEIN AIR PAINTING IN SEVILLE!!! ✨🐏!tier2 !tier3",
+      "game": "IRL",
+      "started_at": "2026-10-18T15:45:46Z"
+    },
+    {
       "username": "nogre0",
       "title": "philosophy philosophy philosophy philosophy philosophy philosophy",
       "game": "Just Chatting",
@@ -36,12 +42,6 @@
       "title": "Volcano Research Recap | Intro Earth Science Series | !phd !socials !pubs !merch",
       "game": "Science & Technology",
       "started_at": "2026-10-18T15:20:36Z"
-    },
-    {
-      "username": "DrawCuriosity",
-      "title": "🎨 IRL PLEIN AIR PAINTING IN SEVILLE!!! ✨🐏!tier2 !tier3",
-      "game": "IRL",
-      "started_at": "2026-10-18T15:45:46Z"
     }
   ]
 }
