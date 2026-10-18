@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-18T18:59:42.190Z",
+  "timestamp": "2026-10-18T19:13:40.170Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,6 +26,12 @@
       "started_at": "2026-10-18T10:03:32Z"
     },
     {
+      "username": "DasValdez",
+      "title": "Unraveling the Universe: The Nancy Grace Roman Space Telescope - Intrepid Museum Astro Live",
+      "game": "Science & Technology",
+      "started_at": "2026-10-18T18:59:35Z"
+    },
+    {
       "username": "CosmoQuestX",
       "title": "Astronomy Cast LIVE",
       "game": "Science & Technology",
@@ -42,12 +48,6 @@
       "title": "Bruships 264: Naval History Questions Answered Live",
       "game": "Just Chatting",
       "started_at": "2026-10-18T18:33:53Z"
-    },
-    {
-      "username": "DasValdez",
-      "title": "Unraveling the Universe: The Nancy Grace Roman Space Telescope - Intrepid Museum Astro Live",
-      "game": "Science & Technology",
-      "started_at": "2026-10-18T18:59:35Z"
     }
   ]
 }
