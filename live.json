@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-18T19:21:18.280Z",
+  "timestamp": "2026-10-18T19:27:23.037Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,12 +14,6 @@
       "started_at": "2026-10-18T15:20:31Z"
     },
     {
-      "username": "DrawCuriosity",
-      "title": "🎨 IRL PLEIN AIR PAINTING IN SEVILLE!!! ✨🐏!tier2 !tier3",
-      "game": "IRL",
-      "started_at": "2026-10-18T18:22:36Z"
-    },
-    {
       "username": "Zachap",
       "title": "the world is operating on a primitive 1700s idealist philosophy of liberalism that grants totalitarianism. get an update please :)",
       "game": "Just Chatting",
@@ -32,16 +26,22 @@
       "started_at": "2026-10-18T18:59:35Z"
     },
     {
-      "username": "CosmoQuestX",
-      "title": "Astronomy Cast LIVE",
-      "game": "Science & Technology",
-      "started_at": "2026-10-18T18:41:21Z"
+      "username": "DrawCuriosity",
+      "title": "🎨 IRL PLEIN AIR PAINTING IN SEVILLE!!! ✨🐏!tier2 !tier3",
+      "game": "IRL",
+      "started_at": "2026-10-18T18:22:36Z"
     },
     {
       "username": "DiatomsATTACK",
       "title": "SEM: Looking at insects, spiderweb, and beard hair in a Scanning Electron Microscope with @PacificPlankton",
       "game": "Science & Technology",
       "started_at": "2026-10-18T18:27:03Z"
+    },
+    {
+      "username": "CosmoQuestX",
+      "title": "Astronomy Cast LIVE",
+      "game": "Science & Technology",
+      "started_at": "2026-10-18T18:41:21Z"
     },
     {
       "username": "DrAlexanderClarke",
