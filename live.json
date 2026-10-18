@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-18T22:05:01.073Z",
+  "timestamp": "2026-10-18T22:18:36.372Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,22 +8,10 @@
       "started_at": "2026-10-18T04:33:19Z"
     },
     {
-      "username": "AstroCanuck",
-      "title": "Lazy Sunday LEGO: Mayor Manor - !Continental Countdown - !subtember extension T3 Minifigure | !drop !tkf",
-      "game": "Lego & Brickbuilding",
-      "started_at": "2026-10-18T15:20:31Z"
-    },
-    {
       "username": "Zachap",
       "title": "the world is operating on a primitive 1700s idealist philosophy of liberalism that grants totalitarianism. get an update please :)",
       "game": "Just Chatting",
       "started_at": "2026-10-18T10:03:32Z"
-    },
-    {
-      "username": "DrAlexanderClarke",
-      "title": "Bruships 264: Naval History Questions Answered Live",
-      "game": "Just Chatting",
-      "started_at": "2026-10-18T18:33:53Z"
     },
     {
       "username": "shnaff",
@@ -36,6 +24,12 @@
       "title": "Brief porch sunset co-working stream! 🌇🌱📝",
       "game": "Co-working & Studying",
       "started_at": "2026-10-18T21:47:27Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "Bruships 264: Naval History Questions Answered Live",
+      "game": "Just Chatting",
+      "started_at": "2026-10-18T18:33:53Z"
     }
   ]
 }
