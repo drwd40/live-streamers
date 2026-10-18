@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-18T15:37:37.291Z",
+  "timestamp": "2026-10-18T15:43:25.529Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-10-18T15:20:31Z"
     },
     {
-      "username": "VolcanoDoc",
-      "title": "Severe Wx Science, Pt II | Intro Earth Science Series | !phd !socials !pubs !merch",
-      "game": "Science & Technology",
-      "started_at": "2026-10-18T15:20:36Z"
-    },
-    {
       "username": "nogre0",
       "title": "philosophy philosophy philosophy philosophy philosophy philosophy",
       "game": "Just Chatting",
       "started_at": "2026-10-18T15:33:24Z"
+    },
+    {
+      "username": "VolcanoDoc",
+      "title": "Severe Wx Science, Pt II | Intro Earth Science Series | !phd !socials !pubs !merch",
+      "game": "Science & Technology",
+      "started_at": "2026-10-18T15:20:36Z"
     }
   ]
 }
