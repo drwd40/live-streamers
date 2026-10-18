@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-18T19:34:40.332Z",
+  "timestamp": "2026-10-18T19:40:26.012Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,16 +38,16 @@
       "started_at": "2026-10-18T18:27:03Z"
     },
     {
-      "username": "CosmoQuestX",
-      "title": "Astronomy Cast LIVE",
-      "game": "Science & Technology",
-      "started_at": "2026-10-18T18:41:21Z"
-    },
-    {
       "username": "DrAlexanderClarke",
       "title": "Bruships 264: Naval History Questions Answered Live",
       "game": "Just Chatting",
       "started_at": "2026-10-18T18:33:53Z"
+    },
+    {
+      "username": "happyknightmares",
+      "title": "Cat cafe coworking stream! ☕️📝 🐈👩‍💻",
+      "game": "Co-working & Studying",
+      "started_at": "2026-10-18T19:36:45Z"
     }
   ]
 }
