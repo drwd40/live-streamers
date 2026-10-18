@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-18T18:48:36.416Z",
+  "timestamp": "2026-10-18T18:54:09.032Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,16 @@
       "started_at": "2026-10-18T10:03:32Z"
     },
     {
-      "username": "CosmoQuestX",
-      "title": "Astronomy Cast LIVE",
-      "game": "Science & Technology",
-      "started_at": "2026-10-18T18:41:21Z"
-    },
-    {
       "username": "DiatomsATTACK",
       "title": "SEM: Looking at insects, spiderweb, and beard hair in a Scanning Electron Microscope with @PacificPlankton",
       "game": "Science & Technology",
       "started_at": "2026-10-18T18:27:03Z"
+    },
+    {
+      "username": "CosmoQuestX",
+      "title": "Astronomy Cast LIVE",
+      "game": "Science & Technology",
+      "started_at": "2026-10-18T18:41:21Z"
     },
     {
       "username": "DrAlexanderClarke",
