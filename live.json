@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-18T01:55:20.862Z",
+  "timestamp": "2026-10-18T02:04:12.505Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "A VTuber Health Class: Don't get sick this year!",
       "game": "Just Chatting",
       "started_at": "2026-10-18T00:15:13Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Is COVID vaccine changing DNA in cancer cells??? The green star in Popular Science, and The Cradle with Rock.",
+      "game": "Science & Technology",
+      "started_at": "2026-10-18T01:59:12Z"
     }
   ]
 }
