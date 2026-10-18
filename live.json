@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-18T16:31:22.343Z",
+  "timestamp": "2026-10-18T16:40:54.768Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -10,7 +10,7 @@
     {
       "username": "TinyToxicTofu",
       "title": "⚡ Sorting Electronics, Building Humidity Sensor and Playing RE9 ⚡!phd !physics !ccc",
-      "game": "Science & Technology",
+      "game": "RESIDENT EVIL: requiem",
       "started_at": "2026-10-18T13:49:04Z"
     },
     {
@@ -32,16 +32,16 @@
       "started_at": "2026-10-18T15:45:46Z"
     },
     {
-      "username": "VolcanoDoc",
-      "title": "More Severe Weather Science | Intro Earth Science Series | !phd !socials !pubs !merch",
-      "game": "Science & Technology",
-      "started_at": "2026-10-18T15:20:36Z"
-    },
-    {
       "username": "nogre0",
       "title": "philosophy philosophy philosophy philosophy philosophy philosophy",
       "game": "Just Chatting",
       "started_at": "2026-10-18T15:33:24Z"
+    },
+    {
+      "username": "VolcanoDoc",
+      "title": "More Severe Weather Science | Intro Earth Science Series | !phd !socials !pubs !merch",
+      "game": "Science & Technology",
+      "started_at": "2026-10-18T15:20:36Z"
     }
   ]
 }
