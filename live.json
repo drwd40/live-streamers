@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-18T09:57:44.005Z",
+  "timestamp": "2026-10-18T10:12:07.100Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "IT'S RACE DAY! My First Speedrun Race with @robblehead & @thestampstories",
       "game": "Retro",
       "started_at": "2026-10-18T08:06:03Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "the world is operating on a primitive 1700s idealist philosophy of liberalism that grants totalitarianism. get an update please :)",
+      "game": "Just Chatting",
+      "started_at": "2026-10-18T10:03:32Z"
     }
   ]
 }
