@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-19T22:57:08.086Z",
+  "timestamp": "2026-10-19T23:10:36.634Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -41,7 +41,13 @@
       "username": "csharpfritz",
       "title": "Live Tiles with Gunnar and Talking Tech Projects",
       "game": "Software and Game Development",
-      "started_at": "2026-10-19T20:59:33Z"
+      "started_at": "2026-10-19T23:04:42Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Co-working & Studying",
+      "started_at": "2026-10-19T23:01:02Z"
     }
   ]
 }
