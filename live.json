@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-19T18:51:24.226Z",
+  "timestamp": "2026-10-19T18:58:49.785Z",
   "live": [
     {
       "username": "Maya",
@@ -36,6 +36,12 @@
       "title": "Programming/Tech Discussion Time (*Sixteen*/No AI Coding)",
       "game": "Software and Game Development",
       "started_at": "2026-10-19T18:01:15Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 1007: Design Review of Geometry continued",
+      "game": "Science & Technology",
+      "started_at": "2026-10-19T18:53:27Z"
     }
   ]
 }
