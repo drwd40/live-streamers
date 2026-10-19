@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-19T17:57:23.371Z",
+  "timestamp": "2026-10-19T18:16:02.007Z",
   "live": [
     {
       "username": "Maya",
@@ -36,6 +36,12 @@
       "title": "SEM: Last stream with @pacificplankton on the Scanning Electron Microscope",
       "game": "Science & Technology",
       "started_at": "2026-10-19T16:59:36Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Programming/Tech Discussion Time (*Sixteen*/No AI Coding)",
+      "game": "Software and Game Development",
+      "started_at": "2026-10-19T18:01:15Z"
     }
   ]
 }
