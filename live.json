@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-19T20:33:50.441Z",
+  "timestamp": "2026-10-19T20:43:54.731Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,10 +20,10 @@
       "started_at": "2026-10-19T19:03:30Z"
     },
     {
-      "username": "Zachap",
-      "title": "liberalism isn't democratic",
-      "game": "Just Chatting",
-      "started_at": "2026-10-19T10:05:32Z"
+      "username": "Paleontologizing",
+      "title": "NEW DINOSAURS 🦖🆕 Introducing Invictibellatrix, Infernogallus, and Norellraptor + Wheel of Fossil News 🎡 w/ paleontologist Danny Anduza",
+      "game": "Science & Technology",
+      "started_at": "2026-10-19T20:21:06Z"
     },
     {
       "username": "AdamLearnsLive",
@@ -32,10 +32,16 @@
       "started_at": "2026-10-19T20:21:34Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "NEW DINOSAURS 🦖🆕 Introducing Invictibellatrix, Infernogallus, and Norellraptor + Wheel of Fossil News 🎡 w/ paleontologist Danny Anduza",
+      "username": "Zachap",
+      "title": "liberalism isn't democratic",
+      "game": "Just Chatting",
+      "started_at": "2026-10-19T10:05:32Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 1008: Design Review of Machine Learning continued",
       "game": "Science & Technology",
-      "started_at": "2026-10-19T20:21:06Z"
+      "started_at": "2026-10-19T20:35:09Z"
     }
   ]
 }
