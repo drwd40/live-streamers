@@ -1,6 +1,12 @@
 {
-  "timestamp": "2026-10-19T15:30:54.536Z",
+  "timestamp": "2026-10-19T15:41:52.595Z",
   "live": [
+    {
+      "username": "Maya",
+      "title": "NEW AMBASSADORS REVEAL‼️‼️‼️  @alveussanctuary | IT’S WOLF WEEK🐺",
+      "game": "Just Chatting",
+      "started_at": "2026-10-19T15:36:22Z"
+    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
@@ -12,6 +18,12 @@
       "title": "liberalism isn't democratic",
       "game": "Just Chatting",
       "started_at": "2026-10-19T10:05:32Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Figuring out our game-dev day (day 124)",
+      "game": "Software and Game Development",
+      "started_at": "2026-10-19T15:38:42Z"
     }
   ]
 }
