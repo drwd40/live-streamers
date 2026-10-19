@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-10-19T20:03:06.130Z",
+  "timestamp": "2026-10-19T20:21:36.439Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
-      "game": "Animals, Aquariums, and Zoos",
+      "title": "Wolf Paint Along w/ @ipaintbirbs | !alveus !institute !pixel !schedule !video",
+      "game": "Just Chatting",
       "started_at": "2026-10-18T04:33:19Z"
-    },
-    {
-      "username": "EJ_SA",
-      "title": "EJ's JAXA H3-24L Martian Moons eXploration (MMX) Launch Coverage! 10/19/26",
-      "game": "Science & Technology",
-      "started_at": "2026-10-19T16:19:59Z"
     },
     {
       "username": "ipaintbirbs",
       "title": "ipaintWOLVES today for Alveus Wolf Week! @alveussanctuary",
       "game": "Art",
       "started_at": "2026-10-19T19:03:30Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "EJ's JAXA H3-24L Martian Moons eXploration (MMX) Launch Coverage! 10/19/26",
+      "game": "Science & Technology",
+      "started_at": "2026-10-19T16:19:59Z"
     },
     {
       "username": "Zachap",
@@ -30,6 +30,12 @@
       "title": "Programming/Tech Discussion Time (*Sixteen*/No AI Coding)",
       "game": "Software and Game Development",
       "started_at": "2026-10-19T18:01:15Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "NEW DINOSAURS 🦖🆕 Introducing Invictibellatrix, Infernogallus, and Norellraptor + Wheel of Fossil News 🎡 w/ paleontologist Danny Anduza",
+      "game": "Science & Technology",
+      "started_at": "2026-10-19T20:21:06Z"
     }
   ]
 }
