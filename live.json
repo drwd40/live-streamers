@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-19T01:26:36.103Z",
+  "timestamp": "2026-10-19T01:49:10.117Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,22 +14,28 @@
       "started_at": "2026-10-19T01:01:08Z"
     },
     {
-      "username": "Zachap",
-      "title": "the world is operating on a primitive 1700s idealist philosophy of liberalism that grants totalitarianism. get an update please :)",
-      "game": "Just Chatting",
-      "started_at": "2026-10-18T10:03:32Z"
-    },
-    {
       "username": "Nerduino",
       "title": "Science grab bag news and chat!   PhD Scientist.  #savethevaquita #climatechange #NASA #science #scientist",
       "game": "Science & Technology",
       "started_at": "2026-10-19T00:50:07Z"
     },
     {
+      "username": "Zachap",
+      "title": "the world is operating on a primitive 1700s idealist philosophy of liberalism that grants totalitarianism. get an update please :)",
+      "game": "Just Chatting",
+      "started_at": "2026-10-18T10:03:32Z"
+    },
+    {
       "username": "happyknightmares",
       "title": "Brief porch sunset co-working stream! 🌇🌱📝",
       "game": "Co-working & Studying",
       "started_at": "2026-10-18T21:47:27Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "The Cradle Will Rock Part II. The Story Behind the Crab Nebula. Is Popular Science Paywalled, and Who are the Rothschilds of England?",
+      "game": "Science & Technology",
+      "started_at": "2026-10-19T01:30:10Z"
     }
   ]
 }
