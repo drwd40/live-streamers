@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-19T22:22:17.073Z",
+  "timestamp": "2026-10-19T22:31:15.974Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-10-18T04:33:19Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "EJ's Space and Rocket Revue! 10/19/26",
-      "game": "Science & Technology",
-      "started_at": "2026-10-19T16:19:59Z"
-    },
-    {
       "username": "ipaintbirbs",
       "title": "ipaintWOLVES today for Alveus Wolf Week! @alveussanctuary",
       "game": "Art",
       "started_at": "2026-10-19T19:03:30Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "EJ's Space and Rocket Revue! 10/19/26",
+      "game": "Science & Technology",
+      "started_at": "2026-10-19T16:19:59Z"
     },
     {
       "username": "Paleontologizing",
