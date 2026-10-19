@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-19T21:20:48.904Z",
+  "timestamp": "2026-10-19T21:31:14.576Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,6 +26,12 @@
       "started_at": "2026-10-19T20:21:06Z"
     },
     {
+      "username": "imreallyimportant",
+      "title": "15 DAYS UNTIL THE MIDTERMS | MICHIGAN CANVASSING",
+      "game": "Just Chatting",
+      "started_at": "2026-10-19T21:16:51Z"
+    },
+    {
       "username": "AdamLearnsLive",
       "title": "Game design (day 124½)",
       "game": "Software and Game Development",
@@ -42,18 +48,6 @@
       "title": "Live Tiles with Gunnar and Talking Tech Projects",
       "game": "Software and Game Development",
       "started_at": "2026-10-19T20:59:33Z"
-    },
-    {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 1008: Design Review of Machine Learning continued",
-      "game": "Science & Technology",
-      "started_at": "2026-10-19T20:35:09Z"
-    },
-    {
-      "username": "imreallyimportant",
-      "title": "15 DAYS UNTIL THE MIDTERMS | MICHIGAN CANVASSING",
-      "game": "Just Chatting",
-      "started_at": "2026-10-19T21:16:51Z"
     }
   ]
 }
