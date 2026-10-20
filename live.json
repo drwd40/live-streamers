@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-20T17:49:25.699Z",
+  "timestamp": "2026-10-20T17:55:06.340Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "echoing echoing audio audio with with the the pt2399 pt2399..",
       "game": "Science & Technology",
       "started_at": "2026-10-20T16:37:49Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 1009: Design Review of PDE Functionality continued",
+      "game": "Science & Technology",
+      "started_at": "2026-10-20T17:53:18Z"
     }
   ]
 }
