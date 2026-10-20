@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-20T13:58:58.303Z",
+  "timestamp": "2026-10-20T14:18:54.612Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,12 +12,6 @@
       "title": "politics and more - ask questions if new :)",
       "game": "Just Chatting",
       "started_at": "2026-10-20T10:02:32Z"
-    },
-    {
-      "username": "csharpfritz",
-      "title": "Performance Tuning with AI",
-      "game": "Software and Game Development",
-      "started_at": "2026-10-20T12:52:34Z"
     }
   ]
 }
