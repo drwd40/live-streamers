@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-20T21:22:52.417Z",
+  "timestamp": "2026-10-20T21:32:13.404Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,12 +30,6 @@
       "title": "politics and more - ask questions if new :)",
       "game": "Just Chatting",
       "started_at": "2026-10-20T10:02:32Z"
-    },
-    {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 1010: Language Design in Wolfram Language [Graphic Issues]",
-      "game": "Science & Technology",
-      "started_at": "2026-10-20T20:58:32Z"
     }
   ]
 }
