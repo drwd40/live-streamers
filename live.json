@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-20T13:53:13.812Z",
+  "timestamp": "2026-10-20T13:58:58.303Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-10-20T04:33:22Z"
     },
     {
-      "username": "csharpfritz",
-      "title": "Performance Tuning with AI",
-      "game": "Software and Game Development",
-      "started_at": "2026-10-20T12:52:34Z"
-    },
-    {
       "username": "Zachap",
       "title": "politics and more - ask questions if new :)",
       "game": "Just Chatting",
       "started_at": "2026-10-20T10:02:32Z"
+    },
+    {
+      "username": "csharpfritz",
+      "title": "Performance Tuning with AI",
+      "game": "Software and Game Development",
+      "started_at": "2026-10-20T12:52:34Z"
     }
   ]
 }
