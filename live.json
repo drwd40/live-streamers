@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-21T17:38:00.769Z",
+  "timestamp": "2026-10-21T17:46:22.300Z",
   "live": [
     {
       "username": "Maya",
@@ -12,6 +12,12 @@
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-10-20T04:33:22Z"
+    },
+    {
+      "username": "Kitboga",
+      "title": "Scamming Scammers [Ep. 1554]",
+      "game": "Just Chatting",
+      "started_at": "2026-10-21T17:36:47Z"
     },
     {
       "username": "AdamLearnsLive",
@@ -32,22 +38,10 @@
       "started_at": "2026-10-21T16:28:36Z"
     },
     {
-      "username": "happyknightmares",
-      "title": "Co-working stream - working on a synesthesia presentation! 🧠🌈🎶",
-      "game": "Co-working & Studying",
-      "started_at": "2026-10-21T16:17:00Z"
-    },
-    {
       "username": "SharkG33k",
       "title": "Streamaversary! Lets play some games! | !GWS",
       "game": "Just Chatting",
       "started_at": "2026-10-21T17:33:57Z"
-    },
-    {
-      "username": "Kitboga",
-      "title": "Scamming Scammers [Ep. 1554]",
-      "game": "Just Chatting",
-      "started_at": "2026-10-21T17:36:47Z"
     }
   ]
 }
