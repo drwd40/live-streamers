@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-21T19:53:13.527Z",
+  "timestamp": "2026-10-21T19:58:46.530Z",
   "live": [
     {
       "username": "Kitboga",
@@ -38,16 +38,16 @@
       "started_at": "2026-10-21T19:16:17Z"
     },
     {
-      "username": "Andilippi",
-      "title": "I challenged @thestampstories to a race... why...",
-      "game": "Retro",
-      "started_at": "2026-10-21T18:39:33Z"
-    },
-    {
       "username": "Stephen_Wolfram",
       "title": "Future of Science and Technology Q&A (October 21, 2026)",
       "game": "Science & Technology",
       "started_at": "2026-10-21T19:39:40Z"
+    },
+    {
+      "username": "Andilippi",
+      "title": "I challenged @thestampstories to a race... why...",
+      "game": "Retro",
+      "started_at": "2026-10-21T18:39:33Z"
     },
     {
       "username": "pencenter",
