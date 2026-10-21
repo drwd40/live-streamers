@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-21T22:59:09.062Z",
+  "timestamp": "2026-10-21T23:15:56.803Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,22 @@
       "started_at": "2026-10-21T21:44:35Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "🎨🦕 ICONIC PALEOARTIST 🦖🖼🖌 Celebrating the work of Charles R. Knight, born on this day in 1874 (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-10-21T20:05:38Z"
+      "username": "JapanesePrintmaking",
+      "title": "Making Japanese woodblock prints ... live while you watch ...",
+      "game": "Makers & Crafting",
+      "started_at": "2026-10-21T22:59:54Z"
     },
     {
       "username": "imreallyimportant",
       "title": "LIVE @ 7 PM EDT: FINAL MICHIGAN SENATE DEBATE | THEN THE FINAL KANSAS SENATE DEBATE",
       "game": "Just Chatting",
       "started_at": "2026-10-21T22:04:40Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "🎨🦕 ICONIC PALEOARTIST 🦖🖼🖌 Celebrating the work of Charles R. Knight, born on this day in 1874 (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-10-21T20:05:38Z"
     },
     {
       "username": "SharkG33k",
@@ -36,6 +42,12 @@
       "title": "More Severe Weather Science | Intro Earth Science Series | !phd !socials !pubs !merch",
       "game": "Science & Technology",
       "started_at": "2026-10-21T22:00:22Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "Physics & Chemistry Homework Help | Middle + High School",
+      "game": "Co-working & Studying",
+      "started_at": "2026-10-21T23:03:32Z"
     }
   ]
 }
