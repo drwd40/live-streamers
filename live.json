@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-21T17:27:13.979Z",
+  "timestamp": "2026-10-21T17:38:00.769Z",
   "live": [
     {
       "username": "Maya",
@@ -20,22 +20,34 @@
       "started_at": "2026-10-21T14:59:53Z"
     },
     {
-      "username": "DrawCuriosity",
-      "title": "🎨 LAST STREAM IN A WHILE! Packing ✨🐏!tier2 !tier3",
-      "game": "Just Chatting",
-      "started_at": "2026-10-21T16:28:36Z"
-    },
-    {
       "username": "Zachap",
       "title": "have a take",
       "game": "Just Chatting",
       "started_at": "2026-10-21T10:03:23Z"
     },
     {
+      "username": "DrawCuriosity",
+      "title": "🎨 LAST STREAM IN A WHILE! Packing ✨🐏!tier2 !tier3",
+      "game": "Just Chatting",
+      "started_at": "2026-10-21T16:28:36Z"
+    },
+    {
       "username": "happyknightmares",
       "title": "Co-working stream - working on a synesthesia presentation! 🧠🌈🎶",
       "game": "Co-working & Studying",
       "started_at": "2026-10-21T16:17:00Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Streamaversary! Lets play some games! | !GWS",
+      "game": "Just Chatting",
+      "started_at": "2026-10-21T17:33:57Z"
+    },
+    {
+      "username": "Kitboga",
+      "title": "Scamming Scammers [Ep. 1554]",
+      "game": "Just Chatting",
+      "started_at": "2026-10-21T17:36:47Z"
     }
   ]
 }
