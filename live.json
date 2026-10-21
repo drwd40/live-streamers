@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-21T19:31:12.642Z",
+  "timestamp": "2026-10-21T19:40:49.236Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,12 +32,6 @@
       "started_at": "2026-10-21T17:33:57Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 1011: Language Design in Wolfram Language [StrictlyOrderedQ and more]",
-      "game": "Science & Technology",
-      "started_at": "2026-10-21T18:40:54Z"
-    },
-    {
       "username": "IrishJohnGames",
       "title": "🍀 Jern Jam Front Page Awards Ceremony is TOMORROW!! !jj | !rop !patreon !discord",
       "game": "Software and Game Development",
@@ -48,6 +42,18 @@
       "title": "I challenged @thestampstories to a race... why...",
       "game": "Retro",
       "started_at": "2026-10-21T18:39:33Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "moar linear algebra planning [!fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-10-21T19:31:14Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Future of Science and Technology Q&A (October 21, 2026)",
+      "game": "Science & Technology",
+      "started_at": "2026-10-21T19:39:40Z"
     }
   ]
 }
