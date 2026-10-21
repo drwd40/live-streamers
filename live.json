@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-21T03:11:34.511Z",
+  "timestamp": "2026-10-21T03:29:36.287Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,12 +14,6 @@
       "started_at": "2026-10-20T16:21:49Z"
     },
     {
-      "username": "imreallyimportant",
-      "title": "TEXAS EARLY VOTING SETS RECORD | VIVEK ATTACK ON OPPONENT FAILS | TRUMP GROWLS AT REPORTER",
-      "game": "Just Chatting",
-      "started_at": "2026-10-20T23:05:14Z"
-    },
-    {
       "username": "SciAnts_Streams",
       "title": "🦒Planet ZoosDay🦓| De-extinction & DROPS Biologist building a conservation park in Planet Zoo 2! | Partner+ 212/300 | !ppp !yt !pod !jj",
       "game": "Science & Technology",
@@ -32,16 +26,16 @@
       "started_at": "2026-10-20T23:52:30Z"
     },
     {
-      "username": "happyknightmares",
-      "title": "Co-working stream - working on a synesthesia presentation! 🧠🌈🎶",
-      "game": "Co-working & Studying",
-      "started_at": "2026-10-21T02:50:45Z"
-    },
-    {
       "username": "walkingsticklibrary",
       "title": "K-12 Tuesday. I want to be a data center tech! Planning my dream trip. Talarico really said God was nonbinary!",
       "game": "Science & Technology",
       "started_at": "2026-10-21T01:31:53Z"
+    },
+    {
+      "username": "happyknightmares",
+      "title": "Co-working stream - working on a synesthesia presentation! 🧠🌈🎶",
+      "game": "Co-working & Studying",
+      "started_at": "2026-10-21T02:50:45Z"
     }
   ]
 }
