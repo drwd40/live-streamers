@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-10-21T03:29:36.287Z",
+  "timestamp": "2026-10-21T03:47:08.003Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-10-20T04:33:22Z"
-    },
-    {
-      "username": "EJ_SA",
-      "title": "TUESDAY NIGHT CONFLICT PUPPERS! 10/20/26",
-      "game": "WARDOGS",
-      "started_at": "2026-10-20T16:21:49Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -26,16 +20,16 @@
       "started_at": "2026-10-20T23:52:30Z"
     },
     {
-      "username": "walkingsticklibrary",
-      "title": "K-12 Tuesday. I want to be a data center tech! Planning my dream trip. Talarico really said God was nonbinary!",
-      "game": "Science & Technology",
-      "started_at": "2026-10-21T01:31:53Z"
-    },
-    {
       "username": "happyknightmares",
       "title": "Co-working stream - working on a synesthesia presentation! 🧠🌈🎶",
       "game": "Co-working & Studying",
       "started_at": "2026-10-21T02:50:45Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "K-12 Tuesday. I want to be a data center tech! Planning my dream trip. Talarico really said God was nonbinary!",
+      "game": "Science & Technology",
+      "started_at": "2026-10-21T01:31:53Z"
     }
   ]
 }
