@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-21T18:37:49.673Z",
+  "timestamp": "2026-10-21T18:51:00.863Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,18 @@
       "title": "Streamaversary! Lets play some games! | !GWS",
       "game": "Just Chatting",
       "started_at": "2026-10-21T17:33:57Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 1011: Language Design in Wolfram Language [StrictlyOrderedQ and more]",
+      "game": "Science & Technology",
+      "started_at": "2026-10-21T18:40:54Z"
+    },
+    {
+      "username": "Andilippi",
+      "title": "I challenged @thestampstories to a race... why...",
+      "game": "Retro",
+      "started_at": "2026-10-21T18:39:33Z"
     }
   ]
 }
