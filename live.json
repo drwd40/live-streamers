@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-21T17:58:16.646Z",
+  "timestamp": "2026-10-21T18:20:48.965Z",
   "live": [
     {
       "username": "Maya",
@@ -26,22 +26,16 @@
       "started_at": "2026-10-21T14:59:53Z"
     },
     {
-      "username": "SharkG33k",
-      "title": "Streamaversary! Lets play some games! | !GWS",
-      "game": "Just Chatting",
-      "started_at": "2026-10-21T17:33:57Z"
-    },
-    {
       "username": "Zachap",
       "title": "have a take",
       "game": "Just Chatting",
       "started_at": "2026-10-21T10:03:23Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 1010: Design Review of Geometry continued",
-      "game": "Science & Technology",
-      "started_at": "2026-10-21T17:50:00Z"
+      "username": "SharkG33k",
+      "title": "Streamaversary! Lets play some games! | !GWS",
+      "game": "Just Chatting",
+      "started_at": "2026-10-21T17:33:57Z"
     }
   ]
 }
