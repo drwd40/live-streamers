@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-21T22:53:35.053Z",
+  "timestamp": "2026-10-21T22:59:09.062Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-10-21T22:04:40Z"
     },
     {
-      "username": "VolcanoDoc",
-      "title": "More Severe Weather Science | Intro Earth Science Series | !phd !socials !pubs !merch",
-      "game": "Science & Technology",
-      "started_at": "2026-10-21T22:00:22Z"
-    },
-    {
       "username": "SharkG33k",
       "title": "Streamaversary! Lets play some games! | !GWS",
       "game": "The Witcher 3: Wild Hunt Remastered",
       "started_at": "2026-10-21T17:33:57Z"
+    },
+    {
+      "username": "VolcanoDoc",
+      "title": "More Severe Weather Science | Intro Earth Science Series | !phd !socials !pubs !merch",
+      "game": "Science & Technology",
+      "started_at": "2026-10-21T22:00:22Z"
     }
   ]
 }
