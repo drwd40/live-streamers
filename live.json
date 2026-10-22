@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-22T19:47:07.331Z",
+  "timestamp": "2026-10-22T19:53:33.418Z",
   "live": [
     {
       "username": "IrishJohnGames",
@@ -44,16 +44,16 @@
       "started_at": "2026-10-22T16:32:37Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Math/Ed Chat: Bring Your Questions + Maybe Some Programming?",
-      "game": "Math",
-      "started_at": "2026-10-22T17:57:17Z"
-    },
-    {
       "username": "Stephen_Wolfram",
       "title": "Live CEOing Ep 1012: Design Review of Machine Learning continued",
       "game": "Science & Technology",
       "started_at": "2026-10-22T19:30:27Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Math/Ed Chat: Bring Your Questions + Maybe Some Programming?",
+      "game": "Math",
+      "started_at": "2026-10-22T17:57:17Z"
     }
   ]
 }
