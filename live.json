@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-10-22T22:57:54.129Z",
+  "timestamp": "2026-10-22T23:13:20.658Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Wolf Paint Along with @trailboundsketches | !alveus !institute !pixel !schedule !video",
       "game": "Just Chatting",
       "started_at": "2026-10-21T18:30:17Z"
-    },
-    {
-      "username": "IrishJohnGames",
-      "title": "🍀 Its the #JernJam Awards Ceremony! 🍀 | !category !jj | !rop !patreon !discord",
-      "game": "Software and Game Development",
-      "started_at": "2026-10-22T13:53:49Z"
     },
     {
       "username": "EJ_SA",
@@ -29,7 +23,7 @@
       "username": "SciAnts_Streams",
       "title": "🍀 Its the #JernJam Awards Ceremony! 🍀| Celebrating the community | Partner+ 229/300 | !ppp !yt !pod !jj",
       "game": "Software and Game Development",
-      "started_at": "2026-10-22T19:28:07Z"
+      "started_at": "2026-10-22T23:01:46Z"
     },
     {
       "username": "Zachap",
@@ -42,6 +36,12 @@
       "title": "Chill guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2026-10-22T22:02:13Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Co-working & Studying",
+      "started_at": "2026-10-22T23:05:41Z"
     }
   ]
 }
