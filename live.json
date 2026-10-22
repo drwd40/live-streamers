@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-10-22T23:25:31.844Z",
+  "timestamp": "2026-10-22T23:33:10.482Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Wolf Paint Along with @trailboundsketches | !alveus !institute !pixel !schedule !video",
+      "title": "All About Wolves w/ Kayla and Sarah from Endangered Wolf Center | !alveus !institute !pixel !schedule !video",
       "game": "Just Chatting",
       "started_at": "2026-10-21T18:30:17Z"
     },
@@ -38,16 +38,16 @@
       "started_at": "2026-10-22T22:02:13Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
-      "game": "Co-working & Studying",
-      "started_at": "2026-10-22T23:05:41Z"
-    },
-    {
       "username": "MelissaInDeNile",
       "title": "Will we finally defeat the Man o' War in Assassins Creed: Black Flag?? ~ Follower Goal: 2488/2600 ~ !socials !beyonddenile",
       "game": "Assassin's Creed Black Flag Resynced",
       "started_at": "2026-10-22T23:24:27Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Co-working & Studying",
+      "started_at": "2026-10-22T23:05:41Z"
     }
   ]
 }
