@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-22T11:39:44.888Z",
+  "timestamp": "2026-10-22T11:48:02.428Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "Socialism is about the people, \"social-ism\" referring to socializing the industries....",
       "game": "Just Chatting",
       "started_at": "2026-10-22T10:01:24Z"
+    },
+    {
+      "username": "leioslabs",
+      "title": "Research stream: Improving SDFs!",
+      "game": "Science & Technology",
+      "started_at": "2026-10-22T11:47:12Z"
     }
   ]
 }
