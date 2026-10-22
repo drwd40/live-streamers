@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-22T19:30:51.025Z",
+  "timestamp": "2026-10-22T19:40:43.073Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -48,6 +48,12 @@
       "title": "Math/Ed Chat: Bring Your Questions + Maybe Some Programming?",
       "game": "Math",
       "started_at": "2026-10-22T17:57:17Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 1012: Design Review of Machine Learning continued",
+      "game": "Science & Technology",
+      "started_at": "2026-10-22T19:30:27Z"
     }
   ]
 }
