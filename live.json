@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-10-22T15:56:10.814Z",
+  "timestamp": "2026-10-22T16:07:52.525Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
-      "game": "Animals, Aquariums, and Zoos",
+      "title": "Chat Chats w/ Dr. Julie | !alveus !institute !pixel !schedule !video",
+      "game": "Just Chatting",
       "started_at": "2026-10-21T18:30:17Z"
     },
     {
@@ -20,22 +20,16 @@
       "started_at": "2026-10-22T15:29:30Z"
     },
     {
-      "username": "Zachap",
-      "title": "stalin enabled the nakba - change my mind",
-      "game": "Just Chatting",
-      "started_at": "2026-10-22T10:01:24Z"
-    },
-    {
-      "username": "Andilippi",
-      "title": "I'm officially a speedrunner! Let's Get Some GLOD",
-      "game": "Just Chatting",
-      "started_at": "2026-10-22T12:09:40Z"
-    },
-    {
       "username": "SciAnts_Streams",
       "title": "🍀 Its the #JernJam Awards Ceremony! 🍀| Celebrating the community | Partner+ 229/300 | !ppp !yt !pod !jj",
       "game": "Software and Game Development",
       "started_at": "2026-10-22T15:54:31Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "stalin enabled the nakba - change my mind",
+      "game": "Just Chatting",
+      "started_at": "2026-10-22T10:01:24Z"
     }
   ]
 }
