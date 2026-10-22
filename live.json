@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-22T21:51:45.312Z",
+  "timestamp": "2026-10-22T21:57:24.920Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,16 @@
       "started_at": "2026-10-22T10:01:24Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 1013: Design Review of Sound & Vision continued",
-      "game": "Science & Technology",
-      "started_at": "2026-10-22T21:24:12Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "12 DAYS UNTIL THE MIDTERMS | LINDSEY GRAHAM OUTED AS GAY",
       "game": "Just Chatting",
       "started_at": "2026-10-22T21:49:54Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 1013: Design Review of Sound & Vision continued",
+      "game": "Science & Technology",
+      "started_at": "2026-10-22T21:24:12Z"
     }
   ]
 }
