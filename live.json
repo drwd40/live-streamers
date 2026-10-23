@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-23T19:45:51.434Z",
+  "timestamp": "2026-10-23T19:51:39.979Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "SC 10 From the Community and Then Palatino Armor BP Farming",
       "game": "Star Citizen",
       "started_at": "2026-10-23T17:04:14Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Game design (day 128½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-10-23T19:49:33Z"
     }
   ]
 }
