@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-23T20:58:29.413Z",
+  "timestamp": "2026-10-23T21:15:10.750Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,12 +14,6 @@
       "started_at": "2026-10-23T17:53:16Z"
     },
     {
-      "username": "ipaintbirbs",
-      "title": "crafting for my kid :)",
-      "game": "Art",
-      "started_at": "2026-10-23T15:12:30Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "Game design (day 128½)",
       "game": "Software and Game Development",
@@ -30,12 +24,6 @@
       "title": "machines",
       "game": "Just Chatting",
       "started_at": "2026-10-23T10:01:56Z"
-    },
-    {
-      "username": "Rocketology",
-      "title": "SC 10 From the Community and Then Palatino Armor BP Farming",
-      "game": "Star Citizen",
-      "started_at": "2026-10-23T17:04:14Z"
     }
   ]
 }
