@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-23T23:38:29.407Z",
+  "timestamp": "2026-10-23T23:44:14.936Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,12 +30,6 @@
       "title": "hi",
       "game": "Just Chatting",
       "started_at": "2026-10-23T10:01:56Z"
-    },
-    {
-      "username": "jacksfacts",
-      "title": "Time to breed the fastest horse in the west and talk about science.",
-      "game": "Horsey Game",
-      "started_at": "2026-10-23T21:55:27Z"
     }
   ]
 }
