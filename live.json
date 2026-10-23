@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-23T00:40:24.702Z",
+  "timestamp": "2026-10-23T01:12:08.187Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -9,8 +9,8 @@
     },
     {
       "username": "EJ_SA",
-      "title": "EJ's Space and Rocket Revue! 10/22/26",
-      "game": "Science & Technology",
+      "title": "THURSDAY NIGHT BATTLE BEAGLES! 10/22/26",
+      "game": "WARDOGS",
       "started_at": "2026-10-22T16:47:17Z"
     },
     {
@@ -32,22 +32,22 @@
       "started_at": "2026-10-22T10:01:24Z"
     },
     {
-      "username": "SharkG33k",
-      "title": "Interview with Wildlife Biologist Hilah Torres | !GWS",
-      "game": "",
-      "started_at": "2026-10-23T00:06:36Z"
-    },
-    {
-      "username": "ActualEducation",
-      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
-      "game": "Co-working & Studying",
-      "started_at": "2026-10-22T23:05:41Z"
+      "username": "Nerduino",
+      "title": "Thursday Space Science.  The Astrophotography Prize winners!  PhD Astronomer.",
+      "game": "Science & Technology",
+      "started_at": "2026-10-23T00:49:09Z"
     },
     {
       "username": "MelissaInDeNile",
       "title": "Will we finally defeat the Man o' War in Assassins Creed: Black Flag?? ~ Follower Goal: 2488/2600 ~ !socials !beyonddenile",
       "game": "Assassin's Creed Black Flag Resynced",
       "started_at": "2026-10-22T23:24:27Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Interview with Wildlife Biologist Hilah Torres | !GWS",
+      "game": "",
+      "started_at": "2026-10-23T00:06:36Z"
     }
   ]
 }
