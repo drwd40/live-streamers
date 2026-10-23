@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-23T17:59:35.268Z",
+  "timestamp": "2026-10-23T18:23:12.982Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-10-23T14:00:47Z"
     },
     {
-      "username": "ipaintbirbs",
-      "title": "crafting for my kid :)",
-      "game": "Art",
-      "started_at": "2026-10-23T15:12:30Z"
-    },
-    {
       "username": "EJ_SA",
       "title": "EJ'S NASA ARTEMIS ACCELERATION UPDATE! 10/23/26",
       "game": "Science & Technology",
       "started_at": "2026-10-23T17:53:16Z"
+    },
+    {
+      "username": "ipaintbirbs",
+      "title": "crafting for my kid :)",
+      "game": "Art",
+      "started_at": "2026-10-23T15:12:30Z"
     },
     {
       "username": "AdamLearnsLive",
