@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-24T14:39:16.187Z",
+  "timestamp": "2026-10-24T14:44:52.903Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "make it make sense",
       "game": "Just Chatting",
       "started_at": "2026-10-24T10:02:36Z"
+    },
+    {
+      "username": "csharpfritz",
+      "title": "Publishing to the Windows Store",
+      "game": "Software and Game Development",
+      "started_at": "2026-10-24T14:40:00Z"
     }
   ]
 }
