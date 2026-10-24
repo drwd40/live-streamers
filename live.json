@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-24T22:49:26.516Z",
+  "timestamp": "2026-10-24T22:55:09.851Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-10-23T14:00:47Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and talking about k-means clustering because I nerd-sniped myself",
-      "game": "Math",
-      "started_at": "2026-10-24T18:43:27Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Let's Start Soldering - Electronics - Synthesizers - Vibes",
       "game": "Science & Technology",
       "started_at": "2026-10-24T22:30:33Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and talking about k-means clustering because I nerd-sniped myself",
+      "game": "Math",
+      "started_at": "2026-10-24T18:43:27Z"
     }
   ]
 }
