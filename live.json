@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-24T14:44:52.903Z",
+  "timestamp": "2026-10-24T14:50:47.359Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,12 @@
       "title": "Publishing to the Windows Store",
       "game": "Software and Game Development",
       "started_at": "2026-10-24T14:40:00Z"
+    },
+    {
+      "username": "AcademyOfUselessIdeas",
+      "title": "Solving problems from www.instagram.com/academyofuselessideas/",
+      "game": "Math",
+      "started_at": "2026-10-24T14:46:03Z"
     }
   ]
 }
