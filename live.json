@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-24T15:38:42.070Z",
+  "timestamp": "2026-10-24T15:44:24.287Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-10-23T14:00:47Z"
     },
     {
-      "username": "Zachap",
-      "title": "make it make sense",
-      "game": "Just Chatting",
-      "started_at": "2026-10-24T10:02:36Z"
-    },
-    {
       "username": "csharpfritz",
       "title": "Publishing to the Windows Store",
       "game": "Software and Game Development",
       "started_at": "2026-10-24T14:40:00Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "make it make sense",
+      "game": "Just Chatting",
+      "started_at": "2026-10-24T10:02:36Z"
     },
     {
       "username": "Andilippi",
