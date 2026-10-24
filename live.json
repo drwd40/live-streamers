@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-24T18:36:25.951Z",
+  "timestamp": "2026-10-24T18:45:49.359Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,12 +26,6 @@
       "started_at": "2026-10-24T16:03:26Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Math/Ed Q&A -- Bring Your Questions!",
-      "game": "Math",
-      "started_at": "2026-10-24T16:19:40Z"
-    },
-    {
       "username": "Rocketology",
       "title": "Day 5! Collecting More Village People",
       "game": "Enshrouded",
@@ -42,6 +36,12 @@
       "title": "Solving problems from www.instagram.com/academyofuselessideas/",
       "game": "Math",
       "started_at": "2026-10-24T14:46:03Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and talking about k-means clustering because I nerd-sniped myself",
+      "game": "Math",
+      "started_at": "2026-10-24T18:43:27Z"
     }
   ]
 }
