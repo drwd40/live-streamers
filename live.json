@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-24T16:21:38.785Z",
+  "timestamp": "2026-10-24T16:32:15.691Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-10-24T16:03:26Z"
     },
     {
-      "username": "AcademyOfUselessIdeas",
-      "title": "Solving problems from www.instagram.com/academyofuselessideas/",
-      "game": "Math",
-      "started_at": "2026-10-24T14:46:03Z"
-    },
-    {
       "username": "eToThe2iPi",
       "title": "Math/Ed Q&A -- Bring Your Questions!",
       "game": "Math",
       "started_at": "2026-10-24T16:19:40Z"
+    },
+    {
+      "username": "AcademyOfUselessIdeas",
+      "title": "Solving problems from www.instagram.com/academyofuselessideas/",
+      "game": "Math",
+      "started_at": "2026-10-24T14:46:03Z"
     }
   ]
 }
