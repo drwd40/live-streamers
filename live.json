@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-10-24T22:27:45.149Z",
+  "timestamp": "2026-10-24T22:36:45.059Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Projects w/ Connor | !alveus !institute !pixel !schedule !video",
-      "game": "Just Chatting",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
+      "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-10-23T14:00:47Z"
     },
     {
@@ -12,6 +12,12 @@
       "title": "Answering your math questions and talking about k-means clustering because I nerd-sniped myself",
       "game": "Math",
       "started_at": "2026-10-24T18:43:27Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Let's Start Soldering - Electronics - Synthesizers - Vibes",
+      "game": "Science & Technology",
+      "started_at": "2026-10-24T22:30:33Z"
     }
   ]
 }
