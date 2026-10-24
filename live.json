@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-24T19:39:02.771Z",
+  "timestamp": "2026-10-24T19:44:40.734Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-10-24T16:03:26Z"
     },
     {
-      "username": "Rocketology",
-      "title": "Day 5! Collecting More Village People",
-      "game": "Enshrouded",
-      "started_at": "2026-10-24T17:07:05Z"
-    },
-    {
       "username": "DonFactorial",
       "title": "Answering your math questions and talking about k-means clustering because I nerd-sniped myself",
       "game": "Math",
       "started_at": "2026-10-24T18:43:27Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "Day 5! Collecting More Village People",
+      "game": "Enshrouded",
+      "started_at": "2026-10-24T17:07:05Z"
     }
   ]
 }
