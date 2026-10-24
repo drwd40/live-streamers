@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-24T16:05:53.031Z",
+  "timestamp": "2026-10-24T16:21:38.785Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,22 +8,22 @@
       "started_at": "2026-10-23T14:00:47Z"
     },
     {
-      "username": "csharpfritz",
-      "title": "Publishing to the Windows Store",
-      "game": "Software and Game Development",
-      "started_at": "2026-10-24T14:40:00Z"
-    },
-    {
       "username": "Zachap",
       "title": "make it make sense",
       "game": "Just Chatting",
       "started_at": "2026-10-24T10:02:36Z"
     },
     {
-      "username": "Andilippi",
-      "title": "GOING FOR SUB 1 HOUR • BONGO WEARS SKETCHES • !crash2pb",
-      "game": "Crash Bandicoot 2: Cortex Strikes Back",
-      "started_at": "2026-10-24T15:06:15Z"
+      "username": "csharpfritz",
+      "title": "Publishing to the Windows Store",
+      "game": "Software and Game Development",
+      "started_at": "2026-10-24T14:40:00Z"
+    },
+    {
+      "username": "oh_bother",
+      "title": "Finishing up the PT2399 STYLOphone then rockin out.",
+      "game": "Science & Technology",
+      "started_at": "2026-10-24T16:03:26Z"
     },
     {
       "username": "AcademyOfUselessIdeas",
@@ -32,10 +32,10 @@
       "started_at": "2026-10-24T14:46:03Z"
     },
     {
-      "username": "oh_bother",
-      "title": "Finishing up the PT2399 STYLOphone then rockin out.",
-      "game": "Science & Technology",
-      "started_at": "2026-10-24T16:03:26Z"
+      "username": "eToThe2iPi",
+      "title": "Math/Ed Q&A -- Bring Your Questions!",
+      "game": "Math",
+      "started_at": "2026-10-24T16:19:40Z"
     }
   ]
 }
