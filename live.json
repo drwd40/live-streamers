@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-25T15:40:18.536Z",
+  "timestamp": "2026-10-25T15:46:03.112Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-10-25T14:10:22Z"
     },
     {
-      "username": "sciencestreams",
-      "title": "Giant Fungus Amongus | Virus = Smart? | H2O2 | Play Pathogenic!",
-      "game": "Just Chatting",
-      "started_at": "2026-10-25T14:58:30Z"
-    },
-    {
       "username": "nogre0",
       "title": "philosophy philosophy philosophy philosophy philosophy philosophy",
       "game": "Just Chatting",
       "started_at": "2026-10-25T15:31:35Z"
+    },
+    {
+      "username": "sciencestreams",
+      "title": "Giant Fungus Amongus | Virus = Smart? | H2O2 | Play Pathogenic!",
+      "game": "Just Chatting",
+      "started_at": "2026-10-25T14:58:30Z"
     }
   ]
 }
