@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-25T23:08:37.360Z",
+  "timestamp": "2026-10-25T23:19:31.871Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-10-25T22:50:08Z"
     },
     {
-      "username": "DrAlexanderClarke",
-      "title": "Bruships 265: Science Fiction & Naval History Questions Answered Live...",
-      "game": "Just Chatting",
-      "started_at": "2026-10-25T19:30:57Z"
-    },
-    {
       "username": "VolcanoDoc",
       "title": "Tectosilicates & Tequila | 🌋 Science Sunday | !phd !socials !pubs !merch",
       "game": "Science & Technology",
       "started_at": "2026-10-25T23:07:59Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "Bruships 265: Science Fiction & Naval History Questions Answered Live...",
+      "game": "Just Chatting",
+      "started_at": "2026-10-25T19:30:57Z"
     }
   ]
 }
