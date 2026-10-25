@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-25T09:19:09.985Z",
+  "timestamp": "2026-10-25T09:30:46.060Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "Let's Start Soldering - Electronics - Synthesizers - Vibes",
       "game": "Science & Technology",
       "started_at": "2026-10-24T22:30:33Z"
+    },
+    {
+      "username": "Andilippi",
+      "title": "Racing a Sonic Speedrunner @robblehead in the ORIGINAL Sonic 3 & Knuckles",
+      "game": "Sonic the Hedgehog 3",
+      "started_at": "2026-10-25T09:24:59Z"
     }
   ]
 }
