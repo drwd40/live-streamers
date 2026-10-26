@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-26T20:04:20.876Z",
+  "timestamp": "2026-10-26T20:22:36.271Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,22 @@
       "started_at": "2026-10-26T16:17:51Z"
     },
     {
-      "username": "Zachap",
-      "title": "socialism is a mode of production, not a government doing stuff. also consider following social medias? :3",
-      "game": "Just Chatting",
-      "started_at": "2026-10-26T10:03:28Z"
+      "username": "Paleontologizing",
+      "title": "🦖❔💬 Casual Paleontology Q&A 🦕❔💬 Let's hang out and talk fossils, natural history, science + more (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-10-26T20:08:24Z"
     },
     {
       "username": "AdamLearnsLive",
       "title": "Organizing and game-designing (day 129½)",
       "game": "Software and Game Development",
       "started_at": "2026-10-26T20:00:18Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "socialism is a mode of production, not a government doing stuff. also consider following social medias? :3",
+      "game": "Just Chatting",
+      "started_at": "2026-10-26T10:03:28Z"
     }
   ]
 }
