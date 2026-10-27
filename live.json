@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-27T21:44:54.940Z",
+  "timestamp": "2026-10-27T21:50:40.621Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,10 +32,10 @@
       "started_at": "2026-10-27T18:59:31Z"
     },
     {
-      "username": "xTalkProgrammer",
-      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
-      "game": "Just Chatting",
-      "started_at": "2026-10-27T19:59:36Z"
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 1015: Design Review of Sound & Vision continued",
+      "game": "Science & Technology",
+      "started_at": "2026-10-27T21:44:26Z"
     },
     {
       "username": "nSimplexPachinko",
@@ -44,10 +44,16 @@
       "started_at": "2026-10-27T21:10:25Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 1015: Design Review of Sound & Vision continued",
-      "game": "Science & Technology",
-      "started_at": "2026-10-27T21:44:26Z"
+      "username": "xTalkProgrammer",
+      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
+      "game": "Just Chatting",
+      "started_at": "2026-10-27T19:59:36Z"
+    },
+    {
+      "username": "imreallyimportant",
+      "title": "SEVEN DAYS | ISRAEL ELECTIONS",
+      "game": "Just Chatting",
+      "started_at": "2026-10-27T21:50:11Z"
     }
   ]
 }
