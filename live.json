@@ -1,11 +1,17 @@
 {
-  "timestamp": "2026-10-27T16:22:22.800Z",
+  "timestamp": "2026-10-27T16:30:47.431Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-10-27T14:00:51Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "More cutting and splicing to make good 4 door rockers! The Crew Cab Coronet (Part 58) 10/27/26",
+      "game": "Just Chatting",
+      "started_at": "2026-10-27T16:19:04Z"
     },
     {
       "username": "Zachap",
@@ -18,12 +24,6 @@
       "title": "Some kind of game dev (day 130)",
       "game": "Software and Game Development",
       "started_at": "2026-10-27T15:30:02Z"
-    },
-    {
-      "username": "EJ_SA",
-      "title": "More cutting and splicing to make good 4 door rockers! The Crew Cab Coronet (Part 58) 10/27/26",
-      "game": "Just Chatting",
-      "started_at": "2026-10-27T16:19:04Z"
     }
   ]
 }
