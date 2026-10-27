@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-27T20:27:59.718Z",
+  "timestamp": "2026-10-27T20:34:57.425Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,16 @@
       "started_at": "2026-10-27T18:59:31Z"
     },
     {
-      "username": "xTalkProgrammer",
-      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
-      "game": "Just Chatting",
-      "started_at": "2026-10-27T19:59:36Z"
-    },
-    {
       "username": "Stephen_Wolfram",
       "title": "Live CEOing Ep 1014: Design Review of Visualization",
       "game": "Science & Technology",
       "started_at": "2026-10-27T20:27:38Z"
+    },
+    {
+      "username": "xTalkProgrammer",
+      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
+      "game": "Just Chatting",
+      "started_at": "2026-10-27T19:59:36Z"
     }
   ]
 }
