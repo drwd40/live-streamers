@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-27T21:39:15.801Z",
+  "timestamp": "2026-10-27T21:44:54.940Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,12 +32,6 @@
       "started_at": "2026-10-27T18:59:31Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 1014: Design Review of Visualization",
-      "game": "Science & Technology",
-      "started_at": "2026-10-27T20:27:38Z"
-    },
-    {
       "username": "xTalkProgrammer",
       "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
       "game": "Just Chatting",
@@ -48,6 +42,12 @@
       "title": "Back from Austria & Slovenia, back to Precalculus! Collab w/ @kittiesplease - 20261027",
       "game": "Math",
       "started_at": "2026-10-27T21:10:25Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 1015: Design Review of Sound & Vision continued",
+      "game": "Science & Technology",
+      "started_at": "2026-10-27T21:44:26Z"
     }
   ]
 }
