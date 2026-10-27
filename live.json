@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-27T21:56:27.648Z",
+  "timestamp": "2026-10-27T22:05:31.194Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "EJ's Space and Rocket Revue! 10/27/26",
       "game": "Science & Technology",
       "started_at": "2026-10-27T16:19:04Z"
+    },
+    {
+      "username": "imreallyimportant",
+      "title": "SEVEN DAYS | ISRAEL ELECTION",
+      "game": "Just Chatting",
+      "started_at": "2026-10-27T21:50:11Z"
     },
     {
       "username": "Zachap",
@@ -32,12 +38,6 @@
       "started_at": "2026-10-27T18:59:31Z"
     },
     {
-      "username": "imreallyimportant",
-      "title": "SEVEN DAYS | ISRAEL ELECTIONS",
-      "game": "Just Chatting",
-      "started_at": "2026-10-27T21:50:11Z"
-    },
-    {
       "username": "Stephen_Wolfram",
       "title": "Live CEOing Ep 1015: Design Review of Sound & Vision continued",
       "game": "Science & Technology",
@@ -48,6 +48,12 @@
       "title": "Back from Austria & Slovenia, back to Precalculus! Collab w/ @kittiesplease - 20261027",
       "game": "Math",
       "started_at": "2026-10-27T21:10:25Z"
+    },
+    {
+      "username": "shnaff",
+      "title": "First stream with the new guitar!",
+      "game": "Music",
+      "started_at": "2026-10-27T22:03:03Z"
     }
   ]
 }
