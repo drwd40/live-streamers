@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-27T21:21:03.310Z",
+  "timestamp": "2026-10-27T21:26:37.215Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-10-27T19:52:57Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "The Solder Mash - It Was A Workbench Smash",
-      "game": "Science & Technology",
-      "started_at": "2026-10-27T18:59:31Z"
-    },
-    {
       "username": "Stephen_Wolfram",
       "title": "Live CEOing Ep 1014: Design Review of Visualization",
       "game": "Science & Technology",
       "started_at": "2026-10-27T20:27:38Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "The Solder Mash - It Was A Workbench Smash",
+      "game": "Science & Technology",
+      "started_at": "2026-10-27T18:59:31Z"
     },
     {
       "username": "xTalkProgrammer",
