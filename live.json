@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-28T19:30:31.735Z",
+  "timestamp": "2026-10-28T19:37:48.038Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "if we reach hidden number of subs, streamer games at 10th hour",
       "game": "Just Chatting",
       "started_at": "2026-10-28T10:04:12Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "determinants next? [!fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-10-28T19:35:05Z"
     }
   ]
 }
