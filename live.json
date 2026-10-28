@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-28T19:12:56.469Z",
+  "timestamp": "2026-10-28T19:18:57.299Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,12 +14,6 @@
       "started_at": "2026-10-28T17:09:35Z"
     },
     {
-      "username": "Nerduino",
-      "title": "IRL Shuttle Endeavor and the new Oschin Air and Space Museum @ California Science Center.  PhD Astronomer.",
-      "game": "IRL",
-      "started_at": "2026-10-28T14:54:59Z"
-    },
-    {
       "username": "Zachap",
       "title": "if we reach hidden number of subs, streamer games at 10th hour",
       "game": "Just Chatting",
@@ -32,10 +26,10 @@
       "started_at": "2026-10-28T18:00:17Z"
     },
     {
-      "username": "SomeCodingGuy",
-      "title": "Big announcement! New dev phase on Gravity Matters!",
-      "game": "Software and Game Development",
-      "started_at": "2026-10-28T17:41:59Z"
+      "username": "Nerduino",
+      "title": "IRL Shuttle Endeavor and the new Oschin Air and Space Museum @ California Science Center.  PhD Astronomer.",
+      "game": "IRL",
+      "started_at": "2026-10-28T19:18:40Z"
     }
   ]
 }
