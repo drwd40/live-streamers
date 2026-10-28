@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-28T00:57:12.241Z",
+  "timestamp": "2026-10-28T01:09:27.788Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,6 +38,18 @@
       "started_at": "2026-10-27T23:53:38Z"
     },
     {
+      "username": "SciAnts_Streams",
+      "title": "Planet ZoosDay | PhD Biologist building a park + finch evolution, vampirism, and more! | Partner+ 285/300 | !ppp !yt !pod !tc26",
+      "game": "Planet Zoo 2",
+      "started_at": "2026-10-28T01:00:21Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Planning our trip to report on Shuttle Endeavor and new Oschin Air and Space Museum @ California Science Center tomorrow.  PhD Astronomer.",
+      "game": "Science & Technology",
+      "started_at": "2026-10-28T00:50:13Z"
+    },
+    {
       "username": "shnaff",
       "title": "First stream with the new guitar!",
       "game": "Music",
@@ -50,22 +62,16 @@
       "started_at": "2026-10-27T18:59:31Z"
     },
     {
-      "username": "MelissaInDeNile",
-      "title": "Playing Ghosted with Friends!! @silversunset42 ~ Follower Goal: 2487/2600 ~ !socials !beyonddenile",
-      "game": "GHOSTED",
-      "started_at": "2026-10-27T22:50:16Z"
-    },
-    {
-      "username": "Nerduino",
-      "title": "Planning our trip to report on Shuttle Endeavor and new Oschin Air and Space Museum @ California Science Center tomorrow.  PhD Astronomer.",
-      "game": "Science & Technology",
-      "started_at": "2026-10-28T00:50:13Z"
-    },
-    {
       "username": "ActualEducation",
       "title": "Math Homework Help | Middle + High School",
       "game": "Just Chatting",
       "started_at": "2026-10-28T00:00:46Z"
+    },
+    {
+      "username": "MelissaInDeNile",
+      "title": "Playing Ghosted with Friends!! @silversunset42 ~ Follower Goal: 2487/2600 ~ !socials !beyonddenile",
+      "game": "GHOSTED",
+      "started_at": "2026-10-27T22:50:16Z"
     }
   ]
 }
