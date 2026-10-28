@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-28T21:54:43.980Z",
+  "timestamp": "2026-10-28T22:00:24.951Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -9,8 +9,8 @@
     },
     {
       "username": "EJ_SA",
-      "title": "WEDNESDAY WARDOGS! RECON GRIND FOR M14! 10/28/26",
-      "game": "WARDOGS",
+      "title": "EJ's Space and Rocket Revue! 10/28/26",
+      "game": "Science & Technology",
       "started_at": "2026-10-28T17:09:35Z"
     },
     {
@@ -38,6 +38,12 @@
       "started_at": "2026-10-28T10:04:12Z"
     },
     {
+      "username": "imreallyimportant",
+      "title": "SIX DAYS | NYT/SIENA POLLS FOR SC, FL & MN | HUGE EARLY VOTING NUMBERS",
+      "game": "Just Chatting",
+      "started_at": "2026-10-28T21:49:58Z"
+    },
+    {
       "username": "DrMick",
       "title": "Mental Health Chat + Painting 40k + MTG stuff?",
       "game": "Miniatures & Models",
@@ -54,12 +60,6 @@
       "title": "determinants next? [!fish🎣|!commands💻]",
       "game": "Math",
       "started_at": "2026-10-28T19:35:05Z"
-    },
-    {
-      "username": "imreallyimportant",
-      "title": "SIX DAYS | NYT/SIENA POLLS FOR SC, FL & MN | HUGE EARLY VOTING NUMBERS",
-      "game": "Just Chatting",
-      "started_at": "2026-10-28T21:49:58Z"
     }
   ]
 }
