@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-10-28T18:00:08.222Z",
+  "timestamp": "2026-10-28T18:17:58.873Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
-      "game": "Animals, Aquariums, and Zoos",
+      "title": "Into the Wild w/ Kayla | !alveus !institute !pixel !schedule !video",
+      "game": "Just Chatting",
       "started_at": "2026-10-27T14:00:51Z"
     },
     {
@@ -32,10 +32,22 @@
       "started_at": "2026-10-28T10:04:12Z"
     },
     {
+      "username": "IrishJohnGames",
+      "title": "🍀 Mayors/Captains update drops FRIDAY!  |  !category !jj | !rop !patreon !discord",
+      "game": "Software and Game Development",
+      "started_at": "2026-10-28T18:00:17Z"
+    },
+    {
       "username": "SomeCodingGuy",
       "title": "Big announcement! New dev phase on Gravity Matters!",
       "game": "Software and Game Development",
       "started_at": "2026-10-28T17:41:59Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 1016: Language Design in Wolfram Language [StrictlyOrderQ, DateMod and more]",
+      "game": "Science & Technology",
+      "started_at": "2026-10-28T18:02:37Z"
     }
   ]
 }
