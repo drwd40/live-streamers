@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-28T04:27:55.806Z",
+  "timestamp": "2026-10-28T04:35:56.979Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,22 +14,28 @@
       "started_at": "2026-10-28T01:00:21Z"
     },
     {
+      "username": "DrMick",
+      "title": "Ali the Goalie!",
+      "game": "Sports",
+      "started_at": "2026-10-28T04:28:52Z"
+    },
+    {
       "username": "SydHeresy",
       "title": "The Solder Mash - It Was A Workbench Smash",
       "game": "Science & Technology",
       "started_at": "2026-10-27T18:59:31Z"
     },
     {
-      "username": "walkingsticklibrary",
-      "title": "K-12 Tuesday. Mound building termites compared to \"regular\" ones, understanding basic circuit diagrams, and how immigrants help the economy.",
-      "game": "Science & Technology",
-      "started_at": "2026-10-28T01:34:44Z"
-    },
-    {
       "username": "happyknightmares",
       "title": "Late night homework stream!! 📚📝✨",
       "game": "Co-working & Studying",
       "started_at": "2026-10-28T03:26:48Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "K-12 Tuesday. Mound building termites compared to \"regular\" ones, understanding basic circuit diagrams, and how immigrants help the economy.",
+      "game": "Science & Technology",
+      "started_at": "2026-10-28T01:34:44Z"
     }
   ]
 }
