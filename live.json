@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-28T20:54:22.504Z",
+  "timestamp": "2026-10-28T20:59:59.952Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,16 @@
       "started_at": "2026-10-28T19:56:36Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Philosophy Q&A with Stephen Wolfram (October 28, 2026)",
-      "game": "Science & Technology",
-      "started_at": "2026-10-28T19:46:20Z"
-    },
-    {
       "username": "Zachap",
       "title": "something about something idk",
       "game": "Just Chatting",
       "started_at": "2026-10-28T10:04:12Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Philosophy Q&A with Stephen Wolfram (October 28, 2026)",
+      "game": "Science & Technology",
+      "started_at": "2026-10-28T19:46:20Z"
     },
     {
       "username": "DrMick",
