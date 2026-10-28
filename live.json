@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-28T14:44:01.765Z",
+  "timestamp": "2026-10-28T14:50:10.903Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "the rich don't work while the poor starves",
       "game": "Just Chatting",
       "started_at": "2026-10-28T10:04:12Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "IRL Shuttle Endeavor and the new Oschin Air and Space Museum @ California Science Center.  PhD Astronomer.",
+      "game": "IRL",
+      "started_at": "2026-10-28T14:48:43Z"
     }
   ]
 }
