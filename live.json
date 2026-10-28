@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-28T22:00:24.951Z",
+  "timestamp": "2026-10-28T22:13:34.057Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,6 +20,12 @@
       "started_at": "2026-10-28T20:06:50Z"
     },
     {
+      "username": "imreallyimportant",
+      "title": "SIX DAYS | NYT/SIENA POLLS FOR SC, FL & MN | HUGE EARLY VOTING NUMBERS",
+      "game": "Just Chatting",
+      "started_at": "2026-10-28T21:49:58Z"
+    },
+    {
       "username": "AdamLearnsLive",
       "title": "Making a simple action RPG for Stuck in a Broken Tutorial (day 131½)",
       "game": "Software and Game Development",
@@ -38,22 +44,10 @@
       "started_at": "2026-10-28T10:04:12Z"
     },
     {
-      "username": "imreallyimportant",
-      "title": "SIX DAYS | NYT/SIENA POLLS FOR SC, FL & MN | HUGE EARLY VOTING NUMBERS",
-      "game": "Just Chatting",
-      "started_at": "2026-10-28T21:49:58Z"
-    },
-    {
       "username": "DrMick",
       "title": "Mental Health Chat + Painting 40k + MTG stuff?",
       "game": "Miniatures & Models",
       "started_at": "2026-10-28T20:02:10Z"
-    },
-    {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 1017: Design Review of Data Models",
-      "game": "Science & Technology",
-      "started_at": "2026-10-28T21:09:55Z"
     },
     {
       "username": "pencenter",
