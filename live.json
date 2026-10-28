@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-28T00:40:28.183Z",
+  "timestamp": "2026-10-28T00:57:12.241Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,16 @@
       "started_at": "2026-10-27T10:01:58Z"
     },
     {
-      "username": "shnaff",
-      "title": "First stream with the new guitar!",
-      "game": "Music",
-      "started_at": "2026-10-27T22:03:03Z"
-    },
-    {
       "username": "SharkG33k",
       "title": "Shark news now, Black Flag later! | !GWS",
       "game": "Science & Technology",
       "started_at": "2026-10-27T23:53:38Z"
+    },
+    {
+      "username": "shnaff",
+      "title": "First stream with the new guitar!",
+      "game": "Music",
+      "started_at": "2026-10-27T22:03:03Z"
     },
     {
       "username": "SydHeresy",
@@ -56,16 +56,16 @@
       "started_at": "2026-10-27T22:50:16Z"
     },
     {
+      "username": "Nerduino",
+      "title": "Planning our trip to report on Shuttle Endeavor and new Oschin Air and Space Museum @ California Science Center tomorrow.  PhD Astronomer.",
+      "game": "Science & Technology",
+      "started_at": "2026-10-28T00:50:13Z"
+    },
+    {
       "username": "ActualEducation",
       "title": "Math Homework Help | Middle + High School",
       "game": "Just Chatting",
       "started_at": "2026-10-28T00:00:46Z"
-    },
-    {
-      "username": "nSimplexPachinko",
-      "title": "Back from Austria & Slovenia, back to Precalculus! Collab w/ @kittiesplease - 20261027",
-      "game": "Math",
-      "started_at": "2026-10-27T21:10:25Z"
     }
   ]
 }
