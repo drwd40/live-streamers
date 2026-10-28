@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-28T19:01:40.894Z",
+  "timestamp": "2026-10-28T19:12:56.469Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,12 +36,6 @@
       "title": "Big announcement! New dev phase on Gravity Matters!",
       "game": "Software and Game Development",
       "started_at": "2026-10-28T17:41:59Z"
-    },
-    {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 1016: Language Design in Wolfram Language [StrictlyOrderQ, DateMod and more]",
-      "game": "Science & Technology",
-      "started_at": "2026-10-28T18:02:37Z"
     }
   ]
 }
