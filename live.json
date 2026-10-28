@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-28T03:28:53.705Z",
+  "timestamp": "2026-10-28T03:37:49.057Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,16 +38,16 @@
       "started_at": "2026-10-27T18:59:31Z"
     },
     {
-      "username": "walkingsticklibrary",
-      "title": "K-12 Tuesday. Mound building termites compared to \"regular\" ones, understanding basic circuit diagrams, and how immigrants help the economy.",
-      "game": "Science & Technology",
-      "started_at": "2026-10-28T01:34:44Z"
-    },
-    {
       "username": "happyknightmares",
       "title": "Late night homework stream!! 📚📝✨",
       "game": "Co-working & Studying",
       "started_at": "2026-10-28T03:26:48Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "K-12 Tuesday. Mound building termites compared to \"regular\" ones, understanding basic circuit diagrams, and how immigrants help the economy.",
+      "game": "Science & Technology",
+      "started_at": "2026-10-28T01:34:44Z"
     }
   ]
 }
