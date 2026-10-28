@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-28T19:49:20.121Z",
+  "timestamp": "2026-10-28T19:55:13.390Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-10-28T10:04:12Z"
     },
     {
-      "username": "pencenter",
-      "title": "determinants next? [!fish🎣|!commands💻]",
-      "game": "Math",
-      "started_at": "2026-10-28T19:35:05Z"
-    },
-    {
       "username": "Stephen_Wolfram",
       "title": "Philosophy Q&A with Stephen Wolfram (October 28, 2026)",
       "game": "Science & Technology",
       "started_at": "2026-10-28T19:46:20Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "determinants next? [!fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-10-28T19:35:05Z"
     }
   ]
 }
