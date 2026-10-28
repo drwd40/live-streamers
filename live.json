@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-28T21:30:51.996Z",
+  "timestamp": "2026-10-28T21:37:41.275Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -44,16 +44,16 @@
       "started_at": "2026-10-28T20:02:10Z"
     },
     {
-      "username": "pencenter",
-      "title": "determinants next? [!fish🎣|!commands💻]",
-      "game": "Math",
-      "started_at": "2026-10-28T19:35:05Z"
-    },
-    {
       "username": "Stephen_Wolfram",
       "title": "Live CEOing Ep 1017: Design Review of Data Models",
       "game": "Science & Technology",
       "started_at": "2026-10-28T21:09:55Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "determinants next? [!fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-10-28T19:35:05Z"
     }
   ]
 }
