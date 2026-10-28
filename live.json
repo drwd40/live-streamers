@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-28T20:24:11.699Z",
+  "timestamp": "2026-10-28T20:29:42.863Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-10-28T20:06:50Z"
     },
     {
-      "username": "DrawCuriosity",
-      "title": "🎨 VIRTUAL PET STREAM? Virtual pet stream: Tamagotchi Paradise and Punirunes✨🐏!tier2 !tier3",
-      "game": "Just Chatting",
-      "started_at": "2026-10-28T19:56:36Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "Making a simple action RPG for Stuck in a Broken Tutorial (day 131½)",
       "game": "Software and Game Development",
       "started_at": "2026-10-28T19:58:01Z"
+    },
+    {
+      "username": "DrawCuriosity",
+      "title": "🎨 VIRTUAL PET STREAM? Virtual pet stream: Tamagotchi Paradise and Punirunes✨🐏!tier2 !tier3",
+      "game": "Just Chatting",
+      "started_at": "2026-10-28T19:56:36Z"
     },
     {
       "username": "Zachap",
@@ -38,16 +38,16 @@
       "started_at": "2026-10-28T10:04:12Z"
     },
     {
-      "username": "DrMick",
-      "title": "Mental Health Chat + Painting 40k + MTG stuff?",
-      "game": "Miniatures & Models",
-      "started_at": "2026-10-28T20:02:10Z"
-    },
-    {
       "username": "Stephen_Wolfram",
       "title": "Philosophy Q&A with Stephen Wolfram (October 28, 2026)",
       "game": "Science & Technology",
       "started_at": "2026-10-28T19:46:20Z"
+    },
+    {
+      "username": "DrMick",
+      "title": "Mental Health Chat + Painting 40k + MTG stuff?",
+      "game": "Miniatures & Models",
+      "started_at": "2026-10-28T20:02:10Z"
     },
     {
       "username": "pencenter",
