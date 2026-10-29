@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-29T22:14:55.891Z",
+  "timestamp": "2026-10-29T22:21:58.681Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -50,16 +50,16 @@
       "started_at": "2026-10-29T19:44:28Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Electronics - Soldering - Silliness",
-      "game": "Science & Technology",
-      "started_at": "2026-10-29T19:09:46Z"
-    },
-    {
       "username": "shnaff",
       "title": "NEW GUITAR! Chill guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2026-10-29T22:00:38Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Electronics - Soldering - Silliness",
+      "game": "Science & Technology",
+      "started_at": "2026-10-29T19:09:46Z"
     },
     {
       "username": "DonFactorial",
