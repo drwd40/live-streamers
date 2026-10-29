@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-28T23:54:52.867Z",
+  "timestamp": "2026-10-29T00:01:22.373Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-10-28T17:09:35Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "TWO NEW DINOSAURS 🦖🆕🦕🆕 Introducing Paludohadros and Rinconraptor 🦴⛏📰 plus fossil science Q&A (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-10-28T20:06:50Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "SIX DAYS | NYT/SIENA POLLS FOR SC, FL & MN | HUGE EARLY VOTING NUMBERS",
       "game": "Just Chatting",
       "started_at": "2026-10-28T21:49:58Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "TWO NEW DINOSAURS 🦖🆕🦕🆕 Introducing Paludohadros and Rinconraptor 🦴⛏📰 plus fossil science Q&A (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-10-28T20:06:50Z"
     },
     {
       "username": "Zachap",
@@ -42,6 +42,12 @@
       "title": "🎨 VIRTUAL PET STREAM? Virtual pet stream: Tamagotchi Paradise and Punirunes✨🐏!tier2 !tier3",
       "game": "Just Chatting",
       "started_at": "2026-10-28T19:56:36Z"
+    },
+    {
+      "username": "nogre0",
+      "title": "philosophy & finesse",
+      "game": "Just Chatting",
+      "started_at": "2026-10-29T00:00:07Z"
     }
   ]
 }
