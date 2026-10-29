@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-29T19:43:39.674Z",
+  "timestamp": "2026-10-29T19:49:13.945Z",
   "live": [
     {
       "username": "Kitboga",
@@ -12,12 +12,6 @@
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-10-29T14:00:54Z"
-    },
-    {
-      "username": "EJ_SA",
-      "title": "EJ's Spacewalk and EVA 100 Revue! 10/29/26",
-      "game": "Science & Technology",
-      "started_at": "2026-10-29T16:24:47Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -48,6 +42,12 @@
       "title": "Interview with Gabe DiSaverio, creator of The Spicy Shark Hot Sauce! | !GWS",
       "game": "Talk Shows & Podcasts",
       "started_at": "2026-10-29T19:02:23Z"
+    },
+    {
+      "username": "GeoJim2006",
+      "title": "What Are These!? Sorting Unknown Minerals, Rocks, 'n' Fossils from the College Collection 🏔️🪨🔬 !discord !nova !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-10-29T19:44:28Z"
     }
   ]
 }
