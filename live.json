@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-29T19:02:36.697Z",
+  "timestamp": "2026-10-29T19:13:01.735Z",
   "live": [
     {
       "username": "Kitboga",
@@ -42,6 +42,12 @@
       "title": "Interview with Gabe DiSaverio, creator of The Spicy Shark Hot Sauce! | !GWS",
       "game": "Talk Shows & Podcasts",
       "started_at": "2026-10-29T19:02:23Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Electronics - Soldering - Silliness",
+      "game": "Science & Technology",
+      "started_at": "2026-10-29T19:09:46Z"
     }
   ]
 }
