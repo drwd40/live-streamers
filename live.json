@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-29T21:00:00.450Z",
+  "timestamp": "2026-10-29T21:12:59.008Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,12 +26,6 @@
       "started_at": "2026-10-29T20:12:43Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Electronics - Soldering - Silliness",
-      "game": "Science & Technology",
-      "started_at": "2026-10-29T19:09:46Z"
-    },
-    {
       "username": "GeoJim2006",
       "title": "What Are These!? Sorting Unknown Minerals, Rocks, 'n' Fossils from the College Collection 🏔️🪨🔬 !discord !nova !tkf",
       "game": "Science & Technology",
@@ -42,6 +36,18 @@
       "title": "Interview with Gabe DiSaverio, creator of The Spicy Shark Hot Sauce! | !GWS",
       "game": "Talk Shows & Podcasts",
       "started_at": "2026-10-29T19:02:23Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Electronics - Soldering - Silliness",
+      "game": "Science & Technology",
+      "started_at": "2026-10-29T19:09:46Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Exponential & Logarithm with Review; Combined Precalculus 09; Collab w/ @kittiesplease",
+      "game": "Math",
+      "started_at": "2026-10-29T21:11:23Z"
     }
   ]
 }
