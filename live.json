@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-29T01:30:56.004Z",
+  "timestamp": "2026-10-29T01:41:43.789Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -48,6 +48,12 @@
       "title": "Physics & Chemistry Homework Help | Middle + High School",
       "game": "Just Chatting",
       "started_at": "2026-10-29T00:02:25Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Making sense of a meme. Who is Andrea Shaw? What is jury research and what does it do?",
+      "game": "Science & Technology",
+      "started_at": "2026-10-29T01:32:50Z"
     }
   ]
 }
