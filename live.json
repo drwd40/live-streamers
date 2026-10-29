@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-29T00:39:00.464Z",
+  "timestamp": "2026-10-29T00:55:56.871Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,6 +32,12 @@
       "started_at": "2026-10-28T10:04:12Z"
     },
     {
+      "username": "nogre0",
+      "title": "philosophy & finesse",
+      "game": "Just Chatting",
+      "started_at": "2026-10-29T00:00:07Z"
+    },
+    {
       "username": "SharkG33k",
       "title": "360 tiger shark dive! | !GWS",
       "game": "Science & Technology",
@@ -42,12 +48,6 @@
       "title": "Physics & Chemistry Homework Help | Middle + High School",
       "game": "Just Chatting",
       "started_at": "2026-10-29T00:02:25Z"
-    },
-    {
-      "username": "nogre0",
-      "title": "philosophy & finesse",
-      "game": "Just Chatting",
-      "started_at": "2026-10-29T00:00:07Z"
     }
   ]
 }
