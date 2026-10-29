@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-29T23:28:04.533Z",
+  "timestamp": "2026-10-29T23:35:39.935Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,22 +38,28 @@
       "started_at": "2026-10-29T22:00:38Z"
     },
     {
+      "username": "DrawCuriosity",
+      "title": "🎨 DRESSMAKER! Lover of pretty dresses will play with pretty dresses ✨🐏!tier2 !tier3",
+      "game": "Dressmaker (2026)",
+      "started_at": "2026-10-29T23:27:42Z"
+    },
+    {
       "username": "GeoJim2006",
       "title": "What Are These!? Sorting Unknown Minerals, Rocks, 'n' Fossils from the College Collection 🏔️🪨🔬 !discord !nova !tkf",
       "game": "Science & Technology",
       "started_at": "2026-10-29T19:44:28Z"
     },
     {
-      "username": "SharkG33k",
-      "title": "Setting up Gender Reveal Stuff | !GWS",
-      "game": "Just Chatting",
-      "started_at": "2026-10-29T19:02:23Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Electronics - Soldering - Silliness",
       "game": "Science & Technology",
       "started_at": "2026-10-29T19:09:46Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Setting up Gender Reveal Stuff | !GWS",
+      "game": "Just Chatting",
+      "started_at": "2026-10-29T19:02:23Z"
     },
     {
       "username": "MelissaInDeNile",
@@ -72,12 +78,6 @@
       "title": "Exponential & Logarithm with Review; Combined Precalculus 09; Collab w/ @kittiesplease",
       "game": "Math",
       "started_at": "2026-10-29T21:11:23Z"
-    },
-    {
-      "username": "DrawCuriosity",
-      "title": "🎨 DRESSMAKER! Lover of pretty dresses will play with pretty dresses ✨🐏!tier2 !tier3",
-      "game": "Dressmaker (2026)",
-      "started_at": "2026-10-29T23:27:42Z"
     }
   ]
 }
