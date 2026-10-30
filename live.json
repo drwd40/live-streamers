@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-30T01:36:20.883Z",
+  "timestamp": "2026-10-30T01:43:23.009Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -44,16 +44,16 @@
       "started_at": "2026-10-29T22:49:21Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
-      "game": "Just Chatting",
-      "started_at": "2026-10-30T00:01:04Z"
-    },
-    {
       "username": "Mr_Aejis",
       "title": "Teacher Reacts: Kingdom Hearts 1st-time playthru!",
       "game": "Kingdom Hearts Final Mix",
       "started_at": "2026-10-30T00:10:29Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-10-30T00:01:04Z"
     },
     {
       "username": "walkingsticklibrary",
