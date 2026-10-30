@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-30T15:27:05.508Z",
+  "timestamp": "2026-10-30T15:34:27.185Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,12 @@
       "title": "Crash Bandicoot Any% Speedrun Practice for Sunday's Race! | !sando £0/£1,000",
       "game": "Crash Bandicoot",
       "started_at": "2026-10-30T13:20:34Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Lights, camera, ACTIONᴿᴾᴳ! (day 133)",
+      "game": "Software and Game Development",
+      "started_at": "2026-10-30T15:30:50Z"
     }
   ]
 }
