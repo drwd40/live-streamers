@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-30T05:39:58.384Z",
+  "timestamp": "2026-10-30T05:45:35.181Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-10-29T19:09:46Z"
     },
     {
-      "username": "walkingsticklibrary",
-      "title": "Who is Smedly Butler? MedBeds for real! Detecting infectious disease with 6G and artificial intelligence.",
-      "game": "Science & Technology",
-      "started_at": "2026-10-30T01:30:56Z"
-    },
-    {
       "username": "DrMick",
       "title": "Atomic Kittens Hockey",
       "game": "Sports",
       "started_at": "2026-10-30T05:39:29Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Who is Smedly Butler? MedBeds for real! Detecting infectious disease with 6G and artificial intelligence.",
+      "game": "Science & Technology",
+      "started_at": "2026-10-30T01:30:56Z"
     }
   ]
 }
