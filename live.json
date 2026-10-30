@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-30T20:35:03.538Z",
+  "timestamp": "2026-10-30T20:40:46.253Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "EJ's Space and Rocket Revue! 10/30/26",
       "game": "Science & Technology",
       "started_at": "2026-10-30T20:23:33Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Making ARPG skills all afternoon 🔥⚡️❄️ (day 133½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-10-30T20:00:13Z"
     },
     {
       "username": "IrishJohnGames",
@@ -30,12 +36,6 @@
       "title": "today",
       "game": "Just Chatting",
       "started_at": "2026-10-30T10:14:40Z"
-    },
-    {
-      "username": "AdamLearnsLive",
-      "title": "Making ARPG skills all afternoon 🔥⚡️❄️ (day 133½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-10-30T20:00:13Z"
     },
     {
       "username": "Stephen_Wolfram",
