@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-30T21:19:15.841Z",
+  "timestamp": "2026-10-30T21:25:00.441Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "👗2000 HOURS STREAMING + HALLOWEEN! Lover of pretty dresses plays with pretty dresses - LAST STREAM WITH BONUS SPOOKY BUG ✨🐏!tier2 !tier3",
       "game": "Dressmaker (2026)",
       "started_at": "2026-10-30T19:28:58Z"
+    },
+    {
+      "username": "jacksfacts",
+      "title": "Time to breed the fastest horse in the west and talk about science.",
+      "game": "Horsey Game",
+      "started_at": "2026-10-30T21:23:37Z"
     }
   ]
 }
