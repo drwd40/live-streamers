@@ -1,11 +1,17 @@
 {
-  "timestamp": "2026-10-30T20:22:37.277Z",
+  "timestamp": "2026-10-30T20:28:17.239Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-10-29T14:00:54Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "EJ's Space and Rocket Revue! 10/30/26",
+      "game": "Science & Technology",
+      "started_at": "2026-10-30T20:23:33Z"
     },
     {
       "username": "IrishJohnGames",
@@ -26,16 +32,16 @@
       "started_at": "2026-10-30T19:28:58Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Philosophy Q&A with Stephen Wolfram (October 30, 2026)",
-      "game": "Science & Technology",
-      "started_at": "2026-10-30T19:41:08Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "Making ARPG skills all afternoon 🔥⚡️❄️ (day 133½)",
       "game": "Software and Game Development",
       "started_at": "2026-10-30T20:00:13Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Philosophy Q&A with Stephen Wolfram (October 30, 2026)",
+      "game": "Science & Technology",
+      "started_at": "2026-10-30T19:41:08Z"
     }
   ]
 }
