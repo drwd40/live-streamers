@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-30T16:08:02.822Z",
+  "timestamp": "2026-10-30T16:18:29.464Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "Crash Bandicoot Any% Speedrun Practice for Sunday's Race! | !sando £0/£1,000",
       "game": "Crash Bandicoot",
       "started_at": "2026-10-30T13:20:34Z"
+    },
+    {
+      "username": "ipaintbirbs",
+      "title": "it's an owl in a sweater kind of day",
+      "game": "Art",
+      "started_at": "2026-10-30T16:17:39Z"
     }
   ]
 }
