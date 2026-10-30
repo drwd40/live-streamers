@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-30T23:45:56.937Z",
+  "timestamp": "2026-10-30T23:51:34.207Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,6 +20,12 @@
       "started_at": "2026-10-30T22:59:52Z"
     },
     {
+      "username": "DrawCuriosity",
+      "title": "👗2000 HOURS STREAMING + HALLOWEEN! Lover of pretty dresses plays with pretty dresses - LAST STREAM WITH BONUS SPOOKY BUG ✨🐏!tier2 !tier3",
+      "game": "Dressmaker (2026)",
+      "started_at": "2026-10-30T19:28:58Z"
+    },
+    {
       "username": "Zachap",
       "title": "today",
       "game": "Just Chatting",
@@ -32,10 +38,10 @@
       "started_at": "2026-10-30T22:01:21Z"
     },
     {
-      "username": "DrawCuriosity",
-      "title": "👗2000 HOURS STREAMING + HALLOWEEN! Lover of pretty dresses plays with pretty dresses - LAST STREAM WITH BONUS SPOOKY BUG ✨🐏!tier2 !tier3",
-      "game": "Dressmaker (2026)",
-      "started_at": "2026-10-30T19:28:58Z"
+      "username": "AstroCanuck",
+      "title": "Astro's Po'Pourri: Guest Host - Re-Brick LEGO Haunted Mansion Deluxe Modular - !continental - !subtember extension T3 Minifig | !drop !tkf",
+      "game": "Lego & Brickbuilding",
+      "started_at": "2026-10-30T23:50:39Z"
     }
   ]
 }
