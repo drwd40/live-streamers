@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-31T22:18:46.414Z",
+  "timestamp": "2026-10-31T22:24:15.045Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,12 +24,6 @@
       "title": "Halloween In Jamtown - Synths - Sound Design - Goofin'",
       "game": "Music",
       "started_at": "2026-10-31T20:09:46Z"
-    },
-    {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and studying probability",
-      "game": "Math",
-      "started_at": "2026-10-31T18:49:18Z"
     }
   ]
 }
