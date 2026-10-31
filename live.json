@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-31T18:47:30.011Z",
+  "timestamp": "2026-10-31T18:53:03.354Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "Math/Ed Q&A -- Bring Your Questions!",
       "game": "Math",
       "started_at": "2026-10-31T16:00:43Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and studying probability",
+      "game": "Math",
+      "started_at": "2026-10-31T18:49:18Z"
     }
   ]
 }
