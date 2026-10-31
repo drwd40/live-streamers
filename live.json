@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-31T15:56:40.127Z",
+  "timestamp": "2026-10-31T16:05:11.163Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,12 @@
       "title": "political theory, history, philosophy, news, essays, all sorts",
       "game": "Just Chatting",
       "started_at": "2026-10-31T10:03:38Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Math/Ed Q&A -- Bring Your Questions!",
+      "game": "Math",
+      "started_at": "2026-10-31T16:00:43Z"
     }
   ]
 }
