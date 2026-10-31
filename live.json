@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-31T01:18:31.331Z",
+  "timestamp": "2026-10-31T01:24:16.716Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-10-30T19:28:58Z"
     },
     {
-      "username": "Zachap",
-      "title": "today",
-      "game": "Just Chatting",
-      "started_at": "2026-10-30T10:14:40Z"
-    },
-    {
       "username": "SciAnts_Streams",
       "title": "SciAnts News | New species, retroviruses, bee swarms, dogs, and more! | Partner+ 340/300 | !ppp !yt !pod !tc26",
       "game": "Science & Technology",
       "started_at": "2026-10-31T01:01:22Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "today",
+      "game": "Just Chatting",
+      "started_at": "2026-10-30T10:14:40Z"
     },
     {
       "username": "SharkG33k",
