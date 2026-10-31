@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-31T20:22:01.597Z",
+  "timestamp": "2026-10-31T20:27:43.558Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-10-31T10:03:38Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and studying probability",
-      "game": "Math",
-      "started_at": "2026-10-31T18:49:18Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Halloween In Jamtown - Synths - Sound Design - Goofin'",
       "game": "Science & Technology",
       "started_at": "2026-10-31T20:09:46Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and studying probability",
+      "game": "Math",
+      "started_at": "2026-10-31T18:49:18Z"
     }
   ]
 }
