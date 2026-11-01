@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-01T04:36:25.940Z",
+  "timestamp": "2026-11-01T04:42:12.652Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-11-01T01:05:12Z"
     },
     {
-      "username": "walkingsticklibrary",
-      "title": "AI wearables and infectious disease, Italy in Abyssinia, and Isaiah 28:9.",
-      "game": "Science & Technology",
-      "started_at": "2026-11-01T02:02:05Z"
-    },
-    {
       "username": "TominationTime",
       "title": "HAPPY HALLOWEEN🔴1ST PLAYTHROUGH🔴WAIFU SCREAMS",
       "game": "Resident Evil Village",
       "started_at": "2026-11-01T04:32:52Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "AI wearables and infectious disease, Italy in Abyssinia, and Isaiah 28:9.",
+      "game": "Science & Technology",
+      "started_at": "2026-11-01T02:02:05Z"
     }
   ]
 }
