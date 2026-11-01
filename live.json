@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-01T16:48:09.312Z",
+  "timestamp": "2026-11-01T16:53:48.622Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,16 @@
       "started_at": "2026-11-01T14:25:32Z"
     },
     {
-      "username": "sciencestreams",
-      "title": "Birthday stream! | Science News | Play Pathogenic!",
-      "game": "Just Chatting",
-      "started_at": "2026-11-01T16:08:45Z"
-    },
-    {
       "username": "nogre0",
       "title": "philosophy & finesse",
       "game": "Just Chatting",
       "started_at": "2026-11-01T16:43:25Z"
+    },
+    {
+      "username": "sciencestreams",
+      "title": "Birthday stream! | Science News | Play Pathogenic!",
+      "game": "Just Chatting",
+      "started_at": "2026-11-01T16:08:45Z"
     }
   ]
 }
