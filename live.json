@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-01T16:42:26.825Z",
+  "timestamp": "2026-11-01T16:48:09.312Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "Birthday stream! | Science News | Play Pathogenic!",
       "game": "Just Chatting",
       "started_at": "2026-11-01T16:08:45Z"
+    },
+    {
+      "username": "nogre0",
+      "title": "philosophy & finesse",
+      "game": "Just Chatting",
+      "started_at": "2026-11-01T16:43:25Z"
     }
   ]
 }
