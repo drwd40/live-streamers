@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-01T14:21:48.996Z",
+  "timestamp": "2026-11-01T14:27:21.017Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,12 @@
       "title": "leftist political theory, history, philosophy, news, essays, all sorts",
       "game": "Just Chatting",
       "started_at": "2026-11-01T10:01:33Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "Piracy training on a Sunday Morning... send me the Bru!",
+      "game": "Pirates of the Burning Sea",
+      "started_at": "2026-11-01T14:25:32Z"
     }
   ]
 }
