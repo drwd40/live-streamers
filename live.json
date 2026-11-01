@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-01T16:06:42.336Z",
+  "timestamp": "2026-11-01T16:13:52.023Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "Piracy training on a Sunday Morning... send me the Bru!",
       "game": "Pirates of the Burning Sea",
       "started_at": "2026-11-01T14:25:32Z"
+    },
+    {
+      "username": "sciencestreams",
+      "title": "Birthday stream! | Science News | Play Pathogenic!",
+      "game": "Just Chatting",
+      "started_at": "2026-11-01T16:08:45Z"
     }
   ]
 }
