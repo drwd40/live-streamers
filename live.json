@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-02T19:26:34.686Z",
+  "timestamp": "2026-11-02T19:32:57.840Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,12 @@
       "title": "leftist political theory, history, philosophy, news, essays, all sorts",
       "game": "Just Chatting",
       "started_at": "2026-11-02T10:02:25Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Working on Quiz Show Software: *Sixteen*",
+      "game": "Software and Game Development",
+      "started_at": "2026-11-02T19:29:48Z"
     }
   ]
 }
