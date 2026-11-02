@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-02T21:20:24.496Z",
+  "timestamp": "2026-11-02T21:26:08.325Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "Working on Quiz Show Software: *Sixteen*",
       "game": "Software and Game Development",
       "started_at": "2026-11-02T19:29:48Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 1018: Design Review of Data Models continued",
+      "game": "Science & Technology",
+      "started_at": "2026-11-02T21:20:54Z"
     }
   ]
 }
