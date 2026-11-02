@@ -1,23 +1,11 @@
 {
-  "timestamp": "2026-11-01T23:59:32.266Z",
+  "timestamp": "2026-11-02T00:34:48.603Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-10-31T14:00:56Z"
-    },
-    {
-      "username": "JapanesePrintmaking",
-      "title": "Making Japanese woodblock prints ... live while you watch ...",
-      "game": "Makers & Crafting",
-      "started_at": "2026-11-01T23:36:20Z"
-    },
-    {
-      "username": "ArchitectureTV",
-      "title": "Cambridge, limestone town, historic buildings",
-      "game": "IRL",
-      "started_at": "2026-11-01T20:06:06Z"
     },
     {
       "username": "Zachap",
@@ -36,12 +24,6 @@
       "title": "References & Lazy Sunday Microscopy | 🌋 Science Sunday | !phd !socials !pubs !merch",
       "game": "Science & Technology",
       "started_at": "2026-11-01T23:49:25Z"
-    },
-    {
-      "username": "DrAlexanderClarke",
-      "title": "Bruships 266: Naval History Questions Answered Live",
-      "game": "Just Chatting",
-      "started_at": "2026-11-01T19:32:03Z"
     }
   ]
 }
