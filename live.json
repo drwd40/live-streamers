@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-02T20:01:32.123Z",
+  "timestamp": "2026-11-02T20:11:50.511Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-11-02T10:02:25Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Working on Quiz Show Software: *Sixteen*",
-      "game": "Software and Game Development",
-      "started_at": "2026-11-02T19:29:48Z"
-    },
-    {
       "username": "Stephen_Wolfram",
       "title": "Live CEOing Ep 1018: Design Review of Visualization continued",
       "game": "Science & Technology",
       "started_at": "2026-11-02T19:46:01Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Working on Quiz Show Software: *Sixteen*",
+      "game": "Software and Game Development",
+      "started_at": "2026-11-02T19:29:48Z"
     }
   ]
 }
