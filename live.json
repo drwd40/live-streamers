@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-02T16:01:38.826Z",
+  "timestamp": "2026-11-02T16:14:48.403Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "leftist political theory, history, philosophy, news, essays, all sorts",
       "game": "Just Chatting",
       "started_at": "2026-11-02T10:02:25Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "AI game dev (still on the ARPG 👀) (day 134)",
+      "game": "Software and Game Development",
+      "started_at": "2026-11-02T16:06:13Z"
     }
   ]
 }
