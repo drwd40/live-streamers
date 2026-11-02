@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-02T18:15:51.906Z",
+  "timestamp": "2026-11-02T18:24:20.769Z",
   "live": [
     {
       "username": "Maya",
@@ -14,6 +14,12 @@
       "started_at": "2026-11-02T14:00:58Z"
     },
     {
+      "username": "EJ_SA",
+      "title": "Finishing a custom 4 door outer rocker panel for my car! The Crew Cab Coronet (Part 59)",
+      "game": "Just Chatting",
+      "started_at": "2026-11-02T18:15:20Z"
+    },
+    {
       "username": "AdamLearnsLive",
       "title": "AI game dev (still on the ARPG 👀) (day 134)",
       "game": "Software and Game Development",
@@ -24,12 +30,6 @@
       "title": "leftist political theory, history, philosophy, news, essays, all sorts",
       "game": "Just Chatting",
       "started_at": "2026-11-02T10:02:25Z"
-    },
-    {
-      "username": "EJ_SA",
-      "title": "Finishing a custom 4 door outer rocker panel for my car! The Crew Cab Coronet (Part 59)",
-      "game": "Just Chatting",
-      "started_at": "2026-11-02T18:15:20Z"
     }
   ]
 }
