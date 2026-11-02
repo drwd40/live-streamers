@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-02T21:43:41.317Z",
+  "timestamp": "2026-11-02T21:49:27.884Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,6 +14,12 @@
       "started_at": "2026-11-02T18:15:20Z"
     },
     {
+      "username": "AdamLearnsLive",
+      "title": "AI game dev (still on the ARPG 👀) (day 134½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-11-02T20:24:52Z"
+    },
+    {
       "username": "Zachap",
       "title": "leftist political theory, history, philosophy, news, essays, all sorts",
       "game": "Just Chatting",
@@ -24,12 +30,6 @@
       "title": "Live CEOing Ep 1018: Design Review of Data Models continued",
       "game": "Science & Technology",
       "started_at": "2026-11-02T21:20:54Z"
-    },
-    {
-      "username": "AdamLearnsLive",
-      "title": "AI game dev (still on the ARPG 👀) (day 134½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-11-02T20:24:52Z"
     }
   ]
 }
