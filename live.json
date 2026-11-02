@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-02T22:23:46.562Z",
+  "timestamp": "2026-11-02T22:29:21.979Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,22 +14,22 @@
       "started_at": "2026-11-02T18:15:20Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "AI game dev (still on the ARPG 👀) (day 134½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-11-02T20:24:52Z"
-    },
-    {
       "username": "Zachap",
       "title": "leftist political theory, history, philosophy, news, essays, all sorts",
       "game": "Just Chatting",
       "started_at": "2026-11-02T10:02:25Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 1018: Design Review of Data Models continued",
-      "game": "Science & Technology",
-      "started_at": "2026-11-02T21:20:54Z"
+      "username": "AdamLearnsLive",
+      "title": "AI game dev (still on the ARPG 👀) (day 134½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-11-02T20:24:52Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Extra Math stream, because of some do-release-upgrade shenanigans!",
+      "game": "Math",
+      "started_at": "2026-11-02T22:25:51Z"
     }
   ]
 }
