@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-02T16:40:34.004Z",
+  "timestamp": "2026-11-02T16:46:06.180Z",
   "live": [
     {
       "username": "Maya",
@@ -14,16 +14,16 @@
       "started_at": "2026-11-02T14:00:58Z"
     },
     {
-      "username": "Zachap",
-      "title": "leftist political theory, history, philosophy, news, essays, all sorts",
-      "game": "Just Chatting",
-      "started_at": "2026-11-02T10:02:25Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "AI game dev (still on the ARPG 👀) (day 134)",
       "game": "Software and Game Development",
       "started_at": "2026-11-02T16:06:13Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "leftist political theory, history, philosophy, news, essays, all sorts",
+      "game": "Just Chatting",
+      "started_at": "2026-11-02T10:02:25Z"
     }
   ]
 }
