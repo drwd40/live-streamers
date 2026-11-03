@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-03T19:26:55.775Z",
+  "timestamp": "2026-11-03T19:33:20.349Z",
   "live": [
     {
       "username": "Maya",
@@ -30,6 +30,12 @@
       "title": "Troubleshootin' And Electronics Hustlin'",
       "game": "Science & Technology",
       "started_at": "2026-11-03T19:00:33Z"
+    },
+    {
+      "username": "vul100",
+      "title": "Tuesday November 3rd!!!  Jack Binns and the wars in Asia: preludes to today.",
+      "game": "Science & Technology",
+      "started_at": "2026-11-03T19:29:55Z"
     }
   ]
 }
