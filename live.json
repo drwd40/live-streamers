@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-03T23:47:14.793Z",
+  "timestamp": "2026-11-03T23:52:55.162Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,16 +38,16 @@
       "started_at": "2026-11-03T19:00:33Z"
     },
     {
-      "username": "GeneralSte",
-      "title": "Let's Get our Nagash On?! | !linktree !discord",
-      "game": "Total War: WARHAMMER III",
-      "started_at": "2026-11-03T20:50:10Z"
-    },
-    {
       "username": "nSimplexPachinko",
       "title": "No math tonight: some Elite for the Halloween mission, then haulage? Night 0070, Elite: Dangerous - 20261103",
       "game": "Elite: Dangerous",
       "started_at": "2026-11-03T21:50:44Z"
+    },
+    {
+      "username": "GeneralSte",
+      "title": "Let's Get our Nagash On?! | !linktree !discord",
+      "game": "Total War: WARHAMMER III",
+      "started_at": "2026-11-03T20:50:10Z"
     }
   ]
 }
