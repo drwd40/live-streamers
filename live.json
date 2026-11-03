@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-03T23:03:41.968Z",
+  "timestamp": "2026-11-03T23:11:28.857Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,6 +26,12 @@
       "started_at": "2026-11-03T21:47:07Z"
     },
     {
+      "username": "shnaff",
+      "title": "NEW GUITAR! Chill guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-11-03T23:01:34Z"
+    },
+    {
       "username": "GeneralSte",
       "title": "Let's Get our Nagash On?! | !linktree !discord",
       "game": "Total War: WARHAMMER III",
@@ -36,12 +42,6 @@
       "title": "No math tonight: some Elite for the Halloween mission, then haulage? Night 0070, Elite: Dangerous - 20261103",
       "game": "Elite: Dangerous",
       "started_at": "2026-11-03T21:50:44Z"
-    },
-    {
-      "username": "shnaff",
-      "title": "NEW GUITAR! Chill guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-11-03T23:01:34Z"
     }
   ]
 }
