@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-03T23:17:04.775Z",
+  "timestamp": "2026-11-03T23:22:50.132Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,10 +8,22 @@
       "started_at": "2026-11-02T14:00:58Z"
     },
     {
+      "username": "EJ_SA",
+      "title": "EJ's Space and Rocket Revue! 11/3/26",
+      "game": "Science & Technology",
+      "started_at": "2026-11-03T23:16:49Z"
+    },
+    {
       "username": "Zachap",
       "title": "hasanabi isn't leftist/radical enough with rhetoric, here we do leftist political theory, history, philosophy, news, essays, all sorts :)",
       "game": "Politics",
       "started_at": "2026-11-03T10:00:04Z"
+    },
+    {
+      "username": "GeoJim2006",
+      "title": "Election Day in the USA - Short Geologizing Stream 🏔️🪨🔬 !discord !nova !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-11-03T21:47:07Z"
     },
     {
       "username": "SydHeresy",
@@ -26,12 +38,6 @@
       "started_at": "2026-11-03T23:01:34Z"
     },
     {
-      "username": "GeoJim2006",
-      "title": "Election Day in the USA - Short Geologizing Stream 🏔️🪨🔬 !discord !nova !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-11-03T21:47:07Z"
-    },
-    {
       "username": "GeneralSte",
       "title": "Let's Get our Nagash On?! | !linktree !discord",
       "game": "Total War: WARHAMMER III",
@@ -42,12 +48,6 @@
       "title": "No math tonight: some Elite for the Halloween mission, then haulage? Night 0070, Elite: Dangerous - 20261103",
       "game": "Elite: Dangerous",
       "started_at": "2026-11-03T21:50:44Z"
-    },
-    {
-      "username": "EJ_SA",
-      "title": "EJ's Space and Rocket Revue! 11/3/26",
-      "game": "Science & Technology",
-      "started_at": "2026-11-03T23:16:49Z"
     }
   ]
 }
