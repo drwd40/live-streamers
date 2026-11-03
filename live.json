@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-11-03T18:07:36.392Z",
+  "timestamp": "2026-11-03T18:17:14.291Z",
   "live": [
-    {
-      "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
-      "game": "Animals, Aquariums, and Zoos",
-      "started_at": "2026-11-02T14:00:58Z"
-    },
     {
       "username": "Maya",
       "title": "@POKIMANE MEETING ANIMALS @ALVEUSSANCTUARY 🦜",
       "game": "Just Chatting",
       "started_at": "2026-11-03T18:06:06Z"
+    },
+    {
+      "username": "AlveusSanctuary",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
+      "game": "Animals, Aquariums, and Zoos",
+      "started_at": "2026-11-02T14:00:58Z"
     },
     {
       "username": "AdamLearnsLive",
@@ -24,6 +24,12 @@
       "title": "leftist political theory, history, philosophy, news, essays, all sorts (Also, will you be playing Forever when it drops?)",
       "game": "Just Chatting",
       "started_at": "2026-11-03T10:00:04Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "Finishing up my custom made outer rocker! The Crew Cab Coronet! (Part 60)",
+      "game": "Just Chatting",
+      "started_at": "2026-11-03T18:15:09Z"
     }
   ]
 }
