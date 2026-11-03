@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-03T14:42:46.698Z",
+  "timestamp": "2026-11-03T14:48:34.606Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-11-02T14:00:58Z"
     },
     {
-      "username": "Zachap",
-      "title": "leftist political theory, history, philosophy, news, essays, all sorts (Also, will you be playing Forever when it drops?)",
-      "game": "Just Chatting",
-      "started_at": "2026-11-03T10:00:04Z"
-    },
-    {
       "username": "csharpfritz",
       "title": ".NET on Mac with Live Tiles!",
       "game": "Software and Game Development",
       "started_at": "2026-11-03T14:07:10Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "leftist political theory, history, philosophy, news, essays, all sorts (Also, will you be playing Forever when it drops?)",
+      "game": "Just Chatting",
+      "started_at": "2026-11-03T10:00:04Z"
     }
   ]
 }
