@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-03T13:59:10.513Z",
+  "timestamp": "2026-11-03T14:12:13.278Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "leftist political theory, history, philosophy, news, essays, all sorts (Also, will you be playing Forever when it drops?)",
       "game": "Just Chatting",
       "started_at": "2026-11-03T10:00:04Z"
+    },
+    {
+      "username": "csharpfritz",
+      "title": ".NET on Mac with Live Tiles!",
+      "game": "Software and Game Development",
+      "started_at": "2026-11-03T14:07:10Z"
     }
   ]
 }
