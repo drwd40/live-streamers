@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-04T02:43:28.552Z",
+  "timestamp": "2026-11-04T02:49:03.338Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-11-04T02:03:11Z"
     },
     {
-      "username": "shnaff",
-      "title": "NEW GUITAR! Chill guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-11-03T23:01:34Z"
-    },
-    {
       "username": "Nerduino",
       "title": "We're back.  Space, science and election results!  PhD Astronomer.",
       "game": "Science & Technology",
       "started_at": "2026-11-04T01:50:35Z"
+    },
+    {
+      "username": "shnaff",
+      "title": "NEW GUITAR! Chill guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-11-03T23:01:34Z"
     },
     {
       "username": "Zachap",
