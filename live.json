@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-04T01:45:25.849Z",
+  "timestamp": "2026-11-04T01:51:04.953Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "Troubleshootin' And Electronics Hustlin'",
       "game": "Science & Technology",
       "started_at": "2026-11-03T19:00:33Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "We're back.  Space, science and election results!  PhD Astronomer.",
+      "game": "Science & Technology",
+      "started_at": "2026-11-04T01:50:35Z"
     }
   ]
 }
