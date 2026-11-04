@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-04T03:51:29.065Z",
+  "timestamp": "2026-11-04T03:57:12.796Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-11-04T01:50:35Z"
     },
     {
-      "username": "SharkG33k",
-      "title": "Yarr | !GWS | !Beach",
-      "game": "Assassin's Creed Black Flag Resynced",
-      "started_at": "2026-11-04T01:09:12Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Troubleshootin' And Electronics Hustlin'",
       "game": "Science & Technology",
       "started_at": "2026-11-03T19:00:33Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Yarr | !GWS | !Beach",
+      "game": "Assassin's Creed Black Flag Resynced",
+      "started_at": "2026-11-04T01:09:12Z"
     },
     {
       "username": "ActualEducation",
