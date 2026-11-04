@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-04T19:21:37.368Z",
+  "timestamp": "2026-11-04T19:27:14.259Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "Wolfram Technology Conference 2026: Stephen Wolfram's Keynote Address",
       "game": "Science & Technology",
       "started_at": "2026-11-04T18:11:31Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "Determinant practice & maybe some lesson planning [!fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-11-04T19:23:44Z"
     }
   ]
 }
