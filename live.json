@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-04T23:44:36.373Z",
+  "timestamp": "2026-11-04T23:50:07.749Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,16 @@
       "started_at": "2026-11-04T10:04:51Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Nerd plays nerd game [Day 1]",
-      "game": "The Message From Deep Space",
-      "started_at": "2026-11-04T21:12:23Z"
-    },
-    {
       "username": "nSimplexPachinko",
       "title": "Some Precalc for VoDs: Logarithmic Algebra & Why It Works, then some Partial Differential Equations?",
       "game": "Math",
       "started_at": "2026-11-04T22:50:55Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Nerd plays nerd game [Day 1]",
+      "game": "The Message From Deep Space",
+      "started_at": "2026-11-04T21:12:23Z"
     }
   ]
 }
