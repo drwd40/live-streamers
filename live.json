@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-11-04T02:07:54.731Z",
+  "timestamp": "2026-11-04T02:18:58.374Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Chandler Power Hour | !alveus !institute !pixel !schedule !video",
-      "game": "Just Chatting",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
+      "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-11-02T14:00:58Z"
     },
     {
@@ -26,10 +26,10 @@
       "started_at": "2026-11-03T10:00:04Z"
     },
     {
-      "username": "Nerduino",
-      "title": "We're back.  Space, science and election results!  PhD Astronomer.",
+      "username": "SciAnts_Streams",
+      "title": "Planet ZoosDay | Conservation, rat neuroscience, trees and more! | Partner+ 30/300 | !ppp !yt !pod !tc26",
       "game": "Science & Technology",
-      "started_at": "2026-11-04T01:50:35Z"
+      "started_at": "2026-11-04T02:03:11Z"
     },
     {
       "username": "SharkG33k",
@@ -38,16 +38,16 @@
       "started_at": "2026-11-04T01:09:12Z"
     },
     {
+      "username": "Nerduino",
+      "title": "We're back.  Space, science and election results!  PhD Astronomer.",
+      "game": "Science & Technology",
+      "started_at": "2026-11-04T01:50:35Z"
+    },
+    {
       "username": "SydHeresy",
       "title": "Troubleshootin' And Electronics Hustlin'",
       "game": "Science & Technology",
       "started_at": "2026-11-03T19:00:33Z"
-    },
-    {
-      "username": "SciAnts_Streams",
-      "title": "Planet ZoosDay | Conservation, rat neuroscience, trees and more! | Partner+ 30/300 | !ppp !yt !pod !tc26",
-      "game": "Science & Technology",
-      "started_at": "2026-11-04T02:03:11Z"
     },
     {
       "username": "ActualEducation",
