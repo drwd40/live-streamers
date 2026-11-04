@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-04T20:43:11.951Z",
+  "timestamp": "2026-11-04T20:49:07.809Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-11-04T10:04:51Z"
     },
     {
-      "username": "pencenter",
-      "title": "Determinant practice & maybe some lesson planning [!fish🎣|!commands💻]",
-      "game": "Math",
-      "started_at": "2026-11-04T19:23:44Z"
-    },
-    {
       "username": "Stephen_Wolfram",
       "title": "History of Science and Technology Q&A [Wolfram Tech Edition] (November 4, 2026)",
       "game": "Science & Technology",
       "started_at": "2026-11-04T20:34:54Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "Determinant practice & maybe some lesson planning [!fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-11-04T19:23:44Z"
     }
   ]
 }
