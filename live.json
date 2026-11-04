@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-04T21:10:15.920Z",
+  "timestamp": "2026-11-04T21:15:53.457Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "Determinant practice & maybe some lesson planning [!fish🎣|!commands💻]",
       "game": "Math",
       "started_at": "2026-11-04T19:23:44Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Nerd plays nerd game [Day 1]",
+      "game": "The Message From Deep Space",
+      "started_at": "2026-11-04T21:12:23Z"
     }
   ]
 }
