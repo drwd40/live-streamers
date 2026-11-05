@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-05T02:14:17.237Z",
+  "timestamp": "2026-11-05T02:24:09.860Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -48,12 +48,6 @@
       "title": "Nerd plays nerd game [Day 1]",
       "game": "The Message From Deep Space",
       "started_at": "2026-11-04T21:12:23Z"
-    },
-    {
-      "username": "sciencestreams",
-      "title": "Biology Review Session!",
-      "game": "Just Chatting",
-      "started_at": "2026-11-05T01:25:57Z"
     }
   ]
 }
