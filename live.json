@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-05T01:14:05.193Z",
+  "timestamp": "2026-11-05T01:20:20.138Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,16 @@
       "started_at": "2026-11-05T00:55:34Z"
     },
     {
-      "username": "nogre0",
-      "title": "philosophy",
-      "game": "Just Chatting",
-      "started_at": "2026-11-05T01:00:03Z"
-    },
-    {
       "username": "DonFactorial",
       "title": "Nerd plays nerd game [Day 1]",
       "game": "The Message From Deep Space",
       "started_at": "2026-11-04T21:12:23Z"
+    },
+    {
+      "username": "nogre0",
+      "title": "philosophy",
+      "game": "Just Chatting",
+      "started_at": "2026-11-05T01:00:03Z"
     },
     {
       "username": "nSimplexPachinko",
