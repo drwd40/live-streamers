@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-05T01:33:08.428Z",
+  "timestamp": "2026-11-05T01:41:04.026Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,22 +32,16 @@
       "started_at": "2026-11-05T01:00:03Z"
     },
     {
-      "username": "Ask_a_Scientist_Gaming",
-      "title": "Dr. Matt Brooks, Rural Demography, and Pokémon Stadium.",
-      "game": "Science & Technology",
-      "started_at": "2026-11-05T00:55:34Z"
-    },
-    {
       "username": "SharkG33k",
       "title": "🦈 Viral Shark Content Round-Up! 🦈| !GWS | !Beach",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-11-05T01:03:50Z"
     },
     {
-      "username": "sciencestreams",
-      "title": "Biology Review Session!",
-      "game": "Just Chatting",
-      "started_at": "2026-11-05T01:25:57Z"
+      "username": "Ask_a_Scientist_Gaming",
+      "title": "Dr. Matt Brooks, Rural Demography, and Pokémon Stadium.",
+      "game": "Science & Technology",
+      "started_at": "2026-11-05T00:55:34Z"
     },
     {
       "username": "DonFactorial",
@@ -56,10 +50,10 @@
       "started_at": "2026-11-04T21:12:23Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "Some Precalc for VoDs: Logarithmic Algebra & Why It Works, then some Partial Differential Equations?",
-      "game": "Math",
-      "started_at": "2026-11-04T22:50:55Z"
+      "username": "sciencestreams",
+      "title": "Biology Review Session!",
+      "game": "Just Chatting",
+      "started_at": "2026-11-05T01:25:57Z"
     }
   ]
 }
