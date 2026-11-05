@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-11-05T18:40:35.049Z",
+  "timestamp": "2026-11-05T18:46:15.836Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-11-04T14:01:00Z"
-    },
-    {
-      "username": "SciAnts_Streams",
-      "title": "Legend of Zelda Ocarina of Time | In game science! Aging, music, plants, and more! | Partner+ 46/300 | !ppp !yt !pod !tc26",
-      "game": "The Legend of Zelda: Ocarina of Time",
-      "started_at": "2026-11-05T17:32:57Z"
     },
     {
       "username": "Nerduino",
@@ -30,6 +24,12 @@
       "title": "I'm back! Let's work on random stuff as I get used to streaming again.",
       "game": "Science & Technology",
       "started_at": "2026-11-05T17:26:52Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "Legend of Zelda Ocarina of Time | In game science! Aging, music, plants, and more! | Partner+ 46/300 | !ppp !yt !pod !tc26",
+      "game": "The Legend of Zelda: Ocarina of Time",
+      "started_at": "2026-11-05T17:32:57Z"
     },
     {
       "username": "IrishJohnGames",
