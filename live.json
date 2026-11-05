@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-05T23:15:50.749Z",
+  "timestamp": "2026-11-05T23:27:16.321Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-11-04T14:01:00Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "SEA TURTLE MEETING RECAP 🌊🐢📈🤝🏽 Let's talk about WCSTS, leatherback turtle conservation, and why scientific conferences are important",
-      "game": "Science & Technology",
-      "started_at": "2026-11-05T21:09:50Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "DEMS FLIP MORE HOUSE SEATS | STILL WAITING ON MISSISSIPPI AND ALASKA",
       "game": "Just Chatting",
       "started_at": "2026-11-05T22:50:03Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "SEA TURTLE MEETING RECAP 🌊🐢📈🤝🏽 Let's talk about WCSTS, leatherback turtle conservation, and why scientific conferences are important",
+      "game": "Science & Technology",
+      "started_at": "2026-11-05T21:09:50Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -32,16 +32,16 @@
       "started_at": "2026-11-05T10:03:01Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Electronics And Solder Are Good For The Skin",
-      "game": "Science & Technology",
-      "started_at": "2026-11-05T18:10:10Z"
-    },
-    {
       "username": "shnaff",
       "title": "NEW GUITAR! Chill guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2026-11-05T23:01:50Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Electronics And Solder Are Good For The Skin",
+      "game": "Science & Technology",
+      "started_at": "2026-11-05T18:10:10Z"
     }
   ]
 }
