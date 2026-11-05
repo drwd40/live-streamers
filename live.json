@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-05T02:29:45.386Z",
+  "timestamp": "2026-11-05T02:36:27.894Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -48,6 +48,12 @@
       "title": "Nerd plays nerd game [Day 1]",
       "game": "The Message From Deep Space",
       "started_at": "2026-11-04T21:12:23Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "MRNA gene therapy for brain cells. Executive Order #13848, and assistive devices for essential tremor.",
+      "game": "Science & Technology",
+      "started_at": "2026-11-05T02:30:07Z"
     }
   ]
 }
