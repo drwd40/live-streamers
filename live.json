@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-05T22:29:12.018Z",
+  "timestamp": "2026-11-05T22:35:51.068Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "Electronics And Solder Are Good For The Skin",
       "game": "Science & Technology",
       "started_at": "2026-11-05T18:10:10Z"
+    },
+    {
+      "username": "SETIInstitute",
+      "title": "Prospecting the Solar System Without Landing | #SETILive",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2026-11-05T22:29:59Z"
     }
   ]
 }
