@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-05T19:58:34.019Z",
+  "timestamp": "2026-11-05T20:10:52.947Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-11-05T17:32:57Z"
     },
     {
-      "username": "oh_bother",
-      "title": "I'm back! Let's work on random stuff as I get used to streaming again.",
-      "game": "Science & Technology",
-      "started_at": "2026-11-05T17:26:52Z"
-    },
-    {
       "username": "Nerduino",
       "title": "Birthday Minecraft!  Former NASA guy and PhD astronomer.",
       "game": "Minecraft",
       "started_at": "2026-11-05T17:50:41Z"
+    },
+    {
+      "username": "oh_bother",
+      "title": "I'm back! Let's work on random stuff as I get used to streaming again.",
+      "game": "Science & Technology",
+      "started_at": "2026-11-05T17:26:52Z"
     },
     {
       "username": "Zachap",
