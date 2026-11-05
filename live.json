@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-05T00:53:49.366Z",
+  "timestamp": "2026-11-05T00:59:31.088Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "Some Precalc for VoDs: Logarithmic Algebra & Why It Works, then some Partial Differential Equations?",
       "game": "Math",
       "started_at": "2026-11-04T22:50:55Z"
+    },
+    {
+      "username": "Ask_a_Scientist_Gaming",
+      "title": "Dr. Matt Brooks, Rural Demography, and Pokémon Stadium.",
+      "game": "Science & Technology",
+      "started_at": "2026-11-05T00:55:34Z"
     }
   ]
 }
