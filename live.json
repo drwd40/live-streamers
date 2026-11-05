@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-05T17:46:15.290Z",
+  "timestamp": "2026-11-05T17:51:52.014Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "I'm back! Let's work on random stuff as I get used to streaming again.",
       "game": "Science & Technology",
       "started_at": "2026-11-05T17:26:52Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Birthday Minecraft!  Former NASA guy and PhD astronomer.",
+      "game": "Minecraft",
+      "started_at": "2026-11-05T17:50:41Z"
     }
   ]
 }
