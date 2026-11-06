@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-06T22:41:03.499Z",
+  "timestamp": "2026-11-06T22:46:56.705Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-11-06T21:19:55Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "The Powell Memo, the new target; Math for Social Justice - 20261106",
-      "game": "Math",
-      "started_at": "2026-11-06T22:25:06Z"
-    },
-    {
       "username": "jacksfacts",
       "title": "BLUE WAVE BLUE TIGERS! Time to learn about tigers today!",
       "game": "Science & Technology",
       "started_at": "2026-11-06T22:25:09Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "The Powell Memo, the new target; Math for Social Justice - 20261106",
+      "game": "Math",
+      "started_at": "2026-11-06T22:25:06Z"
     }
   ]
 }
