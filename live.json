@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-06T02:35:10.528Z",
+  "timestamp": "2026-11-06T02:40:47.253Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -44,16 +44,16 @@
       "started_at": "2026-11-05T23:49:55Z"
     },
     {
-      "username": "Mr_Aejis",
-      "title": "Kingdom Hearts - 1st-time playthrough!",
-      "game": "Kingdom Hearts",
-      "started_at": "2026-11-06T01:29:06Z"
-    },
-    {
       "username": "nSimplexPachinko",
       "title": "Creating Visions for the 2026 Party; TitansGrave 020, TTRPG Planning - 20261105",
       "game": "Tabletop RPGs",
       "started_at": "2026-11-05T23:52:15Z"
+    },
+    {
+      "username": "Mr_Aejis",
+      "title": "Kingdom Hearts - 1st-time playthrough!",
+      "game": "Kingdom Hearts",
+      "started_at": "2026-11-06T01:29:06Z"
     },
     {
       "username": "walkingsticklibrary",
