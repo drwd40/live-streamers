@@ -1,11 +1,17 @@
 {
-  "timestamp": "2026-11-06T08:25:15.253Z",
+  "timestamp": "2026-11-06T08:30:57.571Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-11-04T14:01:00Z"
+    },
+    {
+      "username": "DrawCuriosity",
+      "title": "👗Dressmaker... if my Internet allows it! ✨🐏!tier2 !tier3",
+      "game": "Dressmaker (2026)",
+      "started_at": "2026-11-06T08:25:20Z"
     }
   ]
 }
