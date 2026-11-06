@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-06T02:28:13.942Z",
+  "timestamp": "2026-11-06T02:35:10.528Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -54,6 +54,12 @@
       "title": "Creating Visions for the 2026 Party; TitansGrave 020, TTRPG Planning - 20261105",
       "game": "Tabletop RPGs",
       "started_at": "2026-11-05T23:52:15Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Soldierturnedfarmer's beetle invasion. Tourism at Mount Everest, and assistive devices for essential tremor.",
+      "game": "Science & Technology",
+      "started_at": "2026-11-06T02:30:50Z"
     }
   ]
 }
