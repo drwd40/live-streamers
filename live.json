@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-07T02:30:04.095Z",
+  "timestamp": "2026-11-07T02:36:39.159Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-11-07T00:24:25Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "SciAnts News | New species, imaging, fruit flies, fire ants and more! | Partner+ 56/300 | !ppp !yt !pod !tc26",
-      "game": "Science & Technology",
-      "started_at": "2026-11-07T02:02:32Z"
-    },
-    {
       "username": "Moohoodles",
       "title": "🪐 OoT Remaster! ✨ Emotional Moo - one of my all time fav games",
       "game": "The Legend of Zelda: Ocarina of Time",
       "started_at": "2026-11-07T02:20:09Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "SciAnts News | New species, imaging, fruit flies, fire ants and more! | Partner+ 56/300 | !ppp !yt !pod !tc26",
+      "game": "Science & Technology",
+      "started_at": "2026-11-07T02:02:32Z"
     },
     {
       "username": "DrawCuriosity",
