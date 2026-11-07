@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-07T21:39:58.206Z",
+  "timestamp": "2026-11-07T21:45:30.136Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "Answering your math questions and probability studying",
       "game": "Math",
       "started_at": "2026-11-07T19:45:45Z"
+    },
+    {
+      "username": "AstroCanuck",
+      "title": "Astro's Po'Pourri: NASA Moon Base Update Live then LEGO - PP 2/3 Completed - !continental - !subtember extension T3 Minifig | !drop !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-11-07T21:43:19Z"
     }
   ]
 }
