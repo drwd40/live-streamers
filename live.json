@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-07T01:03:03.360Z",
+  "timestamp": "2026-11-07T01:13:05.641Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -42,6 +42,12 @@
       "title": "The Powell Memo, the new target; Math for Social Justice - 20261106",
       "game": "Math",
       "started_at": "2026-11-06T22:25:06Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Missing all my shots on Namalsk",
+      "game": "DayZ",
+      "started_at": "2026-11-07T01:10:33Z"
     }
   ]
 }
