@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-08T03:03:46.844Z",
+  "timestamp": "2026-11-08T03:15:49.323Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "VTuber Health Class: What are Prediction Markets? Why are they in the news?",
       "game": "Just Chatting",
       "started_at": "2026-11-08T01:12:30Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Why do Harmonia Axyridis aggregate? Tourism at Mount Everest in the news, and assistive devices for essential tremor.",
+      "game": "Science & Technology",
+      "started_at": "2026-11-08T03:04:17Z"
     }
   ]
 }
