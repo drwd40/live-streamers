@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-08T17:18:58.331Z",
+  "timestamp": "2026-11-08T17:24:49.643Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,16 +38,16 @@
       "started_at": "2026-11-08T15:17:19Z"
     },
     {
-      "username": "sciencestreams",
-      "title": "DNA bases in an asteroid | Evolution's 1 Way Street | AI Laboratories | - Microscopy!",
-      "game": "Just Chatting",
-      "started_at": "2026-11-08T15:47:24Z"
-    },
-    {
       "username": "nogre0",
       "title": "philosophy",
       "game": "Just Chatting",
       "started_at": "2026-11-08T16:40:55Z"
+    },
+    {
+      "username": "sciencestreams",
+      "title": "DNA bases in an asteroid | Evolution's 1 Way Street | AI Laboratories | - Microscopy!",
+      "game": "Just Chatting",
+      "started_at": "2026-11-08T15:47:24Z"
     }
   ]
 }
