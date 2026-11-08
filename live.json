@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-08T15:45:12.283Z",
+  "timestamp": "2026-11-08T15:50:54.099Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,6 +14,12 @@
       "started_at": "2026-11-08T13:20:37Z"
     },
     {
+      "username": "EJ_SA",
+      "title": "NASA MAX POWER!! (DAY 2)",
+      "game": "Science & Technology",
+      "started_at": "2026-11-08T15:43:50Z"
+    },
+    {
       "username": "AstroCanuck",
       "title": "Lazy Sunday LEGO: Hallowe'en continues because slow builder - !giveaway - PP 2/3 Completed - !subtember extension T3 Minifig | !drop !tkf",
       "game": "Lego & Brickbuilding",
@@ -26,12 +32,6 @@
       "started_at": "2026-11-08T10:04:29Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "NASA MAX POWER!! (DAY 2)",
-      "game": "Science & Technology",
-      "started_at": "2026-11-08T15:43:50Z"
-    },
-    {
       "username": "Andilippi",
       "title": "The most interactive WoW stream on Twitch! You level me up. WoW Forever day 3 | !char to join, !wow | !sando £1/£1,000",
       "game": "World of Warcraft",
@@ -42,6 +42,12 @@
       "title": "Attempting Pokopia Dailies | Cozy Little Stream for Decompressing",
       "game": "Pokémon Pokopia",
       "started_at": "2026-11-08T15:17:19Z"
+    },
+    {
+      "username": "sciencestreams",
+      "title": "DNA bases in an asteroid | Evolution's 1 Way Street | AI Laboratories | - Microscopy!",
+      "game": "Just Chatting",
+      "started_at": "2026-11-08T15:47:24Z"
     }
   ]
 }
