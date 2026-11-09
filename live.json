@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-09T20:47:59.877Z",
+  "timestamp": "2026-11-09T20:53:32.543Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-11-08T14:01:05Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "Driving back from NASA MAX POWER! 11/9/26 (part 3)",
-      "game": "IRL",
-      "started_at": "2026-11-09T19:12:54Z"
-    },
-    {
       "username": "ipaintbirbs",
       "title": "i make birbs (out of paper)",
       "game": "Art",
       "started_at": "2026-11-09T20:06:48Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "Driving back from NASA MAX POWER! 11/9/26 (part 3)",
+      "game": "IRL",
+      "started_at": "2026-11-09T19:12:54Z"
     },
     {
       "username": "Zachap",
@@ -38,16 +38,16 @@
       "started_at": "2026-11-09T20:43:33Z"
     },
     {
-      "username": "Rocketology",
-      "title": "Star Citizen News!",
-      "game": "Star Citizen",
-      "started_at": "2026-11-09T19:07:21Z"
-    },
-    {
       "username": "Stephen_Wolfram",
       "title": "Live CEOing Ep 1019: Design Review of Chemistry",
       "game": "Science & Technology",
       "started_at": "2026-11-09T20:12:51Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "Star Citizen News!",
+      "game": "Star Citizen",
+      "started_at": "2026-11-09T19:07:21Z"
     }
   ]
 }
