@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-09T23:21:09.535Z",
+  "timestamp": "2026-11-09T23:26:49.796Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,34 +20,22 @@
       "started_at": "2026-11-09T22:50:08Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Balancing the ARPG, then maybe polishing it (day 137½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-11-09T20:43:33Z"
-    },
-    {
       "username": "Zachap",
       "title": "politics isn't over, political philosophy is a thing",
       "game": "Just Chatting",
       "started_at": "2026-11-09T10:01:49Z"
     },
     {
-      "username": "Andilippi",
-      "title": "WoW Forever! My stream is a WoW UI and chat levels me up, come and play | !char to join, !wow, !sando",
-      "game": "World of Warcraft",
-      "started_at": "2026-11-09T19:58:13Z"
-    },
-    {
-      "username": "eToThe2iPi",
-      "title": "Can Zach Release Source Code Before November 26? Let's Find Out!",
-      "game": "Software and Game Development",
-      "started_at": "2026-11-09T21:14:55Z"
-    },
-    {
       "username": "GeneralSte",
       "title": "Nagash is so OP... | !linktree !discord",
       "game": "Total War: WARHAMMER III",
       "started_at": "2026-11-09T22:06:49Z"
+    },
+    {
+      "username": "Andilippi",
+      "title": "WoW Forever! My stream is a WoW UI and chat levels me up, come and play | !char to join, !wow, !sando",
+      "game": "World of Warcraft",
+      "started_at": "2026-11-09T19:58:13Z"
     }
   ]
 }
