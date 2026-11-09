@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-09T01:46:56.775Z",
+  "timestamp": "2026-11-09T01:52:37.705Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,22 +14,28 @@
       "started_at": "2026-11-08T22:49:53Z"
     },
     {
-      "username": "Zachap",
-      "title": "ama",
-      "game": "Just Chatting",
-      "started_at": "2026-11-08T10:04:29Z"
-    },
-    {
       "username": "shnaff",
       "title": "NEW GUITAR! Chill guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2026-11-08T23:01:45Z"
     },
     {
+      "username": "Zachap",
+      "title": "ama",
+      "game": "Just Chatting",
+      "started_at": "2026-11-08T10:04:29Z"
+    },
+    {
       "username": "MelissaInDeNile",
       "title": "Back with more Forewarned with Friends to get the special Halloween mask! ~ Follower Goal: 2483/2600 ~ !socials !beyonddenile",
       "game": "FOREWARNED",
       "started_at": "2026-11-08T23:50:25Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "🚀Science and Astronomy chat. 🚀  Former NASA guy and PhD astronomer. 👨‍🚀🛰️🌕",
+      "game": "Minecraft",
+      "started_at": "2026-11-09T01:51:02Z"
     }
   ]
 }
