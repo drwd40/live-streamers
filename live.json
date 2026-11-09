@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-09T20:42:18.900Z",
+  "timestamp": "2026-11-09T20:47:59.877Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,22 @@
       "started_at": "2026-11-09T19:58:13Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 1019: Design Review of Chemistry",
-      "game": "Science & Technology",
-      "started_at": "2026-11-09T20:12:51Z"
+      "username": "AdamLearnsLive",
+      "title": "Balancing the ARPG, then maybe polishing it (day 137½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-11-09T20:43:33Z"
     },
     {
       "username": "Rocketology",
       "title": "Star Citizen News!",
       "game": "Star Citizen",
       "started_at": "2026-11-09T19:07:21Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 1019: Design Review of Chemistry",
+      "game": "Science & Technology",
+      "started_at": "2026-11-09T20:12:51Z"
     }
   ]
 }
