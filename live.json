@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-09T20:36:35.607Z",
+  "timestamp": "2026-11-09T20:42:18.900Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,16 @@
       "started_at": "2026-11-09T19:58:13Z"
     },
     {
-      "username": "Rocketology",
-      "title": "Star Citizen News!",
-      "game": "Star Citizen",
-      "started_at": "2026-11-09T19:07:21Z"
-    },
-    {
       "username": "Stephen_Wolfram",
       "title": "Live CEOing Ep 1019: Design Review of Chemistry",
       "game": "Science & Technology",
       "started_at": "2026-11-09T20:12:51Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "Star Citizen News!",
+      "game": "Star Citizen",
+      "started_at": "2026-11-09T19:07:21Z"
     }
   ]
 }
