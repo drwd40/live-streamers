@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-09T20:53:32.543Z",
+  "timestamp": "2026-11-09T20:59:04.978Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-11-08T14:01:05Z"
     },
     {
-      "username": "ipaintbirbs",
-      "title": "i make birbs (out of paper)",
-      "game": "Art",
-      "started_at": "2026-11-09T20:06:48Z"
-    },
-    {
       "username": "EJ_SA",
       "title": "Driving back from NASA MAX POWER! 11/9/26 (part 3)",
       "game": "IRL",
       "started_at": "2026-11-09T19:12:54Z"
+    },
+    {
+      "username": "ipaintbirbs",
+      "title": "i make birbs (out of paper)",
+      "game": "Art",
+      "started_at": "2026-11-09T20:06:48Z"
     },
     {
       "username": "Zachap",
@@ -26,22 +26,16 @@
       "started_at": "2026-11-09T10:01:49Z"
     },
     {
-      "username": "Andilippi",
-      "title": "FINAL LEVELS of WoW Classic Hardcore! Chat levels up the stream. With @alecksanda @alphabytemusic @timoted | !char to joi | !sando £1/£1,000",
-      "game": "World of Warcraft",
-      "started_at": "2026-11-09T19:58:13Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "Balancing the ARPG, then maybe polishing it (day 137½)",
       "game": "Software and Game Development",
       "started_at": "2026-11-09T20:43:33Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 1019: Design Review of Chemistry",
-      "game": "Science & Technology",
-      "started_at": "2026-11-09T20:12:51Z"
+      "username": "Andilippi",
+      "title": "FINAL LEVELS of WoW Classic Hardcore! Chat levels up the stream. With @alecksanda @alphabytemusic @timoted | !char to joi | !sando £1/£1,000",
+      "game": "World of Warcraft",
+      "started_at": "2026-11-09T19:58:13Z"
     },
     {
       "username": "Rocketology",
