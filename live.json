@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-09T23:26:49.796Z",
+  "timestamp": "2026-11-09T23:32:49.170Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-11-09T10:01:49Z"
     },
     {
-      "username": "GeneralSte",
-      "title": "Nagash is so OP... | !linktree !discord",
-      "game": "Total War: WARHAMMER III",
-      "started_at": "2026-11-09T22:06:49Z"
-    },
-    {
       "username": "Andilippi",
       "title": "WoW Forever! My stream is a WoW UI and chat levels me up, come and play | !char to join, !wow, !sando",
       "game": "World of Warcraft",
       "started_at": "2026-11-09T19:58:13Z"
+    },
+    {
+      "username": "GeneralSte",
+      "title": "Nagash is so OP... | !linktree !discord",
+      "game": "Total War: WARHAMMER III",
+      "started_at": "2026-11-09T22:06:49Z"
     }
   ]
 }
