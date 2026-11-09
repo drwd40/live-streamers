@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-09T02:30:59.492Z",
+  "timestamp": "2026-11-09T02:36:55.601Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-11-09T02:04:05Z"
     },
     {
-      "username": "Zachap",
-      "title": "ama",
-      "game": "Just Chatting",
-      "started_at": "2026-11-08T10:04:29Z"
-    },
-    {
       "username": "Nerduino",
       "title": "🚀Science and Astronomy chat. 🚀  Former NASA guy and PhD astronomer. 👨‍🚀🛰️🌕",
       "game": "Science & Technology",
       "started_at": "2026-11-09T01:51:02Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "ama",
+      "game": "Just Chatting",
+      "started_at": "2026-11-08T10:04:29Z"
     },
     {
       "username": "MelissaInDeNile",
