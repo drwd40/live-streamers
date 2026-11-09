@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-09T21:46:02.459Z",
+  "timestamp": "2026-11-09T21:51:43.961Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-11-09T20:06:48Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "Balancing the ARPG, then maybe polishing it (day 137½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-11-09T20:43:33Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "Pre-SVP stream 🤝🏽🦴🦕🐢🐪🐟 Preparing for LIVE scientific conference coverage this week at the Society of Vertebrate Paleontology meeting",
       "game": "Science & Technology",
       "started_at": "2026-11-09T21:40:49Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "Balancing the ARPG, then maybe polishing it (day 137½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-11-09T20:43:33Z"
     },
     {
       "username": "Zachap",
