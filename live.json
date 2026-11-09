@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-11-09T18:58:33.331Z",
+  "timestamp": "2026-11-09T19:08:54.668Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
-      "game": "Animals, Aquariums, and Zoos",
+      "title": "Animal Care Chats | !alveus !institute !pixel !schedule !video",
+      "game": "Just Chatting",
       "started_at": "2026-11-08T14:01:05Z"
     },
     {
@@ -14,16 +14,22 @@
       "started_at": "2026-11-09T16:08:47Z"
     },
     {
+      "username": "VolcanoDoc",
+      "title": "Oceans & Coastal Hazards | Intro to Earth Science Series | !phd !socials !pubs !merch",
+      "game": "Science & Technology",
+      "started_at": "2026-11-09T17:03:41Z"
+    },
+    {
       "username": "Zachap",
       "title": "politics isn't over, political philosophy is a thing",
       "game": "Just Chatting",
       "started_at": "2026-11-09T10:01:49Z"
     },
     {
-      "username": "VolcanoDoc",
-      "title": "Oceans & Coastal Hazards | Intro to Earth Science Series | !phd !socials !pubs !merch",
-      "game": "Science & Technology",
-      "started_at": "2026-11-09T17:03:41Z"
+      "username": "Rocketology",
+      "title": "Star Citizen News!",
+      "game": "Star Citizen",
+      "started_at": "2026-11-09T19:07:21Z"
     }
   ]
 }
