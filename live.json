@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-10T20:26:45.813Z",
+  "timestamp": "2026-11-10T20:32:44.719Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,16 @@
       "started_at": "2026-11-10T19:00:58Z"
     },
     {
-      "username": "xTalkProgrammer",
-      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
-      "game": "Just Chatting",
-      "started_at": "2026-11-10T19:50:31Z"
-    },
-    {
       "username": "vul100",
       "title": "Tuesday November 9th!!!  Jack Binns and the wars in Asia Part 2: preludes to today.",
       "game": "Science & Technology",
       "started_at": "2026-11-10T19:27:26Z"
+    },
+    {
+      "username": "xTalkProgrammer",
+      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
+      "game": "Just Chatting",
+      "started_at": "2026-11-10T19:50:31Z"
     }
   ]
 }
