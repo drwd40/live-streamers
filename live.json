@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-10T02:46:36.927Z",
+  "timestamp": "2026-11-10T02:52:15.674Z",
   "live": [
     {
       "username": "Maya",
@@ -12,12 +12,6 @@
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-11-08T14:01:05Z"
-    },
-    {
-      "username": "imreallyimportant",
-      "title": "TALKING TO @iammrbeat @ 8 PM EST ABOUT SCHUMER/JEFFRIES | HEGSETH IMPEACHMENT",
-      "game": "Just Chatting",
-      "started_at": "2026-11-09T22:50:08Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -38,6 +32,12 @@
       "started_at": "2026-11-09T10:01:49Z"
     },
     {
+      "username": "DrMick",
+      "title": "Therapist Plays KCD2: Part 42 | !links",
+      "game": "Kingdom Come: Deliverance II",
+      "started_at": "2026-11-10T02:44:17Z"
+    },
+    {
       "username": "ActualEducation",
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Just Chatting",
@@ -48,12 +48,6 @@
       "title": "Microsoft Monday -- Going full on toxic with charts in Excel.",
       "game": "Science & Technology",
       "started_at": "2026-11-10T01:32:01Z"
-    },
-    {
-      "username": "DrMick",
-      "title": "Therapist Plays KCD2: Part 42 | !links",
-      "game": "Kingdom Come: Deliverance II",
-      "started_at": "2026-11-10T02:44:17Z"
     }
   ]
 }
