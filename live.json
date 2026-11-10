@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-10T02:52:15.674Z",
+  "timestamp": "2026-11-10T02:57:53.720Z",
   "live": [
     {
       "username": "Maya",
@@ -14,16 +14,16 @@
       "started_at": "2026-11-08T14:01:05Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "Microscopy Monday | Final stream before Twitch Con! | Tiny worlds under the microscope | Partner+ 73/300 | !ppp !yt !pod !tc26",
-      "game": "Science & Technology",
-      "started_at": "2026-11-10T02:05:24Z"
-    },
-    {
       "username": "Moohoodles",
       "title": "🪐Astrobiology & Space news! ✨ Last stream before TC! Games later?!",
       "game": "Science & Technology",
       "started_at": "2026-11-10T02:24:37Z"
+    },
+    {
+      "username": "SciAnts_Streams",
+      "title": "Microscopy Monday | Final stream before Twitch Con! | Tiny worlds under the microscope | Partner+ 73/300 | !ppp !yt !pod !tc26",
+      "game": "Science & Technology",
+      "started_at": "2026-11-10T02:05:24Z"
     },
     {
       "username": "Zachap",
