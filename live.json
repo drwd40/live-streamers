@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-10T02:40:59.868Z",
+  "timestamp": "2026-11-10T02:46:36.927Z",
   "live": [
     {
       "username": "Maya",
@@ -48,6 +48,12 @@
       "title": "Microsoft Monday -- Going full on toxic with charts in Excel.",
       "game": "Science & Technology",
       "started_at": "2026-11-10T01:32:01Z"
+    },
+    {
+      "username": "DrMick",
+      "title": "Therapist Plays KCD2: Part 42 | !links",
+      "game": "Kingdom Come: Deliverance II",
+      "started_at": "2026-11-10T02:44:17Z"
     }
   ]
 }
