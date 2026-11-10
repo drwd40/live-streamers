@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-10T01:26:39.354Z",
+  "timestamp": "2026-11-10T01:34:45.238Z",
   "live": [
     {
       "username": "Maya",
@@ -36,6 +36,12 @@
       "title": "WoW Forever! My stream is a WoW UI and chat levels me up, come and play | !char to join, !wow, !sando",
       "game": "World of Warcraft",
       "started_at": "2026-11-09T19:58:13Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Microsoft Monday -- Going full on toxic with charts in Excel.",
+      "game": "Science & Technology",
+      "started_at": "2026-11-10T01:32:01Z"
     }
   ]
 }
