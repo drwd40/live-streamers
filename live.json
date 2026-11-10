@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-09T23:55:18.520Z",
+  "timestamp": "2026-11-10T00:04:53.332Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-11-08T14:01:05Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "Pre-SVP stream 🤝🏽🦴🦕🐢🐪🐟 Preparing for LIVE scientific conference coverage this week at the Society of Vertebrate Paleontology meeting",
-      "game": "Science & Technology",
-      "started_at": "2026-11-09T21:40:49Z"
-    },
-    {
       "username": "imreallyimportant",
       "title": "TALKING TO @iammrbeat @ 8 PM EST ABOUT SCHUMER/JEFFRIES | HEGSETH IMPEACHMENT",
       "game": "Just Chatting",
       "started_at": "2026-11-09T22:50:08Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "Pre-SVP stream 🤝🏽🦴🦕🐢🐪🐟 Preparing for LIVE scientific conference coverage this week at the Society of Vertebrate Paleontology meeting",
+      "game": "Science & Technology",
+      "started_at": "2026-11-09T21:40:49Z"
     },
     {
       "username": "Zachap",
@@ -26,16 +26,16 @@
       "started_at": "2026-11-09T10:01:49Z"
     },
     {
-      "username": "GeneralSte",
-      "title": "Nagash is so OP... | !linktree !discord",
-      "game": "Total War: WARHAMMER III",
-      "started_at": "2026-11-09T22:06:49Z"
-    },
-    {
       "username": "Andilippi",
       "title": "WoW Forever! My stream is a WoW UI and chat levels me up, come and play | !char to join, !wow, !sando",
       "game": "World of Warcraft",
       "started_at": "2026-11-09T19:58:13Z"
+    },
+    {
+      "username": "GeneralSte",
+      "title": "Nagash is so OP... | !linktree !discord",
+      "game": "Total War: WARHAMMER III",
+      "started_at": "2026-11-09T22:06:49Z"
     }
   ]
 }
