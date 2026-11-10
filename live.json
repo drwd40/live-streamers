@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-10T21:34:30.287Z",
+  "timestamp": "2026-11-10T21:40:06.626Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,22 +26,16 @@
       "started_at": "2026-11-10T19:00:58Z"
     },
     {
-      "username": "SomeCodingGuy",
-      "title": "Music for @justjessdreamin!",
-      "game": "Music",
-      "started_at": "2026-11-10T20:55:33Z"
-    },
-    {
       "username": "DonFactorial",
       "title": "Answering your math questions and mechanics studying to mix it up",
       "game": "Math",
       "started_at": "2026-11-10T20:57:57Z"
     },
     {
-      "username": "xTalkProgrammer",
-      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
-      "game": "Just Chatting",
-      "started_at": "2026-11-10T19:50:31Z"
+      "username": "SomeCodingGuy",
+      "title": "Music for @justjessdreamin!",
+      "game": "Music",
+      "started_at": "2026-11-10T20:55:33Z"
     }
   ]
 }
