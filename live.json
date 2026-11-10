@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-10T01:20:56.274Z",
+  "timestamp": "2026-11-10T01:26:39.354Z",
   "live": [
     {
       "username": "Maya",
@@ -26,16 +26,16 @@
       "started_at": "2026-11-09T10:01:49Z"
     },
     {
-      "username": "Andilippi",
-      "title": "WoW Forever! My stream is a WoW UI and chat levels me up, come and play | !char to join, !wow, !sando",
-      "game": "World of Warcraft",
-      "started_at": "2026-11-09T19:58:13Z"
-    },
-    {
       "username": "ActualEducation",
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Just Chatting",
       "started_at": "2026-11-10T01:00:53Z"
+    },
+    {
+      "username": "Andilippi",
+      "title": "WoW Forever! My stream is a WoW UI and chat levels me up, come and play | !char to join, !wow, !sando",
+      "game": "World of Warcraft",
+      "started_at": "2026-11-09T19:58:13Z"
     }
   ]
 }
