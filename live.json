@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-10T21:40:06.626Z",
+  "timestamp": "2026-11-10T21:45:46.739Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,12 +14,6 @@
       "started_at": "2026-11-10T10:00:37Z"
     },
     {
-      "username": "IrishJohnGames",
-      "title": "🍀 Getting close to the RTS update in Rise of Piracy!  | !category !jj | !rop !patreon !discord",
-      "game": "Software and Game Development",
-      "started_at": "2026-11-10T18:28:09Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Electronics Ain't Soldering Pollution",
       "game": "Science & Technology",
@@ -30,12 +24,6 @@
       "title": "Answering your math questions and mechanics studying to mix it up",
       "game": "Math",
       "started_at": "2026-11-10T20:57:57Z"
-    },
-    {
-      "username": "SomeCodingGuy",
-      "title": "Music for @justjessdreamin!",
-      "game": "Music",
-      "started_at": "2026-11-10T20:55:33Z"
     }
   ]
 }
