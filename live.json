@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-10T02:28:39.833Z",
+  "timestamp": "2026-11-10T02:35:25.279Z",
   "live": [
     {
       "username": "Maya",
@@ -26,16 +26,16 @@
       "started_at": "2026-11-10T02:05:24Z"
     },
     {
-      "username": "Zachap",
-      "title": "politics isn't over, political philosophy is a thing",
-      "game": "Just Chatting",
-      "started_at": "2026-11-09T10:01:49Z"
-    },
-    {
       "username": "Moohoodles",
       "title": "🪐Astrobiology & Space news! ✨ Last stream before TC! Games later?!",
       "game": "Science & Technology",
       "started_at": "2026-11-10T02:24:37Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "politics isn't over, political philosophy is a thing",
+      "game": "Just Chatting",
+      "started_at": "2026-11-09T10:01:49Z"
     },
     {
       "username": "ActualEducation",
