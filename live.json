@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-11T00:58:46.247Z",
+  "timestamp": "2026-11-11T01:11:46.578Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-11-10T10:00:37Z"
     },
     {
+      "username": "AstroCanuck",
+      "title": "Astro's Po'Pourri: Hallowe'en continues because slow builder - !giveaway - PP 2/3 Completed - !subtember extension T3 Minifig | !drop !tkf",
+      "game": "Lego & Brickbuilding",
+      "started_at": "2026-11-11T01:00:50Z"
+    },
+    {
       "username": "shnaff",
       "title": "NEW GUITAR! Chill guitar, piano, and singing in !stereo🎧",
       "game": "Music",
       "started_at": "2026-11-10T23:01:49Z"
-    },
-    {
-      "username": "SydHeresy",
-      "title": "Electronics Ain't Soldering Pollution",
-      "game": "Science & Technology",
-      "started_at": "2026-11-10T19:00:58Z"
     },
     {
       "username": "MelissaInDeNile",
@@ -38,10 +38,16 @@
       "started_at": "2026-11-10T23:49:37Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and mechanics studying to mix it up",
-      "game": "Math",
-      "started_at": "2026-11-10T20:57:57Z"
+      "username": "SydHeresy",
+      "title": "Electronics Ain't Soldering Pollution",
+      "game": "Science & Technology",
+      "started_at": "2026-11-10T19:00:58Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "Office Hours - Math Homework Help | Middle + High School",
+      "game": "Just Chatting",
+      "started_at": "2026-11-11T01:05:47Z"
     }
   ]
 }
