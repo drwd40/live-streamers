@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-11T22:16:21.629Z",
+  "timestamp": "2026-11-11T22:21:55.536Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-11-11T22:02:45Z"
     },
     {
-      "username": "AdamLearnsLive",
-      "title": "New sub-game! A fake turn-based battler (day 139½)",
-      "game": "Software and Game Development",
-      "started_at": "2026-11-11T20:48:56Z"
-    },
-    {
       "username": "Zachap",
       "title": "Einstein was socialist",
       "game": "Just Chatting",
       "started_at": "2026-11-11T10:03:18Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "New sub-game! A fake turn-based battler (day 139½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-11-11T20:48:56Z"
     }
   ]
 }
