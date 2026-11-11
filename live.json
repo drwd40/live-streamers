@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-11T20:15:10.887Z",
+  "timestamp": "2026-11-11T21:06:46.211Z",
   "live": [
     {
       "username": "Kitboga",
@@ -30,6 +30,24 @@
       "title": "🍀 Getting close to the RTS update in Rise of Piracy!  | !category !jj | !rop !patreon !discord",
       "game": "Software and Game Development",
       "started_at": "2026-11-11T18:02:27Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Philosophy Q&A with Stephen Wolfram (November 11, 2026)",
+      "game": "Science & Technology",
+      "started_at": "2026-11-11T20:32:47Z"
+    },
+    {
+      "username": "AdamLearnsLive",
+      "title": "New sub-game! A fake turn-based battler (day 139½)",
+      "game": "Software and Game Development",
+      "started_at": "2026-11-11T20:48:56Z"
+    },
+    {
+      "username": "ipaintbirbs",
+      "title": "last stream before i fly my way to Twitchcon!!!",
+      "game": "Art",
+      "started_at": "2026-11-11T21:03:19Z"
     }
   ]
 }
