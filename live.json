@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-11T01:50:32.915Z",
+  "timestamp": "2026-11-11T01:56:09.173Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,22 +32,28 @@
       "started_at": "2026-11-10T10:00:37Z"
     },
     {
-      "username": "MelissaInDeNile",
-      "title": "Trying out a new game, Smithonion Natural History Museum!!  ~ Follower Goal: 2483/2600 ~ !socials !beyonddenile",
-      "game": "Smithonion Natural History Museum",
-      "started_at": "2026-11-10T23:49:37Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Electronics Ain't Soldering Pollution",
       "game": "Science & Technology",
       "started_at": "2026-11-10T19:00:58Z"
     },
     {
+      "username": "MelissaInDeNile",
+      "title": "Trying out a new game, Smithonion Natural History Museum!!  ~ Follower Goal: 2483/2600 ~ !socials !beyonddenile",
+      "game": "Smithonion Natural History Museum",
+      "started_at": "2026-11-10T23:49:37Z"
+    },
+    {
       "username": "ActualEducation",
       "title": "Office Hours - Math Homework Help | Middle + High School",
       "game": "Just Chatting",
       "started_at": "2026-11-11T01:05:47Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Checking out the TwitchCon schedule and prep. 🚀  Former NASA guy and PhD astronomer. 👨‍🚀🛰️🌕",
+      "game": "Science & Technology",
+      "started_at": "2026-11-11T01:53:17Z"
     }
   ]
 }
