@@ -1,11 +1,17 @@
 {
-  "timestamp": "2026-11-11T17:47:09.109Z",
+  "timestamp": "2026-11-11T17:52:45.412Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-11-10T14:01:07Z"
+    },
+    {
+      "username": "Kitboga",
+      "title": "Calling Strange Scams [Ep. 1557]",
+      "game": "Just Chatting",
+      "started_at": "2026-11-11T17:45:36Z"
     },
     {
       "username": "Zachap",
@@ -18,12 +24,6 @@
       "title": "Polishing the ARPG (day 139)",
       "game": "Software and Game Development",
       "started_at": "2026-11-11T16:21:14Z"
-    },
-    {
-      "username": "Kitboga",
-      "title": "Calling Strange Scams [Ep. 1557]",
-      "game": "Just Chatting",
-      "started_at": "2026-11-11T17:45:36Z"
     }
   ]
 }
