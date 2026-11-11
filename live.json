@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-11T01:56:09.173Z",
+  "timestamp": "2026-11-11T02:05:13.926Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,6 +38,12 @@
       "started_at": "2026-11-10T19:00:58Z"
     },
     {
+      "username": "Nerduino",
+      "title": "Checking out the TwitchCon schedule and prep. 🚀  Former NASA guy and PhD astronomer. 👨‍🚀🛰️🌕",
+      "game": "Science & Technology",
+      "started_at": "2026-11-11T01:53:17Z"
+    },
+    {
       "username": "MelissaInDeNile",
       "title": "Trying out a new game, Smithonion Natural History Museum!!  ~ Follower Goal: 2483/2600 ~ !socials !beyonddenile",
       "game": "Smithonion Natural History Museum",
@@ -48,12 +54,6 @@
       "title": "Office Hours - Math Homework Help | Middle + High School",
       "game": "Just Chatting",
       "started_at": "2026-11-11T01:05:47Z"
-    },
-    {
-      "username": "Nerduino",
-      "title": "Checking out the TwitchCon schedule and prep. 🚀  Former NASA guy and PhD astronomer. 👨‍🚀🛰️🌕",
-      "game": "Science & Technology",
-      "started_at": "2026-11-11T01:53:17Z"
     }
   ]
 }
