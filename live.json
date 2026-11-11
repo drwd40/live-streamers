@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-11T02:29:18.533Z",
+  "timestamp": "2026-11-11T02:36:46.407Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -42,6 +42,12 @@
       "title": "Office Hours - Math Homework Help | Middle + High School",
       "game": "Just Chatting",
       "started_at": "2026-11-11T01:05:47Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "K-12 Tuesday -- Building a stunt/sport kite, skunks as pets, and a biography of Jensen Huang.",
+      "game": "Science & Technology",
+      "started_at": "2026-11-11T02:30:56Z"
     }
   ]
 }
