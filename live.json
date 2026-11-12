@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-12T01:00:22.197Z",
+  "timestamp": "2026-11-12T01:13:04.761Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "Back into Space! Electrical Puzzle; Loops 21-?; Rivage, Night 04 - 20261111",
       "game": "Rivage",
       "started_at": "2026-11-11T22:38:29Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "Physics & Chemistry Homework Help | Middle + High School",
+      "game": "Just Chatting",
+      "started_at": "2026-11-12T01:01:45Z"
     }
   ]
 }
