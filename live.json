@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-12T04:13:55.413Z",
+  "timestamp": "2026-11-12T04:21:34.182Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-11-12T02:00:38Z"
     },
     {
-      "username": "walkingsticklibrary",
-      "title": "Anticorruption investigation in Congress, Gene therapy and cancer links, and the jeweled beetles of Instagram.",
-      "game": "Science & Technology",
-      "started_at": "2026-11-12T02:30:26Z"
-    },
-    {
       "username": "happyknightmares",
       "title": "Some chilling time!!✨",
       "game": "Just Chatting",
       "started_at": "2026-11-12T04:12:29Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Anticorruption investigation in Congress, Gene therapy and cancer links, and the jeweled beetles of Instagram.",
+      "game": "Science & Technology",
+      "started_at": "2026-11-12T02:30:26Z"
     }
   ]
 }
