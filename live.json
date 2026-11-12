@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-12T22:59:05.960Z",
+  "timestamp": "2026-11-12T23:09:31.316Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,16 @@
       "started_at": "2026-11-12T18:59:51Z"
     },
     {
+      "username": "shnaff",
+      "title": "Chill guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-11-12T23:01:55Z"
+    },
+    {
       "username": "nSimplexPachinko",
       "title": "Visions Through the Portal; TitansGrave 021, TTRPG Planning - 20261112",
       "game": "Just Chatting",
       "started_at": "2026-11-12T21:56:26Z"
-    },
-    {
-      "username": "SETIInstitute",
-      "title": "Could the Sun Unleash a Superflare? | #SETILive",
-      "game": "Talk Shows & Podcasts",
-      "started_at": "2026-11-12T22:30:52Z"
     }
   ]
 }
