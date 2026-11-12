@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-12T20:17:25.577Z",
+  "timestamp": "2026-11-12T20:23:07.100Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,12 +32,6 @@
       "started_at": "2026-11-12T10:04:12Z"
     },
     {
-      "username": "Stephen_Wolfram",
-      "title": "Live CEOing Ep 1020: Design Review of Chemistry continued",
-      "game": "Science & Technology",
-      "started_at": "2026-11-12T19:38:38Z"
-    },
-    {
       "username": "DrMick",
       "title": "Mental Health Chat  + Painting 40k",
       "game": "Miniatures & Models",
@@ -48,6 +42,12 @@
       "title": "Are And Dee - Cue And Sea - Electronics",
       "game": "Science & Technology",
       "started_at": "2026-11-12T18:59:51Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 1020: Design Review of Chemistry continued",
+      "game": "Science & Technology",
+      "started_at": "2026-11-12T19:38:38Z"
     },
     {
       "username": "DrAlexanderClarke",
