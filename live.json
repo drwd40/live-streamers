@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-12T20:11:51.004Z",
+  "timestamp": "2026-11-12T20:17:25.577Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-11-12T14:01:10Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "CONFLICT CANINES SEASON 3 BABY! 11/12/26",
-      "game": "WARDOGS",
-      "started_at": "2026-11-12T17:45:21Z"
-    },
-    {
       "username": "Paleontologizing",
       "title": "PALEONTOLOGISTS TALKIN' 🦕🤝🏽 DAY 2 📈 !SVPdonate 🦖 Chatting w/ fellow fossil scientists @ the Society of Vertebrate Paleontology Meeting",
       "game": "Science & Technology",
       "started_at": "2026-11-12T18:57:56Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "CONFLICT CANINES SEASON 3 BABY! 11/12/26",
+      "game": "WARDOGS",
+      "started_at": "2026-11-12T17:45:21Z"
     },
     {
       "username": "oh_bother",
@@ -32,18 +32,6 @@
       "started_at": "2026-11-12T10:04:12Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Are And Dee - Cue And Sea - Electronics",
-      "game": "Science & Technology",
-      "started_at": "2026-11-12T18:59:51Z"
-    },
-    {
-      "username": "DrAlexanderClarke",
-      "title": "Taranto... 86yrs on!",
-      "game": "Just Chatting",
-      "started_at": "2026-11-12T19:45:10Z"
-    },
-    {
       "username": "Stephen_Wolfram",
       "title": "Live CEOing Ep 1020: Design Review of Chemistry continued",
       "game": "Science & Technology",
@@ -54,6 +42,18 @@
       "title": "Mental Health Chat  + Painting 40k",
       "game": "Miniatures & Models",
       "started_at": "2026-11-12T20:09:07Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Are And Dee - Cue And Sea - Electronics",
+      "game": "Science & Technology",
+      "started_at": "2026-11-12T18:59:51Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "Taranto... 86yrs on!",
+      "game": "Just Chatting",
+      "started_at": "2026-11-12T19:45:10Z"
     }
   ]
 }
