@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-12T18:28:21.414Z",
+  "timestamp": "2026-11-12T18:35:03.456Z",
   "live": [
     {
       "username": "Kitboga",
@@ -26,16 +26,16 @@
       "started_at": "2026-11-12T10:04:12Z"
     },
     {
-      "username": "oh_bother",
-      "title": "Eurorack: attenuating a signal into a signal analyzer, for fun!",
-      "game": "Science & Technology",
-      "started_at": "2026-11-12T17:17:46Z"
-    },
-    {
       "username": "SciAnts_Streams",
       "title": "SciAnts IRL | Exploring San Diego | Partner+ 73/300 | !ppp !yt !pod !tc26",
       "game": "IRL",
       "started_at": "2026-11-12T18:21:45Z"
+    },
+    {
+      "username": "oh_bother",
+      "title": "Eurorack: attenuating a signal into a signal analyzer, for fun!",
+      "game": "Science & Technology",
+      "started_at": "2026-11-12T17:17:46Z"
     }
   ]
 }
