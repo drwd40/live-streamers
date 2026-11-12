@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-12T22:29:32.940Z",
+  "timestamp": "2026-11-12T22:36:26.573Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,16 @@
       "started_at": "2026-11-12T18:59:51Z"
     },
     {
-      "username": "DrAlexanderClarke",
-      "title": "Taranto... 86yrs on!",
-      "game": "Just Chatting",
-      "started_at": "2026-11-12T19:45:10Z"
-    },
-    {
       "username": "nSimplexPachinko",
       "title": "Visions Through the Portal; TitansGrave 021, TTRPG Planning - 20261112",
       "game": "Just Chatting",
       "started_at": "2026-11-12T21:56:26Z"
+    },
+    {
+      "username": "SETIInstitute",
+      "title": "Could the Sun Unleash a Superflare? | #SETILive",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2026-11-12T22:30:52Z"
     }
   ]
 }
