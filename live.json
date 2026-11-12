@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-12T19:36:05.509Z",
+  "timestamp": "2026-11-12T19:41:50.954Z",
   "live": [
     {
       "username": "Kitboga",
@@ -32,22 +32,28 @@
       "started_at": "2026-11-12T18:21:45Z"
     },
     {
-      "username": "oh_bother",
-      "title": "Eurorack: attenuating a signal into a signal analyzer, for fun!",
-      "game": "Science & Technology",
-      "started_at": "2026-11-12T17:17:46Z"
-    },
-    {
       "username": "Zachap",
       "title": "hope all is well :)",
       "game": "Just Chatting",
       "started_at": "2026-11-12T10:04:12Z"
     },
     {
+      "username": "oh_bother",
+      "title": "Eurorack: attenuating a signal into a signal analyzer, for fun!",
+      "game": "Science & Technology",
+      "started_at": "2026-11-12T17:17:46Z"
+    },
+    {
       "username": "SydHeresy",
       "title": "Are And Dee - Cue And Sea - Electronics",
       "game": "Science & Technology",
       "started_at": "2026-11-12T18:59:51Z"
+    },
+    {
+      "username": "Stephen_Wolfram",
+      "title": "Live CEOing Ep 1020: Design Review of Chemistry continued",
+      "game": "Science & Technology",
+      "started_at": "2026-11-12T19:38:38Z"
     }
   ]
 }
