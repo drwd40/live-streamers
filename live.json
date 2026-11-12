@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-12T21:39:31.918Z",
+  "timestamp": "2026-11-12T21:45:11.445Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,22 +20,16 @@
       "started_at": "2026-11-12T17:45:21Z"
     },
     {
-      "username": "Zachap",
-      "title": "hope all is well :)",
-      "game": "Just Chatting",
-      "started_at": "2026-11-12T10:04:12Z"
-    },
-    {
-      "username": "oh_bother",
-      "title": "Eurorack: attenuating a signal into a signal analyzer, for fun!",
-      "game": "Science & Technology",
-      "started_at": "2026-11-12T17:17:46Z"
-    },
-    {
       "username": "DrMick",
       "title": "Mental Health Chat  + Painting 40k",
       "game": "Miniatures & Models",
       "started_at": "2026-11-12T20:09:07Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "hope all is well :)",
+      "game": "Just Chatting",
+      "started_at": "2026-11-12T10:04:12Z"
     },
     {
       "username": "SydHeresy",
