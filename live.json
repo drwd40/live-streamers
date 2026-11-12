@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-12T18:57:19.473Z",
+  "timestamp": "2026-11-12T19:06:30.341Z",
   "live": [
     {
       "username": "Kitboga",
@@ -9,8 +9,8 @@
     },
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
-      "game": "Animals, Aquariums, and Zoos",
+      "title": "PO Box Opening | !alveus !institute !pixel !schedule !video",
+      "game": "Just Chatting",
       "started_at": "2026-11-12T14:01:10Z"
     },
     {
@@ -32,10 +32,22 @@
       "started_at": "2026-11-12T10:04:12Z"
     },
     {
+      "username": "Paleontologizing",
+      "title": "PALEONTOLOGISTS TALKIN' 🦕🤝🏽 DAY 2 📈 !SVPdonate 🦖 Chatting w/ fellow fossil scientists @ the Society of Vertebrate Paleontology Meeting",
+      "game": "Science & Technology",
+      "started_at": "2026-11-12T18:57:56Z"
+    },
+    {
       "username": "oh_bother",
       "title": "Eurorack: attenuating a signal into a signal analyzer, for fun!",
       "game": "Science & Technology",
       "started_at": "2026-11-12T17:17:46Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Are And Dee - Cue And Sea - Electronics",
+      "game": "Science & Technology",
+      "started_at": "2026-11-12T18:59:51Z"
     }
   ]
 }
