@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-12T19:41:50.954Z",
+  "timestamp": "2026-11-12T19:47:35.413Z",
   "live": [
     {
       "username": "Kitboga",
@@ -54,6 +54,12 @@
       "title": "Live CEOing Ep 1020: Design Review of Chemistry continued",
       "game": "Science & Technology",
       "started_at": "2026-11-12T19:38:38Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "Taranto... 86yrs on!",
+      "game": "Just Chatting",
+      "started_at": "2026-11-12T19:45:10Z"
     }
   ]
 }
