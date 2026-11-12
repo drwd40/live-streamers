@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-12T01:30:38.819Z",
+  "timestamp": "2026-11-12T01:39:50.998Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-11-11T22:49:43Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "Physics & Chemistry Homework Help | Middle + High School",
-      "game": "Just Chatting",
-      "started_at": "2026-11-12T01:01:45Z"
-    },
-    {
       "username": "DonFactorial",
       "title": "Getting some Chernarus in before winter comes",
       "game": "DayZ",
       "started_at": "2026-11-11T22:27:07Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "Physics & Chemistry Homework Help | Middle + High School",
+      "game": "Just Chatting",
+      "started_at": "2026-11-12T01:01:45Z"
     },
     {
       "username": "nSimplexPachinko",
