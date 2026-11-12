@@ -1,12 +1,6 @@
 {
-  "timestamp": "2026-11-12T19:59:03.912Z",
+  "timestamp": "2026-11-12T20:11:51.004Z",
   "live": [
-    {
-      "username": "Kitboga",
-      "title": "Calling Virus Scammers [Ep. 1558]",
-      "game": "Just Chatting",
-      "started_at": "2026-11-12T17:16:45Z"
-    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
@@ -24,12 +18,6 @@
       "title": "PALEONTOLOGISTS TALKIN' 🦕🤝🏽 DAY 2 📈 !SVPdonate 🦖 Chatting w/ fellow fossil scientists @ the Society of Vertebrate Paleontology Meeting",
       "game": "Science & Technology",
       "started_at": "2026-11-12T18:57:56Z"
-    },
-    {
-      "username": "SciAnts_Streams",
-      "title": "SciAnts IRL | Exploring San Diego | Partner+ 73/300 | !ppp !yt !pod !tc26",
-      "game": "IRL",
-      "started_at": "2026-11-12T18:21:45Z"
     },
     {
       "username": "oh_bother",
@@ -50,16 +38,22 @@
       "started_at": "2026-11-12T18:59:51Z"
     },
     {
+      "username": "DrAlexanderClarke",
+      "title": "Taranto... 86yrs on!",
+      "game": "Just Chatting",
+      "started_at": "2026-11-12T19:45:10Z"
+    },
+    {
       "username": "Stephen_Wolfram",
       "title": "Live CEOing Ep 1020: Design Review of Chemistry continued",
       "game": "Science & Technology",
       "started_at": "2026-11-12T19:38:38Z"
     },
     {
-      "username": "DrAlexanderClarke",
-      "title": "Taranto... 86yrs on!",
-      "game": "Just Chatting",
-      "started_at": "2026-11-12T19:45:10Z"
+      "username": "DrMick",
+      "title": "Mental Health Chat  + Painting 40k",
+      "game": "Miniatures & Models",
+      "started_at": "2026-11-12T20:09:07Z"
     }
   ]
 }
