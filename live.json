@@ -1,11 +1,17 @@
 {
-  "timestamp": "2026-11-13T19:09:52.383Z",
+  "timestamp": "2026-11-13T19:15:29.375Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Show and Tell | !alveus !institute !pixel !schedule !video",
       "game": "Just Chatting",
       "started_at": "2026-11-12T14:01:10Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "PALEONTOLOGISTS TALKIN' 🦖🦴🤝🏽 DAY 3 📈 !SVPdonate 🦕 Chatting w/ fellow fossil scientists @ Society of Vertebrate Paleontology Meeting",
+      "game": "Science & Technology",
+      "started_at": "2026-11-13T18:58:19Z"
     },
     {
       "username": "AdamLearnsLive",
@@ -18,12 +24,6 @@
       "title": "live and let learn",
       "game": "Just Chatting",
       "started_at": "2026-11-13T10:01:26Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "PALEONTOLOGISTS TALKIN' 🦖🦴🤝🏽 DAY 3 📈 !SVPdonate 🦕 Chatting w/ fellow fossil scientists @ Society of Vertebrate Paleontology Meeting",
-      "game": "Science & Technology",
-      "started_at": "2026-11-13T18:58:19Z"
     },
     {
       "username": "oh_bother",
