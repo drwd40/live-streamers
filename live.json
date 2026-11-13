@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-13T18:47:23.307Z",
+  "timestamp": "2026-11-13T18:53:14.784Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "Eurorack: attenuator chosen, we can build the testing module!",
       "game": "Science & Technology",
       "started_at": "2026-11-13T18:03:03Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "[drops] SQ42 News/ IAE 2956 - RSI Day",
+      "game": "Star Citizen",
+      "started_at": "2026-11-13T18:51:14Z"
     }
   ]
 }
