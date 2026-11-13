@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-13T15:54:59.929Z",
+  "timestamp": "2026-11-13T16:01:14.938Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,12 @@
       "title": "@WaldoAndFriends is here! Let's talk about his sexy, super not-secret project for streamers! | !sando £1/£1,000",
       "game": "Just Chatting",
       "started_at": "2026-11-13T15:18:41Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "Live pre-TwitchCon Beach cleanup! | !GWS | !Beach",
+      "game": "IRL",
+      "started_at": "2026-11-13T16:00:11Z"
     }
   ]
 }
