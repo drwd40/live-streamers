@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-13T20:47:43.240Z",
+  "timestamp": "2026-11-13T20:53:30.596Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-11-13T20:37:35Z"
     },
     {
-      "username": "Rocketology",
-      "title": "[drops] SQ42 News/ IAE 2956 - RSI Day",
-      "game": "Star Citizen",
-      "started_at": "2026-11-13T18:51:14Z"
-    },
-    {
       "username": "GeoJim2006",
       "title": "Friday Geologizing - More Rock!! 🏔️🪨🔬 !discord !nova !tkf",
       "game": "Science & Technology",
       "started_at": "2026-11-13T20:34:01Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "[drops] SQ42 News/ IAE 2956 - RSI Day",
+      "game": "Star Citizen",
+      "started_at": "2026-11-13T18:51:14Z"
     }
   ]
 }
