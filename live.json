@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-13T01:29:56.506Z",
+  "timestamp": "2026-11-13T01:39:20.430Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,16 +38,22 @@
       "started_at": "2026-11-12T23:50:49Z"
     },
     {
-      "username": "ActualEducation",
-      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "username": "imreallyimportant",
+      "title": "THE BLUE WAVE @ 6 PM EST",
       "game": "Just Chatting",
-      "started_at": "2026-11-13T01:13:33Z"
+      "started_at": "2026-11-13T01:36:41Z"
     },
     {
       "username": "Mr_Aejis",
       "title": "Wait, Riku BETRAYS us?!? Teacher Plays: Kingdom Hearts",
       "game": "Kingdom Hearts",
       "started_at": "2026-11-13T01:29:18Z"
+    },
+    {
+      "username": "ActualEducation",
+      "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
+      "game": "Just Chatting",
+      "started_at": "2026-11-13T01:13:33Z"
     }
   ]
 }
