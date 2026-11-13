@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-13T20:42:10.084Z",
+  "timestamp": "2026-11-13T20:47:43.240Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-11-13T18:03:03Z"
     },
     {
-      "username": "Rocketology",
-      "title": "[drops] SQ42 News/ IAE 2956 - RSI Day",
-      "game": "Star Citizen",
-      "started_at": "2026-11-13T18:51:14Z"
-    },
-    {
       "username": "AdamLearnsLive",
       "title": "AI game dev (day 141½)",
       "game": "Software and Game Development",
       "started_at": "2026-11-13T20:37:35Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "[drops] SQ42 News/ IAE 2956 - RSI Day",
+      "game": "Star Citizen",
+      "started_at": "2026-11-13T18:51:14Z"
     },
     {
       "username": "GeoJim2006",
