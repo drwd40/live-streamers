@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-14T17:21:00.468Z",
+  "timestamp": "2026-11-14T17:26:40.656Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -30,6 +30,12 @@
       "title": "Historiophon 2026 first 36hrs!",
       "game": "Just Chatting",
       "started_at": "2026-11-14T11:59:22Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Math/Ed Q&A + Chat! Come Bring Questions!",
+      "game": "Math",
+      "started_at": "2026-11-14T17:25:36Z"
     }
   ]
 }
