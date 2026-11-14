@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-14T21:58:17.398Z",
+  "timestamp": "2026-11-14T22:08:35.226Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -32,16 +32,16 @@
       "started_at": "2026-11-14T19:49:56Z"
     },
     {
-      "username": "Nerduino",
-      "title": "TwitchCon Live!  Former NASA guy and PhD astronomer. 👨‍🚀🛰️🌕",
-      "game": "Special Events",
-      "started_at": "2026-11-14T21:32:53Z"
-    },
-    {
       "username": "DrAlexanderClarke",
       "title": "Historiophon 2026 first 36hrs!",
       "game": "Pirates of the Burning Sea",
       "started_at": "2026-11-14T11:59:22Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "TwitchCon Live!  Former NASA guy and PhD astronomer. 👨‍🚀🛰️🌕",
+      "game": "Special Events",
+      "started_at": "2026-11-14T22:08:07Z"
     }
   ]
 }
