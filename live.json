@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-14T02:26:50.130Z",
+  "timestamp": "2026-11-14T02:33:02.065Z",
   "live": [
     {
       "username": "Maya",
@@ -26,16 +26,16 @@
       "started_at": "2026-11-13T22:49:48Z"
     },
     {
-      "username": "Nerduino",
-      "title": "Live from the San Diego Zoo!!🍵  Former NASA guy and PhD astronomer. 👨‍🚀🛰️🌕",
-      "game": "Special Events",
-      "started_at": "2026-11-14T02:14:34Z"
-    },
-    {
       "username": "SciAnts_Streams",
       "title": "SciAnts IRL | San Diego Zoo | Partner+ 73/300 | !ppp !yt !pod !tc26",
       "game": "IRL",
       "started_at": "2026-11-14T02:25:10Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Live from the San Diego Zoo!!🍵  Former NASA guy and PhD astronomer. 👨‍🚀🛰️🌕",
+      "game": "Special Events",
+      "started_at": "2026-11-14T02:14:34Z"
     }
   ]
 }
