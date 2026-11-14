@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-14T20:34:43.471Z",
+  "timestamp": "2026-11-14T20:40:15.728Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -22,7 +22,7 @@
     {
       "username": "SciAnts_Streams",
       "title": "SciAnts + Capcom! | Live from Twitch Con SD 26 | Partner+ 112/300 | !ppp !yt !pod !tc26",
-      "game": "Mega Man: Dual Override",
+      "game": "Monster Hunter Wilds",
       "started_at": "2026-11-14T18:27:15Z"
     },
     {
@@ -38,16 +38,16 @@
       "started_at": "2026-11-14T19:12:10Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and playing with wavelets",
-      "game": "Math",
-      "started_at": "2026-11-14T19:49:56Z"
-    },
-    {
       "username": "DrAlexanderClarke",
       "title": "Historiophon 2026 first 36hrs!",
       "game": "Just Chatting",
       "started_at": "2026-11-14T11:59:22Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and playing with wavelets",
+      "game": "Math",
+      "started_at": "2026-11-14T19:49:56Z"
     },
     {
       "username": "Rocketology",
