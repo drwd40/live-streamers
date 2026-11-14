@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-14T21:35:38.455Z",
+  "timestamp": "2026-11-14T21:41:15.804Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -32,22 +32,16 @@
       "started_at": "2026-11-14T11:59:22Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and playing with wavelets",
-      "game": "Math",
-      "started_at": "2026-11-14T19:49:56Z"
-    },
-    {
-      "username": "Rocketology",
-      "title": "[drops] IAE 2956 - Taking On the RSI Galaxy!",
-      "game": "Star Citizen",
-      "started_at": "2026-11-14T19:01:41Z"
-    },
-    {
       "username": "Nerduino",
       "title": "TwitchCon Live!  Former NASA guy and PhD astronomer. 👨‍🚀🛰️🌕",
       "game": "Special Events",
       "started_at": "2026-11-14T21:32:53Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and playing with wavelets",
+      "game": "Math",
+      "started_at": "2026-11-14T19:49:56Z"
     }
   ]
 }
