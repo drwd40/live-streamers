@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-14T19:49:21.589Z",
+  "timestamp": "2026-11-14T19:54:56.195Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -54,6 +54,12 @@
       "title": "[drops] IAE 2956 - Taking On the RSI Galaxy!",
       "game": "Star Citizen",
       "started_at": "2026-11-14T19:01:41Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and playing with wavelets",
+      "game": "Math",
+      "started_at": "2026-11-14T19:49:56Z"
     }
   ]
 }
