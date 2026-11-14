@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-14T02:44:17.803Z",
+  "timestamp": "2026-11-14T02:49:53.740Z",
   "live": [
     {
       "username": "Maya",
@@ -36,6 +36,12 @@
       "title": "Live from the San Diego Zoo!!🍵  Former NASA guy and PhD astronomer. 👨‍🚀🛰️🌕",
       "game": "Special Events",
       "started_at": "2026-11-14T02:37:43Z"
+    },
+    {
+      "username": "DrawCuriosity",
+      "title": "IRL San Diego Zoo fundraiser✨🐏!tier2 !tier3",
+      "game": "IRL",
+      "started_at": "2026-11-14T02:48:17Z"
     }
   ]
 }
