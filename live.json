@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-14T18:49:08.468Z",
+  "timestamp": "2026-11-14T18:54:45.067Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,28 +14,28 @@
       "started_at": "2026-11-13T22:00:02Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "SciAnts + Capcom! | Live from Twitch Con SD 26 | Partner+ 112/300 | !ppp !yt !pod !tc26",
-      "game": "Mega Man: Dual Override",
-      "started_at": "2026-11-14T18:27:15Z"
-    },
-    {
       "username": "Zachap",
       "title": "we cover a lot here",
       "game": "Just Chatting",
       "started_at": "2026-11-14T10:03:43Z"
     },
     {
-      "username": "DrAlexanderClarke",
-      "title": "Historiophon 2026 first 36hrs!",
-      "game": "Just Chatting",
-      "started_at": "2026-11-14T11:59:22Z"
+      "username": "SciAnts_Streams",
+      "title": "SciAnts + Capcom! | Live from Twitch Con SD 26 | Partner+ 112/300 | !ppp !yt !pod !tc26",
+      "game": "Mega Man: Dual Override",
+      "started_at": "2026-11-14T18:27:15Z"
     },
     {
       "username": "eToThe2iPi",
       "title": "Math/Ed Q&A + Chat! Come Bring Questions!",
       "game": "Math",
       "started_at": "2026-11-14T18:41:21Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "Historiophon 2026 first 36hrs!",
+      "game": "Just Chatting",
+      "started_at": "2026-11-14T11:59:22Z"
     }
   ]
 }
