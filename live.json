@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-14T21:24:27.741Z",
+  "timestamp": "2026-11-14T21:30:03.878Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -20,22 +20,10 @@
       "started_at": "2026-11-14T18:56:43Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "SciAnts + Capcom! | Live from Twitch Con SD 26 | Partner+ 112/300 | !ppp !yt !pod !tc26",
-      "game": "Monster Hunter Wilds",
-      "started_at": "2026-11-14T18:27:15Z"
-    },
-    {
       "username": "Zachap",
       "title": "we cover a lot here",
       "game": "Just Chatting",
       "started_at": "2026-11-14T10:03:43Z"
-    },
-    {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and playing with wavelets",
-      "game": "Math",
-      "started_at": "2026-11-14T19:49:56Z"
     },
     {
       "username": "Rocketology",
@@ -48,6 +36,12 @@
       "title": "Historiophon 2026 first 36hrs!",
       "game": "Pirates of the Burning Sea",
       "started_at": "2026-11-14T11:59:22Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and playing with wavelets",
+      "game": "Math",
+      "started_at": "2026-11-14T19:49:56Z"
     }
   ]
 }
