@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-14T20:28:06.061Z",
+  "timestamp": "2026-11-14T20:34:43.471Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -38,16 +38,16 @@
       "started_at": "2026-11-14T19:12:10Z"
     },
     {
-      "username": "DrAlexanderClarke",
-      "title": "Historiophon 2026 first 36hrs!",
-      "game": "Just Chatting",
-      "started_at": "2026-11-14T11:59:22Z"
-    },
-    {
       "username": "DonFactorial",
       "title": "Answering your math questions and playing with wavelets",
       "game": "Math",
       "started_at": "2026-11-14T19:49:56Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "Historiophon 2026 first 36hrs!",
+      "game": "Just Chatting",
+      "started_at": "2026-11-14T11:59:22Z"
     },
     {
       "username": "Rocketology",
