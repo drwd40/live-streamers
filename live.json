@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-14T22:25:46.124Z",
+  "timestamp": "2026-11-14T22:31:22.522Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,12 +14,6 @@
       "started_at": "2026-11-13T22:00:02Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "PALEONTOLOGISTS TALKIN' 🦕🦴🤝🏽 DAY 4 📈 !SVPdonate 🦖 Chatting w/ fellow fossil scientists @ Society of Vertebrate Paleontology Meeting",
-      "game": "Science & Technology",
-      "started_at": "2026-11-14T18:56:43Z"
-    },
-    {
       "username": "Zachap",
       "title": "we cover a lot here",
       "game": "Just Chatting",
@@ -32,16 +26,16 @@
       "started_at": "2026-11-14T22:18:24Z"
     },
     {
+      "username": "DrMick",
+      "title": "Therapist Plays Ocarina of Time: Part 1",
+      "game": "The Legend of Zelda: Ocarina of Time",
+      "started_at": "2026-11-14T22:24:11Z"
+    },
+    {
       "username": "DonFactorial",
       "title": "Answering your math questions and playing with wavelets",
       "game": "Math",
       "started_at": "2026-11-14T19:49:56Z"
-    },
-    {
-      "username": "Nerduino",
-      "title": "Nov 14, 2026 at 2:22PM",
-      "game": "Special Events",
-      "started_at": "2026-11-14T22:22:38Z"
     },
     {
       "username": "DrAlexanderClarke",
@@ -50,10 +44,10 @@
       "started_at": "2026-11-14T11:59:22Z"
     },
     {
-      "username": "DrMick",
-      "title": "Therapist Plays Ocarina of Time: Part 1",
-      "game": "The Legend of Zelda: Ocarina of Time",
-      "started_at": "2026-11-14T22:24:11Z"
+      "username": "Nerduino",
+      "title": "Nov 14, 2026 at 2:22PM",
+      "game": "Special Events",
+      "started_at": "2026-11-14T22:22:38Z"
     }
   ]
 }
