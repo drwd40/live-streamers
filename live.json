@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-14T21:41:15.804Z",
+  "timestamp": "2026-11-14T21:46:59.167Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -26,6 +26,12 @@
       "started_at": "2026-11-14T10:03:43Z"
     },
     {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and playing with wavelets",
+      "game": "Math",
+      "started_at": "2026-11-14T19:49:56Z"
+    },
+    {
       "username": "DrAlexanderClarke",
       "title": "Historiophon 2026 first 36hrs!",
       "game": "Pirates of the Burning Sea",
@@ -36,12 +42,6 @@
       "title": "TwitchCon Live!  Former NASA guy and PhD astronomer. 👨‍🚀🛰️🌕",
       "game": "Special Events",
       "started_at": "2026-11-14T21:32:53Z"
-    },
-    {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and playing with wavelets",
-      "game": "Math",
-      "started_at": "2026-11-14T19:49:56Z"
     }
   ]
 }
