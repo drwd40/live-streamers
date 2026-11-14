@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-14T19:00:51.457Z",
+  "timestamp": "2026-11-14T19:09:11.089Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,6 +26,12 @@
       "started_at": "2026-11-14T10:03:43Z"
     },
     {
+      "username": "Paleontologizing",
+      "title": "PALEONTOLOGISTS TALKIN' 🦕🦴🤝🏽 DAY 4 📈 !SVPdonate 🦖 Chatting w/ fellow fossil scientists @ Society of Vertebrate Paleontology Meeting",
+      "game": "Science & Technology",
+      "started_at": "2026-11-14T18:56:43Z"
+    },
+    {
       "username": "eToThe2iPi",
       "title": "Math/Ed Q&A + Chat! Come Bring Questions!",
       "game": "Math",
@@ -38,10 +44,10 @@
       "started_at": "2026-11-14T11:59:22Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "PALEONTOLOGISTS TALKIN' 🦕🦴🤝🏽 DAY 4 📈 !SVPdonate 🦖 Chatting w/ fellow fossil scientists @ Society of Vertebrate Paleontology Meeting",
-      "game": "Science & Technology",
-      "started_at": "2026-11-14T18:56:43Z"
+      "username": "Rocketology",
+      "title": "[drops] IAE 2956 - Taking On the RSI Galaxy!",
+      "game": "Star Citizen",
+      "started_at": "2026-11-14T19:01:41Z"
     }
   ]
 }
