@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-14T03:40:13.222Z",
+  "timestamp": "2026-11-14T03:45:55.519Z",
   "live": [
     {
       "username": "Maya",
@@ -26,16 +26,16 @@
       "started_at": "2026-11-13T22:49:48Z"
     },
     {
-      "username": "DrawCuriosity",
-      "title": "IRL San Diego Zoo fundraiser✨🐏!tier2 !tier3",
-      "game": "IRL",
-      "started_at": "2026-11-14T03:00:23Z"
-    },
-    {
       "username": "SciAnts_Streams",
       "title": "SciAnts IRL | San Diego Zoo | Partner+ 73/300 | !ppp !yt !pod !tc26",
       "game": "IRL",
       "started_at": "2026-11-14T02:25:10Z"
+    },
+    {
+      "username": "DrawCuriosity",
+      "title": "IRL San Diego Zoo fundraiser✨🐏!tier2 !tier3",
+      "game": "IRL",
+      "started_at": "2026-11-14T03:00:23Z"
     },
     {
       "username": "Nerduino",
