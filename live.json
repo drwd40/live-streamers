@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-14T03:02:55.016Z",
+  "timestamp": "2026-11-14T03:14:42.163Z",
   "live": [
     {
       "username": "Maya",
@@ -8,16 +8,16 @@
       "started_at": "2026-11-14T01:36:31Z"
     },
     {
-      "username": "EJ_SA",
-      "title": "EJ'S STARSHIP FLIGHT 15 LAUNCH COVERAGE! 11/13/26-11/14/26",
-      "game": "Science & Technology",
-      "started_at": "2026-11-13T22:00:02Z"
-    },
-    {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-11-13T19:33:48Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "EJ'S STARSHIP FLIGHT 15 LAUNCH COVERAGE! 11/13/26-11/14/26",
+      "game": "Science & Technology",
+      "started_at": "2026-11-13T22:00:02Z"
     },
     {
       "username": "imreallyimportant",
@@ -32,16 +32,16 @@
       "started_at": "2026-11-14T02:25:10Z"
     },
     {
-      "username": "Nerduino",
-      "title": "Live from the San Diego Zoo!!🍵  Former NASA guy and PhD astronomer. 👨‍🚀🛰️🌕",
-      "game": "Special Events",
-      "started_at": "2026-11-14T02:37:43Z"
-    },
-    {
       "username": "DrawCuriosity",
       "title": "IRL San Diego Zoo fundraiser✨🐏!tier2 !tier3",
       "game": "IRL",
       "started_at": "2026-11-14T03:00:23Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Live from the San Diego Zoo!!🍵  Former NASA guy and PhD astronomer. 👨‍🚀🛰️🌕",
+      "game": "Special Events",
+      "started_at": "2026-11-14T02:37:43Z"
     }
   ]
 }
