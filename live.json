@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-14T21:46:59.167Z",
+  "timestamp": "2026-11-14T21:52:44.665Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -26,10 +26,10 @@
       "started_at": "2026-11-14T10:03:43Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and playing with wavelets",
-      "game": "Math",
-      "started_at": "2026-11-14T19:49:56Z"
+      "username": "Nerduino",
+      "title": "TwitchCon Live!  Former NASA guy and PhD astronomer. 👨‍🚀🛰️🌕",
+      "game": "Special Events",
+      "started_at": "2026-11-14T21:32:53Z"
     },
     {
       "username": "DrAlexanderClarke",
@@ -38,10 +38,10 @@
       "started_at": "2026-11-14T11:59:22Z"
     },
     {
-      "username": "Nerduino",
-      "title": "TwitchCon Live!  Former NASA guy and PhD astronomer. 👨‍🚀🛰️🌕",
-      "game": "Special Events",
-      "started_at": "2026-11-14T21:32:53Z"
+      "username": "DonFactorial",
+      "title": "Answering your math questions and playing with wavelets",
+      "game": "Math",
+      "started_at": "2026-11-14T19:49:56Z"
     }
   ]
 }
