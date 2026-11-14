@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-14T23:32:53.631Z",
+  "timestamp": "2026-11-14T23:38:31.932Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,12 +14,6 @@
       "started_at": "2026-11-14T22:24:11Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "SciAnts + FredHutch! | Live from Twitch Con SD 26 | Partner+ 112/300 | !ppp !yt !pod !tc26",
-      "game": "IRL",
-      "started_at": "2026-11-14T22:39:41Z"
-    },
-    {
       "username": "DrawCuriosity",
       "title": "💜 WALKING ROUND TWITCHCON!! ✨🐏!tier2 !tier3",
       "game": "IRL",
@@ -32,22 +26,28 @@
       "started_at": "2026-11-14T10:03:43Z"
     },
     {
+      "username": "SciAnts_Streams",
+      "title": "SciAnts + FredHutch! | Live from Twitch Con SD 26 | Partner+ 112/300 | !ppp !yt !pod !tc26",
+      "game": "IRL",
+      "started_at": "2026-11-14T22:39:41Z"
+    },
+    {
       "username": "Nerduino",
       "title": "Nov 14, 2026 at 2:22PM",
       "game": "Special Events",
       "started_at": "2026-11-14T22:22:38Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and playing with wavelets",
-      "game": "Math",
-      "started_at": "2026-11-14T19:49:56Z"
-    },
-    {
       "username": "DrAlexanderClarke",
       "title": "Historiophon 2026 first 36hrs!",
       "game": "Pirates of the Burning Sea",
       "started_at": "2026-11-14T11:59:22Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and playing with wavelets",
+      "game": "Math",
+      "started_at": "2026-11-14T19:49:56Z"
     }
   ]
 }
