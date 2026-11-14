@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-14T22:31:22.522Z",
+  "timestamp": "2026-11-14T22:36:55.923Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,6 +32,12 @@
       "started_at": "2026-11-14T22:24:11Z"
     },
     {
+      "username": "Nerduino",
+      "title": "Nov 14, 2026 at 2:22PM",
+      "game": "Special Events",
+      "started_at": "2026-11-14T22:22:38Z"
+    },
+    {
       "username": "DonFactorial",
       "title": "Answering your math questions and playing with wavelets",
       "game": "Math",
@@ -42,12 +48,6 @@
       "title": "Historiophon 2026 first 36hrs!",
       "game": "Pirates of the Burning Sea",
       "started_at": "2026-11-14T11:59:22Z"
-    },
-    {
-      "username": "Nerduino",
-      "title": "Nov 14, 2026 at 2:22PM",
-      "game": "Special Events",
-      "started_at": "2026-11-14T22:22:38Z"
     }
   ]
 }
