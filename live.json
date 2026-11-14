@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-14T21:12:43.617Z",
+  "timestamp": "2026-11-14T21:18:45.715Z",
   "live": [
     {
       "username": "EJ_SA",
@@ -32,12 +32,6 @@
       "started_at": "2026-11-14T10:03:43Z"
     },
     {
-      "username": "DrAlexanderClarke",
-      "title": "Historiophon 2026 first 36hrs!",
-      "game": "Pirates of the Burning Sea",
-      "started_at": "2026-11-14T11:59:22Z"
-    },
-    {
       "username": "DonFactorial",
       "title": "Answering your math questions and playing with wavelets",
       "game": "Math",
@@ -48,6 +42,12 @@
       "title": "[drops] IAE 2956 - Taking On the RSI Galaxy!",
       "game": "Star Citizen",
       "started_at": "2026-11-14T19:01:41Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "Historiophon 2026 first 36hrs!",
+      "game": "Pirates of the Burning Sea",
+      "started_at": "2026-11-14T11:59:22Z"
     }
   ]
 }
