@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-15T19:30:39.753Z",
+  "timestamp": "2026-11-15T19:36:26.049Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,12 +20,6 @@
       "started_at": "2026-11-15T10:04:31Z"
     },
     {
-      "username": "SciAnts_Streams",
-      "title": "SciAnts ar TwitchCon! Final day! | Live from Twitch Con SD 26 | Partner+ 112/300 | !ppp !yt !pod !tc26",
-      "game": "IRL",
-      "started_at": "2026-11-15T18:22:50Z"
-    },
-    {
       "username": "Rocketology",
       "title": "[drops] IAE 2956 - Anvil Day Running Recco Battaglia Missions",
       "game": "Star Citizen",
@@ -42,6 +36,12 @@
       "title": "Historiophon 2026 first 36hrs!",
       "game": "Ultimate Admiral: Dreadnoughts",
       "started_at": "2026-11-15T09:28:29Z"
+    },
+    {
+      "username": "ArchitectureTV",
+      "title": "TORONTO modern & historic buildings",
+      "game": "IRL",
+      "started_at": "2026-11-15T19:35:21Z"
     }
   ]
 }
