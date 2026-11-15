@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-15T19:13:16.067Z",
+  "timestamp": "2026-11-15T19:19:21.138Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,22 +32,16 @@
       "started_at": "2026-11-15T17:57:57Z"
     },
     {
-      "username": "SharkG33k",
-      "title": "Shark Diver Infiltrates TwitchCon! 🦈",
-      "game": "IRL",
-      "started_at": "2026-11-15T18:30:19Z"
-    },
-    {
       "username": "DrAlexanderClarke",
       "title": "Historiophon 2026 first 36hrs!",
       "game": "Ultimate Admiral: Dreadnoughts",
       "started_at": "2026-11-15T09:28:29Z"
     },
     {
-      "username": "nogre0",
-      "title": "philosophy",
-      "game": "Writing & Reading",
-      "started_at": "2026-11-15T17:19:17Z"
+      "username": "SharkG33k",
+      "title": "Shark Diver Infiltrates TwitchCon! 🦈",
+      "game": "IRL",
+      "started_at": "2026-11-15T18:30:19Z"
     }
   ]
 }
