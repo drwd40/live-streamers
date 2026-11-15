@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-15T16:57:39.006Z",
+  "timestamp": "2026-11-15T17:06:22.611Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -44,16 +44,16 @@
       "started_at": "2026-11-15T09:28:29Z"
     },
     {
-      "username": "sciencestreams",
-      "title": "The Oldest Animals | The Ocean Carbon Sink | Planimal | - Microscopy!",
-      "game": "Just Chatting",
-      "started_at": "2026-11-15T15:52:22Z"
-    },
-    {
       "username": "nogre0",
       "title": "philosophy",
       "game": "Just Chatting",
       "started_at": "2026-11-15T16:38:52Z"
+    },
+    {
+      "username": "sciencestreams",
+      "title": "The Oldest Animals | The Ocean Carbon Sink | Planimal | - Microscopy!",
+      "game": "Just Chatting",
+      "started_at": "2026-11-15T15:52:22Z"
     }
   ]
 }
