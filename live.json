@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-16T19:00:01.945Z",
+  "timestamp": "2026-11-16T19:10:31.629Z",
   "live": [
     {
       "username": "Maya",
@@ -9,8 +9,8 @@
     },
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
-      "game": "Animals, Aquariums, and Zoos",
+      "title": "Animal Care Chats | !alveus !institute !pixel !schedule !video",
+      "game": "Just Chatting",
       "started_at": "2026-11-15T14:38:30Z"
     },
     {
@@ -30,6 +30,12 @@
       "title": "Historiophon 2026 HMCS Haida",
       "game": "Just Chatting",
       "started_at": "2026-11-16T13:00:07Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Software Development: Building Quiz Show Software (No LLMs/Node.js/Phaser/HTML/CSS)",
+      "game": "Software and Game Development",
+      "started_at": "2026-11-16T19:02:15Z"
     }
   ]
 }
