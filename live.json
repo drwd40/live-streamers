@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-16T12:59:25.666Z",
+  "timestamp": "2026-11-16T13:30:03.295Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "happy to be here :)",
       "game": "Just Chatting",
       "started_at": "2026-11-16T10:02:49Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "Historiophon 2026 HMCS Haida",
+      "game": "Just Chatting",
+      "started_at": "2026-11-16T13:00:07Z"
     }
   ]
 }
