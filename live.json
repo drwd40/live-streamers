@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-16T21:19:06.769Z",
+  "timestamp": "2026-11-16T21:24:48.621Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-11-16T10:02:49Z"
     },
     {
-      "username": "DrAlexanderClarke",
-      "title": "Historiophon 2026 HMCS Haida",
-      "game": "Just Chatting",
-      "started_at": "2026-11-16T13:00:07Z"
-    },
-    {
       "username": "eToThe2iPi",
       "title": "Software Development: Building Quiz Show Software (No LLMs/Node.js/Phaser/HTML/CSS)",
       "game": "Software and Game Development",
       "started_at": "2026-11-16T19:02:15Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "Historiophon 2026 HMCS Haida",
+      "game": "Just Chatting",
+      "started_at": "2026-11-16T13:00:07Z"
     }
   ]
 }
