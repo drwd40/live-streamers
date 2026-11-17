@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-17T20:42:22.743Z",
+  "timestamp": "2026-11-17T20:48:00.365Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,10 +26,10 @@
       "started_at": "2026-11-17T10:03:19Z"
     },
     {
-      "username": "DrAlexanderClarke",
-      "title": "Historiophon 2026 Fly Navy Heritage Trust",
-      "game": "Just Chatting",
-      "started_at": "2026-11-17T19:05:17Z"
+      "username": "Paleontologizing",
+      "title": "What we learned at SVP 🦕🦴⛏🤝🏽 Our 1st livestreams from the Society of Vertebrate Paleontology meeting 💪🏽 w/ paleontologist Danny Anduza",
+      "game": "Science & Technology",
+      "started_at": "2026-11-17T20:43:34Z"
     },
     {
       "username": "SydHeresy",
@@ -38,22 +38,28 @@
       "started_at": "2026-11-17T19:00:33Z"
     },
     {
+      "username": "DrAlexanderClarke",
+      "title": "Historiophon 2026 Fly Navy Heritage Trust",
+      "game": "Just Chatting",
+      "started_at": "2026-11-17T19:05:17Z"
+    },
+    {
       "username": "vul100",
       "title": "Tuesday Nov. 17 @ 2:30pm EST: More Jack Binns! A stock market crash, a future president, and the powers of wireless",
       "game": "Science & Technology",
       "started_at": "2026-11-17T19:29:55Z"
     },
     {
-      "username": "pencenter",
-      "title": "First topology class with PEAR! [!fish🎣|!commands💻]",
-      "game": "Math",
-      "started_at": "2026-11-17T19:57:28Z"
-    },
-    {
       "username": "Rocketology",
       "title": "[drops] IAE 2956 - Drake Day - Marauder First Look and Test",
       "game": "Star Citizen",
       "started_at": "2026-11-17T20:37:51Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "First topology class with PEAR! [!fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-11-17T19:57:28Z"
     },
     {
       "username": "xTalkProgrammer",
