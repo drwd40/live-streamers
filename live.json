@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-17T19:58:13.177Z",
+  "timestamp": "2026-11-17T20:10:51.743Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,16 +38,22 @@
       "started_at": "2026-11-17T19:00:33Z"
     },
     {
+      "username": "pencenter",
+      "title": "First topology class with PEAR! [!fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-11-17T19:57:28Z"
+    },
+    {
       "username": "vul100",
       "title": "Tuesday Nov. 17 @ 2:30pm EST: More Jack Binns! A stock market crash, a future president, and the powers of wireless",
       "game": "Science & Technology",
       "started_at": "2026-11-17T19:29:55Z"
     },
     {
-      "username": "pencenter",
-      "title": "First topology class with PEAR! [!fish🎣|!commands💻]",
-      "game": "Math",
-      "started_at": "2026-11-17T19:57:28Z"
+      "username": "xTalkProgrammer",
+      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
+      "game": "Just Chatting",
+      "started_at": "2026-11-17T20:01:10Z"
     }
   ]
 }
