@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-17T19:52:44.489Z",
+  "timestamp": "2026-11-17T19:58:13.177Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -42,6 +42,12 @@
       "title": "Tuesday Nov. 17 @ 2:30pm EST: More Jack Binns! A stock market crash, a future president, and the powers of wireless",
       "game": "Science & Technology",
       "started_at": "2026-11-17T19:29:55Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "First topology class with PEAR! [!fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-11-17T19:57:28Z"
     }
   ]
 }
