@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-17T18:07:57.213Z",
+  "timestamp": "2026-11-17T18:18:04.001Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-11-17T10:03:19Z"
     },
     {
-      "username": "DrAlexanderClarke",
-      "title": "Historiophon 2026 Fly Navy Heritage Trust",
-      "game": "Just Chatting",
-      "started_at": "2026-11-17T13:00:42Z"
-    },
-    {
       "username": "IrishJohnGames",
       "title": "🍀 RTS Major Update coming soon™!  | !category !jj | !rop !patreon !discord",
       "game": "Software and Game Development",
       "started_at": "2026-11-17T17:59:56Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "Historiophon 2026 Fly Navy Heritage Trust",
+      "game": "Just Chatting",
+      "started_at": "2026-11-17T13:00:42Z"
     }
   ]
 }
