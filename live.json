@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-17T22:38:56.578Z",
+  "timestamp": "2026-11-17T22:44:33.528Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-11-17T10:03:19Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Let's Get Our Electronics ON!!!",
-      "game": "Just Chatting",
-      "started_at": "2026-11-17T19:00:33Z"
-    },
-    {
       "username": "Rocketology",
       "title": "[drops] IAE 2956 - Drake Day - Marauder First Look and Test",
       "game": "Star Citizen",
       "started_at": "2026-11-17T20:37:51Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Let's Get Our Electronics ON!!!",
+      "game": "Science & Technology",
+      "started_at": "2026-11-17T19:00:33Z"
     },
     {
       "username": "DrAlexanderClarke",
