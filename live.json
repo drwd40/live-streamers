@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-18T02:30:00.309Z",
+  "timestamp": "2026-11-18T02:36:34.281Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -60,6 +60,12 @@
       "title": "Back to the Monorail! Loops 30-? Rivage, Night 05 - 20261117",
       "game": "Rivage",
       "started_at": "2026-11-17T22:10:08Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "K-12 Tuesday. A K-12 makes an obscenely wrong headed statement. This episode is dedicated to rebuking him and his mother who OK'd it.",
+      "game": "Science & Technology",
+      "started_at": "2026-11-18T02:32:58Z"
     }
   ]
 }
