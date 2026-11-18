@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-18T22:50:38.305Z",
+  "timestamp": "2026-11-18T22:56:10.919Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -42,6 +42,12 @@
       "title": "Math Requests Open! Doing Partial Differential Equations:",
       "game": "Math",
       "started_at": "2026-11-18T22:01:00Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "failing the chemistry test [day 3]",
+      "game": "The Message From Deep Space",
+      "started_at": "2026-11-18T22:51:21Z"
     }
   ]
 }
