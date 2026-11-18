@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-18T03:29:47.421Z",
+  "timestamp": "2026-11-18T03:36:30.958Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -44,16 +44,16 @@
       "started_at": "2026-11-17T23:50:45Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Let's Get Our Electronics ON!!!",
-      "game": "Science & Technology",
-      "started_at": "2026-11-17T19:00:33Z"
-    },
-    {
       "username": "SharkG33k",
       "title": "TwitchCon Recap!🦈 | !GWS",
       "game": "Just Chatting",
       "started_at": "2026-11-18T01:10:58Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Let's Get Our Electronics ON!!!",
+      "game": "Science & Technology",
+      "started_at": "2026-11-17T19:00:33Z"
     },
     {
       "username": "walkingsticklibrary",
