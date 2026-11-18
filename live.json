@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-18T01:57:55.728Z",
+  "timestamp": "2026-11-18T02:13:47.154Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,22 +32,10 @@
       "started_at": "2026-11-17T23:50:45Z"
     },
     {
-      "username": "shnaff",
-      "title": "Chill guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-11-17T23:03:36Z"
-    },
-    {
-      "username": "Zachap",
-      "title": "far left political philosophy/theory and news and history with a tiny wow horde pvp druid on the side",
+      "username": "SciAnts_Streams",
+      "title": "Twitch Con SD 26 Recap! | Partner+ 153/300 | !ppp !yt !pod !tc26",
       "game": "Just Chatting",
-      "started_at": "2026-11-17T10:03:19Z"
-    },
-    {
-      "username": "SharkG33k",
-      "title": "TwitchCon Recap!🦈 | !GWS",
-      "game": "Just Chatting",
-      "started_at": "2026-11-18T01:10:58Z"
+      "started_at": "2026-11-18T02:01:49Z"
     },
     {
       "username": "SydHeresy",
@@ -56,16 +44,22 @@
       "started_at": "2026-11-17T19:00:33Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "Back to the Monorail! Loops 30-? Rivage, Night 05 - 20261117",
-      "game": "Rivage",
-      "started_at": "2026-11-17T22:10:08Z"
-    },
-    {
       "username": "Nerduino",
       "title": "TwitchCon recap 💕.  🚀Space and Science News! 🚀PhD Astronomer and former NASA guy.",
       "game": "Science & Technology",
       "started_at": "2026-11-18T01:56:39Z"
+    },
+    {
+      "username": "SharkG33k",
+      "title": "TwitchCon Recap!🦈 | !GWS",
+      "game": "Just Chatting",
+      "started_at": "2026-11-18T01:10:58Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Back to the Monorail! Loops 30-? Rivage, Night 05 - 20261117",
+      "game": "Rivage",
+      "started_at": "2026-11-17T22:10:08Z"
     }
   ]
 }
