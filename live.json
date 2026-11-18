@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-18T23:18:18.965Z",
+  "timestamp": "2026-11-18T23:23:53.722Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,6 +14,12 @@
       "started_at": "2026-11-18T22:59:53Z"
     },
     {
+      "username": "EJ_SA",
+      "title": "testing new setup.",
+      "game": "Just Chatting",
+      "started_at": "2026-11-18T23:10:01Z"
+    },
+    {
       "username": "Paleontologizing",
       "title": "🚫 No, a \"pterodactyl\" was not filmed flying over Mexico 🚫 Talkin' pterosaurs, extinction, conservation (w/ paleontologist Danny Anduza)",
       "game": "Science & Technology",
@@ -24,12 +30,6 @@
       "title": "🔥 HAKEEM JEFFRIES WINS HOUSE DEMOCRATS' NOMINATION FOR SPEAKER 251-11 🔥",
       "game": "Just Chatting",
       "started_at": "2026-11-18T22:19:44Z"
-    },
-    {
-      "username": "EJ_SA",
-      "title": "testing new setup.",
-      "game": "Just Chatting",
-      "started_at": "2026-11-18T23:10:01Z"
     },
     {
       "username": "DrMick",
