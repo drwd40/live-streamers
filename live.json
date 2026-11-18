@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-18T15:00:53.818Z",
+  "timestamp": "2026-11-18T15:11:50.364Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -24,6 +24,12 @@
       "title": "Japan Falls for Combat Stress: Historiophon 2026 day 3 with @gariusthebrit, @killerbin & @brothermonroe",
       "game": "Hearts of Iron IV",
       "started_at": "2026-11-18T13:16:24Z"
+    },
+    {
+      "username": "csharpfritz",
+      "title": "Introducing VELO with Growth Acceleration Partners",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2026-11-18T15:02:28Z"
     }
   ]
 }
