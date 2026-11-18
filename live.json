@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-18T23:41:55.280Z",
+  "timestamp": "2026-11-18T23:47:37.942Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -50,16 +50,16 @@
       "started_at": "2026-11-18T13:16:24Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "failing the chemistry test [day 3]",
-      "game": "The Message From Deep Space",
-      "started_at": "2026-11-18T22:51:21Z"
-    },
-    {
       "username": "nSimplexPachinko",
       "title": "Math Requests Open! Doing Partial Differential Equations:",
       "game": "Math",
       "started_at": "2026-11-18T22:01:00Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "failing the chemistry test [day 3]",
+      "game": "The Message From Deep Space",
+      "started_at": "2026-11-18T22:51:21Z"
     }
   ]
 }
