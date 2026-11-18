@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-18T15:17:30.528Z",
+  "timestamp": "2026-11-18T15:23:12.382Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-11-18T10:04:04Z"
     },
     {
-      "username": "Nerduino",
-      "title": "🍵Coffee with Nerduino!  🚀Space and Science News! 🚀PhD Astronomer and former NASA guy.",
-      "game": "Just Chatting",
-      "started_at": "2026-11-18T13:55:38Z"
-    },
-    {
       "username": "csharpfritz",
       "title": "Introducing VELO with Growth Acceleration Partners",
       "game": "Talk Shows & Podcasts",
       "started_at": "2026-11-18T15:02:28Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "🍵Coffee with Nerduino!  🚀Space and Science News! 🚀PhD Astronomer and former NASA guy.",
+      "game": "Just Chatting",
+      "started_at": "2026-11-18T13:55:38Z"
     },
     {
       "username": "DrAlexanderClarke",
