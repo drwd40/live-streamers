@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-18T23:12:25.981Z",
+  "timestamp": "2026-11-18T23:18:18.965Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-11-18T22:19:44Z"
     },
     {
-      "username": "DrMick",
-      "title": "Therapist Plays Ocarina of Time: Part 2",
-      "game": "The Legend of Zelda: Ocarina of Time",
-      "started_at": "2026-11-18T22:13:06Z"
-    },
-    {
       "username": "EJ_SA",
       "title": "testing new setup.",
       "game": "Just Chatting",
       "started_at": "2026-11-18T23:10:01Z"
+    },
+    {
+      "username": "DrMick",
+      "title": "Therapist Plays Ocarina of Time: Part 2",
+      "game": "The Legend of Zelda: Ocarina of Time",
+      "started_at": "2026-11-18T22:13:06Z"
     },
     {
       "username": "Zachap",
