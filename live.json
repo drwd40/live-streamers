@@ -1,12 +1,6 @@
 {
-  "timestamp": "2026-11-19T21:08:55.154Z",
+  "timestamp": "2026-11-19T21:14:44.616Z",
   "live": [
-    {
-      "username": "Kitboga",
-      "title": "Calling Scammers [Ep. 1559]",
-      "game": "Just Chatting",
-      "started_at": "2026-11-19T19:19:10Z"
-    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
@@ -44,6 +38,12 @@
       "started_at": "2026-11-19T10:01:23Z"
     },
     {
+      "username": "Paleontologizing",
+      "title": "🆕🦕💥 NEW DINOSAUR 💥🦕🆕 Welcome Nyana rooiwalensis, plus duckbill beak weirdness and fossil science Q&A (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-11-19T21:05:15Z"
+    },
+    {
       "username": "SydHeresy",
       "title": "The Electronic Version Of GTA - Soldering - KiCAD - Synthesizers",
       "game": "Science & Technology",
@@ -54,12 +54,6 @@
       "title": "Taking UAD Design Requests Historiophon 2026",
       "game": "Ultimate Admiral: Dreadnoughts",
       "started_at": "2026-11-19T12:59:48Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "🆕🦕💥 NEW DINOSAUR 💥🦕🆕 Welcome Nyana rooiwalensis, plus duckbill beak weirdness and fossil science Q&A (w/ paleontologist Danny Anduza)",
-      "game": "Science & Technology",
-      "started_at": "2026-11-19T21:05:15Z"
     }
   ]
 }
