@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-19T18:30:25.946Z",
+  "timestamp": "2026-11-19T18:36:52.940Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "Historiophon 2026 Continues Day 6 of 9",
       "game": "Just Chatting",
       "started_at": "2026-11-19T12:59:48Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀 RTS Major Update coming soon™!  | !category !jj | !rop !patreon !discord",
+      "game": "Software and Game Development",
+      "started_at": "2026-11-19T18:30:51Z"
     }
   ]
 }
