@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-19T22:28:22.379Z",
+  "timestamp": "2026-11-19T22:35:12.672Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -42,6 +42,12 @@
       "title": "Taking UAD Design Requests Historiophon 2026",
       "game": "Ultimate Admiral: Dreadnoughts",
       "started_at": "2026-11-19T12:59:48Z"
+    },
+    {
+      "username": "SETIInstitute",
+      "title": "SETI Live: Technosignature Survey Of The Anti-Solar Point",
+      "game": "Talk Shows & Podcasts",
+      "started_at": "2026-11-19T22:30:54Z"
     }
   ]
 }
