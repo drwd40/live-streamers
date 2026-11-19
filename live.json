@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-19T01:51:29.713Z",
+  "timestamp": "2026-11-19T01:57:10.289Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,16 @@
       "started_at": "2026-11-19T01:02:14Z"
     },
     {
-      "username": "Ask_a_Scientist_Gaming",
-      "title": "Drs. Hanson/DePrince- Graduate school admissions, and Split Fiction.",
-      "game": "Science & Technology",
-      "started_at": "2026-11-19T00:56:31Z"
-    },
-    {
       "username": "nogre0",
       "title": "philosophy. if were easy, everyone would do it.",
       "game": "Writing & Reading",
       "started_at": "2026-11-19T01:00:08Z"
+    },
+    {
+      "username": "Ask_a_Scientist_Gaming",
+      "title": "Drs. Hanson/DePrince- Graduate school admissions, and Split Fiction.",
+      "game": "Science & Technology",
+      "started_at": "2026-11-19T00:56:31Z"
     },
     {
       "username": "DonFactorial",
