@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-11-19T19:57:00.250Z",
+  "timestamp": "2026-11-19T20:06:43.886Z",
   "live": [
-    {
-      "username": "AlveusSanctuary",
-      "title": "Projects w/ FAID | !alveus !institute !pixel !schedule !video",
-      "game": "Just Chatting",
-      "started_at": "2026-11-19T14:10:21Z"
-    },
     {
       "username": "Kitboga",
       "title": "Calling Scammers [Ep. 1559]",
       "game": "Just Chatting",
       "started_at": "2026-11-19T19:19:10Z"
+    },
+    {
+      "username": "AlveusSanctuary",
+      "title": "Projects w/ FAID | !alveus !institute !pixel !schedule !video",
+      "game": "Just Chatting",
+      "started_at": "2026-11-19T14:10:21Z"
     },
     {
       "username": "EJ_SA",
@@ -44,6 +44,12 @@
       "started_at": "2026-11-19T18:30:51Z"
     },
     {
+      "username": "DrMick",
+      "title": "Mental Health Chat + Painting 40k + KCD2!",
+      "game": "Miniatures & Models",
+      "started_at": "2026-11-19T20:01:58Z"
+    },
+    {
       "username": "SydHeresy",
       "title": "The Electronic Version Of GTA - Soldering - KiCAD - Synthesizers",
       "game": "Science & Technology",
@@ -54,6 +60,12 @@
       "title": "Historiophon 2026 Continues Day 6 of 9",
       "game": "Just Chatting",
       "started_at": "2026-11-19T12:59:48Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "Topology Lesson #2 with Pear [!fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-11-19T19:57:54Z"
     }
   ]
 }
