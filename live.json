@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-19T02:47:26.063Z",
+  "timestamp": "2026-11-19T02:52:52.764Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -44,16 +44,16 @@
       "started_at": "2026-11-19T01:00:08Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "failing the chemistry test [day 3]",
-      "game": "The Message From Deep Space",
-      "started_at": "2026-11-18T22:51:21Z"
-    },
-    {
       "username": "Ask_a_Scientist_Gaming",
       "title": "Drs. Hanson/DePrince- Graduate school admissions, and Split Fiction.",
       "game": "Science & Technology",
       "started_at": "2026-11-19T00:56:31Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "failing the chemistry test [day 3]",
+      "game": "The Message From Deep Space",
+      "started_at": "2026-11-18T22:51:21Z"
     },
     {
       "username": "walkingsticklibrary",
