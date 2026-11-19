@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-19T04:36:00.172Z",
+  "timestamp": "2026-11-19T04:41:48.017Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,16 +38,16 @@
       "started_at": "2026-11-19T01:02:14Z"
     },
     {
-      "username": "walkingsticklibrary",
-      "title": "The Public Transit Fantasy -- Midwest Style, Can China make its own AI chips, What's El Salvador doing in Haiti?",
-      "game": "Science & Technology",
-      "started_at": "2026-11-19T02:31:53Z"
-    },
-    {
       "username": "happyknightmares",
       "title": "Short art stream!✨ Synesthesia art - drawing dental surgery pain",
       "game": "Art",
       "started_at": "2026-11-19T04:29:59Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "The Public Transit Fantasy -- Midwest Style, Can China make its own AI chips, What's El Salvador doing in Haiti?",
+      "game": "Science & Technology",
+      "started_at": "2026-11-19T02:31:53Z"
     }
   ]
 }
