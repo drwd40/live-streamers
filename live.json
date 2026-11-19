@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-19T01:24:25.695Z",
+  "timestamp": "2026-11-19T01:29:54.902Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-11-19T01:13:48Z"
     },
     {
-      "username": "Ask_a_Scientist_Gaming",
-      "title": "Drs. Hanson/DePrince- Graduate school admissions, and Split Fiction.",
-      "game": "Science & Technology",
-      "started_at": "2026-11-19T00:56:31Z"
-    },
-    {
       "username": "SharkG33k",
       "title": "Interview with Shark Photographer Josh Schellenberg | !GWS",
       "game": "Talk Shows & Podcasts",
       "started_at": "2026-11-19T01:02:14Z"
+    },
+    {
+      "username": "Ask_a_Scientist_Gaming",
+      "title": "Drs. Hanson/DePrince- Graduate school admissions, and Split Fiction.",
+      "game": "Science & Technology",
+      "started_at": "2026-11-19T00:56:31Z"
     },
     {
       "username": "DonFactorial",
