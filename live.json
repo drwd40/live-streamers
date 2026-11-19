@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-19T20:58:02.028Z",
+  "timestamp": "2026-11-19T21:08:55.154Z",
   "live": [
     {
       "username": "Kitboga",
@@ -26,18 +26,6 @@
       "started_at": "2026-11-19T17:48:07Z"
     },
     {
-      "username": "IrishJohnGames",
-      "title": "🍀 RTS Major Update coming soon™!  | !category !jj | !rop !patreon !discord",
-      "game": "Software and Game Development",
-      "started_at": "2026-11-19T18:30:51Z"
-    },
-    {
-      "username": "Zachap",
-      "title": "make the world make sense roflmao good luck",
-      "game": "Just Chatting",
-      "started_at": "2026-11-19T10:01:23Z"
-    },
-    {
       "username": "DrMick",
       "title": "Mental Health Chat + Painting 40k + KCD2!",
       "game": "Miniatures & Models",
@@ -48,6 +36,12 @@
       "title": "Eurorack: making a scope so we can see our wiggling voltages.",
       "game": "Science & Technology",
       "started_at": "2026-11-19T17:22:45Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "make the world make sense roflmao good luck",
+      "game": "Just Chatting",
+      "started_at": "2026-11-19T10:01:23Z"
     },
     {
       "username": "SydHeresy",
@@ -62,10 +56,10 @@
       "started_at": "2026-11-19T12:59:48Z"
     },
     {
-      "username": "pencenter",
-      "title": "Topology Lesson #2 with Pear [!fish🎣|!commands💻]",
-      "game": "Math",
-      "started_at": "2026-11-19T19:57:54Z"
+      "username": "Paleontologizing",
+      "title": "🆕🦕💥 NEW DINOSAUR 💥🦕🆕 Welcome Nyana rooiwalensis, plus duckbill beak weirdness and fossil science Q&A (w/ paleontologist Danny Anduza)",
+      "game": "Science & Technology",
+      "started_at": "2026-11-19T21:05:15Z"
     }
   ]
 }
