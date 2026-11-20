@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-11-20T18:26:12.618Z",
+  "timestamp": "2026-11-20T18:32:45.578Z",
   "live": [
     {
       "username": "Maya",
       "title": "GTA JURY👩‍⚖️REVIEWING UNETHICAL ACTIVITIES‼️",
-      "game": "Just Chatting",
+      "game": "Grand Theft Auto VI",
       "started_at": "2026-11-20T16:35:42Z"
     },
     {
@@ -36,6 +36,12 @@
       "title": "Eurorack: I have to get this screen working MY REPUTATION IS ON THE LINE.",
       "game": "Science & Technology",
       "started_at": "2026-11-20T16:48:38Z"
+    },
+    {
+      "username": "DrAlexanderClarke",
+      "title": "Historiophon 2026 - Day 7 of 9, will I reach 2000 Naval questions asked & answered?",
+      "game": "Just Chatting",
+      "started_at": "2026-11-20T18:28:24Z"
     }
   ]
 }
