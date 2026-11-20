@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-20T19:16:38.039Z",
+  "timestamp": "2026-11-20T19:23:12.239Z",
   "live": [
     {
       "username": "Maya",
@@ -42,6 +42,12 @@
       "title": "Historiophon 2026 - Day 7 of 9, will I reach 2000 Naval questions asked & answered?",
       "game": "Just Chatting",
       "started_at": "2026-11-20T18:28:24Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "[drops] IAE 2956 - Galaxy Interstellar Hauling",
+      "game": "Star Citizen",
+      "started_at": "2026-11-20T19:18:20Z"
     }
   ]
 }
