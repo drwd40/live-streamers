@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-20T19:58:24.357Z",
+  "timestamp": "2026-11-20T20:10:51.056Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -42,6 +42,12 @@
       "title": "[drops] IAE 2956 - Galaxy Interstellar Hauling",
       "game": "Star Citizen",
       "started_at": "2026-11-20T19:18:20Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Battle royale until I remember I'm bad",
+      "game": "DayZ",
+      "started_at": "2026-11-20T19:59:50Z"
     }
   ]
 }
