@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-20T02:27:40.589Z",
+  "timestamp": "2026-11-20T02:34:32.925Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,12 +26,6 @@
       "started_at": "2026-11-20T01:55:59Z"
     },
     {
-      "username": "shnaff",
-      "title": "Chill guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-11-19T23:02:11Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "The Electronic Version Of GTA - Soldering - KiCAD - Synthesizers",
       "game": "Science & Technology",
@@ -54,6 +48,12 @@
       "title": "Final live-campaign update? Fighting The Prophet; TitansGrave 022; TTRPG Planning - 20261119",
       "game": "Just Chatting",
       "started_at": "2026-11-19T22:36:22Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "What's El Salvador doing in Haiti? Breeding hermit crabs on Instagram, and who is Robert Garcia?",
+      "game": "Science & Technology",
+      "started_at": "2026-11-20T02:31:09Z"
     }
   ]
 }
