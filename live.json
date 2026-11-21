@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-21T21:59:06.370Z",
+  "timestamp": "2026-11-21T22:10:07.833Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,22 +20,16 @@
       "started_at": "2026-11-21T10:03:02Z"
     },
     {
-      "username": "MelissaInDeNile",
-      "title": "HAPPY 6th STREAMAVERSARY!!! 12 hour stream here we come!!! ~ Follower Goal: 2499/2600 ~ !socials !beyonddenile",
-      "game": "Assassin's Creed Origins",
-      "started_at": "2026-11-21T14:50:34Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Electronics - Synthesizers - Chillin' - Q&A",
       "game": "Science & Technology",
       "started_at": "2026-11-21T19:30:49Z"
     },
     {
-      "username": "Rocketology",
-      "title": "[drops] IAE 2956 - Alien Ship Day! Checking Out the Gatac Hyun!",
-      "game": "Star Citizen",
-      "started_at": "2026-11-21T19:06:29Z"
+      "username": "MelissaInDeNile",
+      "title": "HAPPY 6th STREAMAVERSARY!!! 12 hour stream here we come!!! ~ Follower Goal: 2499/2600 ~ !socials !beyonddenile",
+      "game": "Assassin's Creed Origins",
+      "started_at": "2026-11-21T14:50:34Z"
     },
     {
       "username": "DrAlexanderClarke",
@@ -44,16 +38,22 @@
       "started_at": "2026-11-21T12:59:15Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "Answering your math questions and studying probability",
-      "game": "Math",
-      "started_at": "2026-11-21T19:57:43Z"
-    },
-    {
       "username": "IrishJohnGames",
       "title": "🍀Bonus Its like GTAVI / VII but with Horses. (RTS Major Update coming soon™)!  | !category !jj | !rop !patreon !discord",
       "game": "Red Dead Redemption II",
       "started_at": "2026-11-21T21:53:40Z"
+    },
+    {
+      "username": "Rocketology",
+      "title": "[drops] IAE 2956 - Alien Ship Day! Checking Out the Gatac Hyun!",
+      "game": "Star Citizen",
+      "started_at": "2026-11-21T19:06:29Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Answering your math questions and studying probability",
+      "game": "Math",
+      "started_at": "2026-11-21T19:57:43Z"
     }
   ]
 }
