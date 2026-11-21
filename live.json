@@ -1,17 +1,11 @@
 {
-  "timestamp": "2026-11-21T22:45:43.585Z",
+  "timestamp": "2026-11-21T22:51:21.115Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-11-21T14:10:23Z"
-    },
-    {
-      "username": "ArchitectureTV",
-      "title": "BRUTAL CANADIAN BUILDINGS 🇨🇦 Brock University Campus Exploration | Modernism, Concrete & Contemporary Architecture",
-      "game": "IRL",
-      "started_at": "2026-11-21T15:45:57Z"
     },
     {
       "username": "Zachap",
@@ -26,16 +20,16 @@
       "started_at": "2026-11-21T14:50:34Z"
     },
     {
-      "username": "IrishJohnGames",
-      "title": "🍀Bonus Its like GTAVI / VII but with Horses. (RTS Major Update coming soon™)!  | !category !jj | !rop !patreon !discord",
-      "game": "Red Dead Redemption II",
-      "started_at": "2026-11-21T21:53:40Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Electronics - Synthesizers - Chillin' - Q&A",
       "game": "Science & Technology",
       "started_at": "2026-11-21T19:30:49Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀Bonus Its like GTAVI / VII but with Horses. (RTS Major Update coming soon™)!  | !category !jj | !rop !patreon !discord",
+      "game": "Red Dead Redemption II",
+      "started_at": "2026-11-21T21:53:40Z"
     },
     {
       "username": "DrAlexanderClarke",
