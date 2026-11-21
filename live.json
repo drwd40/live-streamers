@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-21T17:53:01.534Z",
+  "timestamp": "2026-11-21T17:58:33.571Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -26,16 +26,16 @@
       "started_at": "2026-11-21T14:50:34Z"
     },
     {
-      "username": "eToThe2iPi",
-      "title": "Math/Ed Chat Time!",
-      "game": "Math",
-      "started_at": "2026-11-21T16:57:46Z"
-    },
-    {
       "username": "DrAlexanderClarke",
       "title": "Historiophon 2026 - Final 36hrs... if I eat Donuts, don't judge it's been a long week, I need the sprinkles!",
       "game": "Just Chatting",
       "started_at": "2026-11-21T12:59:15Z"
+    },
+    {
+      "username": "eToThe2iPi",
+      "title": "Math/Ed Chat Time!",
+      "game": "Math",
+      "started_at": "2026-11-21T16:57:46Z"
     }
   ]
 }
