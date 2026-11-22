@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-22T02:59:59.942Z",
+  "timestamp": "2026-11-22T03:14:40.609Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -48,6 +48,12 @@
       "title": "WHAT IS THIS ISLAND🔴1ST PLAYTHROUGH🔴",
       "game": "Clair Obscur: Expedition 33",
       "started_at": "2026-11-22T02:12:45Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "What is darnell? What is Jacob's Ladder? AND using AI to predict earthquakes.",
+      "game": "Science & Technology",
+      "started_at": "2026-11-22T03:02:58Z"
     }
   ]
 }
