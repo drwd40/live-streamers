@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-23T22:55:19.604Z",
+  "timestamp": "2026-11-23T23:01:37.419Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,6 +20,12 @@
       "started_at": "2026-11-23T10:03:37Z"
     },
     {
+      "username": "imreallyimportant",
+      "title": "DNC ANNOUNCES 12 DEBATES AND NEW RULES FOR 2028 CANDIDATES | JENSEN'S BACK AT NVIDIA THANKS TO TRUMP",
+      "game": "Just Chatting",
+      "started_at": "2026-11-23T22:50:03Z"
+    },
+    {
       "username": "DrawCuriosity",
       "title": "💜 GTA 6 Grand TwitchCon Annoucements! 6 RECAPS! + ungodly amounts of Tamagotchi merch (finally recovered from the LURGY)✨🐏!tier2 !tier3",
       "game": "Just Chatting",
@@ -30,12 +36,6 @@
       "title": "New Squad, New Adventure: Five of Us Start WoW Forever | @timoted @alecksanda @alphabytemusic | !sando £56/£1,000",
       "game": "World of Warcraft",
       "started_at": "2026-11-23T19:45:26Z"
-    },
-    {
-      "username": "imreallyimportant",
-      "title": "DNC ANNOUNCES 12 DEBATES AND NEW RULES FOR 2028 CANDIDATES | JENSEN'S BACK AT NVIDIA THANKS TO TRUMP",
-      "game": "Just Chatting",
-      "started_at": "2026-11-23T22:50:03Z"
     }
   ]
 }
