@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-23T21:28:15.584Z",
+  "timestamp": "2026-11-23T21:35:22.514Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-11-23T10:03:37Z"
     },
     {
-      "username": "Andilippi",
-      "title": "New Squad, New Adventure: Five of Us Start WoW Forever | @timoted @alecksanda @alphabytemusic | !sando £56/£1,000",
-      "game": "World of Warcraft",
-      "started_at": "2026-11-23T19:45:26Z"
-    },
-    {
       "username": "DrawCuriosity",
       "title": "💜 TWITCHCON RECAP + ungodly amounts of Tamagotchi merch (30th ANNIVERSARY TODAY!)✨🐏!tier2 !tier3",
       "game": "Just Chatting",
       "started_at": "2026-11-23T21:26:40Z"
+    },
+    {
+      "username": "Andilippi",
+      "title": "New Squad, New Adventure: Five of Us Start WoW Forever | @timoted @alecksanda @alphabytemusic | !sando £56/£1,000",
+      "game": "World of Warcraft",
+      "started_at": "2026-11-23T19:45:26Z"
     }
   ]
 }
