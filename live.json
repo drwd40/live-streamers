@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-24T02:59:59.685Z",
+  "timestamp": "2026-11-24T03:15:48.469Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,12 +20,6 @@
       "started_at": "2026-11-24T02:33:51Z"
     },
     {
-      "username": "DrawCuriosity",
-      "title": "💜TWITCHCON RECAP! + ungodly amounts of Tamagotchi merch (it's their birthdayYY)✨🐏!tier2 !tier3",
-      "game": "Just Chatting",
-      "started_at": "2026-11-23T21:26:40Z"
-    },
-    {
       "username": "SharkG33k",
       "title": "Wow and.... sharks?!🦈 | !GWS",
       "game": "World of Warcraft",
@@ -36,12 +30,6 @@
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Just Chatting",
       "started_at": "2026-11-24T02:32:53Z"
-    },
-    {
-      "username": "walkingsticklibrary",
-      "title": "Microsoft Monday -- Dumb stuff with smart shapes in Excel.",
-      "game": "Science & Technology",
-      "started_at": "2026-11-24T01:32:25Z"
     }
   ]
 }
