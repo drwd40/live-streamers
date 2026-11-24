@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-24T21:59:41.672Z",
+  "timestamp": "2026-11-24T22:10:49.159Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,12 +12,6 @@
       "title": "SPACE NERD PLAYS GTA VI! (PART 7.1) 11/24/26",
       "game": "Grand Theft Auto VI",
       "started_at": "2026-11-24T20:34:44Z"
-    },
-    {
-      "username": "ipaintbirbs",
-      "title": "papercrafting birbs and trying to save the dang planet !planet",
-      "game": "Art",
-      "started_at": "2026-11-24T18:02:49Z"
     },
     {
       "username": "Paleontologizing",
@@ -50,16 +44,16 @@
       "started_at": "2026-11-24T21:35:10Z"
     },
     {
+      "username": "VolcanoDoc",
+      "title": "climate change science | Intro to Earth Science Series | !phd !socials !pubs !merch",
+      "game": "Science & Technology",
+      "started_at": "2026-11-24T21:57:57Z"
+    },
+    {
       "username": "xTalkProgrammer",
       "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
       "game": "Just Chatting",
       "started_at": "2026-11-24T20:25:27Z"
-    },
-    {
-      "username": "VolcanoDoc",
-      "title": "the science behind climate change | Intro to Earth Science Series | !phd !socials !pubs !merch",
-      "game": "Science & Technology",
-      "started_at": "2026-11-24T21:57:57Z"
     }
   ]
 }
