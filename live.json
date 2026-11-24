@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-11-24T20:20:44.451Z",
+  "timestamp": "2026-11-24T20:26:25.264Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Animal Care Chats | !alveus !institute !pixel !schedule !video",
-      "game": "Just Chatting",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
+      "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-11-23T14:10:25Z"
     },
     {
@@ -42,6 +42,12 @@
       "title": "Topology Lesson #3 with Pear [!fish🎣|!commands💻]",
       "game": "Math",
       "started_at": "2026-11-24T19:59:03Z"
+    },
+    {
+      "username": "xTalkProgrammer",
+      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
+      "game": "Just Chatting",
+      "started_at": "2026-11-24T20:25:27Z"
     }
   ]
 }
