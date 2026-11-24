@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-24T20:38:43.950Z",
+  "timestamp": "2026-11-24T20:44:20.974Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,16 +38,16 @@
       "started_at": "2026-11-24T19:00:02Z"
     },
     {
-      "username": "pencenter",
-      "title": "Topology Lesson #3 with Pear [!fish🎣|!commands💻]",
-      "game": "Math",
-      "started_at": "2026-11-24T19:59:03Z"
-    },
-    {
       "username": "xTalkProgrammer",
       "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
       "game": "Just Chatting",
       "started_at": "2026-11-24T20:25:27Z"
+    },
+    {
+      "username": "pencenter",
+      "title": "Topology Lesson #3 with Pear [!fish🎣|!commands💻]",
+      "game": "Math",
+      "started_at": "2026-11-24T19:59:03Z"
     }
   ]
 }
