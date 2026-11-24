@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-24T23:26:52.611Z",
+  "timestamp": "2026-11-24T23:33:06.010Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -44,12 +44,6 @@
       "started_at": "2026-11-24T19:00:02Z"
     },
     {
-      "username": "shnaff",
-      "title": "Chill guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-11-24T23:01:00Z"
-    },
-    {
       "username": "VolcanoDoc",
       "title": "climate change science | Intro to Earth Science Series | !phd !socials !pubs !merch",
       "game": "Science & Technology",
@@ -60,6 +54,12 @@
       "title": "Last Day in the Lab Before Thanksgiving! 🏔️🪨🔬 !discord !nova !tkf",
       "game": "Science & Technology",
       "started_at": "2026-11-24T21:35:10Z"
+    },
+    {
+      "username": "shnaff",
+      "title": "Chill guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-11-24T23:01:00Z"
     },
     {
       "username": "pencenter",
