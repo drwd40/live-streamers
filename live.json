@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-24T20:32:57.940Z",
+  "timestamp": "2026-11-24T20:38:43.950Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,6 +14,12 @@
       "started_at": "2026-11-24T18:02:49Z"
     },
     {
+      "username": "EJ_SA",
+      "title": "SPACE NERD PLAYS GTA VI! (PART 7.1) 11/24/26",
+      "game": "Grand Theft Auto VI",
+      "started_at": "2026-11-24T20:34:44Z"
+    },
+    {
       "username": "SciAnts_Streams",
       "title": "Thank you for 18k followers!! 🌴Grand Theft SciAnts 🌴| Biologist dissects in game science | ✅Drops✅| Partner+ 229/300 | !ppp !yt !pod !tc26",
       "game": "Grand Theft Auto VI",
@@ -26,28 +32,22 @@
       "started_at": "2026-11-24T10:01:31Z"
     },
     {
-      "username": "IrishJohnGames",
-      "title": "🍀Few playtests before release! (RTS Major Update coming soon™)!  | !category !jj | !rop !patreon !discord",
-      "game": "Software and Game Development",
-      "started_at": "2026-11-24T18:00:41Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Tayda Part Are In! Let's Solder! Maybe More KiCAD Later!",
       "game": "Science & Technology",
       "started_at": "2026-11-24T19:00:02Z"
     },
     {
-      "username": "xTalkProgrammer",
-      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
-      "game": "Just Chatting",
-      "started_at": "2026-11-24T20:25:27Z"
-    },
-    {
       "username": "pencenter",
       "title": "Topology Lesson #3 with Pear [!fish🎣|!commands💻]",
       "game": "Math",
       "started_at": "2026-11-24T19:59:03Z"
+    },
+    {
+      "username": "xTalkProgrammer",
+      "title": "Leer Nederlands (NT2) | NL EN DE | !socs !ai !disc !lcbk",
+      "game": "Just Chatting",
+      "started_at": "2026-11-24T20:25:27Z"
     }
   ]
 }
