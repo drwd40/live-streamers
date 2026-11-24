@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-24T18:55:21.631Z",
+  "timestamp": "2026-11-24T19:01:19.137Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "🍀Few playtests before release! (RTS Major Update coming soon™)!  | !category !jj | !rop !patreon !discord",
       "game": "Software and Game Development",
       "started_at": "2026-11-24T18:00:41Z"
+    },
+    {
+      "username": "SydHeresy",
+      "title": "Tayda Part Are In! Let's Solder! Maybe More KiCAD Later!",
+      "game": "Science & Technology",
+      "started_at": "2026-11-24T19:00:02Z"
     }
   ]
 }
