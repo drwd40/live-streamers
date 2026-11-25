@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-11-25T21:00:08.256Z",
+  "timestamp": "2026-11-25T21:12:03.194Z",
   "live": [
     {
       "username": "AlveusSanctuary",
-      "title": "Into the Wild w/ Kayla | !alveus !institute !pixel !schedule !video",
-      "game": "Just Chatting",
+      "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
+      "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-11-25T14:10:28Z"
     },
     {
@@ -26,12 +26,6 @@
       "started_at": "2026-11-25T18:41:51Z"
     },
     {
-      "username": "VolcanoDoc",
-      "title": "climate change science | Intro to Earth Science Series | !phd !socials !pubs !merch",
-      "game": "Science & Technology",
-      "started_at": "2026-11-25T18:07:12Z"
-    },
-    {
       "username": "Zachap",
       "title": "world of anarcho-communism",
       "game": "Just Chatting",
@@ -42,6 +36,12 @@
       "title": "🦖➡🦃 Your turkey's dinosaur origins 🦃 Celebrating an early THEROPODSGIVING (w/ paleontologist Danny Anduza) 🦃 !turkey",
       "game": "Science & Technology",
       "started_at": "2026-11-25T20:55:27Z"
+    },
+    {
+      "username": "VolcanoDoc",
+      "title": "climate change science | Intro to Earth Science Series | !phd !socials !pubs !merch",
+      "game": "Science & Technology",
+      "started_at": "2026-11-25T18:07:12Z"
     }
   ]
 }
