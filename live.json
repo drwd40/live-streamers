@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-25T13:53:54.416Z",
+  "timestamp": "2026-11-25T13:59:23.008Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "world of anarcho-communism",
       "game": "Just Chatting",
       "started_at": "2026-11-25T10:04:28Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Coffee and Scxience with nerduino.  PhD Astronomer and former NASA guy chat science 🛰️🚀🔭",
+      "game": "Science & Technology",
+      "started_at": "2026-11-25T13:57:25Z"
     }
   ]
 }
