@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-25T01:09:19.980Z",
+  "timestamp": "2026-11-25T01:16:44.263Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,16 +8,16 @@
       "started_at": "2026-11-23T14:10:25Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "🦖➡🦃 BIRDS ARE DINOSAURS and here's why 🦃 Pre-Thanksgiving stream on bird origins 🦃 (w/ paleontologist Danny Anduza) !turkey",
-      "game": "Just Chatting",
-      "started_at": "2026-11-24T21:06:52Z"
-    },
-    {
       "username": "EJ_SA",
       "title": "SPACE NERD PLAYS GTA VI! (PART 7.1) 11/24/26",
       "game": "Grand Theft Auto VI",
       "started_at": "2026-11-24T20:34:44Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "🦖➡🦃 BIRDS ARE DINOSAURS and here's why 🦃 Pre-Thanksgiving stream on bird origins 🦃 (w/ paleontologist Danny Anduza) !turkey",
+      "game": "Just Chatting",
+      "started_at": "2026-11-24T21:06:52Z"
     },
     {
       "username": "imreallyimportant",
@@ -38,6 +38,12 @@
       "started_at": "2026-11-24T10:01:31Z"
     },
     {
+      "username": "AstroCanuck",
+      "title": "Astro's Po'Pourri: Hubble Space Telescope LEGO & Learning - Plus Program 2/3 Completed - !subtember T3 Minifig | !drop !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-11-25T01:00:25Z"
+    },
+    {
       "username": "VolcanoDoc",
       "title": "climate change science | Intro to Earth Science Series | !phd !socials !pubs !merch",
       "game": "Science & Technology",
@@ -50,12 +56,6 @@
       "started_at": "2026-11-24T23:01:00Z"
     },
     {
-      "username": "AstroCanuck",
-      "title": "Astro's Po'Pourri: Hubble Space Telescope LEGO & Learning - Plus Program 2/3 Completed - !subtember T3 Minifig | !drop !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-11-25T01:00:25Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Tayda Part Are In! Let's Solder! Maybe More KiCAD Later!",
       "game": "Science & Technology",
@@ -66,6 +66,12 @@
       "title": "Linear Algebra: Equivalent Statements & other items [!fish🎣|!commands💻]",
       "game": "Math",
       "started_at": "2026-11-24T23:01:08Z"
+    },
+    {
+      "username": "Mr_Aejis",
+      "title": "A teacher plays: Kingdom Hearts - 1st-time playthrough",
+      "game": "Kingdom Hearts",
+      "started_at": "2026-11-25T01:11:22Z"
     }
   ]
 }
