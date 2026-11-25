@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-25T23:37:27.198Z",
+  "timestamp": "2026-11-25T23:43:15.906Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-11-25T18:39:25Z"
     },
     {
-      "username": "Paleontologizing",
-      "title": "🦖➡🦃 Your turkey's dinosaur origins 🦃 Celebrating an early THEROPODSGIVING (w/ paleontologist Danny Anduza) 🦃 !turkey",
-      "game": "Science & Technology",
-      "started_at": "2026-11-25T20:55:27Z"
-    },
-    {
       "username": "EJ_SA",
       "title": "SPACE NERD PLAYS GTA VI! (PART 8) 11/25/26",
       "game": "Grand Theft Auto VI",
       "started_at": "2026-11-25T23:13:11Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "🦖➡🦃 Your turkey's dinosaur origins 🦃 Celebrating an early THEROPODSGIVING (w/ paleontologist Danny Anduza) 🦃 !turkey",
+      "game": "Science & Technology",
+      "started_at": "2026-11-25T20:55:27Z"
     },
     {
       "username": "imreallyimportant",
@@ -60,6 +60,12 @@
       "title": "Battle royale, keeping the lobby warm for everyone else",
       "game": "DayZ",
       "started_at": "2026-11-25T21:54:28Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Line Integrals; Cracking the GRE Math Subject Test, Night 051 - 20261125",
+      "game": "Math",
+      "started_at": "2026-11-25T23:37:39Z"
     }
   ]
 }
