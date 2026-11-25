@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-25T02:09:48.264Z",
+  "timestamp": "2026-11-25T02:21:45.253Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,18 +12,6 @@
       "title": "SPACE NERD PLAYS GTA VI! (PART 7.1) 11/24/26",
       "game": "Grand Theft Auto VI",
       "started_at": "2026-11-24T20:34:44Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "🦖➡🦃 BIRDS ARE DINOSAURS and here's why 🦃 Pre-Thanksgiving stream on bird origins 🦃 (w/ paleontologist Danny Anduza) !turkey",
-      "game": "Just Chatting",
-      "started_at": "2026-11-24T21:06:52Z"
-    },
-    {
-      "username": "imreallyimportant",
-      "title": "REPUBLICANS BREAK FROM TRUMP ON NVIDIA | MORE COPE OVER SCHUMER",
-      "game": "Just Chatting",
-      "started_at": "2026-11-24T22:49:59Z"
     },
     {
       "username": "SciAnts_Streams",
@@ -50,28 +38,28 @@
       "started_at": "2026-11-25T01:21:03Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Tayda Part Are In! Let's Solder! Maybe More KiCAD Later!",
-      "game": "Science & Technology",
-      "started_at": "2026-11-24T19:00:02Z"
-    },
-    {
       "username": "Nerduino",
       "title": "📡Tuesday Night Space Science 🚀💕Lego Milky Way Build!! PhD Astronomer and former NASA guy builds the galaxy.",
       "game": "Science & Technology",
       "started_at": "2026-11-25T01:54:39Z"
     },
     {
-      "username": "Mr_Aejis",
-      "title": "A teacher plays: Kingdom Hearts - 1st-time playthrough",
-      "game": "Kingdom Hearts",
-      "started_at": "2026-11-25T01:11:22Z"
+      "username": "SydHeresy",
+      "title": "Tayda Part Are In! Let's Solder! Maybe More KiCAD Later!",
+      "game": "Science & Technology",
+      "started_at": "2026-11-24T19:00:02Z"
     },
     {
       "username": "ActualEducation",
       "title": "FREE Tutoring in Math/Science - Actual Education: Office Hours",
       "game": "Just Chatting",
       "started_at": "2026-11-25T02:00:19Z"
+    },
+    {
+      "username": "Mr_Aejis",
+      "title": "A teacher plays: Kingdom Hearts - 1st-time playthrough",
+      "game": "Kingdom Hearts",
+      "started_at": "2026-11-25T01:11:22Z"
     }
   ]
 }
