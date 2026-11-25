@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-11-25T01:45:36.757Z",
+  "timestamp": "2026-11-25T01:51:12.256Z",
   "live": [
-    {
-      "username": "EJ_SA",
-      "title": "SPACE NERD PLAYS GTA VI! (PART 7.1) 11/24/26",
-      "game": "Grand Theft Auto VI",
-      "started_at": "2026-11-24T20:34:44Z"
-    },
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-11-23T14:10:25Z"
+    },
+    {
+      "username": "EJ_SA",
+      "title": "SPACE NERD PLAYS GTA VI! (PART 7.1) 11/24/26",
+      "game": "Grand Theft Auto VI",
+      "started_at": "2026-11-24T20:34:44Z"
     },
     {
       "username": "Paleontologizing",
@@ -60,12 +60,6 @@
       "title": "Toothday! New shark discoveries and GTA diving later🦈 | !GWS",
       "game": "Science & Technology",
       "started_at": "2026-11-25T01:21:03Z"
-    },
-    {
-      "username": "pencenter",
-      "title": "Linear Algebra: Equivalent Statements & other items [!fish🎣|!commands💻]",
-      "game": "Math",
-      "started_at": "2026-11-24T23:01:08Z"
     },
     {
       "username": "Mr_Aejis",
