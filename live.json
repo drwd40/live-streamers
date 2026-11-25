@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-25T05:26:01.846Z",
+  "timestamp": "2026-11-25T05:32:20.265Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,6 +20,12 @@
       "started_at": "2026-11-25T01:54:39Z"
     },
     {
+      "username": "DrMick",
+      "title": "Heels vs Kraken",
+      "game": "Sports",
+      "started_at": "2026-11-25T05:25:04Z"
+    },
+    {
       "username": "SydHeresy",
       "title": "Tayda Part Are In! Let's Solder! Maybe More KiCAD Later!",
       "game": "Science & Technology",
@@ -30,12 +36,6 @@
       "title": "K-12 Tuesday Q-Day is it for real? The relationship between AI and inflation? Skunks as pets.",
       "game": "Science & Technology",
       "started_at": "2026-11-25T02:29:48Z"
-    },
-    {
-      "username": "DrMick",
-      "title": "Heels vs Kraken",
-      "game": "Sports",
-      "started_at": "2026-11-25T05:25:04Z"
     }
   ]
 }
