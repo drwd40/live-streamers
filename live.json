@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-25T01:51:12.256Z",
+  "timestamp": "2026-11-25T01:56:58.469Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -50,22 +50,28 @@
       "started_at": "2026-11-24T21:57:57Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Tayda Part Are In! Let's Solder! Maybe More KiCAD Later!",
-      "game": "Science & Technology",
-      "started_at": "2026-11-24T19:00:02Z"
-    },
-    {
       "username": "SharkG33k",
       "title": "Toothday! New shark discoveries and GTA diving later🦈 | !GWS",
       "game": "Science & Technology",
       "started_at": "2026-11-25T01:21:03Z"
     },
     {
+      "username": "SydHeresy",
+      "title": "Tayda Part Are In! Let's Solder! Maybe More KiCAD Later!",
+      "game": "Science & Technology",
+      "started_at": "2026-11-24T19:00:02Z"
+    },
+    {
       "username": "Mr_Aejis",
       "title": "A teacher plays: Kingdom Hearts - 1st-time playthrough",
       "game": "Kingdom Hearts",
       "started_at": "2026-11-25T01:11:22Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "📡Tuesday Night Space Science 🚀💕Lego Milky Way Build!! PhD Astronomer and former NASA guy builds the galaxy.",
+      "game": "Science & Technology",
+      "started_at": "2026-11-25T01:54:39Z"
     }
   ]
 }
