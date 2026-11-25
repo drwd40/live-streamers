@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-25T00:06:17.420Z",
+  "timestamp": "2026-11-25T00:36:13.687Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -38,22 +38,22 @@
       "started_at": "2026-11-24T10:01:31Z"
     },
     {
-      "username": "shnaff",
-      "title": "Chill guitar, piano, and singing in !stereo🎧",
-      "game": "Music",
-      "started_at": "2026-11-24T23:01:00Z"
-    },
-    {
       "username": "VolcanoDoc",
       "title": "climate change science | Intro to Earth Science Series | !phd !socials !pubs !merch",
       "game": "Science & Technology",
       "started_at": "2026-11-24T21:57:57Z"
     },
     {
-      "username": "SydHeresy",
-      "title": "Tayda Part Are In! Let's Solder! Maybe More KiCAD Later!",
+      "username": "shnaff",
+      "title": "Chill guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-11-24T23:01:00Z"
+    },
+    {
+      "username": "GeoJim2006",
+      "title": "Last Day in the Lab Before Thanksgiving! 🏔️🪨🔬 !discord !nova !tkf",
       "game": "Science & Technology",
-      "started_at": "2026-11-24T19:00:02Z"
+      "started_at": "2026-11-24T21:35:10Z"
     },
     {
       "username": "pencenter",
@@ -62,10 +62,10 @@
       "started_at": "2026-11-24T23:01:08Z"
     },
     {
-      "username": "GeoJim2006",
-      "title": "Last Day in the Lab Before Thanksgiving! 🏔️🪨🔬 !discord !nova !tkf",
+      "username": "SydHeresy",
+      "title": "Tayda Part Are In! Let's Solder! Maybe More KiCAD Later!",
       "game": "Science & Technology",
-      "started_at": "2026-11-24T21:35:10Z"
+      "started_at": "2026-11-24T19:00:02Z"
     }
   ]
 }
