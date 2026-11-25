@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-25T21:53:08.887Z",
+  "timestamp": "2026-11-25T21:58:47.071Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "IRL Shark Diver Goes Shark Diving in GTA VI 🦈 | !GWS",
       "game": "Grand Theft Auto VI",
       "started_at": "2026-11-25T21:30:16Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "Battle royale, keeping the lobby warm for everyone else",
+      "game": "DayZ",
+      "started_at": "2026-11-25T21:54:28Z"
     }
   ]
 }
