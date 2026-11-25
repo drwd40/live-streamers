@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-24T23:55:30.102Z",
+  "timestamp": "2026-11-25T00:06:17.420Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -56,16 +56,16 @@
       "started_at": "2026-11-24T19:00:02Z"
     },
     {
-      "username": "GeoJim2006",
-      "title": "Last Day in the Lab Before Thanksgiving! 🏔️🪨🔬 !discord !nova !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-11-24T21:35:10Z"
-    },
-    {
       "username": "pencenter",
       "title": "Linear Algebra: Equivalent Statements & other items [!fish🎣|!commands💻]",
       "game": "Math",
       "started_at": "2026-11-24T23:01:08Z"
+    },
+    {
+      "username": "GeoJim2006",
+      "title": "Last Day in the Lab Before Thanksgiving! 🏔️🪨🔬 !discord !nova !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-11-24T21:35:10Z"
     }
   ]
 }
