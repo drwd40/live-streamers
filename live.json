@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-25T21:12:03.194Z",
+  "timestamp": "2026-11-25T21:17:45.557Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,6 +20,12 @@
       "started_at": "2026-11-25T18:39:25Z"
     },
     {
+      "username": "Paleontologizing",
+      "title": "🦖➡🦃 Your turkey's dinosaur origins 🦃 Celebrating an early THEROPODSGIVING (w/ paleontologist Danny Anduza) 🦃 !turkey",
+      "game": "Science & Technology",
+      "started_at": "2026-11-25T20:55:27Z"
+    },
+    {
       "username": "IrishJohnGames",
       "title": "🍀Few playtests before release! (RTS Major Update coming soon™)!  | !category !jj | !rop !patreon !discord",
       "game": "Software and Game Development",
@@ -30,12 +36,6 @@
       "title": "world of anarcho-communism",
       "game": "Just Chatting",
       "started_at": "2026-11-25T10:04:28Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "🦖➡🦃 Your turkey's dinosaur origins 🦃 Celebrating an early THEROPODSGIVING (w/ paleontologist Danny Anduza) 🦃 !turkey",
-      "game": "Science & Technology",
-      "started_at": "2026-11-25T20:55:27Z"
     },
     {
       "username": "VolcanoDoc",
