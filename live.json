@@ -1,12 +1,6 @@
 {
-  "timestamp": "2026-11-25T20:48:47.167Z",
+  "timestamp": "2026-11-25T20:54:26.396Z",
   "live": [
-    {
-      "username": "Kitboga",
-      "title": "Calling Scammers [Ep. 1560]",
-      "game": "Just Chatting",
-      "started_at": "2026-11-25T17:29:07Z"
-    },
     {
       "username": "AlveusSanctuary",
       "title": "Into the Wild w/ Kayla | !alveus !institute !pixel !schedule !video",
@@ -26,10 +20,10 @@
       "started_at": "2026-11-25T18:39:25Z"
     },
     {
-      "username": "VolcanoDoc",
-      "title": "climate change science | Intro to Earth Science Series | !phd !socials !pubs !merch",
-      "game": "Science & Technology",
-      "started_at": "2026-11-25T18:07:12Z"
+      "username": "IrishJohnGames",
+      "title": "🍀Few playtests before release! (RTS Major Update coming soon™)!  | !category !jj | !rop !patreon !discord",
+      "game": "Software and Game Development",
+      "started_at": "2026-11-25T18:41:51Z"
     },
     {
       "username": "Zachap",
@@ -38,10 +32,10 @@
       "started_at": "2026-11-25T10:04:28Z"
     },
     {
-      "username": "IrishJohnGames",
-      "title": "🍀Few playtests before release! (RTS Major Update coming soon™)!  | !category !jj | !rop !patreon !discord",
-      "game": "Software and Game Development",
-      "started_at": "2026-11-25T18:41:51Z"
+      "username": "VolcanoDoc",
+      "title": "climate change science | Intro to Earth Science Series | !phd !socials !pubs !merch",
+      "game": "Science & Technology",
+      "started_at": "2026-11-25T18:07:12Z"
     }
   ]
 }
