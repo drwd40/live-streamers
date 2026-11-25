@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-25T16:16:12.974Z",
+  "timestamp": "2026-11-25T16:26:30.896Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-11-25T10:04:28Z"
     },
     {
-      "username": "Nerduino",
-      "title": "Coffee and Science with nerduino.  PhD Astronomer and former NASA guy chat science 🛰️🚀🔭",
-      "game": "Science & Technology",
-      "started_at": "2026-11-25T13:57:25Z"
-    },
-    {
       "username": "TinyToxicTofu",
       "title": "⚡TOFU MIDWEEK STREAM? Building Portal Turret and Researching Mr. Faraday⚡#ad !operagx",
       "game": "Science & Technology",
       "started_at": "2026-11-25T16:15:28Z"
+    },
+    {
+      "username": "Nerduino",
+      "title": "Coffee and Science with nerduino.  PhD Astronomer and former NASA guy chat science 🛰️🚀🔭",
+      "game": "Science & Technology",
+      "started_at": "2026-11-25T13:57:25Z"
     }
   ]
 }
