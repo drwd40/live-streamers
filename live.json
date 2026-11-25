@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-25T00:36:13.687Z",
+  "timestamp": "2026-11-25T00:51:55.097Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -50,22 +50,16 @@
       "started_at": "2026-11-24T23:01:00Z"
     },
     {
-      "username": "GeoJim2006",
-      "title": "Last Day in the Lab Before Thanksgiving! 🏔️🪨🔬 !discord !nova !tkf",
+      "username": "SydHeresy",
+      "title": "Tayda Part Are In! Let's Solder! Maybe More KiCAD Later!",
       "game": "Science & Technology",
-      "started_at": "2026-11-24T21:35:10Z"
+      "started_at": "2026-11-24T19:00:02Z"
     },
     {
       "username": "pencenter",
       "title": "Linear Algebra: Equivalent Statements & other items [!fish🎣|!commands💻]",
       "game": "Math",
       "started_at": "2026-11-24T23:01:08Z"
-    },
-    {
-      "username": "SydHeresy",
-      "title": "Tayda Part Are In! Let's Solder! Maybe More KiCAD Later!",
-      "game": "Science & Technology",
-      "started_at": "2026-11-24T19:00:02Z"
     }
   ]
 }
