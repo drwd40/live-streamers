@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-25T18:38:55.736Z",
+  "timestamp": "2026-11-25T18:44:27.309Z",
   "live": [
     {
       "username": "Kitboga",
@@ -26,10 +26,22 @@
       "started_at": "2026-11-25T10:04:28Z"
     },
     {
+      "username": "Moohoodles",
+      "title": "🪐 ESA Hera first images! ✨ EarlyMoo Astrobiology & Space News!",
+      "game": "Science & Technology",
+      "started_at": "2026-11-25T18:39:25Z"
+    },
+    {
       "username": "VolcanoDoc",
       "title": "climate change science | Intro to Earth Science Series | !phd !socials !pubs !merch",
       "game": "Science & Technology",
       "started_at": "2026-11-25T18:07:12Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀Few playtests before release! (RTS Major Update coming soon™)!  | !category !jj | !rop !patreon !discord",
+      "game": "Software and Game Development",
+      "started_at": "2026-11-25T18:41:51Z"
     }
   ]
 }
