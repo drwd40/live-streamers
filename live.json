@@ -1,11 +1,23 @@
 {
-  "timestamp": "2026-11-26T20:23:27.047Z",
+  "timestamp": "2026-11-26T20:28:56.715Z",
   "live": [
     {
       "username": "AlveusSanctuary",
       "title": "Animal Ambassador 24/7 Live Cams | !alveus !institute !pixel !schedule !video",
       "game": "Animals, Aquariums, and Zoos",
       "started_at": "2026-11-25T14:10:28Z"
+    },
+    {
+      "username": "Paleontologizing",
+      "title": "🦖➡🦃 THEROPODSGIVING 🦖➡🦃 Giving thanks for the dinosaurian ancestry of birds (w/ paleontologist Danny Anduza) 🦃 !turkey",
+      "game": "Science & Technology",
+      "started_at": "2026-11-26T20:16:01Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀RTS Major Update Has Dropped!  | !category !jj | !rop !patreon !discord",
+      "game": "Software and Game Development",
+      "started_at": "2026-11-26T19:21:44Z"
     },
     {
       "username": "Zachap",
@@ -18,18 +30,6 @@
       "title": "Mental Health Chat + Painting 40k",
       "game": "Miniatures & Models",
       "started_at": "2026-11-26T19:58:03Z"
-    },
-    {
-      "username": "IrishJohnGames",
-      "title": "🍀RTS Major Update Has Dropped!  | !category !jj | !rop !patreon !discord",
-      "game": "Software and Game Development",
-      "started_at": "2026-11-26T19:21:44Z"
-    },
-    {
-      "username": "Paleontologizing",
-      "title": "🦖➡🦃 THEROPODSGIVING 🦖➡🦃 Giving thanks for the dinosaurian ancestry of birds (w/ paleontologist Danny Anduza) 🦃 !turkey",
-      "game": "Science & Technology",
-      "started_at": "2026-11-26T20:16:01Z"
     }
   ]
 }
