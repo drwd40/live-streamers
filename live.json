@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-26T19:16:20.061Z",
+  "timestamp": "2026-11-26T19:22:38.963Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "vegan streamer tries to be nice",
       "game": "Just Chatting",
       "started_at": "2026-11-26T10:02:36Z"
+    },
+    {
+      "username": "IrishJohnGames",
+      "title": "🍀RTS Major Update Has Dropped!  | !category !jj | !rop !patreon !discord",
+      "game": "Software and Game Development",
+      "started_at": "2026-11-26T19:21:44Z"
     }
   ]
 }
