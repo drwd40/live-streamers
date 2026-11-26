@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-26T01:22:00.654Z",
+  "timestamp": "2026-11-26T01:27:37.428Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -32,16 +32,16 @@
       "started_at": "2026-11-25T21:30:16Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "Line Integrals; Cracking the GRE Math Subject Test, Night 051 - 20261125",
-      "game": "Math",
-      "started_at": "2026-11-25T23:37:39Z"
-    },
-    {
       "username": "DonFactorial",
       "title": "Battle royale, keeping the lobby warm for everyone else",
       "game": "DayZ",
       "started_at": "2026-11-25T21:54:28Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "Line Integrals; Cracking the GRE Math Subject Test, Night 051 - 20261125",
+      "game": "Math",
+      "started_at": "2026-11-25T23:37:39Z"
     }
   ]
 }
