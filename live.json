@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-27T20:30:17.848Z",
+  "timestamp": "2026-11-27T20:36:56.484Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,12 +20,6 @@
       "started_at": "2026-11-27T17:14:24Z"
     },
     {
-      "username": "oh_bother",
-      "title": "Eurorack: Side panels and power supplies!",
-      "game": "Science & Technology",
-      "started_at": "2026-11-27T17:33:32Z"
-    },
-    {
       "username": "DrWD40",
       "title": "Harvesting Fall Honey! 🍯 | Live Backyard Beekeeping | Space Coast, FL",
       "game": "IRL",
@@ -36,6 +30,12 @@
       "title": "respects your potential to learn instead of just laugh and cry",
       "game": "Just Chatting",
       "started_at": "2026-11-27T10:02:50Z"
+    },
+    {
+      "username": "oh_bother",
+      "title": "Eurorack: Side panels and power supplies!",
+      "game": "Science & Technology",
+      "started_at": "2026-11-27T17:33:32Z"
     }
   ]
 }
