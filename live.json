@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-27T12:30:15.733Z",
+  "timestamp": "2026-11-27T12:39:34.613Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -12,6 +12,12 @@
       "title": "respects your potential to learn instead of just laugh and cry",
       "game": "Just Chatting",
       "started_at": "2026-11-27T10:02:50Z"
+    },
+    {
+      "username": "Andilippi",
+      "title": "StreamUP 3.0 first look + chatting OBS | Play WoW in chat: !char then !dice all | !commands | !sando £56/£1,000",
+      "game": "Software and Game Development",
+      "started_at": "2026-11-27T12:35:33Z"
     }
   ]
 }
