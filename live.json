@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-27T17:12:45.706Z",
+  "timestamp": "2026-11-27T17:18:59.853Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -18,6 +18,12 @@
       "title": "WoW Forever Day 11: No Backing Down | Play WoW in chat: !char then !dice all | !commands | !sando £56/£1,000",
       "game": "World of Warcraft",
       "started_at": "2026-11-27T12:35:33Z"
+    },
+    {
+      "username": "ipaintbirbs",
+      "title": "chilly cozy windy friday with the birds",
+      "game": "Art",
+      "started_at": "2026-11-27T17:14:24Z"
     }
   ]
 }
