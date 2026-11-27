@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-27T04:59:42.854Z",
+  "timestamp": "2026-11-27T05:12:52.627Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,12 +20,6 @@
       "started_at": "2026-11-27T01:59:15Z"
     },
     {
-      "username": "AstroCanuck",
-      "title": "Astro's Po'Pourri: Hubble Space Telescope LEGO & Learning | !continental - Plus Program 2/3 Completed - !subtember T3 Minifig | !drop !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-11-27T00:52:45Z"
-    },
-    {
       "username": "SydHeresy",
       "title": "Electronic Tryptophan Based Stream - Soldering KiCAD Vibez",
       "game": "Science & Technology",
@@ -36,6 +30,12 @@
       "title": "Art appreciation of \"Sketches.\" The Cross of Gold meme, and 6G, ISAC, and privacy.",
       "game": "Science & Technology",
       "started_at": "2026-11-27T02:31:03Z"
+    },
+    {
+      "username": "DrMick",
+      "title": "Feast of Dr. Mick's LEAST Favorite Foods",
+      "game": "Special Events",
+      "started_at": "2026-11-27T05:08:33Z"
     }
   ]
 }
