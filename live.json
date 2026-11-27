@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-27T17:18:59.853Z",
+  "timestamp": "2026-11-27T17:24:45.412Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -8,22 +8,16 @@
       "started_at": "2026-11-27T14:10:30Z"
     },
     {
-      "username": "Zachap",
-      "title": "respects your potential to learn instead of just laugh and cry",
-      "game": "Just Chatting",
-      "started_at": "2026-11-27T10:02:50Z"
-    },
-    {
-      "username": "Andilippi",
-      "title": "WoW Forever Day 11: No Backing Down | Play WoW in chat: !char then !dice all | !commands | !sando £56/£1,000",
-      "game": "World of Warcraft",
-      "started_at": "2026-11-27T12:35:33Z"
-    },
-    {
       "username": "ipaintbirbs",
       "title": "chilly cozy windy friday with the birds",
       "game": "Art",
       "started_at": "2026-11-27T17:14:24Z"
+    },
+    {
+      "username": "Zachap",
+      "title": "respects your potential to learn instead of just laugh and cry",
+      "game": "Just Chatting",
+      "started_at": "2026-11-27T10:02:50Z"
     }
   ]
 }
