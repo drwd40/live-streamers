@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-27T02:30:14.295Z",
+  "timestamp": "2026-11-27T02:37:52.492Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -36,6 +36,12 @@
       "title": "BGS getting me to do murders! Elite: Dangerous, Night 0071 - 20261126",
       "game": "Elite: Dangerous",
       "started_at": "2026-11-26T22:44:50Z"
+    },
+    {
+      "username": "walkingsticklibrary",
+      "title": "Art appreciation of \"Sketches.\" The Cross of Gold meme, and 6G, ISAC, and privacy.",
+      "game": "Science & Technology",
+      "started_at": "2026-11-27T02:31:03Z"
     }
   ]
 }
