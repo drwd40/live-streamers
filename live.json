@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-27T22:39:56.580Z",
+  "timestamp": "2026-11-27T22:45:38.068Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,16 +20,16 @@
       "started_at": "2026-11-27T10:02:50Z"
     },
     {
-      "username": "nSimplexPachinko",
-      "title": "I went to a conference! Math Communication on a Friday?? - 20261127",
-      "game": "Math",
-      "started_at": "2026-11-27T22:07:08Z"
-    },
-    {
       "username": "DonFactorial",
       "title": "I wish the aliens sent pizza instead of an asteroid [day 4]",
       "game": "The Message From Deep Space",
       "started_at": "2026-11-27T21:32:54Z"
+    },
+    {
+      "username": "nSimplexPachinko",
+      "title": "I went to a conference! Math Communication on a Friday?? - 20261127",
+      "game": "Math",
+      "started_at": "2026-11-27T22:07:08Z"
     }
   ]
 }
