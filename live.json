@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-27T05:12:52.627Z",
+  "timestamp": "2026-11-27T05:20:44.273Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,6 +20,12 @@
       "started_at": "2026-11-27T01:59:15Z"
     },
     {
+      "username": "DrMick",
+      "title": "Feast of Dr. Mick's LEAST Favorite Foods",
+      "game": "Special Events",
+      "started_at": "2026-11-27T05:08:33Z"
+    },
+    {
       "username": "SydHeresy",
       "title": "Electronic Tryptophan Based Stream - Soldering KiCAD Vibez",
       "game": "Science & Technology",
@@ -30,12 +36,6 @@
       "title": "Art appreciation of \"Sketches.\" The Cross of Gold meme, and 6G, ISAC, and privacy.",
       "game": "Science & Technology",
       "started_at": "2026-11-27T02:31:03Z"
-    },
-    {
-      "username": "DrMick",
-      "title": "Feast of Dr. Mick's LEAST Favorite Foods",
-      "game": "Special Events",
-      "started_at": "2026-11-27T05:08:33Z"
     }
   ]
 }
