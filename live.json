@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-27T22:56:38.717Z",
+  "timestamp": "2026-11-27T23:04:55.520Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -20,6 +20,12 @@
       "started_at": "2026-11-27T10:02:50Z"
     },
     {
+      "username": "JapanesePrintmaking",
+      "title": "Making Japanese woodblock prints ... live while you watch ...",
+      "game": "Makers & Crafting",
+      "started_at": "2026-11-27T22:59:53Z"
+    },
+    {
       "username": "nSimplexPachinko",
       "title": "I went to a conference! Math Communication on a Friday?? - 20261127",
       "game": "Math",
@@ -30,6 +36,12 @@
       "title": "I wish the aliens sent pizza instead of an asteroid [day 4]",
       "game": "The Message From Deep Space",
       "started_at": "2026-11-27T21:32:54Z"
+    },
+    {
+      "username": "shnaff",
+      "title": "Chill guitar, piano, and singing in !stereo🎧",
+      "game": "Music",
+      "started_at": "2026-11-27T23:00:37Z"
     }
   ]
 }
