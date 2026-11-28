@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-28T00:47:18.218Z",
+  "timestamp": "2026-11-28T00:54:19.122Z",
   "live": [
     {
       "username": "AlveusSanctuary",
@@ -14,16 +14,16 @@
       "started_at": "2026-11-27T17:26:56Z"
     },
     {
-      "username": "AstroCanuck",
-      "title": "MOVEMBER FUNDRAISER with @matt_the_mo_bro !mo !menu | !continental - Plus Program 2/3 Completed - !subtember T3 Minifig | !drop !tkf",
-      "game": "Science & Technology",
-      "started_at": "2026-11-28T00:07:10Z"
-    },
-    {
       "username": "Zachap",
       "title": "respects your potential to learn instead of just laugh and cry",
       "game": "Just Chatting",
       "started_at": "2026-11-27T10:02:50Z"
+    },
+    {
+      "username": "AstroCanuck",
+      "title": "MOVEMBER FUNDRAISER with @matt_the_mo_bro !mo !menu | !continental - Plus Program 2/3 Completed - !subtember T3 Minifig | !drop !tkf",
+      "game": "Science & Technology",
+      "started_at": "2026-11-28T00:07:10Z"
     },
     {
       "username": "shnaff",
@@ -38,16 +38,16 @@
       "started_at": "2026-11-28T00:02:12Z"
     },
     {
-      "username": "DonFactorial",
-      "title": "I wish the aliens sent pizza instead of an asteroid [day 4]",
-      "game": "The Message From Deep Space",
-      "started_at": "2026-11-27T21:32:54Z"
-    },
-    {
       "username": "nSimplexPachinko",
       "title": "I went to a conference! Math Communication on a Friday?? - 20261127",
       "game": "Math",
       "started_at": "2026-11-27T22:07:08Z"
+    },
+    {
+      "username": "DonFactorial",
+      "title": "I wish the aliens sent pizza instead of an asteroid [day 4]",
+      "game": "The Message From Deep Space",
+      "started_at": "2026-11-27T21:32:54Z"
     }
   ]
 }
